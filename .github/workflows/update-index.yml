@@ -1,0 +1,73 @@
+name: Update index.json
+
+# Refresh index.json whenever a date directory changes. The default GITHUB_TOKEN
+# does NOT retrigger workflows, so the auto-commit below cannot loop.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '20*/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-index
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Generate index.json
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          root = Path(".")
+          index = {}
+          for d in sorted(root.iterdir()):
+              if not d.is_dir() or not d.name[:4].isdigit():
+                  continue
+              files = []
+              for f in sorted(d.iterdir()):
+                  if f.is_file() and not f.name.startswith("."):
+                      files.append({
+                          "name": f.name,
+                          "url": f"{d.name}/{f.name}",
+                          "size": f.stat().st_size,
+                      })
+              if files:
+                  index[d.name] = files
+
+          payload = {
+              "dates": sorted(index.keys(), reverse=True),
+              "reports": index,
+              "updated_at": datetime.now(timezone.utc).isoformat(),
+          }
+          Path("index.json").write_text(
+              json.dumps(payload, ensure_ascii=False, indent=2)
+          )
+          print(f"index: {len(index)} dates, {sum(len(v) for v in index.values())} files")
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          if git diff --cached --quiet; then
+            echo "no change"
+            exit 0
+          fi
+          git commit -m "auto: refresh index.json"
+          git push
