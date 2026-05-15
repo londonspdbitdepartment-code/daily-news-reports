@@ -1,0 +1,982 @@
+version: 1
+generated_at: "2026-05-15T00:00:00Z"
+country: Europe
+date: "2026-05-15"
+total_stories: 9
+stories:
+  - story_id: ecb-economic-bulletin-issue-3-2026
+    category: economy_markets
+    headline_en: ECB Economic Bulletin Issue 3 2026
+    lead_url: "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+    hard_facts:
+      - claim: Publication date of ECB Economic Bulletin Issue 3 2026
+        kind: temporal
+        value: "15 May 2026"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "published 15 May 2026"
+      - claim: Date of Governing Council meeting reflected in bulletin
+        kind: temporal
+        value: "30 April 2026"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "reflects 30 April 2026 Governing Council meeting"
+      - claim: ECB deposit facility rate
+        kind: numerical_with_unit
+        value: "2.00%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "deposit facility 2.00%"
+      - claim: ECB main refinancing operations rate
+        kind: numerical_with_unit
+        value: "2.15%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "MRO 2.15%"
+      - claim: ECB marginal lending facility rate
+        kind: numerical_with_unit
+        value: "2.40%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "marginal lending 2.40%"
+      - claim: Euro area GDP growth Q1 2026
+        kind: numerical_with_unit
+        value: "+0.1%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "Euro area GDP +0.1% Q1 2026 vs +0.2% Q4 2025"
+      - claim: Euro area GDP growth Q4 2025
+        kind: numerical_with_unit
+        value: "+0.2%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "Euro area GDP +0.1% Q1 2026 vs +0.2% Q4 2025"
+      - claim: Q1 2026 reference period
+        kind: temporal
+        value: "Q1 2026"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "Euro area GDP +0.1% Q1 2026 vs +0.2% Q4 2025"
+      - claim: Q4 2025 reference period
+        kind: temporal
+        value: "Q4 2025"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "Euro area GDP +0.1% Q1 2026 vs +0.2% Q4 2025"
+      - claim: Headline HICP April 2026
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "headline HICP 3.0% April 2026 vs 2.6% March"
+      - claim: Headline HICP March 2026
+        kind: numerical_with_unit
+        value: "2.6%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "headline HICP 3.0% April 2026 vs 2.6% March"
+      - claim: Energy inflation April 2026
+        kind: numerical_with_unit
+        value: "10.9%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "energy inflation 10.9% April vs 5.1% March"
+      - claim: Energy inflation March 2026
+        kind: numerical_with_unit
+        value: "5.1%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "energy inflation 10.9% April vs 5.1% March"
+      - claim: Oil price level above pre-conflict
+        kind: numerical_with_unit
+        value: "~67%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "oil ~67% above pre-conflict levels"
+      - claim: European gas price level above pre-war
+        kind: numerical_with_unit
+        value: "~47%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "European gas ~47% above pre-war levels"
+      - claim: Core HICPX inflation
+        kind: numerical_with_unit
+        value: "2.2%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "core HICPX 2.2%"
+      - claim: Food inflation
+        kind: numerical_with_unit
+        value: "2.5%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "food 2.5%"
+      - claim: Composite PMI level
+        kind: numerical
+        value: "<50"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "Composite PMI <50"
+      - claim: Euro area unemployment rate March 2026
+        kind: numerical_with_unit
+        value: "6.2%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "unemployment 6.2% March"
+      - claim: Bank lending to NFCs YoY March 2026
+        kind: numerical_with_unit
+        value: "+3.2%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "bank lending to NFCs +3.2% YoY March"
+      - claim: Staff projection GDP growth 2026
+        kind: numerical_with_unit
+        value: "0.9%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "staff projections GDP 0.9%/1.3%/1.4% (2026/27/28)"
+      - claim: Staff projection GDP growth 2027
+        kind: numerical_with_unit
+        value: "1.3%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "staff projections GDP 0.9%/1.3%/1.4% (2026/27/28)"
+      - claim: Staff projection GDP growth 2028
+        kind: numerical_with_unit
+        value: "1.4%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "staff projections GDP 0.9%/1.3%/1.4% (2026/27/28)"
+      - claim: Staff projection HICP inflation 2026
+        kind: numerical_with_unit
+        value: "2.6%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "HICP 2.6%/2.0%/2.1%"
+      - claim: Staff projection HICP inflation 2027
+        kind: numerical_with_unit
+        value: "2.0%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "HICP 2.6%/2.0%/2.1%"
+      - claim: Staff projection HICP inflation 2028
+        kind: numerical_with_unit
+        value: "2.1%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "HICP 2.6%/2.0%/2.1%"
+      - claim: 10-year GDP-weighted euro area sovereign yield
+        kind: numerical_with_unit
+        value: "~3.3%"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "10y GDP-weighted euro area sovereign yield ~3.3% +15bp"
+      - claim: Change in 10-year GDP-weighted euro area sovereign yield
+        kind: numerical_with_unit
+        value: "+15bp"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "10y GDP-weighted euro area sovereign yield ~3.3% +15bp"
+      - claim: ECB Governing Council institution
+        kind: named_institution
+        value: "Governing Council"
+        source_urls:
+          - "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        verbatim_excerpt: "reflects 30 April 2026 Governing Council meeting"
+    quotes:
+      - speaker_name: ECB
+        speaker_title: European Central Bank
+        verbatim_en: "remains well positioned to navigate the current uncertainty"
+        source_url: "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        context: "ECB Economic Bulletin Issue 3 2026, published 15 May 2026"
+      - speaker_name: ECB
+        speaker_title: European Central Bank
+        verbatim_en: "data-dependent and meeting-by-meeting approach"
+        source_url: "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        context: "ECB Economic Bulletin Issue 3 2026, published 15 May 2026"
+      - speaker_name: ECB
+        speaker_title: European Central Bank
+        verbatim_en: "not pre-committing to a particular rate path"
+        source_url: "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        context: "ECB Economic Bulletin Issue 3 2026, published 15 May 2026"
+      - speaker_name: ECB
+        speaker_title: European Central Bank
+        verbatim_en: "The euro area economy was showing some momentum when the current turbulence started."
+        source_url: "https://www.ecb.europa.eu/press/economic-bulletin/html/eb202603.en.html"
+        context: "ECB Economic Bulletin Issue 3 2026, published 15 May 2026"
+
+  - story_id: merz-rejects-draghi-style-common-eu-debt
+    category: economy_markets
+    headline_en: Merz rejects Draghi-style common EU debt
+    lead_url: "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+    hard_facts:
+      - claim: Date of Merz speech at Aachen Cathedral
+        kind: temporal
+        value: "15 May 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Merz speech at Aachen Cathedral 15 May 2026"
+      - claim: Named person — Friedrich Merz
+        kind: named_person
+        value: "Merz"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Merz speech at Aachen Cathedral 15 May 2026"
+      - claim: Named person — Mario Draghi
+        kind: named_person
+        value: "Draghi"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Draghi received 2026 International Charlemagne Prize"
+      - claim: Award received by Draghi
+        kind: named_product
+        value: "2026 International Charlemagne Prize"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Draghi received 2026 International Charlemagne Prize"
+      - claim: Draghi 2024 competitiveness report annual additional investment figure
+        kind: numerical_with_unit
+        value: "€800bn"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Draghi 2024 competitiveness report: €800bn annual additional investment via joint borrowing"
+      - claim: Year of Draghi competitiveness report
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Draghi 2024 competitiveness report"
+      - claim: EU next MFF period
+        kind: temporal
+        value: "2028-2034"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "EU next MFF 2028-2034 to be discussed at European Council 18-19 June 2026"
+      - claim: Date of European Council MFF discussion
+        kind: temporal
+        value: "18-19 June 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "EU next MFF 2028-2034 to be discussed at European Council 18-19 June 2026"
+      - claim: Parliament demand above Commission MFF baseline
+        kind: numerical_with_unit
+        value: "+€200bn"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Parliament demands +€200bn above Commission baseline €1.8tn"
+      - claim: Commission MFF baseline
+        kind: numerical_with_unit
+        value: "€1.8tn"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Parliament demands +€200bn above Commission baseline €1.8tn"
+      - claim: Date of Parliament MFF mandate vote
+        kind: temporal
+        value: "18 May 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Parliament MFF mandate vote 18 May 2026"
+      - claim: Named institution — Jacques Delors Institute
+        kind: named_institution
+        value: "Jacques Delors Institute"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Eulàlia Rubio (Jacques Delors Institute)"
+      - claim: Named person — Eulàlia Rubio
+        kind: named_person
+        value: "Eulàlia Rubio"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        verbatim_excerpt: "Eulàlia Rubio (Jacques Delors Institute)"
+    quotes:
+      - speaker_name: Friedrich Merz
+        speaker_title: German Chancellor
+        verbatim_en: "Some now believe we can evade this painful task by taking on new debt, European debt, by financing regular spending through debt. Germany cannot follow this path for constitutional reasons alone."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        context: "Speech at Aachen Cathedral, 15 May 2026, Charlemagne Prize ceremony"
+      - speaker_name: Friedrich Merz
+        speaker_title: German Chancellor
+        verbatim_en: "Excessive debt threatens sovereignty and limits our ability to act"
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        context: "Speech at Aachen Cathedral, 15 May 2026, Charlemagne Prize ceremony"
+      - speaker_name: Friedrich Merz
+        speaker_title: German Chancellor
+        verbatim_en: "some countries spend more on interest than defence"
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        context: "Speech at Aachen Cathedral, 15 May 2026, Charlemagne Prize ceremony"
+      - speaker_name: Eulàlia Rubio
+        speaker_title: Researcher, Jacques Delors Institute
+        verbatim_en: "We are in a moment of changing priorities and a changing environment for the union."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/merz-doubles-down-on-opposition-to-draghi-style-common-debt-proposal"
+        context: "Comment on EU MFF negotiations, 15 May 2026"
+
+  - story_id: greece-q1-2026-primary-budget-surplus
+    category: economy_markets
+    headline_en: Greece Q1 2026 primary budget surplus
+    lead_url: "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+    hard_facts:
+      - claim: Greece Q1 2026 primary surplus
+        kind: numerical_with_unit
+        value: "€5.175bn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "Q1 2026 primary surplus €5.175bn vs €2.298bn target"
+      - claim: Greece Q1 2026 primary surplus target
+        kind: numerical_with_unit
+        value: "€2.298bn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "Q1 2026 primary surplus €5.175bn vs €2.298bn target"
+      - claim: Greece Q1 2025 primary surplus
+        kind: numerical_with_unit
+        value: "€5.148bn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "Q1 2025 surplus €5.148bn"
+      - claim: Recovery Fund advance amount
+        kind: numerical_with_unit
+        value: "€884mn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "Recovery Fund advance €884mn (originally scheduled June)"
+      - claim: EIF additional funding amount
+        kind: numerical_with_unit
+        value: "€461mn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "EIF additional €461mn"
+      - claim: Adjusted overshoot amount
+        kind: numerical_with_unit
+        value: "~€358mn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "adjusted overshoot ~€358mn"
+      - claim: Jan-Apr net state revenues
+        kind: numerical_with_unit
+        value: "€25.165bn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "Jan-Apr net state revenues €25.165bn"
+      - claim: Tax revenues Jan-Apr
+        kind: numerical_with_unit
+        value: "€22.743bn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "tax revenues €22.743bn"
+      - claim: Payments Jan-Apr
+        kind: numerical_with_unit
+        value: "€23.287bn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "payments €23.287bn"
+      - claim: Investment expenditure Jan-Apr
+        kind: numerical_with_unit
+        value: "€2.938bn"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "investment expenditure €2.938bn"
+      - claim: Egnatia Highway concession duration
+        kind: numerical_with_unit
+        value: "35-year concession"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "Egnatia Highway 35-year concession"
+      - claim: Named institution — European Investment Fund
+        kind: named_institution
+        value: "EIF"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "EIF additional €461mn"
+      - claim: Named product — Egnatia Highway
+        kind: named_product
+        value: "Egnatia Highway"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "Egnatia Highway 35-year concession"
+      - claim: Named product — Elliniko casino
+        kind: named_product
+        value: "Elliniko casino"
+        source_urls:
+          - "https://www.euronews.com/business/2026/05/15/greeces-budget-surplus-of-5bn-blows-past-forecasts-in-first-quarter-of-2026"
+        verbatim_excerpt: "Elliniko casino proceeds"
+    quotes: []
+
+  - story_id: 36-countries-sign-special-tribunal
+    category: politics_diplomacy
+    headline_en: 36 countries sign Special Tribunal to prosecute Vladimir Putin
+    lead_url: "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+    hard_facts:
+      - claim: Date of Council of Europe annual ministerial in Chisinau
+        kind: temporal
+        value: "15 May 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "Council of Europe annual ministerial in Chisinau, Moldova on 15 May 2026"
+      - claim: Number of signatories to Special Tribunal
+        kind: numerical
+        value: "36"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "36 signatories"
+      - claim: Named institution — Council of Europe
+        kind: named_institution
+        value: "Council of Europe"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "Council of Europe annual ministerial in Chisinau, Moldova on 15 May 2026"
+      - claim: Location of Ministerial meeting
+        kind: named_institution
+        value: "Chisinau, Moldova"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "Council of Europe annual ministerial in Chisinau, Moldova on 15 May 2026"
+      - claim: Special Tribunal headquarters location
+        kind: named_institution
+        value: "The Hague"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "HQ in The Hague"
+      - claim: EU initial funding for Special Tribunal
+        kind: numerical_with_unit
+        value: "EU €10mn"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "EU €10mn initial funding"
+      - claim: Named person — Vladimir Putin (target of tribunal)
+        kind: named_person
+        value: "Vladimir Putin"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "36 countries join Special Tribunal to prosecute Vladimir Putin"
+      - claim: Named person — Andrii Sybiha
+        kind: named_person
+        value: "Andrii Sybiha"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "Andrii Sybiha (Ukraine FM)"
+      - claim: Named person — Alain Berset
+        kind: named_person
+        value: "Alain Berset"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "Alain Berset (Council of Europe SG)"
+      - claim: EU member non-signatories
+        kind: named_institution
+        value: "Bulgaria, Hungary, Malta, Slovakia"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        verbatim_excerpt: "non-signers among EU: Bulgaria, Hungary, Malta, Slovakia"
+    quotes:
+      - speaker_name: Andrii Sybiha
+        speaker_title: Foreign Minister of Ukraine
+        verbatim_en: "The Special Tribunal becomes a legal reality. Very few believed this day would come. But it did."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        context: "Council of Europe Ministerial, Chisinau, 15 May 2026"
+      - speaker_name: Alain Berset
+        speaker_title: Secretary General, Council of Europe
+        verbatim_en: "The time for Russia to be held to account for its aggression is fast approaching."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/point-of-no-return-36-countries-join-special-tribunal-to-prosecute-vladimir-putin"
+        context: "Council of Europe Ministerial, Chisinau, 15 May 2026"
+
+  - story_id: russia-675-drone-56-missile-barrage-ukraine
+    category: politics_diplomacy
+    headline_en: Russia 675-drone 56-missile barrage on Ukraine
+    lead_url: "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+    hard_facts:
+      - claim: Number of attack drones launched
+        kind: numerical_with_unit
+        value: "675 attack drones"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "675 attack drones + 56 missiles"
+      - claim: Number of missiles launched
+        kind: numerical_with_unit
+        value: "56 missiles"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "675 attack drones + 56 missiles"
+      - claim: Drones downed by Ukrainian air defence
+        kind: numerical_with_unit
+        value: "652 drones"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Ukrainian AD downed 652 drones + 41 missiles"
+      - claim: Missiles downed by Ukrainian air defence
+        kind: numerical_with_unit
+        value: "41 missiles"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Ukrainian AD downed 652 drones + 41 missiles"
+      - claim: Total killed in Russian attack on Ukraine
+        kind: numerical
+        value: "24"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "24 killed"
+      - claim: Darnytsia building storeys
+        kind: numerical
+        value: "9-storey"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Darnytsia 9-storey building collapse, all 18 apartments destroyed, 9 dead including 12-year-old girl, ~20 missing"
+      - claim: Apartments destroyed in Darnytsia building
+        kind: numerical
+        value: "18"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Darnytsia 9-storey building collapse, all 18 apartments destroyed, 9 dead including 12-year-old girl, ~20 missing"
+      - claim: Dead in Darnytsia building collapse
+        kind: numerical
+        value: "9"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Darnytsia 9-storey building collapse, all 18 apartments destroyed, 9 dead including 12-year-old girl, ~20 missing"
+      - claim: Age of child killed in Darnytsia collapse
+        kind: numerical_with_unit
+        value: "12-year-old girl"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "9 dead including 12-year-old girl, ~20 missing"
+      - claim: Persons missing in Darnytsia collapse
+        kind: numerical_with_unit
+        value: "~20 missing"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "~20 missing"
+      - claim: Dead in Russian retaliation strikes
+        kind: numerical
+        value: "3"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Ukrainian retaliation: 3 dead 12+ injured in Russia"
+      - claim: Injured in Russian retaliation strikes
+        kind: numerical_with_unit
+        value: "12+"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Ukrainian retaliation: 3 dead 12+ injured in Russia"
+      - claim: Named institution — Ryazan oil refinery
+        kind: named_institution
+        value: "Ryazan oil refinery"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "fire at Ryazan oil refinery"
+      - claim: Named person — Ursula von der Leyen
+        kind: named_person
+        value: "Ursula von der Leyen"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Ursula von der Leyen: \"Another night of death and destruction. And the indiscriminate targeting of civilians.\""
+      - claim: Named person — Emmanuel Macron
+        kind: named_person
+        value: "Emmanuel Macron"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Emmanuel Macron: \"By bombing civilians, Russia demonstrates less its strength than its weakness.\""
+      - claim: Named person — Friedrich Merz
+        kind: named_person
+        value: "Friedrich Merz"
+        source_urls:
+          - "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        verbatim_excerpt: "Friedrich Merz: \"Moscow is choosing escalation over negotiation.\""
+    quotes:
+      - speaker_name: Ursula von der Leyen
+        speaker_title: President, European Commission
+        verbatim_en: "Another night of death and destruction. And the indiscriminate targeting of civilians."
+        source_url: "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        context: "Response to Russian mass drone and missile attack on Ukraine, 15 May 2026"
+      - speaker_name: Emmanuel Macron
+        speaker_title: President of France
+        verbatim_en: "By bombing civilians, Russia demonstrates less its strength than its weakness."
+        source_url: "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        context: "Response to Russian mass drone and missile attack on Ukraine, 15 May 2026"
+      - speaker_name: Friedrich Merz
+        speaker_title: German Chancellor
+        verbatim_en: "Moscow is choosing escalation over negotiation."
+        source_url: "https://www.euronews.com/2026/05/15/death-toll-from-large-scale-russian-attack-that-slammed-ukraine-rises-to-24"
+        context: "Response to Russian mass drone and missile attack on Ukraine, 15 May 2026"
+
+  - story_id: latvia-pm-silina-resigns
+    category: politics_diplomacy
+    headline_en: Latvia PM Siliņa resigns
+    lead_url: "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+    hard_facts:
+      - claim: Named person — Evika Siliņa
+        kind: named_person
+        value: "Evika Siliņa"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        verbatim_excerpt: "PM Evika Siliņa resigned 14 May 2026"
+      - claim: Date of PM Siliņa resignation
+        kind: temporal
+        value: "14 May 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        verbatim_excerpt: "PM Evika Siliņa resigned 14 May 2026"
+      - claim: Date of drone incursion incident
+        kind: temporal
+        value: "7 May"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        verbatim_excerpt: "7 May incident: 2 suspected Ukrainian drones (misrouted in strike on Russian oil infra) crossed into Latvia"
+      - claim: Number of suspected drones crossing into Latvia
+        kind: numerical
+        value: "2"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        verbatim_excerpt: "7 May incident: 2 suspected Ukrainian drones (misrouted in strike on Russian oil infra) crossed into Latvia"
+      - claim: Delay in mobile warnings
+        kind: temporal
+        value: "~1 hour late"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        verbatim_excerpt: "mobile warnings issued ~1 hour late"
+      - claim: Named person — Andris Sprūds
+        kind: named_person
+        value: "Andris Sprūds"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        verbatim_excerpt: "Defence Minister Andris Sprūds resigned over AD failure"
+      - claim: Named institution — Progressives Party
+        kind: named_institution
+        value: "Progressives Party"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        verbatim_excerpt: "Progressives Party (junior left coalition partner) withdrew leaving no majority"
+      - claim: Date of Latvia general elections
+        kind: temporal
+        value: "October 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        verbatim_excerpt: "general elections October 2026"
+    quotes:
+      - speaker_name: Evika Siliņa
+        speaker_title: Prime Minister of Latvia (resigned)
+        verbatim_en: "I am resigning, but I am not giving up."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now"
+        context: "Resignation statement, 14 May 2026"
+
+  - story_id: eu-budget-could-shrink-civil-society-ngo-funding
+    category: politics_diplomacy
+    headline_en: EU budget could shrink civil society/NGO funding
+    lead_url: "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+    hard_facts:
+      - claim: MFF total envelope
+        kind: numerical_with_unit
+        value: "€1.8tn"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "€1.8tn 2028-2034 MFF proposal"
+      - claim: MFF period
+        kind: temporal
+        value: "2028-2034"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "€1.8tn 2028-2034 MFF proposal"
+      - claim: Number of programmes consolidated from
+        kind: numerical
+        value: "52"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "consolidates from 52 programmes to 16"
+      - claim: Number of programmes consolidated to
+        kind: numerical
+        value: "16"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "consolidates from 52 programmes to 16"
+      - claim: Named product — AgoraEU programme
+        kind: named_product
+        value: "AgoraEU"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "new AgoraEU programme merges CERV + Creative Europe with €8.58bn envelope"
+      - claim: AgoraEU programme envelope
+        kind: numerical_with_unit
+        value: "€8.58bn"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "new AgoraEU programme merges CERV + Creative Europe with €8.58bn envelope"
+      - claim: Named product — CERV programme (merged into AgoraEU)
+        kind: named_product
+        value: "CERV"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "new AgoraEU programme merges CERV + Creative Europe with €8.58bn envelope"
+      - claim: Named product — Creative Europe programme (merged into AgoraEU)
+        kind: named_product
+        value: "Creative Europe"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "new AgoraEU programme merges CERV + Creative Europe with €8.58bn envelope"
+      - claim: ESF+ successor social earmark — current level
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "ESF+ successor social earmark drops from 25% to 14%"
+      - claim: ESF+ successor social earmark — proposed new level
+        kind: numerical_with_unit
+        value: "14%"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "ESF+ successor social earmark drops from 25% to 14%"
+      - claim: EU Fundamental Rights Agency report date
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "EU Fundamental Rights Agency March 2026 report: 75% of CSOs face barriers"
+      - claim: Share of CSOs facing barriers (EU Fundamental Rights Agency)
+        kind: numerical_with_unit
+        value: "75%"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "EU Fundamental Rights Agency March 2026 report: 75% of CSOs face barriers"
+      - claim: Parliament push for AgoraEU envelope
+        kind: numerical_with_unit
+        value: "€10.72bn"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "Parliament pushes AgoraEU to €10.72bn (+25%)"
+      - claim: Parliament increase percentage for AgoraEU
+        kind: numerical_with_unit
+        value: "+25%"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "Parliament pushes AgoraEU to €10.72bn (+25%)"
+      - claim: Date of Parliament MFF mandate vote
+        kind: temporal
+        value: "18 May 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "Parliament MFF mandate vote 18 May 2026"
+      - claim: Named institution — EU Fundamental Rights Agency
+        kind: named_institution
+        value: "EU Fundamental Rights Agency"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "EU Fundamental Rights Agency March 2026 report: 75% of CSOs face barriers"
+      - claim: Named institution — Bruegel
+        kind: named_institution
+        value: "Bruegel"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "Zsolt Darvas (Bruegel)"
+      - claim: Named person — Zsolt Darvas
+        kind: named_person
+        value: "Zsolt Darvas"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "Zsolt Darvas (Bruegel): \"The EU budget spends only about 1% of EU GDP, while member states spend almost half.\""
+      - claim: Named person — Eulàlia Rubio
+        kind: named_person
+        value: "Eulàlia Rubio"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        verbatim_excerpt: "Eulàlia Rubio (Jacques Delors Institute)"
+    quotes:
+      - speaker_name: Eulàlia Rubio
+        speaker_title: Researcher, Jacques Delors Institute
+        verbatim_en: "We are in a moment of changing priorities and a changing environment for the union."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        context: "Comment on EU MFF 2028-2034 negotiations, 15 May 2026"
+      - speaker_name: Zsolt Darvas
+        speaker_title: Senior Fellow, Bruegel
+        verbatim_en: "The EU budget spends only about 1% of EU GDP, while member states spend almost half."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        context: "Comment on EU MFF 2028-2034 negotiations, 15 May 2026"
+      - speaker_name: Eulàlia Rubio
+        speaker_title: Researcher, Jacques Delors Institute
+        verbatim_en: "There is a misleading approach of saying we have to control who receives the money."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/could-the-eus-next-budget-shrink-civil-society-and-ngos"
+        context: "Comment on EU MFF civil society funding provisions, 15 May 2026"
+
+  - story_id: helsinki-airport-drone-alert
+    category: tech_industry
+    headline_en: Helsinki Airport drone alert
+    lead_url: "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+    hard_facts:
+      - claim: Duration of flight suspension at Helsinki Airport
+        kind: temporal
+        value: "~3h"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "all flights suspended ~3h between 4:00 AM and 7:00 AM local 15 May 2026"
+      - claim: Start time of flight suspension
+        kind: temporal
+        value: "4:00 AM"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "all flights suspended ~3h between 4:00 AM and 7:00 AM local 15 May 2026"
+      - claim: End time of flight suspension
+        kind: temporal
+        value: "7:00 AM"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "all flights suspended ~3h between 4:00 AM and 7:00 AM local 15 May 2026"
+      - claim: Date of Helsinki Airport drone alert
+        kind: temporal
+        value: "15 May 2026"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "all flights suspended ~3h between 4:00 AM and 7:00 AM local 15 May 2026"
+      - claim: Named institution — Uusimaa region
+        kind: named_institution
+        value: "Uusimaa region"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "Uusimaa region danger alert"
+      - claim: Named product — drone wall system
+        kind: named_product
+        value: "drone wall"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "\"drone wall\" coordinated detection/tracking/intercept system under construction"
+      - claim: Start date of unprecedented NATO airspace incursion levels
+        kind: temporal
+        value: "September 2025"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "NATO airspace incursions reached unprecedented levels since September 2025"
+      - claim: Named person — Petteri Orpo
+        kind: named_person
+        value: "Petteri Orpo"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "PM Petteri Orpo (via X): \"danger in Uusimaa is over.\""
+      - claim: Named institution — NATO
+        kind: named_institution
+        value: "NATO"
+        source_urls:
+          - "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        verbatim_excerpt: "NATO airspace incursions reached unprecedented levels since September 2025"
+    quotes:
+      - speaker_name: Petteri Orpo
+        speaker_title: Prime Minister of Finland
+        verbatim_en: "danger in Uusimaa is over."
+        source_url: "https://www.euronews.com/my-europe/2026/05/15/helsinki-airport-resumes-flights-after-drone-alert-forces-suspension-officials-say"
+        context: "Post on X, 15 May 2026, following Helsinki Airport drone alert"
+
+  - story_id: ebola-outbreak-drc-ituri-province
+    category: society_livelihood
+    headline_en: Ebola outbreak in DRC Ituri province
+    lead_url: "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+    hard_facts:
+      - claim: Date of Africa CDC confirmation of Ebola outbreak
+        kind: temporal
+        value: "15 May 2026"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "Africa CDC confirmed 15 May 2026"
+      - claim: Named institution — Africa CDC
+        kind: named_institution
+        value: "Africa CDC"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "Africa CDC confirmed 15 May 2026"
+      - claim: Province of outbreak
+        kind: named_institution
+        value: "Ituri province"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "Ituri province >1,000 km from Kinshasa"
+      - claim: Distance of Ituri province from Kinshasa
+        kind: numerical_with_unit
+        value: ">1,000 km"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "Ituri province >1,000 km from Kinshasa"
+      - claim: Number of suspected Ebola cases
+        kind: numerical
+        value: "246"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "246 suspected cases"
+      - claim: Number of Ebola deaths
+        kind: numerical
+        value: "65"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "65 deaths"
+      - claim: Lab-confirmed samples out of total tested
+        kind: numerical
+        value: "13 of 20"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "13 of 20 samples lab-confirmed"
+      - claim: Ordinal number of DRC Ebola outbreak since 1976
+        kind: numerical
+        value: "17th"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "17th outbreak in DRC since 1976"
+      - claim: Year of first recorded DRC Ebola outbreak
+        kind: temporal
+        value: "1976"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "17th outbreak in DRC since 1976"
+      - claim: Duration since previous outbreak ended
+        kind: temporal
+        value: "~5 months ago"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "previous outbreak ended ~5 months ago with 43 deaths"
+      - claim: Deaths in previous DRC Ebola outbreak
+        kind: numerical
+        value: "43"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "previous outbreak ended ~5 months ago with 43 deaths"
+      - claim: Period of 2018-2020 North Kivu outbreak
+        kind: temporal
+        value: "2018-2020"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "2018-2020 North Kivu outbreak killed >1,000"
+      - claim: Deaths in 2018-2020 North Kivu Ebola outbreak
+        kind: numerical_with_unit
+        value: ">1,000"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "2018-2020 North Kivu outbreak killed >1,000"
+      - claim: Named person — Jean Kaseya
+        kind: named_person
+        value: "Jean Kaseya"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        verbatim_excerpt: "Africa CDC DG Jean Kaseya"
+    quotes:
+      - speaker_name: Jean Kaseya
+        speaker_title: Director General, Africa CDC
+        verbatim_en: "Given the high population movement between affected areas and neighbouring countries, rapid regional coordination is essential."
+        source_url: "https://www.euronews.com/health/2026/05/15/new-ebola-outbreak-in-remote-congo-province-leaves-65-dead-246-infected"
+        context: "Africa CDC confirmation statement, 15 May 2026, regarding Ituri province Ebola outbreak"
