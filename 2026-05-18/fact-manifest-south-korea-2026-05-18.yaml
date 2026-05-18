@@ -1,0 +1,1265 @@
+version: 1
+generated_at: "2026-05-18T00:00:00Z"
+country: South Korea
+date: "2026-05-18"
+total_stories: 11
+stories:
+
+  - story_id: kospi-volatility-13b-foreign-selloff
+    category: economy_markets
+    headline_en: "KOSPI volatility / $13.2B foreign selloff"
+    lead_url: "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+    hard_facts:
+      - claim: Foreign equity selloff amount prior week
+        kind: numerical_with_unit
+        value: "$13.2B"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "$13.2B foreign equity selloff prior week"
+      - claim: KOSPI Monday decline
+        kind: numerical_with_unit
+        value: "4%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "KOSPI fell up to 4% Monday after 6% Friday decline"
+      - claim: KOSPI Friday decline
+        kind: numerical_with_unit
+        value: "6%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "KOSPI fell up to 4% Monday after 6% Friday decline"
+      - claim: KOSPI 200 futures drop triggering sidecar circuit-breaker
+        kind: numerical_with_unit
+        value: "5%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "\"sidecar\" circuit-breaker triggered when KOSPI 200 futures fell 5%"
+      - claim: KOSPI Volatility Index change Monday
+        kind: numerical_with_unit
+        value: "+2.56%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "KOSPI Volatility Index +2.56% Monday"
+      - claim: Capital withdrawn from emerging Asia ex-China
+        kind: numerical_with_unit
+        value: "~$17B"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "~$17B withdrawn from emerging Asia ex-China (2nd-largest weekly outflow per Goldman Sachs)"
+      - claim: Rank of weekly outflow from emerging Asia ex-China
+        kind: numerical
+        value: "2nd-largest"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "~$17B withdrawn from emerging Asia ex-China (2nd-largest weekly outflow per Goldman Sachs)"
+      - claim: Date KOSPI first breached 8,000
+        kind: temporal
+        value: "May 13 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "KOSPI breached 8,000 first time May 13 2026"
+      - claim: KOSPI 8,000 level breached
+        kind: numerical
+        value: "8,000"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "KOSPI breached 8,000 first time May 13 2026"
+      - claim: Samsung and SK Hynix combined share of KOSPI market cap
+        kind: numerical_with_unit
+        value: "42.2%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "Samsung+SK Hynix = 42.2% KOSPI market cap in May 2026"
+      - claim: Period of Samsung and SK Hynix market cap figure
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "Samsung+SK Hynix = 42.2% KOSPI market cap in May 2026"
+      - claim: Goldman Sachs institution
+        kind: named_institution
+        value: "Goldman Sachs"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "~$17B withdrawn from emerging Asia ex-China (2nd-largest weekly outflow per Goldman Sachs)"
+      - claim: Citigroup institution
+        kind: named_institution
+        value: "Citigroup"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "Citigroup: \"much more overbought than in the U.S.\""
+      - claim: Named product KOSPI 200 futures
+        kind: named_product
+        value: "KOSPI 200 futures"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "\"sidecar\" circuit-breaker triggered when KOSPI 200 futures fell 5%"
+      - claim: Named institution Samsung
+        kind: named_institution
+        value: "Samsung"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "Samsung+SK Hynix = 42.2% KOSPI market cap in May 2026"
+      - claim: Named institution SK Hynix
+        kind: named_institution
+        value: "SK Hynix"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        verbatim_excerpt: "Samsung+SK Hynix = 42.2% KOSPI market cap in May 2026"
+    quotes:
+      - speaker_name: "Citigroup"
+        speaker_title: "Citigroup analyst"
+        verbatim_en: "much more overbought than in the U.S."
+        source_url: "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        context: "Citigroup commentary on KOSPI conditions"
+      - speaker_name: "Goldman Sachs"
+        speaker_title: "Goldman Sachs analyst"
+        verbatim_en: "erased weekly gains amid Trump-Xi Summit and strong foreign outflows"
+        source_url: "https://www.cnbc.com/2026/05/18/s-korea-market-volatility-near-record-as-foreigners-sell-13-billion.html"
+        context: "Goldman Sachs commentary on KOSPI weekly performance"
+
+  - story_id: six-lobby-groups-vs-samsung-strike
+    category: economy_markets
+    headline_en: "Six business lobby groups vs Samsung strike"
+    lead_url: "https://www.koreaherald.com/article/10740193"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10740193"
+    hard_facts:
+      - claim: Number of business lobby groups opposing Samsung strike
+        kind: numerical
+        value: "6"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Six groups: Korea Enterprises Federation, Korea Chamber of Commerce and Industry, Federation of Korean Industries, Korea International Trade Association, Korea Federation of SMEs, Federation of Middle Market Enterprises of Korea"
+      - claim: Named institution Korea Enterprises Federation
+        kind: named_institution
+        value: "Korea Enterprises Federation"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Six groups: Korea Enterprises Federation, Korea Chamber of Commerce and Industry, Federation of Korean Industries, Korea International Trade Association, Korea Federation of SMEs, Federation of Middle Market Enterprises of Korea"
+      - claim: Named institution Korea Chamber of Commerce and Industry
+        kind: named_institution
+        value: "Korea Chamber of Commerce and Industry"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Six groups: Korea Enterprises Federation, Korea Chamber of Commerce and Industry, Federation of Korean Industries, Korea International Trade Association, Korea Federation of SMEs, Federation of Middle Market Enterprises of Korea"
+      - claim: Named institution Federation of Korean Industries
+        kind: named_institution
+        value: "Federation of Korean Industries"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Six groups: Korea Enterprises Federation, Korea Chamber of Commerce and Industry, Federation of Korean Industries, Korea International Trade Association, Korea Federation of SMEs, Federation of Middle Market Enterprises of Korea"
+      - claim: Named institution Korea International Trade Association
+        kind: named_institution
+        value: "Korea International Trade Association"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Six groups: Korea Enterprises Federation, Korea Chamber of Commerce and Industry, Federation of Korean Industries, Korea International Trade Association, Korea Federation of SMEs, Federation of Middle Market Enterprises of Korea"
+      - claim: Named institution Korea Federation of SMEs
+        kind: named_institution
+        value: "Korea Federation of SMEs"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Six groups: Korea Enterprises Federation, Korea Chamber of Commerce and Industry, Federation of Korean Industries, Korea International Trade Association, Korea Federation of SMEs, Federation of Middle Market Enterprises of Korea"
+      - claim: Named institution Federation of Middle Market Enterprises of Korea
+        kind: named_institution
+        value: "Federation of Middle Market Enterprises of Korea"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Six groups: Korea Enterprises Federation, Korea Chamber of Commerce and Industry, Federation of Korean Industries, Korea International Trade Association, Korea Federation of SMEs, Federation of Middle Market Enterprises of Korea"
+      - claim: Number of workers involved in strike
+        kind: numerical_with_unit
+        value: ">45,000 workers"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: ">45,000 workers"
+      - claim: Strike start date
+        kind: temporal
+        value: "May 21"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "strike May 21-Jun 7 (18 days)"
+      - claim: Strike end date
+        kind: temporal
+        value: "Jun 7"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "strike May 21-Jun 7 (18 days)"
+      - claim: Strike duration
+        kind: temporal
+        value: "18 days"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "strike May 21-Jun 7 (18 days)"
+      - claim: Union demand total amount
+        kind: numerical_with_unit
+        value: "≈ 45 trillion won ($29.9B)"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "union demand ≈ 45 trillion won ($29.9B), 15% of operating profit, remove 50% annual salary bonus cap"
+      - claim: Union demand share of operating profit
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "union demand ≈ 45 trillion won ($29.9B), 15% of operating profit, remove 50% annual salary bonus cap"
+      - claim: Union demand to remove annual salary bonus cap
+        kind: numerical_with_unit
+        value: "50%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "union demand ≈ 45 trillion won ($29.9B), 15% of operating profit, remove 50% annual salary bonus cap"
+      - claim: Samsung counter-offer share of operating profit
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Samsung counter: 10% of operating profit, not institutionalised"
+      - claim: Semiconductors share of exports
+        kind: numerical_with_unit
+        value: "~37%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Semiconductors ~37% exports"
+      - claim: Samsung share of KOSPI market cap
+        kind: numerical_with_unit
+        value: "~25%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Samsung ~25% KOSPI cap, ~12.5% GDP"
+      - claim: Samsung share of GDP
+        kind: numerical_with_unit
+        value: "~12.5%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "Samsung ~25% KOSPI cap, ~12.5% GDP"
+      - claim: Named person President Lee Jae Myung
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "President Lee Jae Myung quote: \"Workers should be able to receive fair compensation for their labor, while shareholders who invested while bearing risks and losses also have a rightful share in corporate profits.\""
+      - claim: Named institution Samsung Electronics
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740193"
+        verbatim_excerpt: "The strike by Samsung Electronics' union is an act that shakes the foundation of the nation's core industries."
+    quotes:
+      - speaker_name: "Six business lobby groups"
+        speaker_title: "Joint statement by six business lobby groups"
+        verbatim_en: "The strike by Samsung Electronics' union is an act that shakes the foundation of the nation's core industries."
+        source_url: "https://www.koreaherald.com/article/10740193"
+        context: "Joint statement by six business lobby groups opposing Samsung strike"
+      - speaker_name: "Six business lobby groups"
+        speaker_title: "Joint statement by six business lobby groups"
+        verbatim_en: "Performance bonus issues are matters of managerial judgment rather than subjects for collective bargaining."
+        source_url: "https://www.koreaherald.com/article/10740193"
+        context: "Joint statement by six business lobby groups opposing Samsung strike"
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President of South Korea"
+        verbatim_en: "Workers should be able to receive fair compensation for their labor, while shareholders who invested while bearing risks and losses also have a rightful share in corporate profits."
+        source_url: "https://www.koreaherald.com/article/10740193"
+        context: "President Lee Jae Myung statement on Samsung labor dispute"
+
+  - story_id: government-emergency-arbitration-warning
+    category: economy_markets
+    headline_en: "Government emergency-arbitration warning"
+    lead_url: "https://www.koreaherald.com/article/10740075"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10740075"
+    hard_facts:
+      - claim: Named person President Lee Jae Myung
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "President Lee Jae Myung"
+      - claim: Named person Prime Minister Kim Min-seok
+        kind: named_person
+        value: "Kim Min-seok"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "PM Kim Min-seok quote"
+      - claim: Named person Spokesperson Kang Yu-jung
+        kind: named_person
+        value: "Kang Yu-jung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "Spokesperson Kang Yu-jung: Samsung is \"an extremely important company with around 1,700 partner firms.\""
+      - claim: Number of Samsung partner firms
+        kind: numerical_with_unit
+        value: "around 1,700 partner firms"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "Samsung is \"an extremely important company with around 1,700 partner firms.\""
+      - claim: Samsung share of GDP
+        kind: numerical_with_unit
+        value: "~12.5%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "Samsung ~12.5% GDP, ~4.6 million Koreans hold Samsung shares"
+      - claim: Number of Koreans holding Samsung shares
+        kind: numerical_with_unit
+        value: "~4.6 million"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "Samsung ~12.5% GDP, ~4.6 million Koreans hold Samsung shares"
+      - claim: Number of Samsung workers
+        kind: numerical_with_unit
+        value: "~50,000 workers"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "~50,000 workers; sites Giheung, Hwaseong, Pyeongtaek"
+      - claim: Named place Giheung site
+        kind: named_institution
+        value: "Giheung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "~50,000 workers; sites Giheung, Hwaseong, Pyeongtaek"
+      - claim: Named place Hwaseong site
+        kind: named_institution
+        value: "Hwaseong"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "~50,000 workers; sites Giheung, Hwaseong, Pyeongtaek"
+      - claim: Named place Pyeongtaek site
+        kind: named_institution
+        value: "Pyeongtaek"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740075"
+        verbatim_excerpt: "~50,000 workers; sites Giheung, Hwaseong, Pyeongtaek"
+    quotes:
+      - speaker_name: "Kim Min-seok"
+        speaker_title: "Prime Minister of South Korea"
+        verbatim_en: "If a situation arises in which a strike is expected to cause enormous damage to the national economy, the government cannot help but consider all available response measures, including emergency adjustments, to protect the national economy."
+        source_url: "https://www.koreaherald.com/article/10740075"
+        context: "PM Kim Min-seok statement on potential Samsung strike emergency response"
+      - speaker_name: "Kang Yu-jung"
+        speaker_title: "Presidential Spokesperson"
+        verbatim_en: "an extremely important company with around 1,700 partner firms."
+        source_url: "https://www.koreaherald.com/article/10740075"
+        context: "Spokesperson Kang Yu-jung describing Samsung's economic significance"
+
+  - story_id: may-18-ceremony-constitutional-pledge
+    category: politics_diplomacy
+    headline_en: "May 18 ceremony / constitutional pledge"
+    lead_url: "https://www.koreaherald.com/article/10740084"
+    corroborated_by:
+      - "https://www.koreatimes.co.kr/southkorea/politics/20260518/1980-pro-democracy-movement-was-reborn-in-thwarting-2024-martial-law-forces-lee-says"
+    locked_urls:
+      - "https://www.koreaherald.com/article/10740084"
+      - "https://www.koreatimes.co.kr/southkorea/politics/20260518/1980-pro-democracy-movement-was-reborn-in-thwarting-2024-martial-law-forces-lee-says"
+    hard_facts:
+      - claim: Venue of May 18 ceremony
+        kind: named_institution
+        value: "May 18 Democracy Square, Gwangju"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "May 18 Democracy Square, Gwangju, May 18 2026, 46th anniversary"
+      - claim: Date of ceremony
+        kind: temporal
+        value: "May 18 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/1980-pro-democracy-movement-was-reborn-in-thwarting-2024-martial-law-forces-lee-says"
+        verbatim_excerpt: "May 18 Democracy Square, Gwangju, May 18 2026, 46th anniversary"
+      - claim: Anniversary number
+        kind: temporal
+        value: "46th anniversary"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "May 18 Democracy Square, Gwangju, May 18 2026, 46th anniversary"
+      - claim: Number of participants
+        kind: numerical_with_unit
+        value: "~3,000 participants"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "~3,000 participants"
+      - claim: Named person First Lady Kim Hea Kyung
+        kind: named_person
+        value: "Kim Hea Kyung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "First Lady Kim Hea Kyung"
+      - claim: Named person President Lee Jae Myung
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/1980-pro-democracy-movement-was-reborn-in-thwarting-2024-martial-law-forces-lee-says"
+        verbatim_excerpt: "Lee Jae Myung quotes"
+      - claim: Civilians killed per 2024 truth commission
+        kind: numerical_with_unit
+        value: "166 civilians killed"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "2024 truth commission: 166 civilians killed, 2,617 injured, 179 missing"
+      - claim: Number injured per 2024 truth commission
+        kind: numerical_with_unit
+        value: "2,617 injured"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "2024 truth commission: 166 civilians killed, 2,617 injured, 179 missing"
+      - claim: Number missing per 2024 truth commission
+        kind: numerical_with_unit
+        value: "179 missing"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "2024 truth commission: 166 civilians killed, 2,617 injured, 179 missing"
+      - claim: Number of lawmakers who signed constitutional pledge
+        kind: numerical
+        value: "187"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "187 of required 191 lawmakers signed; 286-seat Assembly"
+      - claim: Number of lawmakers required to sign
+        kind: numerical
+        value: "191"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "187 of required 191 lawmakers signed; 286-seat Assembly"
+      - claim: Total seats in National Assembly
+        kind: numerical_with_unit
+        value: "286-seat Assembly"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "187 of required 191 lawmakers signed; 286-seat Assembly"
+      - claim: Date Former South Jeolla Provincial Government building reopened
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "Former South Jeolla Provincial Government building reopened May 18"
+      - claim: Named institution Former South Jeolla Provincial Government building
+        kind: named_institution
+        value: "Former South Jeolla Provincial Government building"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+        verbatim_excerpt: "Former South Jeolla Provincial Government building reopened May 18"
+      - claim: Year of original pro-democracy movement
+        kind: temporal
+        value: "May 1980"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/1980-pro-democracy-movement-was-reborn-in-thwarting-2024-martial-law-forces-lee-says"
+        verbatim_excerpt: "just as the citizens of Gwangju did in May 1980"
+      - claim: Year of armed martial law forces stopped
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740084"
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/1980-pro-democracy-movement-was-reborn-in-thwarting-2024-martial-law-forces-lee-says"
+        verbatim_excerpt: "A great Republic of Korea stopped armed martial law forces with its bare hands in 2024"
+    quotes:
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President of South Korea"
+        verbatim_en: "We will do everything in our power to definitively enshrine the spirit of May 18 in the preamble of the Constitution."
+        source_url: "https://www.koreaherald.com/article/10740084"
+        context: "President Lee Jae Myung speech at 46th May 18 anniversary ceremony in Gwangju, May 18 2026"
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President of South Korea"
+        verbatim_en: "Not a single sacrifice is ever overlooked."
+        source_url: "https://www.koreaherald.com/article/10740084"
+        context: "President Lee Jae Myung speech at 46th May 18 anniversary ceremony in Gwangju, May 18 2026"
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President of South Korea"
+        verbatim_en: "A great Republic of Korea stopped armed martial law forces with its bare hands in 2024, just as the citizens of Gwangju did in May 1980."
+        source_url: "https://www.koreaherald.com/article/10740084"
+        context: "President Lee Jae Myung speech at 46th May 18 anniversary ceremony in Gwangju, May 18 2026"
+
+  - story_id: japan-rok-sixth-summit-at-andong
+    category: politics_diplomacy
+    headline_en: "Japan-ROK sixth summit at Andong"
+    lead_url: "https://www.koreaherald.com/article/10740135"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10740135"
+    hard_facts:
+      - claim: Named person President Lee Jae Myung
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Lee Jae Myung & PM Sanae Takaichi, May 19-20 2026, Hahoe Folk Village, Andong, North Gyeongsang Province"
+      - claim: Named person Japan PM Sanae Takaichi
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Lee Jae Myung & PM Sanae Takaichi, May 19-20 2026, Hahoe Folk Village, Andong, North Gyeongsang Province"
+      - claim: Summit dates
+        kind: temporal
+        value: "May 19-20 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Lee Jae Myung & PM Sanae Takaichi, May 19-20 2026, Hahoe Folk Village, Andong, North Gyeongsang Province"
+      - claim: Named place summit venue Hahoe Folk Village
+        kind: named_institution
+        value: "Hahoe Folk Village"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Lee Jae Myung & PM Sanae Takaichi, May 19-20 2026, Hahoe Folk Village, Andong, North Gyeongsang Province"
+      - claim: Location Andong, North Gyeongsang Province
+        kind: named_institution
+        value: "Andong, North Gyeongsang Province"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Lee Jae Myung & PM Sanae Takaichi, May 19-20 2026, Hahoe Folk Village, Andong, North Gyeongsang Province"
+      - claim: Lee visit to Takaichi's hometown Nara
+        kind: temporal
+        value: "Jan 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Lee visited Takaichi's hometown Nara Jan 2026"
+      - claim: Takaichi hometown Nara
+        kind: named_institution
+        value: "Nara"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Lee visited Takaichi's hometown Nara Jan 2026"
+      - claim: Hahoe UNESCO site designation
+        kind: named_institution
+        value: "UNESCO"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Hahoe UNESCO site, hosted Queen Elizabeth II 1999, George H.W. Bush 2005, George W. Bush 2009"
+      - claim: Year Queen Elizabeth II visited Hahoe
+        kind: temporal
+        value: "1999"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Hahoe UNESCO site, hosted Queen Elizabeth II 1999, George H.W. Bush 2005, George W. Bush 2009"
+      - claim: Named person Queen Elizabeth II
+        kind: named_person
+        value: "Queen Elizabeth II"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Hahoe UNESCO site, hosted Queen Elizabeth II 1999, George H.W. Bush 2005, George W. Bush 2009"
+      - claim: Year George H.W. Bush visited Hahoe
+        kind: temporal
+        value: "2005"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Hahoe UNESCO site, hosted Queen Elizabeth II 1999, George H.W. Bush 2005, George W. Bush 2009"
+      - claim: Named person George H.W. Bush
+        kind: named_person
+        value: "George H.W. Bush"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Hahoe UNESCO site, hosted Queen Elizabeth II 1999, George H.W. Bush 2005, George W. Bush 2009"
+      - claim: Year George W. Bush visited Hahoe
+        kind: temporal
+        value: "2009"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Hahoe UNESCO site, hosted Queen Elizabeth II 1999, George H.W. Bush 2005, George W. Bush 2009"
+      - claim: Named person George W. Bush
+        kind: named_person
+        value: "George W. Bush"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Hahoe UNESCO site, hosted Queen Elizabeth II 1999, George H.W. Bush 2005, George W. Bush 2009"
+      - claim: Named product potential ACSA agreement
+        kind: named_product
+        value: "ACSA (Acquisition and Cross-Servicing Agreement)"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "potential ACSA (Acquisition and Cross-Servicing Agreement)"
+      - claim: US-China summit location and date
+        kind: temporal
+        value: "Beijing May 14 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Discuss US-China summit Beijing May 14 2026"
+      - claim: Named person spokesperson Kang Yu-jung
+        kind: named_person
+        value: "Kang Yu-jung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Kang Yu-jung quote"
+      - claim: Named product Seonyu Julbul Nori cultural event
+        kind: named_product
+        value: "Seonyu Julbul Nori"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Seonyu Julbul Nori; 16th-century cookbook menu"
+      - claim: Age of cookbook menu planned for summit
+        kind: temporal
+        value: "16th-century"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "Seonyu Julbul Nori; 16th-century cookbook menu"
+      - claim: Named place Strait of Hormuz
+        kind: named_institution
+        value: "Strait of Hormuz"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740135"
+        verbatim_excerpt: "energy supply chain diversification alternatives to Strait of Hormuz (Iran conflict)"
+    quotes:
+      - speaker_name: "Kang Yu-jung"
+        speaker_title: "Presidential Spokesperson"
+        verbatim_en: "At this summit, the two leaders will hold broad discussions on the future direction of Korea-Japan relations and seek to strengthen substantive cooperation across various areas directly tied to people's livelihoods."
+        source_url: "https://www.koreaherald.com/article/10740135"
+        context: "Spokesperson Kang Yu-jung briefing on upcoming Korea-Japan summit at Andong"
+
+  - story_id: ppp-june-3-local-election-framing
+    category: politics_diplomacy
+    headline_en: "PPP June 3 local-election framing"
+    lead_url: "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+    hard_facts:
+      - claim: Named person PPP floor leader Rep. Song Eon-seog
+        kind: named_person
+        value: "Song Eon-seog"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        verbatim_excerpt: "PPP floor leader Rep. Song Eon-seog, May 18 2026"
+      - claim: Date of statement
+        kind: temporal
+        value: "May 18 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        verbatim_excerpt: "PPP floor leader Rep. Song Eon-seog, May 18 2026"
+      - claim: PPP approval rating
+        kind: numerical_with_unit
+        value: "PPP 23% (+2 ppt)"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        verbatim_excerpt: "Gallup Korea: PPP 23% (+2 ppt), DPK 45% (-1 ppt), 22-point gap"
+      - claim: DPK approval rating
+        kind: numerical_with_unit
+        value: "DPK 45% (-1 ppt)"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        verbatim_excerpt: "Gallup Korea: PPP 23% (+2 ppt), DPK 45% (-1 ppt), 22-point gap"
+      - claim: Gap between PPP and DPK approval ratings
+        kind: numerical_with_unit
+        value: "22-point gap"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        verbatim_excerpt: "Gallup Korea: PPP 23% (+2 ppt), DPK 45% (-1 ppt), 22-point gap"
+      - claim: Named institution Gallup Korea
+        kind: named_institution
+        value: "Gallup Korea"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        verbatim_excerpt: "Gallup Korea: PPP 23% (+2 ppt), DPK 45% (-1 ppt), 22-point gap"
+      - claim: Date of June 3 elections
+        kind: temporal
+        value: "June 3 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        verbatim_excerpt: "June 3 2026 elections: mayoral, gubernatorial, local council"
+      - claim: Named institution PPP
+        kind: named_institution
+        value: "PPP"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        verbatim_excerpt: "PPP floor leader Rep. Song Eon-seog, May 18 2026"
+    quotes:
+      - speaker_name: "Song Eon-seog"
+        speaker_title: "PPP floor leader, Representative"
+        verbatim_en: "only way to rein in the government's reckless drive."
+        source_url: "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        context: "PPP floor leader Song Eon-seog statement on June 3 local elections, May 18 2026"
+      - speaker_name: "Song Eon-seog"
+        speaker_title: "PPP floor leader, Representative"
+        verbatim_en: "We cannot allow a judicial coup that mobilizes all presidential powers simply to erase a president's crimes."
+        source_url: "https://www.koreatimes.co.kr/southkorea/politics/20260518/main-opposition-asks-for-voter-support-in-local-elections-to-stop-governments-reckless-drive"
+        context: "PPP floor leader Song Eon-seog statement on June 3 local elections, May 18 2026"
+
+  - story_id: north-korea-kim-frontline-naegohyang-fc
+    category: politics_diplomacy
+    headline_en: "North Korea Kim frontline + Naegohyang FC arrival"
+    lead_url: "https://www.koreaherald.com/article/10739671"
+    corroborated_by:
+      - "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/north-korea-kim-front-line-defenses/"
+    locked_urls:
+      - "https://www.koreaherald.com/article/10739671"
+      - "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/north-korea-kim-front-line-defenses/"
+    hard_facts:
+      - claim: Named person Kim Jong Un
+        kind: named_person
+        value: "Kim Jong Un"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+          - "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/north-korea-kim-front-line-defenses/"
+        verbatim_excerpt: "Kim Jong Un meeting May 17 2026 with KPA division/brigade commanders"
+      - claim: Date of Kim Jong Un meeting
+        kind: temporal
+        value: "May 17 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+          - "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/north-korea-kim-front-line-defenses/"
+        verbatim_excerpt: "Kim Jong Un meeting May 17 2026 with KPA division/brigade commanders"
+      - claim: Date of KCNA report
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+          - "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/north-korea-kim-front-line-defenses/"
+        verbatim_excerpt: "reported May 18 by KCNA"
+      - claim: Named institution KCNA
+        kind: named_institution
+        value: "KCNA"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+          - "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/north-korea-kim-front-line-defenses/"
+        verbatim_excerpt: "reported May 18 by KCNA"
+      - claim: Named institution KPA (Korean People's Army)
+        kind: named_institution
+        value: "KPA"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "Kim Jong Un meeting May 17 2026 with KPA division/brigade commanders"
+      - claim: Named institution Naegohyang Women's Football Club
+        kind: named_institution
+        value: "Naegohyang Women's Football Club"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "Naegohyang Women's Football Club (\"My Hometown\"); 39-member delegation (27 players, 12 staff) arrived Incheon May 17 via Air China from Beijing"
+      - claim: Total delegation size
+        kind: numerical_with_unit
+        value: "39-member delegation"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "39-member delegation (27 players, 12 staff) arrived Incheon May 17 via Air China from Beijing"
+      - claim: Number of players in delegation
+        kind: numerical
+        value: "27 players"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "39-member delegation (27 players, 12 staff) arrived Incheon May 17 via Air China from Beijing"
+      - claim: Number of staff in delegation
+        kind: numerical
+        value: "12 staff"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "39-member delegation (27 players, 12 staff) arrived Incheon May 17 via Air China from Beijing"
+      - claim: Date of delegation arrival
+        kind: temporal
+        value: "May 17"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "arrived Incheon May 17 via Air China from Beijing"
+      - claim: Named institution Air China
+        kind: named_institution
+        value: "Air China"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "arrived Incheon May 17 via Air China from Beijing"
+      - claim: Years since last North Korean sports team visited South Korea
+        kind: temporal
+        value: "nearly 8 years"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "first NK sports team in South in nearly 8 years"
+      - claim: Named institution AFC Women's Champions League
+        kind: named_institution
+        value: "AFC Women's Champions League"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "AFC Women's Champions League semifinal vs Suwon FC Women, Suwon Sports Complex, Wednesday May 20"
+      - claim: Named institution Suwon FC Women
+        kind: named_institution
+        value: "Suwon FC Women"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "AFC Women's Champions League semifinal vs Suwon FC Women, Suwon Sports Complex, Wednesday May 20"
+      - claim: Venue of match
+        kind: named_institution
+        value: "Suwon Sports Complex"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "AFC Women's Champions League semifinal vs Suwon FC Women, Suwon Sports Complex, Wednesday May 20"
+      - claim: Date of match
+        kind: temporal
+        value: "Wednesday May 20"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "AFC Women's Champions League semifinal vs Suwon FC Women, Suwon Sports Complex, Wednesday May 20"
+      - claim: Seats sold out
+        kind: numerical_with_unit
+        value: "7,087 seats sold out"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "7,087 seats sold out within 12 hours"
+      - claim: Time to sell out seats
+        kind: temporal
+        value: "within 12 hours"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "7,087 seats sold out within 12 hours"
+      - claim: SK government funding allocated
+        kind: numerical_with_unit
+        value: "up to 300 million won ($200,000)"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739671"
+        verbatim_excerpt: "SK government allocated up to 300 million won ($200,000) from inter-Korean cooperation funds"
+    quotes:
+      - speaker_name: "Kim Jong Un"
+        speaker_title: "Supreme Leader of North Korea"
+        verbatim_en: "great change"
+        source_url: "https://www.koreaherald.com/article/10739671"
+        context: "Kim Jong Un remarks at meeting with KPA division/brigade commanders May 17 2026 on war deterrence"
+      - speaker_name: "Kim Jong Un"
+        speaker_title: "Supreme Leader of North Korea"
+        verbatim_en: "continue to raise their class consciousness and outlook on the arch enemy"
+        source_url: "https://www.koreaherald.com/article/10739671"
+        context: "Kim Jong Un remarks at meeting with KPA division/brigade commanders May 17 2026"
+      - speaker_name: "Kim Jong Un"
+        speaker_title: "Supreme Leader of North Korea"
+        verbatim_en: "an important decision to more thoroughly deter war."
+        source_url: "https://www.koreaherald.com/article/10739671"
+        context: "Kim Jong Un remarks at meeting with KPA division/brigade commanders May 17 2026"
+
+  - story_id: suwon-district-court-samsung-injunction
+    category: tech_industry
+    headline_en: "Suwon District Court Samsung injunction"
+    lead_url: "https://www.koreaherald.com/article/10739931"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10739931"
+    hard_facts:
+      - claim: Named institution Suwon District Court
+        kind: named_institution
+        value: "Suwon District Court"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Suwon District Court, May 18 2026, partial grant"
+      - claim: Date of ruling
+        kind: temporal
+        value: "May 18 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Suwon District Court, May 18 2026, partial grant"
+      - claim: Named person union leader Choi Seung-ho
+        kind: named_person
+        value: "Choi Seung-ho"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Bar on largest union chapter and leader Choi Seung-ho"
+      - claim: Daily fine per chapter
+        kind: numerical_with_unit
+        value: "100 million won ($72,000) per chapter"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Daily fines: 100 million won ($72,000) per chapter; Choi Seung-ho and acting chair Woo Ha-kyung each 10 million won ($7,200)"
+      - claim: Daily fine for Choi Seung-ho
+        kind: numerical_with_unit
+        value: "10 million won ($7,200)"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Daily fines: 100 million won ($72,000) per chapter; Choi Seung-ho and acting chair Woo Ha-kyung each 10 million won ($7,200)"
+      - claim: Named person acting chair Woo Ha-kyung
+        kind: named_person
+        value: "Woo Ha-kyung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Daily fines: 100 million won ($72,000) per chapter; Choi Seung-ho and acting chair Woo Ha-kyung each 10 million won ($7,200)"
+      - claim: Daily fine for Woo Ha-kyung
+        kind: numerical_with_unit
+        value: "10 million won ($7,200)"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Daily fines: 100 million won ($72,000) per chapter; Choi Seung-ho and acting chair Woo Ha-kyung each 10 million won ($7,200)"
+      - claim: Number of workers involved
+        kind: numerical_with_unit
+        value: "~50,000 workers"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "~50,000 workers"
+      - claim: Samsung share price change Monday
+        kind: numerical_with_unit
+        value: "+6.7%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Samsung share price +6.7% Monday"
+      - claim: Strike duration from May 21
+        kind: temporal
+        value: "18 days from May 21"
+        source_urls:
+          - "https://www.koreaherald.com/article/10739931"
+        verbatim_excerpt: "Strike 18 days from May 21"
+    quotes:
+      - speaker_name: "Suwon District Court"
+        speaker_title: "Suwon District Court ruling"
+        verbatim_en: "The union must not suspend, abolish or obstruct the maintenance and operation of safety protection facilities at the same level as usual — including staffing, operating hours, operating scale and duty of care on weekdays, weekends and holidays — nor instruct its members to do so during the period of industrial action."
+        source_url: "https://www.koreaherald.com/article/10739931"
+        context: "Suwon District Court partial injunction ruling on Samsung strike, May 18 2026"
+
+  - story_id: mediated-talks-at-nlrc-sejong
+    category: tech_industry
+    headline_en: "Mediated talks at NLRC Sejong"
+    lead_url: "https://www.koreaherald.com/article/10740204"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10740204"
+    hard_facts:
+      - claim: Named institution NLRC complex
+        kind: named_institution
+        value: "NLRC complex"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "NLRC complex, Sejong, May 18 2026, second-round post-arbitration talks"
+      - claim: Location of talks
+        kind: named_institution
+        value: "Sejong"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "NLRC complex, Sejong, May 18 2026, second-round post-arbitration talks"
+      - claim: Date of talks
+        kind: temporal
+        value: "May 18 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "NLRC complex, Sejong, May 18 2026, second-round post-arbitration talks"
+      - claim: Round of talks
+        kind: temporal
+        value: "second-round post-arbitration talks"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "NLRC complex, Sejong, May 18 2026, second-round post-arbitration talks"
+      - claim: Named person NLRC Chairman Park Soo-geun
+        kind: named_person
+        value: "Park Soo-geun"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Park Soo-geun (NLRC Chairman) facilitator"
+      - claim: Named person Samsung negotiator Yeo Myung-koo
+        kind: named_person
+        value: "Yeo Myung-koo"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Samsung negotiator Yeo Myung-koo; union leader Choi Seung-ho"
+      - claim: Named person union leader Choi Seung-ho
+        kind: named_person
+        value: "Choi Seung-ho"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Samsung negotiator Yeo Myung-koo; union leader Choi Seung-ho"
+      - claim: Time talks concluded Monday
+        kind: temporal
+        value: "7 p.m. Monday"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Talks until 7 p.m. Monday, resume Tuesday 10 a.m."
+      - claim: Time talks resume Tuesday
+        kind: temporal
+        value: "Tuesday 10 a.m."
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Talks until 7 p.m. Monday, resume Tuesday 10 a.m."
+      - claim: Named person Labour Minister Kim Young-hoon
+        kind: named_person
+        value: "Kim Young-hoon"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Labour Minister Kim Young-hoon"
+      - claim: Potential global DRAM supply removal from strike
+        kind: numerical_with_unit
+        value: "up to 4% global DRAM supply"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Strike could remove up to 4% global DRAM supply; cost Samsung up to 43 trillion won ($28.9 billion)"
+      - claim: Potential cost to Samsung from strike
+        kind: numerical_with_unit
+        value: "up to 43 trillion won ($28.9 billion)"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Strike could remove up to 4% global DRAM supply; cost Samsung up to 43 trillion won ($28.9 billion)"
+      - claim: Named place Giheung site
+        kind: named_institution
+        value: "Giheung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Sites Giheung, Hwaseong, Pyeongtaek"
+      - claim: Named place Hwaseong site
+        kind: named_institution
+        value: "Hwaseong"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Sites Giheung, Hwaseong, Pyeongtaek"
+      - claim: Named place Pyeongtaek site
+        kind: named_institution
+        value: "Pyeongtaek"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "Sites Giheung, Hwaseong, Pyeongtaek"
+      - claim: Named product HBM4 first commercial shipments
+        kind: named_product
+        value: "HBM4"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "HBM4 first commercial shipments including to Nvidia"
+      - claim: Named institution Nvidia
+        kind: named_institution
+        value: "Nvidia"
+        source_urls:
+          - "https://www.koreaherald.com/article/10740204"
+        verbatim_excerpt: "HBM4 first commercial shipments including to Nvidia"
+    quotes:
+      - speaker_name: "Choi Seung-ho"
+        speaker_title: "Samsung union leader"
+        verbatim_en: "We have come this far to post-mediation. We will sincerely engage in this second round as well."
+        source_url: "https://www.koreaherald.com/article/10740204"
+        context: "Choi Seung-ho statement at NLRC Sejong second-round post-arbitration talks, May 18 2026"
+
+  - story_id: jpmorgan-nomura-analyst-reclassification
+    category: tech_industry
+    headline_en: "JPMorgan/Nomura analyst reclassification"
+    lead_url: "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+    corroborated_by: []
+    locked_urls:
+      - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+    hard_facts:
+      - claim: Named institution JPMorgan
+        kind: named_institution
+        value: "JPMorgan"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "JPMorgan May 18 2026 raised Samsung target to 480,000 won, SK Hynix to 3 million won"
+      - claim: Date of JPMorgan note
+        kind: temporal
+        value: "May 18 2026"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "JPMorgan May 18 2026 raised Samsung target to 480,000 won, SK Hynix to 3 million won"
+      - claim: JPMorgan Samsung price target
+        kind: numerical_with_unit
+        value: "480,000 won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "JPMorgan May 18 2026 raised Samsung target to 480,000 won, SK Hynix to 3 million won"
+      - claim: JPMorgan SK Hynix price target
+        kind: numerical_with_unit
+        value: "3 million won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "JPMorgan May 18 2026 raised Samsung target to 480,000 won, SK Hynix to 3 million won"
+      - claim: JPMorgan P/E multiple applied
+        kind: numerical_with_unit
+        value: "8x P/E"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "8x P/E on 2026-2027 EPS"
+      - claim: JPMorgan EPS period for P/E
+        kind: temporal
+        value: "2026-2027"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "8x P/E on 2026-2027 EPS"
+      - claim: Samsung EPS upgrade range
+        kind: numerical_with_unit
+        value: "+1-5%"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Samsung EPS +1-5% FY2026-2028"
+      - claim: Samsung EPS upgrade period
+        kind: temporal
+        value: "FY2026-2028"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Samsung EPS +1-5% FY2026-2028"
+      - claim: SK Hynix EPS upgrade range
+        kind: numerical_with_unit
+        value: "+9-20%"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "SK Hynix +9-20%"
+      - claim: Samsung special shareholder returns
+        kind: numerical_with_unit
+        value: ">115 trillion won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Samsung special shareholder returns >115 trillion won from ~160 trillion won total"
+      - claim: Samsung total shareholder returns
+        kind: numerical_with_unit
+        value: "~160 trillion won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Samsung special shareholder returns >115 trillion won from ~160 trillion won total"
+      - claim: SK Hynix FCF period
+        kind: temporal
+        value: "2025-2027"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "SK Hynix FCF 2025-2027 ~240 trillion won"
+      - claim: SK Hynix FCF estimate
+        kind: numerical_with_unit
+        value: "~240 trillion won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "SK Hynix FCF 2025-2027 ~240 trillion won"
+      - claim: SK Hynix total shareholder return 2026
+        kind: numerical_with_unit
+        value: "5% 2026"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "total shareholder return 5% 2026 → 12% 2027"
+      - claim: SK Hynix total shareholder return 2027
+        kind: numerical_with_unit
+        value: "12% 2027"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "total shareholder return 5% 2026 → 12% 2027"
+      - claim: JPMorgan Samsung Q2 DRAM price increase forecast
+        kind: numerical_with_unit
+        value: "+57%"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "JPMorgan: Samsung Q2 DRAM prices +57%, NAND +52%"
+      - claim: JPMorgan Samsung Q2 NAND price increase forecast
+        kind: numerical_with_unit
+        value: "+52%"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "JPMorgan: Samsung Q2 DRAM prices +57%, NAND +52%"
+      - claim: Named institution Nomura
+        kind: named_institution
+        value: "Nomura"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Nomura: Samsung 340,000→590,000 won; SK Hynix 2.34M→4M won"
+      - claim: Nomura Samsung target raised from
+        kind: numerical_with_unit
+        value: "340,000 won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Nomura: Samsung 340,000→590,000 won; SK Hynix 2.34M→4M won"
+      - claim: Nomura Samsung target raised to
+        kind: numerical_with_unit
+        value: "590,000 won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Nomura: Samsung 340,000→590,000 won; SK Hynix 2.34M→4M won"
+      - claim: Nomura SK Hynix target raised from
+        kind: numerical_with_unit
+        value: "2.34M won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Nomura: Samsung 340,000→590,000 won; SK Hynix 2.34M→4M won"
+      - claim: Nomura SK Hynix target raised to
+        kind: numerical_with_unit
+        value: "4M won"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "Nomura: Samsung 340,000→590,000 won; SK Hynix 2.34M→4M won"
+      - claim: Nomura AI memory demand growth projection
+        kind: temporal
+        value: "over 5y"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "AI memory demand \"thousands of times\" over 5y; supply 5-6x"
+      - claim: Nomura supply growth projection
+        kind: numerical_with_unit
+        value: "5-6x"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "AI memory demand \"thousands of times\" over 5y; supply 5-6x"
+      - claim: Named institution Samsung Electronics (target raised)
+        kind: named_institution
+        value: "Samsung"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "JPMorgan May 18 2026 raised Samsung target to 480,000 won, SK Hynix to 3 million won"
+      - claim: Named institution SK Hynix (target raised)
+        kind: named_institution
+        value: "SK Hynix"
+        source_urls:
+          - "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        verbatim_excerpt: "JPMorgan May 18 2026 raised Samsung target to 480,000 won, SK Hynix to 3 million won"
+    quotes:
+      - speaker_name: "JPMorgan"
+        speaker_title: "JPMorgan analyst note"
+        verbatim_en: "should no longer be valued on a price-to-book ratio basis as a purely cyclic"
+        source_url: "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        context: "JPMorgan analyst note on memory sector reclassification, May 18 2026"
+      - speaker_name: "Nomura"
+        speaker_title: "Nomura analyst note"
+        verbatim_en: "thousands of times"
+        source_url: "https://en.sedaily.com/finance/2026/05/18/jpmorgan-raises-samsung-sk-hynix-targets-on-structural"
+        context: "Nomura analyst note on AI memory demand growth projection over 5 years"
+
+  - story_id: seoul-western-court-courthouse-rioters
+    category: society_livelihood
+    headline_en: "Seoul Western District Court — courthouse rioters sentenced"
+    lead_url: "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+    hard_facts:
+      - claim: Named institution Seoul Western District Court
+        kind: named_institution
+        value: "Seoul Western District Court"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Seoul Western District Court, May 18 2026"
+      - claim: Date of sentencing
+        kind: temporal
+        value: "May 18 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Seoul Western District Court, May 18 2026"
+      - claim: Number of defendants sentenced
+        kind: numerical
+        value: "4"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Four defendants: one-year sentences each suspended for two years"
+      - claim: Sentence length
+        kind: temporal
+        value: "one-year sentences each"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Four defendants: one-year sentences each suspended for two years"
+      - claim: Suspension period
+        kind: temporal
+        value: "suspended for two years"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Four defendants: one-year sentences each suspended for two years"
+      - claim: Date of riot
+        kind: temporal
+        value: "Jan 19 2025"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Riot Jan 19 2025 at Seoul Western District Court during Yoon Suk Yeol detention protest"
+      - claim: Named person Yoon Suk Yeol
+        kind: named_person
+        value: "Yoon Suk Yeol"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Riot Jan 19 2025 at Seoul Western District Court during Yoon Suk Yeol detention protest"
+      - claim: Date Yoon declared martial law
+        kind: temporal
+        value: "Dec 3 2024"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Yoon declared martial law Dec 3 2024"
+      - claim: Charge against defendants
+        kind: named_product
+        value: "special assault"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "Charge: special assault"
+      - claim: Named person defendant Ham
+        kind: named_person
+        value: "Ham"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        verbatim_excerpt: "One defendant surname Ham"
+    quotes:
+      - speaker_name: "Seoul Western District Court"
+        speaker_title: "Seoul Western District Court ruling"
+        verbatim_en: "The rioters obstructed the victims' movement and hurled insults, even though they gave up on reporting and moved to leave the scene, creating a hostile atmosphere and a sense of pressure."
+        source_url: "https://www.koreatimes.co.kr/southkorea/law-crime/20260518/4-courthouse-rioters-get-suspended-terms-for-attacking-reporters"
+        context: "Seoul Western District Court ruling on Jan 19 2025 courthouse riot sentencing, May 18 2026"

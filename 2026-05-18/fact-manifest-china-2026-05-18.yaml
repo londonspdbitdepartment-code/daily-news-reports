@@ -1,0 +1,946 @@
+version: 1
+generated_at: "2026-05-18T00:00:00Z"
+country: China
+date: "2026-05-18"
+total_stories: 5
+stories:
+
+  - story_id: china-april-economic-data-disappoints
+    category: economy_markets
+    headline_en: "China's April economic data disappoints on all fronts: retail sales post weakest gain in 40 months, investment turns negative"
+    lead_url: "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+    corroborated_by:
+      - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+      - "https://www.bloomberg.com/news/articles/2026-05-18/china-economy-slows-sharply-as-investment-returns-to-contraction"
+      - "https://www.bloomberg.com/news/videos/2026-05-18/china-economic-data-surprises-on-the-downside-hsbc-says-video"
+    locked_urls:
+      - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+      - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+      - "https://www.bloomberg.com/news/articles/2026-05-18/china-economy-slows-sharply-as-investment-returns-to-contraction"
+      - "https://www.bloomberg.com/news/videos/2026-05-18/china-economic-data-surprises-on-the-downside-hsbc-says-video"
+    hard_facts:
+      - claim: NBS April 2026 data release date
+        kind: temporal
+        value: Monday, May 18
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "China's NBS released April 2026 monthly activity data on Monday, May 18."
+
+      - claim: Industrial output YoY growth April 2026
+        kind: numerical_with_unit
+        value: +4.1% YoY
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+        verbatim_excerpt: "Industrial output +4.1% YoY in April (vs 5.7% March; Reuters poll 5.9%); slowest since July 2023."
+
+      - claim: Industrial output YoY growth March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: 5.7% March
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+        verbatim_excerpt: "Industrial output +4.1% YoY in April (vs 5.7% March; Reuters poll 5.9%); slowest since July 2023."
+
+      - claim: Reuters poll forecast for industrial output April 2026
+        kind: numerical_with_unit
+        value: 5.9%
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+        verbatim_excerpt: "Industrial output +4.1% YoY in April (vs 5.7% March; Reuters poll 5.9%); slowest since July 2023."
+
+      - claim: Slowest industrial output since
+        kind: temporal
+        value: July 2023
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "Industrial output +4.1% YoY in April (vs 5.7% March; Reuters poll 5.9%); slowest since July 2023."
+
+      - claim: Retail sales YoY growth April 2026
+        kind: numerical_with_unit
+        value: +0.2% YoY
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+        verbatim_excerpt: "Retail sales +0.2% YoY (vs 1.7% March; forecast 2.0%); weakest since December 2022."
+
+      - claim: Retail sales YoY growth March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: 1.7% March
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+        verbatim_excerpt: "Retail sales +0.2% YoY (vs 1.7% March; forecast 2.0%); weakest since December 2022."
+
+      - claim: Forecast for retail sales April 2026
+        kind: numerical_with_unit
+        value: 2.0%
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+        verbatim_excerpt: "Retail sales +0.2% YoY (vs 1.7% March; forecast 2.0%); weakest since December 2022."
+
+      - claim: Weakest retail sales since
+        kind: temporal
+        value: December 2022
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "Retail sales +0.2% YoY (vs 1.7% March; forecast 2.0%); weakest since December 2022."
+
+      - claim: Urban fixed-asset investment YoY Jan-Apr 2026
+        kind: numerical_with_unit
+        value: -1.6% YoY
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.bloomberg.com/news/articles/2026-05-18/china-economy-slows-sharply-as-investment-returns-to-contraction"
+        verbatim_excerpt: "Urban fixed-asset investment -1.6% YoY Jan-Apr (vs +1.7% Jan-Mar; forecast +1.6%)."
+
+      - claim: Urban fixed-asset investment YoY Jan-Mar 2026 (prior reading)
+        kind: numerical_with_unit
+        value: +1.7% Jan-Mar
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.bloomberg.com/news/articles/2026-05-18/china-economy-slows-sharply-as-investment-returns-to-contraction"
+        verbatim_excerpt: "Urban fixed-asset investment -1.6% YoY Jan-Apr (vs +1.7% Jan-Mar; forecast +1.6%)."
+
+      - claim: Forecast for urban fixed-asset investment Jan-Apr 2026
+        kind: numerical_with_unit
+        value: +1.6%
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "Urban fixed-asset investment -1.6% YoY Jan-Apr (vs +1.7% Jan-Mar; forecast +1.6%)."
+
+      - claim: Urban surveyed unemployment rate April 2026
+        kind: numerical_with_unit
+        value: 5.2%
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+        verbatim_excerpt: "Urban surveyed unemployment 5.2% in April (vs 5.4% March)."
+
+      - claim: Urban surveyed unemployment rate March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: 5.4% March
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40X04B:0-china-s-april-industrial-output-retail-sales-growth-miss-expectations/"
+        verbatim_excerpt: "Urban surveyed unemployment 5.2% in April (vs 5.4% March)."
+
+      - claim: Exports YoY growth April 2026
+        kind: numerical_with_unit
+        value: +14.1%
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "Exports +14.1% in April."
+
+      - claim: Trump state visit dates to Beijing
+        kind: temporal
+        value: May 15
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "Trump concluded two-day state visit to Beijing May 15."
+
+      - claim: China 2026 growth target range
+        kind: numerical_with_unit
+        value: 4.5%-5%
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "China's 2026 growth target 4.5%-5%."
+
+      - claim: Named institution — NBS (data publisher)
+        kind: named_institution
+        value: NBS
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "China's NBS released April 2026 monthly activity data on Monday, May 18."
+
+      - claim: Named institution — Nomura Holdings
+        kind: named_institution
+        value: Nomura Holdings
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "Nomura Holdings called for bolder policy support."
+
+      - claim: Named institution — Deloitte China
+        kind: named_institution
+        value: Deloitte China
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html"
+        verbatim_excerpt: "Deloitte China told CNBC Beijing does not yet need major stimulus."
+
+    quotes:
+      - speaker_name: Jing Liu
+        speaker_title: Analyst, HSBC
+        verbatim_en: "probably more resilient than others but no exception in terms of taking the hit"
+        source_url: "https://www.bloomberg.com/news/videos/2026-05-18/china-economic-data-surprises-on-the-downside-hsbc-says-video"
+        context: "Comment to Bloomberg on April 2026 China economic data release, May 18"
+
+  - story_id: china-april-home-prices-slowest-decline
+    category: economy_markets
+    headline_en: "China April new home prices post slowest monthly decline in a year"
+    lead_url: "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+    corroborated_by:
+      - "https://www.bloomberg.com/news/articles/2026-05-18/china-home-price-slump-eases-in-sign-market-is-stabilizing"
+    locked_urls:
+      - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+      - "https://www.bloomberg.com/news/articles/2026-05-18/china-home-price-slump-eases-in-sign-market-is-stabilizing"
+    hard_facts:
+      - claim: New home prices MoM change April 2026
+        kind: numerical_with_unit
+        value: -0.1% MoM
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+          - "https://www.bloomberg.com/news/articles/2026-05-18/china-home-price-slump-eases-in-sign-market-is-stabilizing"
+        verbatim_excerpt: "New home prices -0.1% MoM in April 2026 (vs -0.2% March); slowest since April 2025."
+
+      - claim: New home prices MoM change March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: -0.2% March
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+          - "https://www.bloomberg.com/news/articles/2026-05-18/china-home-price-slump-eases-in-sign-market-is-stabilizing"
+        verbatim_excerpt: "New home prices -0.1% MoM in April 2026 (vs -0.2% March); slowest since April 2025."
+
+      - claim: Slowest MoM decline since
+        kind: temporal
+        value: April 2025
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "New home prices -0.1% MoM in April 2026 (vs -0.2% March); slowest since April 2025."
+
+      - claim: New home prices YoY change April 2026
+        kind: numerical_with_unit
+        value: -3.5%
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+          - "https://www.bloomberg.com/news/articles/2026-05-18/china-home-price-slump-eases-in-sign-market-is-stabilizing"
+        verbatim_excerpt: "Annual -3.5% (vs -3.4% March); largest YoY drop in 11 months; 34+ months of annual contraction."
+
+      - claim: New home prices YoY change March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: -3.4% March
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+          - "https://www.bloomberg.com/news/articles/2026-05-18/china-home-price-slump-eases-in-sign-market-is-stabilizing"
+        verbatim_excerpt: "Annual -3.5% (vs -3.4% March); largest YoY drop in 11 months; 34+ months of annual contraction."
+
+      - claim: Months of annual contraction streak
+        kind: temporal
+        value: 34+ months
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Annual -3.5% (vs -3.4% March); largest YoY drop in 11 months; 34+ months of annual contraction."
+
+      - claim: Tier-1 cities MoM price change April 2026
+        kind: numerical_with_unit
+        value: +0.1% MoM
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen) +0.1% MoM; tier-2 -0.1%; tier-3 -0.3%."
+
+      - claim: Tier-2 cities MoM price change April 2026
+        kind: numerical_with_unit
+        value: -0.1%
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen) +0.1% MoM; tier-2 -0.1%; tier-3 -0.3%."
+
+      - claim: Tier-3 cities MoM price change April 2026
+        kind: numerical_with_unit
+        value: -0.3%
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen) +0.1% MoM; tier-2 -0.1%; tier-3 -0.3%."
+
+      - claim: Named tier-1 city — Beijing
+        kind: named_institution
+        value: Beijing
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen) +0.1% MoM; tier-2 -0.1%; tier-3 -0.3%."
+
+      - claim: Named tier-1 city — Shanghai
+        kind: named_institution
+        value: Shanghai
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen) +0.1% MoM; tier-2 -0.1%; tier-3 -0.3%."
+
+      - claim: Named tier-1 city — Guangzhou
+        kind: named_institution
+        value: Guangzhou
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen) +0.1% MoM; tier-2 -0.1%; tier-3 -0.3%."
+
+      - claim: Named tier-1 city — Shenzhen
+        kind: named_institution
+        value: Shenzhen
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen) +0.1% MoM; tier-2 -0.1%; tier-3 -0.3%."
+
+      - claim: Number of NBS-tracked cities with monthly price declines April 2026
+        kind: numerical
+        value: 49
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "49 of 70 NBS-tracked cities recorded monthly declines (vs 54 in March)."
+
+      - claim: Total NBS-tracked cities
+        kind: numerical
+        value: 70
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "49 of 70 NBS-tracked cities recorded monthly declines (vs 54 in March)."
+
+      - claim: NBS-tracked cities with monthly price declines March 2026 (prior count)
+        kind: numerical
+        value: 54
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "49 of 70 NBS-tracked cities recorded monthly declines (vs 54 in March)."
+
+      - claim: Property investment YoY change Jan-Apr 2026
+        kind: numerical_with_unit
+        value: -13.7% Jan-Apr YoY
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Property investment -13.7% Jan-Apr YoY."
+
+      - claim: Household loans contraction April 2026
+        kind: numerical_with_unit
+        value: 786.9 billion yuan
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Household loans contracted 786.9 billion yuan in April."
+
+      - claim: Named institution — NBS (cities tracker)
+        kind: named_institution
+        value: NBS
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "49 of 70 NBS-tracked cities recorded monthly declines (vs 54 in March)."
+
+      - claim: Named institution — Morningstar
+        kind: named_institution
+        value: Morningstar
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Morningstar's Jeff Zhang: market \"has not yet bottomed out\"; could take \"another one to two years to bottom out and recover overall\"."
+
+      - claim: Named person — Jeff Zhang (Morningstar)
+        kind: named_person
+        value: Jeff Zhang
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Morningstar's Jeff Zhang: market \"has not yet bottomed out\"; could take \"another one to two years to bottom out and recover overall\"."
+
+      - claim: Named institution — Centaline
+        kind: named_institution
+        value: Centaline
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Centaline's Zhang Dawei: \"core cities\" show resilience; \"most third- and fourth-tier cities continue to seek a way forward\"."
+
+      - claim: Named person — Zhang Dawei (Centaline)
+        kind: named_person
+        value: Zhang Dawei
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        verbatim_excerpt: "Centaline's Zhang Dawei: \"core cities\" show resilience; \"most third- and fourth-tier cities continue to seek a way forward\"."
+
+    quotes:
+      - speaker_name: Jeff Zhang
+        speaker_title: Analyst, Morningstar
+        verbatim_en: "has not yet bottomed out"
+        source_url: "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        context: "Comment on China property market conditions, May 18 2026"
+
+      - speaker_name: Jeff Zhang
+        speaker_title: Analyst, Morningstar
+        verbatim_en: "another one to two years to bottom out and recover overall"
+        source_url: "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        context: "Comment on China property market conditions, May 18 2026"
+
+      - speaker_name: Zhang Dawei
+        speaker_title: Analyst, Centaline
+        verbatim_en: "core cities"
+        source_url: "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        context: "Comment on China property market conditions, May 18 2026"
+
+      - speaker_name: Zhang Dawei
+        speaker_title: Analyst, Centaline
+        verbatim_en: "most third- and fourth-tier cities continue to seek a way forward"
+        source_url: "https://finance.yahoo.com/economy/articles/china-home-prices-fall-slowest-014556796.html"
+        context: "Comment on China property market conditions, May 18 2026"
+
+  - story_id: white-house-trump-xi-summit-trade-outcomes
+    category: politics_diplomacy
+    headline_en: "White House announces Trump-Xi summit trade outcomes"
+    lead_url: "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+    corroborated_by:
+      - "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html"
+      - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+    locked_urls:
+      - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+      - "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html"
+      - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+    hard_facts:
+      - claim: White House fact sheet publication date
+        kind: temporal
+        value: May 18
+        source_urls:
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "WH May 18 fact sheet."
+
+      - claim: Trump-Xi summit dates
+        kind: temporal
+        value: May 14-15
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "May 14-15 Trump-Xi summit in Beijing."
+
+      - claim: Trump-Xi summit location
+        kind: named_institution
+        value: Beijing
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "May 14-15 Trump-Xi summit in Beijing."
+
+      - claim: China annual US agricultural purchase commitment
+        kind: numerical_with_unit
+        value: $17 billion
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China to buy $17 billion US agri annually through 2028 (2026 prorated)."
+
+      - claim: Agricultural purchase commitment duration end year
+        kind: temporal
+        value: 2028
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China to buy $17 billion US agri annually through 2028 (2026 prorated)."
+
+      - claim: Prior soybean commitment from Oct 2025
+        kind: temporal
+        value: Oct 2025
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "Builds on Oct 2025 commitment 87mt soybeans annually."
+
+      - claim: Annual soybean volume commitment from Oct 2025
+        kind: numerical_with_unit
+        value: 87mt
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "Builds on Oct 2025 commitment 87mt soybeans annually."
+
+      - claim: Number of US beef facilities China restores market access for
+        kind: numerical_with_unit
+        value: 400+ facilities
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China restores US beef market access (400+ facilities) and resumes poultry from USDA AI-free states."
+
+      - claim: Named institution — USDA
+        kind: named_institution
+        value: USDA
+        source_urls:
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China restores US beef market access (400+ facilities) and resumes poultry from USDA AI-free states."
+
+      - claim: Initial Boeing aircraft order quantity
+        kind: numerical_with_unit
+        value: 200 Boeing aircraft
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China approved initial 200 Boeing aircraft (737 MAX + 777 with GE Aerospace engines) — first major state-linked aviation order since 2017."
+
+      - claim: Named product — Boeing 737 MAX
+        kind: named_product
+        value: 737 MAX
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China approved initial 200 Boeing aircraft (737 MAX + 777 with GE Aerospace engines) — first major state-linked aviation order since 2017."
+
+      - claim: Named product — Boeing 777
+        kind: named_product
+        value: "777"
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China approved initial 200 Boeing aircraft (737 MAX + 777 with GE Aerospace engines) — first major state-linked aviation order since 2017."
+
+      - claim: Named institution — Boeing
+        kind: named_institution
+        value: Boeing
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China approved initial 200 Boeing aircraft (737 MAX + 777 with GE Aerospace engines) — first major state-linked aviation order since 2017."
+
+      - claim: Named institution — GE Aerospace
+        kind: named_institution
+        value: GE Aerospace
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China approved initial 200 Boeing aircraft (737 MAX + 777 with GE Aerospace engines) — first major state-linked aviation order since 2017."
+
+      - claim: Year of last major state-linked aviation order from China to Boeing
+        kind: temporal
+        value: "2017"
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China approved initial 200 Boeing aircraft (737 MAX + 777 with GE Aerospace engines) — first major state-linked aviation order since 2017."
+
+      - claim: Trump's stated potential order size for Boeing jets
+        kind: numerical_with_unit
+        value: 750 jets
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html"
+        verbatim_excerpt: "Trump said order could rise to 750 jets."
+
+      - claim: IBA valuation of 200-aircraft package
+        kind: numerical_with_unit
+        value: $17-19bn
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        verbatim_excerpt: "IBA valued 200-aircraft package $17-19bn."
+
+      - claim: Named institution — IBA (aviation valuer)
+        kind: named_institution
+        value: IBA
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        verbatim_excerpt: "IBA valued 200-aircraft package $17-19bn."
+
+      - claim: Named critical mineral — yttrium
+        kind: named_product
+        value: yttrium
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China agreed to address rare earth/critical mineral shortages: yttrium, scandium, neodymium, indium + processing equipment exports."
+
+      - claim: Named critical mineral — scandium
+        kind: named_product
+        value: scandium
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China agreed to address rare earth/critical mineral shortages: yttrium, scandium, neodymium, indium + processing equipment exports."
+
+      - claim: Named critical mineral — neodymium
+        kind: named_product
+        value: neodymium
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China agreed to address rare earth/critical mineral shortages: yttrium, scandium, neodymium, indium + processing equipment exports."
+
+      - claim: Named critical mineral — indium
+        kind: named_product
+        value: indium
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "China agreed to address rare earth/critical mineral shortages: yttrium, scandium, neodymium, indium + processing equipment exports."
+
+      - claim: Named institution — US-China Board of Trade
+        kind: named_institution
+        value: US-China Board of Trade
+        source_urls:
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "US-China Board of Trade and US-China Board of Investment established."
+
+      - claim: Named institution — US-China Board of Investment
+        kind: named_institution
+        value: US-China Board of Investment
+        source_urls:
+          - "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/"
+        verbatim_excerpt: "US-China Board of Trade and US-China Board of Investment established."
+
+      - claim: Xi invited to Washington timing
+        kind: temporal
+        value: fall 2026
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+          - "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html"
+        verbatim_excerpt: "Xi invited to Washington fall 2026."
+
+      - claim: US-China bilateral trade value 2022
+        kind: numerical_with_unit
+        value: $690bn
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        verbatim_excerpt: "US-China bilateral trade fell from $690bn (2022) to ~$415bn (2025)."
+
+      - claim: US-China bilateral trade value 2025
+        kind: numerical_with_unit
+        value: ~$415bn
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        verbatim_excerpt: "US-China bilateral trade fell from $690bn (2022) to ~$415bn (2025)."
+
+      - claim: US GDP size (Elms reference context)
+        kind: numerical_with_unit
+        value: $30 trillion
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        verbatim_excerpt: "$17 billion annually is \"minimal benefit\" to $30 trillion US economy."
+
+      - claim: Named person — Deborah Elms
+        kind: named_person
+        value: Deborah Elms
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        verbatim_excerpt: "Deborah Elms (Hinrich Foundation): \"I'm sceptical of any announcements that have been made by one side and not confirmed by the other\"."
+
+      - claim: Named institution — Hinrich Foundation
+        kind: named_institution
+        value: Hinrich Foundation
+        source_urls:
+          - "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        verbatim_excerpt: "Deborah Elms (Hinrich Foundation): \"I'm sceptical of any announcements that have been made by one side and not confirmed by the other\"."
+
+    quotes:
+      - speaker_name: Deborah Elms
+        speaker_title: Trade expert, Hinrich Foundation
+        verbatim_en: "I'm sceptical of any announcements that have been made by one side and not confirmed by the other"
+        source_url: "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        context: "Comment on Trump-Xi summit trade announcements, May 18 2026"
+
+      - speaker_name: Deborah Elms
+        speaker_title: Trade expert, Hinrich Foundation
+        verbatim_en: "minimal benefit"
+        source_url: "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
+        context: "Comment characterising $17bn annually relative to US economy size, May 18 2026"
+
+  - story_id: apec-china-2026-som2-opens-shanghai
+    category: politics_diplomacy
+    headline_en: "APEC China 2026 Second Senior Officials' Meeting opens in Shanghai"
+    lead_url: "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+    corroborated_by:
+      - "https://www.apec.org/press/news-releases/2026/1105_som2"
+    locked_urls:
+      - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+      - "https://www.apec.org/press/news-releases/2026/1105_som2"
+    hard_facts:
+      - claim: SOM2 opening date and location
+        kind: temporal
+        value: Monday May 18
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "SOM2 of APEC China 2026 opened in Shanghai Monday May 18."
+
+      - claim: Number of APEC member economies
+        kind: numerical
+        value: "21"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "All 21 APEC member economies."
+
+      - claim: Total representatives attending
+        kind: numerical_with_unit
+        value: 1,000+ representatives
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "1,000+ representatives total."
+
+      - claim: Working group/committee sessions date range
+        kind: temporal
+        value: May 11-17
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "~40 working group/committee sessions May 11-17."
+
+      - claim: Approximate number of working group/committee sessions
+        kind: numerical_with_unit
+        value: "~40"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "~40 working group/committee sessions May 11-17."
+
+      - claim: Named person — Casey Mace (US APEC Senior Official)
+        kind: named_person
+        value: Casey Mace
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+        verbatim_excerpt: "US delegation led by Senior Official for APEC Casey Mace and Deputy Assistant Secretary John R. Mills."
+
+      - claim: Named person — John R. Mills (Deputy Assistant Secretary)
+        kind: named_person
+        value: John R. Mills
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+        verbatim_excerpt: "US delegation led by Senior Official for APEC Casey Mace and Deputy Assistant Secretary John R. Mills."
+
+      - claim: Named person — Xiong Jijun (Vice Minister, MIIT)
+        kind: named_person
+        value: Xiong Jijun
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "Vice Minister Xiong Jijun (MIIT) opened Telecoms WG."
+
+      - claim: Named institution — MIIT
+        kind: named_institution
+        value: MIIT
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "Vice Minister Xiong Jijun (MIIT) opened Telecoms WG."
+
+      - claim: Named person — Ambassador Chen Xu (Chair 2026 APEC SOM)
+        kind: named_person
+        value: Chen Xu
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "Ambassador Chen Xu, Chair of 2026 APEC SOM."
+
+      - claim: Named person — Eduardo Pedrosa (APEC Executive Director)
+        kind: named_person
+        value: Eduardo Pedrosa
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "APEC ED Eduardo Pedrosa."
+
+      - claim: Suzhou ministerial dates
+        kind: temporal
+        value: May 22-23
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "Suzhou ministerial May 22-23."
+
+      - claim: Shenzhen Leaders' Summit dates
+        kind: temporal
+        value: Nov 18-19
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-participates-in-second-apec-2026-senior-officials-meetings-and-ministerial-in-shanghai-and-suzhou-china/"
+          - "https://www.apec.org/press/news-releases/2026/1105_som2"
+        verbatim_excerpt: "Shenzhen Leaders' Summit Nov 18-19."
+
+    quotes:
+      - speaker_name: Chen Xu
+        speaker_title: Ambassador; Chair of 2026 APEC SOM
+        verbatim_en: "The current international situation is marked by intertwined changes and turbulence, and APEC faces both opportunities and challenges"
+        source_url: "https://www.apec.org/press/news-releases/2026/1105_som2"
+        context: "Opening remarks at APEC SOM2, Shanghai, May 18 2026"
+
+      - speaker_name: Chen Xu
+        speaker_title: Ambassador; Chair of 2026 APEC SOM
+        verbatim_en: "whether we can continue to write the Asia-Pacific economic miracle depends on our decisions"
+        source_url: "https://www.apec.org/press/news-releases/2026/1105_som2"
+        context: "Opening remarks at APEC SOM2, Shanghai, May 18 2026"
+
+      - speaker_name: Eduardo Pedrosa
+        speaker_title: Executive Director, APEC Secretariat
+        verbatim_en: "The value of these meetings lies not only in the discussions themselves, but in the ability of economies to identify practical lessons, build momentum across sectors"
+        source_url: "https://www.apec.org/press/news-releases/2026/1105_som2"
+        context: "Remarks at APEC SOM2, Shanghai, May 18 2026"
+
+      - speaker_name: Xiong Jijun
+        speaker_title: Vice Minister, MIIT
+        verbatim_en: "removing barriers through openness, accelerating the interoperability and mutual certification of technical standards, and deepening connectivity of digital infrastructure"
+        source_url: "https://www.apec.org/press/news-releases/2026/1105_som2"
+        context: "Remarks opening Telecoms Working Group, APEC SOM2, Shanghai, May 18 2026"
+
+  - story_id: earthquake-5point2-magnitude-guangxi-kills-two
+    category: society_livelihood
+    headline_en: "5.2-magnitude earthquake kills two in China's Guangxi"
+    lead_url: "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+    corroborated_by:
+      - "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings"
+    locked_urls:
+      - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+      - "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings"
+    hard_facts:
+      - claim: Earthquake magnitude
+        kind: numerical_with_unit
+        value: M5.2
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+          - "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings"
+        verbatim_excerpt: "M5.2 quake struck Liunan District, Liuzhou city, Guangxi at 12:21 AM Beijing time May 18 — China Earthquake Networks Centre (CENC)."
+
+      - claim: Quake strike time
+        kind: temporal
+        value: 12:21 AM Beijing time May 18
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "M5.2 quake struck Liunan District, Liuzhou city, Guangxi at 12:21 AM Beijing time May 18 — China Earthquake Networks Centre (CENC)."
+
+      - claim: Named institution — China Earthquake Networks Centre
+        kind: named_institution
+        value: China Earthquake Networks Centre (CENC)
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "M5.2 quake struck Liunan District, Liuzhou city, Guangxi at 12:21 AM Beijing time May 18 — China Earthquake Networks Centre (CENC)."
+
+      - claim: Epicentre latitude coordinate
+        kind: numerical_with_unit
+        value: 24.38°N
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Epicentre 24.38°N, 109.26°E, Taiyangcun town, ~16 km from downtown Liuzhou, depth 8 km."
+
+      - claim: Epicentre longitude coordinate
+        kind: numerical_with_unit
+        value: 109.26°E
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Epicentre 24.38°N, 109.26°E, Taiyangcun town, ~16 km from downtown Liuzhou, depth 8 km."
+
+      - claim: Distance of epicentre from downtown Liuzhou
+        kind: numerical_with_unit
+        value: ~16 km
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Epicentre 24.38°N, 109.26°E, Taiyangcun town, ~16 km from downtown Liuzhou, depth 8 km."
+
+      - claim: Earthquake depth
+        kind: numerical_with_unit
+        value: 8 km
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Epicentre 24.38°N, 109.26°E, Taiyangcun town, ~16 km from downtown Liuzhou, depth 8 km."
+
+      - claim: Death toll
+        kind: numerical
+        value: "two"
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+          - "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings"
+        verbatim_excerpt: "Killed two — CCTV: couple, 63-year-old man and 53-year-old woman."
+
+      - claim: Age of male fatality
+        kind: numerical_with_unit
+        value: 63-year-old man
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Killed two — CCTV: couple, 63-year-old man and 53-year-old woman."
+
+      - claim: Age of female fatality
+        kind: numerical_with_unit
+        value: 53-year-old woman
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Killed two — CCTV: couple, 63-year-old man and 53-year-old woman."
+
+      - claim: Named institution — CCTV (fatality report)
+        kind: named_institution
+        value: CCTV
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Killed two — CCTV: couple, 63-year-old man and 53-year-old woman."
+
+      - claim: Age of survivor rescued from rubble
+        kind: numerical_with_unit
+        value: 91-year-old man
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Xinhua: 91-year-old man rescued from rubble; missing count three."
+
+      - claim: Named institution — Xinhua (rescue report)
+        kind: named_institution
+        value: Xinhua
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Xinhua: 91-year-old man rescued from rubble; missing count three."
+
+      - claim: Missing persons count
+        kind: numerical
+        value: "three"
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Xinhua: 91-year-old man rescued from rubble; missing count three."
+
+      - claim: Number hospitalised
+        kind: numerical
+        value: "Four"
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Four hospitalised, non-life-threatening."
+
+      - claim: Number of buildings collapsed
+        kind: numerical
+        value: "13"
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+          - "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings"
+        verbatim_excerpt: "13 buildings collapsed."
+
+      - claim: Number of residents evacuated
+        kind: numerical_with_unit
+        value: 7,000+ residents
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+          - "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings"
+        verbatim_excerpt: "7,000+ residents evacuated."
+
+      - claim: Emergency response activation time
+        kind: temporal
+        value: 2:00 AM
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "China Earthquake Administration + Guangxi local HQ activated Level-III response by 2:00 AM."
+
+      - claim: Named institution — China Earthquake Administration
+        kind: named_institution
+        value: China Earthquake Administration
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "China Earthquake Administration + Guangxi local HQ activated Level-III response by 2:00 AM."
+
+      - claim: Number of fire/rescue vehicles deployed
+        kind: numerical_with_unit
+        value: 51 fire/rescue vehicles
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "51 fire/rescue vehicles, 315 emergency personnel."
+
+      - claim: Number of emergency personnel deployed
+        kind: numerical_with_unit
+        value: 315 emergency personnel
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "51 fire/rescue vehicles, 315 emergency personnel."
+
+      - claim: Number of felt-reports with Hong Kong Observatory
+        kind: numerical_with_unit
+        value: 10+
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Tremor felt in Nanning; 10+ felt-reports with HK Observatory."
+
+      - claim: Named institution — HK Observatory (felt-reports)
+        kind: named_institution
+        value: HK Observatory
+        source_urls:
+          - "https://finance.yahoo.com/news/articles/earthquake-hits-southwest-china-thousands-020553963.html"
+        verbatim_excerpt: "Tremor felt in Nanning; 10+ felt-reports with HK Observatory."
+
+    quotes: []
