@@ -1,0 +1,1341 @@
+version: 1
+generated_at: "2026-05-18T00:00:00Z"
+country: Japan
+date: "2026-05-18"
+total_stories: 17
+stories:
+  - story_id: mof-5yr-jgb-auction-bid-cover-3-22x
+    category: economy_markets
+    headline_en: "Ministry of Finance Conducts 5-Year JGB Auction With Below-Average Bid-to-Cover Ratio of 3.22x"
+    lead_url: "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+    corroborated_by:
+      - "https://www.bloomberg.com/news/articles/2026-05-18/japan-bonds-drop-as-10-year-yield-climbs-to-highest-since-1996"
+    locked_urls:
+      - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+      - "https://www.bloomberg.com/news/articles/2026-05-18/japan-bonds-drop-as-10-year-yield-climbs-to-highest-since-1996"
+    hard_facts:
+      - claim: "JGB issue number"
+        kind: numerical
+        value: "185"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "5-Year JGB Issue No. 185 auction held 2026-05-18"
+      - claim: "JGB auction date"
+        kind: temporal
+        value: "2026-05-18"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "5-Year JGB Issue No. 185 auction held 2026-05-18"
+      - claim: "JGB nominal coupon rate"
+        kind: numerical_with_unit
+        value: "2.0%"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "nominal coupon 2.0%"
+      - claim: "JGB settlement date"
+        kind: temporal
+        value: "2026-05-19"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "settlement 2026-05-19"
+      - claim: "JGB maturity date"
+        kind: temporal
+        value: "2031-03-20"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "maturity 2031-03-20"
+      - claim: "Total competitive bids submitted"
+        kind: numerical_with_unit
+        value: "6,214.1 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "total competitive bids 6,214.1 billion yen"
+      - claim: "Competitive bids accepted"
+        kind: numerical_with_unit
+        value: "1,932.2 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "accepted 1,932.2 billion yen"
+      - claim: "Bid-to-cover ratio"
+        kind: numerical_with_unit
+        value: "3.22x"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+          - "https://www.bloomberg.com/news/articles/2026-05-18/japan-bonds-drop-as-10-year-yield-climbs-to-highest-since-1996"
+        verbatim_excerpt: "bid-to-cover ratio 3.22x (vs. 12-month average ~3.47x)"
+      - claim: "12-month average bid-to-cover ratio"
+        kind: numerical_with_unit
+        value: "~3.47x"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "bid-to-cover ratio 3.22x (vs. 12-month average ~3.47x)"
+      - claim: "Stop-out price"
+        kind: numerical
+        value: "99.85"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "stop-out price 99.85 (yield 2.034%)"
+      - claim: "Stop-out yield"
+        kind: numerical_with_unit
+        value: "2.034%"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "stop-out price 99.85 (yield 2.034%)"
+      - claim: "Weighted-average price"
+        kind: numerical
+        value: "99.89"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "weighted-average price 99.89 (yield 2.024%)"
+      - claim: "Weighted-average yield"
+        kind: numerical_with_unit
+        value: "2.024%"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "weighted-average price 99.89 (yield 2.024%)"
+      - claim: "Non-competitive bids accepted"
+        kind: numerical_with_unit
+        value: "567.3 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260518.htm"
+        verbatim_excerpt: "non-competitive bids accepted 567.3 billion yen"
+    quotes: []
+
+  - story_id: boj-april-2026-outlook-gdp-cpi-projections
+    category: economy_markets
+    headline_en: "BOJ Publishes April Current Account Balances and Highlights of April 2026 Outlook"
+    lead_url: "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+    hard_facts:
+      - claim: "BOJ publication date"
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "BOJ released April 2026 current account balances by depositor sector + Highlights of April 2026 Outlook on May 18, 2026"
+      - claim: "Real GDP projection FY2025"
+        kind: numerical_with_unit
+        value: "1.0%"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "Real GDP projections: 1.0% FY2025"
+      - claim: "Real GDP projection FY2026"
+        kind: numerical_with_unit
+        value: "0.5%"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "Real GDP projections: 1.0% FY2025, 0.5% FY2026"
+      - claim: "Real GDP projection FY2027"
+        kind: numerical_with_unit
+        value: "0.7%"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "Real GDP projections: 1.0% FY2025, 0.5% FY2026, 0.7% FY2027"
+      - claim: "Real GDP projection FY2028"
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "Real GDP projections: 1.0% FY2025, 0.5% FY2026, 0.7% FY2027, 0.8% FY2028"
+      - claim: "CPI less fresh food FY2026 range"
+        kind: numerical_with_unit
+        value: "2.5–3.0%"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "CPI less fresh food: 2.5–3.0% FY2026"
+      - claim: "CPI less fresh food FY2027 range"
+        kind: numerical_with_unit
+        value: "2.0–2.5%"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "CPI less fresh food: 2.5–3.0% FY2026, 2.0–2.5% FY2027"
+      - claim: "CPI less fresh food FY2028"
+        kind: numerical_with_unit
+        value: "~2.0%"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "CPI less fresh food: 2.5–3.0% FY2026, 2.0–2.5% FY2027, ~2.0% FY2028"
+      - claim: "Current BOJ policy rate"
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "Current policy rate 0.75%"
+      - claim: "April meeting vote result"
+        kind: numerical
+        value: "6–3"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "April meeting decided by 6–3 vote"
+      - claim: "Number of board members supporting immediate rate hike"
+        kind: numerical
+        value: "three"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "three board members supported immediate rate hike"
+      - claim: "BOJ board member calling for rate hike"
+        kind: named_person
+        value: "Kazuyuki Masu"
+        source_urls:
+          - "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        verbatim_excerpt: "Board member Kazuyuki Masu called for raising rates \"as soon as possible.\""
+    quotes:
+      - speaker_name: "BOJ (institutional statement)"
+        speaker_title: "Bank of Japan"
+        verbatim_en: "the impact of the situation in the Middle East on economic activity and prices warrants attention"
+        source_url: "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        context: "April 2026 Outlook report, published May 18, 2026"
+      - speaker_name: "BOJ (institutional statement)"
+        speaker_title: "Bank of Japan"
+        verbatim_en: "continue to raise the policy interest rate and adjust the degree of monetary accommodation"
+        source_url: "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        context: "April 2026 Outlook report, published May 18, 2026"
+      - speaker_name: "Kazuyuki Masu"
+        speaker_title: "Board Member, Bank of Japan"
+        verbatim_en: "as soon as possible"
+        source_url: "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202604.htm"
+        context: "April 2026 BOJ monetary policy meeting, dissenting view on rate hike timing"
+
+  - story_id: 10yr-jgb-yield-29yr-high-2-80pct
+    category: economy_markets
+    headline_en: "10-Year JGB Yield Hits 29-Year High of 2.80% in Tokyo"
+    lead_url: "https://www.nippon.com/en/news/yjj2026051800204/"
+    corroborated_by:
+      - "https://www.bloomberg.com/news/articles/2026-05-18/japan-bonds-drop-as-10-year-yield-climbs-to-highest-since-1996"
+    locked_urls:
+      - "https://www.nippon.com/en/news/yjj2026051800204/"
+      - "https://www.bloomberg.com/news/articles/2026-05-18/japan-bonds-drop-as-10-year-yield-climbs-to-highest-since-1996"
+    hard_facts:
+      - claim: "10-year JGB yield high"
+        kind: numerical_with_unit
+        value: "2.80%"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800204/"
+          - "https://www.bloomberg.com/news/articles/2026-05-18/japan-bonds-drop-as-10-year-yield-climbs-to-highest-since-1996"
+        verbatim_excerpt: "10-year JGB yield reached 2.80% in Tokyo trading on May 18, 2026"
+      - claim: "Years since last comparable yield level"
+        kind: numerical_with_unit
+        value: "29 years"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800204/"
+        verbatim_excerpt: "highest in 29 years"
+      - claim: "Date of 10-year JGB yield peak"
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800204/"
+        verbatim_excerpt: "10-year JGB yield reached 2.80% in Tokyo trading on May 18, 2026"
+      - claim: "Dollar/yen intraday high"
+        kind: numerical_with_unit
+        value: "159 yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800204/"
+        verbatim_excerpt: "Dollar temporarily surpassed 159 yen"
+      - claim: "Prior dollar/yen intervention date"
+        kind: temporal
+        value: "April 30"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800204/"
+        verbatim_excerpt: "highest since April 30 when authorities intervened"
+      - claim: "Dollar/yen rate at 5 p.m. Tokyo"
+        kind: numerical_with_unit
+        value: "158.90–91"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800204/"
+        verbatim_excerpt: "eased to 158.90–91 by 5 p.m. Tokyo time"
+      - claim: "Prior Friday close dollar/yen rate"
+        kind: numerical_with_unit
+        value: "158.44–45"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800204/"
+        verbatim_excerpt: "vs. 158.44–45 prior Friday close"
+    quotes:
+      - speaker_name: "unnamed official"
+        speaker_title: "foreign-securities-house official, Tokyo"
+        verbatim_en: "No investors actively buy bonds, and long-term interest rates will continue to rise."
+        source_url: "https://www.nippon.com/en/news/yjj2026051800204/"
+        context: "comment on 10-year JGB yield reaching 29-year high, May 18, 2026"
+
+  - story_id: national-council-refundable-tax-credit-design
+    category: economy_markets
+    headline_en: "National Council Advances Refundable Tax Credit Programme Design"
+    lead_url: "https://www.nippon.com/en/news/yjj2026051700070/eligible-recipients-key-in-japan-refundable-tax-credit-talks.html"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.nippon.com/en/news/yjj2026051700070/eligible-recipients-key-in-japan-refundable-tax-credit-talks.html"
+    hard_facts:
+      - claim: "Meeting date of National Council on Social Security"
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051700070/eligible-recipients-key-in-japan-refundable-tax-credit-talks.html"
+        verbatim_excerpt: "Japan's National Council on Social Security met May 18, 2026 to advance design of a refundable tax credit programme"
+      - claim: "Named institution: National Council on Social Security"
+        kind: named_institution
+        value: "National Council on Social Security"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051700070/eligible-recipients-key-in-japan-refundable-tax-credit-talks.html"
+        verbatim_excerpt: "Japan's National Council on Social Security met May 18, 2026"
+      - claim: "Interim report expected timing"
+        kind: temporal
+        value: "before summer"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051700070/eligible-recipients-key-in-japan-refundable-tax-credit-talks.html"
+        verbatim_excerpt: "Interim report expected before summer"
+      - claim: "Takaichi zero food consumption tax duration"
+        kind: temporal
+        value: "two-year"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051700070/eligible-recipients-key-in-japan-refundable-tax-credit-talks.html"
+        verbatim_excerpt: "Takaichi government's two-year zero food consumption tax"
+    quotes:
+      - speaker_name: "programme document (attributed collectively)"
+        speaker_title: "Japan National Council on Social Security"
+        verbatim_en: "to reduce the burden on low- and middle-income workers"
+        source_url: "https://www.nippon.com/en/news/yjj2026051700070/eligible-recipients-key-in-japan-refundable-tax-credit-talks.html"
+        context: "stated aim of the refundable tax credit programme, May 18, 2026 council meeting"
+      - speaker_name: "parties (collective)"
+        speaker_title: "Japan National Council on Social Security members"
+        verbatim_en: "support under the programme should, in principle, be provided on an individual basis rather than on a household basis"
+        source_url: "https://www.nippon.com/en/news/yjj2026051700070/eligible-recipients-key-in-japan-refundable-tax-credit-talks.html"
+        context: "agreed principle at May 18, 2026 council meeting on programme design"
+
+  - story_id: takaichi-reverses-supplementary-budget-energy
+    category: politics_diplomacy
+    headline_en: "PM Takaichi Reverses Course on Supplementary Budget Amid Middle East Energy Shock"
+    lead_url: "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+    hard_facts:
+      - claim: "Announcement date of supplementary budget consideration"
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "PM Sanae Takaichi announced May 18 she asked Finance Minister Satsuki Katayama to consider compiling a supplementary FY2026 budget"
+      - claim: "PM of Japan"
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "PM Sanae Takaichi announced May 18"
+      - claim: "Finance Minister of Japan"
+        kind: named_person
+        value: "Satsuki Katayama"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "she asked Finance Minister Satsuki Katayama to consider compiling a supplementary FY2026 budget"
+      - claim: "FY2026 main budget amount"
+        kind: numerical_with_unit
+        value: "122-trillion-yen"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "record 122-trillion-yen ($776 billion) FY2026 main budget"
+      - claim: "FY2026 main budget USD equivalent"
+        kind: numerical_with_unit
+        value: "$776 billion"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "record 122-trillion-yen ($776 billion) FY2026 main budget"
+      - claim: "Opposition leader proposed additional spending"
+        kind: numerical_with_unit
+        value: "~3 trillion yen"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Opposition leader Yuichiro Tamaki proposed ~3 trillion yen ($18.9 billion) in additional spending"
+      - claim: "Opposition leader proposed additional spending USD equivalent"
+        kind: numerical_with_unit
+        value: "$18.9 billion"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Opposition leader Yuichiro Tamaki proposed ~3 trillion yen ($18.9 billion) in additional spending"
+      - claim: "Analysts estimated total supplementary budget potential"
+        kind: numerical_with_unit
+        value: "5–10 trillion yen"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "analysts estimated 5–10 trillion yen total potential"
+      - claim: "10-year JGB yield on announcement day"
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "The 10-year JGB yield rose 10 bp to 2.8%"
+      - claim: "10-year JGB yield rise"
+        kind: numerical_with_unit
+        value: "10 bp"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "The 10-year JGB yield rose 10 bp to 2.8%"
+      - claim: "30-year JGB yield"
+        kind: numerical_with_unit
+        value: "4.19%"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "30-year to 4.19%"
+      - claim: "Yen/dollar exchange rate"
+        kind: numerical_with_unit
+        value: "158.97/dollar"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Yen weakened to 158.97/dollar"
+      - claim: "Opposition leader name"
+        kind: named_person
+        value: "Yuichiro Tamaki"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Opposition leader Yuichiro Tamaki proposed ~3 trillion yen"
+      - claim: "Chief Cabinet Secretary name"
+        kind: named_person
+        value: "Minoru Kihara"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Chief Cabinet Secretary Minoru Kihara had previously dismissed extra-budget speculation"
+      - claim: "BOJ Governor name"
+        kind: named_person
+        value: "Kazuo Ueda"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "BOJ Gov. Kazuo Ueda reaffirmed gradual tightening"
+      - claim: "Named institution: Sumitomo Mitsui Trust Asset Management"
+        kind: named_institution
+        value: "Sumitomo Mitsui Trust Asset Management"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Katsutoshi Inadome (Sumitomo Mitsui Trust Asset Management)"
+      - claim: "Named institution: Sumitomo Mitsui Banking"
+        kind: named_institution
+        value: "Sumitomo Mitsui Banking"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Daisuke Uno (Sumitomo Mitsui Banking)"
+      - claim: "Named institution: Nomura Securities"
+        kind: named_institution
+        value: "Nomura Securities"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Mari Iwashita (Nomura Securities)"
+      - claim: "BOJ potential rate level cited by analyst"
+        kind: numerical_with_unit
+        value: "1.5%"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "there's a chance the BOJ could raise to 1.5% by March end"
+      - claim: "Named person: Katsutoshi Inadome"
+        kind: named_person
+        value: "Katsutoshi Inadome"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Katsutoshi Inadome (Sumitomo Mitsui Trust Asset Management)"
+      - claim: "Named person: Daisuke Uno"
+        kind: named_person
+        value: "Daisuke Uno"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Daisuke Uno (Sumitomo Mitsui Banking)"
+      - claim: "Named person: Mari Iwashita"
+        kind: named_person
+        value: "Mari Iwashita"
+        source_urls:
+          - "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        verbatim_excerpt: "Mari Iwashita (Nomura Securities)"
+    quotes:
+      - speaker_name: "Sanae Takaichi"
+        speaker_title: "Prime Minister of Japan"
+        verbatim_en: "I asked Finance Minister Katayama last week to consider ways of funding including compiling a supplementary budget."
+        source_url: "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        context: "ruling coalition meeting, May 18, 2026"
+      - speaker_name: "Katsutoshi Inadome"
+        speaker_title: "analyst, Sumitomo Mitsui Trust Asset Management"
+        verbatim_en: "The about-face by Takaichi...is making markets jittery and triggering a JGB selloff."
+        source_url: "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        context: "comment on Takaichi supplementary budget announcement, May 18, 2026"
+      - speaker_name: "Daisuke Uno"
+        speaker_title: "analyst, Sumitomo Mitsui Banking"
+        verbatim_en: "When countries like Japan and Britain contemplate fiscal stimulus, there's a tendency for that to trigger a triple selling."
+        source_url: "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        context: "comment on fiscal stimulus risk, May 18, 2026"
+      - speaker_name: "Mari Iwashita"
+        speaker_title: "analyst, Nomura Securities"
+        verbatim_en: "If inflationary risks heighten, there's a chance the BOJ could raise to 1.5% by March end."
+        source_url: "https://www.aol.com/articles/exclusive-japans-extra-budget-funding-010232000.html"
+        context: "comment on BOJ rate outlook, May 18, 2026"
+
+  - story_id: fm-motegi-keynote-japan-un-70th-symposium
+    category: politics_diplomacy
+    headline_en: "FM Motegi Delivers Keynote at Japan-UN 70th Anniversary Symposium"
+    lead_url: "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+    corroborated_by: []
+    locked_urls:
+      - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+    hard_facts:
+      - claim: "Symposium date and time"
+        kind: temporal
+        value: "May 18, 2026, 11:00–13:00 JST"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "May 18, 2026, 11:00–13:00 JST via Zoom"
+      - claim: "Foreign Minister of Japan"
+        kind: named_person
+        value: "Toshimitsu Motegi"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Foreign Minister Toshimitsu Motegi delivered keynote address"
+      - claim: "UN Secretary-General delivering keynote"
+        kind: named_person
+        value: "António Guterres"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Other keynote: UN Secretary-General António Guterres"
+      - claim: "UNU Rector and UN Under-Secretary-General giving welcome remarks"
+        kind: named_person
+        value: "Tshilidzi Marwala"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Welcome remarks: Prof. Tshilidzi Marwala (UNU Rector, UN Under-Secretary-General)"
+      - claim: "Panel moderator"
+        kind: named_person
+        value: "Melissa Fleming"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Panel moderator: Melissa Fleming, UN Under-Secretary-General for Global Communications"
+      - claim: "Japan's Permanent Representative to the UN"
+        kind: named_person
+        value: "Kazuyuki Yamazaki"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Ambassador Kazuyuki Yamazaki (Japan's Permanent Representative to the UN)"
+      - claim: "UN USG Disarmament panelist"
+        kind: named_person
+        value: "Izumi Nakamitsu"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Izumi Nakamitsu (UN USG Disarmament)"
+      - claim: "UN USG Policy panelist"
+        kind: named_person
+        value: "Guy Ryder"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Guy Ryder (UN USG Policy)"
+      - claim: "UN Pavilion Osaka EXPO 2025 visitors"
+        kind: numerical_with_unit
+        value: ">400,000 visitors"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "UN Pavilion at Osaka EXPO 2025 had attracted >400,000 visitors"
+      - claim: "Named person: Hiroyuki Ishige"
+        kind: named_person
+        value: "Hiroyuki Ishige"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Hiroyuki Ishige, Secretary General of Japan Association for 2025 World Expo, presented"
+      - claim: "Named institution: United Nations University"
+        kind: named_institution
+        value: "UNU"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "joint UNU/UNIC Tokyo symposium"
+      - claim: "Named institution: Japan Association for 2025 World Expo"
+        kind: named_institution
+        value: "Japan Association for 2025 World Expo"
+        source_urls:
+          - "https://unu.edu/symposium/celebrating-70-japan-un-cooperation-expo-2025-and-future-multilateralism"
+        verbatim_excerpt: "Secretary General of Japan Association for 2025 World Expo"
+    quotes: []
+
+  - story_id: birth-surname-bill-unlikely-current-diet
+    category: politics_diplomacy
+    headline_en: "Birth-Surname Bill Unlikely for Current Diet Session"
+    lead_url: "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+    corroborated_by: []
+    locked_urls:
+      - "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+    hard_facts:
+      - claim: "Statement date"
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+        verbatim_excerpt: "Statement made by Chief Cabinet Secretary Minoru Kihara on May 18"
+      - claim: "Current Diet session end"
+        kind: temporal
+        value: "July 2026"
+        source_urls:
+          - "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+        verbatim_excerpt: "current Diet session, which runs until July 2026"
+      - claim: "Chief Cabinet Secretary name"
+        kind: named_person
+        value: "Minoru Kihara"
+        source_urls:
+          - "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+        verbatim_excerpt: "Statement made by Chief Cabinet Secretary Minoru Kihara on May 18"
+      - claim: "General election date referenced"
+        kind: temporal
+        value: "Oct 2024"
+        source_urls:
+          - "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+        verbatim_excerpt: "Takaichi's LDP-led coalition (with Japan Innovation Party as partner after Oct 2024 general election)"
+      - claim: "Named institution: Japan Innovation Party"
+        kind: named_institution
+        value: "Japan Innovation Party"
+        source_urls:
+          - "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+        verbatim_excerpt: "Takaichi's LDP-led coalition (with Japan Innovation Party as partner after Oct 2024 general election)"
+      - claim: "Named institution: Centrist Reform Alliance"
+        kind: named_institution
+        value: "Centrist Reform Alliance"
+        source_urls:
+          - "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+        verbatim_excerpt: "The opposition Centrist Reform Alliance, which campaigned heavily on separate surnames"
+      - claim: "Centrist Reform Alliance election loss date"
+        kind: temporal
+        value: "Feb 2026"
+        source_urls:
+          - "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+        verbatim_excerpt: "suffered heavy losses in Feb 2026 House of Representatives election"
+    quotes:
+      - speaker_name: "Minoru Kihara"
+        speaker_title: "Chief Cabinet Secretary, Japan"
+        verbatim_en: "remains under consideration, and it is difficult at this point to give a concrete answer regarding the timing of its submission."
+        source_url: "https://japantoday.com/category/politics/bill-on-birth-surname-use-after-marriage-unlikely-for-current-diet-session"
+        context: "press statement, May 18, 2026, on birth-surname bill submission timing"
+
+  - story_id: g7-finance-ministers-imbalances-paris
+    category: politics_diplomacy
+    headline_en: "G7 Finance Ministers Seek Common Stance on Imbalances as Trade Tensions Persist"
+    lead_url: "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+    corroborated_by: []
+    locked_urls:
+      - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+    hard_facts:
+      - claim: "G7 preparatory meeting date"
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        verbatim_excerpt: "G7 finance ministers and central bank governors convened in Paris May 18, 2026 for two-day preparatory meeting"
+      - claim: "G7 preparatory meeting duration"
+        kind: temporal
+        value: "two-day"
+        source_urls:
+          - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        verbatim_excerpt: "convened in Paris May 18, 2026 for two-day preparatory meeting"
+      - claim: "Formal G7 Finance Ministers summit dates"
+        kind: temporal
+        value: "June 15–17"
+        source_urls:
+          - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        verbatim_excerpt: "ahead of formal G7 Finance Ministers summit June 15–17 in Evian, France"
+      - claim: "Formal G7 Finance Ministers summit location"
+        kind: named_institution
+        value: "Evian, France"
+        source_urls:
+          - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        verbatim_excerpt: "formal G7 Finance Ministers summit June 15–17 in Evian, France"
+      - claim: "France's delegate minister for trade"
+        kind: named_person
+        value: "Roland Lescure"
+        source_urls:
+          - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        verbatim_excerpt: "Hosted by France's delegate minister for trade Roland Lescure"
+      - claim: "Named person: Philip Luck"
+        kind: named_person
+        value: "Philip Luck"
+        source_urls:
+          - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        verbatim_excerpt: "Philip Luck (CSIS)"
+      - claim: "Named institution: CSIS"
+        kind: named_institution
+        value: "CSIS"
+        source_urls:
+          - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        verbatim_excerpt: "Philip Luck (CSIS)"
+      - claim: "Japan's finance minister attending"
+        kind: named_person
+        value: "Katayama"
+        source_urls:
+          - "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        verbatim_excerpt: "Japan's Finance Minister Katayama attended"
+    quotes:
+      - speaker_name: "Roland Lescure"
+        speaker_title: "Delegate Minister for Trade, France"
+        verbatim_en: "The way the global economy has been developing for the past 10 years or so is clearly unsustainable"
+        source_url: "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        context: "G7 preparatory meeting, Paris, May 18, 2026"
+      - speaker_name: "Roland Lescure"
+        speaker_title: "Delegate Minister for Trade, France"
+        verbatim_en: "these discussions are not easy...we don't agree on everything"
+        source_url: "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        context: "G7 preparatory meeting, Paris, May 18, 2026"
+      - speaker_name: "Philip Luck"
+        speaker_title: "analyst, CSIS"
+        verbatim_en: "I'd be shocked if they're going to sign on to the idea this is the U.S.'s fault."
+        source_url: "https://japantoday.com/category/politics/G7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity"
+        context: "comment on G7 imbalance discussions, May 18, 2026"
+
+  - story_id: kioxia-shares-bid-only-ai-profit-forecast
+    category: tech_industry
+    headline_en: "Kioxia Shares Bid-Only on Record AI-Driven Profit Forecast"
+    lead_url: "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+    corroborated_by:
+      - "https://www.japantimes.co.jp/business/2026/05/18/companies/kioxia-shares-buy-orders/"
+    locked_urls:
+      - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+      - "https://www.japantimes.co.jp/business/2026/05/18/companies/kioxia-shares-buy-orders/"
+    hard_facts:
+      - claim: "Kioxia shares trading status date"
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Kioxia Holdings (TSE: 285A) shares untraded on May 18, 2026, overwhelmed by buy orders"
+      - claim: "Kioxia TSE ticker"
+        kind: named_product
+        value: "285A"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Kioxia Holdings (TSE: 285A)"
+      - claim: "Apr-Jun 2026 quarterly operating profit guidance"
+        kind: numerical_with_unit
+        value: "¥1.3 trillion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+          - "https://www.japantimes.co.jp/business/2026/05/18/companies/kioxia-shares-buy-orders/"
+        verbatim_excerpt: "Apr–Jun 2026 quarterly operating profit guidance ¥1.3 trillion ($8.2 billion)"
+      - claim: "Apr-Jun 2026 quarterly operating profit guidance USD"
+        kind: numerical_with_unit
+        value: "$8.2 billion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Apr–Jun 2026 quarterly operating profit guidance ¥1.3 trillion ($8.2 billion)"
+      - claim: "Quarterly net profit"
+        kind: numerical_with_unit
+        value: "~¥869 billion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Net profit for quarter ~¥869 billion ($5.5 billion)"
+      - claim: "Quarterly net profit USD"
+        kind: numerical_with_unit
+        value: "$5.5 billion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Net profit for quarter ~¥869 billion ($5.5 billion)"
+      - claim: "Net profit year-on-year growth"
+        kind: numerical_with_unit
+        value: "48×"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Net profit for quarter ~¥869 billion ($5.5 billion), 48× y/y"
+      - claim: "NAND flash price increase period"
+        kind: temporal
+        value: "March 2026 quarter"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "NAND flash prices more than doubled in March 2026 quarter"
+      - claim: "AI data centre supply contract horizon"
+        kind: temporal
+        value: "CY2027–2028"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "in talks with large-scale AI data centre clients for long-term supply contracts through CY2027–2028"
+      - claim: "Kioxia YTD share price gain"
+        kind: numerical_with_unit
+        value: ">300%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Shares up >300% YTD"
+      - claim: "CFO name"
+        kind: named_person
+        value: "Yoshihiko Kawamura"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "CFO Yoshihiko Kawamura: in talks with large-scale AI data centre clients"
+      - claim: "Named person: Takeru Hanaya"
+        kind: named_person
+        value: "Takeru Hanaya"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Takeru Hanaya (SMBC Nikko Securities)"
+      - claim: "Named institution: SMBC Nikko Securities"
+        kind: named_institution
+        value: "SMBC Nikko Securities"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Takeru Hanaya (SMBC Nikko Securities)"
+      - claim: "Named institution: Citigroup Global Markets Japan"
+        kind: named_institution
+        value: "Citigroup Global Markets Japan"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Citigroup Global Markets Japan, JPMorgan Securities, Morgan Stanley MUFG raised price targets same day"
+      - claim: "Named institution: JPMorgan Securities"
+        kind: named_institution
+        value: "JPMorgan Securities"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Citigroup Global Markets Japan, JPMorgan Securities, Morgan Stanley MUFG raised price targets same day"
+      - claim: "Named institution: Morgan Stanley MUFG"
+        kind: named_institution
+        value: "Morgan Stanley MUFG"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        verbatim_excerpt: "Citigroup Global Markets Japan, JPMorgan Securities, Morgan Stanley MUFG raised price targets same day"
+      - claim: "Named institution: Kioxia Holdings"
+        kind: named_institution
+        value: "Kioxia Holdings"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+          - "https://www.japantimes.co.jp/business/2026/05/18/companies/kioxia-shares-buy-orders/"
+        verbatim_excerpt: "Kioxia Holdings (TSE: 285A) shares untraded on May 18, 2026"
+    quotes:
+      - speaker_name: "Takeru Hanaya"
+        speaker_title: "analyst, SMBC Nikko Securities"
+        verbatim_en: "This is the scorching summer for NAND. We do not see any need for concern over a loosening supply-demand balance."
+        source_url: "https://www.bloomberg.com/news/articles/2026-05-18/kioxia-shares-awash-in-buy-orders-after-ai-driven-profit-surge"
+        context: "comment on Kioxia profit outlook, May 18, 2026"
+
+  - story_id: recruit-holdings-shares-jump-ipo-record
+    category: tech_industry
+    headline_en: "Recruit Holdings Shares Jump Most Since 2014 IPO"
+    lead_url: "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+    hard_facts:
+      - claim: "Recruit Holdings share jump percentage"
+        kind: numerical_with_unit
+        value: "19%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "Recruit Holdings (TSE: 6098) shares jumped up to 19% May 18, 2026"
+      - claim: "Date of share jump"
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "shares jumped up to 19% May 18, 2026"
+      - claim: "Previous record single-day gain date"
+        kind: temporal
+        value: "Oct 2014"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "largest single-day intraday gain since Oct 2014 IPO"
+      - claim: "Recruit Holdings TSE ticker"
+        kind: named_product
+        value: "6098"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "Recruit Holdings (TSE: 6098)"
+      - claim: "FY March 2027 operating profit guidance"
+        kind: numerical_with_unit
+        value: "¥787 billion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "FY ending March 2027 guidance: operating profit ¥787 billion ($5 billion)"
+      - claim: "FY March 2027 operating profit guidance USD"
+        kind: numerical_with_unit
+        value: "$5 billion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "FY ending March 2027 guidance: operating profit ¥787 billion ($5 billion)"
+      - claim: "FY March 2027 revenue guidance"
+        kind: numerical_with_unit
+        value: "¥4 trillion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "operating profit ¥787 billion ($5 billion) on ¥4 trillion in sales"
+      - claim: "Revenue growth guidance"
+        kind: numerical_with_unit
+        value: "~9%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "~9% revenue growth"
+      - claim: "Profit attributable to shareholders growth"
+        kind: numerical_with_unit
+        value: "25.4%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "25.4% increase in profit attributable to shareholders to ¥623 billion"
+      - claim: "Profit attributable to shareholders guidance"
+        kind: numerical_with_unit
+        value: "¥623 billion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "25.4% increase in profit attributable to shareholders to ¥623 billion"
+      - claim: "HR Technology Q4 revenue growth"
+        kind: numerical_with_unit
+        value: "+17.7%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "HR Technology segment (Indeed, Glassdoor) Q4 revenue +17.7% y/y"
+      - claim: "AI tools reduction in hiring period"
+        kind: numerical_with_unit
+        value: "~half"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "AI tools reportedly cut hiring period ~half for select products"
+      - claim: "Average revenue per Indeed job posting growth"
+        kind: numerical_with_unit
+        value: "+17%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "Avg revenue per Indeed job posting +17% despite flat US hiring demand"
+      - claim: "FY2025 HR Technology segment revenue"
+        kind: numerical_with_unit
+        value: "~¥1.37 trillion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "FY2025 HR Technology segment revenue ~¥1.37 trillion"
+      - claim: "FY2025 net profit"
+        kind: numerical_with_unit
+        value: "¥496.9 billion"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "FY2025 net profit ¥496.9 billion (+21.6%)"
+      - claim: "FY2025 net profit growth"
+        kind: numerical_with_unit
+        value: "+21.6%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "FY2025 net profit ¥496.9 billion (+21.6%)"
+      - claim: "Named product: Indeed"
+        kind: named_product
+        value: "Indeed"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "HR Technology segment (Indeed, Glassdoor) Q4 revenue +17.7% y/y"
+      - claim: "Named product: Glassdoor"
+        kind: named_product
+        value: "Glassdoor"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-05-18/recruit-s-shares-jump-as-full-year-outlook-tops-estimates"
+        verbatim_excerpt: "HR Technology segment (Indeed, Glassdoor) Q4 revenue +17.7% y/y"
+    quotes: []
+
+  - story_id: nidec-dissolves-china-ev-jv-gac
+    category: tech_industry
+    headline_en: "Nidec to Dissolve China EV Drive-System JV with GAC"
+    lead_url: "https://www.nippon.com/en/news/yjj2026051800460/"
+    corroborated_by:
+      - "https://asia.nikkei.com/business/automobiles/electric-vehicles/japan-s-nidec-to-end-china-jv-as-it-scales-back-ev-drive-parts"
+    locked_urls:
+      - "https://www.nippon.com/en/news/yjj2026051800460/"
+      - "https://asia.nikkei.com/business/automobiles/electric-vehicles/japan-s-nidec-to-end-china-jv-as-it-scales-back-ev-drive-parts"
+    hard_facts:
+      - claim: "Date dissolution talks reported"
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800460/"
+        verbatim_excerpt: "per Jiji-cited sources May 18, 2026"
+      - claim: "Named institution: Nidec Corp."
+        kind: named_institution
+        value: "Nidec Corp."
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800460/"
+          - "https://asia.nikkei.com/business/automobiles/electric-vehicles/japan-s-nidec-to-end-china-jv-as-it-scales-back-ev-drive-parts"
+        verbatim_excerpt: "Nidec Corp. (Kyoto motor/electric-drive maker) in dissolution talks"
+      - claim: "Named institution: Guangzhou Automobile Group"
+        kind: named_institution
+        value: "Guangzhou Automobile Group"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800460/"
+          - "https://asia.nikkei.com/business/automobiles/electric-vehicles/japan-s-nidec-to-end-china-jv-as-it-scales-back-ev-drive-parts"
+        verbatim_excerpt: "dissolution talks for E-Axle JV with Guangzhou Automobile Group (GAC)"
+      - claim: "Named product: E-Axle"
+        kind: named_product
+        value: "E-Axle"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800460/"
+        verbatim_excerpt: "JV makes E-Axle (motor + reducer + inverter) for passenger EVs"
+      - claim: "Nidec founder name"
+        kind: named_person
+        value: "Shigenobu Nagamori"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800460/"
+        verbatim_excerpt: "Move reverses growth strategy championed by founder Shigenobu Nagamori"
+      - claim: "Named institution: Stellantis NV"
+        kind: named_institution
+        value: "Stellantis NV"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800460/"
+          - "https://asia.nikkei.com/business/automobiles/electric-vehicles/japan-s-nidec-to-end-china-jv-as-it-scales-back-ev-drive-parts"
+        verbatim_excerpt: "Nidec also evaluating exit from E-Axle partnership with Stellantis NV in the Netherlands"
+      - claim: "Named product: GAC EV brand Aion"
+        kind: named_product
+        value: "Aion"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051800460/"
+        verbatim_excerpt: "GAC has EV brands including Aion"
+    quotes: []
+
+  - story_id: govt-calm-response-atlantic-hantavirus
+    category: society_livelihood
+    headline_en: "Government Issues Calm Response to Atlantic Hantavirus Outbreak"
+    lead_url: "https://www.nippon.com/en/news/yjj2026051600316/"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.nippon.com/en/news/yjj2026051600316/"
+    hard_facts:
+      - claim: "Government statement date"
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051600316/"
+        verbatim_excerpt: "Japanese government May 18 urged calm over overseas hantavirus outbreak"
+      - claim: "Deaths in Atlantic cruise ship outbreak"
+        kind: numerical
+        value: "three"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051600316/"
+        verbatim_excerpt: "Outbreak linked to Atlantic cruise ship voyage with three deaths among passengers from multiple countries"
+      - claim: "Japanese nationals aboard ship"
+        kind: numerical
+        value: "One"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051600316/"
+        verbatim_excerpt: "One Japanese national was aboard; no confirmed Japanese infection"
+      - claim: "Global annual hantavirus infections"
+        kind: numerical_with_unit
+        value: "10,000–100,000 infections/year"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051600316/"
+        verbatim_excerpt: "Global hantavirus: 10,000–100,000 infections/year across Asia/Europe/N. America"
+      - claim: "Named institution: US CDC"
+        kind: named_institution
+        value: "US CDC"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051600316/"
+        verbatim_excerpt: "US CDC also assessed risk as \"extremely low.\""
+    quotes:
+      - speaker_name: "Japanese government (institutional)"
+        speaker_title: "Japanese Government"
+        verbatim_en: "There'll be no immediate impact."
+        source_url: "https://www.nippon.com/en/news/yjj2026051600316/"
+        context: "official statement on overseas hantavirus outbreak risk to Japan, May 18, 2026"
+
+  - story_id: mt-koya-temple-dress-code-initiative
+    category: society_livelihood
+    headline_en: "Mt. Koya Head Temple Urges Visitors to Avoid Revealing Attire"
+    lead_url: "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+    corroborated_by: []
+    locked_urls:
+      - "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+    hard_facts:
+      - claim: "Named institution: Kongobuji temple"
+        kind: named_institution
+        value: "Kongobuji"
+        source_urls:
+          - "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        verbatim_excerpt: "Kongobuji temple (head temple of Koyasan Shingon Buddhist sect, Wakayama Pref., UNESCO World Heritage site)"
+      - claim: "Number of bilingual signboards installed"
+        kind: numerical
+        value: "three"
+        source_urls:
+          - "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        verbatim_excerpt: "Installed three bilingual (JP/EN) signboards including at entrance to Okunoin"
+      - claim: "Number of employees and monks distributing leaflets"
+        kind: numerical_with_unit
+        value: "About 30"
+        source_urls:
+          - "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        verbatim_excerpt: "About 30 employees and monks distributed leaflets to tourists in early May"
+      - claim: "Leaflet distribution timing"
+        kind: temporal
+        value: "early May"
+        source_urls:
+          - "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        verbatim_excerpt: "About 30 employees and monks distributed leaflets to tourists in early May"
+      - claim: "Named person: Hogen Yabu"
+        kind: named_person
+        value: "Hogen Yabu"
+        source_urls:
+          - "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        verbatim_excerpt: "Hogen Yabu, head of Kongobuji religious affairs office"
+      - claim: "Named person: Kukai (founder of Shingon Buddhism)"
+        kind: named_person
+        value: "Kukai"
+        source_urls:
+          - "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        verbatim_excerpt: "mausoleum of Kukai, 9th-century founder of Shingon Buddhism"
+      - claim: "Century of Kukai's activity"
+        kind: temporal
+        value: "9th-century"
+        source_urls:
+          - "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        verbatim_excerpt: "mausoleum of Kukai, 9th-century founder of Shingon Buddhism"
+    quotes:
+      - speaker_name: "Hogen Yabu"
+        speaker_title: "head of Kongobuji religious affairs office"
+        verbatim_en: "We ask visitors to please make an effort to dress appropriately. We would be grateful if this leads to a greater movement across the country."
+        source_url: "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        context: "announcement of dress code initiative at Kongobuji/Mt. Koya, May 2026"
+      - speaker_name: "Hogen Yabu"
+        speaker_title: "head of Kongobuji religious affairs office"
+        verbatim_en: "This is a place where anyone is welcome to visit, and that will not change. However, as a matter of mindset when coming here, we ask that visitors conduct themselves with dignity."
+        source_url: "https://japantoday.com/category/national/head-temple-at-mt.-koya-urges-summer-visitors-to-avoid-revealing-attire"
+        context: "announcement of dress code initiative at Kongobuji/Mt. Koya, May 2026"
+
+  - story_id: japan-caregiver-murder-suicide-support-gaps
+    category: society_livelihood
+    headline_en: "Japan's Caregiver Murder-Suicide Pattern: Caregiver Support Gaps"
+    lead_url: "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+    hard_facts:
+      - claim: "Publication date"
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "Japan Times May 18 feature on \"muri-shinju\""
+      - claim: "Named person: Akiko Hashiguchi"
+        kind: named_person
+        value: "Akiko Hashiguchi"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "Profiled mother Akiko Hashiguchi, told she was \"failing as a mother\" before her son's ADHD was recognised"
+      - claim: "People aged 65+ who died from murder or abuse by caregivers 2006-2024"
+        kind: numerical_with_unit
+        value: "nearly 500"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "nearly 500 people aged 65+ died 2006–2024 in Japan from murder or abuse by caregivers"
+      - claim: "Time period covered by government data"
+        kind: temporal
+        value: "2006–2024"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "nearly 500 people aged 65+ died 2006–2024 in Japan from murder or abuse by caregivers"
+      - claim: "Percentage of victims who are female"
+        kind: numerical_with_unit
+        value: "76.9% female"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "Victims predominantly women aged 75+ (76.9% female; 59.3% aged 75+)"
+      - claim: "Percentage of victims aged 75 and over"
+        kind: numerical_with_unit
+        value: "59.3%"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "Victims predominantly women aged 75+ (76.9% female; 59.3% aged 75+)"
+      - claim: "Percentage of offenders who are male"
+        kind: numerical_with_unit
+        value: "52.7%"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "offenders most often male (52.7%)"
+      - claim: "Number of main motives identified"
+        kind: numerical
+        value: "Four"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "Four main motives identified: financial strain, mercy killing, caregiver burden, resentment"
+      - claim: "Elderly-only households in Japan"
+        kind: numerical_with_unit
+        value: "17 million"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "MHLW: elderly-only households exceed 17 million"
+      - claim: "Named institution: MHLW"
+        kind: named_institution
+        value: "MHLW"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/18/japan/society/domestic-murder-suicide/"
+        verbatim_excerpt: "MHLW: elderly-only households exceed 17 million"
+    quotes: []
+
+  - story_id: tochigi-robbery-murder-arrest-takemae
+    category: other
+    headline_en: "Husband and Wife Arrested over Robbery-Murder of 69-Year-Old in Tochigi"
+    lead_url: "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+    corroborated_by: []
+    locked_urls:
+      - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+    hard_facts:
+      - claim: "Named person: Kaito Takemae"
+        kind: named_person
+        value: "Kaito Takemae"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "Tochigi police arrested Kaito Takemae (28) and wife Miyuu Takemae (25)"
+      - claim: "Age of Kaito Takemae"
+        kind: numerical
+        value: "28"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "Kaito Takemae (28)"
+      - claim: "Named person: Miyuu Takemae"
+        kind: named_person
+        value: "Miyuu Takemae"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "wife Miyuu Takemae (25)"
+      - claim: "Age of Miyuu Takemae"
+        kind: numerical
+        value: "25"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "Miyuu Takemae (25)"
+      - claim: "Age of victim"
+        kind: numerical
+        value: "69"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "robbery-murder of 69-year-old woman at her home in Utsunomiya"
+      - claim: "Number of teenage suspects in custody"
+        kind: numerical
+        value: "Four"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "Four 16-year-old teenagers already in custody"
+      - claim: "Age of teenage suspects"
+        kind: numerical
+        value: "16"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "Four 16-year-old teenagers already in custody"
+      - claim: "Kaito apprehended location"
+        kind: named_institution
+        value: "Haneda Airport"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "Kaito apprehended at Tokyo's Haneda Airport preparing to board a flight to leave Japan"
+      - claim: "Miyuu arrested location"
+        kind: named_institution
+        value: "Kanagawa Prefecture"
+        source_urls:
+          - "https://japantoday.com/category/crime/man-arrested-over-robbery-murder-involving-4-teens-in-japan's-tochigi"
+        verbatim_excerpt: "Miyuu arrested separately in Kanagawa Prefecture"
+    quotes: []
+
+  - story_id: us-nationals-arrested-trespassing-monkey-punch
+    category: other
+    headline_en: "Two U.S. Nationals Arrested for Trespassing at Viral Monkey \"Punch\" Enclosure"
+    lead_url: "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+    corroborated_by: []
+    locked_urls:
+      - "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+    hard_facts:
+      - claim: "Arrest date"
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+        verbatim_excerpt: "Two men identifying as U.S. nationals arrested May 18 for trespassing"
+      - claim: "Number of suspects arrested"
+        kind: numerical
+        value: "Two"
+        source_urls:
+          - "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+        verbatim_excerpt: "Two men identifying as U.S. nationals arrested May 18"
+      - claim: "Named product/subject: Punch (macaque)"
+        kind: named_product
+        value: "Punch"
+        source_urls:
+          - "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+        verbatim_excerpt: "trespassing into enclosure of \"Punch,\" a Japanese macaque at Ichikawa City Zoo"
+      - claim: "Named institution: Ichikawa City Zoo"
+        kind: named_institution
+        value: "Ichikawa City Zoo"
+        source_urls:
+          - "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+        verbatim_excerpt: "Ichikawa City Zoo, Chiba Pref."
+      - claim: "Age of first suspect"
+        kind: numerical
+        value: "24"
+        source_urls:
+          - "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+        verbatim_excerpt: "One suspect, 24, claimed to be a university student"
+      - claim: "Age of second suspect"
+        kind: numerical
+        value: "27"
+        source_urls:
+          - "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+        verbatim_excerpt: "the other, 27, claimed to be a singer"
+      - claim: "Punch began living with other monkeys"
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+        verbatim_excerpt: "began living with other monkeys January 2026"
+    quotes:
+      - speaker_name: "Police (institutional)"
+        speaker_title: "Chiba Prefecture Police"
+        verbatim_en: "No monkeys were injured."
+        source_url: "https://japantoday.com/category/crime/2-men-arrested-over-trespassing-incident-at-enclosure-of-viral-monkey-punch"
+        context: "statement following arrest of two men for trespassing at Ichikawa City Zoo, May 18, 2026"
+
+  - story_id: international-museum-day-tokyo-five-free
+    category: other
+    headline_en: "International Museum Day: Five Tokyo National Museums Open Free"
+    lead_url: "https://www.tnm.jp/?lang=en"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.tnm.jp/?lang=en"
+    hard_facts:
+      - claim: "International Museum Day date"
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "May 18 = International Museum Day (ICOM)"
+      - claim: "Named institution: ICOM"
+        kind: named_institution
+        value: "ICOM"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "May 18 = International Museum Day (ICOM)"
+      - claim: "Number of Ueno-district national museums opening free"
+        kind: numerical
+        value: "five"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "five Ueno-district national museums"
+      - claim: "Named institution: Tokyo National Museum"
+        kind: named_institution
+        value: "Tokyo National Museum"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "Tokyo National Museum, National Museum of Nature and Science, National Museum of Western Art, Tokyo Metropolitan Art Museum"
+      - claim: "Named institution: National Museum of Nature and Science"
+        kind: named_institution
+        value: "National Museum of Nature and Science"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "Tokyo National Museum, National Museum of Nature and Science, National Museum of Western Art, Tokyo Metropolitan Art Museum"
+      - claim: "Named institution: National Museum of Western Art"
+        kind: named_institution
+        value: "National Museum of Western Art"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "Tokyo National Museum, National Museum of Nature and Science, National Museum of Western Art, Tokyo Metropolitan Art Museum"
+      - claim: "Named institution: Tokyo Metropolitan Art Museum"
+        kind: named_institution
+        value: "Tokyo Metropolitan Art Museum"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "Tokyo National Museum, National Museum of Nature and Science, National Museum of Western Art, Tokyo Metropolitan Art Museum"
+      - claim: "Tokyo National Museum artefact count"
+        kind: numerical_with_unit
+        value: "120,000+"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "Tokyo National Museum holds 120,000+ artefacts"
+      - claim: "Sanja Matsuri visitors over three days"
+        kind: numerical_with_unit
+        value: "~2 million visitors"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "Sanja Matsuri festival in Asakusa (~2 million visitors over three days, ended May 17)"
+      - claim: "Sanja Matsuri end date"
+        kind: temporal
+        value: "May 17"
+        source_urls:
+          - "https://www.tnm.jp/?lang=en"
+        verbatim_excerpt: "Sanja Matsuri festival in Asakusa (~2 million visitors over three days, ended May 17)"
+    quotes: []
