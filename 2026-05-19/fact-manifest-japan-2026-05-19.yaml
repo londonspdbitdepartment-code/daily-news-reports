@@ -1,0 +1,948 @@
+version: 1
+generated_at: "2026-05-19T00:00:00Z"
+country: Japan
+date: "2026-05-19"
+total_stories: 7
+stories:
+  - story_id: japan-q1-2026-gdp-expands-annualised-2-1
+    category: economy_markets
+    headline_en: "Japan Q1 2026 GDP Expands Annualised 2.1%"
+    lead_url: "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+    corroborated_by:
+      - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+      - "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html"
+      - "https://www.japantimes.co.jp/business/2026/05/19/economy/gdp-rise-first-quarter/"
+      - "https://asia.nikkei.com/economy/japan-s-gdp-expands-an-annualized-2.1-in-q1-beating-estimates"
+      - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+    locked_urls:
+      - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+      - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+      - "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html"
+      - "https://www.japantimes.co.jp/business/2026/05/19/economy/gdp-rise-first-quarter/"
+      - "https://asia.nikkei.com/economy/japan-s-gdp-expands-an-annualized-2.1-in-q1-beating-estimates"
+      - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+    hard_facts:
+      - claim: Q1 2026 GDP annualised growth rate
+        kind: numerical_with_unit
+        value: "2.1%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+          - "https://asia.nikkei.com/economy/japan-s-gdp-expands-an-annualized-2.1-in-q1-beating-estimates"
+        verbatim_excerpt: "Q1 2026 GDP annualised 2.1%"
+      - claim: Q1 2026 GDP annualised forecast
+        kind: numerical_with_unit
+        value: "1.7%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Q1 2026 GDP annualised 2.1% (vs 1.7% forecast)"
+      - claim: Q1 2026 GDP quarter-on-quarter growth
+        kind: numerical_with_unit
+        value: "0.5%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+        verbatim_excerpt: "QoQ 0.5% (vs 0.4%)"
+      - claim: Q1 2026 GDP QoQ forecast
+        kind: numerical_with_unit
+        value: "0.4%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "QoQ 0.5% (vs 0.4%)"
+      - claim: Revised Q4 2025 GDP annualised growth
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+        verbatim_excerpt: "accelerating from revised Q4 2025 0.8% annualised"
+      - claim: Number of consecutive quarters of GDP expansion
+        kind: numerical
+        value: "Second consecutive quarter"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Second consecutive quarter of expansion"
+      - claim: Private consumption QoQ change Q1 2026
+        kind: numerical_with_unit
+        value: "+0.3%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+        verbatim_excerpt: "Private consumption +0.3% QoQ"
+      - claim: Capex QoQ change Q1 2026
+        kind: numerical_with_unit
+        value: "+0.3%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+        verbatim_excerpt: "capex +0.3% QoQ"
+      - claim: Net exports contribution to GDP Q1 2026
+        kind: numerical_with_unit
+        value: "+0.3pp"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+        verbatim_excerpt: "net exports +0.3pp contribution"
+      - claim: GDP deflator YoY Q1 2026
+        kind: numerical_with_unit
+        value: "+3.4%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/toukei_2026.html"
+        verbatim_excerpt: "GDP deflator +3.4% YoY"
+      - claim: BOJ inflation target
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "GDP deflator +3.4% YoY (vs BOJ 2% target)"
+      - claim: Nikkei 225 change on day
+        kind: numerical_with_unit
+        value: "-0.64%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html"
+        verbatim_excerpt: "Nikkei 225 -0.64%"
+      - claim: 10-year JGB yield level
+        kind: numerical_with_unit
+        value: "~2.75%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html"
+        verbatim_excerpt: "10-year JGB yield ~2.75% near 29-year high"
+      - claim: 10-year JGB yield historical context
+        kind: temporal
+        value: "29-year high"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "10-year JGB yield ~2.75% near 29-year high"
+      - claim: Yen exchange rate vs USD
+        kind: numerical_with_unit
+        value: "~158.95/USD"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html"
+        verbatim_excerpt: "yen ~158.95/USD"
+      - claim: Market-implied probability of BOJ June hike to 1.0%
+        kind: numerical_with_unit
+        value: "65-77%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+          - "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html"
+        verbatim_excerpt: "market swaps pricing 65-77% probability of BOJ June hike to 1.0%"
+      - claim: BOJ target rate as of April decision
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "BOJ held at 0.75% in April with 6-3 vote"
+      - claim: BOJ April vote count to hold
+        kind: numerical
+        value: "6-3"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "BOJ held at 0.75% in April with 6-3 vote (3 dissenters favoured 1.0%)"
+      - claim: Number of BOJ dissenters favouring 1.0%
+        kind: numerical
+        value: "3"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "3 dissenters favoured 1.0%"
+      - claim: Japan crude oil import share from Middle East
+        kind: numerical_with_unit
+        value: "~95%"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Japan imports ~95% of crude from Middle East"
+      - claim: Economy Minister name
+        kind: named_person
+        value: "Minoru Kiuchi"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Economy Minister Minoru Kiuchi urged \"vigilance regarding the Middle East conflict's economic impact.\""
+      - claim: Named institution — Bank of Japan
+        kind: named_institution
+        value: "BOJ"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "BOJ held at 0.75% in April with 6-3 vote"
+      - claim: Named institution — Dai-ichi Life Research Institute
+        kind: named_institution
+        value: "Dai-ichi Life Research Institute"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Yoshiki Shinke (Dai-ichi Life Research Institute)"
+      - claim: Named institution — Oxford Economics
+        kind: named_institution
+        value: "Oxford Economics"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Oxford Economics \"Q1 GDP is already in the rear-view mirror\""
+      - claim: Named institution — Moody's Analytics
+        kind: named_institution
+        value: "Moody's Analytics"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Stefan Angrick (Moody's Analytics)"
+      - claim: Named person — Yoshiki Shinke
+        kind: named_person
+        value: "Yoshiki Shinke"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Yoshiki Shinke (Dai-ichi Life Research Institute) \"Today's data shows the economy was on a solid footing before the Iran war\""
+      - claim: Named person — Stefan Angrick
+        kind: named_person
+        value: "Stefan Angrick"
+        source_urls:
+          - "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        verbatim_excerpt: "Stefan Angrick (Moody's Analytics) \"The outlook for the coming quarters looks incredibly challenging.\""
+    quotes:
+      - speaker_name: "Yoshiki Shinke"
+        speaker_title: "Analyst, Dai-ichi Life Research Institute"
+        verbatim_en: "Today's data shows the economy was on a solid footing before the Iran war"
+        source_url: "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        context: "Reaction to Q1 2026 GDP release, May 19 2026"
+      - speaker_name: "Oxford Economics"
+        speaker_title: "Research institution"
+        verbatim_en: "Q1 GDP is already in the rear-view mirror"
+        source_url: "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        context: "Reaction to Q1 2026 GDP release, May 19 2026"
+      - speaker_name: "Stefan Angrick"
+        speaker_title: "Economist, Moody's Analytics"
+        verbatim_en: "The outlook for the coming quarters looks incredibly challenging."
+        source_url: "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        context: "Reaction to Q1 2026 GDP release, May 19 2026"
+      - speaker_name: "Minoru Kiuchi"
+        speaker_title: "Economy Minister, Japan"
+        verbatim_en: "vigilance regarding the Middle East conflict's economic impact."
+        source_url: "https://www.thejakartapost.com/business/2026/05/19/japan-first-quarter-gdp-growth-beats-expectations.html"
+        context: "Statement following Q1 2026 GDP release, May 19 2026"
+
+  - story_id: takaichi-orders-review-supplementary-budget
+    category: economy_markets
+    headline_en: "Takaichi Orders Review of Supplementary Budget Amid Oil Shock"
+    lead_url: "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+    corroborated_by: []
+    locked_urls:
+      - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+    hard_facts:
+      - claim: Named person — PM Sanae Takaichi
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "PM Sanae Takaichi instructed Finance Minister Satsuki Katayama to review compiling a FY2026 supplementary budget"
+      - claim: Named person — Finance Minister Satsuki Katayama
+        kind: named_person
+        value: "Satsuki Katayama"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "PM Sanae Takaichi instructed Finance Minister Satsuki Katayama to review compiling a FY2026 supplementary budget"
+      - claim: Fiscal year of supplementary budget under review
+        kind: temporal
+        value: "FY2026"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "review compiling a FY2026 supplementary budget"
+      - claim: Energy subsidy emergency reserve original size when restarted
+        kind: numerical_with_unit
+        value: ">¥1 trillion"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "Energy subsidy emergency reserve: originally >¥1 trillion when restarted mid-March 2026"
+      - claim: Date energy subsidy emergency reserve restarted
+        kind: temporal
+        value: "mid-March 2026"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "originally >¥1 trillion when restarted mid-March 2026"
+      - claim: Energy subsidy emergency reserve level end-April
+        kind: numerical_with_unit
+        value: "~¥980 billion"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "fell to ~¥980 billion by end-April"
+      - claim: Projected date reserve exhaustion
+        kind: temporal
+        value: "around end-June 2026"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "projected exhausted around end-June 2026"
+      - claim: Planned supplementary budget scale
+        kind: numerical_with_unit
+        value: "several trillion yen"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "Planned scale \"several trillion yen\" via additional JGB issuance"
+      - claim: 10-year JGB yield intraday peak May 18
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "10-year JGB yield briefly touched 2.8% on Monday May 18"
+      - claim: Date of 10-year JGB yield peak
+        kind: temporal
+        value: "Monday May 18"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "10-year JGB yield briefly touched 2.8% on Monday May 18 — highest since May 1997"
+      - claim: 10-year JGB yield historical high reference
+        kind: temporal
+        value: "May 1997"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "highest since May 1997"
+      - claim: Japan crude oil import share from Middle East
+        kind: numerical_with_unit
+        value: "~95%"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "Japan imports ~95% crude oil and ~70% LNG from Middle East"
+      - claim: Japan LNG import share from Middle East
+        kind: numerical_with_unit
+        value: "~70%"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "Japan imports ~95% crude oil and ~70% LNG from Middle East"
+      - claim: Projected date for electricity/gas rate increases
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - "https://finance.yahoo.com/economy/articles/japan-economy-grows-faster-expected-032522667.html"
+        verbatim_excerpt: "Electricity/gas rates projected to rise from June 2026 for households"
+    quotes: []
+
+  - story_id: takaichi-lee-andong-summit-joint-oil-reserve
+    category: politics_diplomacy
+    headline_en: "Takaichi-Lee Andong Summit; Japan-ROK Joint Oil Reserve Framework"
+    lead_url: "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+    corroborated_by:
+      - "https://www.koreaherald.com/article/10740716"
+      - "https://www.koreatimes.co.kr/foreignaffairs/20260519/korea-japan-ties-deepen-through-reciprocal-visits-to-leaders-hometowns"
+      - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-lee-japan-south-korea-summit/"
+      - "https://asia.nikkei.com/business/energy/south-korea-to-join-japan-s-plan-for-joint-oil-reserve-at-summit"
+      - "https://japan.kantei.go.jp/105/diplomatic/202605/19kaiken.html"
+    locked_urls:
+      - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+      - "https://www.koreaherald.com/article/10740716"
+      - "https://www.koreatimes.co.kr/foreignaffairs/20260519/korea-japan-ties-deepen-through-reciprocal-visits-to-leaders-hometowns"
+      - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-lee-japan-south-korea-summit/"
+      - "https://asia.nikkei.com/business/energy/south-korea-to-join-japan-s-plan-for-joint-oil-reserve-at-summit"
+      - "https://japan.kantei.go.jp/105/diplomatic/202605/19kaiken.html"
+    hard_facts:
+      - claim: Named person — PM Sanae Takaichi
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "PM Sanae Takaichi arrived at Daegu International Airport Tue May 19 2026 for 2-day Andong visit"
+      - claim: Named person — President Lee Jae Myung
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+          - "https://www.koreaherald.com/article/10740716"
+        verbatim_excerpt: "President Lee Jae Myung's hometown, ~190km southeast of Seoul"
+      - claim: Named institution — Daegu International Airport
+        kind: named_institution
+        value: "Daegu International Airport"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "PM Sanae Takaichi arrived at Daegu International Airport Tue May 19 2026"
+      - claim: Date of Takaichi arrival in Andong
+        kind: temporal
+        value: "Tue May 19 2026"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "PM Sanae Takaichi arrived at Daegu International Airport Tue May 19 2026 for 2-day Andong visit"
+      - claim: Duration of Andong visit
+        kind: temporal
+        value: "2-day"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "for 2-day Andong visit"
+      - claim: Distance of Andong from Seoul
+        kind: numerical_with_unit
+        value: "~190km"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "~190km southeast of Seoul"
+      - claim: Number of bilateral meetings between Takaichi and Lee
+        kind: numerical
+        value: "Fourth meeting"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "Fourth meeting in ~6 months"
+      - claim: Period spanning bilateral meetings
+        kind: temporal
+        value: "~6 months"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "Fourth meeting in ~6 months"
+      - claim: Date Lee visited Takaichi's Nara hometown
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260519/korea-japan-ties-deepen-through-reciprocal-visits-to-leaders-hometowns"
+        verbatim_excerpt: "Lee visited Takaichi's Nara hometown in January 2026"
+      - claim: Number of honour guards at ceremonial reception
+        kind: numerical
+        value: "43"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "43 honour guards, 29-member military band, 12 honour guards in formation"
+      - claim: Size of military band at ceremonial reception
+        kind: numerical_with_unit
+        value: "29-member"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "43 honour guards, 29-member military band, 12 honour guards in formation"
+      - claim: Number of honour guards in formation
+        kind: numerical
+        value: "12"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "43 honour guards, 29-member military band, 12 honour guards in formation"
+      - claim: Named product — POWERR Asia energy partnership
+        kind: named_product
+        value: "POWERR Asia"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+          - "https://asia.nikkei.com/business/energy/south-korea-to-join-japan-s-plan-for-joint-oil-reserve-at-summit"
+        verbatim_excerpt: "joint crude-oil procurement and emergency stockpile framework under \"POWERR Asia\" (Partnership On Wide Energy and Resources Resilience)"
+      - claim: Japan financial support to ROK via JBIC
+        kind: numerical_with_unit
+        value: "USD 10bn"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+          - "https://asia.nikkei.com/business/energy/south-korea-to-join-japan-s-plan-for-joint-oil-reserve-at-summit"
+        verbatim_excerpt: "Japan offered USD 10bn financial support via JBIC loans/credit"
+      - claim: Named institution — JBIC
+        kind: named_institution
+        value: "JBIC"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "Japan offered USD 10bn financial support via JBIC loans/credit"
+      - claim: Named institution — Korea's MOTIR
+        kind: named_institution
+        value: "MOTIR"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "New \"Industrial and Trade Policy Dialogue\" between Korea's MOTIR and Japan's METI"
+      - claim: Named institution — Japan's METI
+        kind: named_institution
+        value: "METI"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "New \"Industrial and Trade Policy Dialogue\" between Korea's MOTIR and Japan's METI"
+      - claim: ROK share as petroleum-product export destination for Japan
+        kind: numerical_with_unit
+        value: "11.3%"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "Japan = 3rd-largest petroleum-product export destination for ROK (11.3%)"
+      - claim: Japan global LNG import share 2024
+        kind: numerical_with_unit
+        value: "16.47%"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "2024 global LNG imports — Japan 2nd at 16.47%"
+      - claim: Japan ranking in global LNG imports 2024
+        kind: numerical
+        value: "2nd"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "2024 global LNG imports — Japan 2nd at 16.47%"
+      - claim: ROK global LNG import share 2024
+        kind: numerical_with_unit
+        value: "11.43%"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "ROK 3rd at 11.43%"
+      - claim: ROK ranking in global LNG imports 2024
+        kind: numerical
+        value: "3rd"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "ROK 3rd at 11.43%"
+      - claim: Named institution — Asan Institute
+        kind: named_institution
+        value: "Asan Institute"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "Choi Eunmi (Asan Institute)"
+      - claim: Named person — Choi Eunmi
+        kind: named_person
+        value: "Choi Eunmi"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "Choi Eunmi (Asan Institute) \"the two countries put more emphasis on agenda for cooperation than contentious issues\""
+      - claim: Japan ranking as ROK petroleum-product export destination
+        kind: numerical
+        value: "3rd-largest"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "Japan = 3rd-largest petroleum-product export destination for ROK (11.3%)"
+      - claim: Reference year for LNG import data
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        verbatim_excerpt: "2024 global LNG imports — Japan 2nd at 16.47%, ROK 3rd at 11.43%"
+    quotes:
+      - speaker_name: "Choi Eunmi"
+        speaker_title: "Analyst, Asan Institute"
+        verbatim_en: "the two countries put more emphasis on agenda for cooperation than contentious issues"
+        source_url: "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        context: "Reaction to Takaichi-Lee Andong Summit, May 19 2026"
+      - speaker_name: "Sanae Takaichi"
+        speaker_title: "Prime Minister of Japan"
+        verbatim_en: "The importance of Japan-ROK relations, as well as Japan-ROK-U.S. cooperation, is increasing further"
+        source_url: "https://japan.kantei.go.jp/105/diplomatic/202605/19kaiken.html"
+        context: "Press remarks at Andong Summit, May 19 2026"
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President of South Korea"
+        verbatim_en: "You must have had quite a journey coming all the way to this small countryside town."
+        source_url: "https://www.wral.com/news/ap/b1889-japanese-prime-minister-travels-to-meet-south-korea-president-for-second-leg-of-hometown-summits/"
+        context: "Welcoming remarks to Takaichi at Andong, May 19 2026"
+
+  - story_id: takaichi-guterres-meeting-japan-un-multilateralism
+    category: politics_diplomacy
+    headline_en: "Takaichi-Guterres Meeting Reaffirms Japan-UN Multilateralism (UN CEB Session in Tokyo)"
+    lead_url: "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+    corroborated_by:
+      - "https://www.mofa.go.jp/fp/un/pageite_000001_00001.html"
+      - "https://japan.kantei.go.jp/105/diplomatic/202605/18un2.html"
+    locked_urls:
+      - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+      - "https://www.mofa.go.jp/fp/un/pageite_000001_00001.html"
+      - "https://japan.kantei.go.jp/105/diplomatic/202605/18un2.html"
+    hard_facts:
+      - claim: Named person — PM Sanae Takaichi
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+          - "https://japan.kantei.go.jp/105/diplomatic/202605/18un2.html"
+        verbatim_excerpt: "PM Sanae Takaichi held bilateral meeting with UN Secretary-General António Guterres on Mon May 18 2026"
+      - claim: Named person — António Guterres
+        kind: named_person
+        value: "António Guterres"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+          - "https://www.mofa.go.jp/fp/un/pageite_000001_00001.html"
+          - "https://japan.kantei.go.jp/105/diplomatic/202605/18un2.html"
+        verbatim_excerpt: "bilateral meeting with UN Secretary-General António Guterres on Mon May 18 2026 at PM's Office in Tokyo"
+      - claim: Date of Takaichi-Guterres meeting
+        kind: temporal
+        value: "Mon May 18 2026"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+          - "https://japan.kantei.go.jp/105/diplomatic/202605/18un2.html"
+        verbatim_excerpt: "bilateral meeting with UN Secretary-General António Guterres on Mon May 18 2026 at PM's Office in Tokyo"
+      - claim: Named institution — PM's Office in Tokyo
+        kind: named_institution
+        value: "PM's Office in Tokyo"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+        verbatim_excerpt: "bilateral meeting with UN Secretary-General António Guterres on Mon May 18 2026 at PM's Office in Tokyo"
+      - claim: Named institution — UN System Chief Executives Board for Coordination (CEB)
+        kind: named_institution
+        value: "UN System Chief Executives Board for Coordination (CEB)"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+          - "https://www.mofa.go.jp/fp/un/pageite_000001_00001.html"
+        verbatim_excerpt: "Guterres's visit marked Japan hosting UN System Chief Executives Board for Coordination (CEB) — first in Asia"
+      - claim: Japan UN CEB hosting status
+        kind: named_institution
+        value: "first in Asia"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+        verbatim_excerpt: "Japan hosting UN System Chief Executives Board for Coordination (CEB) — first in Asia"
+      - claim: Anniversary of Japan's UN accession
+        kind: temporal
+        value: "70th anniversary"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+          - "https://www.mofa.go.jp/fp/un/pageite_000001_00001.html"
+        verbatim_excerpt: "70th anniversary of Japan's UN accession"
+    quotes:
+      - speaker_name: "Sanae Takaichi"
+        speaker_title: "Prime Minister of Japan"
+        verbatim_en: "Japan's firm support for multilateralism centered on the United Nations will never change"
+        source_url: "https://japan.kantei.go.jp/105/diplomatic/202605/18un2.html"
+        context: "Bilateral meeting with UN Secretary-General Guterres, PM's Office Tokyo, Mon May 18 2026"
+      - speaker_name: "António Guterres"
+        speaker_title: "UN Secretary-General"
+        verbatim_en: "The moral authority of Japan is now very important."
+        source_url: "https://www.japantimes.co.jp/news/2026/05/19/japan/takaichi-guterres-united-nations/"
+        context: "Bilateral meeting with PM Takaichi, PM's Office Tokyo, Mon May 18 2026"
+
+  - story_id: japan-presses-britain-6bn-gcap-fighter-jet
+    category: politics_diplomacy
+    headline_en: "Japan Presses Britain to Commit £6 Billion to GCAP Fighter Jet Programme"
+    lead_url: "https://www.nippon.com/en/news/yjj2026051900205/"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.nippon.com/en/news/yjj2026051900205/"
+    hard_facts:
+      - claim: UK financial commitment sought for GCAP
+        kind: numerical_with_unit
+        value: "~£6bn"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Japan escalated pressure on UK to commit ~£6bn (~$7.6bn) to trilateral GCAP"
+      - claim: UK financial commitment in USD equivalent
+        kind: numerical_with_unit
+        value: "~$7.6bn"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Japan escalated pressure on UK to commit ~£6bn (~$7.6bn) to trilateral GCAP"
+      - claim: Named product — GCAP (Global Combat Air Programme)
+        kind: named_product
+        value: "GCAP"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "trilateral GCAP (Global Combat Air Programme) with Italy"
+      - claim: Date/time of Nippon.com/Jiji Press report
+        kind: temporal
+        value: "May 19 2026 13:46 JST"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "per FT via Jiji Press May 19 2026 13:46 JST"
+      - claim: Original scheduled date for long-term contract
+        kind: temporal
+        value: "end-2025"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Long-term contract originally scheduled end-2025"
+      - claim: First deployment target year for GCAP
+        kind: temporal
+        value: "2035"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "first deployment target 2035"
+      - claim: Value of three-month bridge contract
+        kind: numerical_with_unit
+        value: "£686m"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Three-month bridge contract worth £686m signed April 2026 with Edgewing"
+      - claim: Date bridge contract signed
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Three-month bridge contract worth £686m signed April 2026 with Edgewing"
+      - claim: Named institution — Edgewing consortium
+        kind: named_institution
+        value: "Edgewing"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Three-month bridge contract worth £686m signed April 2026 with Edgewing (BAE Systems UK, Leonardo Italy, JAIEC Japan)"
+      - claim: Named institution — BAE Systems
+        kind: named_institution
+        value: "BAE Systems"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Edgewing (BAE Systems UK, Leonardo Italy, JAIEC Japan)"
+      - claim: Named institution — Leonardo Italy
+        kind: named_institution
+        value: "Leonardo Italy"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Edgewing (BAE Systems UK, Leonardo Italy, JAIEC Japan)"
+      - claim: Named institution — JAIEC Japan
+        kind: named_institution
+        value: "JAIEC Japan"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Edgewing (BAE Systems UK, Leonardo Italy, JAIEC Japan)"
+      - claim: Bridge contract coverage period end
+        kind: temporal
+        value: "end-June 2026"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "covering through end-June 2026"
+      - claim: Reported UK defence funding gap
+        kind: numerical_with_unit
+        value: "£28bn"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "reportedly £28bn UK defence funding gap"
+      - claim: Number of engineers working on GCAP in UK
+        kind: numerical_with_unit
+        value: ">4,000"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: ">4,000 engineers across BAE Systems/Rolls-Royce/Leonardo in UK working on GCAP"
+      - claim: Named institution — Rolls-Royce
+        kind: named_institution
+        value: "Rolls-Royce"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: ">4,000 engineers across BAE Systems/Rolls-Royce/Leonardo in UK working on GCAP"
+      - claim: Takaichi Cabinet defence budget target
+        kind: numerical_with_unit
+        value: "NATO 2% of GDP"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026051900205/"
+        verbatim_excerpt: "Takaichi Cabinet expanding defence budget toward NATO 2% of GDP"
+    quotes: []
+
+  - story_id: japan-supplies-favipiravir-uk-hantavirus-outbreak
+    category: society_livelihood
+    headline_en: "Japan Supplies Favipiravir to UK for Hantavirus Cruise-Ship Outbreak"
+    lead_url: "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+    corroborated_by:
+      - "https://www.japantimes.co.jp/news/2026/05/19/japan/science-health/japan-antiviral-drug-uk/"
+      - "https://www.rnz.co.nz/news/world/595683/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response"
+    locked_urls:
+      - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+      - "https://www.japantimes.co.jp/news/2026/05/19/japan/science-health/japan-antiviral-drug-uk/"
+      - "https://www.rnz.co.nz/news/world/595683/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response"
+    hard_facts:
+      - claim: Named person — Health Minister Kenichiro Ueno
+        kind: named_person
+        value: "Kenichiro Ueno"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+        verbatim_excerpt: "Japan's Health Minister Kenichiro Ueno announced Mon May 19 2026 that Japan supplied stockpiles of antiviral favipiravir"
+      - claim: Date of Japanese Health Minister announcement
+        kind: temporal
+        value: "Mon May 19 2026"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+        verbatim_excerpt: "Japan's Health Minister Kenichiro Ueno announced Mon May 19 2026"
+      - claim: Named product — favipiravir (Avigan)
+        kind: named_product
+        value: "favipiravir (Avigan)"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/science-health/japan-antiviral-drug-uk/"
+          - "https://www.rnz.co.nz/news/world/595683/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response"
+        verbatim_excerpt: "Japan supplied stockpiles of antiviral favipiravir (Avigan, by Fujifilm Holdings unit)"
+      - claim: Named institution — Fujifilm Holdings
+        kind: named_institution
+        value: "Fujifilm Holdings"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+        verbatim_excerpt: "favipiravir (Avigan, by Fujifilm Holdings unit)"
+      - claim: Named institution — UKHSA
+        kind: named_institution
+        value: "UKHSA"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+          - "https://www.rnz.co.nz/news/world/595683/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response"
+        verbatim_excerpt: "UKHSA accepted delivery over weekend"
+      - claim: Named product — MV Hondius cruise ship
+        kind: named_product
+        value: "MV Hondius"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/science-health/japan-antiviral-drug-uk/"
+        verbatim_excerpt: "hantavirus outbreak response linked to MV Hondius cruise ship"
+      - claim: Number of deaths linked to MV Hondius outbreak
+        kind: numerical
+        value: "3"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/science-health/japan-antiviral-drug-uk/"
+          - "https://www.rnz.co.nz/news/world/595683/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response"
+        verbatim_excerpt: "3 deaths, 8 confirmed cases, 2 probable cases linked to ship"
+      - claim: Number of confirmed cases linked to MV Hondius
+        kind: numerical
+        value: "8"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/science-health/japan-antiviral-drug-uk/"
+          - "https://www.rnz.co.nz/news/world/595683/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response"
+        verbatim_excerpt: "3 deaths, 8 confirmed cases, 2 probable cases linked to ship"
+      - claim: Number of probable cases linked to MV Hondius
+        kind: numerical
+        value: "2"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/science-health/japan-antiviral-drug-uk/"
+          - "https://www.rnz.co.nz/news/world/595683/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response"
+        verbatim_excerpt: "3 deaths, 8 confirmed cases, 2 probable cases linked to ship"
+      - claim: Named product — Andes virus strain
+        kind: named_product
+        value: "Andes virus"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+          - "https://www.japantimes.co.jp/news/2026/05/19/japan/science-health/japan-antiviral-drug-uk/"
+        verbatim_excerpt: "Andes virus strain — only hantavirus strain known to transmit human-to-human"
+      - claim: Named institution — WHO
+        kind: named_institution
+        value: "WHO"
+        source_urls:
+          - "https://www.gmanetwork.com/news/topstories/world/988161/britain-gets-experimental-drug-from-japan-to-bolster-hantavirus-response/story/"
+        verbatim_excerpt: "WHO assessed: not a pandemic threat"
+    quotes: []
+
+  - story_id: us-jury-orders-takeda-885m-amitiza-verdict
+    category: other
+    headline_en: "US Jury Orders Takeda Pharmaceutical to Pay $885M in Amitiza Pay-for-Delay Verdict"
+    lead_url: "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+    corroborated_by:
+      - "https://www.investing.com/news/stock-market-news/japans-takeda-engaged-in-antitrust-scheme-to-delay-generic-constipation-drug-us-jury-finds-4697414"
+      - "https://www.japantimes.co.jp/business/2026/05/19/companies/takeda-antitrust-generic-constipation-drug/"
+      - "https://www.mlex.com/mlex/antitrust/articles/2479126"
+      - "http://www.econotimes.com/Takeda-Hit-With-885M-Verdict-Over-Amitiza-Generic-Drug-Delay-Scheme-1742026"
+    locked_urls:
+      - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+      - "https://www.investing.com/news/stock-market-news/japans-takeda-engaged-in-antitrust-scheme-to-delay-generic-constipation-drug-us-jury-finds-4697414"
+      - "https://www.japantimes.co.jp/business/2026/05/19/companies/takeda-antitrust-generic-constipation-drug/"
+      - "https://www.mlex.com/mlex/antitrust/articles/2479126"
+      - "http://www.econotimes.com/Takeda-Hit-With-885M-Verdict-Over-Amitiza-Generic-Drug-Delay-Scheme-1742026"
+    hard_facts:
+      - claim: Named institution — Takeda Pharmaceutical USA
+        kind: named_institution
+        value: "Takeda Pharmaceutical USA"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+          - "https://www.investing.com/news/stock-market-news/japans-takeda-engaged-in-antitrust-scheme-to-delay-generic-constipation-drug-us-jury-finds-4697414"
+          - "https://www.japantimes.co.jp/business/2026/05/19/companies/takeda-antitrust-generic-constipation-drug/"
+        verbatim_excerpt: "Federal jury in Boston Tue May 19 2026 found Japan-based Takeda Pharmaceutical USA liable for antitrust violations"
+      - claim: Date and location of jury verdict
+        kind: temporal
+        value: "Tue May 19 2026"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "Federal jury in Boston Tue May 19 2026 found Japan-based Takeda Pharmaceutical USA liable for antitrust violations"
+      - claim: Named product — Amitiza (lubiprostone)
+        kind: named_product
+        value: "Amitiza (lubiprostone)"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+          - "https://www.investing.com/news/stock-market-news/japans-takeda-engaged-in-antitrust-scheme-to-delay-generic-constipation-drug-us-jury-finds-4697414"
+          - "https://www.japantimes.co.jp/business/2026/05/19/companies/takeda-antitrust-generic-constipation-drug/"
+        verbatim_excerpt: "antitrust violations in pay-for-delay scheme for constipation drug Amitiza (lubiprostone)"
+      - claim: Trial duration in weeks
+        kind: temporal
+        value: "Five-week trial"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "Five-week trial Apr 13 – May 19 2026"
+      - claim: Trial start and end dates
+        kind: temporal
+        value: "Apr 13 – May 19 2026"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "Five-week trial Apr 13 – May 19 2026"
+      - claim: Damages to direct purchasers
+        kind: numerical_with_unit
+        value: "USD 474.89m"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+          - "http://www.econotimes.com/Takeda-Hit-With-885M-Verdict-Over-Amitiza-Generic-Drug-Delay-Scheme-1742026"
+        verbatim_excerpt: "Damages: USD 474.89m to direct purchasers"
+      - claim: CVS Health portion of direct purchaser damages
+        kind: numerical_with_unit
+        value: "USD 191m"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "CVS Health USD 191m"
+      - claim: Named institution — CVS Health
+        kind: named_institution
+        value: "CVS Health"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "CVS Health USD 191m; Walgreens USD 121m"
+      - claim: Walgreens portion of direct purchaser damages
+        kind: numerical_with_unit
+        value: "USD 121m"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "Walgreens USD 121m"
+      - claim: Named institution — Walgreens
+        kind: named_institution
+        value: "Walgreens"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "CVS Health USD 191m; Walgreens USD 121m"
+      - claim: Damages to insurers/end payors
+        kind: numerical_with_unit
+        value: "USD 63.2m"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "USD 63.2m to insurers/end payors"
+      - claim: Potential trebled damages for direct purchasers under US antitrust law
+        kind: numerical_with_unit
+        value: "~USD 1.42bn"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+          - "https://www.mlex.com/mlex/antitrust/articles/2479126"
+        verbatim_excerpt: "Subject to trebling under US antitrust law — potential ~USD 1.42bn for direct purchasers alone"
+      - claim: Total verdict reported
+        kind: numerical_with_unit
+        value: "USD 885m"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+          - "https://www.investing.com/news/stock-market-news/japans-takeda-engaged-in-antitrust-scheme-to-delay-generic-constipation-drug-us-jury-finds-4697414"
+          - "http://www.econotimes.com/Takeda-Hit-With-885M-Verdict-Over-Amitiza-Generic-Drug-Delay-Scheme-1742026"
+        verbatim_excerpt: "Total verdict reported USD 885m"
+      - claim: Year of patent settlement between Takeda, Sucampo, Par Pharmaceutical
+        kind: temporal
+        value: "2014"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+          - "https://www.mlex.com/mlex/antitrust/articles/2479126"
+        verbatim_excerpt: "Case centred on 2014 patent settlement between Takeda, Sucampo Pharmaceuticals, Par Pharmaceutical"
+      - claim: Named institution — Sucampo Pharmaceuticals
+        kind: named_institution
+        value: "Sucampo Pharmaceuticals"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "2014 patent settlement between Takeda, Sucampo Pharmaceuticals, Par Pharmaceutical"
+      - claim: Named institution — Par Pharmaceutical
+        kind: named_institution
+        value: "Par Pharmaceutical"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "2014 patent settlement between Takeda, Sucampo Pharmaceuticals, Par Pharmaceutical"
+      - claim: Alleged payoff amount to Par Pharmaceutical to delay generic
+        kind: numerical_with_unit
+        value: "USD 210m"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+          - "https://www.mlex.com/mlex/antitrust/articles/2479126"
+        verbatim_excerpt: "plaintiffs alleged USD 210m payoff to Par to delay generic by ~7 years"
+      - claim: Alleged generic delay duration
+        kind: temporal
+        value: "~7 years"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "plaintiffs alleged USD 210m payoff to Par to delay generic by ~7 years"
+      - claim: Takeda share price change on day
+        kind: numerical_with_unit
+        value: "+0.6%"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "Takeda shares +0.6%; Nikkei 225 -0.3%"
+      - claim: Nikkei 225 change on day of verdict
+        kind: numerical_with_unit
+        value: "-0.3%"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "Takeda shares +0.6%; Nikkei 225 -0.3%"
+      - claim: Named person — Kristen A. Johnson
+        kind: named_person
+        value: "Kristen A. Johnson"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "Quote: Kristen A. Johnson (Hagens Berman)"
+      - claim: Named institution — Hagens Berman
+        kind: named_institution
+        value: "Hagens Berman"
+        source_urls:
+          - "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        verbatim_excerpt: "Kristen A. Johnson (Hagens Berman)"
+    quotes:
+      - speaker_name: "Kristen A. Johnson"
+        speaker_title: "Attorney, Hagens Berman"
+        verbatim_en: "The jury fundamentally understood that paying a competitor to stay out the market harms competition and harms the American healthcare system."
+        source_url: "https://www.pharmiweb.com/press-release/2026-05-19-1/attorneys-at-hagens-berman-announce-474m-win-in-amitiza-jury-trial-against-takeda"
+        context: "Statement following federal jury verdict in Boston, May 19 2026"
