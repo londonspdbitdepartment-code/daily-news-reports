@@ -1,0 +1,942 @@
+version: 1
+generated_at: "2026-05-19T00:00:00Z"
+country: Europe
+date: "2026-05-19"
+total_stories: 10
+stories:
+  - story_id: g7-finance-ministers-paris-summit
+    category: economy_markets
+    headline_en: G7 Finance Ministers Paris Summit
+    lead_url: https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+    corroborated_by:
+      - https://treasury.fr
+      - https://www.bloomberg.com/news/articles/2026-05-19/g7-paris-finance
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+      - https://treasury.fr
+      - https://www.bloomberg.com/news/articles/2026-05-19/g7-paris-finance
+    hard_facts:
+      - claim: G7 finance ministers and central bank governors summit dates
+        kind: temporal
+        value: 18-19 May 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "G7 finance ministers and central bank governors convened in Paris 18-19 May 2026 under France's G7 presidency"
+      - claim: Summit location
+        kind: named_institution
+        value: Paris
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "G7 finance ministers and central bank governors convened in Paris 18-19 May 2026 under France's G7 presidency"
+      - claim: French G7 Presidency Finance Minister
+        kind: named_person
+        value: Roland Lescure
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "led by Finance Minister Roland Lescure and BdF Governor François Villeroy de Galhau"
+      - claim: Banque de France Governor
+        kind: named_person
+        value: "François Villeroy de Galhau"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "led by Finance Minister Roland Lescure and BdF Governor François Villeroy de Galhau"
+      - claim: Share of global oil transiting Strait of Hormuz
+        kind: numerical_with_unit
+        value: "~20%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "Strait of Hormuz disruption (~20% of global oil)"
+      - claim: German 10Y Bund yield level approached
+        kind: numerical_with_unit
+        value: 3.2%
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "German 10Y Bund approached 3.2%, highest since May 2011"
+      - claim: German 10Y Bund last seen at that level
+        kind: temporal
+        value: May 2011
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "German 10Y Bund approached 3.2%, highest since May 2011"
+      - claim: G7 partner countries joining for first time
+        kind: named_institution
+        value: Brazil
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "Brazil/India/Kenya/South Korea joined as G7 partners for first time"
+      - claim: G7 partner countries joining for first time
+        kind: named_institution
+        value: India
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "Brazil/India/Kenya/South Korea joined as G7 partners for first time"
+      - claim: G7 partner countries joining for first time
+        kind: named_institution
+        value: Kenya
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "Brazil/India/Kenya/South Korea joined as G7 partners for first time"
+      - claim: G7 partner countries joining for first time
+        kind: named_institution
+        value: South Korea
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "Brazil/India/Kenya/South Korea joined as G7 partners for first time"
+      - claim: Observer institutions — IMF
+        kind: named_institution
+        value: IMF
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "IMF, World Bank, OECD, Ukraine FM Marchenko, Syria, Qatar attended as observers"
+      - claim: Observer institutions — World Bank
+        kind: named_institution
+        value: World Bank
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "IMF, World Bank, OECD, Ukraine FM Marchenko, Syria, Qatar attended as observers"
+      - claim: Observer institutions — OECD
+        kind: named_institution
+        value: OECD
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "IMF, World Bank, OECD, Ukraine FM Marchenko, Syria, Qatar attended as observers"
+      - claim: Ukraine Finance Minister attending as observer
+        kind: named_person
+        value: Marchenko
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "IMF, World Bank, OECD, Ukraine FM Marchenko, Syria, Qatar attended as observers"
+      - claim: US Treasury Secretary
+        kind: named_person
+        value: Scott Bessent
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "US Treasury Secretary Scott Bessent urged sanctions alignment to cut Iran funding"
+      - claim: Italian PM
+        kind: named_person
+        value: Meloni
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "Italian PM Meloni threatened to withdraw from EU €150bn SAFE defence borrowing scheme"
+      - claim: EU SAFE defence borrowing scheme size
+        kind: numerical_with_unit
+        value: "€150bn"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "Italian PM Meloni threatened to withdraw from EU €150bn SAFE defence borrowing scheme unless escape clause extended to >€30bn energy crisis spending"
+      - claim: Energy crisis spending escape clause threshold sought by Italy
+        kind: numerical_with_unit
+        value: ">€30bn"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        verbatim_excerpt: "unless escape clause extended to >€30bn energy crisis spending"
+    quotes:
+      - speaker_name: Roland Lescure
+        speaker_title: Finance Minister of France, G7 Presidency
+        verbatim_en: "undergoing a correction"
+        source_url: https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        context: G7 Paris summit 18-19 May 2026, on bond markets
+      - speaker_name: Senior NATO source
+        speaker_title: Senior NATO official (unnamed)
+        verbatim_en: "We need a lot of resources and munitions and the ability to ramp up production quickly."
+        source_url: https://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order
+        context: G7 Paris summit 18-19 May 2026, on alliance resources
+
+  - story_id: germany-launches-privatisation-of-uniper
+    category: economy_markets
+    headline_en: Germany Launches Privatisation of Uniper
+    lead_url: https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-05-19/german-government-launches-privatization-of-energy-firm-uniper-mpc7nu4l
+      - https://www.cnbc.com/2026/05/19/european-markets-stoxx-uniper-ftse-dax-cac-iran-latest-g7-meeting.html
+    locked_urls:
+      - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+      - https://www.bloomberg.com/news/articles/2026-05-19/german-government-launches-privatization-of-energy-firm-uniper-mpc7nu4l
+      - https://www.cnbc.com/2026/05/19/european-markets-stoxx-uniper-ftse-dax-cac-iran-latest-g7-meeting.html
+    hard_facts:
+      - claim: German government stake in Uniper SE being divested
+        kind: numerical_with_unit
+        value: 99.12%
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "German government formally launched divestment of 99.12% stake in Uniper SE on Tue 19 May 2026"
+      - claim: Divestment launch date
+        kind: temporal
+        value: Tue 19 May 2026
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "German government formally launched divestment of 99.12% stake in Uniper SE on Tue 19 May 2026"
+      - claim: Time since nationalisation
+        kind: temporal
+        value: "3+ years"
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "3+ years after nationalisation"
+      - claim: Deadline for indications of interest
+        kind: temporal
+        value: 12 June 2026
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "Finance ministry invited indications of interest by 12 June 2026"
+      - claim: Government blocking minority stake to retain
+        kind: numerical_with_unit
+        value: "25%+1 share"
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "Government to retain 25%+1 share \"blocking minority\""
+      - claim: Bailout cost in euros
+        kind: numerical_with_unit
+        value: "€13.5bn"
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "Bailout agreed Sept 2022 cost €13.5bn ($15.7bn) after Russia gas cuts plunged Uniper into crisis"
+      - claim: Bailout cost in US dollars
+        kind: numerical_with_unit
+        value: "$15.7bn"
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "Bailout agreed Sept 2022 cost €13.5bn ($15.7bn) after Russia gas cuts plunged Uniper into crisis"
+      - claim: Bailout agreement date
+        kind: temporal
+        value: Sept 2022
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "Bailout agreed Sept 2022 cost €13.5bn ($15.7bn) after Russia gas cuts plunged Uniper into crisis"
+      - claim: Uniper CEO
+        kind: named_person
+        value: Michael Lewis
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "CEO Michael Lewis: company \"now more stable, more resilient and more clearly positioned strategically.\""
+      - claim: Named company being divested
+        kind: named_institution
+        value: Uniper SE
+        source_urls:
+          - https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        verbatim_excerpt: "German government formally launched divestment of 99.12% stake in Uniper SE on Tue 19 May 2026"
+      - claim: Stoxx 600 performance on open
+        kind: numerical_with_unit
+        value: "+~0.5%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/19/european-markets-stoxx-uniper-ftse-dax-cac-iran-latest-g7-meeting.html
+        verbatim_excerpt: "Stoxx 600 +~0.5% on open"
+    quotes:
+      - speaker_name: Michael Lewis
+        speaker_title: CEO, Uniper SE
+        verbatim_en: "now more stable, more resilient and more clearly positioned strategically."
+        source_url: https://www.digitaljournal.com/business/germany-starts-sales-process-for-bailed-out-energy-firm-uniper/article
+        context: Statement on Uniper divestment launch, 19 May 2026
+
+  - story_id: eu-fertiliser-action-plan
+    category: economy_markets
+    headline_en: EU Fertiliser Action Plan
+    lead_url: https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+    corroborated_by:
+      - https://agriculture.ec.europa.eu/common-agricultural-policy/agri-food-supply-chain/ensuring-availability-and-affordability-fertilisers_en
+    locked_urls:
+      - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+      - https://agriculture.ec.europa.eu/common-agricultural-policy/agri-food-supply-chain/ensuring-availability-and-affordability-fertilisers_en
+    hard_facts:
+      - claim: Date EC adopted Fertiliser Action Plan
+        kind: temporal
+        value: 19 May 2026
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "EC adopted Fertiliser Action Plan 19 May 2026 in response to Strait of Hormuz closure crisis"
+      - claim: Commissioner presenting to EP plenary
+        kind: named_person
+        value: Hansen
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "Commissioner Hansen presented to EP plenary in Strasbourg same day"
+      - claim: EP plenary location
+        kind: named_institution
+        value: Strasbourg
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "Commissioner Hansen presented to EP plenary in Strasbourg same day"
+      - claim: Nitrogen fertiliser price rise above 2024 average in April 2026
+        kind: numerical_with_unit
+        value: ">70%"
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "Nitrogen fertiliser prices in April 2026 >70% above 2024 average"
+      - claim: Nitrogen fertiliser price rise Feb-Apr 2026
+        kind: numerical_with_unit
+        value: "+40%"
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "+40% Feb-Apr 2026"
+      - claim: Share of global ammonia/urea transiting Strait of Hormuz
+        kind: numerical_with_unit
+        value: "~20%"
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "~20% of global ammonia/urea normally transits Strait"
+      - claim: Duration of CCT duty exemption on ammonia/urea/N fertilisers
+        kind: temporal
+        value: 1-year
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "1-year exemption from CCT duties on ammonia/urea/N fertilisers (excl. Russia/Belarus) saving €60m"
+      - claim: Estimated savings from CCT duty exemption
+        kind: numerical_with_unit
+        value: "€60m"
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "1-year exemption from CCT duties on ammonia/urea/N fertilisers (excl. Russia/Belarus) saving €60m"
+      - claim: Estimated CBAM costs to EU farmers in 2026
+        kind: numerical_with_unit
+        value: "€900m"
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "IFA estimated CBAM costs EU farmers €900m in 2026"
+      - claim: Named institution — IFA (Irish Farmers Association)
+        kind: named_institution
+        value: IFA
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "IFA estimated CBAM costs EU farmers €900m in 2026"
+      - claim: IFA President
+        kind: named_person
+        value: Francie Gorman
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "IFA President Francie Gorman: \"Commission imposed this tax on farmers and has refused to reverse course.\""
+      - claim: Named legislative instrument — Biotech Act
+        kind: named_product
+        value: Biotech Act
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "future bio-based fertiliser framework via Biotech Act"
+      - claim: Named fund — RRF
+        kind: named_institution
+        value: RRF
+        source_urls:
+          - https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        verbatim_excerpt: "biogas/biomethane via RRF"
+    quotes:
+      - speaker_name: Francie Gorman
+        speaker_title: President, IFA
+        verbatim_en: "Commission imposed this tax on farmers and has refused to reverse course."
+        source_url: https://www.rte.ie/news/world/2026/0519/1574022-fertiliser-eu-hormuz/
+        context: Response to EU Fertiliser Action Plan, 19 May 2026
+
+  - story_id: nato-military-chiefs-brussels
+    category: politics_diplomacy
+    headline_en: NATO Military Chiefs Brussels
+    lead_url: https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+    corroborated_by:
+      - https://www.nato.int/en/news-and-events/events/media-advisories/2026/04/28/military-committee-in-chiefs-of-defence-session
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+      - https://www.nato.int/en/news-and-events/events/media-advisories/2026/04/28/military-committee-in-chiefs-of-defence-session
+    hard_facts:
+      - claim: Date of NATO Military Committee CHODs meeting
+        kind: temporal
+        value: 19 May 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "NATO Military Committee CHODs met 19 May 2026 at NATO HQ Brussels"
+      - claim: Meeting location
+        kind: named_institution
+        value: NATO HQ Brussels
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "NATO Military Committee CHODs met 19 May 2026 at NATO HQ Brussels"
+      - claim: Chairman NATO Military Committee
+        kind: named_person
+        value: Admiral Giuseppe Cavo Dragone
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "presided by Admiral Giuseppe Cavo Dragone, Chairman NATO MC"
+      - claim: Number of Allies represented
+        kind: numerical
+        value: "32"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "All 32 Allies represented"
+      - claim: SACEUR leading briefings
+        kind: named_person
+        value: General Alexus G. Grynkewich
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "SACEUR General Alexus G. Grynkewich led briefings"
+      - claim: NATO Secretary General attending
+        kind: named_person
+        value: Mark Rutte
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "SecGen Mark Rutte attended"
+      - claim: Cost of Iran war to US military as of May 12
+        kind: numerical_with_unit
+        value: ">$29bn"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "Pentagon (May 12): Iran war cost US military >$29bn"
+      - claim: Pentagon statement date on Iran war cost
+        kind: temporal
+        value: May 12
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "Pentagon (May 12): Iran war cost US military >$29bn"
+      - claim: Trump statement date on called-off Iran attack
+        kind: temporal
+        value: May 18
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "Trump (May 18): \"called off [an] attack on Iran planned for Tuesday\""
+      - claim: US troops deployment to Poland cancelled — size
+        kind: numerical_with_unit
+        value: ">4,000 US troops"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "Washington recently cancelled deployment of brigade >4,000 US troops to Poland"
+      - claim: Press conference time
+        kind: temporal
+        value: "15:45"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "Press conf 15:45 with Cavo Dragone, Grynkewich, Adm Pierre Vandier (SACT)"
+      - claim: SACT Admiral at press conference
+        kind: named_person
+        value: "Adm Pierre Vandier"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        verbatim_excerpt: "Press conf 15:45 with Cavo Dragone, Grynkewich, Adm Pierre Vandier (SACT)"
+    quotes:
+      - speaker_name: Senior NATO source
+        speaker_title: Senior NATO official (unnamed)
+        verbatim_en: "We need a lot of resources and munitions and the ability to ramp up production quickly."
+        source_url: https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        context: NATO Military Committee CHODs meeting, Brussels, 19 May 2026
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "called off [an] attack on Iran planned for Tuesday"
+        source_url: https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal
+        context: Trump statement May 18 citing Gulf appeals and ongoing negotiations
+
+  - story_id: eu-us-trade-deal-strasbourg
+    category: politics_diplomacy
+    headline_en: EU-US Trade Deal Strasbourg
+    lead_url: https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+    hard_facts:
+      - claim: EU-US trade talks convening location
+        kind: named_institution
+        value: Strasbourg
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "EU lawmakers/diplomats convened in Strasbourg 19 May 2026"
+      - claim: Date EU lawmakers convened on trade deal
+        kind: temporal
+        value: 19 May 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "EU lawmakers/diplomats convened in Strasbourg 19 May 2026"
+      - claim: Trump deadline for trade deal
+        kind: temporal
+        value: July 4
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "Trump July 4 deadline"
+      - claim: Venue of preliminary agreement
+        kind: named_institution
+        value: Turnberry
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "Preliminary agreement at Trump's Turnberry July 2025"
+      - claim: Date of preliminary agreement
+        kind: temporal
+        value: July 2025
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "Preliminary agreement at Trump's Turnberry July 2025: zero tariffs on US industrial goods, US tariffs on most EU exports capped at 15%, deal value ~€1.68tn"
+      - claim: US tariff cap on most EU exports under preliminary agreement
+        kind: numerical_with_unit
+        value: 15%
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "US tariffs on most EU exports capped at 15%, deal value ~€1.68tn"
+      - claim: Estimated deal value
+        kind: numerical_with_unit
+        value: "~€1.68tn"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "deal value ~€1.68tn"
+      - claim: Sunset Clause auto-termination date
+        kind: temporal
+        value: March 2028
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "\"Sunset Clause\" (auto-terminate March 2028)"
+      - claim: Trump threatened EU auto tariff level
+        kind: numerical_with_unit
+        value: 25%
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "Trump threatened to raise EU auto tariffs to 25%"
+      - claim: EP lead trade negotiator
+        kind: named_person
+        value: Bernd Lange
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "Lead negotiator Bernd Lange: \"European legislation must not be shaped by threatening social media posts from Washington.\""
+      - claim: Named EP political group pushing rapid closure
+        kind: named_institution
+        value: EPP
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "EPP push rapid closure; S&D resist \"capitulation.\""
+      - claim: Named EP political group resisting
+        kind: named_institution
+        value: "S&D"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        verbatim_excerpt: "EPP push rapid closure; S&D resist \"capitulation.\""
+    quotes:
+      - speaker_name: Bernd Lange
+        speaker_title: Lead EU-US trade negotiator, European Parliament
+        verbatim_en: "European legislation must not be shaped by threatening social media posts from Washington."
+        source_url: https://www.euronews.com/my-europe/2026/05/19/watch-brussels-vs-washingtoninside-the-high-stakes-battle-over-the-eu-us-trade-deal
+        context: EP Strasbourg session on EU-US trade deal, 19 May 2026
+
+  - story_id: ep-votes-fdi-screening-and-steel
+    category: politics_diplomacy
+    headline_en: EP Votes FDI Screening and Steel
+    lead_url: https://www.europarl.europa.eu/plenary/en/votes.html
+    corroborated_by:
+      - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-05-18/5/safeguarding-the-eu-steel-industry-from-global-overcapacity
+      - https://www.europarl.europa.eu/legislative-train/carriage/revision-of-the-fdi-screening-regulation/report?sid=10001
+    locked_urls:
+      - https://www.europarl.europa.eu/plenary/en/votes.html
+      - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-05-18/5/safeguarding-the-eu-steel-industry-from-global-overcapacity
+      - https://www.europarl.europa.eu/legislative-train/carriage/revision-of-the-fdi-screening-regulation/report?sid=10001
+    hard_facts:
+      - claim: Date of EP plenary votes
+        kind: temporal
+        value: Tue 19 May 2026
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "EP plenary Strasbourg Tue 19 May 2026 held two trade-policy votes"
+      - claim: EP plenary location
+        kind: named_institution
+        value: Strasbourg
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "EP plenary Strasbourg Tue 19 May 2026 held two trade-policy votes"
+      - claim: FDI Screening Regulation rapporteur
+        kind: named_person
+        value: "Raphaël Glucksmann"
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+          - https://www.europarl.europa.eu/legislative-train/carriage/revision-of-the-fdi-screening-regulation/report?sid=10001
+        verbatim_excerpt: "rapporteur Raphaël Glucksmann (S&D, FR)"
+      - claim: FDI rapporteur political group and nationality
+        kind: named_institution
+        value: "S&D, FR"
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "rapporteur Raphaël Glucksmann (S&D, FR)"
+      - claim: FDI Screening political agreement date
+        kind: temporal
+        value: Dec 2025
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+          - https://www.europarl.europa.eu/legislative-train/carriage/revision-of-the-fdi-screening-regulation/report?sid=10001
+        verbatim_excerpt: "Political agreement Dec 2025"
+      - claim: INTA endorsement date for FDI Screening
+        kind: temporal
+        value: 24 Feb 2026
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "INTA endorsed 24 Feb 2026 (34/2/3)"
+      - claim: INTA vote result — for
+        kind: numerical
+        value: "34"
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "INTA endorsed 24 Feb 2026 (34/2/3)"
+      - claim: INTA vote result — against
+        kind: numerical
+        value: "2"
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "INTA endorsed 24 Feb 2026 (34/2/3)"
+      - claim: INTA vote result — abstentions
+        kind: numerical
+        value: "3"
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "INTA endorsed 24 Feb 2026 (34/2/3)"
+      - claim: Steel overcapacity regulation rapporteur
+        kind: named_person
+        value: Karin Karlsbro
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-05-18/5/safeguarding-the-eu-steel-industry-from-global-overcapacity
+        verbatim_excerpt: "rapporteur Karin Karlsbro"
+      - claim: WTO safeguards expiry date replaced by steel regulation
+        kind: temporal
+        value: 30 June 2026
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-05-18/5/safeguarding-the-eu-steel-industry-from-global-overcapacity
+        verbatim_excerpt: "Replaces WTO safeguards expiring 30 June 2026"
+      - claim: Annual tariff-free quota cut percentage
+        kind: numerical_with_unit
+        value: 47%
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "Cuts annual tariff-free quotas by 47% to 18.3m tonnes"
+      - claim: New annual tariff-free quota level
+        kind: numerical_with_unit
+        value: 18.3m tonnes
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "Cuts annual tariff-free quotas by 47% to 18.3m tonnes"
+      - claim: New out-of-quota duty
+        kind: numerical_with_unit
+        value: 50%
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "raises out-of-quota duty to 50%"
+      - claim: Provisional agreement with Council date
+        kind: temporal
+        value: 13 April 2026
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "Provisional agreement with Council 13 April 2026"
+      - claim: Steel regulation entry into force date
+        kind: temporal
+        value: 1 July 2026
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "Enters force 1 July 2026"
+      - claim: EU steel sector jobs lost since 2008
+        kind: numerical_with_unit
+        value: "~100,000 jobs"
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-05-18/5/safeguarding-the-eu-steel-industry-from-global-overcapacity
+        verbatim_excerpt: "EU steel sector lost ~100,000 jobs since 2008"
+      - claim: Reference year for steel sector job losses
+        kind: temporal
+        value: since 2008
+        source_urls:
+          - https://www.europarl.europa.eu/plenary/en/votes.html
+        verbatim_excerpt: "EU steel sector lost ~100,000 jobs since 2008"
+    quotes:
+      - speaker_name: Karin Karlsbro
+        speaker_title: Rapporteur for Steel Overcapacity Regulation, European Parliament
+        verbatim_en: "Combatting the negative trade effects from global overcapacity on the EU steel market is essential."
+        source_url: https://www.europarl.europa.eu/plenary/en/votes.html
+        context: EP plenary vote on steel overcapacity regulation, Strasbourg, 19 May 2026
+
+  - story_id: europol-irgc-network-takedown
+    category: tech_industry
+    headline_en: Europol IRGC Network Takedown
+    lead_url: https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+    hard_facts:
+      - claim: Date of Europol announcement
+        kind: temporal
+        value: 19 May 2026
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "Europol announced 19 May 2026 a coordinated operation dismantling >14,200 online posts/accounts/links connected to Iran's IRGC"
+      - claim: Number of online posts/accounts/links dismantled
+        kind: numerical_with_unit
+        value: ">14,200"
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "Europol announced 19 May 2026 a coordinated operation dismantling >14,200 online posts/accounts/links connected to Iran's IRGC"
+      - claim: Named institution conducting operation
+        kind: named_institution
+        value: Europol EU Internet Referral Unit
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "Operation by Europol EU Internet Referral Unit 13 Feb–28 April 2026 across 19 countries"
+      - claim: Operation start date
+        kind: temporal
+        value: 13 Feb 2026
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "Operation by Europol EU Internet Referral Unit 13 Feb–28 April 2026 across 19 countries"
+      - claim: Operation end date
+        kind: temporal
+        value: 28 April 2026
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "Operation by Europol EU Internet Referral Unit 13 Feb–28 April 2026 across 19 countries"
+      - claim: Number of countries in operation
+        kind: numerical
+        value: "19"
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "Operation by Europol EU Internet Referral Unit 13 Feb–28 April 2026 across 19 countries: AT, BE, BA, BG, CZ, DK, EE, FI, FR, DE, GR, HU, IT, NL, PT, ES, SE, UA, US"
+      - claim: IRGC primary X account followers
+        kind: numerical_with_unit
+        value: ">150,000 followers"
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "IRGC primary X account (>150,000 followers) restricted"
+      - claim: Number of languages network operated in
+        kind: numerical
+        value: "6"
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "Network spanned social media, streaming, blog sites in 6 languages: Arabic, English, French, Persian, Spanish, Bahasa Indonesia"
+      - claim: Date EU designated IRGC as terrorist organisation
+        kind: temporal
+        value: 19 Feb 2026
+        source_urls:
+          - https://www.euronews.com/2026/05/19/europol-disrupts-thousands-of-irgc-online-accounts-across-19-countries
+        verbatim_excerpt: "EU designated IRGC terrorist 19 Feb 2026"
+    quotes: []
+
+  - story_id: who-europe-pecch-climate-health
+    category: society_livelihood
+    headline_en: WHO Europe PECCH Climate-Health
+    lead_url: https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+    corroborated_by: []
+    locked_urls:
+      - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+    hard_facts:
+      - claim: Date and time of WHO PECCH launch event
+        kind: temporal
+        value: 19 May 2026 (18:00-19:20 CEST)
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "WHO Regional Office for Europe hosted launch event 19 May 2026 (18:00-19:20 CEST Geneva)"
+      - claim: Event context — sidelines of WHA session
+        kind: temporal
+        value: 79th World Health Assembly
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "sidelines of 79th World Health Assembly"
+      - claim: PECCH Chair — former Icelandic PM
+        kind: named_person
+        value: "Katrín Jakobsdóttir"
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "PECCH chaired by former Icelandic PM Katrín Jakobsdóttir"
+      - claim: WHO Regional Director who convened PECCH
+        kind: named_person
+        value: "Dr Hans Henri P. Kluge"
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "convened by WHO Regional Director Dr Hans Henri P. Kluge"
+      - claim: Number of former heads of government and leaders in PECCH
+        kind: numerical
+        value: "13"
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "13 former heads of government, ministers, civil society leaders from 53-country WHO European Region"
+      - claim: Number of countries in WHO European Region
+        kind: numerical
+        value: "53"
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "13 former heads of government, ministers, civil society leaders from 53-country WHO European Region"
+      - claim: Number of recommendations in Call to Action
+        kind: numerical
+        value: "17"
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "Call to Action: 17 recommendations across 4 domains"
+      - claim: Number of domains in Call to Action
+        kind: numerical
+        value: "4"
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "Call to Action: 17 recommendations across 4 domains"
+      - claim: Heating rate of European Region vs global average
+        kind: numerical_with_unit
+        value: twice global avg
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "European Region fastest-heating on earth — twice global avg"
+      - claim: European regions with increased heat-related mortality — count with increased
+        kind: numerical
+        value: "823"
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "823/827 (99.6%) European regions recorded increased heat-related mortality 2015-24 vs 1991-2000"
+      - claim: European regions with increased heat-related mortality — total assessed
+        kind: numerical
+        value: "827"
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "823/827 (99.6%) European regions recorded increased heat-related mortality 2015-24 vs 1991-2000"
+      - claim: Percentage of European regions with increased heat-related mortality
+        kind: numerical_with_unit
+        value: 99.6%
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "823/827 (99.6%) European regions recorded increased heat-related mortality 2015-24 vs 1991-2000"
+      - claim: Comparison period for heat-related mortality
+        kind: temporal
+        value: 2015-24 vs 1991-2000
+        source_urls:
+          - https://www.who.int/europe/news-room/events/item/2026/05/19/default-calendar/powering-up-action-on-climate-and-health--from-politics-to-implementation
+        verbatim_excerpt: "823/827 (99.6%) European regions recorded increased heat-related mortality 2015-24 vs 1991-2000"
+    quotes: []
+
+  - story_id: scenariomip-climate-models
+    category: society_livelihood
+    headline_en: ScenarioMIP Climate Models
+    lead_url: https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+    hard_facts:
+      - claim: Downward revision in worst-case temperature projection
+        kind: numerical_with_unit
+        value: 1°C
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "Climate scientists revised worst-case temperature projections downward by 1°C per Euronews 19 May 2026"
+      - claim: Report date
+        kind: temporal
+        value: 19 May 2026
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "Climate scientists revised worst-case temperature projections downward by 1°C per Euronews 19 May 2026"
+      - claim: Named model set — ScenarioMIP
+        kind: named_product
+        value: ScenarioMIP
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "ScenarioMIP — updated climate models used by IPCC — incorporated emissions data through 2023"
+      - claim: Named institution using the models
+        kind: named_institution
+        value: IPCC
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "ScenarioMIP — updated climate models used by IPCC — incorporated emissions data through 2023"
+      - claim: Emissions data coverage end year
+        kind: temporal
+        value: through 2023
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "ScenarioMIP — updated climate models used by IPCC — incorporated emissions data through 2023"
+      - claim: New worst-case temperature projection by 2100
+        kind: numerical_with_unit
+        value: 3.5°C
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "New worst-case: 3.5°C above pre-industrial by 2100, down from 4.5°C"
+      - claim: Previous worst-case temperature projection
+        kind: numerical_with_unit
+        value: 4.5°C
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "New worst-case: 3.5°C above pre-industrial by 2100, down from 4.5°C"
+      - claim: Target year for temperature projections
+        kind: temporal
+        value: "2100"
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "New worst-case: 3.5°C above pre-industrial by 2100, down from 4.5°C"
+      - claim: Temperature projection under current policies
+        kind: numerical_with_unit
+        value: "~2.5°C"
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "Current policies project ~2.5°C; net-zero by century end could limit to 2°C"
+      - claim: Temperature projection under net-zero scenario
+        kind: numerical_with_unit
+        value: 2°C
+        source_urls:
+          - https://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions
+        verbatim_excerpt: "Current policies project ~2.5°C; net-zero by century end could limit to 2°C"
+    quotes: []
+
+  - story_id: romania-hantavirus
+    category: other
+    headline_en: Romania Hantavirus
+    lead_url: https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+    corroborated_by:
+      - https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600
+    locked_urls:
+      - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+      - https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600
+    hard_facts:
+      - claim: Date hantavirus case confirmed
+        kind: temporal
+        value: Mon 19 May 2026
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "Romania National Institute of Public Health confirmed hantavirus case Mon 19 May 2026 per Arad County Public Health Directorate"
+      - claim: Named institution confirming case
+        kind: named_institution
+        value: Romania National Institute of Public Health
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "Romania National Institute of Public Health confirmed hantavirus case Mon 19 May 2026 per Arad County Public Health Directorate"
+      - claim: Named institution reporting — county level
+        kind: named_institution
+        value: Arad County Public Health Directorate
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "Romania National Institute of Public Health confirmed hantavirus case Mon 19 May 2026 per Arad County Public Health Directorate"
+      - claim: Named hantavirus variant in Hondius cluster
+        kind: named_product
+        value: Andes variant
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "Strain specific to Romania/Europe — distinct from Andes variant in MV Hondius cluster"
+      - claim: Named vessel in Hondius cluster
+        kind: named_product
+        value: MV Hondius
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "distinct from Andes variant in MV Hondius cluster (3 deaths, passengers/crew from 23 countries incl. 9 EU/EEA)"
+      - claim: Deaths in MV Hondius cluster
+        kind: numerical
+        value: "3"
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "MV Hondius cluster (3 deaths, passengers/crew from 23 countries incl. 9 EU/EEA)"
+      - claim: Countries represented among Hondius passengers/crew
+        kind: numerical
+        value: "23"
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "passengers/crew from 23 countries incl. 9 EU/EEA"
+      - claim: EU/EEA countries represented in Hondius cluster
+        kind: numerical
+        value: "9"
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "passengers/crew from 23 countries incl. 9 EU/EEA"
+      - claim: Date Hondius cluster reported
+        kind: temporal
+        value: 2 May 2026
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "ECDC classified Hondius cluster (reported 2 May 2026) \"very low\" risk for EU/EEA"
+      - claim: Named institution — ECDC risk classification
+        kind: named_institution
+        value: ECDC
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+        verbatim_excerpt: "ECDC classified Hondius cluster (reported 2 May 2026) \"very low\" risk for EU/EEA"
+      - claim: Named institution — WHO risk assessment
+        kind: named_institution
+        value: WHO
+        source_urls:
+          - https://news.cgtn.com/news/2026-05-19/Romania-confirms-hantavirus-case-unrelated-to-cruise-ship-outbreak-1Ngw0BP68Eg/p.html
+          - https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600
+        verbatim_excerpt: "WHO: \"the overall risk to the public remains low.\""
+    quotes:
+      - speaker_name: WHO
+        speaker_title: World Health Organization
+        verbatim_en: "the overall risk to the public remains low."
+        source_url: https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600
+        context: WHO disease outbreak notice DON600, Romania hantavirus case, May 2026
