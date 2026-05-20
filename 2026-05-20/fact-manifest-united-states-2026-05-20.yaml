@@ -1,0 +1,1345 @@
+version: 1
+generated_at: "2026-05-20T00:00:00Z"
+country: United States
+date: "2026-05-20"
+total_stories: 12
+stories:
+
+  - story_id: us-treasury-long-bond-yields-danger-zone
+    category: economy_markets
+    headline_en: "U.S. Treasury long-bond yields enter \"danger zone\""
+    lead_url: "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+    corroborated_by:
+      - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+    locked_urls:
+      - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+      - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+    hard_facts:
+      - claim: 10-year Treasury note yield in early trade
+        kind: numerical_with_unit
+        value: "4.653%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+          - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+        verbatim_excerpt: "The 10-year Treasury note yield was approximately 1-2 basis points lower in early trade at around 4.653%"
+      - claim: 10-year Treasury yield move lower in early trade
+        kind: numerical_with_unit
+        value: "1-2 basis points"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+          - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+        verbatim_excerpt: "The 10-year Treasury note yield was approximately 1-2 basis points lower in early trade at around 4.653%"
+      - claim: 30-year Treasury bond yield in early trade
+        kind: numerical_with_unit
+        value: "5.172%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+          - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+        verbatim_excerpt: "the 30-year Treasury bond yield was about 1 basis point lower at around 5.172%"
+      - claim: 30-year Treasury bond yield move lower in early trade
+        kind: numerical_with_unit
+        value: "1 basis point"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+          - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+        verbatim_excerpt: "the 30-year Treasury bond yield was about 1 basis point lower at around 5.172%"
+      - claim: 30-year Treasury yield intraday high in preceding session
+        kind: numerical_with_unit
+        value: "5.197%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+          - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+        verbatim_excerpt: "The preceding session had seen the 30-year Treasury yield briefly advance to 5.197%, the highest level since July 2007."
+      - claim: Date of last comparable 30-year Treasury yield high
+        kind: temporal
+        value: "July 2007"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+          - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+        verbatim_excerpt: "the highest level since July 2007"
+      - claim: Share of global fund managers expecting 30-year yield to hit 6%
+        kind: numerical_with_unit
+        value: "62%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+          - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+        verbatim_excerpt: "A Bank of America survey published Tuesday showed that 62% of global fund manager respondents expect 30-year Treasury yields to hit 6%."
+      - claim: 30-year yield target per fund manager survey
+        kind: numerical_with_unit
+        value: "6%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+          - "https://www.cnbc.com/2026/05/20/us-treasury-yields-inch-lower-amid-significant-inflation-risk.html"
+        verbatim_excerpt: "62% of global fund manager respondents expect 30-year Treasury yields to hit 6%"
+      - claim: Bank of America survey publication date
+        kind: temporal
+        value: "Tuesday"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "A Bank of America survey published Tuesday showed that 62% of global fund manager respondents expect 30-year Treasury yields to hit 6%."
+      - claim: U.S. WTI oil price on Wednesday morning
+        kind: numerical_with_unit
+        value: "$103.70 per barrel"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "Oil prices edged lower on Wednesday morning, with U.S. WTI prices around $103.70 per barrel."
+      - claim: U.S. government interest costs on national debt in April 2026
+        kind: numerical_with_unit
+        value: "$97 billion"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "The U.S. government recorded $97 billion in interest costs on the national debt in April 2026, the second-highest monthly expenditure after Social Security."
+      - claim: Month of record U.S. interest cost expenditure
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "The U.S. government recorded $97 billion in interest costs on the national debt in April 2026"
+      - claim: Date of scheduled 20-year bond auction
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "The U.S. Treasury scheduled a 20-year bond auction for May 20, 2026."
+      - claim: Bank of America — institution conducting fund manager survey
+        kind: named_institution
+        value: "Bank of America"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "A Bank of America survey published Tuesday showed that 62% of global fund manager respondents expect 30-year Treasury yields to hit 6%."
+      - claim: HSBC characterisation of U.S. Treasurys
+        kind: named_institution
+        value: "HSBC"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "HSBC characterised U.S. Treasurys as now firmly in a \"danger zone.\""
+      - claim: Interactive Brokers chief strategist Steve Sosnick
+        kind: named_person
+        value: "Steve Sosnick"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "Interactive Brokers chief strategist Steve Sosnick said the 30-year Treasury auction clearing above 5% for the first time since 2007 was \"psychologically significant.\""
+      - claim: Interactive Brokers — institution of Steve Sosnick
+        kind: named_institution
+        value: "Interactive Brokers"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "Interactive Brokers chief strategist Steve Sosnick said the 30-year Treasury auction clearing above 5% for the first time since 2007 was \"psychologically significant.\""
+      - claim: Year 30-year Treasury auction last cleared above 5% before current period
+        kind: temporal
+        value: "2007"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        verbatim_excerpt: "the 30-year Treasury auction clearing above 5% for the first time since 2007"
+    quotes:
+      - speaker_name: "Steve Sosnick"
+        speaker_title: "Chief Strategist, Interactive Brokers"
+        verbatim_en: "psychologically significant"
+        source_url: "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html"
+        context: "Comment on 30-year Treasury auction clearing above 5% for the first time since 2007"
+
+  - story_id: lowes-beats-q1-2026-earnings-estimates
+    category: economy_markets
+    headline_en: "Lowe's beats Q1 2026 earnings estimates"
+    lead_url: "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+    hard_facts:
+      - claim: Lowe's Q1 2026 results announcement date
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Lowe's Companies Inc. reported Q1 2026 results on May 20, 2026, beating consensus."
+      - claim: Lowe's Q1 2026 quarter end date
+        kind: temporal
+        value: "May 1, 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Net sales for the quarter ended May 1, 2026 were $23.1 billion"
+      - claim: Lowe's Q1 2026 net sales
+        kind: numerical_with_unit
+        value: "$23.1 billion"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Net sales for the quarter ended May 1, 2026 were $23.1 billion"
+      - claim: Lowe's Q1 2026 net sales YoY growth
+        kind: numerical_with_unit
+        value: "~10.3% YoY"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "up ~10.3% YoY vs $20.9 billion"
+      - claim: Lowe's Q1 2026 prior-year net sales
+        kind: numerical_with_unit
+        value: "$20.9 billion"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "up ~10.3% YoY vs $20.9 billion"
+      - claim: Lowe's Q1 2026 net sales consensus estimate
+        kind: numerical_with_unit
+        value: "$22.97B"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "above consensus $22.97B"
+      - claim: Lowe's Q1 2026 net earnings
+        kind: numerical_with_unit
+        value: "$1.6B"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Net earnings $1.6B"
+      - claim: Lowe's Q1 2026 diluted EPS
+        kind: numerical_with_unit
+        value: "$2.90"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "diluted EPS $2.90 vs $2.92"
+      - claim: Lowe's Q1 2026 diluted EPS consensus estimate
+        kind: numerical_with_unit
+        value: "$2.92"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "diluted EPS $2.90 vs $2.92"
+      - claim: Lowe's Q1 2026 adjusted diluted EPS
+        kind: numerical_with_unit
+        value: "$3.03"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Adjusted diluted EPS $3.03, beat $2.97 consensus."
+      - claim: Lowe's Q1 2026 adjusted diluted EPS consensus estimate
+        kind: numerical_with_unit
+        value: "$2.97"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Adjusted diluted EPS $3.03, beat $2.97 consensus."
+      - claim: Lowe's Q1 2026 comparable sales growth
+        kind: numerical_with_unit
+        value: "+0.6%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Comp sales +0.6%."
+      - claim: Lowe's Q1 2026 online sales growth
+        kind: numerical_with_unit
+        value: "+15.5%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Online sales +15.5%."
+      - claim: Number of Lowe's stores in operation
+        kind: numerical
+        value: "1,759"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Operates 1,759 stores covering 196.0M sq ft."
+      - claim: Total Lowe's store square footage
+        kind: numerical_with_unit
+        value: "196.0M sq ft"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Operates 1,759 stores covering 196.0M sq ft."
+      - claim: Lowe's FY2026 guidance total sales range
+        kind: numerical_with_unit
+        value: "$92.0-$94.0B"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "total sales $92.0-$94.0B (+7-9%)"
+      - claim: Lowe's FY2026 guidance total sales YoY growth range
+        kind: numerical_with_unit
+        value: "+7-9%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "total sales $92.0-$94.0B (+7-9%)"
+      - claim: Lowe's FY2026 guidance comp sales range
+        kind: numerical_with_unit
+        value: "flat to +2%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "comp sales flat to +2%"
+      - claim: Lowe's FY2026 guidance operating margin range
+        kind: numerical_with_unit
+        value: "11.2-11.4%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "op margin 11.2-11.4%"
+      - claim: Lowe's FY2026 guidance diluted EPS range
+        kind: numerical_with_unit
+        value: "$11.75-$12.25"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "diluted EPS $11.75-$12.25"
+      - claim: Lowe's FY2026 guidance adjusted diluted EPS range
+        kind: numerical_with_unit
+        value: "$12.25-$12.75"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "adj $12.25-$12.75"
+      - claim: Lowe's FY2026 guidance capex cap
+        kind: numerical_with_unit
+        value: "$2.5B"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "capex up to $2.5B"
+      - claim: Consecutive quarters of positive comp sales delivered
+        kind: numerical
+        value: "fourth consecutive quarter"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "we delivered our fourth consecutive quarter of positive comp sales"
+      - claim: Lowe's CEO Marvin R. Ellison
+        kind: named_person
+        value: "Marvin R. Ellison"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "CEO Marvin R. Ellison:"
+      - claim: Lowe's Companies Inc. — reporting institution
+        kind: named_institution
+        value: "Lowe's Companies Inc."
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        verbatim_excerpt: "Lowe's Companies Inc. reported Q1 2026 results on May 20, 2026, beating consensus."
+    quotes:
+      - speaker_name: "Marvin R. Ellison"
+        speaker_title: "CEO, Lowe's Companies Inc."
+        verbatim_en: "Strong spring execution and continued momentum in Pro, Appliances, Online, and Home Services supported a solid start to the year as we delivered our fourth consecutive quarter of positive comp sales."
+        source_url: "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html"
+        context: "Q1 2026 earnings release, May 20, 2026"
+
+  - story_id: us-equity-markets-broad-pressure-micron-oil
+    category: economy_markets
+    headline_en: "U.S. equity markets under broad pressure (Micron, oil, Nvidia preview)"
+    lead_url: "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+    hard_facts:
+      - claim: 30-year Treasury yield intraday high on Tuesday
+        kind: numerical_with_unit
+        value: "5.197%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "30Y briefly 5.197% Tue (highest since Jul 2007)"
+      - claim: Date of last comparable 30-year Treasury yield level
+        kind: temporal
+        value: "Jul 2007"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "30Y briefly 5.197% Tue (highest since Jul 2007)"
+      - claim: Share of global fund managers expecting 30Y to hit 6% per BofA survey
+        kind: numerical_with_unit
+        value: "62%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "BofA survey: 62% global FMs see 30Y hitting 6%."
+      - claim: Micron stock decline on the day
+        kind: numerical_with_unit
+        value: "5.95%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "Micron fell 5.95%, closing $681.54"
+      - claim: Micron closing price
+        kind: numerical_with_unit
+        value: "$681.54"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "Micron fell 5.95%, closing $681.54"
+      - claim: Micron trading volume
+        kind: numerical_with_unit
+        value: "58.7M"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "volume 58.7M (~33% above 3-mo avg 44.1M)"
+      - claim: Micron volume premium vs 3-month average
+        kind: numerical_with_unit
+        value: "~33%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "volume 58.7M (~33% above 3-mo avg 44.1M)"
+      - claim: Micron 3-month average trading volume
+        kind: numerical_with_unit
+        value: "44.1M"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "3-mo avg 44.1M"
+      - claim: Micron earlier May high price
+        kind: numerical_with_unit
+        value: "~$818"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "Earlier May high near $818."
+      - claim: U.S. WTI oil price
+        kind: numerical_with_unit
+        value: "~$103.70"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "WTI ~$103.70"
+      - claim: Volume of oil on Chinese tankers exiting Strait of Hormuz
+        kind: numerical_with_unit
+        value: "~4M bbl"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "2 Chinese tankers carrying ~4M bbl exited Strait of Hormuz"
+      - claim: Number of Chinese tankers exiting Strait of Hormuz
+        kind: numerical
+        value: "2"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "2 Chinese tankers carrying ~4M bbl exited Strait of Hormuz"
+      - claim: 30-year fixed mortgage rate
+        kind: numerical_with_unit
+        value: "6.68%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "30Y fixed mortgage 6.68%, highest since Jul 31 2025."
+      - claim: Date of last comparable 30-year fixed mortgage rate high
+        kind: temporal
+        value: "Jul 31 2025"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "30Y fixed mortgage 6.68%, highest since Jul 31 2025."
+      - claim: Nvidia Q1 FY2027 earnings date
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "Nvidia Q1 FY2027 earnings scheduled after close May 20"
+      - claim: Nvidia Q1 FY2027 consensus revenue estimate
+        kind: numerical_with_unit
+        value: "~$78.8B"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "consensus ~$78.8B revenue"
+      - claim: Nvidia Q1 FY2027 consensus non-GAAP EPS estimate
+        kind: numerical_with_unit
+        value: "$1.77"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "$1.77 non-GAAP EPS"
+      - claim: Nvidia Q1 FY2027 consensus revenue YoY growth estimate
+        kind: numerical_with_unit
+        value: "+120% YoY"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "+120% YoY"
+      - claim: Micron — named company under pressure
+        kind: named_institution
+        value: "Micron"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "Micron fell 5.95%, closing $681.54"
+      - claim: Nvidia — company with upcoming earnings
+        kind: named_institution
+        value: "Nvidia"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "Nvidia Q1 FY2027 earnings scheduled after close May 20"
+      - claim: JPMorgan — institution with mega-cap tech view
+        kind: named_institution
+        value: "JPMorgan"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "JPMorgan desk expected mega-cap tech momentum."
+      - claim: Samsung — company mentioned as Micron concern
+        kind: named_institution
+        value: "Samsung"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html"
+        verbatim_excerpt: "Concerns: Samsung strike, China exposure."
+    quotes: []
+
+  - story_id: massie-defeated-ky-primary-by-gallrein
+    category: politics_diplomacy
+    headline_en: "Massie defeated in KY primary by Gallrein"
+    lead_url: "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+    corroborated_by:
+      - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+      - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+    locked_urls:
+      - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+      - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+      - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+    hard_facts:
+      - claim: Primary election dates
+        kind: temporal
+        value: "May 19-20"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "Rep. Thomas Massie (R-KY-4) defeated May 19-20 by Trump-endorsed Ed Gallrein."
+      - claim: Gallrein vote share with ~72% counted
+        kind: numerical_with_unit
+        value: "54.4%"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "With ~72% counted, Gallrein 54.4% / Massie 45.6%."
+      - claim: Massie vote share with ~72% counted
+        kind: numerical_with_unit
+        value: "45.6%"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "With ~72% counted, Gallrein 54.4% / Massie 45.6%."
+      - claim: Vote count tabulated at time of call
+        kind: numerical_with_unit
+        value: "~72%"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "With ~72% counted"
+      - claim: Number of terms Massie served
+        kind: numerical
+        value: "seven-term"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "Massie seven-term libertarian"
+      - claim: Number of House Republicans voting against One Big Beautiful Bill
+        kind: numerical
+        value: "two"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        verbatim_excerpt: "one of two House R's voting against One Big Beautiful Bill"
+      - claim: Total ad spending in primary — most expensive House primary in U.S. history
+        kind: numerical_with_unit
+        value: "$32.6M"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "Most expensive House primary in U.S. history: $32.6M ad spending per AdImpact"
+      - claim: Attack ads spending against Massie
+        kind: numerical_with_unit
+        value: "$7.9M"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "$7.9M attack ads vs Massie funded by pro-Trump/pro-Israel groups"
+      - claim: Thomas Massie — defeated incumbent
+        kind: named_person
+        value: "Thomas Massie"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "Rep. Thomas Massie (R-KY-4) defeated May 19-20 by Trump-endorsed Ed Gallrein."
+      - claim: Ed Gallrein — Trump-endorsed challenger
+        kind: named_person
+        value: "Ed Gallrein"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+          - "https://www.npr.org/2026/05/20/nx-s1-5826919/trump-backed-ed-gallrein-defeats-rep-thomas-massie-in-kentucky-gop-primary"
+          - "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"
+        verbatim_excerpt: "Rep. Thomas Massie (R-KY-4) defeated May 19-20 by Trump-endorsed Ed Gallrein."
+      - claim: Pete Hegseth — supporter of Gallrein
+        kind: named_person
+        value: "Pete Hegseth"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        verbatim_excerpt: "Gallrein, former Navy SEAL, supported by SecDef Pete Hegseth."
+      - claim: Tommy Tuberville — Alabama GOP governor primary winner
+        kind: named_person
+        value: "Tommy Tuberville"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        verbatim_excerpt: "AL: Sen. Tommy Tuberville won R primary for governor."
+      - claim: Rick Jackson — Georgia runoff candidate
+        kind: named_person
+        value: "Rick Jackson"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        verbatim_excerpt: "GA: Rick Jackson and Burt Jones to June 16 runoff."
+      - claim: Burt Jones — Georgia runoff candidate
+        kind: named_person
+        value: "Burt Jones"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        verbatim_excerpt: "GA: Rick Jackson and Burt Jones to June 16 runoff."
+      - claim: Georgia runoff date
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        verbatim_excerpt: "GA: Rick Jackson and Burt Jones to June 16 runoff."
+      - claim: AdImpact — source of ad spending data
+        kind: named_institution
+        value: "AdImpact"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        verbatim_excerpt: "$32.6M ad spending per AdImpact"
+    quotes:
+      - speaker_name: "Donald Trump"
+        speaker_title: "U.S. President"
+        verbatim_en: "moron"
+        source_url: "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        context: "Trump's public characterisations of Rep. Thomas Massie"
+      - speaker_name: "Donald Trump"
+        speaker_title: "U.S. President"
+        verbatim_en: "nut job"
+        source_url: "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        context: "Trump's public characterisations of Rep. Thomas Massie"
+      - speaker_name: "Donald Trump"
+        speaker_title: "U.S. President"
+        verbatim_en: "major sleazebag"
+        source_url: "https://www.aljazeera.com/news/2026/5/20/republican-thomas-massie-who-stood-up-to-trump-defeated-in-kentucky-primary"
+        context: "Trump's public characterisations of Rep. Thomas Massie"
+
+  - story_id: senate-war-powers-resolution-50-47
+    category: politics_diplomacy
+    headline_en: "Senate War Powers Resolution 50-47"
+    lead_url: "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+    corroborated_by:
+      - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+    locked_urls:
+      - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+      - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+    hard_facts:
+      - claim: Senate vote tally to advance War Powers Resolution
+        kind: numerical_with_unit
+        value: "50-47"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Senate 50-47 on May 20, 2026 to advance Tim Kaine War Powers Resolution"
+      - claim: Date of Senate vote
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Senate 50-47 on May 20, 2026 to advance Tim Kaine War Powers Resolution"
+      - claim: Number of Republicans voting for resolution
+        kind: numerical
+        value: "Four"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Four Republicans: Rand Paul (KY), Susan Collins (ME), Bill Cassidy (LA), Lisa Murkowski (AK)."
+      - claim: Number of Republican senators absent
+        kind: numerical
+        value: "Three"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+        verbatim_excerpt: "Three R senators absent."
+      - claim: Constitutional override threshold
+        kind: numerical_with_unit
+        value: "2/3"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+        verbatim_excerpt: "Resolution faces House R majority and presidential veto (2/3 override)."
+      - claim: Tim Kaine — sponsor of War Powers Resolution
+        kind: named_person
+        value: "Tim Kaine"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Tim Kaine War Powers Resolution requiring Trump to remove U.S. forces from Iran hostilities absent congressional authorization."
+      - claim: Rand Paul — Republican voting for resolution
+        kind: named_person
+        value: "Rand Paul"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Four Republicans: Rand Paul (KY), Susan Collins (ME), Bill Cassidy (LA), Lisa Murkowski (AK)."
+      - claim: Susan Collins — Republican voting for resolution
+        kind: named_person
+        value: "Susan Collins"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Four Republicans: Rand Paul (KY), Susan Collins (ME), Bill Cassidy (LA), Lisa Murkowski (AK)."
+      - claim: Bill Cassidy — Republican voting for resolution
+        kind: named_person
+        value: "Bill Cassidy"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Four Republicans: Rand Paul (KY), Susan Collins (ME), Bill Cassidy (LA), Lisa Murkowski (AK)."
+      - claim: Lisa Murkowski — Republican voting for resolution
+        kind: named_person
+        value: "Lisa Murkowski"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Four Republicans: Rand Paul (KY), Susan Collins (ME), Bill Cassidy (LA), Lisa Murkowski (AK)."
+      - claim: John Fetterman — sole Democrat voting against resolution
+        kind: named_person
+        value: "John Fetterman"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+          - "https://www.nbcnews.com/politics/congress/senate-advances-resolution-end-iran-war-trump-bill-cassidy-rcna346001"
+        verbatim_excerpt: "Sen. John Fetterman (D-PA) only Democrat voting against."
+      - claim: Chuck Schumer — Senate Democratic leader commenting on resolution
+        kind: named_person
+        value: "Schumer"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+        verbatim_excerpt: "Schumer: \"This president is like a toddler playing with a loaded gun.\""
+    quotes:
+      - speaker_name: "Chuck Schumer"
+        speaker_title: "Senate Democratic Leader"
+        verbatim_en: "This president is like a toddler playing with a loaded gun."
+        source_url: "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran"
+        context: "Statement on Senate advancing War Powers Resolution, May 20, 2026"
+
+  - story_id: iran-war-day-82-trump-two-to-three-days
+    category: politics_diplomacy
+    headline_en: "Iran war day 82 — Trump \"two to three days\""
+    lead_url: "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+    hard_facts:
+      - claim: Day count of U.S.-Israel war with Iran
+        kind: temporal
+        value: "Day 82"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "Day 82 of U.S.-Israel war with Iran."
+      - claim: Trump's deadline warning to Iran
+        kind: temporal
+        value: "two to three days"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "Trump on Wed warned Iran had \"two to three days\" to reach deal."
+      - claim: War start date
+        kind: temporal
+        value: "Feb 28 2026"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "War began Feb 28 2026 with strikes targeting regime change, nuclear and missile program"
+      - claim: Conditional ceasefire date
+        kind: temporal
+        value: "Apr 8"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "conditional ceasefire Apr 8"
+      - claim: Number of points in MoU under negotiation
+        kind: numerical
+        value: "14"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "14-point MoU negotiations via Witkoff and Kushner"
+      - claim: Years Shahab Dalili held in Evin Prison
+        kind: numerical_with_unit
+        value: "10 yrs"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "Iranian-American Shahab Dalili freed after 10 yrs in Evin Prison and returned to U.S."
+      - claim: Mohammad Akraminia — Iran army spokesman
+        kind: named_person
+        value: "Mohammad Akraminia"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "Iran army spokesman Mohammad Akraminia: would \"open new fronts\" against U.S."
+      - claim: JD Vance — U.S. Vice President commenting on negotiations
+        kind: named_person
+        value: "JD Vance"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "VP JD Vance said negotiations making \"good progress.\""
+      - claim: Witkoff — MoU negotiator
+        kind: named_person
+        value: "Witkoff"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "14-point MoU negotiations via Witkoff and Kushner"
+      - claim: Kushner — MoU negotiator
+        kind: named_person
+        value: "Kushner"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "14-point MoU negotiations via Witkoff and Kushner"
+      - claim: Xi Jinping — hosted Putin in Beijing
+        kind: named_person
+        value: "Xi Jinping"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "Xi Jinping hosted Putin in Beijing days after Trump's China visit."
+      - claim: Putin — hosted by Xi in Beijing
+        kind: named_person
+        value: "Putin"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "Xi Jinping hosted Putin in Beijing days after Trump's China visit."
+      - claim: Shahab Dalili — Iranian-American freed from Evin Prison
+        kind: named_person
+        value: "Shahab Dalili"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "Iranian-American Shahab Dalili freed after 10 yrs in Evin Prison and returned to U.S."
+      - claim: Evin Prison — place of detention
+        kind: named_institution
+        value: "Evin Prison"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "Iranian-American Shahab Dalili freed after 10 yrs in Evin Prison and returned to U.S."
+      - claim: G7 — finance ministers pledged economic coordination
+        kind: named_institution
+        value: "G7"
+        source_urls:
+          - "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        verbatim_excerpt: "G7 finance ministers pledged economic coordination."
+    quotes:
+      - speaker_name: "Mohammad Akraminia"
+        speaker_title: "Iran Army Spokesman"
+        verbatim_en: "open new fronts"
+        source_url: "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        context: "Statement warning of Iranian military response, day 82 of U.S.-Israel-Iran war"
+      - speaker_name: "JD Vance"
+        speaker_title: "U.S. Vice President"
+        verbatim_en: "good progress"
+        source_url: "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        context: "Comment on Iran MoU negotiations, May 20, 2026"
+      - speaker_name: "Donald Trump"
+        speaker_title: "U.S. President"
+        verbatim_en: "two to three days"
+        source_url: "https://www.aljazeera.com/amp/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline"
+        context: "Warning to Iran to reach a deal, Wednesday May 20, 2026"
+
+  - story_id: blanche-defends-1776b-doj-anti-weaponization
+    category: politics_diplomacy
+    headline_en: "Blanche defends $1.776B DOJ Anti-Weaponization Fund"
+    lead_url: "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+    hard_facts:
+      - claim: DOJ Anti-Weaponization Fund amount
+        kind: numerical_with_unit
+        value: "$1.776B"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "Acting AG Todd Blanche testified before Congress Wed May 20 defending $1.776B DOJ \"Anti-Weaponization Fund\""
+      - claim: Trump's lawsuit amount against IRS that generated settlement
+        kind: numerical_with_unit
+        value: "$10B"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "created in settlement of Trump's $10B suit vs IRS"
+      - claim: Date of Blanche congressional testimony
+        kind: temporal
+        value: "Wed May 20"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "Acting AG Todd Blanche testified before Congress Wed May 20"
+      - claim: Settlement addendum publication day
+        kind: temporal
+        value: "Tuesday"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "Settlement addendum (Tue, on DOJ website)"
+      - claim: Todd Blanche — Acting Attorney General
+        kind: named_person
+        value: "Todd Blanche"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "Acting AG Todd Blanche testified before Congress Wed May 20 defending $1.776B DOJ \"Anti-Weaponization Fund\""
+      - claim: Brian Morrissey — Treasury General Counsel who resigned
+        kind: named_person
+        value: "Brian Morrissey"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "Treasury General Counsel Brian Morrissey resigned in protest."
+      - claim: DOJ — institution defending the fund
+        kind: named_institution
+        value: "DOJ"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "Acting AG Todd Blanche testified before Congress Wed May 20 defending $1.776B DOJ \"Anti-Weaponization Fund\""
+      - claim: IRS — defendant in Trump's suit
+        kind: named_institution
+        value: "IRS"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "created in settlement of Trump's $10B suit vs IRS"
+      - claim: Anti-Weaponization Fund — named product/programme
+        kind: named_product
+        value: "Anti-Weaponization Fund"
+        source_urls:
+          - "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        verbatim_excerpt: "$1.776B DOJ \"Anti-Weaponization Fund,\" created in settlement of Trump's $10B suit vs IRS"
+    quotes:
+      - speaker_name: "Settlement Addendum"
+        speaker_title: "DOJ Legal Document"
+        verbatim_en: "FOREVER BARRED"
+        source_url: "https://www.npr.org/2026/05/20/nx-s1-5827005/acting-u-s-attorney-general-todd-blanche-defends-new-1-8b-anti-weaponization-fund"
+        context: "Settlement addendum language barring federal government from prosecuting Trump tax matters, published Tuesday on DOJ website"
+
+  - story_id: trump-ai-executive-order-90-day-pre-release
+    category: tech_industry
+    headline_en: "Trump AI executive order — 90-day pre-release model sharing"
+    lead_url: "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+    hard_facts:
+      - claim: Days before public release AI labs must share models with government
+        kind: numerical_with_unit
+        value: "≥90 days"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "AI labs would share most powerful models with government ≥90 days before public release"
+      - claim: Publication date of Axios report
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "White House preparing executive order on cybersecurity and AI safety \"as soon as this week,\" per Axios May 20."
+      - claim: Expected timeline for executive order
+        kind: temporal
+        value: "as soon as this week"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "White House preparing executive order on cybersecurity and AI safety \"as soon as this week,\" per Axios May 20."
+      - claim: Anthropic's Mythos — AI model triggering the order
+        kind: named_product
+        value: "Anthropic's Mythos"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "Prompted by capabilities of Anthropic's Mythos and OpenAI's GPT-5.5-Cyber to find/exploit software vulnerabilities."
+      - claim: OpenAI's GPT-5.5-Cyber — AI model triggering the order
+        kind: named_product
+        value: "OpenAI's GPT-5.5-Cyber"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "Prompted by capabilities of Anthropic's Mythos and OpenAI's GPT-5.5-Cyber to find/exploit software vulnerabilities."
+      - claim: Anthropic — AI company subject to proposed order
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "Prompted by capabilities of Anthropic's Mythos and OpenAI's GPT-5.5-Cyber to find/exploit software vulnerabilities."
+      - claim: OpenAI — AI company subject to proposed order
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "Prompted by capabilities of Anthropic's Mythos and OpenAI's GPT-5.5-Cyber to find/exploit software vulnerabilities."
+      - claim: Google DeepMind — existing agreement with CASI
+        kind: named_institution
+        value: "Google DeepMind"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "Cascades from existing agreements with Google DeepMind, Microsoft, xAI under Center for AI Standards and Innovation."
+      - claim: Microsoft — existing agreement with CASI
+        kind: named_institution
+        value: "Microsoft"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "Cascades from existing agreements with Google DeepMind, Microsoft, xAI under Center for AI Standards and Innovation."
+      - claim: xAI — existing agreement with CASI
+        kind: named_institution
+        value: "xAI"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "Cascades from existing agreements with Google DeepMind, Microsoft, xAI under Center for AI Standards and Innovation."
+      - claim: Center for AI Standards and Innovation — government standards body
+        kind: named_institution
+        value: "Center for AI Standards and Innovation"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        verbatim_excerpt: "Cascades from existing agreements with Google DeepMind, Microsoft, xAI under Center for AI Standards and Innovation."
+    quotes:
+      - speaker_name: "White House official"
+        speaker_title: "White House official (unnamed)"
+        verbatim_en: "Any policy announcement will come directly from the president. Discussion about potential executive orders is speculation."
+        source_url: "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting"
+        context: "Comment to Axios on May 20, 2026 regarding the potential AI executive order"
+
+  - story_id: us-doctor-peter-stafford-evacuated-berlin-ebola
+    category: society_livelihood
+    headline_en: "U.S. doctor Peter Stafford evacuated to Berlin Charité — Bundibugyo Ebola"
+    lead_url: "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+    corroborated_by:
+      - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+    locked_urls:
+      - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+      - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+    hard_facts:
+      - claim: Date of Dr. Stafford's airlift to Berlin
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "Dr. Peter Stafford (Penn-based Serge medical missionary) airlifted to Charité Berlin May 20 after contracting Bundibugyo Ebola at Nyankunde Hospital, Bunia, DRC."
+      - claim: Year Dr. Stafford relocated to Africa
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "He relocated to Africa 2019 with wife Dr. Rebekah Stafford."
+      - claim: Number of close contacts accompanying Stafford
+        kind: numerical
+        value: "6"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "Accompanied by 6 close contacts including wife."
+      - claim: Total WHO-reported deaths in outbreak as of May 20
+        kind: numerical_with_unit
+        value: "80+ deaths"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "As of May 20: WHO reports 80+ deaths in outbreak"
+      - claim: Suspected DRC cases
+        kind: numerical
+        value: "513"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "513 suspected DRC cases"
+      - claim: Suspected DRC deaths
+        kind: numerical
+        value: "131"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "131 suspected DRC deaths"
+      - claim: Bundibugyo Ebola prior mortality rate range
+        kind: numerical_with_unit
+        value: "30-50%"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+        verbatim_excerpt: "Bundibugyo: no vaccine/treatment, prior mortality 30-50%."
+      - claim: Date WHO declared PHEIC
+        kind: temporal
+        value: "May 17"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+        verbatim_excerpt: "May 17 WHO declared PHEIC."
+      - claim: Date CDC/DHS enhanced travel screening implemented
+        kind: temporal
+        value: "May 18"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+        verbatim_excerpt: "May 18 CDC/DHS enhanced travel screening for Uganda, DRC, S. Sudan."
+      - claim: Peter Stafford — evacuated U.S. doctor
+        kind: named_person
+        value: "Peter Stafford"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "Dr. Peter Stafford (Penn-based Serge medical missionary) airlifted to Charité Berlin May 20"
+      - claim: Rebekah Stafford — wife accompanying Dr. Stafford
+        kind: named_person
+        value: "Rebekah Stafford"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "He relocated to Africa 2019 with wife Dr. Rebekah Stafford."
+      - claim: Tedros — WHO Director General
+        kind: named_person
+        value: "Tedros"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "WHO DG Tedros: \"scale and speed.\""
+      - claim: Charité Berlin — receiving hospital
+        kind: named_institution
+        value: "Charité Berlin"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "Dr. Peter Stafford (Penn-based Serge medical missionary) airlifted to Charité Berlin May 20"
+      - claim: Nyankunde Hospital — hospital where Stafford contracted Ebola
+        kind: named_institution
+        value: "Nyankunde Hospital"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+        verbatim_excerpt: "contracting Bundibugyo Ebola at Nyankunde Hospital, Bunia, DRC."
+      - claim: WHO — reporting organisation on outbreak
+        kind: named_institution
+        value: "WHO"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "WHO reports 80+ deaths in outbreak"
+      - claim: CDC — agency implementing enhanced travel screening
+        kind: named_institution
+        value: "CDC"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+        verbatim_excerpt: "May 18 CDC/DHS enhanced travel screening for Uganda, DRC, S. Sudan."
+      - claim: DHS — agency implementing enhanced travel screening
+        kind: named_institution
+        value: "DHS"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+        verbatim_excerpt: "May 18 CDC/DHS enhanced travel screening for Uganda, DRC, S. Sudan."
+      - claim: Bundibugyo Ebola — strain of Ebola virus
+        kind: named_product
+        value: "Bundibugyo Ebola"
+        source_urls:
+          - "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+          - "https://www.nbcnews.com/health/health-news/american-doctor-ebola-evacuated-germany-wife-four-children-congo-rcna345961"
+        verbatim_excerpt: "contracting Bundibugyo Ebola at Nyankunde Hospital, Bunia, DRC."
+    quotes:
+      - speaker_name: "Tedros"
+        speaker_title: "Director General, WHO"
+        verbatim_en: "scale and speed"
+        source_url: "https://www.euronews.com/health/2026/05/20/ebola-outbreak-infected-us-doctor-is-now-in-berlin"
+        context: "WHO DG comment on the Bundibugyo Ebola outbreak, May 20, 2026"
+
+  - story_id: all-50-states-avg-over-4-per-gal-iran-war
+    category: society_livelihood
+    headline_en: "All 50 states avg >$4/gal — Iran war gas price impact"
+    lead_url: "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+    hard_facts:
+      - claim: Date all 50 U.S. states averaged over $4/gal
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "AAA reported May 20 all 50 US states averaging >$4/gal first time."
+      - claim: National average gas price
+        kind: numerical_with_unit
+        value: "$4.56/gal"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "National avg $4.56/gal."
+      - claim: California average gas price — highest state
+        kind: numerical_with_unit
+        value: "$6.15/gal"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "California highest $6.15/gal"
+      - claim: Georgia average gas price — lowest state
+        kind: numerical_with_unit
+        value: "$4.01/gal"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "Georgia lowest $4.01/gal."
+      - claim: Number of states averaging over $5/gal
+        kind: numerical
+        value: "Seven"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "Seven states >$5/gal: CA, AK, HI, IL, NV, OR, WA."
+      - claim: Gas price increase since war began
+        kind: numerical_with_unit
+        value: "53%"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "Prices up 53% since US-Israel war vs Iran began ~3 months ago"
+      - claim: Duration of U.S.-Israel war vs Iran at time of report
+        kind: temporal
+        value: "~3 months"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "Prices up 53% since US-Israel war vs Iran began ~3 months ago"
+      - claim: Share of global oil transit through Strait of Hormuz
+        kind: numerical_with_unit
+        value: "~20%"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "driven by Strait of Hormuz disruption fears (~20% global oil transit)"
+      - claim: GasBuddy projected national average if Strait closure persists through mid-summer
+        kind: numerical_with_unit
+        value: "north of $5.03 per gallon"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "prices could reach \"north of $5.03 per gallon\" if Strait closure persists through mid-summer 2026"
+      - claim: Timeline for possible Strait closure impact
+        kind: temporal
+        value: "mid-summer 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "if Strait closure persists through mid-summer 2026"
+      - claim: AAA — source reporting gas price data
+        kind: named_institution
+        value: "AAA"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "AAA reported May 20 all 50 US states averaging >$4/gal first time."
+      - claim: Patrick De Haan — GasBuddy analyst quoted
+        kind: named_person
+        value: "Patrick De Haan"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "GasBuddy Patrick De Haan: prices could reach \"north of $5.03 per gallon\" if Strait closure persists through mid-summer 2026."
+      - claim: GasBuddy — source of price projection
+        kind: named_institution
+        value: "GasBuddy"
+        source_urls:
+          - "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        verbatim_excerpt: "GasBuddy Patrick De Haan: prices could reach \"north of $5.03 per gallon\" if Strait closure persists through mid-summer 2026."
+    quotes:
+      - speaker_name: "Patrick De Haan"
+        speaker_title: "Analyst, GasBuddy"
+        verbatim_en: "north of $5.03 per gallon"
+        source_url: "https://www.axios.com/2026/05/20/gas-prices-us-iran-war-4-dollars-50-states"
+        context: "Comment on gas price projection if Strait of Hormuz closure persists through mid-summer 2026"
+
+  - story_id: nyt-us-israel-planned-to-install-ahmadinejad
+    category: other
+    headline_en: "NYT — U.S./Israel planned to install Ahmadinejad"
+    lead_url: "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says"
+    hard_facts:
+      - claim: War start date against Iran
+        kind: temporal
+        value: "Feb 28"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says"
+        verbatim_excerpt: "U.S. and Israel went to war Feb 28 with plan to replace Khamenei with ex-Pres Mahmoud Ahmadinejad"
+      - claim: Mahmoud Ahmadinejad — planned Iranian replacement leader
+        kind: named_person
+        value: "Mahmoud Ahmadinejad"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says"
+        verbatim_excerpt: "plan to replace Khamenei with ex-Pres Mahmoud Ahmadinejad (under house arrest)"
+      - claim: Khamenei — Iranian leader to be replaced
+        kind: named_person
+        value: "Khamenei"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says"
+        verbatim_excerpt: "plan to replace Khamenei with ex-Pres Mahmoud Ahmadinejad (under house arrest)"
+      - claim: Year of analogous Venezuela operation
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says"
+        verbatim_excerpt: "Mirrored 2024 operation removing Maduro in Venezuela."
+      - claim: Maduro — Venezuela leader removed in analogous 2024 operation
+        kind: named_person
+        value: "Maduro"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says"
+        verbatim_excerpt: "Mirrored 2024 operation removing Maduro in Venezuela."
+      - claim: NYT — source of investigation cited by Al Jazeera
+        kind: named_institution
+        value: "NYT"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says"
+        verbatim_excerpt: "Al Jazeera May 20 cited NYT investigation"
+    quotes: []
+
+  - story_id: doj-unseals-indictment-raul-castro-1996-shootdown
+    category: other
+    headline_en: "DOJ unseals indictment vs Raúl Castro — 1996 shootdown"
+    lead_url: "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+    corroborated_by:
+      - "https://www.axios.com/2026/05/20/rubio-cuba-speech-independence-day"
+      - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+    locked_urls:
+      - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+      - "https://www.axios.com/2026/05/20/rubio-cuba-speech-independence-day"
+      - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+    hard_facts:
+      - claim: Date and time of Miami ceremony unveiling charges
+        kind: temporal
+        value: "Wed May 20 at Miami US Attorney ceremony 1pm EDT"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.axios.com/2026/05/20/rubio-cuba-speech-independence-day"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "DOJ unveiled federal criminal charges vs former Cuban Pres Raúl Castro on Wed May 20 at Miami US Attorney ceremony 1pm EDT."
+      - claim: Duration indictment was in the making
+        kind: temporal
+        value: "30+ yrs"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "Indictment 30+ yrs in making"
+      - claim: Number of civilian aircraft shot down
+        kind: numerical
+        value: "2"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "charges Castro (then defence minister) with ordering shootdown of 2 civilian aircraft of Cuban-American group Brothers to the Rescue."
+      - claim: Number of people killed in shootdown
+        kind: numerical
+        value: "4"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "4 killed Feb 24 1996 by 2 Cuban MiGs over international airspace"
+      - claim: Date of shootdown
+        kind: temporal
+        value: "Feb 24 1996"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "4 killed Feb 24 1996 by 2 Cuban MiGs over international airspace"
+      - claim: Number of victims who were U.S. citizens
+        kind: numerical
+        value: "3"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "3 were US citizens"
+      - claim: Number of Cuban MiGs involved in shootdown
+        kind: numerical
+        value: "2"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "4 killed Feb 24 1996 by 2 Cuban MiGs over international airspace"
+      - claim: Age of Raúl Castro
+        kind: numerical
+        value: "94"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+        verbatim_excerpt: "Castro is 94, no US extradition treaty."
+      - claim: Decade first indictment was drafted
+        kind: temporal
+        value: "1990s"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "Federal prosecutors first drafted indictment in 1990s"
+      - claim: Raúl Castro — indicted former Cuban president
+        kind: named_person
+        value: "Raúl Castro"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.axios.com/2026/05/20/rubio-cuba-speech-independence-day"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "DOJ unveiled federal criminal charges vs former Cuban Pres Raúl Castro on Wed May 20"
+      - claim: Todd Blanche — Acting AG attending Miami ceremony
+        kind: named_person
+        value: "Todd Blanche"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+        verbatim_excerpt: "Acting AG Todd Blanche attended Miami ceremony."
+      - claim: Marco Rubio — Secretary of State releasing Cuba video
+        kind: named_person
+        value: "Marco Rubio"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.axios.com/2026/05/20/rubio-cuba-speech-independence-day"
+        verbatim_excerpt: "Same day, SecState Marco Rubio Spanish-language video to Cuban population"
+      - claim: Brothers to the Rescue — Cuban-American group whose aircraft were shot down
+        kind: named_institution
+        value: "Brothers to the Rescue"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "ordering shootdown of 2 civilian aircraft of Cuban-American group Brothers to the Rescue."
+      - claim: Cuban MiG — aircraft type used in shootdown
+        kind: named_product
+        value: "Cuban MiGs"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+          - "https://www.cnn.com/2026/05/20/politics/behind-the-decades-long-effort-to-indict-raul-castro"
+        verbatim_excerpt: "4 killed Feb 24 1996 by 2 Cuban MiGs over international airspace"
+    quotes:
+      - speaker_name: "Marco Rubio"
+        speaker_title: "U.S. Secretary of State"
+        verbatim_en: "The real reason you don't have electricity, fuel, or food is because those who control your country have plundered billions of dollars."
+        source_url: "https://www.axios.com/2026/05/20/rubio-cuba-speech-independence-day"
+        context: "Spanish-language video to the Cuban population, May 20, 2026"
