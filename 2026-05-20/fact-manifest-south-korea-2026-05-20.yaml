@@ -1,0 +1,1783 @@
+version: 1
+generated_at: "2026-05-20T00:00:00Z"
+country: South Korea
+date: "2026-05-20"
+total_stories: 15
+stories:
+
+  - story_id: kospi-breaks-8000-for-first-time
+    category: economy_markets
+    headline_en: "KOSPI Breaks 8,000 for First Time"
+    lead_url: "https://www.koreaherald.com/article/10741924"
+    corroborated_by:
+      - "https://www.koreatimes.co.kr/economy/others/20260520/foreign-investor-exodus-from-korean-stocks-accelerates-amid-chip-sell-off"
+    locked_urls:
+      - "https://www.koreaherald.com/article/10741924"
+      - "https://www.koreatimes.co.kr/economy/others/20260520/foreign-investor-exodus-from-korean-stocks-accelerates-amid-chip-sell-off"
+    hard_facts:
+      - claim: "KOSPI threshold broken during intraday trading"
+        kind: numerical
+        value: "8,000"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "The Kospi index broke above the 8,000-point threshold for the first time during intraday trading on Wednesday"
+
+      - claim: "Number of trading days after surpassing 7,000 level"
+        kind: numerical
+        value: "seven trading days"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "reaching the milestone just seven trading days after surpassing the 7,000 level on May 6, 2026"
+
+      - claim: "Date KOSPI surpassed 7,000 level"
+        kind: temporal
+        value: "May 6, 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "reaching the milestone just seven trading days after surpassing the 7,000 level on May 6, 2026"
+
+      - claim: "Duration of KOSPI surge from 4,000 to 7,000"
+        kind: temporal
+        value: "four months"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "The surge from 4,000 to 7,000 took only four months."
+
+      - claim: "KOSPI level at 4,000 (lower bound of surge)"
+        kind: numerical
+        value: "4,000"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "The surge from 4,000 to 7,000 took only four months."
+
+      - claim: "KOSPI level at 7,000 (upper bound of surge)"
+        kind: numerical
+        value: "7,000"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "The surge from 4,000 to 7,000 took only four months."
+
+      - claim: "Total stock trading accounts as of May 6, 2026"
+        kind: numerical
+        value: "105 million"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Stock trading accounts exceeded 105 million as of May 6, 2026"
+
+      - claim: "Date stock trading accounts measured"
+        kind: temporal
+        value: "May 6, 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Stock trading accounts exceeded 105 million as of May 6, 2026"
+
+      - claim: "Increase in trading accounts since start of year"
+        kind: numerical_with_unit
+        value: "7.08 million"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "representing an increase of 7.08 million since the start of the year and 15.45 million year-over-year"
+
+      - claim: "Year-over-year increase in trading accounts"
+        kind: numerical_with_unit
+        value: "15.45 million"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "representing an increase of 7.08 million since the start of the year and 15.45 million year-over-year"
+
+      - claim: "Investor deposits awaiting stock purchases (record)"
+        kind: numerical_with_unit
+        value: "136.9 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Investor deposits awaiting stock purchases reached a record 136.9 trillion won (approximately $91 billion)."
+
+      - claim: "USD equivalent of investor deposits"
+        kind: numerical_with_unit
+        value: "$91 billion"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Investor deposits awaiting stock purchases reached a record 136.9 trillion won (approximately $91 billion)."
+
+      - claim: "Margin loans level (highest ever)"
+        kind: numerical_with_unit
+        value: "36 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Margin loans hit nearly 36 trillion won — the highest level ever recorded."
+
+      - claim: "YoY increase in margin loan balances for investors in their 20s"
+        kind: numerical_with_unit
+        value: "124.5 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Among investors in their 20s, margin loan balances jumped 124.5 percent year-over-year, from 188.8 billion won to 423.9 billion won."
+
+      - claim: "Margin loan balance for investors in 20s (prior year)"
+        kind: numerical_with_unit
+        value: "188.8 billion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Among investors in their 20s, margin loan balances jumped 124.5 percent year-over-year, from 188.8 billion won to 423.9 billion won."
+
+      - claim: "Margin loan balance for investors in 20s (current year)"
+        kind: numerical_with_unit
+        value: "423.9 billion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Among investors in their 20s, margin loan balances jumped 124.5 percent year-over-year, from 188.8 billion won to 423.9 billion won."
+
+      - claim: "South Koreans who cancelled housing savings accounts this year"
+        kind: numerical
+        value: "130,000"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Over 130,000 South Koreans cancelled housing savings accounts this year, redirecting funds toward equities."
+
+      - claim: "KOSPI closing value"
+        kind: numerical_with_unit
+        value: "7,208.95"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "The KOSPI closed at 7,208.95, down 62.71 points (0.86%)"
+
+      - claim: "KOSPI daily point decline"
+        kind: numerical_with_unit
+        value: "62.71 points"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "The KOSPI closed at 7,208.95, down 62.71 points (0.86%)"
+
+      - claim: "KOSPI daily percentage decline"
+        kind: numerical_with_unit
+        value: "0.86%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "The KOSPI closed at 7,208.95, down 62.71 points (0.86%)"
+
+      - claim: "Foreign investor consecutive net selling sessions"
+        kind: temporal
+        value: "10 consecutive sessions"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "foreign investors extending net selling streak to 10 consecutive sessions"
+
+      - claim: "Foreign investor cumulative net selling in won"
+        kind: numerical_with_unit
+        value: "43 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+          - "https://www.koreatimes.co.kr/economy/others/20260520/foreign-investor-exodus-from-korean-stocks-accelerates-amid-chip-sell-off"
+        verbatim_excerpt: "cumulative net selling reaching 43 trillion won ($28.5 billion)"
+
+      - claim: "Foreign investor cumulative net selling in USD"
+        kind: numerical_with_unit
+        value: "$28.5 billion"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+          - "https://www.koreatimes.co.kr/economy/others/20260520/foreign-investor-exodus-from-korean-stocks-accelerates-amid-chip-sell-off"
+        verbatim_excerpt: "cumulative net selling reaching 43 trillion won ($28.5 billion)"
+
+      - claim: "Prior monthly net selling record (March)"
+        kind: numerical_with_unit
+        value: "35.88 trillion won"
+        source_urls:
+          - "https://www.koreatimes.co.kr/economy/others/20260520/foreign-investor-exodus-from-korean-stocks-accelerates-amid-chip-sell-off"
+        verbatim_excerpt: "Cumulative net selling 43 trillion won surpassed prior monthly record of 35.88 trillion won set in March."
+
+      - claim: "Kosdaq daily point decline"
+        kind: numerical_with_unit
+        value: "28.29 points"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Kosdaq fell 28.29 points (2.61%)."
+
+      - claim: "Kosdaq daily percentage decline"
+        kind: numerical_with_unit
+        value: "2.61%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Kosdaq fell 28.29 points (2.61%)."
+
+      - claim: "SK hynix foreign net selling"
+        kind: numerical_with_unit
+        value: ">20 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "SK hynix saw foreign net selling >20 trillion won"
+
+      - claim: "Samsung foreign net selling (approximate)"
+        kind: numerical_with_unit
+        value: "~19 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Samsung ~19 trillion won"
+
+      - claim: "Won-dollar closing exchange rate"
+        kind: numerical_with_unit
+        value: "1,506.8"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Won-dollar closed at 1,506.8 (traded at 1,512.2 at 2pm)."
+
+      - claim: "Won-dollar exchange rate at 2pm"
+        kind: numerical_with_unit
+        value: "1,512.2"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Won-dollar closed at 1,506.8 (traded at 1,512.2 at 2pm)."
+
+      - claim: "Second Vice Finance Minister"
+        kind: named_person
+        value: "Huh Chang"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Second Vice Finance Minister Huh Chang"
+
+      - claim: "Analyst at Eugene Investment & Securities"
+        kind: named_person
+        value: "Heo Jae-hwan"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Heo Jae-hwan (Eugene Investment & Securities)"
+
+      - claim: "Institution — Eugene Investment & Securities"
+        kind: named_institution
+        value: "Eugene Investment & Securities"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Heo Jae-hwan (Eugene Investment & Securities)"
+
+      - claim: "Named institution — SK hynix"
+        kind: named_institution
+        value: "SK hynix"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "SK hynix saw foreign net selling >20 trillion won"
+
+      - claim: "Named institution — Samsung"
+        kind: named_institution
+        value: "Samsung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741924"
+        verbatim_excerpt: "Samsung ~19 trillion won"
+    quotes:
+      - speaker_name: "Huh Chang"
+        speaker_title: "Second Vice Finance Minister"
+        verbatim_en: "volatility in the foreign exchange market appears excessive compared with the country's overall economic fundamentals."
+        source_url: "https://www.koreaherald.com/article/10741924"
+        context: "Statement on foreign exchange market volatility, May 20, 2026"
+
+      - speaker_name: "Heo Jae-hwan"
+        speaker_title: "Analyst, Eugene Investment & Securities"
+        verbatim_en: "Foreign investors are continuing to react sensitively to exchange rate fluctuations over the medium to long term."
+        source_url: "https://www.koreaherald.com/article/10741924"
+        context: "Commentary on foreign investor behaviour, May 20, 2026"
+
+  - story_id: auto-exports-fall-55-percent
+    category: economy_markets
+    headline_en: "Auto Exports Fall 5.5%"
+    lead_url: "https://www.koreaherald.com/article/10741733"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10741733"
+    hard_facts:
+      - claim: "April 2026 auto exports YoY decline percentage"
+        kind: numerical_with_unit
+        value: "5.5%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "April 2026 auto exports declined 5.5% YoY to $6.17 billion (MOTIE)."
+
+      - claim: "April 2026 auto exports dollar value"
+        kind: numerical_with_unit
+        value: "$6.17 billion"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "April 2026 auto exports declined 5.5% YoY to $6.17 billion (MOTIE)."
+
+      - claim: "Reporting period for auto exports"
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "April 2026 auto exports declined 5.5% YoY to $6.17 billion (MOTIE)."
+
+      - claim: "Source institution for auto export data"
+        kind: named_institution
+        value: "MOTIE"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "April 2026 auto exports declined 5.5% YoY to $6.17 billion (MOTIE)."
+
+      - claim: "Middle East auto exports YoY change"
+        kind: numerical_with_unit
+        value: "-38.7%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Middle East -38.7%"
+
+      - claim: "EU auto exports YoY change"
+        kind: numerical_with_unit
+        value: "-13.1%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "EU -13.1%"
+
+      - claim: "Asia auto exports YoY change"
+        kind: numerical_with_unit
+        value: "-31.7%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Asia -31.7%"
+
+      - claim: "Latin America auto exports YoY change"
+        kind: numerical_with_unit
+        value: "+23.7%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Latin America +23.7%"
+
+      - claim: "Oceania auto exports YoY change"
+        kind: numerical_with_unit
+        value: "+20.1%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Oceania +20.1%"
+
+      - claim: "North America auto exports YoY change"
+        kind: numerical_with_unit
+        value: "+2.4%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "North America +2.4%"
+
+      - claim: "Eco-friendly vehicle exports YoY change"
+        kind: numerical_with_unit
+        value: "+13.5%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Eco-friendly vehicle exports +13.5% to $2.52 billion."
+
+      - claim: "Eco-friendly vehicle exports dollar value"
+        kind: numerical_with_unit
+        value: "$2.52 billion"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Eco-friendly vehicle exports +13.5% to $2.52 billion."
+
+      - claim: "EV exports YoY change"
+        kind: numerical_with_unit
+        value: "+139.7%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "EV exports +139.7%"
+
+      - claim: "Hybrid exports YoY change"
+        kind: numerical_with_unit
+        value: "+135.8%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "hybrids +135.8%"
+
+      - claim: "Domestic sales volume"
+        kind: numerical_with_unit
+        value: "152,000 units"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Domestic sales 152,000 units (+0.7%)."
+
+      - claim: "Domestic sales YoY change"
+        kind: numerical_with_unit
+        value: "+0.7%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Domestic sales 152,000 units (+0.7%)."
+
+      - claim: "Production volume"
+        kind: numerical_with_unit
+        value: "362,000 units"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Production fell 6.1% to 362,000 units."
+
+      - claim: "Production YoY decline"
+        kind: numerical_with_unit
+        value: "6.1%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Production fell 6.1% to 362,000 units."
+
+      - claim: "GM Korea YoY sales change"
+        kind: numerical_with_unit
+        value: "+15.4%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "GM Korea +15.4%"
+
+      - claim: "KG Mobility YoY sales change"
+        kind: numerical_with_unit
+        value: "+8.6%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "KG Mobility +8.6%"
+
+      - claim: "Kia YoY sales change"
+        kind: numerical_with_unit
+        value: "+0.5%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Kia +0.5%"
+
+      - claim: "Hyundai YoY sales change"
+        kind: numerical_with_unit
+        value: "-16.2%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Hyundai -16.2%"
+
+      - claim: "Renault Korea YoY sales change"
+        kind: numerical_with_unit
+        value: "-32.3%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Renault Korea -32.3%"
+
+      - claim: "Projected normalisation date"
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Ministry projected normalisation from June 2026."
+
+      - claim: "Named institution — GM Korea"
+        kind: named_institution
+        value: "GM Korea"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "GM Korea +15.4%"
+
+      - claim: "Named institution — KG Mobility"
+        kind: named_institution
+        value: "KG Mobility"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "KG Mobility +8.6%"
+
+      - claim: "Named institution — Kia"
+        kind: named_institution
+        value: "Kia"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Kia +0.5%"
+
+      - claim: "Named institution — Hyundai"
+        kind: named_institution
+        value: "Hyundai"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Hyundai -16.2%"
+
+      - claim: "Named institution — Renault Korea"
+        kind: named_institution
+        value: "Renault Korea"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741733"
+        verbatim_excerpt: "Renault Korea -32.3%"
+    quotes: []
+
+  - story_id: finance-minister-g7-ai-paris
+    category: economy_markets
+    headline_en: "Finance Minister G7 AI"
+    lead_url: "https://www.koreaherald.com/article/10741693"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10741693"
+    hard_facts:
+      - claim: "Finance Minister"
+        kind: named_person
+        value: "Koo Yun-cheol"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Finance Minister Koo Yun-cheol attended G7 finance ministers meeting in Paris on May 20, 2026"
+
+      - claim: "Date of G7 finance ministers meeting"
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Finance Minister Koo Yun-cheol attended G7 finance ministers meeting in Paris on May 20, 2026"
+
+      - claim: "Location of G7 meeting"
+        kind: named_institution
+        value: "Paris"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Finance Minister Koo Yun-cheol attended G7 finance ministers meeting in Paris on May 20, 2026 alongside India, Brazil, Kenya."
+
+      - claim: "Q1 2026 GDP growth QoQ"
+        kind: numerical_with_unit
+        value: "1.7% QoQ"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Q1 2026 GDP grew 1.7% QoQ."
+
+      - claim: "Q1 2026 GDP growth period"
+        kind: temporal
+        value: "Q1 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Q1 2026 GDP grew 1.7% QoQ."
+
+      - claim: "Number of major global IBs raising Korean growth projection"
+        kind: numerical
+        value: "8"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "8 major global IBs raised 2026 Korean growth projection from 2.1% to 2.6%."
+
+      - claim: "Prior Korean growth projection by IBs"
+        kind: numerical_with_unit
+        value: "2.1%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "8 major global IBs raised 2026 Korean growth projection from 2.1% to 2.6%."
+
+      - claim: "Revised Korean growth projection by IBs"
+        kind: numerical_with_unit
+        value: "2.6%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "8 major global IBs raised 2026 Korean growth projection from 2.1% to 2.6%."
+
+      - claim: "Korean stock market global ranking in June 2025"
+        kind: numerical
+        value: "13th"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Korean stock market ranking improved from 13th globally in June 2025 to 8th by May 2026."
+
+      - claim: "Date of prior stock market ranking"
+        kind: temporal
+        value: "June 2025"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Korean stock market ranking improved from 13th globally in June 2025 to 8th by May 2026."
+
+      - claim: "Korean stock market global ranking by May 2026"
+        kind: numerical
+        value: "8th"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Korean stock market ranking improved from 13th globally in June 2025 to 8th by May 2026."
+
+      - claim: "Date of improved stock market ranking"
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Korean stock market ranking improved from 13th globally in June 2025 to 8th by May 2026."
+
+      - claim: "German Finance Minister"
+        kind: named_person
+        value: "Lars Klingbeil"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Bilateral meetings with German FM Lars Klingbeil"
+
+      - claim: "Canadian Finance Minister"
+        kind: named_person
+        value: "Francois-Philippe Champagne"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741693"
+        verbatim_excerpt: "Canadian FM Francois-Philippe Champagne"
+    quotes:
+      - speaker_name: "Koo Yun-cheol"
+        speaker_title: "Finance Minister, South Korea"
+        verbatim_en: "AI and digital technologies play a key role in accelerating productivity growth in developing countries."
+        source_url: "https://www.koreaherald.com/article/10741693"
+        context: "G7 finance ministers meeting, Paris, May 20, 2026"
+
+  - story_id: consumer-price-task-force
+    category: economy_markets
+    headline_en: "Consumer Price Task Force"
+    lead_url: "https://www.koreatimes.co.kr/economy/policy/20260520/seoul-to-continue-efforts-to-tackle-consumer-price-hikes-amid-middle-east-war"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreatimes.co.kr/economy/policy/20260520/seoul-to-continue-efforts-to-tackle-consumer-price-hikes-amid-middle-east-war"
+    hard_facts:
+      - claim: "First Vice Finance Minister"
+        kind: named_person
+        value: "Lee Hyoung-il"
+        source_urls:
+          - "https://www.koreatimes.co.kr/economy/policy/20260520/seoul-to-continue-efforts-to-tackle-consumer-price-hikes-amid-middle-east-war"
+        verbatim_excerpt: "First Vice Finance Minister Lee Hyoung-il confirmed inter-agency consumer-price task force operating since February 2026"
+
+      - claim: "Task force operating since"
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/economy/policy/20260520/seoul-to-continue-efforts-to-tackle-consumer-price-hikes-amid-middle-east-war"
+        verbatim_excerpt: "inter-agency consumer-price task force operating since February 2026 under President Lee Jae Myung's direct order"
+
+      - claim: "President who ordered task force"
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreatimes.co.kr/economy/policy/20260520/seoul-to-continue-efforts-to-tackle-consumer-price-hikes-amid-middle-east-war"
+        verbatim_excerpt: "under President Lee Jae Myung's direct order"
+
+      - claim: "Q1 2026 GDP growth QoQ"
+        kind: numerical_with_unit
+        value: "1.7% QoQ"
+        source_urls:
+          - "https://www.koreatimes.co.kr/economy/policy/20260520/seoul-to-continue-efforts-to-tackle-consumer-price-hikes-amid-middle-east-war"
+        verbatim_excerpt: "Q1 2026 growth 1.7% QoQ."
+
+      - claim: "Q1 2026 GDP growth period"
+        kind: temporal
+        value: "Q1 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/economy/policy/20260520/seoul-to-continue-efforts-to-tackle-consumer-price-hikes-amid-middle-east-war"
+        verbatim_excerpt: "Q1 2026 growth 1.7% QoQ."
+    quotes:
+      - speaker_name: "Lee Hyoung-il"
+        speaker_title: "First Vice Finance Minister, South Korea"
+        verbatim_en: "We will take stern action against unfair business practices and stabilize prices in sectors closely linked to everyday life."
+        source_url: "https://www.koreatimes.co.kr/economy/policy/20260520/seoul-to-continue-efforts-to-tackle-consumer-price-hikes-amid-middle-east-war"
+        context: "Statement on consumer price stabilisation task force, May 20, 2026"
+
+  - story_id: us-under-secretary-hooker-seoul
+    category: politics_diplomacy
+    headline_en: "US Under Secretary Hooker to Visit Seoul"
+    lead_url: "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+    corroborated_by:
+      - "https://www.koreaherald.com/article/10741488"
+    locked_urls:
+      - "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+      - "https://www.koreaherald.com/article/10741488"
+    hard_facts:
+      - claim: "US Under Secretary of State for Political Affairs"
+        kind: named_person
+        value: "Allison Hooker"
+        source_urls:
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+          - "https://www.koreaherald.com/article/10741488"
+        verbatim_excerpt: "Under Secretary of State for Political Affairs Allison Hooker will lead US interagency delegation to Seoul"
+
+      - claim: "Date of State Department talks between Hooker and Park Yoon-joo"
+        kind: temporal
+        value: "May 19"
+        source_urls:
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+          - "https://www.koreaherald.com/article/10741488"
+        verbatim_excerpt: "Followed May 19 talks at State Department between Hooker and First Vice FM Park Yoon-joo."
+
+      - claim: "First Vice Foreign Minister of South Korea"
+        kind: named_person
+        value: "Park Yoon-joo"
+        source_urls:
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+          - "https://www.koreaherald.com/article/10741488"
+        verbatim_excerpt: "Followed May 19 talks at State Department between Hooker and First Vice FM Park Yoon-joo."
+
+      - claim: "Deputy NSA"
+        kind: named_person
+        value: "Andrew Baker"
+        source_urls:
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+          - "https://www.koreaherald.com/article/10741488"
+        verbatim_excerpt: "Deputy NSA Andrew Baker also present."
+
+      - claim: "Date of Trump's visit to South Korea (October summit)"
+        kind: temporal
+        value: "October 2025"
+        source_urls:
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+          - "https://www.koreaherald.com/article/10741488"
+        verbatim_excerpt: "October 2025 summit joint fact sheet codified US approval for South Korea to build nuclear-powered conventionally-armed attack submarines"
+
+      - claim: "Named institution — State Department"
+        kind: named_institution
+        value: "State Department"
+        source_urls:
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+          - "https://www.koreaherald.com/article/10741488"
+        verbatim_excerpt: "Followed May 19 talks at State Department between Hooker and First Vice FM Park Yoon-joo."
+    quotes:
+      - speaker_name: "State Department"
+        speaker_title: "US State Department spokesperson"
+        verbatim_en: "Under Secretary Hooker will lead an interagency delegation to Seoul in the coming weeks to launch bilateral working groups to continue implementing understandings from President Trump's October 2025 visit to the ROK."
+        source_url: "https://www.koreatimes.co.kr/foreignaffairs/20260520/senior-us-diplomat-to-visit-seoul-soon-to-launch-working-groups-on-october-summit-agreements"
+        context: "Official statement on Hooker's planned Seoul visit, May 2026"
+
+  - story_id: japan-pm-takaichi-andong-summit
+    category: politics_diplomacy
+    headline_en: "Japan PM Takaichi Andong Summit with Lee"
+    lead_url: "https://www.koreaherald.com/article/10741647"
+    corroborated_by:
+      - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
+    locked_urls:
+      - "https://www.koreaherald.com/article/10741647"
+      - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
+    hard_facts:
+      - claim: "Japan Prime Minister"
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741647"
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
+        verbatim_excerpt: "PM Sanae Takaichi concluded two-day visit to Andong"
+
+      - claim: "Duration of Takaichi's visit to Andong"
+        kind: temporal
+        value: "two-day"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741647"
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
+        verbatim_excerpt: "PM Sanae Takaichi concluded two-day visit to Andong"
+
+      - claim: "Departure time from Andong for Daegu International Airport"
+        kind: temporal
+        value: "~8:50am"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741647"
+        verbatim_excerpt: "departing Wednesday ~8:50am for Daegu International Airport"
+
+      - claim: "Date of Lee's reciprocal trip to Japan"
+        kind: temporal
+        value: "January"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741647"
+        verbatim_excerpt: "Reciprocal of Lee's January trip to Nara Prefecture."
+
+      - claim: "South Korean President"
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741647"
+        verbatim_excerpt: "President Lee Jae Myung's hometown"
+
+      - claim: "Named institution — Daegu International Airport"
+        kind: named_institution
+        value: "Daegu International Airport"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741647"
+        verbatim_excerpt: "departing Wednesday ~8:50am for Daegu International Airport"
+    quotes: []
+
+  - story_id: korean-tanker-hormuz-strait-passage
+    category: politics_diplomacy
+    headline_en: "Korean Tanker Passes Through Hormuz Strait"
+    lead_url: "https://www.koreaherald.com/article/10742061"
+    corroborated_by:
+      - "https://www.koreatimes.co.kr/foreignaffairs/20260520/foreign-minister-says-probe-into-hormuz-strait-vessel-attack-in-final-stage"
+      - "https://www.bloomberg.com/news/articles/2026-05-20/south-korean-chinese-supertankers-attempt-strait-of-hormuz-exit"
+    locked_urls:
+      - "https://www.koreaherald.com/article/10742061"
+      - "https://www.koreatimes.co.kr/foreignaffairs/20260520/foreign-minister-says-probe-into-hormuz-strait-vessel-attack-in-final-stage"
+      - "https://www.bloomberg.com/news/articles/2026-05-20/south-korean-chinese-supertankers-attempt-strait-of-hormuz-exit"
+    hard_facts:
+      - claim: "Named product — South Korea-flagged supertanker"
+        kind: named_product
+        value: "Universal Winner"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+          - "https://www.bloomberg.com/news/articles/2026-05-20/south-korean-chinese-supertankers-attempt-strait-of-hormuz-exit"
+        verbatim_excerpt: "South Korea-flagged supertanker Universal Winner became first South Korean-flagged vessel to pass through Strait of Hormuz since US-Iran war began."
+
+      - claim: "Number of South Korea-related vessels remaining in/near Strait"
+        kind: numerical
+        value: "26"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+        verbatim_excerpt: "26 South Korea-related vessels remain in/near Strait."
+
+      - claim: "Date Iran notified Korean Embassy of permitted transit"
+        kind: temporal
+        value: "Monday"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+        verbatim_excerpt: "Iran notified Korean Embassy in Tehran on Monday that one Korean vessel would be permitted to transit."
+
+      - claim: "Named product — Panama-flagged Korean-operated vessel struck May 4"
+        kind: named_product
+        value: "HMM Namu"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/foreign-minister-says-probe-into-hormuz-strait-vessel-attack-in-final-stage"
+        verbatim_excerpt: "HMM Namu (Panama-flagged, Korean-operated) struck by unidentified flying objects causing explosion and engine room fire."
+
+      - claim: "Date of HMM Namu incident"
+        kind: temporal
+        value: "May 4"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/foreign-minister-says-probe-into-hormuz-strait-vessel-attack-in-final-stage"
+        verbatim_excerpt: "Followed May 4 incident: HMM Namu (Panama-flagged, Korean-operated) struck by unidentified flying objects causing explosion and engine room fire."
+
+      - claim: "Number of phone calls between Korean FM and Iranian FM"
+        kind: numerical
+        value: "five"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/foreign-minister-says-probe-into-hormuz-strait-vessel-attack-in-final-stage"
+        verbatim_excerpt: "five phone calls with Iranian FM Abbas Araghchi"
+
+      - claim: "Iranian Foreign Minister"
+        kind: named_person
+        value: "Abbas Araghchi"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/foreign-minister-says-probe-into-hormuz-strait-vessel-attack-in-final-stage"
+        verbatim_excerpt: "five phone calls with Iranian FM Abbas Araghchi"
+
+      - claim: "South Korean Foreign Minister"
+        kind: named_person
+        value: "Cho Hyun"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/foreign-minister-says-probe-into-hormuz-strait-vessel-attack-in-final-stage"
+        verbatim_excerpt: "FM Cho Hyun: \"At this very moment, our oil tanker is passing through the Strait of Hormuz.\""
+
+      - claim: "Cargo and destination of Universal Winner"
+        kind: named_institution
+        value: "Ulsan"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+          - "https://www.bloomberg.com/news/articles/2026-05-20/south-korean-chinese-supertankers-attempt-strait-of-hormuz-exit"
+        verbatim_excerpt: "Universal Winner — laden with Kuwaiti crude bound for Ulsan"
+
+      - claim: "Location where Universal Winner was tracked"
+        kind: named_institution
+        value: "Larak Island"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742061"
+          - "https://www.bloomberg.com/news/articles/2026-05-20/south-korean-chinese-supertankers-attempt-strait-of-hormuz-exit"
+        verbatim_excerpt: "signalling Wednesday morning near Larak Island along Tehran-approved route."
+    quotes:
+      - speaker_name: "Cho Hyun"
+        speaker_title: "Foreign Minister, South Korea"
+        verbatim_en: "At this very moment, our oil tanker is passing through the Strait of Hormuz."
+        source_url: "https://www.koreaherald.com/article/10742061"
+        context: "Statement during Universal Winner's Hormuz passage, May 20, 2026"
+
+      - speaker_name: "Ministry official"
+        speaker_title: "South Korean Ministry of Foreign Affairs official"
+        verbatim_en: "in coordination with relevant countries, including Iran, to ensure the vessel's safety."
+        source_url: "https://www.koreaherald.com/article/10742061"
+        context: "Explanation of arrangements for Universal Winner's Hormuz transit, May 20, 2026"
+
+  - story_id: lee-rebukes-samsung-union
+    category: politics_diplomacy
+    headline_en: "Lee Rebukes Samsung Union"
+    lead_url: "https://www.koreaherald.com/article/10742050"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10742050"
+    hard_facts:
+      - claim: "South Korean President"
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742050"
+        verbatim_excerpt: "Lee Jae Myung at Cabinet meeting"
+
+      - claim: "Senior Spokesperson"
+        kind: named_person
+        value: "Kang Yu-jung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742050"
+        verbatim_excerpt: "Senior Spokesperson Kang Yu-jung"
+
+      - claim: "Employment Spokesperson"
+        kind: named_person
+        value: "Hong Kyung-ui"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742050"
+        verbatim_excerpt: "Employment Spokesperson Hong Kyung-ui"
+
+      - claim: "Prime Minister"
+        kind: named_person
+        value: "Kim Min-seok"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742050"
+        verbatim_excerpt: "PM Kim Min-seok previously: government would consider \"emergency arbitration\""
+
+      - claim: "Named institution — NLRC"
+        kind: named_institution
+        value: "NLRC"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742050"
+        verbatim_excerpt: "We find it deeply regrettable that the NLRC's post-mediation process broke down."
+
+      - claim: "Potential damage from prolonged walkout in won"
+        kind: numerical_with_unit
+        value: "100 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742050"
+        verbatim_excerpt: "warned prolonged walkout could cause up to 100 trillion won ($66 billion) damage."
+
+      - claim: "Potential damage from prolonged walkout in USD"
+        kind: numerical_with_unit
+        value: "$66 billion"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742050"
+        verbatim_excerpt: "warned prolonged walkout could cause up to 100 trillion won ($66 billion) damage."
+    quotes:
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President of South Korea"
+        verbatim_en: "Receiving a share of operating profit is what investors do. That is what shareholders do."
+        source_url: "https://www.koreaherald.com/article/10742050"
+        context: "Cabinet meeting, May 20, 2026"
+
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President of South Korea"
+        verbatim_en: "To institutionally divide and take a certain percentage of operating profit even before taxes — which can be considered the public's shared portion — are paid, that is something even investors cannot do."
+        source_url: "https://www.koreaherald.com/article/10742050"
+        context: "Cabinet meeting, May 20, 2026"
+
+      - speaker_name: "Kang Yu-jung"
+        speaker_title: "Senior Spokesperson, South Korean government"
+        verbatim_en: "We find it deeply regrettable that the NLRC's post-mediation process broke down."
+        source_url: "https://www.koreaherald.com/article/10742050"
+        context: "Statement on Samsung union talks breakdown, May 20, 2026"
+
+      - speaker_name: "Hong Kyung-ui"
+        speaker_title: "Employment Spokesperson, South Korean government"
+        verbatim_en: "We will provide maximum support at the government level without being bound by formalities."
+        source_url: "https://www.koreaherald.com/article/10742050"
+        context: "Statement on Samsung strike response, May 20, 2026"
+
+      - speaker_name: "Kim Min-seok"
+        speaker_title: "Prime Minister, South Korea"
+        verbatim_en: "emergency arbitration"
+        source_url: "https://www.koreaherald.com/article/10742050"
+        context: "Prior statement on potential Samsung strike, May 2026"
+
+  - story_id: samsung-18-day-strike
+    category: tech_industry
+    headline_en: "Samsung 18-Day Strike"
+    lead_url: "https://www.koreaherald.com/article/10741855"
+    corroborated_by:
+      - "https://www.koreaherald.com/article/10742060"
+      - "https://www.koreaherald.com/article/10742105"
+    locked_urls:
+      - "https://www.koreaherald.com/article/10741855"
+      - "https://www.koreaherald.com/article/10742060"
+      - "https://www.koreaherald.com/article/10742105"
+    hard_facts:
+      - claim: "Date of strike announcement"
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Samsung Electronics Labor Union announced May 20 it would proceed with general strike beginning Thursday May 21"
+
+      - claim: "Strike start date"
+        kind: temporal
+        value: "Thursday May 21"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "general strike beginning Thursday May 21"
+
+      - claim: "Duration of planned strike"
+        kind: temporal
+        value: "18-day"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Nearly 48,000 workers (38% of domestic workforce) expected to join 18-day walkout"
+
+      - claim: "Union chief"
+        kind: named_person
+        value: "Choi Seung-ho"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Union chief Choi Seung-ho"
+
+      - claim: "Expected strike participants"
+        kind: numerical_with_unit
+        value: "48,000 workers"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Nearly 48,000 workers (38% of domestic workforce) expected to join 18-day walkout"
+
+      - claim: "Strike participants as percentage of domestic workforce"
+        kind: numerical_with_unit
+        value: "38%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Nearly 48,000 workers (38% of domestic workforce) expected to join 18-day walkout"
+
+      - claim: "Strike participants in 2024 for comparison"
+        kind: numerical_with_unit
+        value: "6,000"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "vs only 6,000 in 2024"
+
+      - claim: "Court-ordered essential staffing level"
+        kind: numerical_with_unit
+        value: "7,087 workers"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Court order: essential staffing of 7,087 workers must be maintained."
+
+      - claim: "Union demand for bonus pool percentage of operating profit"
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "union demanded 15% of operating profit allocated as bonus pool"
+
+      - claim: "Management conditional offer percentage of operating profit"
+        kind: numerical_with_unit
+        value: "9-10%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Management latest offer: conditional 9-10% of operating profit"
+
+      - claim: "Device Solutions operating profit threshold for management offer"
+        kind: numerical_with_unit
+        value: "200 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "only if Device Solutions reaches 200 trillion won in operating profit."
+
+      - claim: "Estimated DRAM supply reduction from 18-day strike"
+        kind: numerical_with_unit
+        value: "3-4%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "18-day strike could reduce global DRAM supply 3-4% and NAND 2-3%."
+
+      - claim: "Estimated NAND supply reduction from 18-day strike"
+        kind: numerical_with_unit
+        value: "2-3%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "18-day strike could reduce global DRAM supply 3-4% and NAND 2-3%."
+
+      - claim: "KB Securities analyst"
+        kind: named_person
+        value: "Jeff Kim"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "KB Securities' Jeff Kim"
+
+      - claim: "Named institution — KB Securities"
+        kind: named_institution
+        value: "KB Securities"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "KB Securities' Jeff Kim"
+
+      - claim: "Named institution — Bank of Korea"
+        kind: named_institution
+        value: "Bank of Korea"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Bank of Korea: strike could cut Korean annual GDP growth by 0.5pp."
+
+      - claim: "Bank of Korea estimate of GDP growth impact of strike"
+        kind: numerical_with_unit
+        value: "0.5pp"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Bank of Korea: strike could cut Korean annual GDP growth by 0.5pp."
+
+      - claim: "PM estimate of damage in won"
+        kind: numerical_with_unit
+        value: "100 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "PM Kim Min-seok: up to 100 trillion won ($66 billion) damage."
+
+      - claim: "PM estimate of damage in USD"
+        kind: numerical_with_unit
+        value: "$66 billion"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "PM Kim Min-seok: up to 100 trillion won ($66 billion) damage."
+
+      - claim: "Named institution — Samsung Electronics"
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "Samsung Electronics Labor Union announced May 20"
+
+      - claim: "Named institution — National Labor Relations Commission"
+        kind: named_institution
+        value: "National Labor Relations Commission"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "second round of NLRC-mediated talks failed"
+
+      - claim: "Prime Minister"
+        kind: named_person
+        value: "Kim Min-seok"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741855"
+        verbatim_excerpt: "PM Kim Min-seok: up to 100 trillion won ($66 billion) damage."
+    quotes:
+      - speaker_name: "Choi Seung-ho"
+        speaker_title: "Union Chief, Samsung Electronics Labor Union"
+        verbatim_en: "The union agreed to the mediation proposal presented by the National Labor Relations Commission, but the post-mediation process came to an end after management delayed its decision."
+        source_url: "https://www.koreaherald.com/article/10741855"
+        context: "Statement announcing Samsung general strike, May 20, 2026"
+
+      - speaker_name: "Samsung Electronics"
+        speaker_title: "Samsung Electronics management"
+        verbatim_en: "The company deeply regrets that the post-mediation process has ended"
+        source_url: "https://www.koreaherald.com/article/10741855"
+        context: "Samsung management statement on strike, May 20, 2026"
+
+      - speaker_name: "Samsung Electronics"
+        speaker_title: "Samsung Electronics management"
+        verbatim_en: "the company's fundamental principle that compensation should follow performance."
+        source_url: "https://www.koreaherald.com/article/10741855"
+        context: "Samsung management statement on strike, May 20, 2026"
+
+  - story_id: samsung-bioepis-japan-launch
+    category: tech_industry
+    headline_en: "Samsung Bioepis Japan Biosimilar Launch"
+    lead_url: "https://www.koreaherald.com/article/10741741"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10741741"
+    hard_facts:
+      - claim: "Named institution — Samsung Bioepis"
+        kind: named_institution
+        value: "Samsung Bioepis"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "Samsung Bioepis launched first biosimilar in Japan May 20 via Nipro partnership."
+
+      - claim: "Launch date in Japan"
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "Samsung Bioepis launched first biosimilar in Japan May 20 via Nipro partnership."
+
+      - claim: "Named institution — Nipro"
+        kind: named_institution
+        value: "Nipro"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "Samsung Bioepis launched first biosimilar in Japan May 20 via Nipro partnership."
+
+      - claim: "Named product — biosimilar"
+        kind: named_product
+        value: "SB17"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "SB17 biosimilar references Stelara (ustekinumab) for plaque psoriasis and psoriatic arthritis."
+
+      - claim: "Named product — reference biologic"
+        kind: named_product
+        value: "Stelara"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "SB17 biosimilar references Stelara (ustekinumab) for plaque psoriasis and psoriatic arthritis."
+
+      - claim: "Named product — active ingredient"
+        kind: named_product
+        value: "ustekinumab"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "SB17 biosimilar references Stelara (ustekinumab) for plaque psoriasis and psoriatic arthritis."
+
+      - claim: "Date of Japanese regulatory approval"
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "Japanese regulatory approval received December 2025."
+
+      - claim: "Date added to Japan National Health Insurance reimbursement"
+        kind: temporal
+        value: "Monday May 19, 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "Added to Japan's National Health Insurance reimbursement scheme on Monday May 19, 2026."
+
+      - claim: "Date of Samsung Bioepis-Nipro strategic partnership signing"
+        kind: temporal
+        value: "June 2025"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "Samsung Bioepis-Nipro signed strategic partnership in June 2025."
+
+      - claim: "Named institution — Samsung BioLogics"
+        kind: named_institution
+        value: "Samsung BioLogics"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "Samsung Bioepis is JV of Samsung BioLogics and US Biogen."
+
+      - claim: "Named institution — Biogen"
+        kind: named_institution
+        value: "Biogen"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741741"
+        verbatim_excerpt: "Samsung Bioepis is JV of Samsung BioLogics and US Biogen."
+    quotes: []
+
+  - story_id: google-io-2026-kakao-synthid
+    category: tech_industry
+    headline_en: "Google I/O 2026 and Kakao SynthID Adoption"
+    lead_url: "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+    hard_facts:
+      - claim: "Named institution — Google"
+        kind: named_institution
+        value: "Google"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Google announced AI advances at I/O 2026"
+
+      - claim: "Named institution — Kakao"
+        kind: named_institution
+        value: "Kakao"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Kakao named among first companies globally to adopt SynthID digital watermarking"
+
+      - claim: "Named institution — OpenAI"
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Kakao named among first companies globally to adopt SynthID digital watermarking alongside OpenAI and Eleven Labs."
+
+      - claim: "Named institution — Eleven Labs"
+        kind: named_institution
+        value: "Eleven Labs"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Kakao named among first companies globally to adopt SynthID digital watermarking alongside OpenAI and Eleven Labs."
+
+      - claim: "Named product — SynthID"
+        kind: named_product
+        value: "SynthID"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Kakao named among first companies globally to adopt SynthID digital watermarking"
+
+      - claim: "Google CEO"
+        kind: named_person
+        value: "Sundar Pichai"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "CEO Sundar Pichai"
+
+      - claim: "Named product — Gemini Spark"
+        kind: named_product
+        value: "Gemini Spark"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Key announcements: Gemini Spark (proactive AI agent)"
+
+      - claim: "Named product — Gemini 3.5"
+        kind: named_product
+        value: "Gemini 3.5"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Gemini 3.5 model family"
+
+      - claim: "Named product — Gemini Omni"
+        kind: named_product
+        value: "Gemini Omni"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Gemini Omni video tool with realistic physics."
+
+      - claim: "Named product — Universal Cart"
+        kind: named_product
+        value: "Universal Cart"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "Universal Cart shopping tool."
+
+      - claim: "AI mode monthly users"
+        kind: numerical_with_unit
+        value: "1 billion monthly users"
+        source_urls:
+          - "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        verbatim_excerpt: "AI mode reaching 1 billion monthly users."
+    quotes:
+      - speaker_name: "Sundar Pichai"
+        speaker_title: "CEO, Google"
+        verbatim_en: "We are firmly in our agentic Gemini era."
+        source_url: "https://www.koreatimes.co.kr/world/20260520/google-io-2026-ai-advances-announced-for-search-and-gemini"
+        context: "Google I/O 2026 keynote address"
+
+  - story_id: starbucks-tank-day-boycott
+    category: society_livelihood
+    headline_en: "Starbucks Tank Day Boycott"
+    lead_url: "https://www.koreaherald.com/article/10742027"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10742027"
+    hard_facts:
+      - claim: "Date Tank Day promotion launched"
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "\"Tank Day\" tumbler promotion launched May 18, 2026"
+
+      - claim: "Anniversary event referenced"
+        kind: temporal
+        value: "May 18, 1980"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "anniversary of May 18, 1980 Gwangju Democratic Uprising."
+
+      - claim: "Deaths in Gwangju Uprising (at least)"
+        kind: numerical
+        value: "165"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "\"Tank\" evoked military tanks at Gwangju (at least 165 killed)."
+
+      - claim: "Year of Park Jong-chul death"
+        kind: temporal
+        value: "1987"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "\"Tak\" resonated with 1987 death of student activist Park Jong-chul under police torture."
+
+      - claim: "Student activist"
+        kind: named_person
+        value: "Park Jong-chul"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "1987 death of student activist Park Jong-chul under police torture."
+
+      - claim: "Starbucks Korea CEO dismissed"
+        kind: named_person
+        value: "Son Jeong-hyun"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "Starbucks Korea CEO Son Jeong-hyun apologised and dismissed."
+
+      - claim: "Shinsegae Chair"
+        kind: named_person
+        value: "Chung Yong-jin"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "Shinsegae Chair Chung Yong-jin"
+
+      - claim: "Democratic Party Representative"
+        kind: named_person
+        value: "Bok Ki-wang"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "Democratic Party Rep. Bok Ki-wang"
+
+      - claim: "Named institution — Shinsegae"
+        kind: named_institution
+        value: "Shinsegae"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "Boycott expanded to Shinsegae affiliates"
+
+      - claim: "Named institution — Starfield"
+        kind: named_institution
+        value: "Starfield"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "Boycott expanded to Shinsegae affiliates: Starfield, No Brand Burger, Shinsegae Dept Store."
+
+      - claim: "Named institution — No Brand Burger"
+        kind: named_institution
+        value: "No Brand Burger"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "Starfield, No Brand Burger, Shinsegae Dept Store."
+
+      - claim: "Named institution — Shinsegae Dept Store"
+        kind: named_institution
+        value: "Shinsegae Dept Store"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "Starfield, No Brand Burger, Shinsegae Dept Store."
+
+      - claim: "Named institution — Starbucks Korea"
+        kind: named_institution
+        value: "Starbucks Korea"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742027"
+        verbatim_excerpt: "Starbucks Korea CEO Son Jeong-hyun apologised and dismissed."
+    quotes:
+      - speaker_name: "Chung Yong-jin"
+        speaker_title: "Chairman, Shinsegae"
+        verbatim_en: "unforgivable"
+        source_url: "https://www.koreaherald.com/article/10742027"
+        context: "Statement on Starbucks Tank Day promotion, May 2026"
+
+      - speaker_name: "Starbucks Global"
+        speaker_title: "Starbucks Global spokesperson"
+        verbatim_en: "unacceptable"
+        source_url: "https://www.koreaherald.com/article/10742027"
+        context: "Starbucks Global response to Tank Day promotion, May 2026"
+
+      - speaker_name: "Bok Ki-wang"
+        speaker_title: "Representative, Democratic Party of Korea"
+        verbatim_en: "Starbucks insulted history. I will neither drink it nor even take half a bite!"
+        source_url: "https://www.koreaherald.com/article/10742027"
+        context: "Statement on Starbucks Tank Day boycott, May 2026"
+
+  - story_id: infertility-treatment-up-40-percent
+    category: society_livelihood
+    headline_en: "Infertility Treatment Up 40%"
+    lead_url: "https://www.koreaherald.com/article/10741766"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10741766"
+    hard_facts:
+      - claim: "Named institution — HIRA"
+        kind: named_institution
+        value: "HIRA"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "HIRA data: infertility treatment cases rose ~40% over four years to 203,101 in 2023."
+
+      - claim: "Infertility treatment cases rise over four years"
+        kind: numerical_with_unit
+        value: "~40%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "infertility treatment cases rose ~40% over four years to 203,101 in 2023."
+
+      - claim: "Duration of increase measured"
+        kind: temporal
+        value: "four years"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "infertility treatment cases rose ~40% over four years to 203,101 in 2023."
+
+      - claim: "Total infertility treatment cases in 2023"
+        kind: numerical
+        value: "203,101"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "infertility treatment cases rose ~40% over four years to 203,101 in 2023."
+
+      - claim: "Year of data"
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "infertility treatment cases rose ~40% over four years to 203,101 in 2023."
+
+      - claim: "IVF cases in 2023"
+        kind: numerical
+        value: "171,510"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "IVF jumped 55.4% to 171,510 from 110,390 in 2019."
+
+      - claim: "IVF percentage increase"
+        kind: numerical_with_unit
+        value: "55.4%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "IVF jumped 55.4% to 171,510 from 110,390 in 2019."
+
+      - claim: "IVF cases in 2019"
+        kind: numerical
+        value: "110,390"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "IVF jumped 55.4% to 171,510 from 110,390 in 2019."
+
+      - claim: "Base year for IVF comparison"
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "IVF jumped 55.4% to 171,510 from 110,390 in 2019."
+
+      - claim: "IUI cases YoY change"
+        kind: numerical_with_unit
+        value: "-12.2%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "IUI -12.2% to 31,591."
+
+      - claim: "IUI cases in 2023"
+        kind: numerical
+        value: "31,591"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "IUI -12.2% to 31,591."
+
+      - claim: "Women who received treatment in 2023"
+        kind: numerical
+        value: "77,660"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "77,660 women received treatment in 2023"
+
+      - claim: "Average age of women receiving treatment"
+        kind: numerical_with_unit
+        value: "37.3"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "average age 37.3"
+
+      - claim: "Percentage of women aged 35-39"
+        kind: numerical_with_unit
+        value: "36.6%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "36.6% aged 35-39"
+
+      - claim: "Percentage of women aged 30-34"
+        kind: numerical_with_unit
+        value: "31.4%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "31.4% aged 30-34"
+
+      - claim: "Percentage of women aged 40-44"
+        kind: numerical_with_unit
+        value: "23.4%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "23.4% aged 40-44"
+
+      - claim: "Percentage who attempted natural conception 3+ years before seeking treatment"
+        kind: numerical_with_unit
+        value: "39.1%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "39.1% attempted natural conception 3+ years before seeking treatment."
+
+      - claim: "Number of institutions providing treatment"
+        kind: numerical
+        value: "204"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "204 institutions"
+
+      - claim: "Percentage at clinics"
+        kind: numerical_with_unit
+        value: "64.3%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "64.3% at clinics"
+
+      - claim: "Percentage in greater Seoul"
+        kind: numerical_with_unit
+        value: "~50%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "~50% in greater Seoul."
+
+      - claim: "Fertility issues identified in women"
+        kind: numerical
+        value: "192,043"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "Fertility issues identified in 192,043 women and 108,358 men"
+
+      - claim: "Fertility issues identified in men"
+        kind: numerical
+        value: "108,358"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "Fertility issues identified in 192,043 women and 108,358 men"
+
+      - claim: "Increase in male fertility issues 2020-2023"
+        kind: numerical_with_unit
+        value: "+36.9%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "male issues +36.9% from 2020-2023."
+
+      - claim: "Period for male fertility issues increase"
+        kind: temporal
+        value: "2020-2023"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741766"
+        verbatim_excerpt: "male issues +36.9% from 2020-2023."
+    quotes: []
+
+  - story_id: israeli-flotilla-seizure-korean-activists
+    category: society_livelihood
+    headline_en: "Israeli Flotilla Seizure — Korean Activists"
+    lead_url: "https://www.koreaherald.com/article/10741658"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10741658"
+    hard_facts:
+      - claim: "Time of Israeli interception of Lina Al Nabulsi"
+        kind: temporal
+        value: "2:50am Wednesday"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Israeli forces intercepted aid vessel Lina Al Nabulsi at 2:50am Wednesday"
+
+      - claim: "Named product — intercepted aid vessel"
+        kind: named_product
+        value: "Lina Al Nabulsi"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Israeli forces intercepted aid vessel Lina Al Nabulsi at 2:50am Wednesday"
+
+      - claim: "Korean activist on Lina Al Nabulsi"
+        kind: named_person
+        value: "Kim Ah-hyun"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "carrying Korean activist Kim Ah-hyun and Korean American Jonathan Victor Lee."
+
+      - claim: "Korean American activist on Lina Al Nabulsi"
+        kind: named_person
+        value: "Jonathan Victor Lee"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "carrying Korean activist Kim Ah-hyun and Korean American Jonathan Victor Lee."
+
+      - claim: "Named product — vessel seized Monday"
+        kind: named_product
+        value: "Kyriakos X"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Follows Kyriakos X seizure Monday with Korean activist Kim Dong-hyeon."
+
+      - claim: "Korean activist on Kyriakos X"
+        kind: named_person
+        value: "Kim Dong-hyeon"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Follows Kyriakos X seizure Monday with Korean activist Kim Dong-hyeon."
+
+      - claim: "Departure port of Kyriakos X"
+        kind: named_institution
+        value: "Greece"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Kyriakos X departed Greece May 8"
+
+      - claim: "Departure date of Kyriakos X"
+        kind: temporal
+        value: "May 8"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Kyriakos X departed Greece May 8"
+
+      - claim: "Departure port of Lina Al Nabulsi"
+        kind: named_institution
+        value: "Italy"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Lina Al Nabulsi departed Italy May 2."
+
+      - claim: "Departure date of Lina Al Nabulsi"
+        kind: temporal
+        value: "May 2"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Lina Al Nabulsi departed Italy May 2."
+
+      - claim: "Date Kim Ah-hyun's passport revoked"
+        kind: temporal
+        value: "October"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Kim Ah-hyun's passport revoked by Seoul in October."
+
+      - claim: "Korean penalty for unauthorised Gaza travel — imprisonment"
+        kind: temporal
+        value: "up to 1 year imprisonment"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Korean law: unauthorised Gaza travel penalty up to 1 year imprisonment or 10 million won fine ($6,615)."
+
+      - claim: "Korean penalty for unauthorised Gaza travel — fine in won"
+        kind: numerical_with_unit
+        value: "10 million won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Korean law: unauthorised Gaza travel penalty up to 1 year imprisonment or 10 million won fine ($6,615)."
+
+      - claim: "Korean penalty for unauthorised Gaza travel — fine in USD"
+        kind: numerical_with_unit
+        value: "$6,615"
+        source_urls:
+          - "https://www.koreaherald.com/article/10741658"
+        verbatim_excerpt: "Korean law: unauthorised Gaza travel penalty up to 1 year imprisonment or 10 million won fine ($6,615)."
+    quotes: []
+
+  - story_id: kenya-kaist-university-charter
+    category: other
+    headline_en: "Kenya KAIST University Charter Granted"
+    lead_url: "https://www.koreaherald.com/article/10742022"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10742022"
+    hard_facts:
+      - claim: "Kenyan President"
+        kind: named_person
+        value: "William Ruto"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742022"
+        verbatim_excerpt: "Kenyan President William Ruto granted charter to Kenya Advanced Institute of Science and Technology (Kenya AIST) at Nairobi ceremony May 20"
+
+      - claim: "Date of charter granting"
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742022"
+        verbatim_excerpt: "Kenyan President William Ruto granted charter to Kenya Advanced Institute of Science and Technology (Kenya AIST) at Nairobi ceremony May 20"
+
+      - claim: "Named institution — Kenya AIST"
+        kind: named_institution
+        value: "Kenya Advanced Institute of Science and Technology"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742022"
+        verbatim_excerpt: "granted charter to Kenya Advanced Institute of Science and Technology (Kenya AIST)"
+
+      - claim: "National Assembly Speaker"
+        kind: named_person
+        value: "Woo Won-shik"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742022"
+        verbatim_excerpt: "National Assembly Speaker Woo Won-shik attended."
+
+      - claim: "Named institution — KAIST (model institution)"
+        kind: named_institution
+        value: "KAIST"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742022"
+        verbatim_excerpt: "Africa's first university modelled on KAIST."
+
+      - claim: "Date Assembly leadership ends"
+        kind: temporal
+        value: "May 29"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742022"
+        verbatim_excerpt: "Assembly leadership ends May 29"
+
+      - claim: "Date new speaker to be elected"
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742022"
+        verbatim_excerpt: "new speaker (Democratic Party's Cho Jeong-sik) to be elected June 5."
+
+      - claim: "Incoming National Assembly Speaker"
+        kind: named_person
+        value: "Cho Jeong-sik"
+        source_urls:
+          - "https://www.koreaherald.com/article/10742022"
+        verbatim_excerpt: "new speaker (Democratic Party's Cho Jeong-sik) to be elected June 5."
+    quotes: []
