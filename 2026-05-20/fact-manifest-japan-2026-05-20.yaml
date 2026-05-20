@@ -1,547 +1,1090 @@
 version: 1
-generated_at: "2026-05-20T00:00:00Z"
+generated_at: "2026-05-20T12:00:00Z"
 country: Japan
 date: "2026-05-20"
-total_stories: 6
+total_stories: 8
 stories:
-  - story_id: japan-pm-takaichi-extra-budget-middle-east
-    category: economy_markets
-    headline_en: "Japan PM Takaichi Signals Extra Budget Aimed Mainly at Middle East Shock, Vows to Minimise Bond Issuance"
-    lead_url: "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-    corroborated_by:
-      - "https://www.fxstreet.com/news/japans-takaichi-its-possible-extra-budget-is-aimed-mainly-at-responding-to-middle-east-situation-202605200651"
-    locked_urls:
-      - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-      - "https://www.fxstreet.com/news/japans-takaichi-its-possible-extra-budget-is-aimed-mainly-at-responding-to-middle-east-situation-202605200651"
-    hard_facts:
-      - claim: "Date of televised party leaders' debate"
-        kind: temporal
-        value: "Wednesday, May 20, 2026"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-          - "https://www.fxstreet.com/news/japans-takaichi-its-possible-extra-budget-is-aimed-mainly-at-responding-to-middle-east-situation-202605200651"
-        verbatim_excerpt: "During a televised party leaders' debate on Wednesday, May 20, 2026"
-      - claim: "Number of opposition parties represented in debate"
-        kind: numerical
-        value: "six"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Prime Minister Sanae Takaichi and heads of six opposition parties"
-      - claim: "Prime Minister of Japan"
-        kind: named_person
-        value: "Sanae Takaichi"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-          - "https://www.fxstreet.com/news/japans-takaichi-its-possible-extra-budget-is-aimed-mainly-at-responding-to-middle-east-situation-202605200651"
-        verbatim_excerpt: "Prime Minister Sanae Takaichi and heads of six opposition parties"
-      - claim: "Opposition party — Democratic Party for the People"
-        kind: named_institution
-        value: "Democratic Party for the People"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Democratic Party for the People, Centrist Reform Alliance, Constitutional Democratic Party of Japan, Sanseito, Komeito, Team Mirai"
-      - claim: "Opposition party — Centrist Reform Alliance"
-        kind: named_institution
-        value: "Centrist Reform Alliance"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Democratic Party for the People, Centrist Reform Alliance, Constitutional Democratic Party of Japan, Sanseito, Komeito, Team Mirai"
-      - claim: "Opposition party — Constitutional Democratic Party of Japan"
-        kind: named_institution
-        value: "Constitutional Democratic Party of Japan"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Democratic Party for the People, Centrist Reform Alliance, Constitutional Democratic Party of Japan, Sanseito, Komeito, Team Mirai"
-      - claim: "Opposition party — Sanseito"
-        kind: named_institution
-        value: "Sanseito"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Democratic Party for the People, Centrist Reform Alliance, Constitutional Democratic Party of Japan, Sanseito, Komeito, Team Mirai"
-      - claim: "Opposition party — Komeito"
-        kind: named_institution
-        value: "Komeito"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Democratic Party for the People, Centrist Reform Alliance, Constitutional Democratic Party of Japan, Sanseito, Komeito, Team Mirai"
-      - claim: "Opposition party — Team Mirai"
-        kind: named_institution
-        value: "Team Mirai"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Democratic Party for the People, Centrist Reform Alliance, Constitutional Democratic Party of Japan, Sanseito, Komeito, Team Mirai"
-      - claim: "Budget type confirmed by Takaichi"
-        kind: temporal
-        value: "fiscal 2026 supplementary budget"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Takaichi confirmed Japan would compile a fiscal 2026 supplementary budget primarily to address economic disruption from the Middle East conflict"
-      - claim: "Democratic Party for the People chairman"
-        kind: named_person
-        value: "Yuichiro Tamaki"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Democratic Party for the People chairman Yuichiro Tamaki demanded an additional budget of approximately ¥3 trillion ($18.9 billion)"
-      - claim: "Additional budget demanded by Yuichiro Tamaki (JPY)"
-        kind: numerical_with_unit
-        value: "¥3 trillion"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Yuichiro Tamaki demanded an additional budget of approximately ¥3 trillion ($18.9 billion) for gasoline subsidies and electricity and gas bill support"
-      - claim: "Additional budget demanded by Yuichiro Tamaki (USD equivalent)"
-        kind: numerical_with_unit
-        value: "$18.9 billion"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "Yuichiro Tamaki demanded an additional budget of approximately ¥3 trillion ($18.9 billion) for gasoline subsidies and electricity and gas bill support"
-      - claim: "USD/JPY exchange rate following Takaichi's remarks"
-        kind: numerical_with_unit
-        value: "158.95"
-        source_urls:
-          - "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        verbatim_excerpt: "The USD/JPY pair traded at approximately 158.95 following Takaichi's remarks"
-    quotes:
-      - speaker_name: "Sanae Takaichi"
-        speaker_title: "Prime Minister of Japan"
-        verbatim_en: "It's possible the extra budget is aimed mainly at responding to the Middle East situation."
-        source_url: "https://www.fxstreet.com/news/japans-takaichi-its-possible-extra-budget-is-aimed-mainly-at-responding-to-middle-east-situation-202605200651"
-        context: "Televised party leaders' debate, Wednesday May 20 2026"
-      - speaker_name: "Sanae Takaichi"
-        speaker_title: "Prime Minister of Japan"
-        verbatim_en: "It's difficult to say at this stage, but we expect to have a surplus in the accounts by next month or the month after, so we don't necessarily need to issue a large amount of government bonds."
-        source_url: "https://www.bloomberg.com/news/articles/2026-05-20/japan-s-takaichi-aims-to-avoid-large-bond-sales-in-funding-plan"
-        context: "Televised party leaders' debate, Wednesday May 20 2026, on bond financing"
 
-  - story_id: takaichi-andong-summit-south-korea-energy
-    category: politics_diplomacy
-    headline_en: "Japan PM Takaichi Departs Andong Summit with South Korea, Sealing Energy Security and Supply Chain Cooperation"
-    lead_url: "https://www.koreaherald.com/article/10741647"
+  - story_id: jgb-20yr-auction-3711pct-yield-2026
+    category: economy_markets
+    headline_en: Japan Ministry of Finance Holds 20-Year JGB Auction at 3.711% Yield with Solid Demand at Multi-Decade Rate Highs
+    lead_url: https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
     corroborated_by:
-      - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
+      - https://japantimes.co.jp/business/2026/05/20/economy/katayama-bold-action/
+      - https://bloomberg.com/2026-05-19/japan-s-finance-chief-pledges-bold-action-for-weak-yen
+      - https://asia.nikkei.com/bonds/japan-long-term-bond-yields
     locked_urls:
-      - "https://www.koreaherald.com/article/10741647"
-      - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
+      - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+      - https://japantimes.co.jp/business/2026/05/20/economy/katayama-bold-action/
+      - https://bloomberg.com/2026-05-19/japan-s-finance-chief-pledges-bold-action-for-weak-yen
+      - https://asia.nikkei.com/bonds/japan-long-term-bond-yields
     hard_facts:
-      - claim: "Time of Takaichi's departure from Andong"
-        kind: temporal
-        value: "approximately 8:50 a.m."
+      - claim: JGB issue number
+        kind: numerical
+        value: "196"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
-        verbatim_excerpt: "Japanese PM Sanae Takaichi departed Andong, hometown of South Korean President Lee Jae Myung, at approximately 8:50 a.m. on Wednesday, May 20, 2026"
-      - claim: "Date of Takaichi's departure from Andong"
-        kind: temporal
-        value: "Wednesday, May 20, 2026"
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Issue No. 196 of 20-year JGBs"
+      - claim: JGB tenor
+        kind: numerical_with_unit
+        value: "20-year"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
-        verbatim_excerpt: "departed Andong, hometown of South Korean President Lee Jae Myung, at approximately 8:50 a.m. on Wednesday, May 20, 2026"
-      - claim: "Japanese Prime Minister"
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Issue No. 196 of 20-year JGBs"
+      - claim: JGB maturity date
+        kind: temporal
+        value: "March 20, 2046"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "maturing March 20, 2046"
+      - claim: JGB coupon rate
+        kind: numerical_with_unit
+        value: "3.4%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "coupon 3.4%"
+      - claim: competitive bids received
+        kind: numerical_with_unit
+        value: "2,109.0 billion yen"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Competitive bids received 2,109.0 billion yen"
+      - claim: amount accepted at auction
+        kind: numerical_with_unit
+        value: "525.8 billion yen"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Accepted 525.8 billion yen"
+      - claim: bid-to-cover ratio
+        kind: numerical
+        value: "~4.01x"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "bid-to-cover ~4.01x"
+      - claim: lowest accepted price
+        kind: numerical
+        value: "96.40"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Lowest accepted price 96.40"
+      - claim: yield at lowest accepted price
+        kind: numerical_with_unit
+        value: "3.715%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "yield 3.715%"
+      - claim: weighted average price
+        kind: numerical
+        value: "96.44"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "weighted avg price 96.44"
+      - claim: weighted average yield
+        kind: numerical_with_unit
+        value: "3.711%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "yield 3.711%"
+      - claim: allotment percentage at lowest price
+        kind: numerical_with_unit
+        value: "57.6120%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Allotment at lowest 57.6120%"
+      - claim: Special Participants Auction I amount
+        kind: numerical_with_unit
+        value: "173.8 billion yen"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Special Participants Auction I: 173.8 billion yen"
+      - claim: Special Participants Auction II amount
+        kind: numerical_with_unit
+        value: "15.5 billion yen"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Special Participants Auction II: 15.5 billion yen"
+      - claim: auction settlement date
+        kind: temporal
+        value: "May 21, 2026"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Settlement May 21, 2026"
+      - claim: 20-year JGB yield on May 20 (highest since)
+        kind: numerical_with_unit
+        value: "3.71%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "20-yr yield 3.71% highest since 1997"
+      - claim: last time 20-yr yield was at this level
+        kind: temporal
+        value: "1997"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "20-yr yield 3.71% highest since 1997"
+      - claim: 10-year JGB yield on May 20
+        kind: numerical_with_unit
+        value: "2.79%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "10-yr JGB 2.79% (highest since Sept 1996)"
+      - claim: last time 10-yr JGB yield was at this level
+        kind: temporal
+        value: "Sept 1996"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "highest since Sept 1996"
+      - claim: 30-year JGB yield on May 19
+        kind: numerical_with_unit
+        value: "4.16%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "30-yr 4.16% on May 19"
+      - claim: date of 30-yr yield reading
+        kind: temporal
+        value: "May 19"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "30-yr 4.16% on May 19"
+      - claim: planned 40-year JGB size
+        kind: numerical_with_unit
+        value: "~300 billion yen"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "MoF May 20 announced 40-yr JGB ~300 billion yen"
+      - claim: 40-year JGB maturity date
+        kind: temporal
+        value: "March 20, 2066"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "maturing March 20, 2066"
+      - claim: 40-year JGB auction date
+        kind: temporal
+        value: "May 27, 2026"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "to auction May 27, 2026"
+      - claim: Japan Q1 2026 GDP q/q growth
+        kind: numerical_with_unit
+        value: "+0.5% q/q"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Q1 2026 GDP +0.5% q/q"
+      - claim: Japan Q1 2026 GDP annualised rate
+        kind: numerical_with_unit
+        value: "2.1%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "annualised 2.1%, beat consensus 1.7%"
+      - claim: Q1 2026 GDP consensus estimate
+        kind: numerical_with_unit
+        value: "1.7%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "beat consensus 1.7%"
+      - claim: BoJ policy rate held at April 28 meeting
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "BoJ held rate at 0.75% April 28 by 6-3 vote"
+      - claim: BoJ April 28 vote split
+        kind: numerical
+        value: "6-3"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "BoJ held rate at 0.75% April 28 by 6-3 vote"
+      - claim: BoJ dissenting member — hike advocate
+        kind: named_person
+        value: "Takata"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Takata, Tamura, Nakagawa dissenting for hike to 1.00%"
+      - claim: BoJ dissenting member — hike advocate
+        kind: named_person
+        value: "Tamura"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Takata, Tamura, Nakagawa dissenting for hike to 1.00%"
+      - claim: BoJ dissenting member — hike advocate
+        kind: named_person
+        value: "Nakagawa"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Takata, Tamura, Nakagawa dissenting for hike to 1.00%"
+      - claim: dissenting members' proposed hike target rate
+        kind: numerical_with_unit
+        value: "1.00%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "dissenting for hike to 1.00%"
+      - claim: market swap probability of June hike
+        kind: numerical_with_unit
+        value: "77%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "Market swaps 77% probability of 25bp hike at June 16 meeting"
+      - claim: expected size of June hike
+        kind: numerical_with_unit
+        value: "25bp"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "77% probability of 25bp hike at June 16 meeting"
+      - claim: BoJ June meeting date
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "25bp hike at June 16 meeting"
+      - claim: USD/JPY exchange rate on May 20
+        kind: numerical_with_unit
+        value: "~159.00"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "USD/JPY ~159.00 on May 20"
+      - claim: Finance Minister of Japan
+        kind: named_person
+        value: "Satsuki Katayama"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+          - https://japantimes.co.jp/business/2026/05/20/economy/katayama-bold-action/
+          - https://bloomberg.com/2026-05-19/japan-s-finance-chief-pledges-bold-action-for-weak-yen
+        verbatim_excerpt: "FM Satsuki Katayama in Paris post-G7 FinMin meeting May 18-19"
+      - claim: location of FM after G7 FinMin meeting
+        kind: named_institution
+        value: "Paris"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "FM Satsuki Katayama in Paris post-G7 FinMin meeting May 18-19"
+      - claim: G7 FinMin meeting dates
+        kind: temporal
+        value: "May 18-19"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "G7 FinMin meeting May 18-19"
+      - claim: Ministry of Finance Japan institution
+        kind: named_institution
+        value: "Ministry of Finance Japan"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "MoF May 20 announced 40-yr JGB ~300 billion yen"
+      - claim: Bank of Japan institution
+        kind: named_institution
+        value: "BoJ"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        verbatim_excerpt: "BoJ held rate at 0.75% April 28"
+    quotes:
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister, Japan
+        verbatim_en: "take bold action as needed"
+        source_url: https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260520.htm
+        context: "post-G7 FinMin meeting in Paris, May 18-19, on FX"
+
+  - story_id: usdjpy-159-intervention-fears-may2026
+    category: economy_markets
+    headline_en: Japanese Yen Flatlines Above 159.00 as Intervention Fears Counter US-Iran Tensions
+    lead_url: https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+    corroborated_by: []
+    locked_urls:
+      - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+    hard_facts:
+      - claim: article publication timestamp
+        kind: temporal
+        value: "2026-05-20 00:21 GMT"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "Date: 2026-05-20 00:21 GMT"
+      - claim: article byline author
+        kind: named_person
+        value: "Lallalit Srijandorn"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "byline Lallalit Srijandorn"
+      - claim: USD/JPY rate on 2026-05-20
+        kind: numerical_with_unit
+        value: "~159.05"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "USD/JPY ~159.05 on 2026-05-20"
+      - claim: Finance Minister of Japan (FXStreet reference)
+        kind: named_person
+        value: "Katayama"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "FM Katayama: Japan \"stands ready to act against excessive foreign exchange volatility at any time\""
+      - claim: yen-buying intervention deployed since April 30 2026
+        kind: numerical_with_unit
+        value: "~10 trillion yen (~$63B)"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "Authorities deployed ~10 trillion yen (~$63B) in yen-buying since April 30, 2026"
+      - claim: intervention start date
+        kind: temporal
+        value: "April 30, 2026"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "since April 30, 2026"
+      - claim: Japan Q1 2026 GDP q/q growth (FXStreet)
+        kind: numerical_with_unit
+        value: "+0.5% q/q"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "Japan Q1 2026 GDP +0.5% q/q (strongest since Q3 2024)"
+      - claim: GDP comparison period — strongest since
+        kind: temporal
+        value: "Q3 2024"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "strongest since Q3 2024"
+      - claim: Oxford Economics analyst
+        kind: named_person
+        value: "Norihiro Yamaguchi"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "Oxford Economics analyst Norihiro Yamaguchi"
+      - claim: Oxford Economics institution
+        kind: named_institution
+        value: "Oxford Economics"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "Oxford Economics analyst Norihiro Yamaguchi"
+      - claim: April 2026 CPI release date
+        kind: temporal
+        value: "May 22"
+        source_urls:
+          - https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        verbatim_excerpt: "April 2026 CPI release May 22"
+    quotes:
+      - speaker_name: Katayama
+        speaker_title: Finance Minister, Japan
+        verbatim_en: "stands ready to act against excessive foreign exchange volatility at any time"
+        source_url: https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        context: "FM statement on FX intervention readiness, 2026-05-20"
+      - speaker_name: Norihiro Yamaguchi
+        speaker_title: Analyst, Oxford Economics
+        verbatim_en: "Though Japan's GDP grew healthily by 0.5% in Q1, we think the Q1 GDP is already in the rear-view mirror."
+        source_url: https://www.fxstreet.com/news/japanese-yen-flatlines-above-15900-as-intervention-fears-counter-us-iran-tensions-202605200021
+        context: "commentary on Japan Q1 2026 GDP, 2026-05-20"
+
+  - story_id: takaichi-lee-andong-summit-may2026
+    category: politics_diplomacy
+    headline_en: Japan PM Takaichi Departs South Korea After 2-Day Andong Visit and Summit with President Lee
+    lead_url: https://www.koreaherald.com/article/10741647
+    corroborated_by:
+      - https://koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee
+    locked_urls:
+      - https://www.koreaherald.com/article/10741647
+      - https://koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee
+    hard_facts:
+      - claim: Japan Prime Minister
         kind: named_person
         value: "Sanae Takaichi"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
-        verbatim_excerpt: "Japanese PM Sanae Takaichi departed Andong"
-      - claim: "South Korean President"
+          - https://www.koreaherald.com/article/10741647
+          - https://koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee
+        verbatim_excerpt: "PM Sanae Takaichi departed South Korea morning May 20, 2026"
+      - claim: Takaichi departure date
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10741647
+          - https://koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee
+        verbatim_excerpt: "PM Sanae Takaichi departed South Korea morning May 20, 2026"
+      - claim: visit duration
+        kind: temporal
+        value: "2-day"
+        source_urls:
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "after 2-day Andong visit"
+      - claim: Andong distance from Seoul
+        kind: numerical_with_unit
+        value: "~190km SE of Seoul"
+        source_urls:
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "Lee Jae Myung's hometown, ~190km SE of Seoul"
+      - claim: South Korean President
         kind: named_person
         value: "Lee Jae Myung"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
-        verbatim_excerpt: "hometown of South Korean President Lee Jae Myung"
-      - claim: "Distance from Andong to Daegu International Airport"
-        kind: numerical_with_unit
-        value: "190 km"
+          - https://www.koreaherald.com/article/10741647
+          - https://koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee
+        verbatim_excerpt: "Lee Jae Myung's hometown, ~190km SE of Seoul"
+      - claim: vehicle departure time from hotel
+        kind: temporal
+        value: "~8:50am"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "heading to Daegu International Airport 190 km away for her return flight"
-      - claim: "Airport for Takaichi's return flight"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "Vehicle left hotel ~8:50am"
+      - claim: departure airport
         kind: named_institution
         value: "Daegu International Airport"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "heading to Daegu International Airport 190 km away for her return flight"
-      - claim: "Duration of Takaichi's visit to Andong"
-        kind: temporal
-        value: "two-day visit"
-        source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-          - "https://www.koreatimes.co.kr/foreignaffairs/20260520/japan-pm-takaichi-heads-home-after-2-day-visit-to-andong-summit-with-lee"
-        verbatim_excerpt: "concluding a two-day visit"
-      - claim: "Count of bilateral summits between Lee and Takaichi"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "to Daegu International Airport"
+      - claim: count of Lee-Takaichi meetings
         kind: numerical
-        value: "fourth"
+        value: "4th"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "the fourth bilateral summit between the two leaders"
-      - claim: "Period since previous bilateral summits"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "Lee–Takaichi 4th meeting in ~6 months"
+      - claim: time span of Lee-Takaichi meetings
         kind: temporal
-        value: "approximately six months"
+        value: "~6 months"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "the fourth bilateral summit between the two leaders in approximately six months"
-      - claim: "Day bilateral summit was held"
-        kind: temporal
-        value: "Tuesday"
-        source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "held Tuesday in Andong"
-      - claim: "South Korean ministry party to new dialogue"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "4th meeting in ~6 months"
+      - claim: Korea ministry in new dialogue
         kind: named_institution
-        value: "South Korea's Ministry of Trade, Industry and Resources"
+        value: "Korea MOTIE"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "between South Korea's Ministry of Trade, Industry and Resources and Japan's Ministry of Economy, Trade and Industry"
-      - claim: "Japanese ministry party to new dialogue"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "New \"Industrial and Trade Policy Dialogue\" between Korea MOTIE and Japan METI"
+      - claim: Japan ministry in new dialogue
         kind: named_institution
-        value: "Japan's Ministry of Economy, Trade and Industry"
+        value: "Japan METI"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "between South Korea's Ministry of Trade, Industry and Resources and Japan's Ministry of Economy, Trade and Industry"
-      - claim: "New bilateral dialogue mechanism announced"
-        kind: named_product
-        value: "Industrial and Trade Policy Dialogue"
-        source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "agreed to launch a new \"Industrial and Trade Policy Dialogue\""
-      - claim: "Japanese initiative South Korea agreed to join"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "New \"Industrial and Trade Policy Dialogue\" between Korea MOTIE and Japan METI"
+      - claim: Japan initiative discussed at summit
         kind: named_product
         value: "POWERR Asia"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "South Korea announced plans to join Japan's \"POWERR Asia\" initiative"
-      - claim: "Full name of POWERR Asia initiative"
-        kind: named_product
-        value: "Partnership on Wide Energy and Resources Resilience"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "Japan's \"POWERR Asia\" initiative discussed"
+      - claim: Japan's rank as Korea petroleum-product export destination
+        kind: numerical
+        value: "3rd-largest"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "Partnership on Wide Energy and Resources Resilience"
-      - claim: "Funding target of POWERR Asia initiative"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "Japan was Korea's 3rd-largest petroleum-product export destination"
+      - claim: Japan share of Korea petroleum-product exports
         kind: numerical_with_unit
-        value: "$10 billion"
+        value: "11.3%"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "targeting Southeast Asian petroleum storage cooperation backed by $10 billion"
-      - claim: "Date of Lee's reciprocal visit to Nara Prefecture"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "11.3% prior year"
+      - claim: Korean Prime Minister present
+        kind: named_person
+        value: "Kim Min-seok"
+        source_urls:
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "PM Kim Min-seok present"
+      - claim: Lee's reciprocal January 2026 visit location
         kind: temporal
         value: "January 2026"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "Takaichi's visit reciprocated Lee's January 2026 trip to Takaichi's hometown of Nara Prefecture"
-      - claim: "Takaichi's hometown"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "Reciprocates Lee's January 2026 Nara visit"
+      - claim: location of Lee's January 2026 visit
         kind: named_institution
-        value: "Nara Prefecture"
+        value: "Nara"
         source_urls:
-          - "https://www.koreaherald.com/article/10741647"
-        verbatim_excerpt: "Lee's January 2026 trip to Takaichi's hometown of Nara Prefecture"
-    quotes:
-      - speaker_name: "Lee Jae Myung"
-        speaker_title: "President of South Korea"
-        verbatim_en: "We agreed that close bilateral cooperation is needed more than ever amid the instability in supply chains and energy markets arising from the recent situation in the Middle East."
-        source_url: "https://www.koreaherald.com/article/10741647"
-        context: "Statement following bilateral summit in Andong, Tuesday May 19 2026"
-
-  - story_id: japan-demands-china-safety-shanghai-stabbing
-    category: politics_diplomacy
-    headline_en: "Japan Demands Beijing Ensure Safety of Nationals After Knife Attack on Two Japanese in Shanghai"
-    lead_url: "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-    corroborated_by:
-      - "https://www.sinodaily.com/afp/260520033428.ay1yj6w7.html"
-      - "https://japantoday.com/category/crime/urgent-3-injured-in-knife-attack-at-shanghai-restaurant-including-2-japanese"
-    locked_urls:
-      - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-      - "https://www.sinodaily.com/afp/260520033428.ay1yj6w7.html"
-      - "https://japantoday.com/category/crime/urgent-3-injured-in-knife-attack-at-shanghai-restaurant-including-2-japanese"
-    hard_facts:
-      - claim: "Date of knife attack in Shanghai"
-        kind: temporal
-        value: "Tuesday, May 19, 2026"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-          - "https://www.sinodaily.com/afp/260520033428.ay1yj6w7.html"
-          - "https://japantoday.com/category/crime/urgent-3-injured-in-knife-attack-at-shanghai-restaurant-including-2-japanese"
-        verbatim_excerpt: "a knife attack at a Japanese restaurant in Shanghai's Pudong district on Tuesday, May 19, 2026 local time"
-      - claim: "Number of Japanese male nationals wounded"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "Reciprocates Lee's January 2026 Nara visit"
+      - claim: count of Japan-SK summits since Lee admin
         kind: numerical
-        value: "two"
+        value: "6th"
         source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-          - "https://japantoday.com/category/crime/urgent-3-injured-in-knife-attack-at-shanghai-restaurant-including-2-japanese"
-        verbatim_excerpt: "which wounded two Japanese male nationals and one Chinese woman"
-      - claim: "Number of Chinese women wounded"
-        kind: numerical
-        value: "one"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-          - "https://japantoday.com/category/crime/urgent-3-injured-in-knife-attack-at-shanghai-restaurant-including-2-japanese"
-        verbatim_excerpt: "which wounded two Japanese male nationals and one Chinese woman"
-      - claim: "District of attack in Shanghai"
-        kind: named_institution
-        value: "Pudong district"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-        verbatim_excerpt: "a knife attack at a Japanese restaurant in Shanghai's Pudong district"
-      - claim: "Time of attack"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "6th Japan-SK summit since Lee admin launch June 2025"
+      - claim: Lee admin launch date
         kind: temporal
-        value: "around noon"
+        value: "June 2025"
         source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-        verbatim_excerpt: "The attack occurred around noon at a restaurant inside the Shanghai World Financial Center"
-      - claim: "Building where attack occurred"
-        kind: named_institution
-        value: "Shanghai World Financial Center"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-          - "https://www.sinodaily.com/afp/260520033428.ay1yj6w7.html"
-        verbatim_excerpt: "at a restaurant inside the Shanghai World Financial Center, a Japanese-developed office building"
-      - claim: "Age of suspect"
-        kind: numerical_with_unit
-        value: "59-year-old"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-          - "https://www.sinodaily.com/afp/260520033428.ay1yj6w7.html"
-        verbatim_excerpt: "A 59-year-old suspect identified by Pudong police as Yang wielded a fruit knife"
-      - claim: "Suspect name (surname)"
-        kind: named_person
-        value: "Yang"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-          - "https://www.sinodaily.com/afp/260520033428.ay1yj6w7.html"
-        verbatim_excerpt: "A 59-year-old suspect identified by Pudong police as Yang wielded a fruit knife"
-      - claim: "Weapon used in attack"
-        kind: named_product
-        value: "fruit knife"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-          - "https://www.sinodaily.com/afp/260520033428.ay1yj6w7.html"
-        verbatim_excerpt: "A 59-year-old suspect identified by Pudong police as Yang wielded a fruit knife"
-      - claim: "Japanese consulate that issued consular alert"
-        kind: named_institution
-        value: "Japan's consulate in Shanghai"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-        verbatim_excerpt: "Japan's consulate in Shanghai confirmed two of its citizens were wounded and issued a consular alert to all Japanese residents in China"
-      - claim: "Japanese government spokesman"
-        kind: named_person
-        value: "Minoru Kihara"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-          - "https://www.sinodaily.com/afp/260520033428.ay1yj6w7.html"
-        verbatim_excerpt: "Government spokesman Minoru Kihara confirmed"
-      - claim: "Date of Takaichi's parliamentary statement on Taiwan"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "since Lee admin launch June 2025"
+      - claim: article publication timestamp
         kind: temporal
-        value: "November 2025"
+        value: "2026-05-20T10:17:01+09:00"
         source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-        verbatim_excerpt: "PM Sanae Takaichi's November 2025 parliamentary statement that a Chinese attack on Taiwan could constitute a \"survival-threatening situation\" for Japan"
-      - claim: "Date of Shenzhen fatal stabbing of Japanese boy"
-        kind: temporal
-        value: "September 2024"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-        verbatim_excerpt: "It follows a September 2024 fatal stabbing of a 10-year-old Japanese boy in Shenzhen"
-      - claim: "Age of Japanese boy killed in Shenzhen"
-        kind: numerical_with_unit
-        value: "10-year-old"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-        verbatim_excerpt: "a September 2024 fatal stabbing of a 10-year-old Japanese boy in Shenzhen"
-      - claim: "Prime Minister referenced in diplomatic context"
-        kind: named_person
-        value: "Sanae Takaichi"
-        source_urls:
-          - "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-        verbatim_excerpt: "PM Sanae Takaichi's November 2025 parliamentary statement"
+          - https://www.koreaherald.com/article/10741647
+        verbatim_excerpt: "Date: 2026-05-20T10:17:01+09:00"
     quotes:
-      - speaker_name: "Minoru Kihara"
-        speaker_title: "Government spokesman, Japan"
-        verbatim_en: "The Government of Japan has requested the Chinese government to clarify the facts and provide a clear explanation and ensure the safety and security of Japanese nationals."
-        source_url: "https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/"
-        context: "Statement following the Shanghai knife attack, May 20 2026"
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "You must have had quite a journey coming all the way to this small countryside town. I have been waiting for you since last night."
+        source_url: https://www.koreaherald.com/article/10741647
+        context: "welcoming PM Takaichi to Andong, May 2026"
 
-  - story_id: meta-ai-smart-glasses-japan-launch
+  - story_id: fsa-ai-mythos-cyberattack-workgroup
     category: tech_industry
-    headline_en: "Meta to Debut AI Smart Glasses in Japan, with Translation on the Way"
-    lead_url: "https://asia.nikkei.com/business/technology/artificial-intelligence/meta-to-debut-ai-smart-glasses-in-japan-with-translation-on-the-way"
+    headline_en: Japan FSA Public-Private Working Group Evaluates Financial Shutdown Measure Against AI-Enabled Cyberattacks Using Claude Mythos
+    lead_url: https://www.nippon.com/en/news/yjj2026052000828/
     corroborated_by: []
     locked_urls:
-      - "https://asia.nikkei.com/business/technology/artificial-intelligence/meta-to-debut-ai-smart-glasses-in-japan-with-translation-on-the-way"
+      - https://www.nippon.com/en/news/yjj2026052000828/
     hard_facts:
-      - claim: "Date of Nikkei Asia report on Meta smart glasses Japan launch"
-        kind: temporal
-        value: "May 20, 2026"
-        source_urls:
-          - "https://asia.nikkei.com/business/technology/artificial-intelligence/meta-to-debut-ai-smart-glasses-in-japan-with-translation-on-the-way"
-        verbatim_excerpt: "Nikkei Asia reported on May 20, 2026 that Meta is preparing to launch its AI smart glasses in Japan"
-      - claim: "Company launching AI smart glasses in Japan"
+      - claim: source news wire
         kind: named_institution
-        value: "Meta"
+        value: "Jiji Press"
         source_urls:
-          - "https://asia.nikkei.com/business/technology/artificial-intelligence/meta-to-debut-ai-smart-glasses-in-japan-with-translation-on-the-way"
-        verbatim_excerpt: "Meta is preparing to launch its AI smart glasses in Japan, with real-time translation features planned for the Japanese market"
-      - claim: "Product being launched in Japan"
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Nippon.com [T1-flagship] / Jiji Press"
+      - claim: AI model evaluated
         kind: named_product
-        value: "AI smart glasses"
+        value: "Claude Mythos"
         source_urls:
-          - "https://asia.nikkei.com/business/technology/artificial-intelligence/meta-to-debut-ai-smart-glasses-in-japan-with-translation-on-the-way"
-        verbatim_excerpt: "Meta is preparing to launch its AI smart glasses in Japan, with real-time translation features planned for the Japanese market"
-    quotes: []
-
-  - story_id: hitachi-anthropic-ai-rail-power-grids
-    category: tech_industry
-    headline_en: "Hitachi Teams with Anthropic on AI for Rail and Power Grids"
-    lead_url: "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-teams-with-anthropic-on-ai-for-rail-and-power-grids"
-    corroborated_by: []
-    locked_urls:
-      - "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-teams-with-anthropic-on-ai-for-rail-and-power-grids"
-    hard_facts:
-      - claim: "Date of Nikkei Asia report on Hitachi-Anthropic partnership"
-        kind: temporal
-        value: "May 20, 2026"
-        source_urls:
-          - "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-teams-with-anthropic-on-ai-for-rail-and-power-grids"
-        verbatim_excerpt: "Nikkei Asia reported on May 20, 2026 that Hitachi has partnered with Anthropic to apply AI to railway and power grid infrastructure"
-      - claim: "Company partnering with Anthropic"
-        kind: named_institution
-        value: "Hitachi"
-        source_urls:
-          - "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-teams-with-anthropic-on-ai-for-rail-and-power-grids"
-        verbatim_excerpt: "Hitachi has partnered with Anthropic to apply AI to railway and power grid infrastructure"
-      - claim: "AI company partnering with Hitachi"
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "cyberattacks leveraging \"Claude Mythos\" (Anthropic AI model)"
+      - claim: AI model developer
         kind: named_institution
         value: "Anthropic"
         source_urls:
-          - "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-teams-with-anthropic-on-ai-for-rail-and-power-grids"
-        verbatim_excerpt: "Hitachi has partnered with Anthropic to apply AI to railway and power grid infrastructure"
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Anthropic AI model"
+      - claim: coordinating regulatory body
+        kind: named_institution
+        value: "FSA"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Proposal at FSA coordinating body meeting"
+      - claim: working group member — Finance Ministry
+        kind: named_institution
+        value: "Finance Ministry"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Group: major commercial banks, Finance Ministry, Bank of Japan (BoJ), Anthropic Japan"
+      - claim: working group member — Bank of Japan
+        kind: named_institution
+        value: "Bank of Japan"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Group: major commercial banks, Finance Ministry, Bank of Japan (BoJ), Anthropic Japan"
+      - claim: working group member — Anthropic Japan
+        kind: named_institution
+        value: "Anthropic Japan"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Group: major commercial banks, Finance Ministry, Bank of Japan (BoJ), Anthropic Japan"
+      - claim: bank pursuing Mythos access
+        kind: named_institution
+        value: "MUFG Bank"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Japan govt + MUFG Bank, Sumitomo Mitsui Banking Corp. (SMBC), Mizuho Bank pursuing access to Mythos"
+      - claim: bank pursuing Mythos access
+        kind: named_institution
+        value: "Sumitomo Mitsui Banking Corp."
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Sumitomo Mitsui Banking Corp. (SMBC), Mizuho Bank pursuing access to Mythos"
+      - claim: bank pursuing Mythos access (abbreviation)
+        kind: named_institution
+        value: "SMBC"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Sumitomo Mitsui Banking Corp. (SMBC)"
+      - claim: bank pursuing Mythos access
+        kind: named_institution
+        value: "Mizuho Bank"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "Mizuho Bank pursuing access to Mythos"
+      - claim: FSA deadline for short-term measures
+        kind: temporal
+        value: "end of May 2026"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000828/
+        verbatim_excerpt: "FSA aims to finalise short-term measures by end of May 2026"
     quotes: []
 
-  - story_id: magnitude-59-earthquake-kagoshima-prefecture
+  - story_id: shanghai-knife-attack-japanese-nationals
     category: society_livelihood
-    headline_en: "Magnitude 5.9 Earthquake Strikes Kagoshima Prefecture; No Tsunami Warning Issued"
-    lead_url: "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-    corroborated_by: []
+    headline_en: Shanghai Restaurant Knife Attack Injures 3 Including 2 Japanese Nationals at World Financial Center
+    lead_url: https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+    corroborated_by:
+      - https://nippon.com/en/news/yjj2026052000568
+      - https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing
+      - https://japantimes.co.jp/news/2026/05/20/japan/crime-legal/shanghai-knife-attack-2-japanese
     locked_urls:
-      - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
+      - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+      - https://nippon.com/en/news/yjj2026052000568
+      - https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing
+      - https://japantimes.co.jp/news/2026/05/20/japan/crime-legal/shanghai-knife-attack-2-japanese
     hard_facts:
-      - claim: "Magnitude of Kagoshima earthquake"
-        kind: numerical_with_unit
-        value: "5.9"
-        source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "A magnitude 5.9 earthquake struck Kagoshima Prefecture in Japan's Ryukyu Archipelago"
-      - claim: "Prefecture struck by earthquake"
-        kind: named_institution
-        value: "Kagoshima Prefecture"
-        source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "A magnitude 5.9 earthquake struck Kagoshima Prefecture in Japan's Ryukyu Archipelago"
-      - claim: "Archipelago where earthquake struck"
-        kind: named_institution
-        value: "Ryukyu Archipelago"
-        source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "A magnitude 5.9 earthquake struck Kagoshima Prefecture in Japan's Ryukyu Archipelago"
-      - claim: "Time of earthquake"
+      - claim: article publication timestamp
         kind: temporal
-        value: "11:46 a.m. Japan Standard Time"
+        value: "2026-05-20T05:23:00Z"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "struck Kagoshima Prefecture in Japan's Ryukyu Archipelago at 11:46 a.m. Japan Standard Time on Wednesday, May 20, 2026"
-      - claim: "Date of earthquake"
-        kind: temporal
-        value: "Wednesday, May 20, 2026"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "Date: 2026-05-20T05:23:00Z"
+      - claim: article byline author
+        kind: named_person
+        value: "Mari Yamaguchi"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "at 11:46 a.m. Japan Standard Time on Wednesday, May 20, 2026"
-      - claim: "Agency that issued (no) tsunami warning"
-        kind: named_institution
-        value: "Japan Meteorological Agency"
-        source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "The Japan Meteorological Agency issued no tsunami warning or advisory"
-      - claim: "Location of epicentre"
-        kind: named_institution
-        value: "Okinawa"
-        source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "The epicentre was located off the main island of Okinawa"
-      - claim: "Depth of epicentre"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "byline AP / Mari Yamaguchi Tokyo"
+      - claim: suspect age
         kind: numerical_with_unit
-        value: "approximately 50 kilometres"
+        value: "59-year-old"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "The epicentre was located off the main island of Okinawa at a depth of approximately 50 kilometres"
-      - claim: "Seismic intensity recorded in Yoron town"
-        kind: numerical_with_unit
-        value: "upper 5"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "59-year-old man surname Yang"
+      - claim: suspect surname
+        kind: named_person
+        value: "Yang"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "A seismic intensity of upper 5 — \"strong 5\" on Japan's shindo scale — was recorded in Yoron town in Kagoshima Prefecture's Amami island chain"
-      - claim: "Town recording highest seismic intensity"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "59-year-old man surname Yang"
+      - claim: number of victims
+        kind: numerical
+        value: "3"
+        source_urls:
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "attacked 3 with fruit knife"
+      - claim: weapon used
+        kind: named_product
+        value: "fruit knife"
+        source_urls:
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "attacked 3 with fruit knife"
+      - claim: attack venue
         kind: named_institution
-        value: "Yoron town"
+        value: "Shanghai World Financial Center"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "was recorded in Yoron town in Kagoshima Prefecture's Amami island chain"
-      - claim: "Island chain where highest intensity recorded"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "at Japanese restaurant inside Shanghai World Financial Center, Pudong"
+      - claim: attack district
         kind: named_institution
-        value: "Amami island chain"
+        value: "Pudong"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "Yoron town in Kagoshima Prefecture's Amami island chain"
-      - claim: "Island where shaking was felt"
-        kind: named_institution
-        value: "Amami Oshima"
-        source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "shaking was felt across the southwestern archipelago including Amami Oshima"
-      - claim: "Agency that issued real-time alert"
-        kind: named_institution
-        value: "Japan's Cabinet Office Disaster Management agency"
-        source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "Japan's Cabinet Office Disaster Management agency issued a real-time alert at 11:46 JST"
-      - claim: "Time of Cabinet Office real-time alert"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "Shanghai World Financial Center, Pudong"
+      - claim: attack date
         kind: temporal
-        value: "11:46 JST"
+        value: "May 19, 2026"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "Japan's Cabinet Office Disaster Management agency issued a real-time alert at 11:46 JST"
-      - claim: "Magnitude of prior Iwate-Miyagi coast quake"
-        kind: numerical_with_unit
-        value: "7.7"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "on May 19, 2026"
+      - claim: number of Japanese male victims
+        kind: numerical
+        value: "2"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "including a magnitude 7.7 quake off the Iwate-Miyagi coast on April 20, 2026"
-      - claim: "Date of prior Iwate-Miyagi coast quake"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "Victims: 2 Japanese men + 1 Chinese woman"
+      - claim: number of Chinese female victims
+        kind: numerical
+        value: "1"
+        source_urls:
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "2 Japanese men + 1 Chinese woman"
+      - claim: Chinese FM spokesperson
+        kind: named_person
+        value: "Guo Jiakun"
+        source_urls:
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "Chinese FM spokesperson Guo Jiakun"
+      - claim: Japan Chief Cabinet Secretary
+        kind: named_person
+        value: "Minoru Kihara"
+        source_urls:
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "Japan Chief Cabinet Secretary Minoru Kihara"
+      - claim: prior Shenzhen incident date
         kind: temporal
-        value: "April 20, 2026"
+        value: "Sept 2024"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "a magnitude 7.7 quake off the Iwate-Miyagi coast on April 20, 2026"
-      - claim: "Location of prior magnitude 7.7 quake"
-        kind: named_institution
-        value: "Iwate-Miyagi coast"
-        source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "a magnitude 7.7 quake off the Iwate-Miyagi coast on April 20, 2026"
-      - claim: "Magnitude of prior Miyagi Prefecture quake"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "Follows Sept 2024 Shenzhen incident"
+      - claim: age of Shenzhen victim
         kind: numerical_with_unit
-        value: "6.3"
+        value: "10-yr-old"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "and a magnitude 6.3 event off Miyagi Prefecture on May 15"
-      - claim: "Date of prior Miyagi Prefecture quake"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "10-yr-old Japanese boy fatally stabbed"
+      - claim: Takaichi parliamentary remarks timing
         kind: temporal
-        value: "May 15"
+        value: "Nov 2025"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "and a magnitude 6.3 event off Miyagi Prefecture on May 15"
-      - claim: "Location of prior magnitude 6.3 quake"
+          - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        verbatim_excerpt: "PM Takaichi's Nov 2025 parliamentary remarks Taiwan"
+    quotes:
+      - speaker_name: Guo Jiakun
+        speaker_title: Spokesperson, Chinese Foreign Ministry
+        verbatim_en: "isolated case"
+        source_url: https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        context: "Chinese FM response to Shanghai stabbing, May 2026"
+      - speaker_name: Minoru Kihara
+        speaker_title: Chief Cabinet Secretary, Japan
+        verbatim_en: "thorough investigation and clear explanation by Chinese officials, severe punishment for the suspect, preventive measures and the protection of Japanese nationals in China"
+        source_url: https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+        context: "Japan government demands following Shanghai stabbing, May 2026"
+
+  - story_id: earthquake-m59-okinawa-kagoshima-may2026
+    category: society_livelihood
+    headline_en: M5.9 Earthquake Off SW Japan Triggers Upper-5 Shindo in Yoron with No Tsunami Warning
+    lead_url: https://www.nippon.com/en/news/yjj2026052000539/
+    corroborated_by:
+      - https://japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026052000539/
+      - https://japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/
+    hard_facts:
+      - claim: article publication timestamp
+        kind: temporal
+        value: "2026-05-20T20:30:00+09:00"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Date: 2026-05-20T20:30:00+09:00"
+      - claim: source news wire
         kind: named_institution
-        value: "Miyagi Prefecture"
+        value: "Jiji Press"
         source_urls:
-          - "https://www.japantimes.co.jp/news/2026/05/20/japan/kagoshima-earthquake/"
-        verbatim_excerpt: "a magnitude 6.3 event off Miyagi Prefecture on May 15"
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Nippon.com [T1-flagship] / Jiji Press"
+      - claim: earthquake final magnitude
+        kind: numerical_with_unit
+        value: "M5.9"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "M5.9 earthquake off SW Japan May 20, 2026"
+      - claim: earthquake date
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "M5.9 earthquake off SW Japan May 20, 2026"
+      - claim: earthquake local time
+        kind: temporal
+        value: "~11:46am local"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "~11:46am local (02:46 UTC) per JMA"
+      - claim: earthquake UTC time
+        kind: temporal
+        value: "02:46 UTC"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "~11:46am local (02:46 UTC) per JMA"
+      - claim: reporting seismological agency
+        kind: named_institution
+        value: "JMA"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "per JMA"
+      - claim: epicentre distance from Okinawa
+        kind: numerical_with_unit
+        value: "~50km off Okinawa main island"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Epicentre ~50km off Okinawa main island"
+      - claim: earthquake depth
+        kind: numerical_with_unit
+        value: "~50km"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "depth ~50km"
+      - claim: shindo intensity in Yoron town
+        kind: numerical_with_unit
+        value: "Upper-5 shindo"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Upper-5 shindo intensity in Yoron town (Kagoshima, Amami Islands)"
+      - claim: Yoron town location
+        kind: named_institution
+        value: "Yoron town (Kagoshima, Amami Islands)"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Upper-5 shindo intensity in Yoron town (Kagoshima, Amami Islands)"
+      - claim: start of JMA monitoring in Yoron
+        kind: temporal
+        value: "March 2007"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "strongest since JMA monitoring began there March 2007"
+      - claim: shindo intensity at China town, Okinoerabu Island
+        kind: numerical_with_unit
+        value: "Lower-5"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Lower-5 in China town on Okinoerabu Island"
+      - claim: shindo intensity in Amagi and Wadomari
+        kind: numerical
+        value: "4"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Shindo 4 in Amagi and Wadomari"
+      - claim: shindo in Amami Oshima and Okinawa main
+        kind: numerical
+        value: "3"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Amami Oshima and Okinawa main: shindo 3"
+      - claim: ceiling panels fell at gymnasium
+        kind: numerical_with_unit
+        value: "~20"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "~20 ceiling panels fell at local gymnasium"
+      - claim: JMA aftershock advisory period
+        kind: temporal
+        value: "1 week"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "JMA aftershock advisory 1 week, particularly first 2-3 days"
+      - claim: preliminary magnitude before revision
+        kind: numerical_with_unit
+        value: "M6.2"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052000539/
+        verbatim_excerpt: "Preliminary M6.2 revised down to M5.9"
+    quotes: []
+
+  - story_id: tdk-acquires-linergy-power-241m
+    category: ipo_ma
+    headline_en: TDK Corporation Acquires 100% of Malaysian Battery Maker Linergy Power for ~$241M
+    lead_url: https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+    corroborated_by:
+      - https://asia.nikkei.com/business/business-deals/japan-s-tdk-to-buy-malaysian-startup-for-more-ai-battery-capacity
+    locked_urls:
+      - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+      - https://asia.nikkei.com/business/business-deals/japan-s-tdk-to-buy-malaysian-startup-for-more-ai-battery-capacity
+    hard_facts:
+      - claim: article byline author
+        kind: named_person
+        value: "Mars W. Mosqueda Jr."
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "byline Mars W. Mosqueda Jr."
+      - claim: acquirer
+        kind: named_institution
+        value: "TDK Corporation"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+          - https://asia.nikkei.com/business/business-deals/japan-s-tdk-to-buy-malaysian-startup-for-more-ai-battery-capacity
+        verbatim_excerpt: "TDK Corporation announced May 20, 2026 acquisition of 100% of Linergy Power Sdn Bhd"
+      - claim: announcement date
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "TDK Corporation announced May 20, 2026"
+      - claim: acquisition stake
+        kind: numerical_with_unit
+        value: "100%"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "acquisition of 100% of Linergy Power Sdn Bhd"
+      - claim: target company
+        kind: named_institution
+        value: "Linergy Power Sdn Bhd"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+          - https://asia.nikkei.com/business/business-deals/japan-s-tdk-to-buy-malaysian-startup-for-more-ai-battery-capacity
+        verbatim_excerpt: "acquisition of 100% of Linergy Power Sdn Bhd (Malaysia, Kuala Lumpur lithium-ion battery maker)"
+      - claim: target company location
+        kind: named_institution
+        value: "Kuala Lumpur"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "Malaysia, Kuala Lumpur lithium-ion battery maker"
+      - claim: deal total consideration
+        kind: numerical_with_unit
+        value: "~$241M"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "for ~$241M"
+      - claim: TDK acquiring subsidiary
+        kind: named_institution
+        value: "Amperex Technology (Singapore) Pte Ltd"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "Via TDK Singapore unit Amperex Technology (Singapore) Pte Ltd"
+      - claim: deal close date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "Closes June 15, 2026"
+      - claim: TDK pre-existing indirect stake in Linergy
+        kind: numerical_with_unit
+        value: "25.5%"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "TDK already 25.5% indirect stake"
+      - claim: share consideration
+        kind: numerical_with_unit
+        value: "$240M"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "$240M shares + ~$1.1M advisory fees = ~$241M"
+      - claim: advisory fees
+        kind: numerical_with_unit
+        value: "~$1.1M"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "$240M shares + ~$1.1M advisory fees"
+      - claim: Linergy establishment date
+        kind: temporal
+        value: "December 2024"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "Linergy established December 2024"
+      - claim: Linergy total assets as of March 31 2026
+        kind: numerical_with_unit
+        value: "~$380M"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "total assets ~$380M as of March 31, 2026"
+      - claim: Linergy assets balance date
+        kind: temporal
+        value: "March 31, 2026"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "total assets ~$380M as of March 31, 2026"
+      - claim: Linergy FY2026 net sales
+        kind: numerical_with_unit
+        value: "$178,030"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "FY2026 net sales $178,030"
+      - claim: Linergy FY2026 operating loss
+        kind: numerical_with_unit
+        value: "$22.7M"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "operating loss $22.7M"
+      - claim: TDK corporate strategy name
+        kind: named_product
+        value: "TDK Transformation"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "Part of \"TDK Transformation\" strategy unveiled 2024"
+      - claim: TDK Transformation strategy unveil year
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        verbatim_excerpt: "strategy unveiled 2024"
+    quotes:
+      - speaker_name: TDK Corporation
+        speaker_title: TDK Corporation (corporate statement)
+        verbatim_en: "build a more flexible global supply structure capable of meeting customer demand across multiple markets"
+        source_url: https://www.dealstreetasia.com/stories/tdk-linergy-power-482856
+        context: "TDK rationale for Linergy acquisition, announced May 20, 2026"
+
+  - story_id: yakuza-frequent-flyer-miles-fraud
+    category: other
+    headline_en: Suspected Yakuza Member Arrested for Fraud Over Frequent Flyer Mile Account
+    lead_url: https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+    corroborated_by:
+      - https://soranews24.com/2026/05/20/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+    locked_urls:
+      - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+      - https://soranews24.com/2026/05/20/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+    hard_facts:
+      - claim: article publication timestamp
+        kind: temporal
+        value: "2026-05-20T16:31:00+09:00"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Date: 2026-05-20T16:31:00+09:00"
+      - claim: news wire source
+        kind: named_institution
+        value: "Kyodo"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Kyodo + GPlusMedia"
+      - claim: news publisher
+        kind: named_institution
+        value: "GPlusMedia"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Kyodo + GPlusMedia"
+      - claim: arresting agency
+        kind: named_institution
+        value: "Fukuoka Prefectural Police"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Fukuoka Prefectural Police on May 17, 2026 arrested Yuta Hirayama"
+      - claim: arrest date
+        kind: temporal
+        value: "May 17, 2026"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Fukuoka Prefectural Police on May 17, 2026 arrested Yuta Hirayama"
+      - claim: suspect full name
+        kind: named_person
+        value: "Yuta Hirayama"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "arrested Yuta Hirayama"
+      - claim: suspect age
+        kind: numerical_with_unit
+        value: "42"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Yuta Hirayama (42, Onojo City, Fukuoka)"
+      - claim: suspect city of residence
+        kind: named_institution
+        value: "Onojo City"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Yuta Hirayama (42, Onojo City, Fukuoka)"
+      - claim: suspect prefecture of residence
+        kind: named_institution
+        value: "Fukuoka"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Onojo City, Fukuoka"
+      - claim: yakuza syndicate
+        kind: named_institution
+        value: "Kudo-kai"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "registered member of Kudo-kai yakuza organized crime syndicate"
+      - claim: number of domestic flights taken in fraud period
+        kind: numerical
+        value: "9"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Hirayama took 9 domestic flights"
+      - claim: fraud period start
+        kind: temporal
+        value: "June 2023"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Between June and November 2023"
+      - claim: fraud period end
+        kind: temporal
+        value: "November 2023"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Between June and November 2023"
+      - claim: frequent flyer miles accumulated
+        kind: numerical_with_unit
+        value: "4,224"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "accumulated 4,224 frequent flyer miles"
+      - claim: miles value in yen
+        kind: numerical_with_unit
+        value: "~4,224 yen"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "accrued miles worth ~4,224 yen (~USD 27)"
+      - claim: miles value in USD
+        kind: numerical_with_unit
+        value: "~USD 27"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "~4,224 yen (~USD 27)"
+      - claim: year suspect joined airline program
+        kind: temporal
+        value: "2013"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Member since 2013"
+      - claim: year airline added no-yakuza clause
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "airline added no-yakuza clause in 2022"
+      - claim: governing law designating Kudo-kai
+        kind: named_product
+        value: "Act on Prevention of Unjust Acts by Organized Crime Group Members"
+        source_urls:
+          - https://japantoday.com/category/crime/suspected-yakuza-member-arrested-for-having-frequent-flyer-mile-account
+        verbatim_excerpt: "Kudo-kai designated dangerous organized crime group under Act on Prevention of Unjust Acts by Organized Crime Group Members"
     quotes: []
