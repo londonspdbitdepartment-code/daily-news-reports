@@ -1,0 +1,852 @@
+version: 1
+generated_at: "2026-05-20T00:00:00Z"
+country: United Kingdom
+date: "2026-05-20"
+total_stories: 5
+
+stories:
+  - story_id: uk-april-cpi-inflation-falls-to-28
+    category: economy_markets
+    headline_en: "UK April CPI Inflation Falls to 2.8%"
+    lead_url: "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+    corroborated_by:
+      - "https://finance.yahoo.com/news/uk-inflation-slows-2-8-060650289.html"
+      - "https://www.bloomberg.com/news/articles/2026-05-20/uk-inflation-drops-sharply-in-respite-from-iran-energy-shock"
+      - "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html"
+    locked_urls:
+      - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+      - "https://finance.yahoo.com/news/uk-inflation-slows-2-8-060650289.html"
+      - "https://www.bloomberg.com/news/articles/2026-05-20/uk-inflation-drops-sharply-in-respite-from-iran-energy-shock"
+      - "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html"
+    hard_facts:
+      - claim: ONS CPI bulletin release date
+        kind: temporal
+        value: "20 May 2026"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "ONS released April 2026 CPI bulletin 20 May 2026."
+      - claim: CPI YoY April 2026
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+          - "https://finance.yahoo.com/news/uk-inflation-slows-2-8-060650289.html"
+          - "https://www.bloomberg.com/news/articles/2026-05-20/uk-inflation-drops-sharply-in-respite-from-iran-energy-shock"
+          - "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html"
+        verbatim_excerpt: "CPI rose 2.8% YoY in April 2026, down from 3.3% in March 2026"
+      - claim: CPI YoY March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: "3.3%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+          - "https://finance.yahoo.com/news/uk-inflation-slows-2-8-060650289.html"
+        verbatim_excerpt: "CPI rose 2.8% YoY in April 2026, down from 3.3% in March 2026"
+      - claim: CPI lowest since date
+        kind: temporal
+        value: "March 2025"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "lowest since March 2025"
+      - claim: Reuters CPI forecast
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - "https://finance.yahoo.com/news/uk-inflation-slows-2-8-060650289.html"
+        verbatim_excerpt: "beating 3.0% Reuters forecast"
+      - claim: CPIH April 2026
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "CPIH 3.0% (vs 3.4%)"
+      - claim: CPIH March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: "3.4%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "CPIH 3.0% (vs 3.4%)"
+      - claim: Core CPI April 2026
+        kind: numerical_with_unit
+        value: "2.5%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+          - "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html"
+        verbatim_excerpt: "Core CPI 2.5% from 3.1%"
+      - claim: Core CPI March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: "3.1%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Core CPI 2.5% from 3.1%"
+      - claim: Core CPIH April 2026
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "core CPIH 2.8% from 3.3%"
+      - claim: Core CPIH March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: "3.3%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "core CPIH 2.8% from 3.3%"
+      - claim: Monthly CPI April 2026
+        kind: numerical_with_unit
+        value: "+0.7%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Monthly CPI +0.7% (vs +1.2% April 2025)"
+      - claim: Monthly CPI April 2025 (prior year comparison)
+        kind: numerical_with_unit
+        value: "+1.2%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Monthly CPI +0.7% (vs +1.2% April 2025)"
+      - claim: April 2025 reference period
+        kind: temporal
+        value: "April 2025"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Monthly CPI +0.7% (vs +1.2% April 2025)"
+      - claim: Ofgem energy price cap change
+        kind: numerical_with_unit
+        value: "7%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+          - "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html"
+        verbatim_excerpt: "Ofgem energy price cap fell 7% on 1 April 2026"
+      - claim: Ofgem energy price cap effective date
+        kind: temporal
+        value: "1 April 2026"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Ofgem energy price cap fell 7% on 1 April 2026"
+      - claim: Average household dual-fuel annual bill after cap fall
+        kind: numerical_with_unit
+        value: "£1,641"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "this equates to an annual bill of £1,641, which is a fall of £117"
+      - claim: Fall in annual dual-fuel bill
+        kind: numerical_with_unit
+        value: "£117"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "this equates to an annual bill of £1,641, which is a fall of £117"
+      - claim: Electricity prices YoY April 2026
+        kind: numerical_with_unit
+        value: "-8.4%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+          - "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html"
+        verbatim_excerpt: "Electricity prices -8.4% YoY (vs +2.9% prior year)"
+      - claim: Electricity prices YoY prior year comparison
+        kind: numerical_with_unit
+        value: "+2.9%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Electricity prices -8.4% YoY (vs +2.9% prior year)"
+      - claim: Motor fuel prices YoY April 2026
+        kind: numerical_with_unit
+        value: "+23.0%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+          - "https://www.bloomberg.com/news/articles/2026-05-20/uk-inflation-drops-sharply-in-respite-from-iran-energy-shock"
+          - "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html"
+        verbatim_excerpt: "Motor fuel prices +23.0% YoY — highest since Sept 2022"
+      - claim: Motor fuel YoY highest since date
+        kind: temporal
+        value: "Sept 2022"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Motor fuel prices +23.0% YoY — highest since Sept 2022"
+      - claim: Iran-Israel conflict start date
+        kind: temporal
+        value: "28 Feb 2026"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+          - "https://www.bloomberg.com/news/articles/2026-05-20/uk-inflation-drops-sharply-in-respite-from-iran-energy-shock"
+        verbatim_excerpt: "Iran-Israel conflict from 28 Feb 2026."
+      - claim: Food CPI April 2026
+        kind: numerical_with_unit
+        value: "+3.0%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Food +3.0% (from 3.7%)"
+      - claim: Food CPI March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: "3.7%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Food +3.0% (from 3.7%)"
+      - claim: Transport CPI April 2026
+        kind: numerical_with_unit
+        value: "4.5%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Transport 4.5% (from 4.7%)"
+      - claim: Transport CPI March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: "4.7%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Transport 4.5% (from 4.7%)"
+      - claim: BoE Bank Rate
+        kind: numerical_with_unit
+        value: "3.75%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+          - "https://finance.yahoo.com/news/uk-inflation-slows-2-8-060650289.html"
+        verbatim_excerpt: "BoE Bank Rate 3.75%."
+      - claim: BoE most adverse scenario CPI peak
+        kind: numerical_with_unit
+        value: "6.2%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "BoE most adverse scenario projects CPI peak 6.2% early 2027."
+      - claim: BoE most adverse scenario CPI peak timing
+        kind: temporal
+        value: "early 2027"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "BoE most adverse scenario projects CPI peak 6.2% early 2027."
+      - claim: Named institution — ONS
+        kind: named_institution
+        value: "ONS"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "ONS released April 2026 CPI bulletin 20 May 2026."
+      - claim: Named institution — Ofgem
+        kind: named_institution
+        value: "Ofgem"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Ofgem energy price cap fell 7% on 1 April 2026"
+      - claim: Named institution — BoE
+        kind: named_institution
+        value: "BoE"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "BoE Bank Rate 3.75%."
+      - claim: Named person — Rachel Reeves
+        kind: named_person
+        value: "Chancellor Rachel Reeves"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        verbatim_excerpt: "Chancellor Rachel Reeves examining additional household support."
+    quotes:
+      - speaker_name: "Anna Leach"
+        speaker_title: "Chief Economist, IoD"
+        verbatim_en: "Sadly, this improvement is set to be short-lived as the impact from the Middle East conflict continues to build, with motor fuel prices rising at the fastest pace since the Ukraine war."
+        source_url: "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+        context: "Commentary on April 2026 CPI release, 20 May 2026"
+
+  - story_id: boe-bailey-tsc-hearing
+    category: economy_markets
+    headline_en: "BoE Bailey TSC hearing"
+    lead_url: "https://committees.parliament.uk/event/27279"
+    corroborated_by: []
+    locked_urls:
+      - "https://committees.parliament.uk/event/27279"
+    hard_facts:
+      - claim: Date of TSC hearing
+        kind: temporal
+        value: "20 May 2026"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "Governor Andrew Bailey appeared before Commons Treasury Select Committee 20 May 2026"
+      - claim: Hearing start time
+        kind: temporal
+        value: "14:15"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "14:15, Grimond Room, Portcullis House."
+      - claim: Hearing venue — room
+        kind: named_product
+        value: "Grimond Room"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "14:15, Grimond Room, Portcullis House."
+      - claim: Hearing venue — building
+        kind: named_institution
+        value: "Portcullis House"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "14:15, Grimond Room, Portcullis House."
+      - claim: Named person — Andrew Bailey
+        kind: named_person
+        value: "Governor Andrew Bailey"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "Governor Andrew Bailey appeared before Commons Treasury Select Committee 20 May 2026"
+      - claim: Named institution — Commons Treasury Select Committee
+        kind: named_institution
+        value: "Commons Treasury Select Committee"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "Governor Andrew Bailey appeared before Commons Treasury Select Committee 20 May 2026"
+      - claim: Named person — Sarah Breeden
+        kind: named_person
+        value: "Deputy Governor Sarah Breeden"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "with Deputy Governor Sarah Breeden, external MPC members Swati Dhingra and Catherine L. Mann"
+      - claim: Named person — Swati Dhingra
+        kind: named_person
+        value: "Swati Dhingra"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "with Deputy Governor Sarah Breeden, external MPC members Swati Dhingra and Catherine L. Mann"
+      - claim: Named person — Catherine L. Mann
+        kind: named_person
+        value: "Catherine L. Mann"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "with Deputy Governor Sarah Breeden, external MPC members Swati Dhingra and Catherine L. Mann"
+      - claim: Report examined at hearing
+        kind: named_product
+        value: "April 2026 Monetary Policy Report"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "Examined April 2026 Monetary Policy Report."
+      - claim: April MPR Bank Rate decision
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "April MPR held Bank Rate at 3.75%."
+      - claim: Bank Rate held at
+        kind: numerical_with_unit
+        value: "3.75%"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "April MPR held Bank Rate at 3.75%."
+      - claim: Iran-Israel conflict start date
+        kind: temporal
+        value: "28 Feb 2026"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "Iran-Israel conflict from 28 Feb 2026."
+      - claim: Most adverse scenario CPI peak
+        kind: numerical_with_unit
+        value: "6.2%"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "Most adverse scenario peaks at 6.2% early 2027 vs 2% target."
+      - claim: Most adverse scenario CPI peak timing
+        kind: temporal
+        value: "early 2027"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "Most adverse scenario peaks at 6.2% early 2027 vs 2% target."
+      - claim: BoE inflation target
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "Most adverse scenario peaks at 6.2% early 2027 vs 2% target."
+      - claim: ONS April CPI reading cited at hearing
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "ONS April CPI 2.8%."
+      - claim: IMF statement date
+        kind: temporal
+        value: "18 May 2026"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "IMF 18 May 2026 BoE does not need to hike and may need to cut"
+      - claim: Named institution — IMF
+        kind: named_institution
+        value: "IMF"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "IMF 18 May 2026 BoE does not need to hike and may need to cut; upgraded UK 2026 GDP forecast."
+      - claim: Named institution — BoE (TSC story)
+        kind: named_institution
+        value: "BoE"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "April MPR held Bank Rate at 3.75%."
+      - claim: UK Q1 2026 GDP growth
+        kind: numerical_with_unit
+        value: "0.6%"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "UK Q1 2026 GDP grew 0.6%."
+      - claim: UK Q1 2026 GDP period
+        kind: temporal
+        value: "Q1 2026"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "UK Q1 2026 GDP grew 0.6%."
+      - claim: IMF inflation return to target timeline
+        kind: temporal
+        value: "end-2027"
+        source_urls:
+          - "https://committees.parliament.uk/event/27279"
+        verbatim_excerpt: "holding rates should be sufficient to bring inflation back to target by end-2027."
+    quotes:
+      - speaker_name: "IMF"
+        speaker_title: "International Monetary Fund"
+        verbatim_en: "holding rates should be sufficient to bring inflation back to target by end-2027."
+        source_url: "https://committees.parliament.uk/event/27279"
+        context: "IMF statement on UK monetary policy, 18 May 2026"
+
+  - story_id: commons-kings-speech-pmqs-starmer
+    category: politics_diplomacy
+    headline_en: "Commons King's Speech / PMQs / Starmer pressure"
+    lead_url: "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+    corroborated_by: []
+    locked_urls:
+      - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+    hard_facts:
+      - claim: Loyal Address debate conclusion date
+        kind: temporal
+        value: "Wednesday 20 May 2026"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Wednesday 20 May 2026, Commons concluded five-day Loyal Address debate"
+      - claim: State Opening date
+        kind: temporal
+        value: "13 May 2026"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "after State Opening 13 May 2026"
+      - claim: Number of bills in King's Speech
+        kind: numerical
+        value: "35+"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "King's Speech outlined 35+ bills"
+      - claim: Named product — Steel Industry (Nationalisation) Bill
+        kind: named_product
+        value: "Steel Industry (Nationalisation) Bill"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "King's Speech outlined 35+ bills including Steel Industry (Nationalisation) Bill"
+      - claim: Named product — Energy Independence Bill
+        kind: named_product
+        value: "Energy Independence Bill"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Energy Independence Bill, Regulating for Growth Bill (AI sandboxes)"
+      - claim: Named product — Regulating for Growth Bill
+        kind: named_product
+        value: "Regulating for Growth Bill"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Regulating for Growth Bill (AI sandboxes)"
+      - claim: Named product — Cyber Security and Resilience Bill
+        kind: named_product
+        value: "Cyber Security and Resilience Bill"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Cyber Security and Resilience Bill, NHS England restructure"
+      - claim: Named institution — NHS England restructure
+        kind: named_institution
+        value: "NHS England"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Cyber Security and Resilience Bill, NHS England restructure"
+      - claim: PMQs date and time
+        kind: temporal
+        value: "noon 20 May 2026"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "PMQs returned noon 20 May 2026"
+      - claim: Named person — Kemi Badenoch
+        kind: named_person
+        value: "Conservative Leader Kemi Badenoch"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Starmer vs Conservative Leader Kemi Badenoch"
+      - claim: English local/devolved election date
+        kind: temporal
+        value: "5 May 2026"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Labour 5 May 2026 English local/devolved election losses ~1,500 council seats"
+      - claim: Labour council seat losses
+        kind: numerical
+        value: "~1,500"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Labour 5 May 2026 English local/devolved election losses ~1,500 council seats"
+      - claim: Reform UK council seats gained
+        kind: numerical
+        value: "1,454"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Reform UK gained 1,454."
+      - claim: Named institution — Reform UK
+        kind: named_institution
+        value: "Reform UK"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Reform UK gained 1,454."
+      - claim: Named person — Wes Streeting
+        kind: named_person
+        value: "Health Sec Wes Streeting"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Health Sec Wes Streeting resigned from cabinet 14 May 2026."
+      - claim: Wes Streeting resignation date
+        kind: temporal
+        value: "14 May 2026"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Health Sec Wes Streeting resigned from cabinet 14 May 2026."
+      - claim: Number of junior ministers who resigned
+        kind: numerical
+        value: "Three"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Three junior ministers, four PPS resigned."
+      - claim: Number of PPS who resigned
+        kind: numerical
+        value: "four"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Three junior ministers, four PPS resigned."
+      - claim: Makerfield by-election writ moved date
+        kind: temporal
+        value: "19 May"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Makerfield by-election writ moved 19 May"
+      - claim: Makerfield by-election likely date
+        kind: temporal
+        value: "18 June 2026"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "likely 18 June 2026"
+      - claim: Named person — Andy Burnham
+        kind: named_person
+        value: "Andy Burnham"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "Andy Burnham (Manchester Mayor) confirmed Labour candidate."
+      - claim: Labour MPs supporting Starmer
+        kind: numerical
+        value: "159"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "159 Labour MPs supported Starmer, 97 wanted resignation, 147 no public position (LabourList)"
+      - claim: Labour MPs wanting Starmer resignation
+        kind: numerical
+        value: "97"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "159 Labour MPs supported Starmer, 97 wanted resignation, 147 no public position (LabourList)"
+      - claim: Labour MPs with no public position
+        kind: numerical
+        value: "147"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "159 Labour MPs supported Starmer, 97 wanted resignation, 147 no public position (LabourList)"
+      - claim: Named institution — LabourList
+        kind: named_institution
+        value: "LabourList"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "159 Labour MPs supported Starmer, 97 wanted resignation, 147 no public position (LabourList)"
+      - claim: Labour MPs publicly calling for resignation
+        kind: numerical
+        value: "80+"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        verbatim_excerpt: "80+ Labour MPs publicly called for resignation."
+    quotes:
+      - speaker_name: "Kemi Badenoch"
+        speaker_title: "Conservative Leader"
+        verbatim_en: "useless"
+        source_url: "https://www.parliament.uk/business/news/2026/may-2026/coming-up-in-the-commons-18-21-may/"
+        context: "PMQs, 20 May 2026, characterising the government"
+
+  - story_id: critical-minerals-sub-committee
+    category: tech_industry
+    headline_en: "Critical Minerals Sub-Committee"
+    lead_url: "https://committees.parliament.uk/event/27273"
+    corroborated_by: []
+    locked_urls:
+      - "https://committees.parliament.uk/event/27273"
+    hard_facts:
+      - claim: Date of sub-committee hearing
+        kind: temporal
+        value: "20 May 2026"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "20 May 2026, Business and Trade Sub-Committee on Economic Security, Arms and Export Controls"
+      - claim: Named institution — Business and Trade Sub-Committee on Economic Security Arms and Export Controls
+        kind: named_institution
+        value: "Business and Trade Sub-Committee on Economic Security, Arms and Export Controls"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "20 May 2026, Business and Trade Sub-Committee on Economic Security, Arms and Export Controls — final evidence round"
+      - claim: Named person — Chris McDonald
+        kind: named_person
+        value: "Industry Minister Chris McDonald"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "findings to Industry Minister Chris McDonald."
+      - claim: Hearing time
+        kind: temporal
+        value: "14:15"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "14:15, Thatcher Room."
+      - claim: Hearing venue
+        kind: named_product
+        value: "Thatcher Room"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "14:15, Thatcher Room."
+      - claim: Cornwall clay lithium project production target
+        kind: numerical_with_unit
+        value: "10,000 tonnes/year"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "Cornwall clay lithium project targeting 10,000 tonnes/year battery-grade lithium hydroxide by 2035"
+      - claim: Named product — Cornwall clay lithium project product
+        kind: named_product
+        value: "battery-grade lithium hydroxide"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "Cornwall clay lithium project targeting 10,000 tonnes/year battery-grade lithium hydroxide by 2035"
+      - claim: Cornwall project target year
+        kind: temporal
+        value: "2035"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "Cornwall clay lithium project targeting 10,000 tonnes/year battery-grade lithium hydroxide by 2035"
+      - claim: Cornwall project share of projected UK demand
+        kind: numerical_with_unit
+        value: "~10%"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "~10% projected UK demand."
+      - claim: King's Speech date
+        kind: temporal
+        value: "13 May 2026"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "King's Speech 13 May 2026 — Regulating for Growth Bill, Cyber Security and Resilience Bill."
+      - claim: Named product — Regulating for Growth Bill (critical minerals story)
+        kind: named_product
+        value: "Regulating for Growth Bill"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "King's Speech 13 May 2026 — Regulating for Growth Bill, Cyber Security and Resilience Bill."
+      - claim: Named product — Cyber Security and Resilience Bill (critical minerals story)
+        kind: named_product
+        value: "Cyber Security and Resilience Bill"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "King's Speech 13 May 2026 — Regulating for Growth Bill, Cyber Security and Resilience Bill."
+      - claim: Named product — UK Critical Minerals Strategy 2035
+        kind: named_product
+        value: "UK Critical Minerals Strategy 2035"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "UK Critical Minerals Strategy 2035 (late 2025): £50M project fund + National Wealth Fund + UK Export Finance."
+      - claim: UK Critical Minerals Strategy publication date
+        kind: temporal
+        value: "late 2025"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "UK Critical Minerals Strategy 2035 (late 2025): £50M project fund"
+      - claim: Critical Minerals Strategy project fund
+        kind: numerical_with_unit
+        value: "£50M"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "UK Critical Minerals Strategy 2035 (late 2025): £50M project fund"
+      - claim: Named institution — National Wealth Fund
+        kind: named_institution
+        value: "National Wealth Fund"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "£50M project fund + National Wealth Fund + UK Export Finance."
+      - claim: Named institution — UK Export Finance
+        kind: named_institution
+        value: "UK Export Finance"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "£50M project fund + National Wealth Fund + UK Export Finance."
+      - claim: Defence supply chain contractor count
+        kind: numerical_with_unit
+        value: "6,000–7,000"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "Defence supply chains 6,000–7,000 contractors."
+      - claim: Named person — Liam Byrne MP
+        kind: named_person
+        value: "Liam Byrne MP"
+        source_urls:
+          - "https://committees.parliament.uk/event/27273"
+        verbatim_excerpt: "Liam Byrne MP, Chair:"
+    quotes:
+      - speaker_name: "Liam Byrne"
+        speaker_title: "MP, Chair of the Business and Trade Sub-Committee on Economic Security, Arms and Export Controls"
+        verbatim_en: "From missiles to microchips to electric cars, critical minerals are now the building blocks of the modern economy."
+        source_url: "https://committees.parliament.uk/event/27273"
+        context: "Commentary on final evidence round, 20 May 2026"
+
+  - story_id: ccc-a-well-adapted-uk
+    category: society_livelihood
+    headline_en: "CCC \"A Well-Adapted UK\""
+    lead_url: "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+    corroborated_by:
+      - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+    locked_urls:
+      - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+      - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+    hard_facts:
+      - claim: Report publication date
+        kind: temporal
+        value: "20 May 2026"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "CCC published \"A Well-Adapted UK\" 20 May 2026"
+      - claim: Named product — CCC report
+        kind: named_product
+        value: "A Well-Adapted UK"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "CCC published \"A Well-Adapted UK\" 20 May 2026"
+      - claim: Named product — Fourth Climate Change Risk Assessment
+        kind: named_product
+        value: "Fourth Climate Change Risk Assessment"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "part of statutory independent assessment for Fourth Climate Change Risk Assessment."
+      - claim: Named institution — Adaptation Committee
+        kind: named_institution
+        value: "Adaptation Committee"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "Adaptation Committee chaired by Baroness Brown."
+      - claim: Named person — Baroness Brown
+        kind: named_person
+        value: "Baroness Brown"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "Adaptation Committee chaired by Baroness Brown."
+      - claim: Share of homes likely to overheat by 2050
+        kind: numerical_with_unit
+        value: "92%"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "By 2050: 92% of homes likely to overheat"
+      - claim: By 2050 reference date
+        kind: temporal
+        value: "By 2050"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "By 2050: 92% of homes likely to overheat"
+      - claim: Peak river flows increase by 2050
+        kind: numerical_with_unit
+        value: "up to 45%"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "peak river flows up to 45% higher"
+      - claim: Water supply shortfall by 2050
+        kind: numerical_with_unit
+        value: "5 billion litres/day"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "water supply shortfalls could exceed 5 billion litres/day."
+      - claim: Annual cost of unchecked climate damage as share of GDP
+        kind: numerical_with_unit
+        value: "1-5% GDP"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "Cost of unchecked 1-5% GDP annually by 2050 under 2°C warming"
+      - claim: Annual cost of unchecked climate damage in monetary terms
+        kind: numerical_with_unit
+        value: "£60-260 billion/year"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "Cost of unchecked 1-5% GDP annually by 2050 under 2°C warming — £60-260 billion/year."
+      - claim: Warming scenario
+        kind: numerical_with_unit
+        value: "2°C"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "Cost of unchecked 1-5% GDP annually by 2050 under 2°C warming"
+      - claim: Additional annual investment required
+        kind: numerical_with_unit
+        value: "~£11bn/year"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "Additional ~£11bn/year investment, split evenly public/private."
+      - claim: Flood-risk investment range
+        kind: numerical_with_unit
+        value: "£1.6-2.2bn/year"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "Flood-risk investment £1.6-2.2bn/year."
+      - claim: Share of package targeting cooling
+        kind: numerical_with_unit
+        value: "~1/3"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "~1/3 of package targets cooling (AC, heat pumps, green shading)"
+      - claim: Share of package for flood defences
+        kind: numerical_with_unit
+        value: "~1/3"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "~1/3 flood defences."
+      - claim: Number of overarching objectives
+        kind: numerical
+        value: "20"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "20 overarching objectives + 39 targets across 14 key systems."
+      - claim: Number of targets
+        kind: numerical
+        value: "39"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "20 overarching objectives + 39 targets across 14 key systems."
+      - claim: Number of key systems
+        kind: numerical
+        value: "14"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "20 overarching objectives + 39 targets across 14 key systems."
+      - claim: Avoided damage by 2050s
+        kind: numerical_with_unit
+        value: "Up to £12bn/year"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+          - "https://www.carbonbrief.org/ccc-investing-in-urgent-uk-adaptation-action-cheaper-than-climate-damages/"
+        verbatim_excerpt: "Up to £12bn/year avoided damage by 2050s."
+      - claim: Avoided damage reference period
+        kind: temporal
+        value: "by 2050s"
+        source_urls:
+          - "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        verbatim_excerpt: "Up to £12bn/year avoided damage by 2050s."
+    quotes:
+      - speaker_name: "Baroness Brown"
+        speaker_title: "Chair, Adaptation Committee, Climate Change Committee"
+        verbatim_en: "Our lives, our landscapes and our homes are under increasing pressure from the changing climate. But we are not powerless."
+        source_url: "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        context: "Commentary on publication of A Well-Adapted UK, 20 May 2026"
+      - speaker_name: "Baroness Brown"
+        speaker_title: "Chair, Adaptation Committee, Climate Change Committee"
+        verbatim_en: "It's a first for us, the first time we've produced a report of this sort. It forms part of our independent assessment for the fourth climate-change risk assessment and it contains our advice to government."
+        source_url: "https://www.theccc.org.uk/2026/05/20/british-way-of-life-under-threat-from-heat-flooding-drought/"
+        context: "Commentary on publication of A Well-Adapted UK, 20 May 2026"
