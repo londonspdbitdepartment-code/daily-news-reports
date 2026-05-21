@@ -1,0 +1,1344 @@
+version: 1
+generated_at: 2026-05-21T12:00:00Z
+country: Japan
+date: 2026-05-21
+total_stories: 15
+stories:
+  - story_id: boj-koeda-rate-hike-appropriate-pace
+    category: economy_markets
+    headline_en: BOJ Board Member Koeda Signals Support for Rate Hike at Appropriate Pace, Warns of War-Led Inflation Overshoot
+    lead_url: https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm
+    body_source: full
+    corroborated_by:
+      - https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html
+      - https://www.bloomberg.com/news/articles/2026-05-21/koeda-says-boj-should-keep-hiking-rate-at-appropriate-pace
+    locked_urls:
+      - https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm
+      - https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html
+      - https://www.bloomberg.com/news/articles/2026-05-21/koeda-says-boj-should-keep-hiking-rate-at-appropriate-pace
+    hard_facts:
+      - claim: BOJ Board Member identity
+        kind: named_person
+        value: Junko Koeda
+        source_urls: [https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm]
+        verbatim_excerpt: "BOJ Board Member Junko Koeda"
+      - claim: Speech location
+        kind: named_institution
+        value: Fukuoka
+        source_urls: [https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm]
+        verbatim_excerpt: "Fukuoka, May 21 2026"
+      - claim: Speech date
+        kind: temporal
+        value: May 21 2026
+        source_urls: [https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm]
+        verbatim_excerpt: "Fukuoka, May 21 2026"
+      - claim: BOJ short-term policy rate
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "BOJ short-term policy rate 0.75%"
+      - claim: April vote split
+        kind: numerical
+        value: "6-3"
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "held 6-3 at April 27-28 meeting"
+      - claim: April meeting dates
+        kind: temporal
+        value: April 27-28
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "April 27-28 meeting"
+      - claim: Dissenter preferred rate
+        kind: numerical_with_unit
+        value: "1.0%"
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "3 dissenters wanted 1.0%"
+      - claim: Core CPI above 2% duration
+        kind: temporal
+        value: 4 consecutive years
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "Core CPI >2% for 4 consecutive years"
+      - claim: Market-implied June hike probability
+        kind: numerical_with_unit
+        value: "70-80%"
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "Markets pricing 70-80% probability of June 15-16 hike"
+      - claim: June meeting dates
+        kind: temporal
+        value: June 15-16
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "June 15-16 hike"
+      - claim: Revised FY2026 core CPI outlook
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-05-21/koeda-says-boj-should-keep-hiking-rate-at-appropriate-pace]
+        verbatim_excerpt: "BOJ raised FY2026 core CPI outlook to 2.8% (from 1.9%)"
+      - claim: Prior FY2026 core CPI outlook
+        kind: numerical_with_unit
+        value: "1.9%"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-05-21/koeda-says-boj-should-keep-hiking-rate-at-appropriate-pace]
+        verbatim_excerpt: "to 2.8% (from 1.9%)"
+      - claim: Revised FY2026 growth outlook
+        kind: numerical_with_unit
+        value: "0.5%"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-05-21/koeda-says-boj-should-keep-hiking-rate-at-appropriate-pace]
+        verbatim_excerpt: "FY2026 growth trimmed to 0.5% (from 1.0%)"
+      - claim: Reuters poll share of economists expecting June hike
+        kind: numerical
+        value: about two-thirds
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "Reuters poll: ~2/3 of economists expect June hike"
+      - claim: Carlyle analyst
+        kind: named_person
+        value: Jason Thomas
+        source_urls: [https://finance.yahoo.com/economy/policy/articles/bojs-koeda-calls-rate-hike-015730820.html]
+        verbatim_excerpt: "Carlyle's Jason Thomas: expects June hike"
+      - claim: Speech title
+        kind: named_product
+        value: Economic Activity, Prices, and Monetary Policy in Japan
+        source_urls: [https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm]
+        verbatim_excerpt: "Koeda speech title: \"Economic Activity, Prices, and Monetary Policy in Japan.\""
+    quotes:
+      - speaker_name: Junko Koeda
+        speaker_title: BOJ Board Member
+        verbatim_en: "Given the situation in the Middle East, I see some possibility that underlying inflation may exceed 2% looking ahead."
+        source_url: https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm
+        context: Fukuoka speech, May 21 2026
+      - speaker_name: Junko Koeda
+        speaker_title: BOJ Board Member
+        verbatim_en: "I believe it's reasonable to raise the policy interest rate at an appropriate pace to address high inflation."
+        source_url: https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm
+        context: Fukuoka speech, May 21 2026
+      - speaker_name: Junko Koeda
+        speaker_title: BOJ Board Member
+        verbatim_en: "Compared with the past, the role monetary policy must play in addressing inflation has increased."
+        source_url: https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm
+        context: Fukuoka speech, May 21 2026
+
+  - story_id: japan-april-trade-surplus-301-9b
+    category: economy_markets
+    headline_en: Japan April Trade Surplus Widens to 301.9B Yen on Surging Semiconductor Exports
+    lead_url: https://www.customs.go.jp/toukei/shinbun/happyou_e.htm
+    body_source: full
+    corroborated_by:
+      - https://www.investing.com/news/economy-news/japan-april-exports-rise-148-yearyear-despite-middle-east-conflict-4702860
+      - https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html
+      - https://www.bloomberg.com/news/articles/2026-05-20/japan-maintains-trade-surplus-as-energy-imports-plunge
+    locked_urls:
+      - https://www.customs.go.jp/toukei/shinbun/happyou_e.htm
+      - https://www.investing.com/news/economy-news/japan-april-exports-rise-148-yearyear-despite-middle-east-conflict-4702860
+      - https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html
+      - https://www.bloomberg.com/news/articles/2026-05-20/japan-maintains-trade-surplus-as-energy-imports-plunge
+    hard_facts:
+      - claim: Release date
+        kind: temporal
+        value: May 21
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "MOF released April 2026 provisional trade May 21"
+      - claim: Release reference
+        kind: named_product
+        value: "2026044e"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "(ref 2026044e)"
+      - claim: Exports YoY change
+        kind: numerical_with_unit
+        value: "+14.8%"
+        source_urls: [https://www.investing.com/news/economy-news/japan-april-exports-rise-148-yearyear-despite-middle-east-conflict-4702860]
+        verbatim_excerpt: "Exports +14.8% YoY"
+      - claim: Reuters poll exports forecast
+        kind: numerical_with_unit
+        value: "+9.3%"
+        source_urls: [https://www.investing.com/news/economy-news/japan-april-exports-rise-148-yearyear-despite-middle-east-conflict-4702860]
+        verbatim_excerpt: "Reuters poll +9.3%"
+      - claim: Export growth streak
+        kind: temporal
+        value: 8th consecutive month
+        source_urls: [https://www.investing.com/news/economy-news/japan-april-exports-rise-148-yearyear-despite-middle-east-conflict-4702860]
+        verbatim_excerpt: "8th consecutive month growth"
+      - claim: Total April exports
+        kind: numerical_with_unit
+        value: "¥10,507.3B"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "¥10,507.3B total"
+      - claim: Semiconductor exports YoY
+        kind: numerical_with_unit
+        value: "+41.6%"
+        source_urls: [https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html]
+        verbatim_excerpt: "Semiconductors +41.6% YoY"
+      - claim: Electrical machinery exports YoY
+        kind: numerical_with_unit
+        value: "+28.6%"
+        source_urls: [https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html]
+        verbatim_excerpt: "Electrical machinery +28.6%"
+      - claim: Transport equipment exports YoY
+        kind: numerical_with_unit
+        value: "+6.0%"
+        source_urls: [https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html]
+        verbatim_excerpt: "transport equipment +6.0%"
+      - claim: Machinery exports YoY
+        kind: numerical_with_unit
+        value: "+12.5%"
+        source_urls: [https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html]
+        verbatim_excerpt: "machinery +12.5%"
+      - claim: Exports to China YoY
+        kind: numerical_with_unit
+        value: "+15.5%"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "To China +15.5%"
+      - claim: Exports to US YoY
+        kind: numerical_with_unit
+        value: "+9.5%"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "US +9.5%"
+      - claim: Exports to ASEAN YoY
+        kind: numerical_with_unit
+        value: "+19.9%"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "ASEAN +19.9%"
+      - claim: Exports to EU YoY
+        kind: numerical_with_unit
+        value: "+14.0%"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "EU +14.0%"
+      - claim: Exports to India YoY
+        kind: numerical_with_unit
+        value: "+22.4%"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "India +22.4%"
+      - claim: Exports to Russia YoY
+        kind: numerical_with_unit
+        value: "+65.9%"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "Russia +65.9%"
+      - claim: Exports to Middle East YoY
+        kind: numerical_with_unit
+        value: "+27.1%"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "Middle East +27.1%"
+      - claim: Imports YoY
+        kind: numerical_with_unit
+        value: "+9.7%"
+        source_urls: [https://www.investing.com/news/economy-news/japan-april-exports-rise-148-yearyear-despite-middle-east-conflict-4702860]
+        verbatim_excerpt: "Imports +9.7%"
+      - claim: Crude oil imports change
+        kind: numerical_with_unit
+        value: "-64%"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-05-20/japan-maintains-trade-surplus-as-energy-imports-plunge]
+        verbatim_excerpt: "Crude oil imports -64% (steepest since 1980"
+      - claim: Trade surplus value
+        kind: numerical_with_unit
+        value: "¥301.9B"
+        source_urls: [https://www.customs.go.jp/toukei/shinbun/happyou_e.htm]
+        verbatim_excerpt: "Trade surplus ¥301.9B"
+      - claim: Trade surplus USD equivalent
+        kind: numerical_with_unit
+        value: "$1.90B"
+        source_urls: [https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html]
+        verbatim_excerpt: "($1.90B at ¥158.9/USD)"
+      - claim: Consensus forecast
+        kind: numerical_with_unit
+        value: "-¥29.7B deficit"
+        source_urls: [https://www.investing.com/news/economy-news/japan-april-exports-rise-148-yearyear-despite-middle-east-conflict-4702860]
+        verbatim_excerpt: "vs consensus -¥29.7B deficit"
+      - claim: Surplus streak
+        kind: temporal
+        value: 3rd consecutive month
+        source_urls: [https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html]
+        verbatim_excerpt: "3rd consecutive month of surplus"
+      - claim: March surplus
+        kind: numerical_with_unit
+        value: "¥643B"
+        source_urls: [https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html]
+        verbatim_excerpt: "March surplus was ¥643B"
+    quotes: []
+
+  - story_id: japan-flash-pmi-may-2026
+    category: economy_markets
+    headline_en: Japan Flash PMI May 2026, Manufacturing 54.5, Services 50.0, Composite Hits Five-Month Low
+    lead_url: https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864
+    body_source: full
+    corroborated_by:
+      - https://www.pmi.spglobal.com/Public/Home/PressRelease/6bf4b968d4f64cf68179409bb183fb6a
+      - https://www.fxstreet.com/news/japan-jibun-bank-manufacturing-pmi-in-line-with-expectations-545-in-may-202605210030
+    locked_urls:
+      - https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864
+      - https://www.pmi.spglobal.com/Public/Home/PressRelease/6bf4b968d4f64cf68179409bb183fb6a
+      - https://www.fxstreet.com/news/japan-jibun-bank-manufacturing-pmi-in-line-with-expectations-545-in-may-202605210030
+    hard_facts:
+      - claim: Release date
+        kind: temporal
+        value: May 21
+        source_urls: [https://www.pmi.spglobal.com/Public/Home/PressRelease/6bf4b968d4f64cf68179409bb183fb6a]
+        verbatim_excerpt: "S&P Global released flash May 2026 Japan PMI May 21"
+      - claim: Manufacturing PMI
+        kind: numerical
+        value: "54.5"
+        source_urls: [https://www.fxstreet.com/news/japan-jibun-bank-manufacturing-pmi-in-line-with-expectations-545-in-may-202605210030]
+        verbatim_excerpt: "au Jibun Bank flash Manufacturing PMI 54.5"
+      - claim: Prior Manufacturing PMI
+        kind: numerical
+        value: "55.1"
+        source_urls: [https://www.fxstreet.com/news/japan-jibun-bank-manufacturing-pmi-in-line-with-expectations-545-in-may-202605210030]
+        verbatim_excerpt: "(April 55.1)"
+      - claim: Manufacturing output streak
+        kind: temporal
+        value: 5th consecutive month
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "Manufacturing output +5th consecutive month"
+      - claim: Services PMI
+        kind: numerical
+        value: "50.0"
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "Services PMI 50.0"
+      - claim: Prior Services PMI
+        kind: numerical
+        value: "51.0"
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "(April 51.0)"
+      - claim: Services expansion streak ended
+        kind: temporal
+        value: 13 months
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "ended 13 months expansion"
+      - claim: Composite PMI
+        kind: numerical
+        value: "51.1"
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "Composite 51.1"
+      - claim: Prior Composite PMI
+        kind: numerical
+        value: "52.2"
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "(April 52.2)"
+      - claim: Composite trough
+        kind: temporal
+        value: 5-month low
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "5-month low"
+      - claim: Input price growth pace
+        kind: temporal
+        value: fastest since October 2022
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "Input price growth fastest since October 2022"
+      - claim: Output prices pace
+        kind: temporal
+        value: sharpest in nearly 19 years
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "Output prices sharpest in nearly 19 years of survey data"
+      - claim: USD/JPY range
+        kind: numerical_with_unit
+        value: "¥158.9-159.0"
+        source_urls: [https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864]
+        verbatim_excerpt: "USD/JPY ~¥158.9-159.0"
+      - claim: S&P Global commentator
+        kind: named_person
+        value: Annabel Fiddes
+        source_urls: [https://www.pmi.spglobal.com/Public/Home/PressRelease/6bf4b968d4f64cf68179409bb183fb6a]
+        verbatim_excerpt: "Annabel Fiddes (S&P Global Market Intelligence)"
+    quotes:
+      - speaker_name: Annabel Fiddes
+        speaker_title: S&P Global Market Intelligence
+        verbatim_en: "If cost pressures continue to mount and demand softens, business confidence and the broader economy could come under greater strain in the months ahead."
+        source_url: https://www.pmi.spglobal.com/Public/Home/PressRelease/6bf4b968d4f64cf68179409bb183fb6a
+        context: S&P Global flash PMI release commentary
+
+  - story_id: xi-putin-japan-remilitarization
+    category: politics_diplomacy
+    headline_en: Xi-Putin Joint Statement Slams Japans Accelerated Remilitarization, Tokyo Rejects
+    lead_url: https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization
+    body_source: full
+    corroborated_by:
+      - https://aa.com.tr/en/asia-pacific/japan-dismisses-claims-by-russia-china-over-its-remilitarization-/3944090
+    locked_urls:
+      - https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization
+      - https://aa.com.tr/en/asia-pacific/japan-dismisses-claims-by-russia-china-over-its-remilitarization-/3944090
+    hard_facts:
+      - claim: Xi-Putin meeting location and date
+        kind: temporal
+        value: Beijing May 20
+        source_urls: [https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization]
+        verbatim_excerpt: "Xi Jinping and Putin met Beijing May 20"
+      - claim: Japan Deputy Chief Cabinet Secretary
+        kind: named_person
+        value: Masanao Ozaki
+        source_urls: [https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization]
+        verbatim_excerpt: "Japan Deputy Chief Cabinet Secretary Masanao Ozaki, May 21"
+      - claim: Joint statement length
+        kind: numerical
+        value: about 47 pages
+        source_urls: [https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization]
+        verbatim_excerpt: "Joint statement ~47 pages"
+      - claim: Sino-Russian treaty extended
+        kind: named_product
+        value: 2001 Treaty of Good-Neighborliness and Friendly Cooperation
+        source_urls: [https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization]
+        verbatim_excerpt: "Xi and Putin extended 2001 Treaty of Good-Neighborliness and Friendly Cooperation"
+      - claim: Japan eliminated military equipment export controls
+        kind: temporal
+        value: last month
+        source_urls: [https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization]
+        verbatim_excerpt: "Japan eliminated military equipment export controls last month"
+      - claim: PM Takaichi Taiwan remarks date
+        kind: temporal
+        value: November 2025
+        source_urls: [https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization]
+        verbatim_excerpt: "Tensions escalated since PM Takaichi's November 2025 Taiwan remarks"
+    quotes:
+      - speaker_name: Xi Jinping and Vladimir Putin (joint statement)
+        speaker_title: Presidents of China and Russia
+        verbatim_en: "Japan's current course towards accelerated remilitarization poses a serious threat to peace and stability in the region."
+        source_url: https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization
+        context: Joint statement, Beijing, May 20
+      - speaker_name: Xi Jinping
+        speaker_title: President of China
+        verbatim_en: "oppose all provocative acts that deny the outcomes of the victory of World War II and attempt to justify and revive fascism and militarism."
+        source_url: https://japantoday.com/category/politics/update3-chinese-russian-leaders-rap-japan-for-accelerated-remilitarization
+        context: Beijing summit with Putin
+      - speaker_name: Masanao Ozaki
+        speaker_title: Deputy Chief Cabinet Secretary
+        verbatim_en: "change its behavior"
+        source_url: https://aa.com.tr/en/asia-pacific/japan-dismisses-claims-by-russia-china-over-its-remilitarization-/3944090
+        context: Tokyo press briefing, May 21
+      - speaker_name: Masanao Ozaki
+        speaker_title: Deputy Chief Cabinet Secretary
+        verbatim_en: "a cause for serious concern for the international community"
+        source_url: https://aa.com.tr/en/asia-pacific/japan-dismisses-claims-by-russia-china-over-its-remilitarization-/3944090
+        context: Tokyo press briefing, May 21
+      - speaker_name: Masanao Ozaki
+        speaker_title: Deputy Chief Cabinet Secretary
+        verbatim_en: "stop its invasion of Ukraine."
+        source_url: https://aa.com.tr/en/asia-pacific/japan-dismisses-claims-by-russia-china-over-its-remilitarization-/3944090
+        context: Tokyo press briefing, May 21
+
+  - story_id: takaichi-food-consumption-tax-freeze
+    category: politics_diplomacy
+    headline_en: PM Takaichi Calls for Food Consumption Tax Freeze As Soon As Possible in Rare Parliamentary Leaders Debate
+    lead_url: https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible
+    hard_facts:
+      - claim: PM identity
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "PM Sanae Takaichi, May 21"
+      - claim: DPP head identity
+        kind: named_person
+        value: Yuichiro Tamaki
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "Democratic Party for the People (DPP) head Yuichiro Tamaki"
+      - claim: Parliamentary debate duration
+        kind: temporal
+        value: 45 minutes
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "45-minute session"
+      - claim: Tamaki time
+        kind: temporal
+        value: 12 minutes
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "Tamaki 12 minutes"
+      - claim: Current food consumption tax
+        kind: numerical_with_unit
+        value: "8%"
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "reduce 8% food consumption tax to 0% for 2 years"
+      - claim: Proposed rate
+        kind: numerical_with_unit
+        value: "0%"
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "to 0% for 2 years"
+      - claim: Annual cost range
+        kind: numerical_with_unit
+        value: 5-9 trillion yen
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "Cost 5-9 trillion yen annually"
+      - claim: Share of national budget
+        kind: numerical_with_unit
+        value: 7-9%
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "7-9% of national budget"
+      - claim: FY2026 budget
+        kind: numerical_with_unit
+        value: "¥122.31T"
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "FY2026 budget ¥122.31T"
+      - claim: FY2026 budget USD
+        kind: numerical_with_unit
+        value: "$769B"
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "($769B)"
+      - claim: Bond yields context
+        kind: temporal
+        value: highest in ~30 years
+        source_urls: [https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible]
+        verbatim_excerpt: "Government bond yields highest in ~30 years"
+    quotes:
+      - speaker_name: Sanae Takaichi
+        speaker_title: Prime Minister of Japan
+        verbatim_en: "as soon as possible"
+        source_url: https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible
+        context: Parliamentary leaders' debate, May 21
+      - speaker_name: OECD
+        speaker_title: Organisation for Economic Co-operation and Development
+        verbatim_en: "untargeted and costly"
+        source_url: https://japantoday.com/category/politics/update3-japan-pm-wants-food-consumption-tax-freeze-as-soon-as-possible
+        context: OECD review of the food-tax freeze proposal
+
+  - story_id: koizumi-defense-prodrone-visit
+    category: politics_diplomacy
+    headline_en: Defense Minister Koizumi Visits Drone Maker Prodrone, Stresses Local Production
+    lead_url: https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production
+    hard_facts:
+      - claim: Defense Minister identity
+        kind: named_person
+        value: Shinjiro Koizumi
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "DM Shinjiro Koizumi visited Prodrone Co Nagoya May 21"
+      - claim: Drone maker visited
+        kind: named_institution
+        value: Prodrone Co
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "Prodrone Co Nagoya May 21"
+      - claim: Visit city
+        kind: named_institution
+        value: Nagoya
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "Prodrone Co Nagoya May 21"
+      - claim: China share of global drone market
+        kind: numerical_with_unit
+        value: "70%+"
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "China controls 70%+ of global drone market"
+      - claim: Prodrone CEO
+        kind: named_person
+        value: Shunsuke Toya
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "Prodrone CEO Shunsuke Toya"
+      - claim: US Ambassador to Japan
+        kind: named_person
+        value: George Glass
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "Accompanied by U.S. Ambassador George Glass"
+      - claim: Mitsubishi Heavy Industries products
+        kind: named_product
+        value: PAC-3 and SM-3 Block 2A
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "Mitsubishi Heavy Industries facilities producing PAC-3 and SM-3 Block 2A interceptor missiles"
+      - claim: FY2026 defense budget
+        kind: numerical_with_unit
+        value: "¥9.04T"
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "Japan FY2026 defense budget ~¥9.04T"
+      - claim: FY2026 defense budget USD
+        kind: numerical_with_unit
+        value: "$58B"
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "($58B)"
+      - claim: Defense budget YoY change
+        kind: numerical_with_unit
+        value: "+9.4%"
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "+9.4% YoY"
+      - claim: Record spending streak
+        kind: temporal
+        value: 4th consecutive year
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "4th consecutive year of record spending"
+      - claim: Defense GDP target year
+        kind: temporal
+        value: 2027
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "Plan to double defense to 2% GDP by 2027"
+      - claim: Defense GDP target
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls: [https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production]
+        verbatim_excerpt: "double defense to 2% GDP by 2027"
+    quotes:
+      - speaker_name: Shinjiro Koizumi
+        speaker_title: Defense Minister of Japan
+        verbatim_en: "It is essential for Japan to have a domestic production and technological base for unmanned aircraft."
+        source_url: https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production
+        context: Prodrone factory visit, May 21
+      - speaker_name: Shinjiro Koizumi
+        speaker_title: Defense Minister of Japan
+        verbatim_en: "large numbers of low-cost, high-performance drones."
+        source_url: https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production
+        context: Prodrone factory visit, May 21
+      - speaker_name: Shunsuke Toya
+        speaker_title: Prodrone CEO
+        verbatim_en: "advanced technologies unique to Japan, including amphibious drones."
+        source_url: https://japantoday.com/category/politics/japan's-defense-chief-visits-drone-maker-stresses-local-production
+        context: Prodrone factory visit, May 21
+
+  - story_id: nvidia-softbank-japan-chip-rally
+    category: tech_industry
+    headline_en: Nvidias 85% Revenue Surge Drives Japan Chip-Stock Rally, SoftBank +16%, Nikkei 61,684
+    lead_url: https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html
+    body_source: full
+    corroborated_by:
+      - https://asia.nikkei.com/business/tech/semiconductors/nvidia-reports-85-revenue-jump-but-still-excludes-china-in-outlook
+      - https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972
+    locked_urls:
+      - https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html
+      - https://asia.nikkei.com/business/tech/semiconductors/nvidia-reports-85-revenue-jump-but-still-excludes-china-in-outlook
+      - https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972
+    hard_facts:
+      - claim: SoftBank share change
+        kind: numerical_with_unit
+        value: "+16%"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "SoftBank Group shares +16% Tokyo May 21"
+      - claim: Nvidia Q1 FY27 revenue
+        kind: numerical_with_unit
+        value: "$81.62B"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "revenue $81.62B"
+      - claim: Nvidia revenue YoY
+        kind: numerical_with_unit
+        value: "+85%"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "(+85% YoY from $44.06B"
+      - claim: Prior year revenue
+        kind: numerical_with_unit
+        value: "$44.06B"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "from $44.06B"
+      - claim: Nvidia QoQ change
+        kind: numerical_with_unit
+        value: "+20%"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "+20% QoQ"
+      - claim: Quarter end date
+        kind: temporal
+        value: April 26
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "Q1 FY27 (ended April 26)"
+      - claim: Data center revenue
+        kind: numerical_with_unit
+        value: "$75.2B"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "Data center revenue $75.2B"
+      - claim: Data center YoY
+        kind: numerical_with_unit
+        value: "+92%"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "+92% YoY"
+      - claim: New buyback authorization
+        kind: numerical_with_unit
+        value: "$80B"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "$80B additional share-repurchase authorization"
+      - claim: Dividend old
+        kind: numerical_with_unit
+        value: "$0.01"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "Dividend raised $0.01"
+      - claim: Dividend new
+        kind: numerical_with_unit
+        value: "$0.25"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "→$0.25 quarterly"
+      - claim: Q2 guidance
+        kind: numerical_with_unit
+        value: "$91B"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "Q2 guidance ~$91B"
+      - claim: Wall Street consensus
+        kind: numerical_with_unit
+        value: "$86.84B"
+        source_urls: [https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972]
+        verbatim_excerpt: "consensus $86.84B (LSEG)"
+      - claim: Nikkei 225 close
+        kind: numerical
+        value: "61,684.14"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "Nikkei 225 closed +3.14% at 61,684.14"
+      - claim: Nikkei 225 change
+        kind: numerical_with_unit
+        value: "+3.14%"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "Nikkei 225 closed +3.14%"
+      - claim: Tokyo Electron change
+        kind: numerical_with_unit
+        value: "+5.44%"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "Tokyo Electron +5.44%"
+      - claim: Advantest change
+        kind: numerical_with_unit
+        value: "+2.8%"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "Advantest +2.8%"
+      - claim: Renesas change
+        kind: numerical_with_unit
+        value: "+7%"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "Renesas Electronics +7%"
+      - claim: SoftBank Arm stake
+        kind: numerical_with_unit
+        value: "~90%"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "SoftBank holds ~90% of Arm Holdings"
+      - claim: SoftBank OpenAI investment
+        kind: numerical_with_unit
+        value: "$30B+"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "cumulatively invested $30B+ in OpenAI"
+      - claim: SoftBank investment gains FY March 2026
+        kind: numerical_with_unit
+        value: "$45B"
+        source_urls: [https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html]
+        verbatim_excerpt: "$45B investment gains for year ended March 2026"
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: Nvidia founder and CEO
+        verbatim_en: "The buildout of AI factories — the largest infrastructure expansion in human history — is accelerating at extraordinary speed."
+        source_url: https://gulfnews.com/technology/nvidia-q1-2026-revenue-soars-85-on-surging-ai-chip-demand-beats-wall-street-expectations-1.500547972
+        context: Nvidia Q1 FY27 earnings release
+      - speaker_name: Andrew Jackson
+        speaker_title: Ortus Advisors head of Japanese equity strategy
+        verbatim_en: "the magnitude of the move was still significant given SoftBank's heavy exposure to AI-related assets."
+        source_url: https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html
+        context: Market commentary, May 21
+      - speaker_name: CreditSights (Fitch Ratings)
+        speaker_title: research arm of Fitch Ratings
+        verbatim_en: "materially strengthened the conglomerate's balance sheet despite aggressive investments into artificial intelligence."
+        source_url: https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html
+        context: CreditSights note on SoftBank
+
+  - story_id: bloomberg-asia-ai-savings-glut
+    category: tech_industry
+    headline_en: Bloomberg, Asian AI-Chip Windfall Creates New Savings Glut Funding Global Hyperscalers
+    lead_url: https://www.bloomberg.com/news/articles/2026-05-21/circular-ai-boom-goes-global-as-asia-windfall-funds-hyperscalers
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-05-21/circular-ai-boom-goes-global-as-asia-windfall-funds-hyperscalers
+    hard_facts:
+      - claim: 2026 hyperscaler AI capex
+        kind: numerical_with_unit
+        value: "~$725B"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-05-21/circular-ai-boom-goes-global-as-asia-windfall-funds-hyperscalers]
+        verbatim_excerpt: "2026 hyperscaler AI capex ~$725B (nearly 2x mid-2025 estimates)"
+      - claim: Comparison ratio
+        kind: numerical_with_unit
+        value: nearly 2x mid-2025 estimates
+        source_urls: [https://www.bloomberg.com/news/articles/2026-05-21/circular-ai-boom-goes-global-as-asia-windfall-funds-hyperscalers]
+        verbatim_excerpt: "(nearly 2x mid-2025 estimates)"
+      - claim: Headline of Bloomberg piece
+        kind: named_product
+        value: Circular AI Boom Goes Global as Asia Windfall Funds Hyperscalers
+        source_urls: [https://www.bloomberg.com/news/articles/2026-05-21/circular-ai-boom-goes-global-as-asia-windfall-funds-hyperscalers]
+        verbatim_excerpt: "\"Circular AI Boom Goes Global as Asia Windfall Funds Hyperscalers.\""
+    quotes: []
+
+  - story_id: spacex-80b-nasdaq-ipo-filing
+    category: tech_industry
+    headline_en: SpaceX Files $80B Nasdaq IPO, Pivots to AI Infrastructure, Excludes China
+    lead_url: https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat
+    body_source: paywall-stub
+    corroborated_by:
+      - https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/
+    locked_urls:
+      - https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat
+      - https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/
+    hard_facts:
+      - claim: Filing date
+        kind: temporal
+        value: May 21, 2026
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "SpaceX filed publicly for Nasdaq IPO ticker SPCX May 21, 2026"
+      - claim: Ticker
+        kind: named_product
+        value: SPCX
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "Nasdaq IPO ticker SPCX"
+      - claim: Listing date expected
+        kind: temporal
+        value: June 11
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "expected listing June 11"
+      - claim: Raise amount
+        kind: numerical_with_unit
+        value: "$80B"
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "Raise up to $80B"
+      - claim: Valuation range
+        kind: numerical_with_unit
+        value: "$1.75-2T"
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "at $1.75-2T valuation"
+      - claim: 2025 revenue
+        kind: numerical_with_unit
+        value: "$18.7B"
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "2025 revenue $18.7B"
+      - claim: Starlink 2025 revenue
+        kind: numerical_with_unit
+        value: "$11.4B"
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "Starlink $11.4B"
+      - claim: Q1 2026 revenue
+        kind: numerical_with_unit
+        value: "$4.7B"
+        source_urls: [https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/]
+        verbatim_excerpt: "Q1 2026 revenue $4.7B"
+      - claim: Q1 2026 net loss
+        kind: numerical_with_unit
+        value: "$4.3B"
+        source_urls: [https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/]
+        verbatim_excerpt: "net loss $4.3B"
+      - claim: Accumulated deficit
+        kind: numerical_with_unit
+        value: "$41.3B"
+        source_urls: [https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/]
+        verbatim_excerpt: "accumulated deficit $41.3B as of March 31, 2026"
+      - claim: Musk voting control
+        kind: numerical_with_unit
+        value: "85.1%"
+        source_urls: [https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/]
+        verbatim_excerpt: "Musk controls 85.1% voting power"
+      - claim: Orbital AI compute satellite target
+        kind: temporal
+        value: 2028
+        source_urls: [https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/]
+        verbatim_excerpt: "Plans orbital AI compute satellites as early as 2028"
+      - claim: Anthropic contract
+        kind: numerical_with_unit
+        value: $1.25B/month
+        source_urls: [https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/]
+        verbatim_excerpt: "Anthropic contracted to pay SpaceX $1.25B/month through May 2029"
+      - claim: 2025 capex
+        kind: numerical_with_unit
+        value: ">$20B"
+        source_urls: [https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/]
+        verbatim_excerpt: "Capex >$20B in 2025"
+      - claim: xAI acquisition
+        kind: temporal
+        value: February 2026
+        source_urls: [https://spacedaily.com/sd-spacexs-2-trillion-ipo-filing-isnt-really-about-rockets-buried-in-the-s-1-is-a-quiet-pivot-that-reframes-the-entire-company-as-an-ai-infrastructure-bet/]
+        verbatim_excerpt: "SpaceX acquired xAI in February 2026"
+      - claim: China LEO competitors
+        kind: named_product
+        value: Guowang and SpaceSail
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "Chinese LEO constellations Guowang and SpaceSail"
+      - claim: Byline
+        kind: named_person
+        value: Yifan Yu
+        source_urls: [https://asia.nikkei.com/business/markets/ipo/elon-musk-s-spacex-ipo-omits-china-as-a-market-but-warns-it-is-a-threat]
+        verbatim_excerpt: "Byline: Yifan Yu"
+    quotes: []
+
+  - story_id: business-manager-visa-tightening
+    category: society_livelihood
+    headline_en: Foreign Business Owners Face Frantic Scramble to Leave Japan Amid Tighter Business Manager Visa Rules
+    lead_url: https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.businesstoday.in/nri/visa/story/what-am-i-supposed-to-do-japans-visa-crackdown-threatens-indian-restaurant-owner-after-30-years-531886-2026-05-18
+      - https://unseen-japan.com/japan-visa-ethnic-restaurants-closing/
+    locked_urls:
+      - https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/
+      - https://www.businesstoday.in/nri/visa/story/what-am-i-supposed-to-do-japans-visa-crackdown-threatens-indian-restaurant-owner-after-30-years-531886-2026-05-18
+      - https://unseen-japan.com/japan-visa-ethnic-restaurants-closing/
+    hard_facts:
+      - claim: Rule effective date
+        kind: temporal
+        value: October 16, 2025
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "revised effective October 16, 2025"
+      - claim: Application volume change
+        kind: numerical_with_unit
+        value: "96%"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "caused 96% collapse in monthly applications"
+      - claim: Prior monthly applications
+        kind: numerical
+        value: about 1,700
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "(~1,700 → ~70)"
+      - claim: New monthly applications
+        kind: numerical
+        value: about 70
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "(~1,700 → ~70)"
+      - claim: Old minimum capital
+        kind: numerical_with_unit
+        value: "¥5M"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "Minimum capital raised 6× from ¥5M"
+      - claim: New minimum capital
+        kind: numerical_with_unit
+        value: "¥30M"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "to ¥30M (~$188K)"
+      - claim: Capital USD equivalent
+        kind: numerical_with_unit
+        value: "~$188K"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "(~$188K)"
+      - claim: Language proficiency requirement
+        kind: named_product
+        value: JLPT N2
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "JLPT N2 language proficiency required"
+      - claim: Total visa holders
+        kind: numerical
+        value: ~45,000
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "~45,000 Business Manager visa holders mid-2025"
+      - claim: Chinese share
+        kind: numerical_with_unit
+        value: "~50%"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "Chinese nationals ~50%"
+      - claim: TSR survey sample size
+        kind: numerical
+        value: "299"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "Tokyo Shoko Research survey of 299 foreign-managed firms"
+      - claim: Expected negative impact share
+        kind: numerical_with_unit
+        value: "45.2%"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "45.2% expect negative impacts"
+      - claim: May-close-and-leave share
+        kind: numerical_with_unit
+        value: "5.3%"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "5.3% may close and leave"
+      - claim: Indian restaurant owner
+        kind: named_person
+        value: Manish Kumar
+        source_urls: [https://www.businesstoday.in/nri/visa/story/what-am-i-supposed-to-do-japans-visa-crackdown-threatens-indian-restaurant-owner-after-30-years-531886-2026-05-18]
+        verbatim_excerpt: "Manish Kumar, Indian national, 30 yrs in Japan"
+      - claim: Restaurant location
+        kind: named_institution
+        value: Saitama
+        source_urls: [https://www.businesstoday.in/nri/visa/story/what-am-i-supposed-to-do-japans-visa-crackdown-threatens-indian-restaurant-owner-after-30-years-531886-2026-05-18]
+        verbatim_excerpt: "18-yr Saitama curry restaurant"
+      - claim: Closed Hong Kong restaurant
+        kind: named_institution
+        value: Sanmaisan
+        source_urls: [https://unseen-japan.com/japan-visa-ethnic-restaurants-closing/]
+        verbatim_excerpt: "Sanmaisan (Hong Kong porridge restaurant, Nerima City"
+      - claim: Owner of Sanmaisan
+        kind: named_person
+        value: Chan Kah-yee
+        source_urls: [https://unseen-japan.com/japan-visa-ethnic-restaurants-closing/]
+        verbatim_excerpt: "owner Chan Kah-yee invested ¥9M"
+      - claim: Sanmaisan capital
+        kind: numerical_with_unit
+        value: "¥9M"
+        source_urls: [https://unseen-japan.com/japan-visa-ethnic-restaurants-closing/]
+        verbatim_excerpt: "invested ¥9M"
+      - claim: Sanmaisan closure date
+        kind: temporal
+        value: May 20, 2026
+        source_urls: [https://unseen-japan.com/japan-visa-ethnic-restaurants-closing/]
+        verbatim_excerpt: "closed May 20, 2026"
+      - claim: ISA investigation period
+        kind: temporal
+        value: Sep 2023 - Dec 2024
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "ISA investigation Sep 2023-Dec 2024"
+      - claim: Problem rate in review
+        kind: numerical_with_unit
+        value: "~90%"
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "found problems in ~90% of ~300 reviewed cases"
+      - claim: Grace period end
+        kind: temporal
+        value: October 2028
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "3-year grace period until October 2028"
+      - claim: ISA official
+        kind: named_person
+        value: Ito Junji
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/]
+        verbatim_excerpt: "Ito Junji (ISA Residency Management Division Director)"
+    quotes:
+      - speaker_name: Ito Junji
+        speaker_title: ISA Residency Management Division Director
+        verbatim_en: "Achieving the right balance has proven to be very challenging."
+        source_url: https://www.japantimes.co.jp/news/2026/05/21/japan/society/stricter-business-manager-visa/
+        context: ISA comment on the visa overhaul
+
+  - story_id: japan-post-bribery-arrest
+    category: society_livelihood
+    headline_en: Ex-Japan Post Worker Arrested Over Bribery in 180M Yen Mail Collection Contract Scheme
+    lead_url: https://www.japantimes.co.jp/news/2026/05/21/japan/crime-legal/former-japan-post-staff-arrest/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/
+    locked_urls:
+      - https://www.japantimes.co.jp/news/2026/05/21/japan/crime-legal/former-japan-post-staff-arrest/
+      - https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/
+    hard_facts:
+      - claim: Arresting agency
+        kind: named_institution
+        value: Tokyo MPD Second Investigation Division
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "Tokyo MPD Second Investigation Division"
+      - claim: Suspect name and age
+        kind: named_person
+        value: Nobuyuki Yoneda, 37
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/crime-legal/former-japan-post-staff-arrest/]
+        verbatim_excerpt: "arrested Nobuyuki Yoneda, 37, former Japan Post employee"
+      - claim: Arrest date
+        kind: temporal
+        value: May 21, 2026
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/crime-legal/former-japan-post-staff-arrest/]
+        verbatim_excerpt: "on May 21, 2026"
+      - claim: Branch location
+        kind: named_institution
+        value: Koto Ward
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/crime-legal/former-japan-post-staff-arrest/]
+        verbatim_excerpt: "at branch in Koto Ward"
+      - claim: Number of post offices
+        kind: numerical
+        value: "4"
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "mail-collection ops across 4 Tokyo post offices"
+      - claim: Bid manipulation date
+        kind: temporal
+        value: Feb 2025
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "Feb 2025"
+      - claim: Winning company
+        kind: named_institution
+        value: Haruki Express
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "contract directly awarded to Haruki Express (Itabashi Ward)"
+      - claim: Contract value
+        kind: numerical_with_unit
+        value: "~¥180M"
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "~¥180M (≈2× reserve)"
+      - claim: Cash bribe
+        kind: numerical_with_unit
+        value: "¥100,000"
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "¥100,000 cash"
+      - claim: Disney bribe value
+        kind: numerical_with_unit
+        value: "~¥1.1M"
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "~¥1.1M in Tokyo Disney Resort accommodation and tour packages"
+      - claim: Bribe period
+        kind: temporal
+        value: October 2024 to May 2025
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "between October 2024 and May 2025"
+      - claim: Co-arrested executive
+        kind: named_person
+        value: Koichi Nishimura, 56
+        source_urls: [https://www.tokyoreporter.com/japan-news/ex-japan-post-worker-accused-of-rigging-%C2%A5180-million-contract-for-disney-resort-trips/]
+        verbatim_excerpt: "Koichi Nishimura, 56, representative director of Haruki Express"
+      - claim: Termination month
+        kind: temporal
+        value: April 2026
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/crime-legal/former-japan-post-staff-arrest/]
+        verbatim_excerpt: "Yoneda was fired by Japan Post in April 2026"
+      - claim: Privatization year
+        kind: temporal
+        value: 2007
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/21/japan/crime-legal/former-japan-post-staff-arrest/]
+        verbatim_excerpt: "Japan Post (privatized 2007)"
+    quotes:
+      - speaker_name: Japan Post
+        speaker_title: Japan Post statement
+        verbatim_en: "We take this situation very seriously and will thoroughly enforce employee compliance and guidance."
+        source_url: https://www.japantimes.co.jp/news/2026/05/21/japan/crime-legal/former-japan-post-staff-arrest/
+        context: Japan Post statement following arrest
+
+  - story_id: japan-ssw-restaurant-quota-freeze
+    category: society_livelihood
+    headline_en: Japans Immigration Politics Starves Restaurants of Workers as SSW Quota Freeze Deepens Labour Crisis
+    lead_url: https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/
+    body_source: full
+    corroborated_by:
+      - https://www.japantimes.co.jp/news/2026/04/13/japan/society/foreign-visa-cap/
+      - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/16/japan-restaurants-hit-by-visa-pause-for-high-demand-foreign-workers
+    locked_urls:
+      - https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/
+      - https://www.japantimes.co.jp/news/2026/04/13/japan/society/foreign-visa-cap/
+      - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/16/japan-restaurants-hit-by-visa-pause-for-high-demand-foreign-workers
+    hard_facts:
+      - claim: SSW Type I quota
+        kind: numerical
+        value: "50,000"
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "50,000 Type I SSW visa quota in food and beverage sector"
+      - claim: Quota exhausted month
+        kind: temporal
+        value: April 2026
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "April 2026 — first sector since SSW programme launched 2019"
+      - claim: ISA announcement date
+        kind: temporal
+        value: March 27, 2026
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "ISA announced March 27, 2026 suspension"
+      - claim: Suspension effective date
+        kind: temporal
+        value: April 13
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "effective April 13"
+      - claim: Workers held by end-Feb 2026
+        kind: numerical
+        value: ~46,000
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "~46,000 workers held Type I SSW in food service"
+      - claim: Cap window
+        kind: temporal
+        value: Apr 2024 - Mar 2029
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "(vs cap 50,000 for Apr 2024-Mar 2029)"
+      - claim: Food service sector employment
+        kind: numerical_with_unit
+        value: ">4.5M"
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "Food service sector employs >4.5M"
+      - claim: Affected chain 1
+        kind: named_institution
+        value: Skylark Holdings
+        source_urls: [https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/16/japan-restaurants-hit-by-visa-pause-for-high-demand-foreign-workers]
+        verbatim_excerpt: "Skylark Holdings (employed 32 exchange students from Myanmar)"
+      - claim: Affected chain 2
+        kind: named_institution
+        value: Mos Food Services
+        source_urls: [https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/16/japan-restaurants-hit-by-visa-pause-for-high-demand-foreign-workers]
+        verbatim_excerpt: "Mos Food Services"
+      - claim: SSW Type I terms
+        kind: numerical_with_unit
+        value: 5 years, no family reunification
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "SSW Type I: 5 yrs no family reunification"
+      - claim: Projected 2040 shortfall
+        kind: numerical_with_unit
+        value: "6.4M"
+        source_urls: [https://eastasiaforum.org/2026/05/21/japans-immigration-politics-starves-restaurants-of-workers/]
+        verbatim_excerpt: "Japan projects 6.4M worker shortfall by 2040"
+    quotes: []
+
+  - story_id: japan-civil-courts-digital-launch
+    category: other
+    headline_en: Japans Civil Courts Go Fully Digital as Landmark Procedural Reform Takes Effect
+    lead_url: https://jen.jiji.com/jc/eng?g=eco&k=2026052100293
+    body_source: full
+    corroborated_by:
+      - https://www.nippon.com/en/news/yjj2026050900306/
+      - https://www.japantimes.co.jp/news/2026/05/10/japan/crime-legal/civil-suit-procedures-go-digital/
+      - https://isvd.or.jp/en/columns/civil-court-digitalization-2026-may-21-justice-divide
+    locked_urls:
+      - https://jen.jiji.com/jc/eng?g=eco&k=2026052100293
+      - https://www.nippon.com/en/news/yjj2026050900306/
+      - https://www.japantimes.co.jp/news/2026/05/10/japan/crime-legal/civil-suit-procedures-go-digital/
+      - https://isvd.or.jp/en/columns/civil-court-digitalization-2026-may-21-justice-divide
+    hard_facts:
+      - claim: Launch date
+        kind: temporal
+        value: May 21, 2026
+        source_urls: [https://jen.jiji.com/jc/eng?g=eco&k=2026052100293]
+        verbatim_excerpt: "Japan May 21, 2026 launched fully digital civil litigation system"
+      - claim: Filing platform
+        kind: named_product
+        value: mints
+        source_urls: [https://jen.jiji.com/jc/eng?g=eco&k=2026052100293]
+        verbatim_excerpt: "e-Filing via Supreme Court's \"mints\" platform"
+      - claim: Judgment delivery cap
+        kind: temporal
+        value: 7 months
+        source_urls: [https://jen.jiji.com/jc/eng?g=eco&k=2026052100293]
+        verbatim_excerpt: "courts must deliver judgments within 7 months upon joint party request"
+      - claim: Registered attorneys
+        kind: numerical
+        value: ~30,000
+        source_urls: [https://jen.jiji.com/jc/eng?g=eco&k=2026052100293]
+        verbatim_excerpt: "~30,000 attorneys registered with mints"
+      - claim: Both-sides pro-se decline
+        kind: numerical_with_unit
+        value: ~20% to 7%
+        source_urls: [https://www.japantimes.co.jp/news/2026/05/10/japan/crime-legal/civil-suit-procedures-go-digital/]
+        verbatim_excerpt: "Both-parties-pro-se litigation declined from ~20% to 7%"
+      - claim: International comparison Singapore
+        kind: temporal
+        value: "2000"
+        source_urls: [https://isvd.or.jp/en/columns/civil-court-digitalization-2026-may-21-justice-divide]
+        verbatim_excerpt: "Singapore 2000"
+      - claim: International comparison US
+        kind: temporal
+        value: "2002"
+        source_urls: [https://isvd.or.jp/en/columns/civil-court-digitalization-2026-may-21-justice-divide]
+        verbatim_excerpt: "US 2002"
+      - claim: International comparison S Korea
+        kind: temporal
+        value: "2011"
+        source_urls: [https://isvd.or.jp/en/columns/civil-court-digitalization-2026-may-21-justice-divide]
+        verbatim_excerpt: "S Korea 2011"
+    quotes:
+      - speaker_name: Supreme Court of Japan
+        speaker_title: Supreme Court
+        verbatim_en: "a change that has a great impact and is the centerpiece of the digitalization of civil lawsuits that has been implemented in stages."
+        source_url: https://jen.jiji.com/jc/eng?g=eco&k=2026052100293
+        context: Supreme Court characterization of the digital launch
+
+  - story_id: shanghai-restaurant-stabbing-japan-demand
+    category: other
+    headline_en: Japan Demands China Punish Suspect and Protect Nationals After Shanghai Restaurant Stabbing
+    lead_url: https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723
+    body_source: full
+    corroborated_by:
+      - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+      - https://www.nippon.com/en/news/yjj2026052000568/
+      - https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/
+    locked_urls:
+      - https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723
+      - https://abcnews.com/International/wireStory/shanghai-restaurant-knife-attack-injures-3-including-2-133141068
+      - https://www.nippon.com/en/news/yjj2026052000568/
+      - https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/
+    hard_facts:
+      - claim: Demand date
+        kind: temporal
+        value: May 21, 2026
+        source_urls: [https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723]
+        verbatim_excerpt: "Japan May 21, 2026 demanded China punish attacker"
+      - claim: Attack date
+        kind: temporal
+        value: Tuesday May 19
+        source_urls: [https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723]
+        verbatim_excerpt: "Attack: Tuesday May 19"
+      - claim: Location
+        kind: named_institution
+        value: Shanghai World Financial Center, Pudong New Area
+        source_urls: [https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723]
+        verbatim_excerpt: "Japanese restaurant inside Shanghai World Financial Center, Pudong New Area"
+      - claim: Attacker description
+        kind: named_person
+        value: 59-year-old man surnamed Yang
+        source_urls: [https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723]
+        verbatim_excerpt: "Attacker: 59-year-old man surnamed Yang"
+      - claim: Victims
+        kind: numerical
+        value: "3"
+        source_urls: [https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723]
+        verbatim_excerpt: "stabbed 3 (2 Japanese men, 1 Chinese woman)"
+      - claim: Chief Cabinet Secretary
+        kind: named_person
+        value: Minoru Kihara
+        source_urls: [https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723]
+        verbatim_excerpt: "Chief Cabinet Secretary Minoru Kihara"
+      - claim: Chinese FM spokesperson
+        kind: named_person
+        value: Guo Jiakun
+        source_urls: [https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/]
+        verbatim_excerpt: "Chinese FM Guo Jiakun"
+      - claim: Prior similar attack
+        kind: temporal
+        value: September 2024
+        source_urls: [https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723]
+        verbatim_excerpt: "Echoed September 2024 Shenzhen fatal knife attack on Japanese schoolboy"
+    quotes:
+      - speaker_name: Minoru Kihara
+        speaker_title: Chief Cabinet Secretary
+        verbatim_en: "The government will continue, while maintaining contact with the parties concerned, to provide all possible support from the standpoint of protecting Japanese nationals."
+        source_url: https://www.taipeitimes.com/News/world/archives/2026/05/21/2003857723
+        context: Tokyo press briefing, May 21
+      - speaker_name: Japanese Consulate in Shanghai
+        speaker_title: Consular Notice
+        verbatim_en: "ensure the safety and security of Japanese nationals."
+        source_url: https://www.nippon.com/en/news/yjj2026052000568/
+        context: Consular advisory to Japanese nationals in China
+      - speaker_name: Guo Jiakun
+        speaker_title: Chinese Foreign Ministry spokesperson
+        verbatim_en: "an isolated public security case."
+        source_url: https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/
+        context: MoFA press briefing
+      - speaker_name: Guo Jiakun
+        speaker_title: Chinese Foreign Ministry spokesperson
+        verbatim_en: "I would also like to stress that the media outlets and individuals should not make groundless speculation or unwarranted associations."
+        source_url: https://hongkongfp.com/2026/05/20/japan-asks-china-to-ensure-citizens-safety-after-shanghai-stabbing/
+        context: MoFA press briefing
+
+  - story_id: osaka-yoshikawa-yuri-23rd-anniversary
+    category: other
+    headline_en: Osaka Police Renew Public Appeal on 23rd Anniversary of Girls Unsolved Abduction
+    lead_url: https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4
+    hard_facts:
+      - claim: Flyer distribution date
+        kind: temporal
+        value: May 20 2026
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "Osaka prefectural police, May 20 2026, distributed ~5,000 flyers"
+      - claim: Flyers distributed
+        kind: numerical
+        value: ~5,000
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "distributed ~5,000 flyers"
+      - claim: Distribution location
+        kind: named_institution
+        value: Nankai Electric Railway Namba Station
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "Nankai Electric Railway's Namba Station"
+      - claim: Victim name and age
+        kind: named_person
+        value: Yuri Yoshikawa, 9
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "Yuri Yoshikawa, 9-year-old"
+      - claim: Disappearance date
+        kind: temporal
+        value: May 20, 2003
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "vanished May 20, 2003"
+      - claim: Disappearance town
+        kind: named_institution
+        value: Kumatori
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "from Kumatori, Osaka Prefecture"
+      - claim: Eyewitness count
+        kind: numerical
+        value: "3"
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "3 eyewitnesses"
+      - claim: Suspect vehicle
+        kind: named_product
+        value: white Toyota Crown sedan (130 Series, manufactured 1987-1990)
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "white Toyota Crown sedan (130 Series, manufactured 1987-1990)"
+      - claim: Tips received
+        kind: numerical
+        value: ~4,500
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "Police pursued ~4,500 tips over 23 years"
+      - claim: Reward
+        kind: numerical_with_unit
+        value: "¥3M"
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "¥3M reward"
+      - claim: Police contact
+        kind: named_product
+        value: Izumisano Police Station 072-464-1234
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "Izumisano Police Station 072-464-1234"
+      - claim: Investigator
+        kind: named_person
+        value: Hirofumi Morimoto
+        source_urls: [https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4]
+        verbatim_excerpt: "Inspector Hirofumi Morimoto"
+    quotes:
+      - speaker_name: Hirofumi Morimoto
+        speaker_title: Inspector
+        verbatim_en: "Even the smallest detail is appreciated. Please provide any information you may have."
+        source_url: https://japantoday.com/category/crime/osaka-police-ask-public-for-help-on-girl-missing-since-2003-4
+        context: Flyer distribution event at Namba Station
