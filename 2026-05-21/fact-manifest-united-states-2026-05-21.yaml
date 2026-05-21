@@ -1,0 +1,2192 @@
+version: 1
+generated_at: "2026-05-21T12:00:00Z"
+country: United States
+date: "2026-05-21"
+total_stories: 13
+stories:
+  - story_id: us-treasury-yields-climb-oil-iran-tensions
+    category: econ
+    headline_en: "U.S. Treasury Yields Resume Climb as Oil Prices Surge Amid Iran Tensions"
+    lead_url: "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+    body_source: full
+    corroborated_by:
+      - "https://www.cnbc.com/2026/05/21/treasury-yields-resume-climb-as-traders-monitor-inflation-risks.html"
+      - "https://www.bloomberg.com/news/articles/2026-05-21/stock-futures-fall-as-nvidia-fails-to-spark-lift-walmart-slides"
+    locked_urls:
+      - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+      - "https://www.cnbc.com/2026/05/21/treasury-yields-resume-climb-as-traders-monitor-inflation-risks.html"
+      - "https://www.bloomberg.com/news/articles/2026-05-21/stock-futures-fall-as-nvidia-fails-to-spark-lift-walmart-slides"
+    hard_facts:
+      - claim: Event date
+        kind: temporal
+        value: "Thursday, May 21, 2026"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "U.S. equity markets declined on Thursday, May 21, 2026"
+      - claim: S&P 500 percentage decline
+        kind: numerical_with_unit
+        value: "0.30%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "The S&P 500 fell 0.30% (–22.83 points) to 7,410.68"
+      - claim: S&P 500 point decline
+        kind: numerical_with_unit
+        value: "–22.83 points"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "The S&P 500 fell 0.30% (–22.83 points) to 7,410.68"
+      - claim: S&P 500 closing level
+        kind: numerical_with_unit
+        value: "7,410.68"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "The S&P 500 fell 0.30% (–22.83 points) to 7,410.68"
+      - claim: Dow Jones Industrial Average percentage decline
+        kind: numerical_with_unit
+        value: "0.05%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the Dow Jones Industrial Average dropped 0.05% (–24.51 points) to 49,987.34"
+      - claim: Dow Jones Industrial Average point decline
+        kind: numerical_with_unit
+        value: "–24.51 points"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the Dow Jones Industrial Average dropped 0.05% (–24.51 points) to 49,987.34"
+      - claim: Dow Jones Industrial Average closing level
+        kind: numerical_with_unit
+        value: "49,987.34"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the Dow Jones Industrial Average dropped 0.05% (–24.51 points) to 49,987.34"
+      - claim: Nasdaq Composite percentage decline
+        kind: numerical_with_unit
+        value: "0.46%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the Nasdaq Composite fell 0.46% (–119.67 points) to 26,150.69"
+      - claim: Nasdaq Composite point decline
+        kind: numerical_with_unit
+        value: "–119.67 points"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the Nasdaq Composite fell 0.46% (–119.67 points) to 26,150.69"
+      - claim: Nasdaq Composite closing level
+        kind: numerical_with_unit
+        value: "26,150.69"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the Nasdaq Composite fell 0.46% (–119.67 points) to 26,150.69"
+      - claim: Brent crude futures gain percentage
+        kind: numerical_with_unit
+        value: "2.2%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Brent crude futures gained 2.2% to $107.32 per barrel"
+      - claim: Brent crude futures price
+        kind: numerical_with_unit
+        value: "$107.32 per barrel"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Brent crude futures gained 2.2% to $107.32 per barrel"
+      - claim: WTI crude advance percentage
+        kind: numerical_with_unit
+        value: "2.85%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "West Texas Intermediate crude advanced 2.85%"
+      - claim: Share of global oil and LNG transiting Strait of Hormuz
+        kind: numerical_with_unit
+        value: "approximately 20%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "through which approximately 20% of global oil and LNG transited before the conflict began"
+      - claim: 10-year U.S. Treasury note yield
+        kind: numerical_with_unit
+        value: "4.609%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "The 10-year U.S. Treasury note yield edged up to 4.609%"
+      - claim: 30-year U.S. Treasury yield level
+        kind: numerical_with_unit
+        value: "5.12%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the 30-year yield held near 5.12%, close to an 18-year high hit earlier in the week"
+      - claim: CPI annual rate
+        kind: numerical_with_unit
+        value: "3.8% annually"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "persistent inflation — CPI at 3.8% annually and PPI at 6.0%"
+      - claim: PPI annual rate
+        kind: numerical_with_unit
+        value: "6.0%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "persistent inflation — CPI at 3.8% annually and PPI at 6.0%"
+      - claim: Walmart share decline
+        kind: numerical_with_unit
+        value: "7.5%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Walmart shares fell 7.5% after the retailer beat first-quarter revenue expectations"
+      - claim: Nvidia share decline despite beat
+        kind: numerical_with_unit
+        value: "0.6%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Nvidia shares slipped 0.6% despite beating quarterly guidance"
+      - claim: Nvidia share buyback announcement
+        kind: numerical_with_unit
+        value: "$80 billion"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "announcing an $80 billion share buyback"
+      - claim: Intuit share decline
+        kind: numerical_with_unit
+        value: "20.5%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Intuit tumbled 20.5% after lowering its TurboTax revenue forecast"
+      - claim: Intuit workforce reduction percentage
+        kind: numerical_with_unit
+        value: "17%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "announcing a 17% workforce reduction"
+      - claim: IBM share gain
+        kind: numerical_with_unit
+        value: "5.6%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "IBM gained 5.6% following Trump administration commitment to fund quantum computing ventures"
+      - claim: 30-year Treasury 18-year high date
+        kind: temporal
+        value: "May 19"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "The 30-year U.S. Treasury note yield had reached an 18-year high of 5.19% on May 19"
+      - claim: 30-year Treasury 18-year high yield
+        kind: numerical_with_unit
+        value: "5.19%"
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "The 30-year U.S. Treasury note yield had reached an 18-year high of 5.19% on May 19"
+      - claim: Incoming Fed Chair
+        kind: named_person
+        value: Kevin Warsh
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "uncertainty about the trajectory of monetary policy under incoming Fed Chair Kevin Warsh"
+      - claim: Byline reporters
+        kind: named_person
+        value: Ragini Mathur and Utkarsh Hathi (Reuters)
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Ragini Mathur and Utkarsh Hathi (Reuters)"
+      - claim: Named institution — S&P 500 index
+        kind: named_product
+        value: S&P 500
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "The S&P 500 fell 0.30%"
+      - claim: Named institution — Dow Jones Industrial Average
+        kind: named_product
+        value: Dow Jones Industrial Average
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the Dow Jones Industrial Average dropped 0.05%"
+      - claim: Named institution — Nasdaq Composite
+        kind: named_product
+        value: Nasdaq Composite
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "the Nasdaq Composite fell 0.46%"
+      - claim: Named institution — HSBC
+        kind: named_institution
+        value: HSBC
+        source_urls:
+          - "https://www.cnbc.com/2026/05/21/treasury-yields-resume-climb-as-traders-monitor-inflation-risks.html"
+        verbatim_excerpt: "HSBC strategists characterised U.S. Treasurys as having entered a 'danger zone'"
+      - claim: Named institution — Walmart
+        kind: named_institution
+        value: Walmart
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Walmart shares fell 7.5% after the retailer beat first-quarter revenue expectations"
+      - claim: Named institution — Nvidia
+        kind: named_institution
+        value: Nvidia
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Nvidia shares slipped 0.6% despite beating quarterly guidance"
+      - claim: Named institution — Intuit
+        kind: named_institution
+        value: Intuit
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "Intuit tumbled 20.5% after lowering its TurboTax revenue forecast"
+      - claim: Named product — TurboTax
+        kind: named_product
+        value: TurboTax
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "after lowering its TurboTax revenue forecast"
+      - claim: Named institution — IBM
+        kind: named_institution
+        value: IBM
+        source_urls:
+          - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+        verbatim_excerpt: "IBM gained 5.6% following Trump administration commitment to fund quantum computing ventures"
+    quotes: []
+
+  - story_id: walmart-q1-revenue-177b-ecommerce-26pct
+    category: econ
+    headline_en: "Walmart Q1 Revenue Tops $177.8 Billion as E-Commerce Surges 26%, But Q2 Guidance Disappoints"
+    lead_url: "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+    body_source: full
+    corroborated_by:
+      - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+      - "https://www.bloomberg.com/news/articles/2026-05-21/stock-futures-fall-as-nvidia-fails-to-spark-lift-walmart-slides"
+    locked_urls:
+      - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+      - "https://www.investing.com/news/economy-news/us-stock-futures-muted-after-nvidia-results-retail-earnings-data-in-focus-4703462"
+      - "https://www.bloomberg.com/news/articles/2026-05-21/stock-futures-fall-as-nvidia-fails-to-spark-lift-walmart-slides"
+    hard_facts:
+      - claim: Earnings report date
+        kind: temporal
+        value: "Thursday, May 21, 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "Walmart Inc. reported first-quarter fiscal year 2026 earnings on Thursday, May 21, 2026"
+      - claim: Walmart Q1 revenue
+        kind: numerical_with_unit
+        value: "$177.8 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "posting revenue of $177.8 billion"
+      - claim: Walmart Q1 revenue year-over-year growth
+        kind: numerical_with_unit
+        value: "7.3%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "a 7.3% increase year-over-year"
+      - claim: Walmart Q1 adjusted EPS
+        kind: numerical_with_unit
+        value: "$0.66"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "adjusted earnings per share of $0.66, up 8.2% from the prior year period"
+      - claim: Walmart adjusted EPS year-over-year growth
+        kind: numerical_with_unit
+        value: "8.2%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "adjusted earnings per share of $0.66, up 8.2% from the prior year period"
+      - claim: Walmart U.S. comparable-store sales growth
+        kind: numerical_with_unit
+        value: "4.1%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "U.S. comparable-store sales rose 4.1%"
+      - claim: Walmart global e-commerce sales growth
+        kind: numerical_with_unit
+        value: "26%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "Global e-commerce sales surged 26%"
+      - claim: Walmart store-fulfilled delivery sales growth
+        kind: numerical_with_unit
+        value: "approximately 45%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "store-fulfilled delivery sales increasing approximately 45%"
+      - claim: Walmart under-3-hour deliveries share of store-fulfilled orders
+        kind: numerical_with_unit
+        value: "roughly 36%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "expedited deliveries under three hours accounted for roughly 36% of U.S. store-fulfilled orders"
+      - claim: Walmart Connect U.S. advertising revenue growth
+        kind: numerical_with_unit
+        value: "44%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "The company's advertising business (Walmart Connect U.S., excluding Vizio) expanded 44%"
+      - claim: Walmart marketplace sales growth
+        kind: numerical_with_unit
+        value: "nearly 50%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "marketplace sales grew nearly 50%"
+      - claim: Walmart membership fee revenue growth
+        kind: numerical_with_unit
+        value: "17.4% globally"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "Membership fee revenue increased 17.4% globally"
+      - claim: Walmart adjusted EBITDA
+        kind: numerical_with_unit
+        value: "$11.31 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "Adjusted EBITDA reached $11.31 billion, slightly below analyst expectations of $11.38 billion"
+      - claim: Analyst EBITDA expectation
+        kind: numerical_with_unit
+        value: "$11.38 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "slightly below analyst expectations of $11.38 billion"
+      - claim: Walmart Q2 net sales guidance growth range
+        kind: numerical_with_unit
+        value: "4%–5%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "Walmart issued second-quarter net sales guidance of 4%–5% growth"
+      - claim: Walmart Q2 adjusted EPS guidance range
+        kind: numerical_with_unit
+        value: "$0.72–$0.74"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "projected second-quarter adjusted EPS of $0.72–$0.74, versus consensus of $0.75"
+      - claim: Analyst EPS consensus for Q2
+        kind: numerical_with_unit
+        value: "$0.75"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "versus consensus of $0.75"
+      - claim: Walmart full-year adjusted EPS guidance midpoint
+        kind: numerical_with_unit
+        value: "$2.80"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "The company reaffirmed full-year adjusted EPS guidance of $2.80 at the midpoint"
+      - claim: National gasoline price threshold
+        kind: numerical_with_unit
+        value: "above $4 per gallon"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "amid gasoline prices above $4 per gallon nationally"
+      - claim: Inflation rate
+        kind: numerical_with_unit
+        value: "3.8% annually"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "inflation running at 3.8% annually"
+      - claim: Walmart share decline on day
+        kind: numerical_with_unit
+        value: "7.5%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "Shares fell 7.5% on the day"
+      - claim: CEO name
+        kind: named_person
+        value: John Furner
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "CEO John Furner stated"
+      - claim: Named institution — Walmart Inc.
+        kind: named_institution
+        value: Walmart Inc.
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "Walmart Inc. reported first-quarter fiscal year 2026 earnings"
+      - claim: Named product — Walmart Connect U.S.
+        kind: named_product
+        value: Walmart Connect U.S.
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "The company's advertising business (Walmart Connect U.S., excluding Vizio) expanded 44%"
+      - claim: Named product — Vizio
+        kind: named_product
+        value: Vizio
+        source_urls:
+          - "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        verbatim_excerpt: "Walmart Connect U.S., excluding Vizio"
+    quotes:
+      - speaker_name: John Furner
+        speaker_title: CEO, Walmart Inc.
+        verbatim_en: "Our results reflect our continued focus on delivering across the enterprise — better shopping experiences, a broader assortment, and faster delivery."
+        source_url: "https://www.axios.com/2026/05/21/walmart-earnings-ecommerce-growth-ceo-furner"
+        context: Q1 fiscal year 2026 earnings report, May 21, 2026
+
+  - story_id: kevin-warsh-sworn-in-11th-fed-chair
+    category: econ
+    headline_en: "Kevin Warsh Sworn In as 11th Federal Reserve Chair at White House as Inflation Dilemma Sharpens"
+    lead_url: "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+    body_source: paywall-stub
+    corroborated_by:
+      - "https://www.spokesman.com/stories/2026/may/18/trumps-fed-pick-to-be-sworn-in-at-the-white-house-/"
+      - "https://www.axios.com/2026/05/20/fed-rates-minutes-warsh"
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+    locked_urls:
+      - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+      - "https://www.spokesman.com/stories/2026/may/18/trumps-fed-pick-to-be-sworn-in-at-the-white-house-/"
+      - "https://www.axios.com/2026/05/20/fed-rates-minutes-warsh"
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+    hard_facts:
+      - claim: Swearing-in date
+        kind: temporal
+        value: "Friday, May 21, 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "Kevin Warsh was sworn in as the 11th Chair of the Federal Reserve in the modern era at the White House on Friday, May 21, 2026"
+      - claim: Warsh Fed chair ordinal number
+        kind: numerical
+        value: "11th"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "sworn in as the 11th Chair of the Federal Reserve in the modern era"
+      - claim: Historical precedent date — Greenspan White House swearing-in
+        kind: temporal
+        value: "1987"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "the first time a Federal Reserve chair has been sworn in at the White House since President Ronald Reagan chose Alan Greenspan in 1987"
+      - claim: Warsh age
+        kind: numerical_with_unit
+        value: "56"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "Warsh, 56, was confirmed by the Senate 54–45 on May 13"
+      - claim: Senate confirmation vote tally
+        kind: numerical_with_unit
+        value: "54–45"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "confirmed by the Senate 54–45 on May 13"
+      - claim: Senate confirmation date
+        kind: temporal
+        value: "May 13"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "confirmed by the Senate 54–45 on May 13"
+      - claim: Fed Board vote for Powell as chair pro tempore
+        kind: numerical_with_unit
+        value: "5-1"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "served as chair pro tempore by a 5-1 Federal Reserve Board vote"
+      - claim: Powell chairmanship expiry
+        kind: temporal
+        value: "May 15"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "Jerome Powell, whose chairmanship expired May 15"
+      - claim: FOMC meeting dates — Powell's last as chair
+        kind: temporal
+        value: "April 28-29"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "FOMC minutes from the April 28-29 meeting — Powell's final meeting as chair"
+      - claim: Number of voting members who dissented on FOMC language
+        kind: numerical
+        value: "Four"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "Four voting members dissented; three preferred language suggesting the Fed's next move could be either up or down"
+      - claim: Warsh's first FOMC meeting date
+        kind: temporal
+        value: "June 16-17"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "Warsh's first FOMC meeting as chair is scheduled for June 16-17"
+      - claim: CPI level
+        kind: numerical_with_unit
+        value: "3.8%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "The Fed faces CPI at 3.8%, PPI at 6.0%"
+      - claim: PPI level
+        kind: numerical_with_unit
+        value: "6.0%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "The Fed faces CPI at 3.8%, PPI at 6.0%"
+      - claim: Oil price level
+        kind: numerical_with_unit
+        value: "above $100/barrel"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "oil above $100/barrel"
+      - claim: 30-year Treasury yield
+        kind: numerical_with_unit
+        value: "near 5.12%"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "a 30-year Treasury yield near 5.12%"
+      - claim: Named person — Kevin Warsh
+        kind: named_person
+        value: Kevin Warsh
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "Kevin Warsh was sworn in as the 11th Chair of the Federal Reserve"
+      - claim: Named person — Jerome Powell
+        kind: named_person
+        value: Jerome Powell
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "Jerome Powell, whose chairmanship expired May 15"
+      - claim: Named person — Governor Stephen Miran
+        kind: named_person
+        value: Stephen Miran
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "with Governor Stephen Miran dissenting"
+      - claim: Named person — Vice Chair Michelle Bowman
+        kind: named_person
+        value: Michelle Bowman
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "Vice Chair Michelle Bowman abstaining"
+      - claim: Named person — David Wilcox
+        kind: named_person
+        value: David Wilcox
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "David Wilcox of the Peterson Institute described the White House ceremony"
+      - claim: Named person — Alan Greenspan
+        kind: named_person
+        value: Alan Greenspan
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "since President Ronald Reagan chose Alan Greenspan in 1987"
+      - claim: Named institution — Peterson Institute
+        kind: named_institution
+        value: Peterson Institute
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "David Wilcox of the Peterson Institute"
+      - claim: Named institution — Federal Reserve
+        kind: named_institution
+        value: Federal Reserve
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "sworn in as the 11th Chair of the Federal Reserve"
+      - claim: Fed inflation target threshold
+        kind: numerical_with_unit
+        value: "2 percent"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        verbatim_excerpt: "some policy firming would likely become appropriate if inflation were to continue to run persistently above 2 percent"
+    quotes:
+      - speaker_name: David Wilcox
+        speaker_title: Economist, Peterson Institute
+        verbatim_en: "It is slightly unnerving that someone so keenly attuned to symbolism chose not to do that."
+        source_url: "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+        context: Comment on Warsh choosing the White House rather than the Fed for swearing-in ceremony
+
+  - story_id: iran-reviews-us-peace-proposal-trump-few-days
+    category: politics
+    headline_en: "Iran Reviews U.S. Peace Proposal as Trump Says He Will Wait \"a Few Days\" for Tehran's Response"
+    lead_url: "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+    body_source: full
+    corroborated_by:
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+      - "https://www.democracynow.org/2026/5/21/headlines"
+    locked_urls:
+      - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+      - "https://www.democracynow.org/2026/5/21/headlines"
+    hard_facts:
+      - claim: Story date
+        kind: temporal
+        value: "Thursday"
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "Iran's Foreign Ministry said Thursday that the Islamic Republic was reviewing the Trump administration's latest peace proposal"
+      - claim: Share of global oil and LNG through Strait of Hormuz
+        kind: numerical_with_unit
+        value: "approximately 20%"
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "through which approximately 20% of global oil and LNG transited before the conflict began in late February 2026"
+      - claim: Conflict start date
+        kind: temporal
+        value: "late February 2026"
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "before the conflict began in late February 2026"
+      - claim: Brent crude price on Thursday
+        kind: numerical_with_unit
+        value: "$106.37/barrel"
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "Brent crude traded at $106.37/barrel"
+      - claim: WTI crude price on Thursday
+        kind: numerical_with_unit
+        value: "$99.54/barrel"
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "WTI at $99.54/barrel on Thursday"
+      - claim: Iran maritime passage toll
+        kind: numerical_with_unit
+        value: "up to $2 million per vessel"
+        source_urls:
+          - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+        verbatim_excerpt: "passage tolls up to $2 million per vessel in Chinese yuan or bitcoin"
+      - claim: Ceasefire duration
+        kind: temporal
+        value: "six-week ceasefire"
+        source_urls:
+          - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+        verbatim_excerpt: "restarting drone production during the six-week ceasefire that began in early April"
+      - claim: Ceasefire start
+        kind: temporal
+        value: "early April"
+        source_urls:
+          - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+        verbatim_excerpt: "the six-week ceasefire that began in early April"
+      - claim: Iran military reconstitution timeline estimate
+        kind: temporal
+        value: "within six months"
+        source_urls:
+          - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+        verbatim_excerpt: "intelligence estimates suggesting full military reconstitution possible within six months"
+      - claim: Iran 14-point framework reference
+        kind: numerical
+        value: "14-point"
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "based on Iran's original 14-point framework"
+      - claim: Named person — Esmaeil Baghaei
+        kind: named_person
+        value: Esmaeil Baghaei
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "Foreign Ministry spokesman Esmaeil Baghaei confirmed"
+      - claim: Named person — Pakistan Army Chief Asim Munir
+        kind: named_person
+        value: Asim Munir
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "Pakistan Army Chief Asim Munir was travelling to Tehran"
+      - claim: Named person — Israeli PM Netanyahu (Bibi)
+        kind: named_person
+        value: Netanyahu
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "a 'tense' call between Trump and Israeli Prime Minister Netanyahu"
+      - claim: Named institution — Nour News (state-run)
+        kind: named_institution
+        value: Nour News
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "according to state-run agency Nour News"
+      - claim: Named institution — Iran Revolutionary Guard
+        kind: named_institution
+        value: "Iran's Revolutionary Guard"
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "Iran's Revolutionary Guard separately threatened to extend the regional conflict"
+      - claim: Named institution — Persian Gulf Strait Authority
+        kind: named_institution
+        value: Persian Gulf Strait Authority
+        source_urls:
+          - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+        verbatim_excerpt: "vessel authorisation from a Persian Gulf Strait Authority"
+      - claim: Byline reporter
+        kind: named_person
+        value: Sam Meredith
+        source_urls:
+          - "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        verbatim_excerpt: "Byline: Sam Meredith, CNBC"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "Believe me, if we don't get the right answers, it goes very quickly. We're all ready to go."
+        source_url: "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        context: Remarks to reporters on May 21, 2026 on timeline for Iran response
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "It could be a few days, but it could go very quickly."
+        source_url: "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        context: Remarks to reporters on May 21, 2026 on Iran negotiation timeline
+      - speaker_name: Esmaeil Baghaei
+        speaker_title: Foreign Ministry Spokesman, Islamic Republic of Iran
+        verbatim_en: "and are reviewing them"
+        source_url: "https://www.cnbcafrica.com/2026/iran-reviews-u-s-peace-proposal-as-trump-says-hes-willing-to-wait-a-few-days"
+        context: Confirmation that Iran received U.S. views, May 21, 2026
+
+  - story_id: trump-legislative-agenda-stumbles-iran-fund
+    category: politics
+    headline_en: "Trump's Legislative Agenda Stumbles as Republicans Defect on Iran War Powers, Anti-Weaponization Fund"
+    lead_url: "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+    body_source: full
+    corroborated_by:
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+    locked_urls:
+      - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+    hard_facts:
+      - claim: Week of political activity
+        kind: temporal
+        value: "week of May 18-21"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "during the week of May 18-21"
+      - claim: Kentucky primary — defeated incumbent
+        kind: named_person
+        value: Rep. Thomas Massie
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "backing Ed Gallrein, who defeated Rep. Thomas Massie in the Kentucky Republican primary"
+      - claim: Kentucky primary winner
+        kind: named_person
+        value: Ed Gallrein
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "backing Ed Gallrein, who defeated Rep. Thomas Massie in the Kentucky Republican primary"
+      - claim: Texas Senate runoff endorsement — challenger
+        kind: named_person
+        value: Ken Paxton
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "endorsing Ken Paxton over Sen. John Cornyn in the Texas Senate runoff"
+      - claim: Texas Senate runoff incumbent
+        kind: named_person
+        value: Sen. John Cornyn
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "endorsing Ken Paxton over Sen. John Cornyn in the Texas Senate runoff"
+      - claim: Texas Senate runoff date
+        kind: temporal
+        value: "May 26"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "the Texas Senate runoff scheduled May 26"
+      - claim: Anti-weaponization fund carveout amount
+        kind: numerical_with_unit
+        value: "nearly $1.8 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "the nearly $1.8 billion 'anti-weaponization' carveout in pending spending legislation"
+      - claim: Iran War Powers discharge petition sponsor
+        kind: named_person
+        value: "Rep. Kevin Kiley (R-Calif.)"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "a discharge petition route was being explored by Rep. Kevin Kiley (R-Calif.), who said he would 'likely' support it"
+      - claim: Named senator — Mike Rounds
+        kind: named_person
+        value: "Sen. Mike Rounds (R-S.D.)"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "Sen. Mike Rounds (R-S.D.) said the questions 'are going to be an attempt to address' on their side"
+      - claim: Named senator — Bill Cassidy
+        kind: named_person
+        value: "Sen. Bill Cassidy (R-La.)"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "Sen. Bill Cassidy (R-La.) called it 'a $1.8 billion fund for the President and his allies'"
+      - claim: Named representative — Brian Fitzpatrick
+        kind: named_person
+        value: "Rep. Brian Fitzpatrick (R-Pa.)"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "Rep. Brian Fitzpatrick (R-Pa.) vowed he would 'try to kill' the fund"
+      - claim: Named person — House Speaker Mike Johnson
+        kind: named_person
+        value: Mike Johnson
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "House Speaker Mike Johnson urged lawmakers to avoid 'trying to carve out their own lane'"
+      - claim: ICE and Border Patrol funding package size
+        kind: numerical_with_unit
+        value: "roughly $70 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "planning to release a roughly $70 billion ICE and Border Patrol funding package"
+      - claim: DOJ compensation fund subpoena vote result
+        kind: numerical_with_unit
+        value: "18-17"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "failed 18-17 on a subpoena vote for Acting AG Todd Blanche, Treasury Sec. Scott Bessent, and IRS Commissioner Billy Bisignano"
+      - claim: DOJ compensation fund amount
+        kind: numerical_with_unit
+        value: "$1.776 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "legislation to block the $1.776 billion DOJ compensation fund"
+      - claim: Trump approval rating
+        kind: numerical_with_unit
+        value: "37%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "Trump's approval rating stood at 37% in a New York Times/Siena poll"
+      - claim: Approval rating decline since January
+        kind: numerical_with_unit
+        value: "down 3 points from January"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "down 3 points from January"
+      - claim: Named person — Rep. Jamie Raskin
+        kind: named_person
+        value: Rep. Jamie Raskin
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "Rep. Jamie Raskin introduced legislation to block the $1.776 billion DOJ compensation fund"
+      - claim: Named person — Acting AG Todd Blanche
+        kind: named_person
+        value: Todd Blanche
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "subpoena vote for Acting AG Todd Blanche"
+      - claim: Named person — Treasury Sec. Scott Bessent
+        kind: named_person
+        value: Scott Bessent
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "Treasury Sec. Scott Bessent"
+      - claim: Named person — IRS Commissioner Billy Bisignano
+        kind: named_person
+        value: Billy Bisignano
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "IRS Commissioner Billy Bisignano"
+      - claim: Named institution — U.S. Cyber Command
+        kind: named_institution
+        value: U.S. Cyber Command
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "U.S. Cyber Command also announced a new AI hacking tool task force"
+      - claim: Named institution — New York Times/Siena poll
+        kind: named_institution
+        value: "New York Times/Siena"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "a New York Times/Siena poll released earlier in the week"
+      - claim: Byline reporters
+        kind: named_person
+        value: "Hans Nichols, Andrew Solender, Kate Santaliz"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        verbatim_excerpt: "Byline: Hans Nichols, Andrew Solender, Kate Santaliz"
+    quotes:
+      - speaker_name: Bill Cassidy
+        speaker_title: "Senator (R-La.)"
+        verbatim_en: "a $1.8 billion fund for the President and his allies."
+        source_url: "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        context: Senate floor remarks on anti-weaponization fund, May 21, 2026
+      - speaker_name: Brian Fitzpatrick
+        speaker_title: "Representative (R-Pa.)"
+        verbatim_en: "try to kill"
+        source_url: "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        context: Vow regarding anti-weaponization fund, May 21, 2026
+      - speaker_name: Mike Johnson
+        speaker_title: House Speaker
+        verbatim_en: "trying to carve out their own lane and do something that's destructive."
+        source_url: "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        context: Urging Republican lawmakers to stay unified, May 21, 2026
+      - speaker_name: Kevin Kiley
+        speaker_title: "Representative (R-Calif.)"
+        verbatim_en: "likely"
+        source_url: "https://www.axios.com/2026/05/21/trump-ballroom-anti-weaponization-fund-iran"
+        context: Indicating support for Iran War Powers discharge petition, May 21, 2026
+
+  - story_id: white-house-postpones-ai-eo-ceos-travel
+    category: tech
+    headline_en: "White House Postpones Trump AI Cybersecurity Executive Order Signing as Tech CEOs Cannot Reach Washington"
+    lead_url: "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+    body_source: full
+    corroborated_by:
+      - "https://www.bloomberg.com/news/articles/2026-05-21/white-house-postpones-ai-cybersecurity-order-signing-by-trump"
+      - "https://www.washingtonpost.com/technology/2026/05/21/white-house-tore-down-ai-rules-now-its-building-new-defenses/"
+    locked_urls:
+      - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+      - "https://www.bloomberg.com/news/articles/2026-05-21/white-house-postpones-ai-cybersecurity-order-signing-by-trump"
+      - "https://www.washingtonpost.com/technology/2026/05/21/white-house-tore-down-ai-rules-now-its-building-new-defenses/"
+    hard_facts:
+      - claim: EO signing postponement date
+        kind: temporal
+        value: "Thursday, May 21, 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "The White House postponed on Thursday the planned signing ceremony for a new artificial intelligence and cybersecurity executive order"
+      - claim: AI model pre-release window requirement in postponed EO
+        kind: temporal
+        value: "90 days before public release"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "AI developers are asked to provide their frontier AI models to the U.S. government 90 days before public release"
+      - claim: Named person — Elon Musk
+        kind: named_person
+        value: "Elon Musk (SpaceX/xAI)"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "including Elon Musk (SpaceX/xAI)"
+      - claim: Named person — Sundar Pichai
+        kind: named_person
+        value: "Sundar Pichai (Google)"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Sundar Pichai (Google)"
+      - claim: Named person — Sam Altman
+        kind: named_person
+        value: "Sam Altman (OpenAI)"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Sam Altman (OpenAI)"
+      - claim: Named person — Dario Amodei
+        kind: named_person
+        value: "Dario Amodei (Anthropic)"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Dario Amodei (Anthropic)"
+      - claim: Named institution — Google
+        kind: named_institution
+        value: Google
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Sundar Pichai (Google)"
+      - claim: Named institution — OpenAI
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Sam Altman (OpenAI)"
+      - claim: Named institution — Anthropic
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Dario Amodei (Anthropic)"
+      - claim: Named institution — SpaceX
+        kind: named_institution
+        value: SpaceX
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Elon Musk (SpaceX/xAI)"
+      - claim: Named institution — xAI
+        kind: named_institution
+        value: xAI
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Elon Musk (SpaceX/xAI)"
+      - claim: Named product — Anthropic Mythos AI model
+        kind: named_product
+        value: Mythos
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Anthropic's Mythos and OpenAI's GPT-5.5-Cyber"
+      - claim: Named product — OpenAI GPT-5.5-Cyber model
+        kind: named_product
+        value: GPT-5.5-Cyber
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Anthropic's Mythos and OpenAI's GPT-5.5-Cyber"
+      - claim: Biden-era AI oversight dismantled
+        kind: temporal
+        value: "early 2025"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "After dismantling Biden-era AI oversight rules in early 2025"
+      - claim: Byline reporter
+        kind: named_person
+        value: Ashley Gold
+        source_urls:
+          - "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        verbatim_excerpt: "Byline: Ashley Gold"
+    quotes:
+      - speaker_name: Anonymous sources
+        speaker_title: Sources to Axios
+        verbatim_en: "the CEOs were having trouble getting to Washington on short notice."
+        source_url: "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing"
+        context: Explanation for postponement of White House AI EO signing, May 21, 2026
+
+  - story_id: ai-convergence-openai-math-anthropic-nvidia
+    category: tech
+    headline_en: "AI Convergence: OpenAI Solves 80-Year Math Problem, Anthropic Eyes First Profit, Nvidia Posts Record Revenue"
+    lead_url: "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+    body_source: full
+    corroborated_by:
+      - "https://www.democracynow.org/2026/5/21/headlines"
+      - "https://www.cnbc.com/amp/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html"
+    locked_urls:
+      - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+      - "https://www.democracynow.org/2026/5/21/headlines"
+      - "https://www.cnbc.com/amp/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html"
+    hard_facts:
+      - claim: Date of AI milestone convergence
+        kind: temporal
+        value: "May 21, 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "A historic confluence of artificial intelligence milestones emerged on May 21, 2026"
+      - claim: Age of the geometry conjecture solved by OpenAI
+        kind: numerical_with_unit
+        value: "80-year-old"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "one of its general-purpose reasoning models had autonomously solved an 80-year-old geometry conjecture"
+      - claim: Anthropic Q2 2026 revenue projection
+        kind: numerical_with_unit
+        value: "$10.9 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "revenue projected at $10.9 billion, more than double prior estimates"
+      - claim: Anthropic estimated Q2 operating profit
+        kind: numerical_with_unit
+        value: "$559 million"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "with an estimated $559 million operating profit arriving two years ahead of internal forecasts"
+      - claim: Anthropic profitability ahead of forecast
+        kind: temporal
+        value: "two years ahead of internal forecasts"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "arriving two years ahead of internal forecasts"
+      - claim: Anthropic monthly SpaceX compute spend
+        kind: numerical_with_unit
+        value: "approximately $1.25 billion per month"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Anthropic separately committed approximately $1.25 billion per month through May 2029"
+      - claim: Anthropic SpaceX compute contract end date
+        kind: temporal
+        value: "May 2029"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "through May 2029 for access to SpaceX's Colossus and Colossus II supercomputing infrastructure"
+      - claim: Nvidia Q1 FY2027 revenue
+        kind: numerical_with_unit
+        value: "$81.6 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Nvidia Corp. reported $81.6 billion in first-quarter fiscal 2027 revenue"
+      - claim: Nvidia revenue year-over-year growth
+        kind: numerical_with_unit
+        value: "up 85% year-over-year"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "up 85% year-over-year"
+      - claim: Nvidia data centre revenue
+        kind: numerical_with_unit
+        value: "$75.2 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "data centre operations generating $75.2 billion (up 92% annually)"
+      - claim: Nvidia data centre revenue growth
+        kind: numerical_with_unit
+        value: "up 92% annually"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "data centre operations generating $75.2 billion (up 92% annually)"
+      - claim: Nvidia additional share repurchase authorisation
+        kind: numerical_with_unit
+        value: "$80 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Nvidia announced an $80 billion additional share repurchase authorisation"
+      - claim: Nvidia quarterly cash dividend — previous
+        kind: numerical_with_unit
+        value: "$0.01"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "raised its quarterly cash dividend from $0.01 to $0.25 per share"
+      - claim: Nvidia quarterly cash dividend — raised
+        kind: numerical_with_unit
+        value: "$0.25 per share"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "raised its quarterly cash dividend from $0.01 to $0.25 per share"
+      - claim: SpaceX targeted IPO valuation
+        kind: numerical_with_unit
+        value: "$1.75 trillion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "the company targeting a $1.75 trillion valuation"
+      - claim: SpaceX targeted IPO raise
+        kind: numerical_with_unit
+        value: "$75 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "a $75 billion raise — the largest U.S. IPO in history"
+      - claim: SpaceX S-1 filing date
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "SpaceX's S-1 IPO filing (released May 20)"
+      - claim: OpenAI IPO target debut
+        kind: temporal
+        value: "September 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "targeting a September 2026 public debut"
+      - claim: Public Agenda poll — Americans concerned about AI pace
+        kind: numerical_with_unit
+        value: "70%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "A Public Agenda poll found that 70% of Americans express concerns about the pace of AI advancement"
+      - claim: Public Agenda poll — doubt equitable AI economic benefits
+        kind: numerical_with_unit
+        value: "two-thirds"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "two-thirds doubt they will share equitably in AI's economic benefits"
+      - claim: Named person — Jensen Huang
+        kind: named_person
+        value: Jensen Huang
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "CEO Jensen Huang described AI chip demand as 'parabolic'"
+      - claim: Named person — Sundar Pichai
+        kind: named_person
+        value: Sundar Pichai
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Google CEO Sundar Pichai stated"
+      - claim: Named institution — Nvidia Corp.
+        kind: named_institution
+        value: Nvidia Corp.
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Nvidia Corp. reported $81.6 billion in first-quarter fiscal 2027 revenue"
+      - claim: Named institution — Anthropic
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Anthropic revealed it is on track for its first profitable quarter in Q2 2026"
+      - claim: Named institution — SpaceX
+        kind: named_institution
+        value: SpaceX
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "SpaceX's S-1 IPO filing (released May 20)"
+      - claim: Named institution — OpenAI
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "OpenAI announced that one of its general-purpose reasoning models"
+      - claim: Named product — Colossus supercomputer
+        kind: named_product
+        value: Colossus
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "SpaceX's Colossus and Colossus II supercomputing infrastructure"
+      - claim: Named product — Colossus II supercomputer
+        kind: named_product
+        value: Colossus II
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "SpaceX's Colossus and Colossus II supercomputing infrastructure"
+      - claim: Byline reporter
+        kind: named_person
+        value: Zachary Basu
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Byline: Zachary Basu"
+      - claim: Anthropic profitable quarter target
+        kind: temporal
+        value: "Q2 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "on track for its first profitable quarter in Q2 2026"
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia Corp.
+        verbatim_en: "parabolic"
+        source_url: "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        context: Characterisation of AI chip demand, Q1 FY2027 earnings, May 2026
+      - speaker_name: Sundar Pichai
+        speaker_title: CEO, Google
+        verbatim_en: "The competition is fierce. A few labs are really at the frontier and then there's a big gap."
+        source_url: "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        context: Comment on AI industry landscape, May 2026
+
+  - story_id: waymo-pauses-atlanta-robotaxi-flooding
+    category: tech
+    headline_en: "Waymo Pauses Atlanta Robotaxi Service After Vehicle Drives Into Flooded Street; Software Recall Proves Insufficient"
+    lead_url: "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+    hard_facts:
+      - claim: Atlanta suspension date
+        kind: temporal
+        value: "Thursday, May 21, 2026"
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "suspended operations in Atlanta, Georgia on Thursday, May 21, 2026"
+      - claim: Flooding incident date
+        kind: temporal
+        value: "Wednesday"
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "after one of its vehicles became immobilised in a flooded street on Wednesday"
+      - claim: Vehicle stranded duration
+        kind: temporal
+        value: "approximately one hour"
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "remained stranded for approximately one hour before recovery personnel arrived"
+      - claim: Second U.S. city suspension in 2026
+        kind: numerical
+        value: "second"
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "the second U.S. city in 2026 where Waymo has had to pause operations due to flooding-related incidents"
+      - claim: Previous city suspension
+        kind: named_institution
+        value: "San Antonio, Texas"
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "San Antonio, Texas, having experienced a similar suspension earlier"
+      - claim: Prior software recall timing
+        kind: temporal
+        value: "the prior week"
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "A software recall had been issued the prior week"
+      - claim: Santa Monica crash date
+        kind: temporal
+        value: "January"
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "a January robotaxi crash involving a child in Santa Monica, California"
+      - claim: Named institution — Alphabet Inc.
+        kind: named_institution
+        value: Alphabet Inc.
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "Alphabet Inc.'s Waymo autonomous robotaxi service"
+      - claim: Named institution — Waymo
+        kind: named_institution
+        value: Waymo
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "Alphabet Inc.'s Waymo autonomous robotaxi service suspended operations"
+      - claim: Named institution — National Weather Service
+        kind: named_institution
+        value: National Weather Service
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "flooding occurred before the National Weather Service had even issued formal alerts"
+      - claim: Byline reporter
+        kind: named_person
+        value: Sean O'Kane
+        source_urls:
+          - "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        verbatim_excerpt: "Byline: Sean O'Kane"
+    quotes:
+      - speaker_name: Waymo (company statement)
+        speaker_title: Waymo LLC
+        verbatim_en: "Safety is Waymo's top priority, both for our riders and everyone we share the road with."
+        source_url: "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+        context: Company statement issued following Atlanta suspension, May 21, 2026
+
+  - story_id: late-show-colbert-final-episode-cbs-33yr
+    category: society
+    headline_en: "The Late Show with Stephen Colbert Airs Its Final Episode After 11 Years, Ending CBS's 33-Year Late-Night Franchise"
+    lead_url: "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+    body_source: full
+    corroborated_by:
+      - "https://www.democracynow.org/2026/5/21/headlines"
+      - "https://www.yahoo.com/entertainment/tv/article/the-late-show-is-ending-on-may-21-heres-what-led-cbs-to-cancel-it--and-whats-next-for-stephen-colbert-and-late-night-181656467.html"
+      - "https://deadline.com/2026/05/late-show-with-stephen-colbert-final-week-guests-1236906782/"
+    locked_urls:
+      - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+      - "https://www.democracynow.org/2026/5/21/headlines"
+      - "https://www.yahoo.com/entertainment/tv/article/the-late-show-is-ending-on-may-21-heres-what-led-cbs-to-cancel-it--and-whats-next-for-stephen-colbert-and-late-night-181656467.html"
+      - "https://deadline.com/2026/05/late-show-with-stephen-colbert-final-week-guests-1236906782/"
+    hard_facts:
+      - claim: Final episode air date
+        kind: temporal
+        value: "Thursday night, May 21, 2026"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "The Late Show with Stephen Colbert aired its final episode Thursday night, May 21, 2026"
+      - claim: Venue
+        kind: named_institution
+        value: Ed Sullivan Theater
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "at the Ed Sullivan Theater in New York City"
+      - claim: Colbert's tenure as host
+        kind: temporal
+        value: "11-year run"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "ending Colbert's 11-year run as host"
+      - claim: Colbert takeover from Letterman date
+        kind: temporal
+        value: "September 2015"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "he took over from David Letterman in September 2015"
+      - claim: CBS Late Show franchise history
+        kind: temporal
+        value: "33-year history"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "the CBS Late Show franchise's 33-year history"
+      - claim: Late Show top-ranked streak
+        kind: temporal
+        value: "nine consecutive seasons"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "the top-ranked late-night broadcast for nine consecutive seasons"
+      - claim: Emmy Award win date
+        kind: temporal
+        value: "September 2025"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "won the Emmy Award for outstanding talk series in September 2025"
+      - claim: Named award — Emmy Award for outstanding talk series
+        kind: named_product
+        value: "Emmy Award for outstanding talk series"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "won the Emmy Award for outstanding talk series in September 2025"
+      - claim: CBS cancellation announcement date
+        kind: temporal
+        value: "July 2025"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "CBS announced the cancellation in July 2025"
+      - claim: Letterman as original host — tenure
+        kind: temporal
+        value: "1993 to 2015"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "David Letterman — the original host from 1993 to 2015"
+      - claim: Late Show time slot
+        kind: temporal
+        value: "11:35 p.m. ET"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "CBS sold the 11:35 p.m. ET time slot to Byron Allen's Allen Media Group"
+      - claim: Replacement show
+        kind: named_product
+        value: Comics Unleashed
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "'Comics Unleashed' will replace the franchise effective May 22"
+      - claim: Replacement show start date
+        kind: temporal
+        value: "May 22"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "effective May 22"
+      - claim: Paramount/Skydance merger timing relative to Colbert ouster
+        kind: temporal
+        value: "one week after Colbert's ouster announcement"
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "coincided with the completion of Paramount's merger with Skydance, which was approved one week after Colbert's ouster announcement"
+      - claim: Named person — Stephen Colbert
+        kind: named_person
+        value: Stephen Colbert
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "The Late Show with Stephen Colbert aired its final episode"
+      - claim: Named person — David Letterman
+        kind: named_person
+        value: David Letterman
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "David Letterman — the original host from 1993 to 2015"
+      - claim: Named person — Tom Hanks
+        kind: named_person
+        value: Tom Hanks
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Tom Hanks gifted Colbert a typewriter"
+      - claim: Named person — Jon Stewart
+        kind: named_person
+        value: Jon Stewart
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Jon Stewart brought massage chairs"
+      - claim: Named person — Andra Day
+        kind: named_person
+        value: Andra Day
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "arranged a performance by Andra Day"
+      - claim: Named person — David Byrne
+        kind: named_person
+        value: David Byrne
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "musician David Byrne performed a Talking Heads classic"
+      - claim: Named person — Bruce Springsteen
+        kind: named_person
+        value: Bruce Springsteen
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Bruce Springsteen appeared"
+      - claim: Named person — Jimmy Fallon
+        kind: named_person
+        value: Jimmy Fallon
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Jimmy Fallon, Jimmy Kimmel, Seth Meyers, and John Oliver reunited"
+      - claim: Named person — Jimmy Kimmel
+        kind: named_person
+        value: Jimmy Kimmel
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Jimmy Fallon, Jimmy Kimmel, Seth Meyers, and John Oliver reunited"
+      - claim: Named person — Seth Meyers
+        kind: named_person
+        value: Seth Meyers
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Jimmy Fallon, Jimmy Kimmel, Seth Meyers, and John Oliver reunited"
+      - claim: Named person — John Oliver
+        kind: named_person
+        value: John Oliver
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Jimmy Fallon, Jimmy Kimmel, Seth Meyers, and John Oliver reunited"
+      - claim: Named person — Byron Allen
+        kind: named_person
+        value: Byron Allen
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "CBS sold the 11:35 p.m. ET time slot to Byron Allen's Allen Media Group"
+      - claim: Named institution — CBS
+        kind: named_institution
+        value: CBS
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "CBS announced the cancellation in July 2025"
+      - claim: Named institution — Allen Media Group
+        kind: named_institution
+        value: Allen Media Group
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Byron Allen's Allen Media Group"
+      - claim: Named institution — Paramount
+        kind: named_institution
+        value: Paramount
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Paramount's merger with Skydance"
+      - claim: Named institution — Skydance
+        kind: named_institution
+        value: Skydance
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Paramount's merger with Skydance"
+      - claim: Named institution — People magazine
+        kind: named_institution
+        value: People magazine
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Colbert told People magazine"
+      - claim: Named product — Talking Heads
+        kind: named_product
+        value: Talking Heads
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "performed a Talking Heads classic in matching blue suits"
+      - claim: Named product — Strike Force Five
+        kind: named_product
+        value: Strike Force Five
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "reunited for a 'Strike Force Five' segment"
+      - claim: Byline reporter
+        kind: named_person
+        value: Kierra Frazier
+        source_urls:
+          - "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        verbatim_excerpt: "Byline: Kierra Frazier"
+    quotes:
+      - speaker_name: CBS (corporate statement)
+        speaker_title: CBS Network
+        verbatim_en: "purely a financial decision against a challenging backdrop in late night."
+        source_url: "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        context: CBS statement explaining Late Show cancellation, July 2025
+      - speaker_name: Stephen Colbert
+        speaker_title: Host, The Late Show with Stephen Colbert
+        verbatim_en: "never take for granted"
+        source_url: "https://www.cbsnews.com/news/stephen-colbert-late-show-farewell/"
+        context: Comment to People magazine about hosting opportunity
+
+  - story_id: spacex-s1-ipo-largest-us-history-musk
+    category: ipo_ma
+    headline_en: "SpaceX Files S-1 for Largest U.S. IPO in History, Targeting $1.75 Trillion Valuation; Dual-Class Structure Cements Musk's Lifelong Control"
+    lead_url: "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+    body_source: full
+    corroborated_by:
+      - "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm"
+      - "https://www.cnbc.com/amp/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html"
+      - "https://www.democracynow.org/2026/5/21/headlines"
+      - "https://www.bloomberg.com/news/articles/2026-05-21/us-stock-futures-today-applied-digital-deere-ibm-intuit-tesla"
+    locked_urls:
+      - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+      - "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm"
+      - "https://www.cnbc.com/amp/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html"
+      - "https://www.democracynow.org/2026/5/21/headlines"
+      - "https://www.bloomberg.com/news/articles/2026-05-21/us-stock-futures-today-applied-digital-deere-ibm-intuit-tesla"
+    hard_facts:
+      - claim: S-1 filing date
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+          - "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm"
+        verbatim_excerpt: "filed its Form S-1 registration statement with the U.S. Securities and Exchange Commission on May 20, 2026"
+      - claim: SpaceX Nasdaq ticker
+        kind: named_product
+        value: SPCX
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "list Class A common stock on the Nasdaq under the ticker 'SPCX'"
+      - claim: SpaceX targeted IPO valuation
+        kind: numerical_with_unit
+        value: "$1.75 trillion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+          - "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm"
+        verbatim_excerpt: "targeted valuation of $1.75 trillion — which would be the largest IPO in U.S. history"
+      - claim: SpaceX IPO raise target
+        kind: numerical_with_unit
+        value: "approximately $75 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "The company aims to raise approximately $75 billion from investors"
+      - claim: Saudi Aramco 2020 IPO size (for comparison)
+        kind: numerical_with_unit
+        value: "$29.4 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "approximately three times the scale of Saudi Aramco's $29.4 billion 2020 listing"
+      - claim: Saudi Aramco listing year
+        kind: temporal
+        value: "2020"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Saudi Aramco's $29.4 billion 2020 listing"
+      - claim: SpaceX 2025 revenue
+        kind: numerical_with_unit
+        value: "$18.5 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+          - "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm"
+        verbatim_excerpt: "The S-1 disclosed $18.5 billion in 2025 revenue"
+      - claim: Starlink share of SpaceX revenue
+        kind: numerical_with_unit
+        value: "more than half, approximately $11 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Starlink satellite internet accounting for more than half, approximately $11 billion"
+      - claim: SpaceX accumulated deficit
+        kind: numerical_with_unit
+        value: "$41.3 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+          - "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm"
+        verbatim_excerpt: "a $41.3 billion accumulated deficit"
+      - claim: Class A shares votes per share
+        kind: numerical
+        value: "one"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Class A shareholders one vote per share while insider-held Class B shares carry ten votes each"
+      - claim: Class B shares votes per share
+        kind: numerical
+        value: "ten"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "insider-held Class B shares carry ten votes each"
+      - claim: Musk total voting power
+        kind: numerical_with_unit
+        value: "approximately 85%"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "granting Musk approximately 85% of total voting power"
+      - claim: xAI incorporation into SpaceX date
+        kind: temporal
+        value: "May 6, 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "xAI folded into SpaceX as a wholly owned division in May 6, 2026"
+      - claim: xAI + SpaceX combined valuation at merger
+        kind: numerical_with_unit
+        value: "$1.25 trillion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "incorporated Elon Musk's xAI (including Grok AI and the X social media platform) in February 2026 for a combined valuation of $1.25 trillion"
+      - claim: xAI incorporation date
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "incorporated Elon Musk's xAI (including Grok AI and the X social media platform) in February 2026"
+      - claim: Roadshow launch target date
+        kind: temporal
+        value: "around June 4"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "The company targets a roadshow launch around June 4"
+      - claim: IPO pricing target date
+        kind: temporal
+        value: "June 11"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "IPO pricing on June 11"
+      - claim: Nasdaq listing target date
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Nasdaq listing on June 12"
+      - claim: SpaceX TAM — Space sector
+        kind: numerical_with_unit
+        value: "$370 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Space ($370 billion), Connectivity ($1.6 trillion), and AI ($26.5 trillion)"
+      - claim: SpaceX TAM — Connectivity sector
+        kind: numerical_with_unit
+        value: "$1.6 trillion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Space ($370 billion), Connectivity ($1.6 trillion), and AI ($26.5 trillion)"
+      - claim: SpaceX TAM — AI sector
+        kind: numerical_with_unit
+        value: "$26.5 trillion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Space ($370 billion), Connectivity ($1.6 trillion), and AI ($26.5 trillion)"
+      - claim: Named person — Elon Musk
+        kind: named_person
+        value: Elon Musk
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "granting Musk approximately 85% of total voting power"
+      - claim: Named person — Dorothy Lund
+        kind: named_person
+        value: Dorothy Lund
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Columbia Law Professor Dorothy Lund stated"
+      - claim: Named institution — Space Exploration Technologies Corp. (SpaceX)
+        kind: named_institution
+        value: Space Exploration Technologies Corp.
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Space Exploration Technologies Corp. (SpaceX) filed its Form S-1"
+      - claim: Named institution — SEC
+        kind: named_institution
+        value: U.S. Securities and Exchange Commission
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "filed its Form S-1 registration statement with the U.S. Securities and Exchange Commission"
+      - claim: Named institution — Nasdaq
+        kind: named_institution
+        value: Nasdaq
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "list Class A common stock on the Nasdaq"
+      - claim: Named institution — S&P 500 (index considering rule changes)
+        kind: named_product
+        value: S&P 500
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "the S&P 500 is considering similar changes"
+      - claim: Named institution — Columbia Law (Lund affiliation)
+        kind: named_institution
+        value: Columbia Law
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Columbia Law Professor Dorothy Lund"
+      - claim: Named institution — Harvard Law School
+        kind: named_institution
+        value: Harvard Law School
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Harvard Law School corporate governance experts cautioned"
+      - claim: Named product — Starlink
+        kind: named_product
+        value: Starlink
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Starlink satellite internet accounting for more than half, approximately $11 billion"
+      - claim: Named product — Grok AI
+        kind: named_product
+        value: Grok AI
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "incorporated Elon Musk's xAI (including Grok AI and the X social media platform)"
+      - claim: Named institution — Schwab (retail IPO access)
+        kind: named_institution
+        value: Schwab
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Retail participants at Schwab, Fidelity, Robinhood, SoFi, and E*TRADE"
+      - claim: Named institution — Fidelity
+        kind: named_institution
+        value: Fidelity
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Retail participants at Schwab, Fidelity, Robinhood, SoFi, and E*TRADE"
+      - claim: Named institution — Robinhood
+        kind: named_institution
+        value: Robinhood
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Retail participants at Schwab, Fidelity, Robinhood, SoFi, and E*TRADE"
+      - claim: Named institution — SoFi
+        kind: named_institution
+        value: SoFi
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Retail participants at Schwab, Fidelity, Robinhood, SoFi, and E*TRADE"
+      - claim: Named institution — E*TRADE
+        kind: named_institution
+        value: E*TRADE
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Retail participants at Schwab, Fidelity, Robinhood, SoFi, and E*TRADE"
+      - claim: Byline reporters
+        kind: named_person
+        value: "Emily Peck and Matt Phillips"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        verbatim_excerpt: "Byline: Emily Peck and Matt Phillips"
+    quotes:
+      - speaker_name: Dorothy Lund
+        speaker_title: Professor, Columbia Law School
+        verbatim_en: "This set of extreme governance provisions will essentially eliminate investor input into the company for the duration of its life."
+        source_url: "https://www.axios.com/2026/05/21/musk-ceo-spacex-control"
+        context: Comment on SpaceX dual-class IPO governance structure, May 2026
+
+  - story_id: openai-confidential-ipo-filing-850b-sept
+    category: ipo_ma
+    headline_en: "OpenAI Prepares Confidential IPO Filing, Targeting September Debut at $850 Billion-Plus Valuation"
+    lead_url: "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+    body_source: full
+    corroborated_by:
+      - "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html"
+      - "https://www.bloomberg.com/news/articles/2026-05-20/openai-preparing-for-ipo-filing-in-days-or-weeks-wsj-reports"
+      - "https://www.democracynow.org/2026/5/21/headlines"
+    locked_urls:
+      - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+      - "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html"
+      - "https://www.bloomberg.com/news/articles/2026-05-20/openai-preparing-for-ipo-filing-in-days-or-weeks-wsj-reports"
+      - "https://www.democracynow.org/2026/5/21/headlines"
+    hard_facts:
+      - claim: OpenAI confidential filing target date
+        kind: temporal
+        value: "as soon as May 22, 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "preparing to confidentially file its draft IPO registration statement with the U.S. Securities and Exchange Commission as soon as May 22, 2026"
+      - claim: CNBC and Bloomberg advance reporting date
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "according to sources cited by CNBC and Bloomberg on May 20"
+      - claim: OpenAI IPO lead underwriters
+        kind: named_institution
+        value: "Goldman Sachs and Morgan Stanley"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "working with Goldman Sachs and Morgan Stanley as lead underwriters"
+      - claim: OpenAI target public debut
+        kind: temporal
+        value: "September 2026"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "targeting a public debut in September 2026"
+      - claim: OpenAI private valuation
+        kind: numerical_with_unit
+        value: "more than $850 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "OpenAI is privately valued at more than $850 billion by investors"
+      - claim: OpenAI cumulative investor fundraising
+        kind: numerical_with_unit
+        value: "more than $180 billion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "having raised more than $180 billion from investors cumulatively"
+      - claim: OpenAI geometry conjecture announcement date
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "On May 20, OpenAI separately announced that one of its general-purpose reasoning models had autonomously solved an 80-year-old geometry conjecture"
+      - claim: Age of geometry conjecture solved
+        kind: numerical_with_unit
+        value: "80-year-old"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "autonomously solved an 80-year-old geometry conjecture"
+      - claim: Anthropic potential public offering valuation
+        kind: numerical_with_unit
+        value: "more than $1 trillion"
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Anthropic is simultaneously preparing for a public offering that could value it at more than $1 trillion"
+      - claim: Named person — Sam Altman
+        kind: named_person
+        value: Sam Altman
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "CEO Sam Altman made a 'mic drop' offer to all Y Combinator startups"
+      - claim: Named institution — OpenAI
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "OpenAI, the maker of ChatGPT"
+      - claim: Named institution — Goldman Sachs
+        kind: named_institution
+        value: Goldman Sachs
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "working with Goldman Sachs and Morgan Stanley as lead underwriters"
+      - claim: Named institution — Morgan Stanley
+        kind: named_institution
+        value: Morgan Stanley
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "working with Goldman Sachs and Morgan Stanley as lead underwriters"
+      - claim: Named institution — Anthropic
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "Anthropic is simultaneously preparing for a public offering"
+      - claim: Named institution — Y Combinator
+        kind: named_institution
+        value: Y Combinator
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "CEO Sam Altman made a 'mic drop' offer to all Y Combinator startups"
+      - claim: Named institution — SEC
+        kind: named_institution
+        value: U.S. Securities and Exchange Commission
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "confidentially file its draft IPO registration statement with the U.S. Securities and Exchange Commission"
+      - claim: Named product — ChatGPT
+        kind: named_product
+        value: ChatGPT
+        source_urls:
+          - "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex"
+        verbatim_excerpt: "OpenAI, the maker of ChatGPT"
+    quotes: []
+
+  - story_id: capitol-police-sue-anti-weaponization-fund
+    category: other
+    headline_en: "Two Capitol Police Officers Sue Trump Administration to Block Payouts from $1.8 Billion \"Anti-Weaponization\" Fund"
+    lead_url: "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+    body_source: full
+    corroborated_by:
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+      - "https://www.washingtonpost.com/politics/2026/05/20/lawsuit-is-first-known-legal-challenge-new-18-billion-fund/"
+    locked_urls:
+      - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+      - "https://www.washingtonpost.com/politics/2026/05/20/lawsuit-is-first-known-legal-challenge-new-18-billion-fund/"
+    hard_facts:
+      - claim: Lawsuit filing date
+        kind: temporal
+        value: "Thursday, May 21, 2026"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "filed a federal lawsuit Thursday, May 21, 2026"
+      - claim: Anti-Weaponization Fund amount
+        kind: numerical_with_unit
+        value: "$1.776 billion"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "the Trump administration's $1.776 billion 'Anti-Weaponization Fund'"
+      - claim: January 6 insurrection date
+        kind: temporal
+        value: "January 6, 2021"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "who defended the U.S. Capitol during the January 6, 2021, insurrection"
+      - claim: Fund origin — Trump IRS lawsuit amount
+        kind: numerical_with_unit
+        value: "$10 billion"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "a settlement of Trump's $10 billion lawsuit against the IRS over the leak of his tax returns"
+      - claim: Jake Lang's expected payout for misdemeanor defendants
+        kind: numerical_with_unit
+        value: "hundreds of thousands of dollars"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "expected misdemeanor defendants to receive hundreds of thousands of dollars"
+      - claim: Median Capitol riot sentence
+        kind: temporal
+        value: "30 days"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "NPR data found the median Capitol riot sentence was 30 days"
+      - claim: Share of defendants receiving no jail time
+        kind: numerical_with_unit
+        value: "approximately one-third"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "approximately one-third of defendants receiving no jail time at all"
+      - claim: Trump blanket pardon date
+        kind: temporal
+        value: "January 2025"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "sentences having been voided by Trump's blanket pardons in January 2025"
+      - claim: Total January 6 charges
+        kind: numerical_with_unit
+        value: "Nearly 1,600 people"
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "Nearly 1,600 people were originally charged in connection with January 6"
+      - claim: Named person — Daniel Hodges
+        kind: named_person
+        value: Daniel Hodges
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "Metropolitan Police Department officer Daniel Hodges"
+      - claim: Named person — Harry Dunn
+        kind: named_person
+        value: Harry Dunn
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "former U.S. Capitol Police officer Harry Dunn (currently running as a Democratic congressional candidate in Maryland)"
+      - claim: Named person — Acting AG Todd Blanche
+        kind: named_person
+        value: Todd Blanche
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "The suit names Acting Attorney General Todd Blanche"
+      - claim: Named person — Treasury Secretary Scott Bessent
+        kind: named_person
+        value: Scott Bessent
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "Treasury Secretary Scott Bessent as defendants"
+      - claim: Named person — legal expert Brendan Ballou
+        kind: named_person
+        value: Brendan Ballou
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "Legal expert Brendan Ballou called the arrangement potentially 'the most corrupt act of presidential power'"
+      - claim: Named person — Jan. 6 rioter Jake Lang
+        kind: named_person
+        value: Jake Lang
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "Jan. 6 rioter Jake Lang — who attacked police with a bat"
+      - claim: Named institution — Metropolitan Police Department
+        kind: named_institution
+        value: Metropolitan Police Department
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "Metropolitan Police Department officer Daniel Hodges"
+      - claim: Named institution — U.S. Capitol Police
+        kind: named_institution
+        value: U.S. Capitol Police
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "former U.S. Capitol Police officer Harry Dunn"
+      - claim: Named institution — IRS
+        kind: named_institution
+        value: IRS
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "a settlement of Trump's $10 billion lawsuit against the IRS"
+      - claim: Byline reporter
+        kind: named_person
+        value: Tom Dreisbach
+        source_urls:
+          - "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        verbatim_excerpt: "Byline: Tom Dreisbach, NPR"
+    quotes:
+      - speaker_name: Brendan Ballou
+        speaker_title: Legal expert
+        verbatim_en: "the most corrupt act of presidential power"
+        source_url: "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        context: Characterisation of Anti-Weaponization Fund arrangement, May 21, 2026
+      - speaker_name: Daniel Hodges
+        speaker_title: Metropolitan Police Department officer, plaintiff
+        verbatim_en: "If they get this payout, then they'll have significant financial"
+        source_url: "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        context: Officer Hodges on concern about Jan. 6 defendants receiving Anti-Weaponization Fund payouts
+      - speaker_name: (Lawsuit filing)
+        speaker_title: Plaintiffs Hodges and Dunn
+        verbatim_en: "No statute authorizes its creation, the settlement on which it is premised is a corrupt sham, and its design violates the Constitution and federal law."
+        source_url: "https://www.wfae.org/united-states-world/2026-05-21/officers-who-defended-capitol-from-rioters-sue-to-block-payouts-from-fund"
+        context: Text of federal lawsuit filed May 21, 2026
+
+  - story_id: doj-charges-raul-castro-1996-shootdown
+    category: other
+    headline_en: "DOJ Charges Former Cuban President Raúl Castro with Murder in 1996 Brothers to the Rescue Shootdown"
+    lead_url: "https://www.democracynow.org/2026/5/21/headlines"
+    body_source: full
+    corroborated_by:
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+      - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+      - "https://www.npr.org/2026/05/20/g-s1-122383/us-cuba-raul-castro-indictment"
+    locked_urls:
+      - "https://www.democracynow.org/2026/5/21/headlines"
+      - "https://www.justsecurity.org/139509/early-edition-may-21-2026/"
+      - "https://www.cnbc.com/2026/05/20/doj-charges-former-cuban-president-raul-castro.html"
+      - "https://www.npr.org/2026/05/20/g-s1-122383/us-cuba-raul-castro-indictment"
+    hard_facts:
+      - claim: Charges unsealed date
+        kind: temporal
+        value: "May 20-21, 2026"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "The U.S. Department of Justice unsealed murder charges on May 20-21, 2026"
+      - claim: Raúl Castro age
+        kind: numerical_with_unit
+        value: "94-year-old"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Raúl Castro, the 94-year-old former President of Cuba"
+      - claim: Shootdown year
+        kind: temporal
+        value: "1996"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "his alleged role in ordering the 1996 shootdown of two civilian aircraft"
+      - claim: Number of aircraft shot down
+        kind: numerical
+        value: "two"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "ordering the 1996 shootdown of two civilian aircraft"
+      - claim: Number killed in shootdown
+        kind: numerical
+        value: "Four"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Four individuals were killed when a Cuban MiG-29 shot down the planes"
+      - claim: Aircraft type used in shootdown
+        kind: named_product
+        value: MiG-29
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "a Cuban MiG-29 shot down the planes over international waters"
+      - claim: Shootdown location
+        kind: named_institution
+        value: "international waters"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "shot down the planes over international waters"
+      - claim: Charges against Castro
+        kind: named_institution
+        value: "conspiracy to kill U.S. nationals, destruction of aircraft, and four individual counts of murder"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "face charges of conspiracy to kill U.S. nationals, destruction of aircraft, and four individual counts of murder"
+      - claim: Maximum sentence if convicted
+        kind: named_institution
+        value: "life in prison"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "if convicted, Castro faces a maximum sentence of life in prison"
+      - claim: USS Nimitz arrival date in Caribbean
+        kind: temporal
+        value: "May 21"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "The USS Nimitz carrier strike group arrived in the southern Caribbean on May 21"
+      - claim: Rubio food/medicine offer amount
+        kind: numerical_with_unit
+        value: "$100 million"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Secretary of State Marco Rubio offered $100 million in food and medicine to Cuba"
+      - claim: IEEPA executive order date
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "executive order in May 2026 sanctioning Cuban military and government officials under IEEPA"
+      - claim: Named person — Raúl Castro
+        kind: named_person
+        value: Raúl Castro
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Raúl Castro, the 94-year-old former President of Cuba"
+      - claim: Named person — Acting AG Todd Blanche
+        kind: named_person
+        value: Todd Blanche
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Acting Attorney General Todd Blanche announced the indictment at Miami's Freedom Tower"
+      - claim: Named person — Secretary of State Marco Rubio
+        kind: named_person
+        value: Marco Rubio
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Secretary of State Marco Rubio offered $100 million in food and medicine to Cuba"
+      - claim: Named person — Cuban President Miguel Díaz-Canel
+        kind: named_person
+        value: Miguel Díaz-Canel
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Cuban President Miguel Díaz-Canel called the indictment 'a political move by the U.S.'"
+      - claim: Named person — Deputy Foreign Minister Carlos Fernández de Cossío
+        kind: named_person
+        value: Carlos Fernández de Cossío
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Deputy Foreign Minister Carlos Fernández de Cossío warned of 'fierce resistance'"
+      - claim: Named institution — U.S. Department of Justice
+        kind: named_institution
+        value: U.S. Department of Justice
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "The U.S. Department of Justice unsealed murder charges"
+      - claim: Named institution — Brothers to the Rescue
+        kind: named_institution
+        value: Brothers to the Rescue
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "the Miami-based Cuban exile organisation Brothers to the Rescue"
+      - claim: Named institution — USS Nimitz carrier strike group
+        kind: named_product
+        value: USS Nimitz
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "The USS Nimitz carrier strike group arrived in the southern Caribbean"
+      - claim: Named institution — Miami Freedom Tower
+        kind: named_institution
+        value: "Miami's Freedom Tower"
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "Acting Attorney General Todd Blanche announced the indictment at Miami's Freedom Tower"
+      - claim: Named institution — Catholic Church (distribution partner)
+        kind: named_institution
+        value: Catholic Church
+        source_urls:
+          - "https://www.democracynow.org/2026/5/21/headlines"
+        verbatim_excerpt: "with distribution through the Catholic Church or trusted charities"
+    quotes:
+      - speaker_name: Marco Rubio
+        speaker_title: U.S. Secretary of State
+        verbatim_en: "We in the U.S. are offering to help you not only alleviate the current crisis."
+        source_url: "https://www.democracynow.org/2026/5/21/headlines"
+        context: Rubio statement announcing food/medicine offer to Cuba, May 21, 2026
+      - speaker_name: Miguel Díaz-Canel
+        speaker_title: President of Cuba
+        verbatim_en: "a political move by the U.S. with no grounding in the law"
+        source_url: "https://www.democracynow.org/2026/5/21/headlines"
+        context: Cuban president's response to DOJ indictment of Raúl Castro, May 21, 2026
+      - speaker_name: Carlos Fernández de Cossío
+        speaker_title: Deputy Foreign Minister of Cuba
+        verbatim_en: "fierce resistance"
+        source_url: "https://www.democracynow.org/2026/5/21/headlines"
+        context: Warning regarding potential U.S. military action related to Cuba, May 21, 2026
