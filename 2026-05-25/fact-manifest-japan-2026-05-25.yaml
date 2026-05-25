@@ -1,0 +1,484 @@
+version: 1
+generated_at: "2026-05-25T10:00:00Z"
+country: Japan
+date: "2026-05-25"
+total_stories: 8
+stories:
+  - story_id: nikkei-225-tops-65000-semiconductor-stocks
+    category: econ
+    headline_en: Nikkei 225 Tops 65,000 for First Time, Led by Semiconductor Stocks and Iran Deal Hopes
+    lead_url: https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+    hard_facts:
+      - claim: Nikkei 225 point surge
+        kind: numerical_with_unit
+        value: "over 1,900 points"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "Japan's Nikkei 225 stock average surged over 1,900 points on Monday morning to exceed 65,000 for the first time"
+      - claim: Nikkei 225 threshold exceeded
+        kind: numerical
+        value: "65,000"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "surged over 1,900 points on Monday morning to exceed 65,000 for the first time"
+      - claim: Nikkei 225 index level at 9:49 a.m.
+        kind: numerical_with_unit
+        value: "65,254.00"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "At 9:49 a.m., the index stood at 65,254.00, up 1,914.93 points (3.02%) from Friday"
+      - claim: Nikkei 225 point gain from Friday
+        kind: numerical_with_unit
+        value: "1,914.93 points"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "up 1,914.93 points (3.02%) from Friday"
+      - claim: Nikkei 225 percentage gain from Friday
+        kind: numerical_with_unit
+        value: "3.02%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "up 1,914.93 points (3.02%) from Friday"
+      - claim: observation time of Nikkei reading
+        kind: temporal
+        value: "9:49 a.m."
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "At 9:49 a.m., the index stood at 65,254.00"
+      - claim: SoftBank Group share gain
+        kind: numerical_with_unit
+        value: "over 5%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "SoftBank Group jumped over 5%"
+      - claim: Tokyo Electron share gain
+        kind: numerical_with_unit
+        value: "more than 3%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "Tokyo Electron rose more than 3%"
+      - claim: Advantest share gain
+        kind: numerical_with_unit
+        value: "nearly 5%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "Advantest gained nearly 5%"
+      - claim: JPMorgan Nikkei year-end target
+        kind: numerical
+        value: "70,000"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "JPMorgan projects the Nikkei will reach 70,000 by year-end"
+      - claim: named institution SoftBank Group
+        kind: named_institution
+        value: SoftBank Group
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "SoftBank Group jumped over 5%"
+      - claim: named institution Tokyo Electron
+        kind: named_institution
+        value: Tokyo Electron
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "Tokyo Electron rose more than 3%"
+      - claim: named institution Advantest
+        kind: named_institution
+        value: Advantest
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "Advantest gained nearly 5%"
+      - claim: named institution Kioxia Holdings
+        kind: named_institution
+        value: Kioxia Holdings
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "Kioxia Holdings also contributed"
+      - claim: named institution JPMorgan
+        kind: named_institution
+        value: JPMorgan
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/markets/japan-nikkei-stock-average-tops-65000/
+        verbatim_excerpt: "JPMorgan projects the Nikkei will reach 70,000 by year-end"
+    quotes: []
+
+  - story_id: idemitsu-maru-tanker-hormuz-arrival-japan
+    category: econ
+    headline_en: Idemitsu Maru Oil Tanker Arrives in Japan After Historic Strait of Hormuz Passage
+    lead_url: https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+    hard_facts:
+      - claim: named product tanker Idemitsu Maru
+        kind: named_product
+        value: Idemitsu Maru
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "The very large crude carrier Idemitsu Maru arrived at Nagoya Port (Ise Bay Sea Berth) on May 25"
+      - claim: arrival port
+        kind: named_institution
+        value: Nagoya Port (Ise Bay Sea Berth)
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "arrived at Nagoya Port (Ise Bay Sea Berth) on May 25"
+      - claim: arrival date
+        kind: temporal
+        value: May 25
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "arrived at Nagoya Port (Ise Bay Sea Berth) on May 25"
+      - claim: onset of US-Israel-Iran conflict
+        kind: temporal
+        value: late February 2026
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "since the US-Israel–Iran conflict erupted in late February 2026"
+      - claim: crude cargo volume in barrels
+        kind: numerical_with_unit
+        value: "approximately 2 million barrels"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "The vessel carries approximately 2 million barrels (300,000 kiloliters) of Saudi crude"
+      - claim: crude cargo volume in kiloliters
+        kind: numerical_with_unit
+        value: "300,000 kiloliters"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "approximately 2 million barrels (300,000 kiloliters) of Saudi crude"
+      - claim: cargo origin port
+        kind: named_institution
+        value: Ras Tanura
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "Saudi crude from Ras Tanura"
+      - claim: Japan crude imports from Middle East decline April YoY
+        kind: numerical_with_unit
+        value: "67.2%"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "Japan's crude imports from the Middle East fell 67.2% in April year-on-year"
+      - claim: pre-war Middle East share of Japan crude imports
+        kind: numerical_with_unit
+        value: "more than 90%"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "before the war, the region supplied more than 90% of Japan's crude imports"
+      - claim: vessels stranded near strait
+        kind: numerical_with_unit
+        value: "Around 40 vessels"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "Around 40 vessels remain stranded near the strait"
+      - claim: named product second tanker ENEOS Endeavor
+        kind: named_product
+        value: ENEOS Endeavor
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "A second tanker, ENEOS Endeavor, is expected to arrive May 30"
+      - claim: expected arrival date of ENEOS Endeavor
+        kind: temporal
+        value: May 30
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052500167/idemitsu-oil-tanker-arrives-in-japan-after-hormuz-passage.html
+        verbatim_excerpt: "ENEOS Endeavor, is expected to arrive May 30"
+    quotes: []
+
+  - story_id: japan-jgb-10yr-yield-2-70-regional-banks
+    category: econ
+    headline_en: Japan JGB 10-Year Yield Eases to 2.70% but Bond Surge Widens Regional Bank Stock Divide
+    lead_url: https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+    hard_facts:
+      - claim: Japan 10-year JGB yield on May 25
+        kind: numerical_with_unit
+        value: "2.70%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "Japan's 10-year JGB yield stood at 2.70% on May 25"
+      - claim: JGB yield easing from previous session
+        kind: numerical_with_unit
+        value: "7 basis points"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "easing 7 basis points from the previous session"
+      - claim: JGB yield peak level
+        kind: numerical_with_unit
+        value: "~2.80%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "peaked ~2.80% on May 18, highest since October 1996"
+      - claim: date of JGB yield peak
+        kind: temporal
+        value: May 18
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "peaked ~2.80% on May 18, highest since October 1996"
+      - claim: historical benchmark for yield high
+        kind: temporal
+        value: October 1996
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "highest since October 1996"
+      - claim: number of listed regional banks in Japan
+        kind: numerical
+        value: "73"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "Japan's 73 listed regional banks"
+      - claim: named institution only regional bank to post net loss
+        kind: named_institution
+        value: Towa Bank
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "Towa Bank was the only regional lender to post a net loss in FY2026 after writing down unrealized JGB losses"
+      - claim: fiscal year of Towa Bank net loss
+        kind: temporal
+        value: FY2026
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "post a net loss in FY2026 after writing down unrealized JGB losses"
+      - claim: combined regional bank net income rise percentage
+        kind: numerical_with_unit
+        value: "36.7%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "Combined net income for regional banks rose 36.7% to ¥1.7118 trillion in FY2026"
+      - claim: combined regional bank net income total
+        kind: numerical_with_unit
+        value: "¥1.7118 trillion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/05/25/companies/japan-bond-yield-surge-regional-banks-gap/
+        verbatim_excerpt: "Combined net income for regional banks rose 36.7% to ¥1.7118 trillion in FY2026"
+    quotes: []
+
+  - story_id: mof-5yr-climate-transition-jgb-auction
+    category: econ
+    headline_en: MOF Completes 5-Year Climate Transition JGB Auction
+    lead_url: https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260525.htm
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260525.htm
+    hard_facts:
+      - claim: named institution Ministry of Finance Japan
+        kind: named_institution
+        value: Ministry of Finance Japan
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260525.htm
+        verbatim_excerpt: "The Ministry of Finance Japan published results of the 5-year Climate Transition JGB auction"
+      - claim: JGB auction term
+        kind: numerical_with_unit
+        value: "5-year"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260525.htm
+        verbatim_excerpt: "results of the 5-year Climate Transition JGB auction conducted on May 25, 2026"
+      - claim: auction date
+        kind: temporal
+        value: May 25, 2026
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260525.htm
+        verbatim_excerpt: "5-year Climate Transition JGB auction conducted on May 25, 2026"
+    quotes: []
+
+  - story_id: xi-criticizes-takaichi-japan-rearmament-trump
+    category: politics
+    headline_en: Xi Jinping Publicly Criticized Japan's Defense Minister Takaichi Over Rearmament During Trump Summit
+    lead_url: https://www.japantimes.co.jp/news/2026/05/25/japan/politics/takaichi-trump-xi-china-japan/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.japantimes.co.jp/news/2026/05/25/japan/politics/takaichi-trump-xi-china-japan/
+    hard_facts:
+      - claim: named person Chinese President Xi Jinping
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/05/25/japan/politics/takaichi-trump-xi-china-japan/
+        verbatim_excerpt: "Chinese President Xi Jinping sharply criticized Japanese Prime Minister Sanae Takaichi"
+      - claim: named person Japanese Prime Minister Sanae Takaichi
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/05/25/japan/politics/takaichi-trump-xi-china-japan/
+        verbatim_excerpt: "Chinese President Xi Jinping sharply criticized Japanese Prime Minister Sanae Takaichi over Japan's ongoing military rearmament program"
+      - claim: named person U.S. President Donald Trump
+        kind: named_person
+        value: Donald Trump
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/05/25/japan/politics/takaichi-trump-xi-china-japan/
+        verbatim_excerpt: "during Xi's recent meeting with U.S. President Donald Trump"
+      - claim: named institution Financial Times as original reporter
+        kind: named_institution
+        value: Financial Times
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/05/25/japan/politics/takaichi-trump-xi-china-japan/
+        verbatim_excerpt: "The incident — first reported by the Financial Times"
+      - claim: Japan defense budget change
+        kind: numerical
+        value: "doubling"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/05/25/japan/politics/takaichi-trump-xi-china-japan/
+        verbatim_excerpt: "which has included a doubling of Japan's defense budget"
+    quotes: []
+
+  - story_id: trump-no-rush-iran-deal-blockade-stays
+    category: politics
+    headline_en: Trump Says No Rush on Iran Deal as Blockade Stays; Japan Watches Closely
+    lead_url: https://www.japantimes.co.jp/news/2026/05/25/world/politics/trump-iran-deal-us-blockade/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.japantimes.co.jp/news/2026/05/25/world/politics/trump-iran-deal-us-blockade/
+    hard_facts:
+      - claim: ceasefire extension duration under proposed deal
+        kind: numerical_with_unit
+        value: "60 days"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/05/25/world/politics/trump-iran-deal-us-blockade/
+        verbatim_excerpt: "a deal that would extend their ceasefire 60 days"
+      - claim: date of status report
+        kind: temporal
+        value: May 25, 2026
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/05/25/world/politics/trump-iran-deal-us-blockade/
+        verbatim_excerpt: "As of May 25, 2026, the U.S. and Iran remain in negotiations"
+      - claim: named institution Iran's Foreign Ministry
+        kind: named_institution
+        value: Iran's Foreign Ministry
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/05/25/world/politics/trump-iran-deal-us-blockade/
+        verbatim_excerpt: "Iran's Foreign Ministry said sides are in the \"final stage\" of a memorandum of understanding"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: U.S. President
+        verbatim_en: "largely negotiated"
+        source_url: https://www.japantimes.co.jp/news/2026/05/25/world/politics/trump-iran-deal-us-blockade/
+        context: public statement as of May 25, 2026 on Iran deal status
+      - speaker_name: Donald Trump
+        speaker_title: U.S. President
+        verbatim_en: "announced soon"
+        source_url: https://www.japantimes.co.jp/news/2026/05/25/world/politics/trump-iran-deal-us-blockade/
+        context: public statement as of May 25, 2026 on Iran deal timeline
+      - speaker_name: Iran's Foreign Ministry
+        speaker_title: Iran's Foreign Ministry spokesperson
+        verbatim_en: "final stage"
+        source_url: https://www.japantimes.co.jp/news/2026/05/25/world/politics/trump-iran-deal-us-blockade/
+        context: statement on memorandum of understanding negotiations, May 25, 2026
+
+  - story_id: toxic-spray-ginza-six-shopping-centre-tokyo
+    category: society
+    headline_en: Toxic Spray Attack at Ginza Six Shopping Centre Leaves Dozens Ill, Mass Evacuation Ordered
+    lead_url: https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+    hard_facts:
+      - claim: number of people injured
+        kind: numerical_with_unit
+        value: "Around 20 people"
+        source_urls:
+          - https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+        verbatim_excerpt: "Around 20 people were injured and dozens more felt unwell"
+      - claim: incident date
+        kind: temporal
+        value: May 25, 2026
+        source_urls:
+          - https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+        verbatim_excerpt: "sprayed at Ginza Six, a luxury shopping centre in central Tokyo, on May 25, 2026"
+      - claim: named institution Ginza Six
+        kind: named_institution
+        value: Ginza Six
+        source_urls:
+          - https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+        verbatim_excerpt: "an unknown substance was sprayed at Ginza Six, a luxury shopping centre in central Tokyo"
+      - claim: time police were called
+        kind: temporal
+        value: "around midday JST"
+        source_urls:
+          - https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+        verbatim_excerpt: "A woman called police around midday JST reporting a \"pungent odour\" and people coughing"
+      - claim: number of people with sore throats
+        kind: numerical_with_unit
+        value: "At least 15 people"
+        source_urls:
+          - https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+        verbatim_excerpt: "At least 15 people reported sore throats"
+      - claim: number of fire department vehicles dispatched
+        kind: numerical_with_unit
+        value: "53 fire department vehicles"
+        source_urls:
+          - https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+        verbatim_excerpt: "53 fire department vehicles were dispatched"
+    quotes:
+      - speaker_name: unnamed woman caller
+        speaker_title: member of public
+        verbatim_en: "pungent odour"
+        source_url: https://www.euronews.com/2026/05/25/around-20-people-injured-after-spraying-incident-at-tokyo-mall-atm-police-say
+        context: phone call to police around midday JST, May 25, 2026, reporting spray incident at Ginza Six
+
+  - story_id: japan-business-delegation-russia-may-26
+    category: other
+    headline_en: Japan Confirms Business Delegation to Depart for Russia on May 26 to Protect Corporate Assets
+    lead_url: https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+    hard_facts:
+      - claim: delegation departure and visit dates
+        kind: temporal
+        value: May 26-27, 2026
+        source_urls:
+          - https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+        verbatim_excerpt: "plans to send a high-level business delegation to Moscow on May 26-27, 2026"
+      - claim: named institution Mitsui and Co.
+        kind: named_institution
+        value: "Mitsui & Co."
+        source_urls:
+          - https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+        verbatim_excerpt: "The delegation includes representatives of Mitsui & Co., Mitsui O.S.K. Lines Ltd., and likely Mitsubishi Corp."
+      - claim: named institution Mitsui OSK Lines
+        kind: named_institution
+        value: Mitsui O.S.K. Lines Ltd.
+        source_urls:
+          - https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+        verbatim_excerpt: "The delegation includes representatives of Mitsui & Co., Mitsui O.S.K. Lines Ltd., and likely Mitsubishi Corp."
+      - claim: named institution Mitsubishi Corp.
+        kind: named_institution
+        value: Mitsubishi Corp.
+        source_urls:
+          - https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+        verbatim_excerpt: "The delegation includes representatives of Mitsui & Co., Mitsui O.S.K. Lines Ltd., and likely Mitsubishi Corp."
+      - claim: named institution Russia Ministry of Industry and Trade
+        kind: named_institution
+        value: "Russia's Ministry of Industry and Trade"
+        source_urls:
+          - https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+        verbatim_excerpt: "The group is expected to meet senior officials at Russia's Ministry of Industry and Trade"
+      - claim: named institution METI
+        kind: named_institution
+        value: METI
+        source_urls:
+          - https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+        verbatim_excerpt: "METI stated the purpose is to \"protect the assets and interests of Japanese companies that have not left Russia\""
+      - claim: named person Japanese PM Takaichi
+        kind: named_person
+        value: Takaichi
+        source_urls:
+          - https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+        verbatim_excerpt: "Prime Minister Takaichi's government has not lifted sanctions against Russia"
+    quotes:
+      - speaker_name: METI
+        speaker_title: Japan Ministry of Economy, Trade and Industry
+        verbatim_en: "protect the assets and interests of Japanese companies that have not left Russia"
+        source_url: https://japantoday.com/category/business/japan-to-send-business-delegation-to-russia-in-late-may-amid-ukraine-war
+        context: official statement on purpose of business delegation to Moscow, May 2026
