@@ -1,0 +1,807 @@
+version: 1
+generated_at: "2026-05-25T12:00:00Z"
+country: China
+date: "2026-05-25"
+total_stories: 7
+stories:
+  - story_id: china-coking-coal-prices-surge-8pct-mine-blast
+    category: econ
+    headline_en: "China coking coal prices surge 8% to daily limit after deadliest mine blast in a decade raises supply fears"
+    lead_url: https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-05-25/china-mine-explosion-sees-coking-coal-jump-by-daily-limit
+    locked_urls:
+      - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+      - https://www.bloomberg.com/news/articles/2026-05-25/china-mine-explosion-sees-coking-coal-jump-by-daily-limit
+    hard_facts:
+      - claim: coking coal futures surge percentage
+        kind: numerical_with_unit
+        value: "8%"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "surged 8% on May 25 to hit the daily limit of 1,246 yuan per metric ton"
+      - claim: coking coal daily limit price in yuan
+        kind: numerical_with_unit
+        value: "1,246 yuan per metric ton"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "hit the daily limit of 1,246 yuan per metric ton"
+      - claim: coking coal price in USD
+        kind: numerical_with_unit
+        value: "$186.76/ton"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "equivalent to $186.76/ton"
+      - claim: date of coking coal price surge
+        kind: temporal
+        value: "May 25"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "surged 8% on May 25 to hit the daily limit"
+      - claim: mine explosion date
+        kind: temporal
+        value: "May 22"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "after an explosion at the Liushenyu coal mine in Qinyuan County, Changzhi, Shanxi province on the evening of May 22"
+      - claim: death toll from mine explosion
+        kind: numerical_with_unit
+        value: "at least 82 people"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "killed at least 82 people, making it China's deadliest coal mining disaster in over a decade"
+      - claim: mine annual production capacity
+        kind: numerical_with_unit
+        value: "1.2 million tons"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "The mine, operated by Shanxi Tongzhou Coal & Coke Group, had an annual production capacity of 1.2 million tons."
+      - claim: Shanxi share of China's total coal output
+        kind: numerical_with_unit
+        value: "nearly one-third"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "Shanxi's coal sector — which accounts for nearly one-third of China's total annual output"
+      - claim: China's total annual coal output
+        kind: numerical_with_unit
+        value: "approximately 1.3 billion metric tons"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "China's total annual output of approximately 1.3 billion metric tons"
+      - claim: estimated affected output reduction during safety checks
+        kind: numerical_with_unit
+        value: "approximately 288,000 tons per day"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "Analysts estimated the affected output reduction at approximately 288,000 tons per day during mandatory safety checks."
+      - claim: mine classified as disaster-prone year
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "The National Mine Safety Administration had classified the Liushenyu mine as disaster-prone in 2024 due to its \"high gas content.\""
+      - claim: number of workers hospitalized
+        kind: numerical_with_unit
+        value: "more than 120"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "more than 120 were hospitalized"
+      - claim: number of workers still missing
+        kind: numerical
+        value: "2"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "Two workers remained missing"
+      - claim: exchange where coking coal futures trade
+        kind: named_institution
+        value: "Dalian Commodity Exchange (DCE)"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "Coking coal futures on the Dalian Commodity Exchange (DCE)"
+      - claim: mine name
+        kind: named_product
+        value: "Liushenyu coal mine"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "an explosion at the Liushenyu coal mine in Qinyuan County, Changzhi, Shanxi province"
+      - claim: mine operator
+        kind: named_institution
+        value: "Shanxi Tongzhou Coal & Coke Group"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "The mine, operated by Shanxi Tongzhou Coal & Coke Group"
+      - claim: regulator that classified mine as disaster-prone
+        kind: named_institution
+        value: "National Mine Safety Administration"
+        source_urls:
+          - https://oilprice.com/Energy/Coal/China-Mine-Explosion-Sees-Coking-Coal-Jump-By-Daily-Limit.html
+        verbatim_excerpt: "The National Mine Safety Administration had classified the Liushenyu mine as disaster-prone"
+    quotes: []
+
+  - story_id: vucic-visits-china-great-wall-state-visit
+    category: politics
+    headline_en: "Vucic visits China, tours Great Wall on first day of historic state visit"
+    lead_url: https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+    hard_facts:
+      - claim: date of Great Wall visit
+        kind: temporal
+        value: "May 25, 2026"
+        source_urls:
+          - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        verbatim_excerpt: "visited the Great Wall of China on May 25, 2026, the first day of his historic state visit to Beijing"
+      - claim: Serbian president identity
+        kind: named_person
+        value: "Aleksandar Vucic"
+        source_urls:
+          - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        verbatim_excerpt: "Serbian President Aleksandar Vucic visited the Great Wall of China"
+      - claim: state visit duration
+        kind: temporal
+        value: "May 24–28"
+        source_urls:
+          - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        verbatim_excerpt: "The visit (May 24–28) is Vucic's first state visit to China"
+      - claim: Chinese president identity
+        kind: named_person
+        value: "Xi Jinping"
+        source_urls:
+          - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        verbatim_excerpt: "President Xi Jinping and Premier Li Qiang will meet Vucic separately"
+      - claim: Chinese premier identity
+        kind: named_person
+        value: "Li Qiang"
+        source_urls:
+          - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        verbatim_excerpt: "President Xi Jinping and Premier Li Qiang will meet Vucic separately"
+      - claim: number of planned interstate agreements and business deals
+        kind: numerical_with_unit
+        value: "approximately 30"
+        source_urls:
+          - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        verbatim_excerpt: "Planned deliverables include approximately 30 interstate agreements and business deals"
+      - claim: total planned investment value
+        kind: numerical_with_unit
+        value: "one billion euros"
+        source_urls:
+          - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        verbatim_excerpt: "total planned investment approaching one billion euros"
+      - claim: date of Xi's prior state visit to Serbia
+        kind: temporal
+        value: "May 2024"
+        source_urls:
+          - https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        verbatim_excerpt: "Xi paid a state visit to Serbia in May 2024."
+    quotes:
+      - speaker_name: Aleksandar Vucic
+        speaker_title: President of Serbia
+        verbatim_en: "clearly demonstrated the Chinese people's tenacity, diligence, and dedication to defending their country's borders and sovereignty"
+        source_url: https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/05/25/vucic-visits-china-at-the-great-wall-for-the-first-time_d9a95f54-9284-4746-911c-a17881f74352.html
+        context: "statement at the Great Wall of China on May 25, 2026"
+
+  - story_id: pakistan-pm-meets-xi-jinping-cpec-iran
+    category: politics
+    headline_en: "Pakistan's PM Shehbaz Sharif meets Xi Jinping in Beijing, discusses CPEC Phase II and Iran conflict mediation"
+    lead_url: https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+    body_source: full
+    corroborated_by:
+      - https://www.dawn.com/news/2002753
+      - https://www.freemalaysiatoday.com/category/world/2026/05/21/pakistans-pm-to-visit-china-for-talks-overshadowed-by-iran-war
+    locked_urls:
+      - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+      - https://www.dawn.com/news/2002753
+      - https://www.freemalaysiatoday.com/category/world/2026/05/21/pakistans-pm-to-visit-china-for-talks-overshadowed-by-iran-war
+    hard_facts:
+      - claim: Pakistani PM identity
+        kind: named_person
+        value: "Shehbaz Sharif"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "Pakistani Prime Minister Shehbaz Sharif met Chinese President Xi Jinping in Beijing on May 25, 2026"
+      - claim: date of Xi-Sharif meeting
+        kind: temporal
+        value: "May 25, 2026"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "met Chinese President Xi Jinping in Beijing on May 25, 2026"
+      - claim: official visit duration
+        kind: temporal
+        value: "May 23–26"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "during a four-day official visit to China (May 23–26)"
+      - claim: Chinese president identity
+        kind: named_person
+        value: "Xi Jinping"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "met Chinese President Xi Jinping in Beijing"
+      - claim: Chinese premier identity
+        kind: named_person
+        value: "Li Qiang"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "PM held discussions with Premier Li Qiang."
+      - claim: Pakistan-China diplomatic anniversary
+        kind: temporal
+        value: "75th anniversary"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "Pakistan and China are marking the 75th anniversary of diplomatic relations."
+      - claim: business conference name
+        kind: named_product
+        value: "third Pakistan-China Business-to-Business Investment Conference"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "PM chaired the third Pakistan-China Business-to-Business Investment Conference in Hangzhou on May 24"
+      - claim: date of business conference
+        kind: temporal
+        value: "May 24"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "in Hangzhou on May 24, where agreements worth approximately $7 billion were signed"
+      - claim: value of agreements signed at business conference
+        kind: numerical_with_unit
+        value: "approximately $7 billion"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "where agreements worth approximately $7 billion were signed"
+      - claim: value of MoUs signed at earlier ceremony
+        kind: numerical_with_unit
+        value: "$1.22 billion"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "An earlier ceremony witnessed the signing of MoUs worth $1.22 billion."
+      - claim: Chinese minister who received PM Sharif in Beijing
+        kind: named_person
+        value: "Huang Runqiu"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "Sharif arrived in Beijing from Hangzhou on Sunday and was received by Chinese Minister of Environment and Ecology Huang Runqiu."
+      - claim: Chinese Ministry of Environment and Ecology
+        kind: named_institution
+        value: "Ministry of Environment and Ecology"
+        source_urls:
+          - https://www.pakistantoday.com.pk/2026/05/25/pm-in-china
+        verbatim_excerpt: "Chinese Minister of Environment and Ecology Huang Runqiu"
+    quotes: []
+
+  - story_id: huawei-tau-scaling-law-chip-architecture-1-4nm
+    category: tech
+    headline_en: "Huawei unveils Tau Scaling Law chip architecture breakthrough targeting 1.4nm density by 2031"
+    lead_url: https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc
+      - https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html
+      - https://www.huawei.com/en/news/2026/5/ieee-iscas-tau-scaling
+      - https://www.gizmochina.com/2026/05/25/huawei-proposes-tao-law-as-alternative-to-moores-law-first-logic-folding-chip-arrives-this-autumn/
+    locked_urls:
+      - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+      - https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc
+      - https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html
+      - https://www.huawei.com/en/news/2026/5/ieee-iscas-tau-scaling
+      - https://www.gizmochina.com/2026/05/25/huawei-proposes-tao-law-as-alternative-to-moores-law-first-logic-folding-chip-arrives-this-autumn/
+    hard_facts:
+      - claim: event name where announcement was made
+        kind: named_product
+        value: "IEEE International Symposium on Circuits and Systems (ISCAS)"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "At the IEEE International Symposium on Circuits and Systems (ISCAS) in Shanghai on May 25, 2026"
+      - claim: event location and date
+        kind: temporal
+        value: "May 25, 2026"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "At the IEEE International Symposium on Circuits and Systems (ISCAS) in Shanghai on May 25, 2026"
+      - claim: Huawei presenter identity
+        kind: named_person
+        value: "He Tingbo"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "Huawei rotating chairman He Tingbo presented the Tau (τ) Scaling Law"
+      - claim: new semiconductor design principle name
+        kind: named_product
+        value: "Tau (τ) Scaling Law"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "Huawei rotating chairman He Tingbo presented the Tau (τ) Scaling Law"
+      - claim: chip architecture name
+        kind: named_product
+        value: "LogicFolding"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "The accompanying LogicFolding architecture shortens wiring inside chips"
+      - claim: first chips to use LogicFolding and their launch timeframe
+        kind: named_product
+        value: "Kirin chips"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "Huawei's Kirin chips launching in fall 2026 will be the first to use LogicFolding."
+      - claim: Kirin chips launch timeframe
+        kind: temporal
+        value: "fall 2026"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "Huawei's Kirin chips launching in fall 2026 will be the first to use LogicFolding."
+      - claim: Huawei 2031 transistor density target
+        kind: numerical_with_unit
+        value: "1.4-nanometre (14 Å)"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "By 2031, Huawei targets transistor density equivalent to 1.4-nanometre (14 Å) processes"
+      - claim: Huawei target year for 1.4nm density
+        kind: temporal
+        value: "2031"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "By 2031, Huawei targets transistor density equivalent to 1.4-nanometre (14 Å) processes"
+      - claim: TSMC current chip process node
+        kind: named_institution
+        value: "TSMC"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "aiming to close the gap with TSMC's roadmap (TSMC produces 2nm chips now and plans 1.4nm by 2028)"
+      - claim: TSMC current production node
+        kind: numerical_with_unit
+        value: "2nm"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "TSMC produces 2nm chips now"
+      - claim: TSMC planned 1.4nm target year
+        kind: temporal
+        value: "2028"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "plans 1.4nm by 2028"
+      - claim: number of chips mass-produced using Tau methodology
+        kind: numerical_with_unit
+        value: "381 chips"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "Huawei has mass-produced 381 chips over six years using Tau-related methodology."
+      - claim: time period for Tau-related mass production
+        kind: temporal
+        value: "six years"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "Huawei has mass-produced 381 chips over six years using Tau-related methodology."
+      - claim: chip series powering Chinese AI models
+        kind: named_product
+        value: "Ascend"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "The Ascend chip series powers Chinese AI models including DeepSeek V4."
+      - claim: AI model powered by Ascend chips
+        kind: named_product
+        value: "DeepSeek V4"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "The Ascend chip series powers Chinese AI models including DeepSeek V4."
+      - claim: SMIC share price rise after announcement
+        kind: numerical_with_unit
+        value: "7.6%"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "SMIC shares rose 7.6% following the announcement."
+      - claim: SMIC institution
+        kind: named_institution
+        value: "SMIC"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "SMIC shares rose 7.6% following the announcement."
+      - claim: Omdia semiconductor research director identity
+        kind: named_person
+        value: "He Hui"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "He Hui, director of semiconductor research at Omdia, commented"
+      - claim: Omdia institution
+        kind: named_institution
+        value: "Omdia"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        verbatim_excerpt: "He Hui, director of semiconductor research at Omdia, commented"
+    quotes:
+      - speaker_name: He Hui
+        speaker_title: Director of Semiconductor Research, Omdia
+        verbatim_en: "Rather than depending solely on smaller transistors, the company is focusing on shortening interconnect, lowering latency and improving data movement inside the chip."
+        source_url: https://www.freemalaysiatoday.com/category/world/2026/05/25/huawei-reveals-chip-design-breakthrough-amid-us-sanctions/
+        context: "comment on Huawei's Tau Scaling Law announcement at ISCAS Shanghai, May 25, 2026"
+
+  - story_id: china-shenzhou-23-first-hk-astronaut-tiangong
+    category: tech
+    headline_en: "China launches Shenzhou-23 crewed spacecraft; first Hong Kong astronaut joins yearlong mission to Tiangong"
+    lead_url: https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+    body_source: full
+    corroborated_by:
+      - https://www.ottumwacourier.com/news/national_news/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/article_365556dc-a131-5cda-8553-5e4c7c5c1d51.html
+      - https://www.tdtnews.com/news/nation_world/article_6254031e-b02e-56dc-a93a-a543b0b63256.html
+      - https://sundayguardianlive.com/world/shenzhou-23-launch-astronauts-enter-the-tiangong-space-station-after-successful-docking-196460/
+    locked_urls:
+      - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+      - https://www.ottumwacourier.com/news/national_news/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/article_365556dc-a131-5cda-8553-5e4c7c5c1d51.html
+      - https://www.tdtnews.com/news/nation_world/article_6254031e-b02e-56dc-a93a-a543b0b63256.html
+      - https://sundayguardianlive.com/world/shenzhou-23-launch-astronauts-enter-the-tiangong-space-station-after-successful-docking-196460/
+    hard_facts:
+      - claim: spacecraft name
+        kind: named_product
+        value: "Shenzhou-23"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "China launched its Shenzhou-23 crewed spacecraft"
+      - claim: launch date and time (Beijing Time)
+        kind: temporal
+        value: "May 24, 2026 at 23:08 Beijing Time"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "China launched its Shenzhou-23 crewed spacecraft on May 24, 2026 at 23:08 Beijing Time (15:08 UTC)"
+      - claim: launch time in UTC
+        kind: temporal
+        value: "15:08 UTC"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "on May 24, 2026 at 23:08 Beijing Time (15:08 UTC)"
+      - claim: launch site
+        kind: named_institution
+        value: "Jiuquan Satellite Launch Center"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "from the Jiuquan Satellite Launch Center atop a Long March-2F carrier rocket"
+      - claim: rocket name
+        kind: named_product
+        value: "Long March-2F"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "atop a Long March-2F carrier rocket"
+      - claim: docking time (Beijing Time)
+        kind: temporal
+        value: "2:45 a.m. Beijing Time on May 25"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "The spacecraft docked with the Tiangong space station's Tianhe core module at 2:45 a.m. Beijing Time on May 25"
+      - claim: rendezvous duration
+        kind: temporal
+        value: "3.5-hour"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "completing a 3.5-hour fast automated rendezvous"
+      - claim: space station docking target
+        kind: named_product
+        value: "Tianhe core module"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "docked with the Tiangong space station's Tianhe core module"
+      - claim: mission commander
+        kind: named_person
+        value: "Zhu Yangzhu"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "Crew: Commander Zhu Yangzhu, pilot Zhang Zhiyuan, and payload specialist Lai Ka-ying"
+      - claim: mission pilot
+        kind: named_person
+        value: "Zhang Zhiyuan"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "Crew: Commander Zhu Yangzhu, pilot Zhang Zhiyuan, and payload specialist Lai Ka-ying"
+      - claim: payload specialist and first HK astronaut
+        kind: named_person
+        value: "Lai Ka-ying"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "payload specialist Lai Ka-ying — the first astronaut from Hong Kong SAR"
+      - claim: Lai Ka-ying's academic qualification
+        kind: named_product
+        value: "PhD in computer forensics"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "who holds a PhD in computer forensics"
+      - claim: planned mission duration for one astronaut
+        kind: temporal
+        value: "12-month yearlong"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "One of the three astronauts is scheduled for China's first-ever 12-month yearlong in-orbit stay."
+      - claim: prior crewed mission spacecraft name
+        kind: named_product
+        value: "Shenzhou-21"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "met the waiting Shenzhou-21 crew to begin handover"
+      - claim: mission number in Tiangong crewed program
+        kind: numerical
+        value: "11th"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "This is China's 11th crewed Tiangong mission."
+      - claim: China's crewed lunar landing target year
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "advances toward a 2030 crewed lunar landing"
+      - claim: space station name
+        kind: named_product
+        value: "Tiangong"
+        source_urls:
+          - https://www.wdio.com/ap-top-news/ap-top-news-science/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/
+        verbatim_excerpt: "docked with the Tiangong space station's Tianhe core module"
+    quotes: []
+
+  - story_id: china-coal-mine-82-killed-executives-detained
+    category: society
+    headline_en: "Deadliest China coal mine disaster in a decade: 82 killed at Liushenyu mine as executives detained, sector-wide safety crackdown launched"
+    lead_url: https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+    body_source: full
+    corroborated_by:
+      - https://abcnews.com/Business/wireStory/authorities-investigate-safety-lapses-after-china-coal-mine-133265838
+      - https://www.washingtonpost.com/world/2026/05/24/china-shanxi-coal-mine-explosion/01284acc-5734-11f1-9c40-7a0a12d9e745_story.html
+      - https://www.bloomberg.com/news/articles/2026-05-24/china-coal-mine-blast-tests-limits-of-xi-s-energy-security-push
+      - https://www.cnn.com/2026/05/22/china/four-dead-china-coal-mine-latam-intl
+      - https://fortune.com/2026/05/24/china-shanxi-coal-mine-explosion-regulators-flagged/
+    locked_urls:
+      - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+      - https://abcnews.com/Business/wireStory/authorities-investigate-safety-lapses-after-china-coal-mine-133265838
+      - https://www.washingtonpost.com/world/2026/05/24/china-shanxi-coal-mine-explosion/01284acc-5734-11f1-9c40-7a0a12d9e745_story.html
+      - https://www.bloomberg.com/news/articles/2026-05-24/china-coal-mine-blast-tests-limits-of-xi-s-energy-security-push
+      - https://www.cnn.com/2026/05/22/china/four-dead-china-coal-mine-latam-intl
+      - https://fortune.com/2026/05/24/china-shanxi-coal-mine-explosion-regulators-flagged/
+    hard_facts:
+      - claim: mine name
+        kind: named_product
+        value: "Liushenyu coal mine"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "A gas explosion at the Liushenyu coal mine in Qinyuan County, Changzhi, Shanxi province"
+      - claim: explosion date and time
+        kind: temporal
+        value: "May 22, 2026 at 19:29 CST"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "on May 22, 2026 at 19:29 CST"
+      - claim: confirmed death toll
+        kind: numerical_with_unit
+        value: "at least 82"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "82 confirmed dead (revised down from initial CCTV reports of 90)"
+      - claim: initial CCTV-reported death count
+        kind: numerical
+        value: "90"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "revised down from initial CCTV reports of 90"
+      - claim: comparison disaster death toll and year
+        kind: temporal
+        value: "2009 when 108 died"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "China's deadliest coal mining disaster since 2009 when 108 died"
+      - claim: prior deadliest disaster death count
+        kind: numerical
+        value: "108"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "China's deadliest coal mining disaster since 2009 when 108 died"
+      - claim: number of workers underground at time of blast
+        kind: numerical_with_unit
+        value: "Around 247 workers"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "Around 247 workers were underground at the time."
+      - claim: number of workers hospitalized
+        kind: numerical_with_unit
+        value: "more than 120"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "more than 120 hospitalized"
+      - claim: number still missing as of May 25
+        kind: numerical
+        value: "2"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "2 still missing"
+      - claim: mine operator
+        kind: named_institution
+        value: "Shanxi Tongzhou Coal & Coke Group"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "Mine operator: Shanxi Tongzhou Coal & Coke Group."
+      - claim: year mine classified as disaster-prone
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "China's National Mine Safety Administration had listed the mine as disaster-prone in 2024 due to \"high gas content.\""
+      - claim: regulator that listed mine as disaster-prone
+        kind: named_institution
+        value: "National Mine Safety Administration"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "China's National Mine Safety Administration had listed the mine as disaster-prone"
+      - claim: Chinese president who ordered investigation
+        kind: named_person
+        value: "Xi Jinping"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "President Xi Jinping ordered a \"thorough investigation and accountability in accordance with the law.\""
+      - claim: emergency infrastructure recovery allocation
+        kind: numerical_with_unit
+        value: "20 million yuan ($2.94 million)"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "Central government allocated 20 million yuan ($2.94 million) for emergency infrastructure recovery."
+      - claim: Shanxi share of China coal output
+        kind: numerical_with_unit
+        value: "approximately one-third"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "Shanxi accounts for approximately one-third of China's total coal output."
+      - claim: AP wire timestamp for facts
+        kind: temporal
+        value: "May 25, 2026 (AP wire at 3:03 AM)"
+        source_urls:
+          - https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        verbatim_excerpt: "As of May 25, 2026 (AP wire at 3:03 AM)"
+    quotes:
+      - speaker_name: Xi Jinping
+        speaker_title: President of China
+        verbatim_en: "thorough investigation and accountability in accordance with the law."
+        source_url: https://www.wfmd.com/2026/05/25/at-least-82-killed-after-massive-gas-explosion-rips-through-coal-mine-in-china/
+        context: "presidential order following the Liushenyu coal mine explosion, May 2026"
+
+  - story_id: china-cross-border-trading-crackdown-32bn-hk-assets
+    category: china_nexus
+    headline_en: "China's cross-border trading crackdown may affect HK$250 billion ($32 billion) of Hong Kong assets, Citic Securities estimates"
+    lead_url: https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.bloomberg.com/news/videos/2026-05-25/china-s-cross-border-trading-crackdown-video
+      - https://eu.36kr.com/en/p/3820315621122313
+      - https://asia.nikkei.com/business/finance/china-deepens-crackdown-on-cross-border-brokerages
+      - https://www.bloomberg.com/news/articles/2026-05-22/china-cracks-down-on-illegal-cross-border-securities-trading
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+      - https://www.bloomberg.com/news/videos/2026-05-25/china-s-cross-border-trading-crackdown-video
+      - https://eu.36kr.com/en/p/3820315621122313
+      - https://asia.nikkei.com/business/finance/china-deepens-crackdown-on-cross-border-brokerages
+      - https://www.bloomberg.com/news/articles/2026-05-22/china-cracks-down-on-illegal-cross-border-securities-trading
+    hard_facts:
+      - claim: estimated assets affected by crackdown in HKD
+        kind: numerical_with_unit
+        value: "HK$250 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "may affect as much as HK$250 billion ($32 billion) of assets held in Hong Kong"
+      - claim: estimated assets affected by crackdown in USD
+        kind: numerical_with_unit
+        value: "$32 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "may affect as much as HK$250 billion ($32 billion) of assets held in Hong Kong"
+      - claim: Citic Securities analysis lead analyst
+        kind: named_person
+        value: "Tian Liang"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "according to a May 25 analysis note by Citic Securities analysts led by Tian Liang"
+      - claim: Citic Securities institution
+        kind: named_institution
+        value: "Citic Securities"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "according to a May 25 analysis note by Citic Securities analysts led by Tian Liang"
+      - claim: analysis note publication date
+        kind: temporal
+        value: "May 25"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "according to a May 25 analysis note by Citic Securities"
+      - claim: CSRC crackdown announcement date
+        kind: temporal
+        value: "May 22, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "CSRC crackdown on cross-border securities brokerages — announced May 22, 2026 with penalties against Futu Holdings, UP Fintech/Tiger Brokers, and Longbridge Securities"
+      - claim: brokerages penalized by CSRC
+        kind: named_institution
+        value: "Futu Holdings"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "penalties against Futu Holdings, UP Fintech/Tiger Brokers, and Longbridge Securities"
+      - claim: brokerage penalized by CSRC
+        kind: named_institution
+        value: "UP Fintech/Tiger Brokers"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "penalties against Futu Holdings, UP Fintech/Tiger Brokers, and Longbridge Securities"
+      - claim: brokerage penalized by CSRC
+        kind: named_institution
+        value: "Longbridge Securities"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "penalties against Futu Holdings, UP Fintech/Tiger Brokers, and Longbridge Securities"
+      - claim: regulator that issued crackdown
+        kind: named_institution
+        value: "CSRC"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "China's CSRC crackdown on cross-border securities brokerages"
+      - claim: Futu estimated assets in HKD
+        kind: numerical_with_unit
+        value: "approximately HK$150–180 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "Futu accounts for approximately HK$150–180 billion"
+      - claim: Tiger Brokers estimated assets in HKD
+        kind: numerical_with_unit
+        value: "~HK$45–50 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "Tiger Brokers ~HK$45–50 billion"
+      - claim: rectification plan issue date
+        kind: temporal
+        value: "May 9, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "The two-year rectification plan was jointly issued by eight Chinese government departments (including CSRC) on May 9, 2026."
+      - claim: number of government departments issuing rectification plan
+        kind: numerical
+        value: "eight"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "jointly issued by eight Chinese government departments (including CSRC)"
+      - claim: rectification plan duration
+        kind: temporal
+        value: "two-year"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "any equity liquidation would occur gradually over the two-year transition period (through 2028)"
+      - claim: transition period end year
+        kind: temporal
+        value: "through 2028"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "over the two-year transition period (through 2028)"
+      - claim: UP Fintech penalty confiscation amount
+        kind: numerical_with_unit
+        value: "RMB 308.1 million"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "UP Fintech faced penalties of RMB 308.1 million confiscation + RMB 103.1 million fine"
+      - claim: UP Fintech penalty fine amount
+        kind: numerical_with_unit
+        value: "RMB 103.1 million"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "UP Fintech faced penalties of RMB 308.1 million confiscation + RMB 103.1 million fine"
+      - claim: Futu proposed penalty amount in yuan
+        kind: numerical_with_unit
+        value: "1.85 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "Futu faced proposed penalty of 1.85 billion yuan ($271 million)"
+      - claim: Futu proposed penalty amount in USD
+        kind: numerical_with_unit
+        value: "$271 million"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "Futu faced proposed penalty of 1.85 billion yuan ($271 million)"
+      - claim: UP Fintech ADR premarket decline
+        kind: numerical_with_unit
+        value: "~47%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "UP Fintech ADRs fell ~47% in premarket"
+      - claim: Futu US shares decline
+        kind: numerical_with_unit
+        value: "~35%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-25/china-trading-curbs-may-hit-32-billion-of-hk-assets-citic-says
+        verbatim_excerpt: "Futu US shares fell ~35% (on May 22 announcement)"
+    quotes: []
