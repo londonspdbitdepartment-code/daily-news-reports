@@ -1,0 +1,373 @@
+version: 1
+generated_at: "2026-05-25T12:00:00Z"
+country: United Kingdom
+date: "2026-05-25"
+total_stories: 4
+stories:
+  - story_id: met-office-amber-heat-alert-35c-may-record
+    category: society
+    headline_en: "Met Office issues amber heat-health alert as UK targets historic May temperature record of 35°C"
+    lead_url: https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+    body_source: full
+    corroborated_by:
+      - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+    locked_urls:
+      - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+      - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+    hard_facts:
+      - claim: forecast date for temperature peak
+        kind: temporal
+        value: "25 May 2026"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "The Met Office issued an updated forecast on 25 May 2026 predicting temperatures of up to 35°C"
+      - claim: forecast peak temperature
+        kind: numerical_with_unit
+        value: "35°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "predicting temperatures of up to 35°C in parts of Lincolnshire, the Midlands, and Greater London"
+      - claim: regions forecast to reach peak temperature
+        kind: named_institution
+        value: "Lincolnshire, the Midlands, and Greater London"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "predicting temperatures of up to 35°C in parts of Lincolnshire, the Midlands, and Greater London during the Spring Bank Holiday afternoon"
+      - claim: previous UK May temperature record
+        kind: numerical_with_unit
+        value: "32.8°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "The existing UK May temperature record of 32.8°C, set in 1922, was forecast to be broken"
+      - claim: year previous UK May record was set
+        kind: temporal
+        value: "1922"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "The existing UK May temperature record of 32.8°C, set in 1922, was forecast to be broken"
+      - claim: UKHSA amber heat-health alert end date
+        kind: temporal
+        value: "27 May 2026"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "The UK Health Security Agency (UKHSA) issued an amber heat-health alert for England running through 27 May 2026"
+      - claim: increased likelihood of May heat due to climate change
+        kind: numerical
+        value: "three times"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "The Met Office noted this level of heat in May is approximately three times more likely due to human-caused climate change"
+      - claim: minimum overnight temperature forecast for southern England
+        kind: numerical_with_unit
+        value: "18–20°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "Overnight temperatures were not expected to fall below 18–20°C in southern England, limiting recovery"
+      - claim: Met Office Deputy Chief Forecaster name
+        kind: named_person
+        value: "Steve Kocher"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "Steve Kocher, Deputy Chief Forecaster at the Met Office, stated"
+      - claim: institution issuing heat-health alert
+        kind: named_institution
+        value: "UK Health Security Agency (UKHSA)"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "The UK Health Security Agency (UKHSA) issued an amber heat-health alert for England"
+      - claim: UKHSA doctor name
+        kind: named_person
+        value: "Dr Anya Gopfert"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "Dr Anya Gopfert of UKHSA warned"
+      - claim: Royal Life Saving Society UK spokesperson name
+        kind: named_person
+        value: "Ashley Jones"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "Ashley Jones of Royal Life Saving Society UK cautioned"
+      - claim: open-water safety organisation
+        kind: named_institution
+        value: "Royal Life Saving Society UK"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "Ashley Jones of Royal Life Saving Society UK cautioned"
+      - claim: issuing institution of forecast
+        kind: named_institution
+        value: "Met Office"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        verbatim_excerpt: "The Met Office issued an updated forecast on 25 May 2026"
+    quotes:
+      - speaker_name: Steve Kocher
+        speaker_title: Deputy Chief Forecaster, Met Office
+        verbatim_en: "It is likely that the May and Spring UK temperature records will be broken over the Bank Holiday weekend."
+        source_url: https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        context: Met Office forecast update on 25 May 2026
+      - speaker_name: Dr Anya Gopfert
+        speaker_title: UKHSA spokesperson
+        verbatim_en: "Even moderate heat can lead to serious health problems, particularly for older people, young children, and those with underlying health conditions."
+        source_url: https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        context: UKHSA amber heat-health alert statement on 25 May 2026
+      - speaker_name: Ashley Jones
+        speaker_title: Royal Life Saving Society UK spokesperson
+        verbatim_en: "Cold water shock is a very real danger"
+        source_url: https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/35c-forecast-today-as-heatwave-continues
+        context: Open-water safety warning during Spring Bank Holiday heatwave
+
+  - story_id: rte-kew-gardens-323c-hottest-bank-holiday
+    category: society
+    headline_en: "RTE News: Kew Gardens reads 32.3°C as UK Spring Bank Holiday heads for hottest ever day, Wales record also broken"
+    lead_url: https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+    hard_facts:
+      - claim: Kew Gardens temperature reading
+        kind: numerical_with_unit
+        value: "32.3°C"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "An unofficial reading of 32.3°C was recorded at Kew Gardens on Sunday 25 May"
+      - claim: date of Kew Gardens temperature reading
+        kind: temporal
+        value: "Sunday 25 May"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "An unofficial reading of 32.3°C was recorded at Kew Gardens on Sunday 25 May"
+      - claim: location of temperature reading
+        kind: named_institution
+        value: "Kew Gardens"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "An unofficial reading of 32.3°C was recorded at Kew Gardens on Sunday 25 May"
+      - claim: Wales temperature record set in Cardiff
+        kind: numerical_with_unit
+        value: "27.4°C"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "A record of 27.4°C was also set in Cardiff for Wales"
+      - claim: location of Wales record
+        kind: named_institution
+        value: "Cardiff"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "A record of 27.4°C was also set in Cardiff for Wales"
+      - claim: forecast peak for Greater London and South-East England
+        kind: numerical_with_unit
+        value: "34°C"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "Greater London and South-East England forecast to reach 34°C"
+      - claim: Republic of Ireland temperature range over same weekend
+        kind: numerical_with_unit
+        value: "19–21°C"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "the Republic of Ireland, which experienced more modest temperatures of 19–21°C over the same weekend"
+      - claim: UKHSA amber heat-health alert end date
+        kind: temporal
+        value: "27 May 2026"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "The UKHSA amber heat-health alert was confirmed as running until 27 May 2026 across England"
+      - claim: Met Office meteorologist name
+        kind: named_person
+        value: "Tom Morgan"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "Tom Morgan, a meteorologist at the Met Office, told BBC Radio 4's Today programme"
+      - claim: radio programme where meteorologist spoke
+        kind: named_product
+        value: "BBC Radio 4's Today programme"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "Tom Morgan, a meteorologist at the Met Office, told BBC Radio 4's Today programme"
+      - claim: issuing institution of heat-health alert
+        kind: named_institution
+        value: "UKHSA"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "The UKHSA amber heat-health alert was confirmed as running until 27 May 2026 across England"
+      - claim: issuing institution of weather forecast
+        kind: named_institution
+        value: "Met Office"
+        source_urls:
+          - https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        verbatim_excerpt: "Tom Morgan, a meteorologist at the Met Office"
+    quotes:
+      - speaker_name: Tom Morgan
+        speaker_title: Meteorologist, Met Office
+        verbatim_en: "We rarely see temperatures above 35°C even in summer months, so to see temperatures getting close to 35°C in May is, as I say, pretty historic."
+        source_url: https://www.rte.ie/news/2026/0525/1575126-uk-weather/
+        context: BBC Radio 4 Today programme, 25 May 2026
+
+  - story_id: gazette-uk-may-heat-records-broken-3c
+    category: society
+    headline_en: "Gazette & Herald: UK May heat records broken by close to 3°C — hottest in 79 years across parts of England"
+    lead_url: https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+    hard_facts:
+      - claim: margin by which May temperature records were broken
+        kind: numerical_with_unit
+        value: "close to 3°C"
+        source_urls:
+          - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+        verbatim_excerpt: "UK May temperature records were on course to be broken by close to 3°C compared to the previous record"
+      - claim: how long since previous temperature peak
+        kind: temporal
+        value: "79 years"
+        source_urls:
+          - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+        verbatim_excerpt: "describing the preceding day (24 May) as the hottest in 79 years in parts of the country"
+      - claim: date described as hottest in 79 years
+        kind: temporal
+        value: "24 May"
+        source_urls:
+          - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+        verbatim_excerpt: "describing the preceding day (24 May) as the hottest in 79 years in parts of the country"
+      - claim: forecast temperature for Bank Holiday Monday
+        kind: numerical_with_unit
+        value: "35°C"
+        source_urls:
+          - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+        verbatim_excerpt: "forecasts pointing to 35°C on Bank Holiday Monday"
+      - claim: publication name
+        kind: named_institution
+        value: "Gazette & Herald"
+        source_urls:
+          - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+        verbatim_excerpt: "The Gazette & Herald published on 25 May 2026"
+      - claim: publication date
+        kind: temporal
+        value: "25 May 2026"
+        source_urls:
+          - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+        verbatim_excerpt: "The Gazette & Herald published on 25 May 2026"
+      - claim: guidance issuing institution
+        kind: named_institution
+        value: "UKHSA"
+        source_urls:
+          - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+        verbatim_excerpt: "Reference was made to UKHSA guidance and open-water safety warnings"
+      - claim: open-water safety organisation referenced
+        kind: named_institution
+        value: "RLSS UK"
+        source_urls:
+          - https://www.gazetteherald.co.uk/news/national/26135946.may-heat-records-broken-nearly-3c-day-hottest-79-years/
+        verbatim_excerpt: "consistent with those issued by the Met Office and RLSS UK"
+    quotes: []
+
+  - story_id: russia-gps-jams-raf-plane-healey-estonia
+    category: politics
+    headline_en: "Russia GPS-jams RAF aircraft carrying UK Defence Secretary Healey on Estonia return flight"
+    lead_url: https://www.jpost.com/international/article-897203
+    body_source: full
+    corroborated_by:
+      - https://www.pravda.com.ua/eng/news/2026/05/25/8036251/
+      - https://athens-times.com/uk-defence-secretarys-plane-targeted-by-gps-jamming-near-russian-border/
+      - https://www.anews.com.tr/world/2026/05/25/jet-carrying-uk-minister-had-gps-signal-jammed-near-russian-border
+      - https://knews.media/2026/05/25/serious-air-incident-near-russia-british-officials-plane-lost-gps-signal/
+    locked_urls:
+      - https://www.jpost.com/international/article-897203
+      - https://www.pravda.com.ua/eng/news/2026/05/25/8036251/
+      - https://athens-times.com/uk-defence-secretarys-plane-targeted-by-gps-jamming-near-russian-border/
+      - https://www.anews.com.tr/world/2026/05/25/jet-carrying-uk-minister-had-gps-signal-jammed-near-russian-border
+      - https://knews.media/2026/05/25/serious-air-incident-near-russia-british-officials-plane-lost-gps-signal/
+    hard_facts:
+      - claim: aircraft type used for Healey's flight
+        kind: named_product
+        value: "RAF Dassault Falcon 900LX"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "An RAF Dassault Falcon 900LX carrying UK Defence Secretary John Healey had its GPS navigation system jammed"
+      - claim: UK Defence Secretary name
+        kind: named_person
+        value: "John Healey"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "UK Defence Secretary John Healey had its GPS navigation system jammed"
+      - claim: duration of GPS jamming
+        kind: temporal
+        value: "full three-hour return flight"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "had its GPS navigation system jammed for the full three-hour return flight from Estonia"
+      - claim: origin of return flight
+        kind: named_institution
+        value: "Estonia"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "the full three-hour return flight from Estonia on 21 May 2026"
+      - claim: date of GPS jamming incident
+        kind: temporal
+        value: "21 May 2026"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "the full three-hour return flight from Estonia on 21 May 2026"
+      - claim: date international outlets reported the incident
+        kind: temporal
+        value: "25 May 2026"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "multiple international outlets reported on 25 May 2026 following the original Times disclosure and BBC confirmation"
+      - claim: news outlet that originally disclosed the incident
+        kind: named_institution
+        value: "Times"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "following the original Times disclosure and BBC confirmation"
+      - claim: news outlet that confirmed the incident
+        kind: named_institution
+        value: "BBC"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "following the original Times disclosure and BBC confirmation"
+      - claim: Ministry of Defence reference to prior dangerous aerial interceptions
+        kind: temporal
+        value: "since 2022"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "the most dangerous aerial interceptions since 2022 of a British spy plane over the Black Sea the previous month"
+      - claim: prior Defence Secretary whose plane was also jammed
+        kind: named_person
+        value: "Grant Shapps"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "A near-identical jamming event affected then-Defence Secretary Grant Shapps' plane near Kaliningrad in 2024"
+      - claim: location of prior jamming event
+        kind: named_institution
+        value: "Kaliningrad"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "A near-identical jamming event affected then-Defence Secretary Grant Shapps' plane near Kaliningrad in 2024"
+      - claim: year of prior jamming event involving Shapps
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "A near-identical jamming event affected then-Defence Secretary Grant Shapps' plane near Kaliningrad in 2024"
+      - claim: institution that noted rise in GPS-spoofing activity
+        kind: named_institution
+        value: "NATO"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "NATO has previously warned of a sharp rise in Russian GPS-spoofing activity across the Baltic since the 2022 invasion of Ukraine"
+      - claim: start of Russian GPS-spoofing surge across the Baltic
+        kind: temporal
+        value: "2022 invasion of Ukraine"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "NATO has previously warned of a sharp rise in Russian GPS-spoofing activity across the Baltic since the 2022 invasion of Ukraine"
+      - claim: issuing body of defence statement
+        kind: named_institution
+        value: "Ministry of Defence"
+        source_urls:
+          - https://www.jpost.com/international/article-897203
+        verbatim_excerpt: "The Ministry of Defence noted the incident follows Russian jets conducting"
+    quotes: []
