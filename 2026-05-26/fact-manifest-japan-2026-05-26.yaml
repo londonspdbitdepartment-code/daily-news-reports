@@ -1,0 +1,731 @@
+version: 1
+generated_at: "2026-05-26T12:00:00Z"
+country: Japan
+date: "2026-05-26"
+total_stories: 7
+stories:
+  - story_id: boj-trend-gauge-april-core-inflation-2-8pct
+    category: econ
+    headline_en: "BOJ New Trend Gauge Shows April Core Inflation at 2.8%, Bolstering June Rate-Hike Bets; Deputy Governor Himino Signals Continued Policy Normalisation to Parliament"
+    lead_url: https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-05-26/boj-deputy-chief-underlines-proper-policy-as-key-for-bond-yields
+      - https://www.investing.com/news/economy-news/bojs-himino-says-mideast-developments-to-factor-into-ratehike-timing-decision-4708698
+    locked_urls:
+      - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+      - https://www.bloomberg.com/news/articles/2026-05-26/boj-deputy-chief-underlines-proper-policy-as-key-for-bond-yields
+      - https://www.investing.com/news/economy-news/bojs-himino-says-mideast-developments-to-factor-into-ratehike-timing-decision-4708698
+    hard_facts:
+      - claim: BOJ trend gauge core inflation April 2026
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "Japan's core consumer inflation measured by the Bank of Japan's new trend gauge hit 2.8% year-on-year in April 2026"
+      - claim: BOJ trend gauge core inflation March 2026 (prior reading)
+        kind: numerical_with_unit
+        value: "2.5%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "up from 2.5% in March"
+      - claim: BOJ inflation target
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "exceeding the BOJ's 2% target"
+      - claim: headline core CPI figure published by Statistics Bureau
+        kind: numerical_with_unit
+        value: "1.4%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "far above the headline core CPI figure of 1.4% published by the Statistics Bureau last week"
+      - claim: BOJ first disclosed new trend gauge
+        kind: temporal
+        value: March
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "The BOJ first began disclosing this alternative gauge in March"
+      - claim: date of Himino's parliamentary statement
+        kind: temporal
+        value: May 26
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "Separately on May 26, Deputy Governor Ryozo Himino told parliament"
+      - claim: 10-year JGB yield level
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "The 10-year JGB yield touched 2.8% last week"
+      - claim: 10-year JGB yield historic high date
+        kind: temporal
+        value: October 1996
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "highest since October 1996"
+      - claim: probability of June rate hike to 1.00% priced by markets
+        kind: numerical_with_unit
+        value: "approximately 80%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "Markets priced approximately 80% probability of a rate hike to 1.00% from 0.75% at the June 15–16 BOJ meeting"
+      - claim: current BOJ policy rate
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "a rate hike to 1.00% from 0.75%"
+      - claim: expected new BOJ policy rate after June hike
+        kind: numerical_with_unit
+        value: "1.00%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "a rate hike to 1.00% from 0.75%"
+      - claim: June BOJ meeting dates
+        kind: temporal
+        value: June 15–16 BOJ meeting
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "at the June 15–16 BOJ meeting"
+      - claim: BOJ Deputy Governor
+        kind: named_person
+        value: Ryozo Himino
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+          - https://www.investing.com/news/economy-news/bojs-himino-says-mideast-developments-to-factor-into-ratehike-timing-decision-4708698
+        verbatim_excerpt: "Deputy Governor Ryozo Himino told parliament"
+      - claim: institution — central bank
+        kind: named_institution
+        value: Bank of Japan
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "Japan's core consumer inflation measured by the Bank of Japan's new trend gauge"
+      - claim: institution — statistics bureau
+        kind: named_institution
+        value: Statistics Bureau
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        verbatim_excerpt: "the headline core CPI figure of 1.4% published by the Statistics Bureau last week"
+    quotes:
+      - speaker_name: Ryozo Himino
+        speaker_title: Deputy Governor, Bank of Japan
+        verbatim_en: "With real interest rates remaining very low, our policy rate is expected to continue rising in accordance to economic, price and financial developments."
+        source_url: https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        context: Statement to parliament, May 26 2026
+      - speaker_name: Ryozo Himino
+        speaker_title: Deputy Governor, Bank of Japan
+        verbatim_en: "Our baseline projection could change sharply depending on developments in the Middle East."
+        source_url: https://finance.yahoo.com/economy/policy/articles/bojs-trend-gauge-shows-inflation-051922302.html
+        context: Statement to parliament, May 26 2026
+
+  - story_id: japan-slips-third-largest-net-creditor-mof-iip
+    category: econ
+    headline_en: "Japan Slips to World's Third-Largest Net Creditor Behind Germany and China as MoF Releases End-2025 International Investment Position Data"
+    lead_url: https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+    body_source: full
+    corroborated_by:
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42207R:0-japan-slips-to-third-largest-creditor-behind-china-despite-record-net-external-assets/
+      - https://www.japantimes.co.jp/business/2026/05/26/economy/japan-creditor-slips-behind-china/
+      - https://www.bloomberg.com/news/articles/2026-05-25/japan-slips-to-world-s-no-3-creditor-behind-germany-and-china
+    locked_urls:
+      - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42207R:0-japan-slips-to-third-largest-creditor-behind-china-despite-record-net-external-assets/
+      - https://www.japantimes.co.jp/business/2026/05/26/economy/japan-creditor-slips-behind-china/
+      - https://www.bloomberg.com/news/articles/2026-05-25/japan-slips-to-world-s-no-3-creditor-behind-germany-and-china
+    hard_facts:
+      - claim: IIP data release date
+        kind: temporal
+        value: May 26, 2026
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "Japan's Ministry of Finance released official International Investment Position (IIP) data on May 26, 2026"
+      - claim: Japan net external assets year-on-year change
+        kind: numerical_with_unit
+        value: "4.4%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "net external assets rose 4.4% year-on-year"
+      - claim: Japan net external assets end-2025 in yen
+        kind: numerical_with_unit
+        value: "¥561.75 trillion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42207R:0-japan-slips-to-third-largest-creditor-behind-china-despite-record-net-external-assets/
+        verbatim_excerpt: "net external assets rose 4.4% year-on-year to an all-time record ¥561.75 trillion"
+      - claim: Japan net external assets end-2025 in USD
+        kind: numerical_with_unit
+        value: "$3.53 trillion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "an all-time record ¥561.75 trillion ($3.53 trillion)"
+      - claim: years of consecutive IIP growth
+        kind: numerical
+        value: "eighth consecutive year"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "the eighth consecutive year of growth"
+      - claim: Germany net external assets (first place)
+        kind: numerical_with_unit
+        value: "¥675.5 trillion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "Germany leads at ¥675.5 trillion"
+      - claim: China net external assets (second place)
+        kind: numerical_with_unit
+        value: "¥636.3 trillion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "China — whose net assets climbed at a faster pace — now stands second at ¥636.3 trillion"
+      - claim: years Japan held top creditor position
+        kind: numerical
+        value: "34 consecutive years"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "Japan held the world's top creditor position for 34 consecutive years"
+      - claim: total IIP assets
+        kind: numerical_with_unit
+        value: "¥1,805,634 billion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "Official breakdown: total assets ¥1,805,634 billion"
+      - claim: total IIP liabilities
+        kind: numerical_with_unit
+        value: "¥1,243,884 billion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "total liabilities ¥1,243,884 billion"
+      - claim: portfolio investment
+        kind: numerical_with_unit
+        value: "¥768,653 billion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "portfolio investment ¥768,653 billion"
+      - claim: direct investment
+        kind: numerical_with_unit
+        value: "¥384,535 billion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "direct investment ¥384,535 billion"
+      - claim: reserve assets
+        kind: numerical_with_unit
+        value: "¥213,672 billion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "reserve assets ¥213,672 billion"
+      - claim: rise in liabilities driven by foreign holdings of Japanese equities
+        kind: numerical_with_unit
+        value: "¥62.2 trillion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "partially constrained by a ¥62.2 trillion rise in liabilities driven by strong performance of Japanese equities held by non-residents"
+      - claim: institution — releasing ministry
+        kind: named_institution
+        value: Ministry of Finance Japan
+        source_urls:
+          - https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm
+        verbatim_excerpt: "Japan's Ministry of Finance released official International Investment Position (IIP) data"
+      - claim: Reuters byline for corroboration
+        kind: named_person
+        value: Makiko Yamazaki
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42207R:0-japan-slips-to-third-largest-creditor-behind-china-despite-record-net-external-assets/
+        verbatim_excerpt: "Reuters (byline: Makiko Yamazaki)"
+    quotes: []
+
+  - story_id: japan-3-trillion-extra-budget-fuel-subsidies
+    category: econ
+    headline_en: "Japan Announces ¥3 Trillion Extra Budget to Subsidise Fuel Costs; Finance Minister Katayama Confirms ¥513.5 Billion Reserve Fund Draw at Cabinet Meeting"
+    lead_url: https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42206P:0-japan-s-takaichi-unveils-19-billion-extra-budget-reassures-on-bond-issuance/
+      - https://www.gulf-times.com/article/726203/business/japans-takaichi-unveils-19bn-extra-budget-reassures-bond-issuance
+      - https://www.cnbc.com/2026/05/25/japan-takaichi-19-billion-extra-budget-reassures-bond-issuance.html
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42206P:0-japan-s-takaichi-unveils-19-billion-extra-budget-reassures-on-bond-issuance/
+      - https://www.gulf-times.com/article/726203/business/japans-takaichi-unveils-19bn-extra-budget-reassures-bond-issuance
+      - https://www.cnbc.com/2026/05/25/japan-takaichi-19-billion-extra-budget-reassures-bond-issuance.html
+    hard_facts:
+      - claim: announcement date and occasion
+        kind: temporal
+        value: Tuesday May 26
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "Finance Minister Satsuki Katayama announced on Tuesday May 26 following a cabinet meeting"
+      - claim: reserve fund draw amount in yen
+        kind: numerical_with_unit
+        value: "¥513.5 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42206P:0-japan-s-takaichi-unveils-19-billion-extra-budget-reassures-on-bond-issuance/
+        verbatim_excerpt: "Japan will use ¥513.5 billion ($3.2 billion) from the fiscal 2026 reserve fund"
+      - claim: reserve fund draw amount in USD
+        kind: numerical_with_unit
+        value: "$3.2 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "¥513.5 billion ($3.2 billion) from the fiscal 2026 reserve fund"
+      - claim: electricity and gas subsidies coverage period
+        kind: temporal
+        value: July–September 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "to finance electricity and gas subsidies for July–September 2026"
+      - claim: total supplementary budget in yen
+        kind: numerical_with_unit
+        value: "just over ¥3 trillion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42206P:0-japan-s-takaichi-unveils-19-billion-extra-budget-reassures-on-bond-issuance/
+        verbatim_excerpt: "confirmed the full supplementary budget of just over ¥3 trillion ($18.9 billion)"
+      - claim: total supplementary budget in USD
+        kind: numerical_with_unit
+        value: "$18.9 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42206P:0-japan-s-takaichi-unveils-19-billion-extra-budget-reassures-on-bond-issuance/
+        verbatim_excerpt: "just over ¥3 trillion ($18.9 billion) announced by Prime Minister Sanae Takaichi"
+      - claim: 10-year JGB yield reached
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "The 10-year JGB yield reached 2.8% the prior week"
+      - claim: 10-year JGB yield last at this level
+        kind: temporal
+        value: October 1996
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "its highest since October 1996"
+      - claim: fiscal 2026 debt-servicing costs year-on-year increase
+        kind: numerical_with_unit
+        value: "10.8%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "debt-servicing costs for fiscal 2026 jumped 10.8% to ¥31.3 trillion"
+      - claim: fiscal 2026 debt-servicing costs in yen
+        kind: numerical_with_unit
+        value: "¥31.3 trillion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "debt-servicing costs for fiscal 2026 jumped 10.8% to ¥31.3 trillion ($196 billion)"
+      - claim: fiscal 2026 debt-servicing costs in USD
+        kind: numerical_with_unit
+        value: "$196 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "¥31.3 trillion ($196 billion), the highest in 29 years"
+      - claim: years since debt-servicing costs this high
+        kind: numerical
+        value: "29 years"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "the highest in 29 years, based on an assumed 3.0% interest rate"
+      - claim: assumed interest rate for debt-servicing calculation
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "based on an assumed 3.0% interest rate"
+      - claim: Finance Minister
+        kind: named_person
+        value: Satsuki Katayama
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        verbatim_excerpt: "Finance Minister Satsuki Katayama announced on Tuesday May 26"
+      - claim: Prime Minister
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42206P:0-japan-s-takaichi-unveils-19-billion-extra-budget-reassures-on-bond-issuance/
+        verbatim_excerpt: "announced by Prime Minister Sanae Takaichi"
+    quotes:
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister, Japan
+        verbatim_en: "Regarding electricity and gas rates from July to September, we have decided to use ¥513.5 billion ($3.2 billion) from this year's reserve fund as a source of funding to provide support that will keep rates below last summer's levels."
+        source_url: https://www.bloomberg.com/news/articles/2026-05-26/japan-s-katayama-says-will-use-reserve-funds-for-extra-budget
+        context: Post-cabinet meeting press statement, May 26 2026
+
+  - story_id: japan-mof-26-trillion-june-jgb-auction
+    category: econ
+    headline_en: "Japan MoF Announces ¥2.6 Trillion June 2026 10-Year JGB Auction, Testing Market Appetite at 30-Year Yield Highs"
+    lead_url: https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+    hard_facts:
+      - claim: auction terms publication date
+        kind: temporal
+        value: May 26, 2026
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "Japan's Ministry of Finance published the terms for its June 2026 10-year Japanese Government Bond auction on May 26, 2026"
+      - claim: auction date
+        kind: temporal
+        value: June 2, 2026
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "Auction date: June 2, 2026"
+      - claim: issue date
+        kind: temporal
+        value: June 3, 2026
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "issue date: June 3, 2026"
+      - claim: maturity date
+        kind: temporal
+        value: March 20, 2036
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "maturity date: March 20, 2036 (10-year tenor)"
+      - claim: JGB offering amount in yen
+        kind: numerical_with_unit
+        value: "approximately ¥2,600 billion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "offering amount: approximately ¥2,600 billion ($16.3 billion)"
+      - claim: JGB offering amount in USD
+        kind: numerical_with_unit
+        value: "$16.3 billion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "approximately ¥2,600 billion ($16.3 billion)"
+      - claim: 10-year JGB yield spike level
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "recent 10-year JGB yield spikes to 2.8%"
+      - claim: 10-year JGB yield last at this level historically
+        kind: temporal
+        value: October 1996
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "their highest since October 1996"
+      - claim: debt-servicing costs for fiscal 2026
+        kind: numerical_with_unit
+        value: "¥31.3 trillion"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "debt-servicing costs for fiscal 2026 stand at 29-year highs of ¥31.3 trillion"
+      - claim: years since debt-servicing costs this high
+        kind: numerical
+        value: "29-year highs"
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "debt-servicing costs for fiscal 2026 stand at 29-year highs"
+      - claim: institution — issuing ministry
+        kind: named_institution
+        value: Ministry of Finance Japan
+        source_urls:
+          - https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20260526e.htm
+        verbatim_excerpt: "Japan's Ministry of Finance published the terms for its June 2026 10-year Japanese Government Bond auction"
+    quotes: []
+
+  - story_id: japan-lower-house-passes-personal-info-protection-bill
+    category: politics
+    headline_en: "Japan Lower House Passes Bill Revising Personal Information Protection Law, Introducing Profit-Equivalent Fines for Repeat Data Violators"
+    lead_url: https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+    hard_facts:
+      - claim: bill passage date
+        kind: temporal
+        value: May 26, 2026
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "Japan's House of Representatives approved legislation on May 26, 2026"
+      - claim: expected Diet session close
+        kind: temporal
+        value: July 2026
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "expected to be enacted before the Diet session closes in July 2026"
+      - claim: institution — lower house of parliament
+        kind: named_institution
+        value: House of Representatives
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "Japan's House of Representatives approved legislation on May 26, 2026"
+      - claim: institution — ruling party in support
+        kind: named_institution
+        value: Liberal Democratic Party
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "passed with support from the ruling Liberal Democratic Party and Japan Innovation Party"
+      - claim: institution — other party in support
+        kind: named_institution
+        value: Japan Innovation Party
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "the ruling Liberal Democratic Party and Japan Innovation Party, and the opposition Democratic Party for the People"
+      - claim: institution — opposition party in support
+        kind: named_institution
+        value: Democratic Party for the People
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "the opposition Democratic Party for the People"
+      - claim: institution — opposition group against (1)
+        kind: named_institution
+        value: Centrist Reform Alliance
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "Two opposition groups — the Centrist Reform Alliance and Sanseito — voted against"
+      - claim: institution — opposition group against (2)
+        kind: named_institution
+        value: Sanseito
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "the Centrist Reform Alliance and Sanseito — voted against"
+      - claim: institution — next legislative chamber
+        kind: named_institution
+        value: House of Councillors
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052600074/japan-lower-house-oks-bill-to-revise-personal-info-protection-law.html
+        verbatim_excerpt: "The bill moves to the House of Councillors for review"
+    quotes: []
+
+  - story_id: marcos-japan-state-visit-defence-energy-gsomia
+    category: politics
+    headline_en: "Philippine President Marcos Jr. Begins Japan State Visit; Defence Pacts, GSOMIA Talks and Energy Cooperation Top Agenda on 70th Diplomatic Anniversary"
+    lead_url: https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+    body_source: full
+    corroborated_by:
+      - https://mb.com.ph/2026/05/26/ph-japan-summit-on-70th-year-of-strategic-partnership
+      - https://www.philstar.com/headlines/2026/05/26/2530567/marcos-japan-4-day-state-visit
+      - https://www.gmanetwork.com/news/topstories/nation/988862/marcos-japan-visit-to-focus-on-maritime-security-energy-defense-investments/story/
+    locked_urls:
+      - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+      - https://mb.com.ph/2026/05/26/ph-japan-summit-on-70th-year-of-strategic-partnership
+      - https://www.philstar.com/headlines/2026/05/26/2530567/marcos-japan-4-day-state-visit
+      - https://www.gmanetwork.com/news/topstories/nation/988862/marcos-japan-visit-to-focus-on-maritime-security-energy-defense-investments/story/
+    hard_facts:
+      - claim: state visit date
+        kind: temporal
+        value: May 26, 2026
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "Philippine President Ferdinand Marcos Jr. flew to Tokyo on May 26, 2026"
+      - claim: duration of state visit
+        kind: temporal
+        value: four-day state visit
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "flew to Tokyo on May 26, 2026, for a four-day state visit"
+      - claim: previous Philippine presidential visit to Japan
+        kind: temporal
+        value: 2015
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "the first by a Philippine president since Benigno Aquino III in 2015"
+      - claim: Japan-Philippines diplomatic normalisation anniversary
+        kind: numerical
+        value: "70th anniversary"
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "coinciding with the 70th anniversary of the normalisation of Japan–Philippines diplomatic relations"
+      - claim: Japan energy fund size
+        kind: numerical_with_unit
+        value: "$10 billion"
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "Philippine access to Japan's $10 billion POWERR Asia fund"
+      - claim: POWERR Asia fund launch date
+        kind: temporal
+        value: April 15
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "Japan's $10 billion POWERR Asia fund launched April 15"
+      - claim: Filipinos living and working in Japan
+        kind: numerical_with_unit
+        value: "approximately 340,000 Filipinos"
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "an agreement covering approximately 340,000 Filipinos living and working in Japan"
+      - claim: Philippine President
+        kind: named_person
+        value: Ferdinand Marcos Jr.
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "Philippine President Ferdinand Marcos Jr. flew to Tokyo on May 26, 2026"
+      - claim: Philippine First Lady
+        kind: named_person
+        value: Louise Araneta-Marcos
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "Marcos and First Lady Louise Araneta-Marcos participated in ceremonial events"
+      - claim: Japanese Emperor
+        kind: named_person
+        value: Emperor Naruhito
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "welcomed by Emperor Naruhito and Empress Masako"
+      - claim: Japanese Empress
+        kind: named_person
+        value: Empress Masako
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "welcomed by Emperor Naruhito and Empress Masako"
+      - claim: Japanese Prime Minister
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "The summit with Prime Minister Sanae Takaichi"
+      - claim: previous Philippine president who visited Japan
+        kind: named_person
+        value: Benigno Aquino III
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "the first by a Philippine president since Benigno Aquino III in 2015"
+      - claim: institution — Philippine armed forces
+        kind: named_institution
+        value: Armed Forces of the Philippines
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "a supply-exchange logistics pact between the Armed Forces of the Philippines (AFP) and Japan's Self-Defense Forces"
+      - claim: institution — Japanese military
+        kind: named_institution
+        value: Japan's Self-Defense Forces
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "a supply-exchange logistics pact between the Armed Forces of the Philippines (AFP) and Japan's Self-Defense Forces"
+      - claim: defence agreement — existing pact
+        kind: named_product
+        value: Reciprocal Access Agreement
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "full implementation of the 2024 Reciprocal Access Agreement"
+      - claim: year of Reciprocal Access Agreement
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "full implementation of the 2024 Reciprocal Access Agreement"
+      - claim: intelligence-sharing agreement under negotiation
+        kind: named_product
+        value: General Security of Military Information Agreement (GSOMIA)
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "formal negotiations to open on a General Security of Military Information Agreement (GSOMIA)"
+      - claim: energy fund name
+        kind: named_product
+        value: POWERR Asia fund
+        source_urls:
+          - https://www.manilatimes.net/2026/05/26/news/national/defense-energy-top-priorities-in-marcos-state-visit-to-japan/2351152
+        verbatim_excerpt: "Philippine access to Japan's $10 billion POWERR Asia fund"
+    quotes: []
+
+  - story_id: yomiuri-giants-manager-abe-arrested-assault
+    category: society
+    headline_en: "Yomiuri Giants Manager Shinnosuke Abe Arrested on Suspicion of Assaulting Daughter; Resigns Same Day — Victim First Sought Help via ChatGPT"
+    lead_url: https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.japantimes.co.jp/sports/2026/05/26/baseball/japanese-baseball/giants-shinnosuke-abe-arrested/
+      - https://asia.nikkei.com/spotlight/society/crime/yomiuri-giants-manager-abe-resigns-after-arrest-on-suspicion-of-assault
+    locked_urls:
+      - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+      - https://www.japantimes.co.jp/sports/2026/05/26/baseball/japanese-baseball/giants-shinnosuke-abe-arrested/
+      - https://asia.nikkei.com/spotlight/society/crime/yomiuri-giants-manager-abe-resigns-after-arrest-on-suspicion-of-assault
+    hard_facts:
+      - claim: arrest occasion
+        kind: temporal
+        value: Monday evening
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "Tokyo Metropolitan Police arrested Shinnosuke Abe, 47, manager of the Yomiuri Giants, Japan's oldest and most storied professional baseball team, on Monday evening"
+      - claim: Abe's age
+        kind: numerical
+        value: "47"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "Tokyo Metropolitan Police arrested Shinnosuke Abe, 47"
+      - claim: daughter's age
+        kind: numerical
+        value: "18-year-old"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "on suspicion of assaulting his 18-year-old daughter"
+      - claim: location of incident
+        kind: named_institution
+        value: Shibuya Ward, Tokyo
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "at the family home in Shibuya Ward, Tokyo"
+      - claim: release date
+        kind: temporal
+        value: Tuesday May 26
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "Released on Tuesday May 26, Abe subsequently resigned as manager the same day"
+      - claim: Abe's career hits
+        kind: numerical_with_unit
+        value: "2,132 hits"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "Abe, a former catcher, had amassed 2,132 hits and 406 home runs over a 19-year playing career"
+      - claim: Abe's career home runs
+        kind: numerical_with_unit
+        value: "406 home runs"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "2,132 hits and 406 home runs over a 19-year playing career"
+      - claim: Abe's playing career duration
+        kind: temporal
+        value: 19-year playing career
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "over a 19-year playing career with the Giants"
+      - claim: year Abe became manager
+        kind: temporal
+        value: "2024 season"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "had been manager since the 2024 season"
+      - claim: Giants manager — accused
+        kind: named_person
+        value: Shinnosuke Abe
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+          - https://www.japantimes.co.jp/sports/2026/05/26/baseball/japanese-baseball/giants-shinnosuke-abe-arrested/
+        verbatim_excerpt: "Tokyo Metropolitan Police arrested Shinnosuke Abe, 47, manager of the Yomiuri Giants"
+      - claim: acting manager appointed
+        kind: named_person
+        value: Hideki Hashigami
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "Offensive chief coach Hideki Hashigami assumed the acting manager role"
+      - claim: institution — arresting police
+        kind: named_institution
+        value: Tokyo Metropolitan Police
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "Tokyo Metropolitan Police arrested Shinnosuke Abe"
+      - claim: institution — baseball team
+        kind: named_institution
+        value: Yomiuri Giants
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+          - https://www.japantimes.co.jp/sports/2026/05/26/baseball/japanese-baseball/giants-shinnosuke-abe-arrested/
+        verbatim_excerpt: "manager of the Yomiuri Giants, Japan's oldest and most storied professional baseball team"
+      - claim: institution — child welfare authority
+        kind: named_institution
+        value: child guidance centre
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "A child guidance centre received an emergency call after the daughter reported the incident"
+      - claim: technology used by daughter before reporting
+        kind: named_product
+        value: ChatGPT
+        source_urls:
+          - https://asia.nikkei.com/spotlight/society/crime/japan-pro-baseball-yomiuri-giants-manager-abe-arrested-for-assault
+        verbatim_excerpt: "she had first consulted the AI chatbot ChatGPT before contacting authorities"
+    quotes: []

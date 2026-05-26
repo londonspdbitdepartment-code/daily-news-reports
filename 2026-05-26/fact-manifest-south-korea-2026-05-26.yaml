@@ -1,0 +1,857 @@
+version: 1
+generated_at: "2026-05-26T00:00:00Z"
+country: South Korea
+date: "2026-05-26"
+total_stories: 11
+stories:
+  - story_id: kospi-closes-above-8000-first-time
+    category: econ
+    headline_en: KOSPI Closes Above 8,000 for First Time as Iran Ceasefire Hopes and Chip Rally Converge
+    lead_url: https://www.koreaherald.com/article/10756338
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/business/economy/20260526
+      - https://www.koreaherald.com/article/10756209
+    locked_urls:
+      - https://www.koreaherald.com/article/10756338
+      - https://www.koreatimes.co.kr/business/economy/20260526
+      - https://www.koreaherald.com/article/10756209
+    hard_facts:
+      - claim: KOSPI closing level on May 26
+        kind: numerical_with_unit
+        value: "8,047.51"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "KOSPI index closed at a historic 8,047.51 on May 26"
+      - claim: KOSPI points gained
+        kind: numerical_with_unit
+        value: "199.8 points (2.55%)"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "gaining 199.8 points (2.55%)"
+      - claim: KOSPI intraday high on May 26
+        kind: numerical_with_unit
+        value: "8,131.15"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "touching an intraday high of 8,131.15"
+      - claim: Brent crude price change
+        kind: numerical_with_unit
+        value: "-7.15% to $96.14/barrel"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "Brent crude down 7.15% to $96.14/barrel"
+      - claim: Samsung Electronics share gain
+        kind: numerical_with_unit
+        value: "2.22%"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "Samsung Electronics rose 2.22%"
+      - claim: SK hynix share gain
+        kind: numerical_with_unit
+        value: "5.72%"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "SK hynix surged 5.72%"
+      - claim: SK hynix share price milestone
+        kind: numerical_with_unit
+        value: "₩2 million per share"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "breach ₩2 million per share for the first time"
+      - claim: Hyundai Motor share gain
+        kind: numerical_with_unit
+        value: "5.19%"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "Hyundai Motor gained 5.19%"
+      - claim: Korean won strengthening
+        kind: numerical_with_unit
+        value: "12.9 won to close at 1,504.3 per dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "Korean won strengthened 12.9 won to close at 1,504.3 per dollar"
+      - claim: Trading volume
+        kind: numerical_with_unit
+        value: "₩18.4 trillion"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "Trading volume hit ₩18.4 trillion"
+      - claim: Semiconductor stocks contribution to index gains
+        kind: numerical_with_unit
+        value: "over 60%"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "semiconductor stocks contributed over 60% of the index's gains"
+      - claim: Foreign investor net buying streak ending
+        kind: numerical
+        value: "13 sessions"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "Foreign investors ended the session as net buyers for the first time in 13 sessions"
+      - claim: Named institution — analyst firm
+        kind: named_institution
+        value: "Mirae Asset Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "Market analysts at Mirae Asset Securities"
+      - claim: Named institution — stock exchange regulator
+        kind: named_institution
+        value: "KRX"
+        source_urls:
+          - https://www.koreaherald.com/article/10756338
+        verbatim_excerpt: "The KRX noted"
+    quotes:
+      - speaker_name: Mirae Asset Securities analyst
+        speaker_title: Analyst, Mirae Asset Securities
+        verbatim_en: "A generational milestone for Korean equities."
+        source_url: https://www.koreaherald.com/article/10756338
+        context: Analyst comment on KOSPI closing above 8,000 for the first time
+
+  - story_id: us-iran-ceasefire-seoul-350b-investment
+    category: econ
+    headline_en: US-Iran Draft Ceasefire Accord Eases Oil Risk; Seoul's $350B US Investment Pledge Intact Amid Section 301 Probe
+    lead_url: https://www.koreaherald.com/article/10756450
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/politics/diplomacy/20260526-trade
+    locked_urls:
+      - https://www.koreaherald.com/article/10756450
+      - https://www.koreatimes.co.kr/politics/diplomacy/20260526-trade
+    hard_facts:
+      - claim: US-Iran ceasefire extension duration
+        kind: numerical_with_unit
+        value: "60-day ceasefire extension"
+        source_urls:
+          - https://www.koreaherald.com/article/10756450
+        verbatim_excerpt: "terms including a 60-day ceasefire extension"
+      - claim: Strait of Hormuz reopening timeline in draft
+        kind: temporal
+        value: "within 30 days"
+        source_urls:
+          - https://www.koreaherald.com/article/10756450
+        verbatim_excerpt: "the Strait of Hormuz reopening within 30 days"
+      - claim: Brent crude change
+        kind: numerical_with_unit
+        value: "-7%"
+        source_urls:
+          - https://www.koreaherald.com/article/10756450
+        verbatim_excerpt: "Brent -7%"
+      - claim: Seoul US investment commitment value
+        kind: numerical_with_unit
+        value: "$350 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10756450
+        verbatim_excerpt: "its $350 billion US investment commitment"
+      - claim: US Supreme Court ruling date on IEEPA tariffs
+        kind: temporal
+        value: "February"
+        source_urls:
+          - https://www.koreaherald.com/article/10756450
+        verbatim_excerpt: "US Supreme Court's February ruling invalidating IEEPA reciprocal tariffs"
+      - claim: Special investment act effective date
+        kind: temporal
+        value: "June effective date"
+        source_urls:
+          - https://www.koreaherald.com/article/10756450
+        verbatim_excerpt: "after the act's June effective date"
+      - claim: Named person — Trade Minister
+        kind: named_person
+        value: "Cheong In-kyo"
+        source_urls:
+          - https://www.koreaherald.com/article/10756450
+        verbatim_excerpt: "Trade Minister Cheong In-kyo told reporters"
+      - claim: Priority investment sectors
+        kind: named_product
+        value: "steel, batteries, and shipbuilding"
+        source_urls:
+          - https://www.koreaherald.com/article/10756450
+        verbatim_excerpt: "Industry officials cited steel, batteries, and shipbuilding as priority investment sectors"
+    quotes:
+      - speaker_name: Cheong In-kyo
+        speaker_title: Trade Minister, South Korea
+        verbatim_en: "Bilateral talks are progressing constructively."
+        source_url: https://www.koreaherald.com/article/10756450
+        context: Comment on US-Korea bilateral trade talks amid Section 301 probe
+
+  - story_id: lee-nuclear-submarine-opcon-transfer
+    category: politics
+    headline_en: President Lee Announces Nuclear-Powered Submarine Roadmap, Orders Accelerated OPCON Transfer
+    lead_url: https://www.koreaherald.com/article/10756021
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10756266
+      - https://www.koreatimes.co.kr/nation/defense/20260526
+    locked_urls:
+      - https://www.koreaherald.com/article/10756021
+      - https://www.koreaherald.com/article/10756266
+      - https://www.koreatimes.co.kr/nation/defense/20260526
+    hard_facts:
+      - claim: Named person — President
+        kind: named_person
+        value: "Lee Jae-myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "President Lee Jae-myung on May 26"
+      - claim: Meeting location
+        kind: named_institution
+        value: "Changwon"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "inaugural meeting of the Committee on Future Defence Strategy in Changwon"
+      - claim: First submarine target timeline
+        kind: temporal
+        value: "mid-2030s"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "first submarine in the mid-2030s"
+      - claim: Active service timeline
+        kind: temporal
+        value: "late 2030s or beyond"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "active service in late 2030s or beyond"
+      - claim: Uranium enrichment level
+        kind: numerical_with_unit
+        value: "below 20% U-235"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "low-enriched uranium (below 20% U-235)"
+      - claim: OPCON transfer Korea target
+        kind: temporal
+        value: "end-2028"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "currently targeting end-2028"
+      - claim: OPCON transfer US-proposed timeline
+        kind: temporal
+        value: "Q1 2029"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "vs. the US-proposed Q1 2029"
+      - claim: US endorsement of submarine programme
+        kind: temporal
+        value: "October 2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "seven months after the US endorsed the programme at the October 2025 Lee-Trump summit"
+      - claim: Initial development cost estimate
+        kind: numerical_with_unit
+        value: "approximately ₩7 trillion in initial development costs"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "approximately ₩7 trillion in initial development costs"
+      - claim: Named person — Defence Minister
+        kind: named_person
+        value: "Ahn Gyu-back"
+        source_urls:
+          - https://www.koreaherald.com/article/10756021
+        verbatim_excerpt: "Defence Minister Ahn Gyu-back"
+    quotes:
+      - speaker_name: Lee Jae-myung
+        speaker_title: President, South Korea
+        verbatim_en: "Speed up the introduction of nuclear-powered submarines, which are core strategic assets for future defence capabilities."
+        source_url: https://www.koreaherald.com/article/10756021
+        context: Directive issued at inaugural Committee on Future Defence Strategy meeting in Changwon
+      - speaker_name: Ahn Gyu-back
+        speaker_title: Defence Minister, South Korea
+        verbatim_en: "Approximately ₩7 trillion in initial development costs."
+        source_url: https://www.koreaherald.com/article/10756021
+        context: Statement on cost of nuclear-powered submarine programme
+
+  - story_id: north-korea-8-missiles-yellow-sea
+    category: politics
+    headline_en: North Korea Fires Eight Ballistic Missiles and Rockets into Yellow Sea — First Provocation Since April 19
+    lead_url: https://www.koreaherald.com/article/10756291
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/nation/defense/20260526-missile
+      - https://www.euronews.com/2026/05/26/north-korea-missile-test
+    locked_urls:
+      - https://www.koreaherald.com/article/10756291
+      - https://www.koreatimes.co.kr/nation/defense/20260526-missile
+      - https://www.euronews.com/2026/05/26/north-korea-missile-test
+    hard_facts:
+      - claim: Number of ballistic missile tests in 2026 including this one
+        kind: numerical
+        value: "eighth ballistic missile test of 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "North Korea's eighth ballistic missile test of 2026"
+      - claim: Previous provocation date
+        kind: temporal
+        value: "April 19"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "its first since April 19"
+      - claim: Launch time
+        kind: temporal
+        value: "around 1:00 p.m. local time on May 26"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "around 1:00 p.m. local time on May 26"
+      - claim: Launch location
+        kind: named_institution
+        value: "near Chongju, North Pyongan Province"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "from near Chongju, North Pyongan Province"
+      - claim: Projectile flight distance
+        kind: numerical_with_unit
+        value: "approximately 80 km"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "flew approximately 80 km into the Yellow Sea"
+      - claim: Named institution — South Korea JCS
+        kind: named_institution
+        value: "Joint Chiefs of Staff"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "South Korea's Joint Chiefs of Staff"
+      - claim: Named institution — analysis body
+        kind: named_institution
+        value: "Korea Institute for Defense Analyses"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "Analysts at the Korea Institute for Defense Analyses"
+      - claim: Named person — North Korean leader
+        kind: named_person
+        value: "Kim Jong-un"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "renewed dialogue with Kim Jong-un"
+      - claim: Named person — Chinese leader
+        kind: named_person
+        value: "Xi Jinping"
+        source_urls:
+          - https://www.koreaherald.com/article/10756291
+        verbatim_excerpt: "Chinese President Xi Jinping may visit Pyongyang"
+    quotes:
+      - speaker_name: JCS
+        speaker_title: Joint Chiefs of Staff, South Korea
+        verbatim_en: "A state of full readiness."
+        source_url: https://www.koreaherald.com/article/10756291
+        context: JCS characterisation of South Korea's military posture following North Korean missile launches
+
+  - story_id: 151532-foreign-voters-june3-elections
+    category: politics
+    headline_en: Record 151,532 Foreign Voters Registered for June 3 Local Elections, Triple the 2014 Figure
+    lead_url: https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+    hard_facts:
+      - claim: Registered foreign voters 2026
+        kind: numerical
+        value: "151,532"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "151,532 foreign permanent residents are registered to vote"
+      - claim: Registered foreign voters 2014
+        kind: numerical
+        value: "48,428"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "triple the 48,428 eligible in 2014"
+      - claim: Election date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "June 3 local and parliamentary by-elections"
+      - claim: Campaign launch date
+        kind: temporal
+        value: "May 21"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "Campaigns officially launched on May 21"
+      - claim: Number of candidates
+        kind: numerical
+        value: "7,813 candidates"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "7,813 candidates"
+      - claim: Parliamentary by-election seats
+        kind: numerical
+        value: "four parliamentary seats"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "four parliamentary seats"
+      - claim: Ruling party lead in Seoul mayoral race
+        kind: numerical_with_unit
+        value: "8 points vs. 15 in April"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "Seoul mayoral race (now 8 points vs. 15 in April)"
+      - claim: Foreign voter permanent residency requirement
+        kind: temporal
+        value: "3 or more years"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "Foreign voters must have held F-5 permanent residency for 3 or more years"
+      - claim: Named institution — election commission
+        kind: named_institution
+        value: "National Election Commission"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "South Korea's National Election Commission confirmed"
+      - claim: Top cities by foreign voter count
+        kind: named_institution
+        value: "Ansan, Bucheon, and Suwon"
+        source_urls:
+          - https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        verbatim_excerpt: "Ansan, Bucheon, and Suwon lead in foreign voter counts"
+    quotes:
+      - speaker_name: NEC official
+        speaker_title: Official, National Election Commission, South Korea
+        verbatim_en: "Expanded outreach in Chinese, Vietnamese, and English."
+        source_url: https://www.koreatimes.co.kr/nation/politics/20260526-foreign-voters
+        context: NEC comment on voter outreach efforts for June 3 elections
+
+  - story_id: sk-hynix-ihbm-cooling-hbm5
+    category: tech
+    headline_en: SK Hynix Unveils iHBM Integrated Cooling Technology for Next-Generation HBM5 Chips
+    lead_url: https://www.koreaherald.com/article/10756207
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10756207
+    hard_facts:
+      - claim: Named product — new technology
+        kind: named_product
+        value: "iHBM (integrated High-Bandwidth Memory)"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "SK hynix on May 26 introduced iHBM (integrated High-Bandwidth Memory)"
+      - claim: Thermal resistance reduction
+        kind: numerical_with_unit
+        value: "over 30%"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "reduces thermal resistance by over 30%"
+      - claim: iHBM debut product
+        kind: named_product
+        value: "HBM5"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "iHBM will debut with HBM5"
+      - claim: HBM5 anticipated timeline
+        kind: temporal
+        value: "around 2029-2030"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "anticipated around 2029-2030"
+      - claim: SK hynix Q1 2026 operating margin
+        kind: numerical_with_unit
+        value: "72% operating margin"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "record Q1 2026 results with a 72% operating margin"
+      - claim: SK hynix global HBM market share
+        kind: numerical_with_unit
+        value: "57% global HBM market share"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "holds a 57% global HBM market share"
+      - claim: SK hynix 2026 capex
+        kind: numerical_with_unit
+        value: "$14.6 billion in 2026 capex"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "investing $14.6 billion in 2026 capex, the largest in its history"
+      - claim: Briefing location
+        kind: named_institution
+        value: "Icheon"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "unveiled at the company's R&D briefing in Icheon"
+      - claim: Named person — CEO
+        kind: named_person
+        value: "Kwak Noh-jung"
+        source_urls:
+          - https://www.koreaherald.com/article/10756207
+        verbatim_excerpt: "SK hynix CEO Kwak Noh-jung"
+    quotes:
+      - speaker_name: Kwak Noh-jung
+        speaker_title: CEO, SK hynix
+        verbatim_en: "Investing $14.6 billion in 2026 capex, the largest in its history."
+        source_url: https://www.koreaherald.com/article/10756207
+        context: CEO statement on capital expenditure during iHBM R&D briefing in Icheon
+
+  - story_id: samsung-dx-union-wage-vote-injunction
+    category: tech
+    headline_en: Samsung DX Non-Chip Union Files Court Injunction to Block Wage Vote, Membership Surges to 13,000
+    lead_url: https://www.koreaherald.com/article/10756155
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10756155
+    hard_facts:
+      - claim: Named institution — union
+        kind: named_institution
+        value: "Samsung Electronics Donghaeng Labor Union"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "The Samsung Electronics Donghaeng Labor Union"
+      - claim: Named institution — court
+        kind: named_institution
+        value: "Suwon District Court"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "filed an injunction at Suwon District Court"
+      - claim: Injunction filing date
+        kind: temporal
+        value: "May 26"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "filed an injunction at Suwon District Court on May 26"
+      - claim: Union membership before surge
+        kind: numerical
+        value: "approximately 2,600"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "membership surged from approximately 2,600"
+      - claim: Union membership after surge
+        kind: numerical
+        value: "approximately 13,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "to approximately 13,000 in a single day"
+      - claim: Chip division annual performance bonus range
+        kind: numerical_with_unit
+        value: "₩210–600 million in performance bonuses annually"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "chip-division workers stand to receive ₩210–600 million in performance bonuses annually"
+      - claim: DX employee share allocation
+        kind: numerical_with_unit
+        value: "approximately ₩6 million in company shares"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "DX employees would receive approximately ₩6 million in company shares"
+      - claim: Average wage increase in tentative deal
+        kind: numerical_with_unit
+        value: "6.2% average wage increase"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "including a 6.2% average wage increase"
+      - claim: Semiconductor performance bonus in deal
+        kind: numerical_with_unit
+        value: "10.5% of operating profit"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "a semiconductor performance bonus of 10.5% of operating profit"
+      - claim: Tentative deal signing date
+        kind: temporal
+        value: "May 20"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "signed on May 20 without DX participation"
+      - claim: Vote deadline
+        kind: temporal
+        value: "10 a.m. May 27"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "The vote runs until 10 a.m. May 27"
+      - claim: Court ruling deadline
+        kind: temporal
+        value: "before May 27 noon KST"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "expected to rule before May 27 noon KST"
+      - claim: Named person — union leader
+        kind: named_person
+        value: "Kim Hyun-jun"
+        source_urls:
+          - https://www.koreaherald.com/article/10756155
+        verbatim_excerpt: "Union leader Kim Hyun-jun"
+    quotes:
+      - speaker_name: Kim Hyun-jun
+        speaker_title: Union Leader, Samsung Electronics Donghaeng Labor Union
+        verbatim_en: "Blatantly favors chip workers and ignores the contribution of consumer electronics."
+        source_url: https://www.koreaherald.com/article/10756155
+        context: Comment on compensation gap between chip and DX divisions in tentative wage deal
+
+  - story_id: heavy-rain-flood-warnings-south-korea
+    category: society
+    headline_en: Heavy Rain and Flood Warnings Across South Korea on May 26; Emergency Services Activated
+    lead_url: https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10755517
+    locked_urls:
+      - https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+      - https://www.koreaherald.com/article/10755517
+    hard_facts:
+      - claim: Named institution — meteorological authority
+        kind: named_institution
+        value: "Korea Meteorological Administration"
+        source_urls:
+          - https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+        verbatim_excerpt: "The Korea Meteorological Administration issued heavy rain warnings"
+      - claim: Hourly rainfall exceeding threshold
+        kind: numerical_with_unit
+        value: "50 mm"
+        source_urls:
+          - https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+        verbatim_excerpt: "Hourly rainfall in parts of the Seoul metropolitan area, South Jeolla, South Gyeongsang, and Jeju exceeded 50 mm"
+      - claim: Jeju forecast rainfall
+        kind: numerical_with_unit
+        value: "up to 200 mm"
+        source_urls:
+          - https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+        verbatim_excerpt: "Jeju forecasted to receive up to 200 mm"
+      - claim: Named institution — emergency HQ
+        kind: named_institution
+        value: "Central Disaster and Safety Countermeasures Headquarters"
+        source_urls:
+          - https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+        verbatim_excerpt: "Interior Ministry activated its Central Disaster and Safety Countermeasures Headquarters"
+      - claim: Severe weather advisories coverage
+        kind: numerical_with_unit
+        value: "14 of 17 administrative regions"
+        source_urls:
+          - https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+        verbatim_excerpt: "KMA issued severe weather advisories for 14 of 17 administrative regions"
+      - claim: Minor injuries in Busan
+        kind: numerical
+        value: "Three minor injuries"
+        source_urls:
+          - https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+        verbatim_excerpt: "Three minor injuries reported in Busan due to subway flooding"
+      - claim: Power outage households in Jeju
+        kind: numerical
+        value: "roughly 1,200 households"
+        source_urls:
+          - https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+        verbatim_excerpt: "Power outages affected roughly 1,200 households in Jeju"
+    quotes:
+      - speaker_name: KMA
+        speaker_title: Korea Meteorological Administration
+        verbatim_en: "Severe weather advisories for 14 of 17 administrative regions."
+        source_url: https://www.archyde.com/heavy-rain-south-korea-2026-05-26/
+        context: KMA advisory scope statement during May 26 heavy rain event
+
+  - story_id: joseon-royal-tombs-free-wednesdays
+    category: society
+    headline_en: Joseon Royal Tombs to Offer Free Admission Every Wednesday Starting This Week
+    lead_url: https://www.koreaherald.com/article/10755966
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10755966
+    hard_facts:
+      - claim: Named institution — heritage authority
+        kind: named_institution
+        value: "Korea Heritage Service"
+        source_urls:
+          - https://www.koreaherald.com/article/10755966
+        verbatim_excerpt: "Korea Heritage Service announced on May 26"
+      - claim: Number of UNESCO-listed royal tombs
+        kind: numerical
+        value: "40"
+        source_urls:
+          - https://www.koreaherald.com/article/10755966
+        verbatim_excerpt: "the 40 UNESCO-listed Joseon Dynasty royal tombs"
+      - claim: Deoksugung free admission start
+        kind: temporal
+        value: "August"
+        source_urls:
+          - https://www.koreaherald.com/article/10755966
+        verbatim_excerpt: "Deoksugung in August"
+      - claim: Changdeokgung, Changgyeonggung, Jongmyo Shrine free admission start
+        kind: temporal
+        value: "October"
+        source_urls:
+          - https://www.koreaherald.com/article/10755966
+        verbatim_excerpt: "Changdeokgung, Changgyeonggung, and Jongmyo Shrine in October"
+      - claim: Q1 2026 foreign tourist arrivals
+        kind: numerical_with_unit
+        value: "5.2 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10755966
+        verbatim_excerpt: "Foreign tourist arrivals in Q1 2026 reached 5.2 million"
+      - claim: Foreign tourist arrival year-on-year growth
+        kind: numerical_with_unit
+        value: "38% year-on-year increase"
+        source_urls:
+          - https://www.koreaherald.com/article/10755966
+        verbatim_excerpt: "a 38% year-on-year increase"
+      - claim: Named person — KHS Administrator
+        kind: named_person
+        value: "Choi Eung-chon"
+        source_urls:
+          - https://www.koreaherald.com/article/10755966
+        verbatim_excerpt: "Korea Heritage Service Administrator Choi Eung-chon"
+    quotes:
+      - speaker_name: Choi Eung-chon
+        speaker_title: Administrator, Korea Heritage Service
+        verbatim_en: "Lower barriers to cultural heritage and expand mid-week visitation."
+        source_url: https://www.koreaherald.com/article/10755966
+        context: Policy rationale for expanding free Wednesday admission to Joseon royal tombs
+
+  - story_id: peace-peace-studio-ipo-kosdaq
+    category: ipo_ma
+    headline_en: Peace Peace Studio Opens IPO Retail Subscription at Top of Range
+    lead_url: https://www.sedaily.com/NewsView/2026052610
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.sedaily.com/NewsView/2026052610
+    hard_facts:
+      - claim: Named institution — company
+        kind: named_institution
+        value: "Peace Peace Studio"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "Peace Peace Studio, a South Korean entertainment content studio"
+      - claim: Retail subscription period
+        kind: temporal
+        value: "May 26-27"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "two-day retail subscription period (May 26-27)"
+      - claim: Named institution — exchange
+        kind: named_institution
+        value: "KOSDAQ"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "on the KOSDAQ"
+      - claim: Offering price
+        kind: numerical_with_unit
+        value: "₩21,500"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "offering price set at ₩21,500 — the top of the indicative range"
+      - claim: Total offering value
+        kind: numerical_with_unit
+        value: "₩48.9 billion (~$34M)"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "Total offering: ₩48.9 billion (~$34M)"
+      - claim: Expected post-listing market cap
+        kind: numerical_with_unit
+        value: "₩304.6 billion (~$216M)"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "Expected market cap post-listing: ₩304.6 billion (~$216M)"
+      - claim: Institutional book-building period
+        kind: temporal
+        value: "May 14-20"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "Institutional book-building ran May 14-20"
+      - claim: IPO market companies listed Jan-Apr 2026
+        kind: numerical
+        value: "12 companies"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "only 12 companies listed January-April vs. 27 in the same period of 2025"
+      - claim: IPO market companies listed Jan-Apr 2025
+        kind: numerical
+        value: "27"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "vs. 27 in the same period of 2025"
+      - claim: Lead underwriters
+        kind: named_institution
+        value: "Mirae Asset Securities, NH Investment & Securities"
+        source_urls:
+          - https://www.sedaily.com/NewsView/2026052610
+        verbatim_excerpt: "Lead underwriters: Mirae Asset Securities, NH Investment & Securities"
+    quotes: []
+
+  - story_id: seoul-2026-unicorn-challenge-startup
+    category: other
+    headline_en: Seoul Launches "2026 Seoul Unicorn Challenge" — International Startup Competition Open to Global Firms
+    lead_url: https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+    hard_facts:
+      - claim: Named institution — organiser
+        kind: named_institution
+        value: "Seoul Metropolitan Government"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "The Seoul Metropolitan Government on May 26 announced"
+      - claim: Named product — competition
+        kind: named_product
+        value: "2026 Seoul Unicorn Challenge"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "the 2026 Seoul Unicorn Challenge"
+      - claim: Eligible firm age limit
+        kind: temporal
+        value: "under 10 years old"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "Eligible firms must be under 10 years old"
+      - claim: Number of finalists
+        kind: numerical
+        value: "Seven finalists"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "Seven finalists will pitch"
+      - claim: Pitch event location
+        kind: named_institution
+        value: "Dongdaemun Design Plaza"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "pitch at Dongdaemun Design Plaza on September 10"
+      - claim: Pitch event date
+        kind: temporal
+        value: "September 10"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "at Dongdaemun Design Plaza on September 10"
+      - claim: Named product — tech festival
+        kind: named_product
+        value: "Try Everything 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "\"Try Everything 2026,\" Seoul's flagship tech festival"
+      - claim: Total prize pool
+        kind: numerical_with_unit
+        value: "₩120 million ($88,000)"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "Prize pool: ₩120 million ($88,000)"
+      - claim: Grand prize value
+        kind: numerical_with_unit
+        value: "₩50 million"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "grand prize ₩50 million"
+      - claim: Named institution — cloud support provider
+        kind: named_institution
+        value: "Naver Cloud"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "Naver Cloud infrastructure support"
+      - claim: Last year applicant count
+        kind: numerical
+        value: "312 applicants"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "Last year's competition drew 312 applicants from 18 countries"
+      - claim: Last year countries represented
+        kind: numerical
+        value: "18 countries"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "312 applicants from 18 countries"
+      - claim: Named person — Seoul Mayor
+        kind: named_person
+        value: "Oh Se-hoon"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        verbatim_excerpt: "Seoul Mayor Oh Se-hoon"
+    quotes:
+      - speaker_name: Oh Se-hoon
+        speaker_title: Mayor, Seoul Metropolitan Government
+        verbatim_en: "Become a global launchpad for emerging tech firms."
+        source_url: https://www.koreatimes.co.kr/business/tech/20260526-unicorn
+        context: Mayor's statement on Seoul's ambition as Asia-Pacific venture hub at 2026 Unicorn Challenge launch
