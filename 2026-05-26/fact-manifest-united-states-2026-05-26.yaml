@@ -1,0 +1,1700 @@
+version: 1
+generated_at: "2026-05-26T12:00:00Z"
+country: United States
+date: "2026-05-26"
+total_stories: 12
+stories:
+  - story_id: us-treasury-yields-slide-memorial-day-iran
+    category: econ
+    headline_en: US Treasury Yields Slide on Memorial Day Return as Iran Peace Optimism Lifts Markets
+    lead_url: https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-05-25/asian-stocks-set-to-extend-gains-on-us-iran-hopes-markets-wrap
+      - https://www.benzinga.com/markets/prediction-markets/26/05/52769764/sp500-may-26-open-or-down-polymarket-iran-talks-oil-prices
+    locked_urls:
+      - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+      - https://www.bloomberg.com/news/articles/2026-05-25/asian-stocks-set-to-extend-gains-on-us-iran-hopes-markets-wrap
+      - https://www.benzinga.com/markets/prediction-markets/26/05/52769764/sp500-may-26-open-or-down-polymarket-iran-talks-oil-prices
+    hard_facts:
+      - claim: 10-year Treasury yield decline
+        kind: numerical_with_unit
+        value: "more than 6 basis points"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "The 10-year Treasury note yield declined more than 6 basis points to 4.510%"
+      - claim: 10-year Treasury note yield level
+        kind: numerical_with_unit
+        value: "4.510%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "The 10-year Treasury note yield declined more than 6 basis points to 4.510%"
+      - claim: 2-year yield decline
+        kind: numerical_with_unit
+        value: "more than 6 basis points"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "the 2-year yield fell more than 6 basis points to 4.066%"
+      - claim: 2-year Treasury yield level
+        kind: numerical_with_unit
+        value: "4.066%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "the 2-year yield fell more than 6 basis points to 4.066%"
+      - claim: 30-year bond yield decline
+        kind: numerical_with_unit
+        value: "more than 5 basis points"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "the 30-year bond yield fell more than 5 basis points to 5.028%"
+      - claim: 30-year Treasury bond yield level
+        kind: numerical_with_unit
+        value: "5.028%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "the 30-year bond yield fell more than 5 basis points to 5.028%"
+      - claim: WTI crude oil futures decline
+        kind: numerical_with_unit
+        value: "more than 5%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "WTI crude oil futures fell more than 5% to approximately $90.30 per barrel in early trading"
+      - claim: WTI crude oil price
+        kind: numerical_with_unit
+        value: "approximately $90.30 per barrel"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "WTI crude oil futures fell more than 5% to approximately $90.30 per barrel in early trading"
+      - claim: Brent crude oil price
+        kind: numerical_with_unit
+        value: "approximately $96.14"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "Brent crude fell to approximately $96.14"
+      - claim: S&P 500 futures gain
+        kind: numerical_with_unit
+        value: "approximately 1%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "S&P 500 futures gained approximately 1%"
+      - claim: Dow advance in points
+        kind: numerical_with_unit
+        value: "300 points"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "with the Dow advancing 300 points"
+      - claim: Nasdaq-100 gain
+        kind: numerical_with_unit
+        value: "1%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "and the Nasdaq-100 up 1%"
+      - claim: 30-year yield prior-week peak
+        kind: numerical_with_unit
+        value: "5.197%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "The 30-year yield had briefly hit 5.197% the prior week, its highest since July 2007"
+      - claim: date of 30-year yield prior-week high context
+        kind: temporal
+        value: "highest since July 2007"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "its highest since July 2007, reflecting concerns about the federal deficit"
+      - claim: federal deficit estimate fiscal year 2026
+        kind: numerical_with_unit
+        value: "approximately $2 trillion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "estimated at approximately $2 trillion in fiscal year 2026"
+      - claim: national average gasoline price
+        kind: numerical_with_unit
+        value: "approximately $4.55 per gallon"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "National average gasoline prices stand at approximately $4.55 per gallon"
+      - claim: Federal Reserve H.6 Money Stock Measures release time
+        kind: temporal
+        value: "1:00 p.m. EDT on May 26"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "The Federal Reserve released the H.6 Money Stock Measures at 1:00 p.m. EDT on May 26"
+      - claim: probability of 25-basis-point rate hike by December 2026
+        kind: numerical_with_unit
+        value: "roughly 40%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "Traders are pricing in a roughly 40% probability of a 25-basis-point rate hike by December 2026"
+      - claim: new Federal Reserve Chair
+        kind: named_person
+        value: Kevin Warsh
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "New Federal Reserve Chair Kevin Warsh — sworn in at the White House on May 22"
+      - claim: date Kevin Warsh sworn in
+        kind: temporal
+        value: "May 22"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "sworn in at the White House on May 22 by Justice Clarence Thomas"
+      - claim: Justice who administered Warsh oath
+        kind: named_person
+        value: Clarence Thomas
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "sworn in at the White House on May 22 by Justice Clarence Thomas"
+      - claim: prior Fed chair sworn in at White House
+        kind: named_person
+        value: Alan Greenspan
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "the first Fed chair to take office at the White House since Alan Greenspan in 1987"
+      - claim: year Alan Greenspan took office at White House
+        kind: temporal
+        value: "1987"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "the first Fed chair to take office at the White House since Alan Greenspan in 1987"
+      - claim: Trump social media platform
+        kind: named_product
+        value: "Truth Social"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "President Trump stated on Truth Social that talks are \"proceeding nicely.\""
+      - claim: event date (Memorial Day return)
+        kind: temporal
+        value: "Tuesday, May 26"
+        source_urls:
+          - https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        verbatim_excerpt: "US Treasury yields fell broadly on Tuesday, May 26, as bond markets returned from the Memorial Day holiday"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "proceeding nicely."
+        source_url: https://www.cnbc.com/2026/05/26/treasury-yields-us-strikes-on-iran-oil-bonds.html
+        context: Truth Social post regarding US-Iran peace talks, May 26 2026
+
+  - story_id: us-fiscal-strain-39-trillion-debt-3b-daily
+    category: econ
+    headline_en: "US Fiscal Strain Intensifies: $39 Trillion National Debt, $3 Billion Daily Interest Payments"
+    lead_url: https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+    body_source: full
+    corroborated_by:
+      - https://fiscaldata.treasury.gov/datasets/daily-treasury-statement/
+      - https://www.cbo.gov/publication/61882
+    locked_urls:
+      - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+      - https://fiscaldata.treasury.gov/datasets/daily-treasury-statement/
+      - https://www.cbo.gov/publication/61882
+    hard_facts:
+      - claim: US national debt
+        kind: numerical_with_unit
+        value: "approximately $39 trillion"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "The US national debt stands at approximately $39 trillion as of May 2026"
+      - claim: Treasury daily interest payment
+        kind: numerical_with_unit
+        value: "approximately $3 billion per day"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "with the Treasury paying approximately $3 billion per day"
+      - claim: year-to-date net interest payment
+        kind: numerical_with_unit
+        value: "$628 billion"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "or $628 billion in net interest year-to-date — to service its borrowing"
+      - claim: CBO projected federal budget deficit FY2026
+        kind: numerical_with_unit
+        value: "$1.9 trillion"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+          - https://www.cbo.gov/publication/61882
+        verbatim_excerpt: "The Congressional Budget Office projects the federal budget deficit at $1.9 trillion in fiscal year 2026"
+      - claim: OMB estimate of federal budget deficit FY2026
+        kind: numerical_with_unit
+        value: "$2.06 trillion"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "while OMB estimates $2.06 trillion"
+      - claim: monthly Treasury borrowing pace
+        kind: numerical_with_unit
+        value: "more than $166 billion per month"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "the Treasury borrowed more than $166 billion per month in the current fiscal year"
+      - claim: CBO federal debt to GDP ratio 2026
+        kind: numerical_with_unit
+        value: "101% of GDP"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+          - https://www.cbo.gov/publication/61882
+        verbatim_excerpt: "federal debt held by the public rising from 101% of GDP in 2026"
+      - claim: CBO federal debt to GDP ratio 2036 projection
+        kind: numerical_with_unit
+        value: "120% of GDP"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+          - https://www.cbo.gov/publication/61882
+        verbatim_excerpt: "to 120% of GDP in 2036"
+      - claim: post-World War II record debt-to-GDP ratio
+        kind: numerical_with_unit
+        value: "106% of GDP"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "surpassing the post-World War II record of 106% of GDP set in 1946"
+      - claim: year post-WWII debt-to-GDP record was set
+        kind: temporal
+        value: "1946"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "surpassing the post-World War II record of 106% of GDP set in 1946"
+      - claim: cost of Iran war to US
+        kind: numerical_with_unit
+        value: "$29 billion"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "exacerbated by the $29 billion cost of the Iran war"
+      - claim: legislation increasing long-term deficit
+        kind: named_product
+        value: "One Big Beautiful Bill Act"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "the long-term impact of tax cuts and spending increases in the One Big Beautiful Bill Act (signed July 4, 2025)"
+      - claim: date One Big Beautiful Bill Act was signed
+        kind: temporal
+        value: "July 4, 2025"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "the One Big Beautiful Bill Act (signed July 4, 2025)"
+      - claim: 30-year Treasury yield prior-week peak
+        kind: numerical_with_unit
+        value: "5.197%"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "with the 30-year hitting 5.197% last week — its highest since July 2007"
+      - claim: named speaker on deficit
+        kind: named_person
+        value: Maya MacGuineas
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "Maya MacGuineas, president of the Committee for a Responsible Federal Budget, stated"
+      - claim: Maya MacGuineas institution
+        kind: named_institution
+        value: "Committee for a Responsible Federal Budget"
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "Maya MacGuineas, president of the Committee for a Responsible Federal Budget"
+      - claim: article byline
+        kind: named_person
+        value: Eleanor Pringle
+        source_urls:
+          - https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        verbatim_excerpt: "Byline: Eleanor Pringle (confirmed via WebFetch)"
+    quotes:
+      - speaker_name: Maya MacGuineas
+        speaker_title: President, Committee for a Responsible Federal Budget
+        verbatim_en: "$2 trillion deficits used to be unheard of, and then they only occurred during major recessions — it's beyond scary that $2 trillion deficits are now the norm."
+        source_url: https://fortune.com/2026/05/11/us-treasury-debt-3-billion-daily-interest-39-trillion/
+        context: Statement on US fiscal trajectory published in Fortune, May 2026
+
+  - story_id: us-iran-peace-deal-irgc-drone-qatar-talks
+    category: politics
+    headline_en: "US-Iran Peace Deal Advances; IRGC Shoots Down US Drone as Talks Continue in Qatar"
+    lead_url: https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+    body_source: full
+    corroborated_by:
+      - https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control/
+      - https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates
+      - https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077
+    locked_urls:
+      - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+      - https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control/
+      - https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates
+      - https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077
+    hard_facts:
+      - claim: IRGC drone downing date
+        kind: temporal
+        value: "May 26, 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "Iran's Islamic Revolutionary Guard Corps (IRGC) on May 26, 2026, claimed it \"downed\" a US Reaper drone"
+      - claim: type of drone downed by IRGC
+        kind: named_product
+        value: "Reaper drone"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "claimed it \"downed\" a US Reaper drone that had entered Iranian airspace"
+      - claim: location of US strikes in Iran
+        kind: named_institution
+        value: "Bandar Abbas"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "with explosions reported in the port city"
+      - claim: ceasefire start date
+        kind: temporal
+        value: "April 8"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "A fragile ceasefire has been in place since April 8, punctuated by repeated skirmishes"
+      - claim: mediator country for US-Iran talks
+        kind: named_institution
+        value: "Qatar"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "Iranian officials met Qatari mediators in Doha for talks coordinated with the US"
+      - claim: Iran-deal framework enriched uranium policy label
+        kind: named_product
+        value: "No dust, no dollars"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "characterised by US officials as \"No dust, no dollars\""
+      - claim: proposed ceasefire extension length
+        kind: temporal
+        value: "60-day ceasefire extension"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "The proposed framework offers a 60-day ceasefire extension"
+      - claim: US-Israel strike launch date on Iran
+        kind: temporal
+        value: "February 28"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "The conflict — launched with joint US-Israeli strikes on February 28"
+      - claim: cost of conflict to the US
+        kind: numerical_with_unit
+        value: "approximately $29 billion"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "has cost the US approximately $29 billion"
+      - claim: Brent crude price during conflict
+        kind: numerical_with_unit
+        value: "around $102 per barrel"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "pushed Brent crude to around $102 per barrel"
+      - claim: Strait of Hormuz share of global oil supply
+        kind: numerical_with_unit
+        value: "approximately 20%"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "which normally carries approximately 20% of global oil supply"
+      - claim: Iran Supreme Leader identity
+        kind: named_person
+        value: Mojtaba Khamenei
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "Iranian Supreme Leader Mojtaba Khamenei stated that Middle East nations \"will no longer serve as shields for US bases\""
+      - claim: Pakistan army chief traveled to Tehran
+        kind: named_institution
+        value: "Pakistan"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "Pakistan's army chief traveled to Tehran to provide additional mediation"
+      - claim: Al Jazeera bylines
+        kind: named_person
+        value: "Stephen Quillen, Heba Habib, Alex Milan Durie"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        verbatim_excerpt: "Byline: Stephen Quillen, Heba Habib, Alex Milan Durie (confirmed via WebFetch)"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "largely negotiated"
+        source_url: https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        context: Truth Social post on status of US-Iran deal, May 26 2026
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "Both sides must take their time and get it right. There can be no mistakes!"
+        source_url: https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        context: Truth Social post on US-Iran peace deal negotiations, May 26 2026
+      - speaker_name: Marco Rubio
+        speaker_title: US Secretary of State
+        verbatim_en: "We are going to give diplomacy every chance to succeed before we explore the alternatives."
+        source_url: https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks
+        context: Secretary of State statement on US-Iran diplomacy, May 26 2026
+
+  - story_id: rubio-quad-new-delhi-maritime-minerals
+    category: politics
+    headline_en: Rubio Hosts Quad Foreign Ministers in New Delhi; Announces Maritime and Minerals Initiatives
+    lead_url: https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+    body_source: full
+    corroborated_by:
+      - https://www.washingtonpost.com/world/2026/05/26/india-quad-rubio/ca564ed8-58b7-11f1-8a9d-afb1148204e1_story.html
+      - https://www.indiatvnews.com/news/india/quad-foreign-ministers-meeting-marco-rubio-says-quad-is-a-focum-to-act-on-problems-facing-world-2026-05-26-1042460
+      - https://www.pbs.org/newshour/world/rubios-visit-to-india-focuses-on-u-s-trade-tensions-the-quad-alliance-and-sightseeing
+    locked_urls:
+      - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+      - https://www.washingtonpost.com/world/2026/05/26/india-quad-rubio/ca564ed8-58b7-11f1-8a9d-afb1148204e1_story.html
+      - https://www.indiatvnews.com/news/india/quad-foreign-ministers-meeting-marco-rubio-says-quad-is-a-focum-to-act-on-problems-facing-world-2026-05-26-1042460
+      - https://www.pbs.org/newshour/world/rubios-visit-to-india-focuses-on-u-s-trade-tensions-the-quad-alliance-and-sightseeing
+    hard_facts:
+      - claim: Quad meeting date
+        kind: temporal
+        value: "Tuesday, May 26, 2026"
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "US Secretary of State Marco Rubio convened the Quad foreign ministers' meeting in New Delhi on Tuesday, May 26, 2026"
+      - claim: US Secretary of State
+        kind: named_person
+        value: Marco Rubio
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "US Secretary of State Marco Rubio convened the Quad foreign ministers' meeting"
+      - claim: Indian External Affairs Minister
+        kind: named_person
+        value: "S. Jaishankar"
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "bringing together Indian External Affairs Minister S. Jaishankar"
+      - claim: Japanese Foreign Minister
+        kind: named_person
+        value: Toshimitsu Motegi
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "Japanese Foreign Minister Toshimitsu Motegi"
+      - claim: Australian Foreign Minister
+        kind: named_person
+        value: Penny Wong
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "and Australian Foreign Minister Penny Wong"
+      - claim: Rubio trip dates to India
+        kind: temporal
+        value: "May 21–26"
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "Rubio's four-day trip to India (May 21–26)"
+      - claim: Indian Prime Minister
+        kind: named_person
+        value: Narendra Modi
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "bilateral meetings with Prime Minister Narendra Modi and Jaishankar"
+      - claim: Quad partner nation for joint infrastructure project
+        kind: named_institution
+        value: "Fiji"
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "a Quad-Fiji port infrastructure partnership — the four nations' first joint regional infrastructure project"
+      - claim: AP wire bylines
+        kind: named_person
+        value: "Sheikh Saaliq, Eduardo Castillo"
+        source_urls:
+          - https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        verbatim_excerpt: "Byline: Sheikh Saaliq (AP); Eduardo Castillo (AP, Beijing) — confirmed via WebFetch"
+    quotes:
+      - speaker_name: Marco Rubio
+        speaker_title: US Secretary of State
+        verbatim_en: "We are deeply committed to this partnership. It is a linchpin in a cornerstone of our global strategy as a nation."
+        source_url: https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        context: Quad foreign ministers' meeting, New Delhi, May 26 2026
+      - speaker_name: Penny Wong
+        speaker_title: Australian Foreign Minister
+        verbatim_en: "We recognize the importance of maintaining the principle of freedom of navigation."
+        source_url: https://www.ksat.com/news/world/2026/05/26/quad-foreign-ministers-hold-talks-in-new-delhi-on-indo-pacific-cooperation/
+        context: Quad foreign ministers' meeting, New Delhi, May 26 2026
+
+  - story_id: house-republicans-defer-iran-war-powers-vote
+    category: politics
+    headline_en: House Republicans Defer Iran War Powers Vote Again; Democrats Vow Action After Recess
+    lead_url: https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/05/22/g-s1-123592/republicans-call-off-vote-on-iran-war-resolution
+      - https://www.cnn.com/2026/05/21/politics/house-trump-iran-war-powers
+      - https://time.com/article/2026/05/22/democrats-criticize-house-republicans-for-canceling-war-powers-vote-trump/
+    locked_urls:
+      - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+      - https://www.npr.org/2026/05/22/g-s1-123592/republicans-call-off-vote-on-iran-war-resolution
+      - https://www.cnn.com/2026/05/21/politics/house-trump-iran-war-powers
+      - https://time.com/article/2026/05/22/democrats-criticize-house-republicans-for-canceling-war-powers-vote-trump/
+    hard_facts:
+      - claim: House return from Memorial Day recess date
+        kind: temporal
+        value: "May 26, 2026"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "The US House of Representatives returned from the Memorial Day recess on May 26, 2026"
+      - claim: cancelled vote date
+        kind: temporal
+        value: "May 21"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "Republican leaders cancelled a scheduled vote on May 21 — the last legislative day before the holiday"
+      - claim: War Powers Resolution sponsor
+        kind: named_person
+        value: "Gregory Meeks"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "Democratic Rep. Gregory Meeks (D-NY), the sponsor"
+      - claim: Meeks party and state
+        kind: named_institution
+        value: "D-NY"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "Democratic Rep. Gregory Meeks (D-NY)"
+      - claim: number of Republicans who previously voted in favour
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "A previous House vote nearly passed in a tie, with three Republicans in favour and one Democrat"
+      - claim: Democrat who previously voted against
+        kind: named_person
+        value: "Jared Golden"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "one Democrat (Rep. Jared Golden of Maine) against; Golden indicated he would now vote in favour"
+      - claim: Golden's state
+        kind: named_institution
+        value: "Maine"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "Rep. Jared Golden of Maine"
+      - claim: Republican who declared need to follow the law
+        kind: named_person
+        value: "Brian Fitzpatrick"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "Rep. Brian Fitzpatrick (R-PA) declared: \"We have to follow the law.\""
+      - claim: Fitzpatrick party and state
+        kind: named_institution
+        value: "R-PA"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "Rep. Brian Fitzpatrick (R-PA)"
+      - claim: Senate war powers resolution vote tally
+        kind: numerical_with_unit
+        value: "50-47"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "The Senate advanced a similar war powers resolution 50-47 with four Republican senators supporting it"
+      - claim: number of Republican senators supporting Senate war powers resolution
+        kind: numerical
+        value: "four"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "50-47 with four Republican senators supporting it"
+      - claim: senator who called war a strategic blunder
+        kind: named_person
+        value: "Tammy Duckworth"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "including Sen. Tammy Duckworth (D-IL), who characterised the war as \"a strategic blunder.\""
+      - claim: Duckworth party and state
+        kind: named_institution
+        value: "D-IL"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "Sen. Tammy Duckworth (D-IL)"
+      - claim: Iran war launch date (no prior congressional authorisation)
+        kind: temporal
+        value: "February 28"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "The Iran war, launched February 28 without prior congressional authorisation"
+      - claim: total war cost
+        kind: numerical_with_unit
+        value: "approximately $29 billion"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "has consumed approximately $29 billion"
+      - claim: national gasoline price above
+        kind: numerical_with_unit
+        value: "$4.55 per gallon"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "brought gasoline prices above $4.55 per gallon nationally"
+      - claim: Republican primary defeat engineered by Trump
+        kind: named_person
+        value: "Thomas Massie"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "including defeating Rep. Thomas Massie (R-KY) via a primary challenger"
+      - claim: Massie party and state
+        kind: named_institution
+        value: "R-KY"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "Rep. Thomas Massie (R-KY)"
+      - claim: Senate runoff Trump primary target
+        kind: named_person
+        value: "John Cornyn"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "backing Ken Paxton against Sen. John Cornyn (R-TX) in a Senate runoff"
+      - claim: Trump-backed Senate candidate against Cornyn
+        kind: named_person
+        value: "Ken Paxton"
+        source_urls:
+          - https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        verbatim_excerpt: "backing Ken Paxton against Sen. John Cornyn (R-TX)"
+    quotes:
+      - speaker_name: Gregory Meeks
+        speaker_title: Representative (D-NY), US House of Representatives
+        verbatim_en: "We had the votes to pass it today. Every Democrat was on board, we had the sufficient number of Republicans on board."
+        source_url: https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        context: Statement on War Powers Resolution, May 21 2026
+      - speaker_name: Brian Fitzpatrick
+        speaker_title: Representative (R-PA), US House of Representatives
+        verbatim_en: "We have to follow the law."
+        source_url: https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        context: Statement on Iran War Powers Resolution, May 2026
+      - speaker_name: Tammy Duckworth
+        speaker_title: Senator (D-IL), US Senate
+        verbatim_en: "a strategic blunder."
+        source_url: https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/
+        context: Senate characterisation of Iran war, May 2026
+
+  - story_id: nvidia-record-81b-revenue-5-trillion-market-cap
+    category: tech
+    headline_en: "Nvidia's Record $81.6B Revenue and $5 Trillion Market Cap Dominate Post-Earnings AI Chip Debate"
+    lead_url: https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html
+      - https://fortune.com/2026/05/20/nvidia-q1-earnings-forecast-dividend-stock-buybacks/
+      - https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Kicks-Off-the-Next-Generation-of-AI-With-Rubin--Six-New-Chips-One-Incredible-AI-Supercomputer/default.aspx
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+      - https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html
+      - https://fortune.com/2026/05/20/nvidia-q1-earnings-forecast-dividend-stock-buybacks/
+      - https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Kicks-Off-the-Next-Generation-of-AI-With-Rubin--Six-New-Chips-One-Incredible-AI-Supercomputer/default.aspx
+    hard_facts:
+      - claim: Nvidia quarterly profit (Feb–Apr 2026)
+        kind: numerical_with_unit
+        value: "$58.3 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Nvidia reported record quarterly profit of $58.3 billion for the February–April 2026 quarter"
+      - claim: profit quarter-over-quarter growth
+        kind: numerical_with_unit
+        value: "37% quarter-over-quarter"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "up 37% quarter-over-quarter"
+      - claim: profit year-on-year growth
+        kind: numerical_with_unit
+        value: "more than 200% year-on-year"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "and more than 200% year-on-year"
+      - claim: Nvidia quarterly revenue
+        kind: numerical_with_unit
+        value: "$81.6 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+          - https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html
+          - https://fortune.com/2026/05/20/nvidia-q1-earnings-forecast-dividend-stock-buybacks/
+        verbatim_excerpt: "with revenue of $81.6 billion"
+      - claim: revenue quarter-over-quarter growth
+        kind: numerical_with_unit
+        value: "20%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "up 20% from the prior quarter"
+      - claim: revenue year-over-year growth
+        kind: numerical_with_unit
+        value: "85% year-over-year"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "and 85% year-over-year"
+      - claim: data-centre revenue
+        kind: numerical_with_unit
+        value: "$75.2 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Data-centre revenue reached $75.2 billion"
+      - claim: data-centre revenue year-on-year growth
+        kind: numerical_with_unit
+        value: "92% year-on-year"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "up 92% year-on-year"
+      - claim: hardware revenue
+        kind: numerical_with_unit
+        value: "$6.4 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Hardware revenue reached $6.4 billion"
+      - claim: hardware revenue year-over-year growth
+        kind: numerical_with_unit
+        value: "29% year-over-year"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "up 29% year-over-year"
+      - claim: current-quarter revenue projection
+        kind: numerical_with_unit
+        value: "$91 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Nvidia projected current-quarter revenue of $91 billion"
+      - claim: analyst estimate for current-quarter revenue
+        kind: numerical_with_unit
+        value: "approximately $86.84 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "above analyst estimates of approximately $86.84 billion"
+      - claim: Nvidia stock buyback announced
+        kind: numerical_with_unit
+        value: "$80 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Nvidia announced an $80 billion stock buyback"
+      - claim: previous quarterly dividend
+        kind: numerical_with_unit
+        value: "$0.01"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "raised its quarterly dividend from $0.01 to $0.25 per share"
+      - claim: new quarterly dividend
+        kind: numerical_with_unit
+        value: "$0.25 per share"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "raised its quarterly dividend from $0.01 to $0.25 per share"
+      - claim: Nvidia market capitalisation
+        kind: numerical_with_unit
+        value: "$5 trillion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+          - https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html
+        verbatim_excerpt: "Nvidia's market capitalisation now exceeds $5 trillion"
+      - claim: Nvidia share decline after-hours
+        kind: numerical_with_unit
+        value: "nearly 1.5%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Nvidia shares fell nearly 1.5% in after-hours trading"
+      - claim: Nvidia stock 52-week high range
+        kind: numerical_with_unit
+        value: "$215-236"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "though the stock remained near 52-week highs around $215-236"
+      - claim: global semiconductor market annual sales tracking
+        kind: numerical_with_unit
+        value: "$1 trillion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "the global semiconductor market now tracking toward $1 trillion in annual sales"
+      - claim: PHLX Semiconductor Index year-to-date gain
+        kind: numerical_with_unit
+        value: "more than 65%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "the PHLX Semiconductor Index (SOX) up more than 65% year-to-date"
+      - claim: named semiconductor index
+        kind: named_product
+        value: "PHLX Semiconductor Index (SOX)"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "the PHLX Semiconductor Index (SOX)"
+      - claim: Bank of America raised global semiconductor market forecast for 2026
+        kind: numerical_with_unit
+        value: "$1.3 trillion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Bank of America raised its global semiconductor market forecast from $1.0 trillion to $1.3 trillion for 2026"
+      - claim: Bank of America prior forecast
+        kind: numerical_with_unit
+        value: "$1.0 trillion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Bank of America raised its global semiconductor market forecast from $1.0 trillion"
+      - claim: Nvidia CEO
+        kind: named_person
+        value: Jensen Huang
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "CEO Jensen Huang stated on the earnings call"
+      - claim: institution turned down Nvidia and Broadcom capacity request
+        kind: named_institution
+        value: "TSMC"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        verbatim_excerpt: "Nvidia and Broadcom reportedly requested additional manufacturing capacity from TSMC but were turned down"
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia
+        verbatim_en: "Demand has gone parabolic … Agentic AI has arrived. AI can now do productive and valuable work."
+        source_url: https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom
+        context: Nvidia Q1 FY2027 earnings call, May 20-21 2026
+
+  - story_id: us-govt-expands-ai-testing-trump-cancels-eo
+    category: tech
+    headline_en: US Government Expands AI Model Testing Agreements; Trump Cancels AI Executive Order Signing
+    lead_url: https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+    body_source: full
+    corroborated_by:
+      - https://thehill.com/homenews/5863937-google-microsoft-xai-ai-testing/
+      - https://www.claimsjournal.com/news/national/2026/05/05/337371.htm
+    locked_urls:
+      - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+      - https://thehill.com/homenews/5863937-google-microsoft-xai-ai-testing/
+      - https://www.claimsjournal.com/news/national/2026/05/05/337371.htm
+    hard_facts:
+      - claim: CAISI announcement date
+        kind: temporal
+        value: "May 5, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "The US Commerce Department's Center for AI Standards and Innovation (CAISI) announced on May 5, 2026"
+      - claim: US government AI testing institution
+        kind: named_institution
+        value: "Center for AI Standards and Innovation (CAISI)"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "The US Commerce Department's Center for AI Standards and Innovation (CAISI)"
+      - claim: AI companies entering CAISI agreements
+        kind: named_institution
+        value: "Google DeepMind"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "agreements with Google DeepMind, Microsoft, and Elon Musk's xAI"
+      - claim: AI companies entering CAISI agreements (Microsoft)
+        kind: named_institution
+        value: "Microsoft"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "agreements with Google DeepMind, Microsoft, and Elon Musk's xAI"
+      - claim: AI companies entering CAISI agreements (xAI)
+        kind: named_institution
+        value: "xAI"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "and Elon Musk's xAI"
+      - claim: earlier CAISI partnership companies
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "build on earlier 2024 partnerships with OpenAI and Anthropic"
+      - claim: earlier CAISI partnership companies (Anthropic)
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "build on earlier 2024 partnerships with OpenAI and Anthropic"
+      - claim: year of prior OpenAI/Anthropic partnerships
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "build on earlier 2024 partnerships with OpenAI and Anthropic"
+      - claim: Commerce Secretary directing CAISI
+        kind: named_person
+        value: "Howard Lutnick"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "CAISI's directives from Commerce Secretary Howard Lutnick"
+      - claim: Anthropic AI security model
+        kind: named_product
+        value: "Claude Mythos Preview"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "Anthropic's Claude Mythos Preview — a model specialising in identifying software security vulnerabilities"
+      - claim: Anthropic CEO
+        kind: named_person
+        value: "Dario Amodei"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "with CEO Dario Amodei meeting senior Trump administration officials at the White House"
+      - claim: Anthropic pending valuation round
+        kind: numerical_with_unit
+        value: "$900 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+        verbatim_excerpt: "Anthropic's pending $900 billion valuation round"
+    quotes: []
+
+  - story_id: garden-grove-chemical-tank-bleve-16000-evacuated
+    category: society
+    headline_en: "Garden Grove Chemical Tank Emergency: Explosion Threat Eliminated, 16,000 Still Evacuated"
+    lead_url: https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+    body_source: full
+    corroborated_by:
+      - https://www.cnn.com/2026/05/22/us/chemical-spill-orange-county-california
+    locked_urls:
+      - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+      - https://www.cnn.com/2026/05/22/us/chemical-spill-orange-county-california
+    hard_facts:
+      - claim: BLEVE elimination declared date
+        kind: temporal
+        value: "Monday, May 26, 2026"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "Officials declared on Monday, May 26, 2026 that the threat of a catastrophic BLEVE (Boiling Liquid Expanding Vapor Explosion) at a methyl methacrylate (MMA) storage tank at the GKN Aerospace facility in Garden Grove, Orange County, California, has been eliminated"
+      - claim: type of explosion eliminated
+        kind: named_product
+        value: "BLEVE (Boiling Liquid Expanding Vapor Explosion)"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "the threat of a catastrophic BLEVE (Boiling Liquid Expanding Vapor Explosion)"
+      - claim: chemical involved
+        kind: named_product
+        value: "methyl methacrylate (MMA)"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "methyl methacrylate (MMA) storage tank"
+      - claim: facility where incident occurred
+        kind: named_institution
+        value: "GKN Aerospace"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "at the GKN Aerospace facility in Garden Grove"
+      - claim: location of facility
+        kind: named_institution
+        value: "Garden Grove, Orange County, California"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "at the GKN Aerospace facility in Garden Grove, Orange County, California"
+      - claim: current evacuees under mandatory orders
+        kind: numerical_with_unit
+        value: "approximately 16,000 residents"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "approximately 16,000 residents remain under mandatory evacuation orders"
+      - claim: peak evacuees
+        kind: numerical_with_unit
+        value: "50,000"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "down from a peak of 50,000 when the crisis began on May 21, 2026"
+      - claim: crisis start date
+        kind: temporal
+        value: "May 21, 2026"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "when the crisis began on May 21, 2026"
+      - claim: water volume used for cooling
+        kind: numerical_with_unit
+        value: "millions and millions of gallons"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "crews used \"millions and millions of gallons\" of water through deluge systems and ground monitors"
+      - claim: cooling duration
+        kind: temporal
+        value: "five days"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "through deluge systems and ground monitors over five days"
+      - claim: tank capacity
+        kind: numerical_with_unit
+        value: "34,000-gallon tank"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "the 34,000-gallon tank"
+      - claim: remaining MMA inside tank
+        kind: numerical_with_unit
+        value: "approximately 6,500 gallons"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "approximately 6,500 gallons of MMA believed to remain inside"
+      - claim: tank stabilised temperature
+        kind: numerical_with_unit
+        value: "93 degrees Fahrenheit"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "The tank temperature had stabilized to 93 degrees Fahrenheit"
+      - claim: number of arrests during evacuation
+        kind: numerical
+        value: "seven"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "Garden Grove Police Chief Amir El-Farra reported that seven arrests were made during the evacuation period"
+      - claim: looting arrests
+        kind: numerical
+        value: "one"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "including one for looting"
+      - claim: prowling arrests
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "and six for prowling"
+      - claim: time incident began
+        kind: temporal
+        value: "approximately 3:40 p.m. PDT"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "The incident began May 21 at approximately 3:40 p.m. PDT"
+      - claim: GKN Aerospace prior violation fine year
+        kind: temporal
+        value: "2021"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "GKN Aerospace paid approximately $1 million in 2021 for prior violations"
+      - claim: GKN Aerospace prior violation fine amount
+        kind: numerical_with_unit
+        value: "approximately $1 million"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "GKN Aerospace paid approximately $1 million in 2021 for prior violations"
+      - claim: regulatory body for prior violations
+        kind: named_institution
+        value: "South Coast Air Quality Management District"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "documented by the South Coast Air Quality Management District"
+      - claim: Orange County Fire Authority Chief
+        kind: named_person
+        value: "Craig Covey"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "Orange County Fire Authority Chief Craig Covey explained"
+      - claim: Garden Grove Police Chief
+        kind: named_person
+        value: "Amir El-Farra"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "Garden Grove Police Chief Amir El-Farra reported"
+      - claim: Orange County District Attorney
+        kind: named_person
+        value: "Todd Spitzer"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "Orange County District Attorney Todd Spitzer opened a criminal investigation"
+      - claim: Garden Grove Mayor
+        kind: named_person
+        value: "Stephanie Klopfenstein"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "Mayor Stephanie Klopfenstein stated the city \"remains committed to understanding what happened\""
+      - claim: ABC7 reporter bylines
+        kind: named_person
+        value: "Bianca Buono, Niku Kazori, Mónica De Anda, Amy Powell, Tim Pulliam, Liz Nagy"
+        source_urls:
+          - https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        verbatim_excerpt: "Byline: Bianca Buono, Niku Kazori, Mónica De Anda, Amy Powell, Tim Pulliam, Liz Nagy"
+    quotes:
+      - speaker_name: Todd Spitzer
+        speaker_title: Orange County District Attorney
+        verbatim_en: "To me, on its face, it's unconscionable"
+        source_url: https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        context: Criminal investigation announcement regarding absence of redundant cooling systems at GKN Aerospace facility
+      - speaker_name: Craig Covey
+        speaker_title: Chief, Orange County Fire Authority
+        verbatim_en: "millions and millions of gallons"
+        source_url: https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19168154/
+        context: Briefing on water usage to cool the MMA storage tank over five days
+
+  - story_id: senate-medicaid-cuts-obbba-post-recess
+    category: society
+    headline_en: US Senate Debate on Medicaid Cuts Under One Big Beautiful Bill Act Resumes After Memorial Day Recess
+    lead_url: https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+    hard_facts:
+      - claim: Senate return from Memorial Day recess date
+        kind: temporal
+        value: "May 26, 2026"
+        source_urls:
+          - https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+        verbatim_excerpt: "Senate Republicans return from the Memorial Day recess on May 26, 2026"
+      - claim: bill under consideration
+        kind: named_product
+        value: "One Big Beautiful Bill Act (OBBBA)"
+        source_urls:
+          - https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+        verbatim_excerpt: "the One Big Beautiful Bill Act (OBBBA) Medicaid provisions back on the floor agenda"
+      - claim: CBO estimate of Medicaid coverage loss by 2034
+        kind: numerical_with_unit
+        value: "11.8 million people"
+        source_urls:
+          - https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+        verbatim_excerpt: "The Congressional Budget Office estimates the Medicaid cuts in the current version of the bill would cause 11.8 million people to lose coverage by 2034"
+      - claim: CBO Medicaid coverage loss target year
+        kind: temporal
+        value: "2034"
+        source_urls:
+          - https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+        verbatim_excerpt: "11.8 million people to lose coverage by 2034"
+      - claim: date OBBBA originally signed
+        kind: temporal
+        value: "July 4, 2025"
+        source_urls:
+          - https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+        verbatim_excerpt: "The bill, signed July 4, 2025 in its initial form"
+      - claim: US national debt milestone referenced
+        kind: numerical_with_unit
+        value: "$39 trillion"
+        source_urls:
+          - https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+        verbatim_excerpt: "in the wake of the $39 trillion national debt milestone reached in May 2026"
+      - claim: Senate Finance Committee markup schedule
+        kind: temporal
+        value: "late May and June 2026"
+        source_urls:
+          - https://www.statnews.com/2026/05/22/medicaid-cuts-senate-obbba/
+        verbatim_excerpt: "The Senate Finance Committee has scheduled markup hearings for late May and June 2026"
+    quotes: []
+
+  - story_id: spacex-s1-ipo-75b-raise-275b-valuation-nasdaq
+    category: ipo_ma
+    headline_en: SpaceX Files S-1 for Historic IPO Targeting $75 Billion Raise and $275 Billion Valuation on Nasdaq
+    lead_url: https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/05/20/nx-s1-5812731/elon-musk-spacex-ai-ipo
+      - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+      - https://www.fool.com/investing/2026/05/25/the-spacex-ipo-is-coming-these-are-the-3-most-impo/
+      - https://fortune.com/2026/05/20/spacex-ipo-filing-s1-total-addressable-market-make-life-multiplanetary/
+    locked_urls:
+      - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+      - https://www.npr.org/2026/05/20/nx-s1-5812731/elon-musk-spacex-ai-ipo
+      - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+      - https://www.fool.com/investing/2026/05/25/the-spacex-ipo-is-coming-these-are-the-3-most-impo/
+      - https://fortune.com/2026/05/20/spacex-ipo-filing-s1-total-addressable-market-make-life-multiplanetary/
+    hard_facts:
+      - claim: SpaceX S-1 filing date
+        kind: temporal
+        value: "May 20, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "Space Exploration Technologies Corp. (SpaceX) filed its Form S-1 registration statement with the US Securities and Exchange Commission on May 20, 2026"
+      - claim: SpaceX SEC CIK number
+        kind: numerical
+        value: "0001181412"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "(CIK 0001181412)"
+      - claim: SpaceX IPO raise target
+        kind: numerical_with_unit
+        value: "approximately $75 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "The company is targeting a raise of approximately $75 billion"
+      - claim: SpaceX IPO valuation target
+        kind: numerical_with_unit
+        value: "$275 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "at a valuation of $275 billion"
+      - claim: roadshow start date
+        kind: temporal
+        value: "the week of June 8, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "with the roadshow scheduled to begin the week of June 8, 2026"
+      - claim: IPO pricing target window
+        kind: temporal
+        value: "June 18–30, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "and IPO pricing targeted for June 18–30, 2026"
+      - claim: exchange for listing
+        kind: named_institution
+        value: "Nasdaq"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "listing on the Nasdaq exchange"
+      - claim: SpaceX CEO ownership stake
+        kind: numerical_with_unit
+        value: "approximately 78%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "CEO Elon Musk holds approximately 78% ownership of the company"
+      - claim: SpaceX CEO
+        kind: named_person
+        value: "Elon Musk"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "CEO Elon Musk holds approximately 78% ownership"
+      - claim: SpaceX CFO
+        kind: named_person
+        value: "James McNeil"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "CFO James McNeil commented on the unusual decision to reserve 30% of IPO shares for retail investors"
+      - claim: retail share of IPO reserved
+        kind: numerical_with_unit
+        value: "30%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "reserve 30% of IPO shares for retail investors"
+      - claim: retail IPO share value
+        kind: numerical_with_unit
+        value: "approximately $20.6 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "approximately $20.6 billion of the $75 billion raise"
+      - claim: typical retail IPO norm
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "3× the typical 10% retail norm for mega-IPOs"
+      - claim: retail allocation multiple vs typical
+        kind: numerical
+        value: "3×"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "3× the typical 10% retail norm for mega-IPOs"
+      - claim: SpaceX full-year 2025 revenue
+        kind: numerical_with_unit
+        value: "$18.67 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "full-year 2025 revenue of $18.67 billion"
+      - claim: Starlink broadband 2025 revenue
+        kind: numerical_with_unit
+        value: "$10.2 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "comprising Starlink broadband ($10.2 billion)"
+      - claim: launch services 2025 revenue
+        kind: numerical_with_unit
+        value: "$6.4 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "launch services ($6.4 billion)"
+      - claim: Starshield government contracts 2025 revenue
+        kind: numerical_with_unit
+        value: "$1.8 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "and Starshield government contracts ($1.8 billion)"
+      - claim: revenue year-over-year growth
+        kind: numerical_with_unit
+        value: "28%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "representing year-over-year growth of 28%"
+      - claim: 2024 full-year revenue
+        kind: numerical_with_unit
+        value: "$14.6 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "from $14.6 billion in 2024"
+      - claim: Q1 2026 net loss
+        kind: numerical_with_unit
+        value: "$4.3 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "the company reported a net loss of $4.3 billion on revenue of $4.7 billion"
+      - claim: Q1 2026 revenue
+        kind: numerical_with_unit
+        value: "$4.7 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "a net loss of $4.3 billion on revenue of $4.7 billion"
+      - claim: accumulated deficit
+        kind: numerical_with_unit
+        value: "$41.3 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "with an accumulated deficit of $41.3 billion"
+      - claim: R&D spending total
+        kind: numerical_with_unit
+        value: "$8.6 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "R&D spending totaled $8.6 billion"
+      - claim: R&D spending year-over-year increase
+        kind: numerical_with_unit
+        value: "150%"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "a 150% increase year-over-year"
+      - claim: satellites in orbit
+        kind: numerical_with_unit
+        value: "6,750+"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "The company operates 6,750+ satellites in orbit"
+      - claim: Starlink broadband subscribers
+        kind: numerical_with_unit
+        value: "more than 5 million"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "serves more than 5 million Starlink broadband subscribers"
+      - claim: stock split date
+        kind: temporal
+        value: "May 4, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "SpaceX completed a 5-for-1 stock split on May 4, 2026"
+      - claim: stock split ratio
+        kind: numerical_with_unit
+        value: "5-for-1"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "SpaceX completed a 5-for-1 stock split on May 4, 2026"
+      - claim: total addressable market disclosed
+        kind: numerical_with_unit
+        value: "$28.5 trillion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "a total addressable market of $28.5 trillion"
+      - claim: AI segment of TAM
+        kind: numerical_with_unit
+        value: "$26.5 trillion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "$26.5 trillion in AI"
+      - claim: connectivity segment of TAM
+        kind: numerical_with_unit
+        value: "$1.6 trillion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "$1.6 trillion in connectivity"
+      - claim: space segment of TAM
+        kind: numerical_with_unit
+        value: "$370 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "$370 billion in space"
+      - claim: compute partnership announced
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "a newly disclosed compute partnership with Anthropic, announced May 6, 2026"
+      - claim: compute partnership announcement date
+        kind: temporal
+        value: "May 6, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        verbatim_excerpt: "announced May 6, 2026"
+      - claim: projected incremental annual revenue from Anthropic partnership
+        kind: numerical_with_unit
+        value: "$2–5 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "projected to generate $2–5 billion in incremental annual revenue"
+    quotes:
+      - speaker_name: James McNeil
+        speaker_title: CFO, SpaceX
+        verbatim_en: "3× the typical 10% retail norm for mega-IPOs."
+        source_url: https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        context: S-1 filing commentary on retail investor share allocation, May 2026
+      - speaker_name: Franco Granda
+        speaker_title: Senior researcher, PitchBook
+        verbatim_en: "Historically speaking … it's pretty jarring how bad it is"
+        source_url: https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+        context: Analysis of post-IPO share price underperformance relative to broader market
+
+  - story_id: fedex-consortium-9b-tender-offer-inpost
+    category: ipo_ma
+    headline_en: FedEx-Led Consortium Opens $9 Billion Tender Offer for European Parcel Locker Giant InPost
+    lead_url: https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+    body_source: full
+    corroborated_by:
+      - https://finance.yahoo.com/markets/stocks/articles/fedex-led-9-billion-buyout-122505071.html
+      - https://newsroom.fedex.com/newsroom/global-english/inpost-advent-fedex-a-r-and-ppf-announce-agreement-on-recommended-all-cash-offer-for-all-issued-and-outstanding-inpost-shares-at-an-offer-price-of-eur-15-60-per-share
+    locked_urls:
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+      - https://finance.yahoo.com/markets/stocks/articles/fedex-led-9-billion-buyout-122505071.html
+      - https://newsroom.fedex.com/newsroom/global-english/inpost-advent-fedex-a-r-and-ppf-announce-agreement-on-recommended-all-cash-offer-for-all-issued-and-outstanding-inpost-shares-at-an-offer-price-of-eur-15-60-per-share
+    hard_facts:
+      - claim: deal value in euros
+        kind: numerical_with_unit
+        value: "€7.8 billion"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "The €7.8 billion ($9 billion) recommended all-cash tender offer for InPost S.A."
+      - claim: deal value in USD
+        kind: numerical_with_unit
+        value: "$9 billion"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "The €7.8 billion ($9 billion) recommended all-cash tender offer"
+      - claim: tender offer open date
+        kind: temporal
+        value: "May 26, 2026"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "formally opened to shareholders on May 26, 2026"
+      - claim: acceptance period end date
+        kind: temporal
+        value: "July 27, 2026"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "with the acceptance period running through July 27, 2026"
+      - claim: FedEx consortium post-settlement stake
+        kind: numerical_with_unit
+        value: "37%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+          - https://newsroom.fedex.com/newsroom/global-english/inpost-advent-fedex-a-r-and-ppf-announce-agreement-on-recommended-all-cash-offer-for-all-issued-and-outstanding-inpost-shares-at-an-offer-price-of-eur-15-60-per-share
+        verbatim_excerpt: "FedEx Corporation (37% post-settlement stake)"
+      - claim: Advent International stake
+        kind: numerical_with_unit
+        value: "37%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "Advent International (37%)"
+      - claim: A&R stake (InPost founder controlled company)
+        kind: numerical_with_unit
+        value: "16%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "A&R — the company controlled by InPost founder and CEO Rafał Brzoska (16%)"
+      - claim: PPF Group stake
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "and PPF Group (10%)"
+      - claim: InPost offer price per share
+        kind: numerical_with_unit
+        value: "EUR 15.60 per share"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+          - https://newsroom.fedex.com/newsroom/global-english/inpost-advent-fedex-a-r-and-ppf-announce-agreement-on-recommended-all-cash-offer-for-all-issued-and-outstanding-inpost-shares-at-an-offer-price-of-eur-15-60-per-share
+        verbatim_excerpt: "The offer price is EUR 15.60 per share (cum dividend)"
+      - claim: premium over InPost reference price
+        kind: numerical_with_unit
+        value: "50%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "representing a 50% premium over InPost's closing price"
+      - claim: InPost closing price on reference date
+        kind: numerical_with_unit
+        value: "EUR 10.40"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "over InPost's closing price of EUR 10.40 on January 2, 2026"
+      - claim: InPost reference date for premium calculation
+        kind: temporal
+        value: "January 2, 2026"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "InPost's closing price of EUR 10.40 on January 2, 2026"
+      - claim: FedEx CEO
+        kind: named_person
+        value: "Raj Subramaniam"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+          - https://newsroom.fedex.com/newsroom/global-english/inpost-advent-fedex-a-r-and-ppf-announce-agreement-on-recommended-all-cash-offer-for-all-issued-and-outstanding-inpost-shares-at-an-offer-price-of-eur-15-60-per-share
+        verbatim_excerpt: "FedEx CEO Raj Subramaniam"
+      - claim: Advent International Managing Partner on deal
+        kind: named_person
+        value: "Ranjan Sen"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "Advent International Managing Partner Ranjan Sen are the named lead executives on the deal"
+      - claim: deal first announced date
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "first announced in February 2026"
+      - claim: minimum acceptance threshold for settlement
+        kind: numerical_with_unit
+        value: "80%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+          - https://newsroom.fedex.com/newsroom/global-english/inpost-advent-fedex-a-r-and-ppf-announce-agreement-on-recommended-all-cash-offer-for-all-issued-and-outstanding-inpost-shares-at-an-offer-price-of-eur-15-60-per-share
+        verbatim_excerpt: "requires acceptance from at least 80% of outstanding InPost shares for settlement"
+      - claim: share of shareholders irrevocably committed to tender
+        kind: numerical_with_unit
+        value: "approximately 48%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "shareholders holding approximately 48% of outstanding shares have already irrevocably committed to tender"
+      - claim: InPost parcel locker network size
+        kind: numerical_with_unit
+        value: "61,000"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "InPost operates a network of 61,000 automated parcel lockers"
+      - claim: InPost pick-up/drop-off points
+        kind: numerical_with_unit
+        value: "more than 33,000"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "more than 33,000 pick-up/drop-off points"
+      - claim: InPost operating countries
+        kind: numerical
+        value: "nine"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "across nine European countries"
+      - claim: InPost parcels delivered in 2025
+        kind: numerical_with_unit
+        value: "1.4 billion parcels"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "and delivered 1.4 billion parcels in 2025"
+      - claim: InPost founder and CEO
+        kind: named_person
+        value: "Rafał Brzoska"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41Y12M:0-inpost-says-fedex-advent-led-consortium-9-billion-offer-to-open-on-may-26/
+        verbatim_excerpt: "InPost founder and CEO Rafał Brzoska"
+    quotes: []
+
+  - story_id: freedom-250-memorial-day-parade-250th-anniversary
+    category: other
+    headline_en: "Freedom 250 National Memorial Day Parade Marks Opening Chapter of America's 250th Anniversary Celebrations"
+    lead_url: https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.whitehouse.gov/freedom250/
+      - https://www.state.gov/freedom-250/
+      - https://www.nps.gov/subjects/npscelebrates/usa-250.htm
+    locked_urls:
+      - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+      - https://www.whitehouse.gov/freedom250/
+      - https://www.state.gov/freedom-250/
+      - https://www.nps.gov/subjects/npscelebrates/usa-250.htm
+    hard_facts:
+      - claim: Memorial Day 2026 proclamation date
+        kind: temporal
+        value: "May 25, 2026"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "President Donald J. Trump issued a Memorial Day 2026 proclamation designating May 25, 2026 as a national day of prayer"
+      - claim: designated prayer hour
+        kind: temporal
+        value: "11:00 a.m."
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "proclaiming 11:00 a.m. as a designated prayer hour"
+      - claim: National Moment of Remembrance time
+        kind: temporal
+        value: "3:00 p.m. local time"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "a National Moment of Remembrance at 3:00 p.m. local time across all US time zones"
+      - claim: Joint Force members killed in Operation Epic Fury referenced in proclamation
+        kind: numerical
+        value: "13"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "The proclamation referenced 13 members of the Joint Force killed during \"Operation Epic Fury\""
+      - claim: name of US military Iran campaign
+        kind: named_product
+        value: "Operation Epic Fury"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "killed during \"Operation Epic Fury,\" the US military campaign against Iran"
+      - claim: US 250th anniversary date
+        kind: temporal
+        value: "July 4, 2026"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+          - https://www.whitehouse.gov/freedom250/
+        verbatim_excerpt: "America's 250th anniversary of independence to be celebrated fully on July 4, 2026"
+      - claim: Freedom 250 parade name
+        kind: named_product
+        value: "Freedom 250 National Memorial Day Parade"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+          - https://www.whitehouse.gov/freedom250/
+        verbatim_excerpt: "The Freedom 250 National Memorial Day Parade"
+      - claim: parade presenter
+        kind: named_institution
+        value: "Boeing"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "The Freedom 250 National Memorial Day Parade — presented by Boeing"
+      - claim: parade venue street
+        kind: named_institution
+        value: "Constitution Avenue"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "was held on Constitution Avenue in Washington, D.C., on May 25, 2026"
+      - claim: musical performances start time
+        kind: temporal
+        value: "9:00 a.m. ET"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "Musical performances began at 9:00 a.m. ET in front of the National Archives"
+      - claim: parade step-off time
+        kind: temporal
+        value: "10:00 a.m. ET"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "the parade stepped off at 10:00 a.m. ET"
+      - claim: parade start cross street
+        kind: named_institution
+        value: "7th Street NW"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "proceeded from 7th Street NW to 17th Street NW"
+      - claim: parade end cross street
+        kind: named_institution
+        value: "17th Street NW"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "to 17th Street NW, ending adjacent to the White House"
+      - claim: number of Freedom Trucks traveling the country
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+          - https://www.whitehouse.gov/freedom250/
+        verbatim_excerpt: "six mobile museums called \"Freedom Trucks\" are traveling across all 48 contiguous states"
+      - claim: contiguous states Freedom Trucks travel across
+        kind: numerical
+        value: "48"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+          - https://www.whitehouse.gov/freedom250/
+        verbatim_excerpt: "traveling across all 48 contiguous states throughout 2026"
+      - claim: target Americans reached by Freedom Trucks
+        kind: numerical_with_unit
+        value: "20 million"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+          - https://www.whitehouse.gov/freedom250/
+        verbatim_excerpt: "aiming to reach 20 million Americans"
+      - claim: Rolling to Remember gathering location
+        kind: named_institution
+        value: "Fairfax, Virginia"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "with thousands of riders gathering in Fairfax, Virginia"
+      - claim: spirit of America parade venue
+        kind: named_institution
+        value: "Arlington National Cemetery"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "The Spirit of America Parade at Arlington National Cemetery"
+      - claim: ceremonial state dais count
+        kind: numerical
+        value: "50"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "featuring personal narratives from Americans representing all 50 states, with a ceremonial dais representing each state"
+      - claim: US president issuing proclamation
+        kind: named_person
+        value: "Donald J. Trump"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        verbatim_excerpt: "Byline: Presidential Proclamation — President Donald J. Trump"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "The greatest fighting force the world has ever known is built upon the extraordinary service of selfless men and women."
+        source_url: https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/
+        context: Memorial Day 2026 Presidential Proclamation
