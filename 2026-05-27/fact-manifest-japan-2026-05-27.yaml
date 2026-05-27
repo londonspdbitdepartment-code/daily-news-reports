@@ -1,0 +1,603 @@
+version: 1
+generated_at: "2026-05-27T00:00:00Z"
+country: Japan
+date: "2026-05-27"
+total_stories: 8
+stories:
+  - story_id: rising-bond-yields-pressure-boj-taper-plan
+    category: econ
+    headline_en: Rising bond yields put pressure on BOJ's taper plan
+    lead_url: https://asia.nikkei.com/economy/bank-of-japan/rising-bond-yields-put-pressure-on-boj-s-taper-plan
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://asia.nikkei.com/economy/bank-of-japan/rising-bond-yields-put-pressure-on-boj-s-taper-plan
+    hard_facts:
+      - claim: 10-year JGB yield level reached
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://asia.nikkei.com/economy/bank-of-japan/rising-bond-yields-put-pressure-on-boj-s-taper-plan
+        verbatim_excerpt: "the 10-year JGB yield reached 2.8%, a generationally elevated level"
+      - claim: BOJ described as bond market entity
+        kind: named_institution
+        value: Bank of Japan
+        source_urls:
+          - https://asia.nikkei.com/economy/bank-of-japan/rising-bond-yields-put-pressure-on-boj-s-taper-plan
+        verbatim_excerpt: "The BOJ — Japan's largest single holder of JGBs and described as the bond market \"whale\""
+      - claim: BOJ Governor identity
+        kind: named_person
+        value: Kazuo Ueda
+        source_urls:
+          - https://asia.nikkei.com/economy/bank-of-japan/rising-bond-yields-put-pressure-on-boj-s-taper-plan
+        verbatim_excerpt: "BOJ Governor Kazuo Ueda is closely monitoring bond market conditions"
+      - claim: Expected BOJ board meeting date
+        kind: temporal
+        value: June 15–16
+        source_urls:
+          - https://asia.nikkei.com/economy/bank-of-japan/rising-bond-yields-put-pressure-on-boj-s-taper-plan
+        verbatim_excerpt: "the expected June 15–16 board meeting"
+      - claim: BOJ Deputy Governor identity
+        kind: named_person
+        value: Himino
+        source_urls:
+          - https://asia.nikkei.com/economy/bank-of-japan/rising-bond-yields-put-pressure-on-boj-s-taper-plan
+        verbatim_excerpt: "Deputy Governor Himino had previously said (May 25) rate hikes would continue"
+      - claim: Date of Deputy Governor Himino statement
+        kind: temporal
+        value: May 25
+        source_urls:
+          - https://asia.nikkei.com/economy/bank-of-japan/rising-bond-yields-put-pressure-on-boj-s-taper-plan
+        verbatim_excerpt: "Deputy Governor Himino had previously said (May 25) rate hikes would continue"
+    quotes: []
+
+  - story_id: japan-carmakers-squeezed-aluminum-prices-2027
+    category: econ
+    headline_en: Japan carmakers squeezed by high aluminum prices, possible shortages through 2027
+    lead_url: https://asia.nikkei.com/business/markets/commodities/japan-carmakers-squeezed-by-high-aluminum-prices-possible-shortages
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://asia.nikkei.com/business/markets/commodities/japan-carmakers-squeezed-by-high-aluminum-prices-possible-shortages
+    hard_facts:
+      - claim: Disruption duration forecast
+        kind: temporal
+        value: through 2027
+        source_urls:
+          - https://asia.nikkei.com/business/markets/commodities/japan-carmakers-squeezed-by-high-aluminum-prices-possible-shortages
+        verbatim_excerpt: "Loss of Middle Eastern aluminum supplies following the Iran war is expected to raise prices and disrupt market balance through 2027"
+      - claim: Named automaker affected — Toyota
+        kind: named_institution
+        value: Toyota
+        source_urls:
+          - https://asia.nikkei.com/business/markets/commodities/japan-carmakers-squeezed-by-high-aluminum-prices-possible-shortages
+        verbatim_excerpt: "Toyota, Honda, and Suzuki are among those facing rising costs dragging on net profits this fiscal year"
+      - claim: Named automaker affected — Honda
+        kind: named_institution
+        value: Honda
+        source_urls:
+          - https://asia.nikkei.com/business/markets/commodities/japan-carmakers-squeezed-by-high-aluminum-prices-possible-shortages
+        verbatim_excerpt: "Toyota, Honda, and Suzuki are among those facing rising costs dragging on net profits this fiscal year"
+      - claim: Named automaker affected — Suzuki
+        kind: named_institution
+        value: Suzuki
+        source_urls:
+          - https://asia.nikkei.com/business/markets/commodities/japan-carmakers-squeezed-by-high-aluminum-prices-possible-shortages
+        verbatim_excerpt: "Toyota, Honda, and Suzuki are among those facing rising costs dragging on net profits this fiscal year"
+    quotes: []
+
+  - story_id: nikkei-225-record-high-65800-ai-tech-rally
+    category: econ
+    headline_en: Nikkei 225 hits fresh record high above 65,800 as AI spending powers East Asian tech rally
+    lead_url: https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/05/27/asia-markets-live-updates-nikkei-225-hang-seng-index-kospi-csi-nifty-hari-raya-haji.html
+    locked_urls:
+      - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+      - https://www.cnbc.com/2026/05/27/asia-markets-live-updates-nikkei-225-hang-seng-index-kospi-csi-nifty-hari-raya-haji.html
+    hard_facts:
+      - claim: Event date
+        kind: temporal
+        value: May 27
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+          - https://www.cnbc.com/2026/05/27/asia-markets-live-updates-nikkei-225-hang-seng-index-kospi-csi-nifty-hari-raya-haji.html
+        verbatim_excerpt: "East Asian stock markets reached fresh record highs on May 27"
+      - claim: Nikkei 225 index level
+        kind: numerical_with_unit
+        value: "65,800"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+          - https://www.cnbc.com/2026/05/27/asia-markets-live-updates-nikkei-225-hang-seng-index-kospi-csi-nifty-hari-raya-haji.html
+        verbatim_excerpt: "Japan's Nikkei 225 rose above 65,800 (up ~1.49%)"
+      - claim: Nikkei 225 percentage gain
+        kind: numerical_with_unit
+        value: "~1.49%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+          - https://www.cnbc.com/2026/05/27/asia-markets-live-updates-nikkei-225-hang-seng-index-kospi-csi-nifty-hari-raya-haji.html
+        verbatim_excerpt: "Japan's Nikkei 225 rose above 65,800 (up ~1.49%)"
+      - claim: Kioxia Holdings stock gain
+        kind: numerical_with_unit
+        value: "+2.1%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Kioxia Holdings +2.1%"
+      - claim: Named stock — Kioxia Holdings
+        kind: named_institution
+        value: Kioxia Holdings
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Kioxia Holdings +2.1%"
+      - claim: Fujikura stock gain
+        kind: numerical_with_unit
+        value: "+2.4%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Fujikura +2.4%"
+      - claim: Named stock — Fujikura
+        kind: named_institution
+        value: Fujikura
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Fujikura +2.4%"
+      - claim: Advantest stock gain
+        kind: numerical_with_unit
+        value: "+5.3%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Advantest +5.3%"
+      - claim: Named stock — Advantest
+        kind: named_institution
+        value: Advantest
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Advantest +5.3%"
+      - claim: Tokyo Electron stock gain
+        kind: numerical_with_unit
+        value: "+3.8%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Tokyo Electron +3.8%"
+      - claim: Named stock — Tokyo Electron
+        kind: named_institution
+        value: Tokyo Electron
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Tokyo Electron +3.8%"
+      - claim: Lasertec stock gain
+        kind: numerical_with_unit
+        value: "+2.5%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Lasertec +2.5%"
+      - claim: Named stock — Lasertec
+        kind: named_institution
+        value: Lasertec
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Lasertec +2.5%"
+      - claim: SK Hynix market capitalisation milestone
+        kind: named_institution
+        value: SK Hynix
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+          - https://www.cnbc.com/2026/05/27/asia-markets-live-updates-nikkei-225-hang-seng-index-kospi-csi-nifty-hari-raya-haji.html
+        verbatim_excerpt: "SK Hynix achieved trillion-dollar market capitalisation"
+      - claim: Mitsubishi UFJ stock decline
+        kind: numerical_with_unit
+        value: "-1.1%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Mitsubishi UFJ -1.1%"
+      - claim: Named stock — Mitsubishi UFJ
+        kind: named_institution
+        value: Mitsubishi UFJ
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Mitsubishi UFJ -1.1%"
+      - claim: Sumitomo Mitsui stock decline
+        kind: numerical_with_unit
+        value: "-1.7%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Sumitomo Mitsui -1.7%"
+      - claim: Named stock — Sumitomo Mitsui
+        kind: named_institution
+        value: Sumitomo Mitsui
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Sumitomo Mitsui -1.7%"
+      - claim: Mizuho Financial stock decline
+        kind: numerical_with_unit
+        value: "-2.2%"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Mizuho Financial -2.2%"
+      - claim: Named stock — Mizuho Financial
+        kind: named_institution
+        value: Mizuho Financial
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Mizuho Financial -2.2%"
+      - claim: Nvidia annual AI supplier spending level
+        kind: numerical_with_unit
+        value: "$150bn/year"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Nvidia spending up to $150bn/year on Taiwan AI suppliers"
+      - claim: Named company — Nvidia
+        kind: named_institution
+        value: Nvidia
+        source_urls:
+          - https://asia.nikkei.com/business/markets/sk-hynix-joins-trillion-dollar-club-as-ai-fires-up-east-asian-stocks
+        verbatim_excerpt: "Strong AI capital spending by Nvidia and hyperscalers"
+    quotes: []
+
+  - story_id: japan-intelligence-reform-upper-house-passes-bill
+    category: politics
+    headline_en: "Japan's biggest intelligence reform since WWII: Upper House passes National Intelligence Council bill"
+    lead_url: https://asia.nikkei.com/politics/japan-s-biggest-intelligence-reform-since-wwii-5-things-to-know2
+    body_source: full
+    corroborated_by:
+      - https://english.news.cn/asiapacific/20260527/c46f00c54ced425781a5d1464f3497c7/c.html
+      - https://www.nippon.com/en/news/yjj2026052600676/japan-upper-house-panel-oks-intelligence-council-bill.html
+    locked_urls:
+      - https://asia.nikkei.com/politics/japan-s-biggest-intelligence-reform-since-wwii-5-things-to-know2
+      - https://english.news.cn/asiapacific/20260527/c46f00c54ced425781a5d1464f3497c7/c.html
+      - https://www.nippon.com/en/news/yjj2026052600676/japan-upper-house-panel-oks-intelligence-council-bill.html
+    hard_facts:
+      - claim: Legislative approval date
+        kind: temporal
+        value: Wednesday, May 27, 2026
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-s-biggest-intelligence-reform-since-wwii-5-things-to-know2
+          - https://english.news.cn/asiapacific/20260527/c46f00c54ced425781a5d1464f3497c7/c.html
+          - https://www.nippon.com/en/news/yjj2026052600676/japan-upper-house-panel-oks-intelligence-council-bill.html
+        verbatim_excerpt: "Japan's House of Councillors approved legislation on Wednesday, May 27, 2026"
+      - claim: Named institution — National Intelligence Council
+        kind: named_institution
+        value: National Intelligence Council
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-s-biggest-intelligence-reform-since-wwii-5-things-to-know2
+          - https://english.news.cn/asiapacific/20260527/c46f00c54ced425781a5d1464f3497c7/c.html
+        verbatim_excerpt: "establishing a National Intelligence Council to be headed by the prime minister"
+      - claim: Named institution — National Intelligence Bureau secretariat
+        kind: named_institution
+        value: National Intelligence Bureau
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-s-biggest-intelligence-reform-since-wwii-5-things-to-know2
+        verbatim_excerpt: "supported by a National Intelligence Bureau secretariat"
+      - claim: PM championing the bill
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-s-biggest-intelligence-reform-since-wwii-5-things-to-know2
+        verbatim_excerpt: "The bill, championed by PM Sanae Takaichi"
+      - claim: House of Representatives passage date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-s-biggest-intelligence-reform-since-wwii-5-things-to-know2
+        verbatim_excerpt: "had previously cleared the House of Representatives in April 2026"
+    quotes: []
+
+  - story_id: japan-philippines-summit-gsomia-powerr-asia
+    category: politics
+    headline_en: "Japan–Philippines summit: Takaichi and Marcos agree to GSOMIA talks, POWERR Asia energy cooperation"
+    lead_url: https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+    body_source: full
+    corroborated_by:
+      - https://japantoday.com/category/national/philippine-president-marcos-wife-welcomed-to-japan-by-imperial-couple
+      - https://www.manilatimes.net/2026/05/27/news/national/marcos-japan-visit-to-boost-ties-in-defense-energy-trade/2351945
+      - https://thediplomat.com/2026/05/japan-philippines-to-begin-negotiations-on-intelligence-sharing-agreement/
+    locked_urls:
+      - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+      - https://japantoday.com/category/national/philippine-president-marcos-wife-welcomed-to-japan-by-imperial-couple
+      - https://www.manilatimes.net/2026/05/27/news/national/marcos-japan-visit-to-boost-ties-in-defense-energy-trade/2351945
+      - https://thediplomat.com/2026/05/japan-philippines-to-begin-negotiations-on-intelligence-sharing-agreement/
+    hard_facts:
+      - claim: Philippine President identity
+        kind: named_person
+        value: Ferdinand Marcos Jr.
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+          - https://japantoday.com/category/national/philippine-president-marcos-wife-welcomed-to-japan-by-imperial-couple
+          - https://www.manilatimes.net/2026/05/27/news/national/marcos-japan-visit-to-boost-ties-in-defense-energy-trade/2351945
+        verbatim_excerpt: "Philippine President Ferdinand Marcos Jr. conducted a four-day state visit to Tokyo"
+      - claim: State visit duration
+        kind: numerical_with_unit
+        value: four-day
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+        verbatim_excerpt: "conducted a four-day state visit to Tokyo beginning May 26"
+      - claim: State visit start date
+        kind: temporal
+        value: May 26
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+        verbatim_excerpt: "beginning May 26, with the summit meeting held with PM Takaichi on May 27"
+      - claim: Summit meeting date
+        kind: temporal
+        value: May 27
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+          - https://www.manilatimes.net/2026/05/27/news/national/marcos-japan-visit-to-boost-ties-in-defense-energy-trade/2351945
+        verbatim_excerpt: "with the summit meeting held with PM Takaichi on May 27"
+      - claim: Japan PM identity
+        kind: named_person
+        value: Takaichi
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+        verbatim_excerpt: "with the summit meeting held with PM Takaichi on May 27"
+      - claim: Named agreement — Reciprocal Access Agreement year
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+        verbatim_excerpt: "fully implementing the 2024 Reciprocal Access Agreement"
+      - claim: Named agreement — GSOMIA
+        kind: named_product
+        value: GSOMIA
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+          - https://thediplomat.com/2026/05/japan-philippines-to-begin-negotiations-on-intelligence-sharing-agreement/
+        verbatim_excerpt: "Japan and the Philippines agreed to start negotiations on a General Security of Military Information Agreement (GSOMIA)"
+      - claim: Named program — POWERR Asia
+        kind: named_product
+        value: POWERR Asia
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+          - https://www.manilatimes.net/2026/05/27/news/national/marcos-japan-visit-to-boost-ties-in-defense-energy-trade/2351945
+        verbatim_excerpt: "Marcos expressed interest in joining POWERR Asia — Takaichi's $10bn Partnership on Wide Energy and Resources Resilience"
+      - claim: POWERR Asia program funding size
+        kind: numerical_with_unit
+        value: "$10bn"
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+        verbatim_excerpt: "Takaichi's $10bn Partnership on Wide Energy and Resources Resilience"
+      - claim: POWERR Asia launch date
+        kind: temporal
+        value: April 15
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+        verbatim_excerpt: "(launched April 15), designed to help Asian countries secure oil supplies"
+      - claim: Japanese Emperor identity
+        kind: named_person
+        value: Naruhito
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+          - https://japantoday.com/category/national/philippine-president-marcos-wife-welcomed-to-japan-by-imperial-couple
+        verbatim_excerpt: "Emperor Naruhito and Empress Masako hosted a formal welcome ceremony and state banquet"
+      - claim: Japanese Empress identity
+        kind: named_person
+        value: Masako
+        source_urls:
+          - https://asia.nikkei.com/politics/japan-inc-cautious-on-philippine-business-as-ferdinand-marcos-visits-tokyo
+          - https://japantoday.com/category/national/philippine-president-marcos-wife-welcomed-to-japan-by-imperial-couple
+        verbatim_excerpt: "Emperor Naruhito and Empress Masako hosted a formal welcome ceremony and state banquet"
+    quotes: []
+
+  - story_id: ldp-proposes-japanese-language-education-foreign-children
+    category: politics
+    headline_en: Japan LDP proposes national blueprint for Japanese-language education for foreign children
+    lead_url: https://japantoday.com/category/national/ruling-ldp-seeks-push-for-japanese-language-program-for-foreign-children
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/national/ruling-ldp-seeks-push-for-japanese-language-program-for-foreign-children
+    hard_facts:
+      - claim: Named institution — LDP Headquarters for Foreign Nationals Policy
+        kind: named_institution
+        value: LDP's Headquarters for Foreign Nationals Policy
+        source_urls:
+          - https://japantoday.com/category/national/ruling-ldp-seeks-push-for-japanese-language-program-for-foreign-children
+        verbatim_excerpt: "The LDP's Headquarters for Foreign Nationals Policy draft calls for an on-demand Japanese language and immersion programme"
+      - claim: Trial programme start year
+        kind: temporal
+        value: fiscal 2028
+        source_urls:
+          - https://japantoday.com/category/national/ruling-ldp-seeks-push-for-japanese-language-program-for-foreign-children
+        verbatim_excerpt: "for trial use from fiscal 2028"
+      - claim: Number of school-age foreign children requiring language support
+        kind: numerical_with_unit
+        value: "approximately 85,000"
+        source_urls:
+          - https://japantoday.com/category/national/ruling-ldp-seeks-push-for-japanese-language-program-for-foreign-children
+        verbatim_excerpt: "Approximately 85,000 school-age children in Japanese public schools require Japanese-language support"
+      - claim: Increase in foreign children requiring support from 2023 survey
+        kind: numerical_with_unit
+        value: "15,636"
+        source_urls:
+          - https://japantoday.com/category/national/ruling-ldp-seeks-push-for-japanese-language-program-for-foreign-children
+        verbatim_excerpt: "up 15,636 from the 2023 survey"
+      - claim: Reference survey year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://japantoday.com/category/national/ruling-ldp-seeks-push-for-japanese-language-program-for-foreign-children
+        verbatim_excerpt: "up 15,636 from the 2023 survey"
+    quotes: []
+
+  - story_id: fujitsu-dual-ai-partnerships-anthropic-openai
+    category: tech
+    headline_en: Fujitsu signs dual AI partnerships with Anthropic and OpenAI to transform Japan enterprise sector
+    lead_url: https://global.fujitsu/en-global/pr/news/2026/05/27-01
+    body_source: full
+    corroborated_by:
+      - https://global.fujitsu/en-global/pr/news/2026/05/27-02
+    locked_urls:
+      - https://global.fujitsu/en-global/pr/news/2026/05/27-01
+      - https://global.fujitsu/en-global/pr/news/2026/05/27-02
+    hard_facts:
+      - claim: Announcement date
+        kind: temporal
+        value: May 27, 2026
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-01
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-02
+        verbatim_excerpt: "Fujitsu announced two strategic AI partnerships on May 27, 2026"
+      - claim: Named institution — Fujitsu
+        kind: named_institution
+        value: Fujitsu
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-01
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-02
+        verbatim_excerpt: "Fujitsu announced two strategic AI partnerships on May 27, 2026"
+      - claim: Named institution — Anthropic
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-01
+        verbatim_excerpt: "Partnership 1 — Anthropic: Fujitsu will integrate Anthropic's Claude models into its Forward Deployed Engineer (FDE) business"
+      - claim: Named product — Claude models
+        kind: named_product
+        value: Claude
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-01
+        verbatim_excerpt: "Fujitsu will integrate Anthropic's Claude models into its Forward Deployed Engineer (FDE) business"
+      - claim: Named product — Forward Deployed Engineer business
+        kind: named_product
+        value: Forward Deployed Engineer (FDE)
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-01
+        verbatim_excerpt: "integrate Anthropic's Claude models into its Forward Deployed Engineer (FDE) business"
+      - claim: Number of Fujitsu employees using Claude
+        kind: numerical_with_unit
+        value: "approximately 100,000"
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-01
+        verbatim_excerpt: "approximately 100,000 Fujitsu employees will use Claude"
+      - claim: Named institution — OpenAI
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-02
+        verbatim_excerpt: "Partnership 2 — OpenAI: Fujitsu will integrate ChatGPT Enterprise and Codex into its service portfolio"
+      - claim: Named product — ChatGPT Enterprise
+        kind: named_product
+        value: ChatGPT Enterprise
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-02
+        verbatim_excerpt: "Fujitsu will integrate ChatGPT Enterprise and Codex into its service portfolio"
+      - claim: Named product — Codex
+        kind: named_product
+        value: Codex
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-02
+        verbatim_excerpt: "Fujitsu will integrate ChatGPT Enterprise and Codex into its service portfolio"
+      - claim: Fujitsu CEO identity
+        kind: named_person
+        value: Takahito Tokita
+        source_urls:
+          - https://global.fujitsu/en-global/pr/news/2026/05/27-01
+        verbatim_excerpt: "CEO Takahito Tokita said the goal is to \"support the creation of new value across industries and realize a trustworthy, AI-driven society\""
+    quotes:
+      - speaker_name: Takahito Tokita
+        speaker_title: CEO, Fujitsu
+        verbatim_en: "support the creation of new value across industries and realize a trustworthy, AI-driven society"
+        source_url: https://global.fujitsu/en-global/pr/news/2026/05/27-01
+        context: Fujitsu press release on dual AI partnership announcements, May 27, 2026
+
+  - story_id: nippon-dynawave-paper-mill-chemical-implosion
+    category: society
+    headline_en: 1 killed, 9 missing after chemical implosion at Nippon Dynawave paper mill in Washington state
+    lead_url: https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+    body_source: full
+    corroborated_by:
+      - https://abcnews.com/Business/wireStory/chemical-tank-implosion-washington-state-kills-1-leaves-133322707
+      - https://www.pbs.org/newshour/nation/deaths-are-reported-after-a-tank-imploded-at-a-washington-pulp-and-paper-mill
+    locked_urls:
+      - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+      - https://abcnews.com/Business/wireStory/chemical-tank-implosion-washington-state-kills-1-leaves-133322707
+      - https://www.pbs.org/newshour/nation/deaths-are-reported-after-a-tank-imploded-at-a-washington-pulp-and-paper-mill
+    hard_facts:
+      - claim: Chemical tank capacity
+        kind: numerical_with_unit
+        value: "900,000-gallon"
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+          - https://abcnews.com/Business/wireStory/chemical-tank-implosion-washington-state-kills-1-leaves-133322707
+        verbatim_excerpt: "A 900,000-gallon chemical tank containing white liquor (sodium hydroxide and sodium sulfide solution) imploded"
+      - claim: Chemical contents — white liquor composition
+        kind: named_product
+        value: white liquor (sodium hydroxide and sodium sulfide solution)
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+          - https://abcnews.com/Business/wireStory/chemical-tank-implosion-washington-state-kills-1-leaves-133322707
+        verbatim_excerpt: "white liquor (sodium hydroxide and sodium sulfide solution)"
+      - claim: Incident date
+        kind: temporal
+        value: Tuesday May 26
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+          - https://abcnews.com/Business/wireStory/chemical-tank-implosion-washington-state-kills-1-leaves-133322707
+          - https://www.pbs.org/newshour/nation/deaths-are-reported-after-a-tank-imploded-at-a-washington-pulp-and-paper-mill
+        verbatim_excerpt: "imploded on Tuesday May 26 at Nippon Dynawave Packaging Co. in Longview, Washington"
+      - claim: Named institution — Nippon Dynawave Packaging Co.
+        kind: named_institution
+        value: Nippon Dynawave Packaging Co.
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+          - https://abcnews.com/Business/wireStory/chemical-tank-implosion-washington-state-kills-1-leaves-133322707
+          - https://www.pbs.org/newshour/nation/deaths-are-reported-after-a-tank-imploded-at-a-washington-pulp-and-paper-mill
+        verbatim_excerpt: "at Nippon Dynawave Packaging Co. in Longview, Washington"
+      - claim: Named parent company — Nippon Paper Group
+        kind: named_institution
+        value: Nippon Paper Group
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+        verbatim_excerpt: "a subsidiary of Japan's Nippon Paper Group"
+      - claim: Mill employee count
+        kind: numerical_with_unit
+        value: "approximately 1,000"
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+        verbatim_excerpt: "employing approximately 1,000 people"
+      - claim: Number confirmed dead
+        kind: numerical
+        value: "1"
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+          - https://abcnews.com/Business/wireStory/chemical-tank-implosion-washington-state-kills-1-leaves-133322707
+          - https://www.pbs.org/newshour/nation/deaths-are-reported-after-a-tank-imploded-at-a-washington-pulp-and-paper-mill
+        verbatim_excerpt: "One worker was confirmed dead"
+      - claim: Number missing
+        kind: numerical
+        value: "9"
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+          - https://abcnews.com/Business/wireStory/chemical-tank-implosion-washington-state-kills-1-leaves-133322707
+          - https://www.pbs.org/newshour/nation/deaths-are-reported-after-a-tank-imploded-at-a-washington-pulp-and-paper-mill
+        verbatim_excerpt: "nine remain missing with \"no hope for rescue\""
+      - claim: Number of additional injured workers
+        kind: numerical
+        value: "9"
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+        verbatim_excerpt: "Nine additional workers and one firefighter were injured"
+      - claim: Number of injured firefighters
+        kind: numerical
+        value: "1"
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+        verbatim_excerpt: "Nine additional workers and one firefighter were injured"
+      - claim: Prior safety violation fines since 2021
+        kind: numerical_with_unit
+        value: "$3,400"
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+        verbatim_excerpt: "Prior safety violations ($3,400 in fines since 2021) were noted"
+      - claim: Safety violation fine period start
+        kind: temporal
+        value: "2021"
+        source_urls:
+          - https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+        verbatim_excerpt: "Prior safety violations ($3,400 in fines since 2021) were noted"
+    quotes:
+      - speaker_name: authorities
+        speaker_title: rescue/recovery authorities at scene
+        verbatim_en: "no hope for rescue"
+        source_url: https://japantoday.com/category/world/1-killed-9-missing-after-explosion-at-Japanese-owned-paper-mill-in-Washington-state
+        context: statement by authorities announcing transition from rescue to recovery operations
