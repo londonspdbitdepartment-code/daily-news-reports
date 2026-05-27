@@ -1,0 +1,386 @@
+country: United Kingdom
+date: 2026-05-27
+lang: zh
+generated_by: daily-fact-extractor
+facts:
+
+  - id: KEEP-1
+    category: econ
+    headline: "Ofgem raises Q3 energy price cap 13% to £1,862, blaming Middle East gas-price shock"
+    lead_url: https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-july-and-30-september-2026
+    corroborated_by:
+      - https://www.lbc.co.uk/article/energy-bills-ofgem-price-cap-5HjdZgx_2/
+      - https://www.bigissue.com/news/social-justice/energy-bills-price-cap-july-2026/
+    atomic_facts:
+      - fact: "能源价格上限从每年£1,641上涨至£1,862（+£221/年，+13%）"
+        type: number
+        verbatim: "Cap rises from £1,641/year to £1,862/year (+£221/year, +13%) effective 1 July – 30 September 2026"
+      - fact: "生效日期：2026年7月1日至9月30日"
+        type: date
+        verbatim: "effective 1 July – 30 September 2026"
+      - fact: "天然气单价7.33便士/千瓦时（较Q2上涨24%）"
+        type: number
+        verbatim: "Gas unit rate 7.33p/kWh (+24% vs Q2)"
+      - fact: "电力单价26.11便士/千瓦时（上涨5%）"
+        type: number
+        verbatim: "electricity 26.11p/kWh (+5%)"
+      - fact: "电力固定费用57.19便士/天"
+        type: number
+        verbatim: "Standing charges: electricity 57.19p/day"
+      - fact: "天然气固定费用29.04便士/天"
+        type: number
+        verbatim: "gas 29.04p/day"
+      - fact: "Ofgem首席执行官Tim Jarvis发表声明"
+        type: person
+        verbatim: "Ofgem CEO Tim Jarvis"
+      - fact: "Tim Jarvis引语：'全球能源市场持续波动……受中东持续冲突驱动的批发天然气价格走高'"
+        type: quote
+        verbatim: "continued volatility in global energy markets … higher wholesale gas prices driven by ongoing conflict in the Middle East"
+      - fact: "能源大臣Ed Miliband称此次涨价'极不受欢迎'"
+        type: person_quote
+        verbatim: "Energy Secretary Ed Miliband called the rise 'deeply unwelcome'"
+      - fact: "约2200万家庭使用标准浮动价格套餐受影响"
+        type: number
+        verbatim: "~22 million households on standard variable tariffs affected"
+      - fact: "约40%用户使用固定价格套餐，不受影响"
+        type: number
+        verbatim: "~40% on fixed tariffs unaffected"
+      - fact: "约200万家庭拖欠能源债务，2025-26年平均欠款£2,270"
+        type: number
+        verbatim: "~2 million households carry energy debt (avg arrears £2,270 in 2025-26)"
+      - fact: "英格兰银行货币政策委员会会议定于2026年6月18日召开"
+        type: date
+        verbatim: "June 18 BoE MPC meeting"
+      - fact: "摩根大通和荷兰国际集团（ING）现标记可能加息"
+        type: institution
+        verbatim: "JP Morgan and ING now flag possible rate hike"
+      - fact: "高盛维持利率不变立场，但承认加息门槛'较低'"
+        type: institution_quote
+        verbatim: "Goldman Sachs maintains rates on hold but acknowledges 'low hurdle' to hike"
+
+  - id: KEEP-2
+    category: econ
+    headline: "UK grocery inflation slows to 3.1% — lowest since December 2024"
+    lead_url: http://www.econotimes.com/UK-Grocery-Inflation-Slows-to-31-as-Supermarket-Price-Pressures-Ease-in-May-2026-1742770
+    corroborated_by: []
+    atomic_facts:
+      - fact: "截至2026年5月17日的4周内，杂货通胀率为3.1%"
+        type: number
+        verbatim: "Grocery inflation 3.1% in 4 weeks ending 17 May 2026 (Worldpanel by Numerator)"
+      - fact: "数据来源：Numerator旗下Worldpanel"
+        type: institution
+        verbatim: "Worldpanel by Numerator"
+      - fact: "前次读数为3.8%"
+        type: number
+        verbatim: "Prior reading 3.8%"
+      - fact: "为2024年12月以来最低水平"
+        type: date
+        verbatim: "lowest since Dec 2024"
+      - fact: "销售额同比仅增长1.5%，消费者购买商品减少"
+        type: number
+        verbatim: "Sales rose only 1.5% YoY — consumers buying fewer items"
+      - fact: "价格上涨品类：巧克力糖果、新鲜未加工鱼类"
+        type: product
+        verbatim: "Rising: chocolate confectionery, fresh unprocessed fish"
+      - fact: "价格下降品类：黄油/涂抹酱、糖果、家用纸制品"
+        type: product
+        verbatim: "Falling: butter/spreads, sugar confectionery, household paper"
+
+  - id: KEEP-3
+    category: politics
+    headline: "MPs demand faster leasehold and commonhold reform"
+    lead_url: https://www.mortgagesolutions.co.uk/mortgage-news/2026/05/27/govt-must-speed-up-reform-for-leaseholders-who-have-been-waiting-too-long-say-mps/
+    corroborated_by: []
+    atomic_facts:
+      - fact: "住房、社区和地方政府（HCLG）特别委员会于2026年5月27日发布报告"
+        type: institution_date
+        verbatim: "The Housing, Communities and Local Government (HCLG) Select Committee published a report on 27 May 2026"
+      - fact: "委员会主席为Florence Eshalomi议员"
+        type: person
+        verbatim: "Chair Florence Eshalomi MP"
+      - fact: "Florence Eshalomi引语：将该法案称为'迈向给予租赁产权房主更多对建筑控制权的重要一步'"
+        type: quote
+        verbatim: "a significant step towards giving leasehold homeowners more control of their buildings"
+      - fact: "委员会敦促政府在2027年底前实施拟议的£250地租上限"
+        type: number_date
+        verbatim: "urged the government to bring the proposed £250 ground rent cap into force by the end of 2027"
+      - fact: "委员会质疑为何拟议过渡至零地租的期限为40年而非20年"
+        type: number
+        verbatim: "questioned why the proposed transition to zero ground rent spans 40 years rather than 20 years"
+      - fact: "草案法案于2026年5月13日国王演讲后提出"
+        type: date
+        verbatim: "The draft Bill was introduced following the King's Speech on 13 May 2026"
+      - fact: "Florence Eshalomi引语：'数百万租赁产权持有人已等待太久'"
+        type: quote
+        verbatim: "millions of leaseholders have been waiting for too long"
+      - fact: "敦促在2026年秋季完成最终立法"
+        type: date
+        verbatim: "urged final legislation in autumn 2026"
+      - fact: "贷款方、房产中介、估价师和转让代理人将需要至少两年培训"
+        type: number
+        verbatim: "Lenders, estate agents, valuers and conveyancers will require at least two years of training"
+
+  - id: KEEP-4
+    category: politics
+    headline: "MPs call for dedicated Welsh Investment Promotion Agency"
+    lead_url: https://nation.cymru/news/mps-recommend-setting-up-a-welsh-investment-promotion-agency-to-create-new-jobs/
+    corroborated_by: []
+    atomic_facts:
+      - fact: "威尔士事务特别委员会于2026年5月27日发布报告"
+        type: institution_date
+        verbatim: "The Welsh Affairs Select Committee published a report on 27 May 2026"
+      - fact: "建议威尔士政府建立专门的投资促进局（IPA）"
+        type: institution
+        verbatim: "recommending the Welsh Government establish a dedicated Investment Promotion Agency (IPA)"
+      - fact: "建议商业与贸易部（DBT）和威尔士办公室制定谅解备忘录"
+        type: institution
+        verbatim: "Department for Business and Trade (DBT) and the Wales Office develop a Memorandum of Understanding"
+      - fact: "全球与威尔士有关联的人估计为300至400万"
+        type: number
+        verbatim: "estimated 3 to 4 million people worldwide who share a connection to Wales"
+      - fact: "威尔士是英国少数没有专门投资促进机构的地区之一"
+        type: fact
+        verbatim: "Wales is one of the few UK regions without a dedicated promotion agency"
+
+  - id: KEEP-5
+    category: tech
+    headline: "UKtech50 2026 voting opens"
+    lead_url: https://www.computerweekly.com/news/366643369/UKtech50-2026-Vote-for-the-most-influential-person-in-UK-technology
+    corroborated_by: []
+    atomic_facts:
+      - fact: "候选名单为50人，由480余份提名中遴选"
+        type: number
+        verbatim: "50-person shortlist selected from 480+ nominations by expert panel"
+      - fact: "投票截止日期为2026年6月15日"
+        type: date
+        verbatim: "Voting deadline 15 June 2026"
+      - fact: "结果将于2026年7月2日在伦敦举办的活动上公布"
+        type: date
+        verbatim: "results announced London event 2 July 2026"
+      - fact: "谷歌DeepMind英国自动化材料科学实验室入选主题"
+        type: institution
+        verbatim: "AI (Google DeepMind UK automated materials-science lab)"
+      - fact: "英国主权人工智能部门（£5亿）于2026年4月启动"
+        type: number_date
+        verbatim: "UK Sovereign AI Unit (£500m, launched April 2026)"
+      - fact: "Isomorphic Labs第三次股权投资于2026年5月12日完成"
+        type: institution_date
+        verbatim: "third equity investment (Isomorphic Labs, May 12) now made; seven deals total signed"
+      - fact: "Sonia Patel于2026年3月被任命为DSIT临时首席技术官"
+        type: person_date
+        verbatim: "Sonia Patel named DSIT interim CTO (March 2026)"
+      - fact: "Rob Thompson于2026年5月加入DHSC担任数字主管"
+        type: person_date
+        verbatim: "Rob Thompson joined DHSC as digital chief (May 2026)"
+
+  - id: KEEP-6
+    category: tech
+    headline: "UK government announces £57m satellite Wi-Fi upgrade for 1,400 trains"
+    lead_url: https://www.techradar.com/pro/hundreds-of-uk-trains-will-finally-get-better-wi-fi-government-promises-to-rocket-boost-connectivity-for-travellers
+    corroborated_by: []
+    atomic_facts:
+      - fact: "英国政府于2026年5月27日宣布该计划"
+        type: date
+        verbatim: "The UK government announced on 27 May 2026"
+      - fact: "超过1,400列火车将安装低地球轨道（LEO）卫星设备"
+        type: number
+        verbatim: "over 1,400 trains across the national main line network will be fitted with low-Earth orbit (LEO) satellite equipment"
+      - fact: "该计划名为'Project Reach'，由2025年支出审查拨款£5700万资助"
+        type: number
+        verbatim: "The initiative — 'Project Reach' — is funded by £57 million from the 2025 Spending Review"
+      - fact: "其中£1200万专项用于英格兰西部、西南部及威尔士服务"
+        type: number
+        verbatim: "£12 million is designated for services in the west and south-west of England and Wales"
+      - fact: "升级将使Wi-Fi覆盖率从约50%提升至90%"
+        type: number
+        verbatim: "upgrade will improve Wi-Fi availability from approximately 50% to 90% across journeys"
+      - fact: "大西部铁路服务试点项目于2025年11月启动"
+        type: date
+        verbatim: "A pilot programme on Great Western Railway services in the South West, which began in November 2025"
+      - fact: "试点通过新森林地区实现97%覆盖率"
+        type: number
+        verbatim: "demonstrated 97% coverage through the New Forest"
+      - fact: "试点运营商包括LNER和西南铁路，使用Starlink低地球轨道卫星"
+        type: institution
+        verbatim: "Pilot operators included LNER and South Western Railway, using Starlink low-Earth-orbit satellites"
+      - fact: "交通大臣Heidi Alexander预计将在2026年夏季正式宣布"
+        type: person_date
+        verbatim: "Transport Secretary Heidi Alexander is expected to make a formal announcement in summer 2026"
+      - fact: "Project Reach还包括Neos Networks提供的5,000公里光纤基础设施"
+        type: number_institution
+        verbatim: "5,000km of fibre optic infrastructure from Neos Networks"
+      - fact: "以及Freshwave提供的50公里隧道覆盖"
+        type: number_institution
+        verbatim: "50km of tunnel coverage from Freshwave"
+      - fact: "更好交通运动（Campaign for Better Transport）代表Michael Solomon Williams表示，Wi-Fi不可靠并非乘客回避火车的首要原因"
+        type: person_quote
+        verbatim: "Michael Solomon Williams of Campaign for Better Transport said unreliable Wi-Fi was not the primary reason passengers avoid trains"
+
+  - id: KEEP-7
+    category: society
+    headline: "UK heatwave exposes urgent need to embed national preparedness across society"
+    lead_url: https://labourlist.org/2026/05/embed-national-preparedness-across-society/
+    corroborated_by: []
+    atomic_facts:
+      - fact: "文章发布于2026年5月27日，为创纪录银行假期热浪第三天"
+        type: date
+        verbatim: "Published the morning of 27 May 2026 — the third consecutive day of the record-breaking Bank Holiday heatwave"
+      - fact: "英国经历'自有记录以来任何五月份最高气温'"
+        type: fact
+        verbatim: "the hottest temperatures of any May day since records began"
+      - fact: "邱园气温：5月25日34.8°C打破五月记录"
+        type: number_date
+        verbatim: "temperatures at Kew Gardens breaking the May record two days running (34.8°C on 25 May"
+      - fact: "邱园气温：5月26日35.1°C再次打破记录"
+        type: number_date
+        verbatim: "then 35.1°C on 26 May"
+      - fact: "2025年夏季估计有1,504例与高温相关的死亡"
+        type: number
+        verbatim: "an estimated 1,504 heat-associated deaths in summer 2025"
+      - fact: "按当前趋势预测，到2050年每年将有3,000至10,000人因热死亡"
+        type: number_date
+        verbatim: "modelled projections of 3,000–10,000 annual heat deaths by 2050 under current trajectories"
+      - fact: "研究表明夏季气温每升高1°C，英国经济产出将减少2.4%"
+        type: number
+        verbatim: "research showing a 2.4% reduction in UK economic output for every 1°C increase in summer temperatures"
+
+  - id: KEEP-8
+    category: society
+    headline: "UK industrial strike action continues: Arriva Luton engineers and University of Cambridge workers"
+    lead_url: https://www.strikecalendar.co.uk/
+    corroborated_by: []
+    atomic_facts:
+      - fact: "2026年5月27日有两批工人采取工业行动"
+        type: date
+        verbatim: "two sets of workers are taking industrial action on that date"
+      - fact: "Arriva（卢顿工程师）参与罢工，影响卢顿地区巴士服务"
+        type: institution
+        verbatim: "Arriva (Luton Engineers), affecting bus services in the Luton area"
+      - fact: "剑桥大学工人参与罢工"
+        type: institution
+        verbatim: "workers at the University of Cambridge"
+      - fact: "2026年5月22日：BBC/全国记者联盟（NUJ）纠纷解决"
+        type: institution_date
+        verbatim: "22 May 2026 — BBC/NUJ dispute resolved"
+      - fact: "玛格丽特女王大学和伦敦南岸大学宣布新的罢工投票"
+        type: institution
+        verbatim: "Queen Margaret University and London South Bank University announced new strike votes"
+      - fact: "2026年5月12日：英国斯坦斯特德机场ABM（UNITE）罢工解决"
+        type: institution_date
+        verbatim: "12 May 2026 — ABM (UNITE) strike resolution at Stansted Airport"
+
+  - id: KEEP-9
+    category: ipo_ma
+    headline: "Lansdowne Oil & Gas completes AIM reverse takeover, readmits as Lansdowne Resources"
+    lead_url: https://www.investegate.co.uk/announcement/rns/lansdowne-oil-gas--logp/readmission-lansdowne-oil-gas-plc/9587229
+    corroborated_by: []
+    atomic_facts:
+      - fact: "2026年5月27日08:00 BST，RNS通知确认反向收购后股票取消并重新上市"
+        type: date
+        verbatim: "On 27 May 2026 at 08:00 BST, RNS notice confirmed that following a Reverse Takeover, the ordinary shares of Lansdowne Oil & Gas PLC (AIM: LANE) were cancelled from trading on AIM and simultaneously readmitted"
+      - fact: "原AIM代码：LANE（Lansdowne Oil & Gas PLC）"
+        type: ticker
+        verbatim: "Lansdowne Oil & Gas PLC (AIM: LANE)"
+      - fact: "收购标的：São Gabriel Mineração Ltda.（巴西石墨项目）"
+        type: institution
+        verbatim: "Lansdowne Oil & Gas acquired São Gabriel Mineração Ltda. (a Brazilian graphite project)"
+      - fact: "发行1,900,000,000股新普通股，每股0.1便士，总收益£190万"
+        type: number
+        verbatim: "placing of 1,900,000,000 new ordinary shares at 0.1 pence each (gross proceeds £1.9 million)"
+      - fact: "通过WRAP进行最多190,000,000股的零售发行"
+        type: number
+        verbatim: "a retail offer of up to 190,000,000 shares through WRAP"
+      - fact: "股票按5:1比例合并"
+        type: number
+        verbatim: "share consolidation on a 5:1 basis"
+      - fact: "公司名称从Lansdowne Oil & Gas PLC更名为Lansdowne Resources Plc，新AIM代码为LRES"
+        type: institution_ticker
+        verbatim: "change of name from Lansdowne Oil & Gas PLC to Lansdowne Resources Plc with new AIM ticker LRES"
+      - fact: "发行与公司针对爱尔兰至少1亿美元能源宪章条约仲裁索赔相关的优先股奖励"
+        type: number
+        verbatim: "Parallel bonus issue of preference shares linked to the company's Energy Charter Treaty arbitration claim against Ireland for at least US$100 million"
+
+  - id: KEEP-10
+    category: ipo_ma
+    headline: "Sintana Energy AIM admission of new shares following $11.5m fundraise"
+    lead_url: https://www.investegate.co.uk/announcement/rns/sintana-energy-inc---sei/result-of-fundraise/9572158
+    corroborated_by: []
+    atomic_facts:
+      - fact: "Sintana Energy Inc.（AIM: SEI，TSXV: SEI）通过发行38,001,253股新普通股募集总收益1150万美元"
+        type: number
+        verbatim: "Sintana Energy Inc. (AIM: SEI, TSXV: SEI) raised gross proceeds of US$11.5 million through issuing 38,001,253 new common shares"
+      - fact: "AIM发行价为每股22.5便士"
+        type: number
+        verbatim: "at 22.5 pence per share on AIM"
+      - fact: "TSXV发行价为每股C$0.41"
+        type: number
+        verbatim: "C$0.41 per share on TSXV"
+      - fact: "配售募集1080万美元（35,629,043股）"
+        type: number
+        verbatim: "Placing raised US$10.8 million (35,629,043 shares)"
+      - fact: "认购募集70万美元（2,372,210股），包括CEO Robert Bose和总裁Eytan Uliel各认购25万美元"
+        type: person_number
+        verbatim: "subscription, including CEO Robert Bose and President Eytan Uliel each subscribing US$250,000, raised US$0.7 million (2,372,210 shares)"
+      - fact: "发行价较2026年5月14日收盘价26便士折让13.5%"
+        type: number_date
+        verbatim: "Pricing represented a discount of 13.5% to the 26 pence closing price on 14 May 2026"
+      - fact: "上市后总股份数：554,582,493股"
+        type: number
+        verbatim: "Post-admission total shares outstanding: 554,582,493"
+      - fact: "新股AIM上市时间预计为2026年5月27日前后"
+        type: date
+        verbatim: "AIM admission of the new shares expected on or around 27 May 2026"
+
+  - id: KEEP-11
+    category: other
+    headline: "Anti-Hindu Hate Monitor launches in UK"
+    lead_url: https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-27-may-2026/
+    corroborated_by:
+      - https://www.easterneye.biz/british-hindus-nationwide-hate-crime-reporting-tool/
+    atomic_facts:
+      - fact: "宗教媒体中心2026年5月27日简报报道反印度教仇恨监测仪的启动"
+        type: institution_date
+        verbatim: "Religion Media Centre 27 May bulletin reports launch of the Anti-Hindu Hate Monitor"
+      - fact: "该平台为英国首个全国性反印度教仇恨犯罪在线举报系统"
+        type: fact
+        verbatim: "the first nationwide online reporting system for anti-Hindu hate crimes in Britain"
+      - fact: "平台由伦敦国际可持续发展中心未来信仰部门的Ornicha Daorueng开发"
+        type: person_institution
+        verbatim: "Platform developed by Ornicha Daorueng of the Future Faiths Desk, International Centre for Sustainability (London)"
+      - fact: "以社区安全信托反犹太主义举报框架为蓝本"
+        type: institution
+        verbatim: "Modelled on the Community Security Trust antisemitism reporting framework"
+      - fact: "每6个月向内政部、大都会警察局、就业与养老金部及社区组织提交报告"
+        type: institution
+        verbatim: "Reports submitted every 6 months to the Home Office, Metropolitan Police, DWP, and community organisations"
+      - fact: "2026年1月至4月伦敦信仰仇恨犯罪同比增加58%"
+        type: number_date
+        verbatim: "faith-based hate crimes in London +58% January–April 2026 vs same period 2025"
+      - fact: "印度教徒为英国第三大宗教群体，此前没有专门举报机制"
+        type: fact
+        verbatim: "Hindus are UK's third-largest religious group; previously had no dedicated reporting mechanism"
+
+  - id: KEEP-12
+    category: other
+    headline: "Hajj 2026: Two million Muslims gather in Mecca; UK observes Eid ul-Adha"
+    lead_url: https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-27-may-2026/
+    corroborated_by: []
+    atomic_facts:
+      - fact: "约200万朝圣者聚集麦加参加朝觐"
+        type: number
+        verbatim: "~2 million pilgrims gathered in Mecca for Hajj"
+      - fact: "阿拉法特日（5月27日）与英国宰牲节庆祝活动同日"
+        type: date
+        verbatim: "Day of Arafah (27 May) and Eid ul-Adha coincide with end of UK heatwave"
+      - fact: "麦加气温44°C"
+        type: number
+        verbatim: "Temperatures at Mecca 44°C"
+      - fact: "沙特当局实施了加强防暑措施"
+        type: institution
+        verbatim: "Saudi authorities implemented enhanced heat-protection measures"
+      - fact: "英国穆斯林人口约390万，占英国总人口约5.7%"
+        type: number
+        verbatim: "British Muslim community (~3.9 million, ~5.7% of UK population)"
+      - fact: "艾哈迈底亚穆斯林社区领袖在萨里全国和平研讨会上警告'灾难性全球冲突'风险"
+        type: institution_quote
+        verbatim: "Ahmadiyya Muslim Community leader at National Peace Symposium, Surrey, warned about risk of 'catastrophic global conflict' linked to the Iran war and wider geopolitical tensions"
