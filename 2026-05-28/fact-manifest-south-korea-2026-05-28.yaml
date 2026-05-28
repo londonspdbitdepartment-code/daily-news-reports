@@ -1,0 +1,1677 @@
+version: 1
+generated_at: "2026-05-28T00:00:00Z"
+country: South Korea
+date: "2026-05-28"
+total_stories: 16
+stories:
+  - story_id: bok-holds-rate-2-5-pct-governor-signals-hikes
+    category: econ
+    headline_en: Bank of Korea holds rate at 2.5%, new Governor signals imminent hikes as inflation and won weakness build
+    lead_url: https://www.koreaherald.com/article/10758075
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/economy/20260528/bok-lifts-2026-growth-forecast-to-26-from-2
+      - https://www.investing.com/news/economy-news/south-korea-holds-rates-alert-to-inflation-risks-4713524
+      - https://www.bloomberg.com/news/articles/2026-05-28/bok-holds-rates-steady-amid-uncertain-outlook-for-policy
+    locked_urls:
+      - https://www.koreaherald.com/article/10758075
+      - https://www.koreatimes.co.kr/economy/20260528/bok-lifts-2026-growth-forecast-to-26-from-2
+      - https://www.investing.com/news/economy-news/south-korea-holds-rates-alert-to-inflation-risks-4713524
+      - https://www.bloomberg.com/news/articles/2026-05-28/bok-holds-rates-steady-amid-uncertain-outlook-for-policy
+    hard_facts:
+      - claim: BOK benchmark interest rate held
+        kind: numerical_with_unit
+        value: "2.5 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "maintained its benchmark interest rate at 2.5 percent at its May 28 Monetary Policy Board meeting"
+      - claim: MPB meeting date
+        kind: temporal
+        value: May 28
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "at its May 28 Monetary Policy Board meeting"
+      - claim: consecutive hold count
+        kind: numerical
+        value: "eighth consecutive hold"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "the eighth consecutive hold since May 2025"
+      - claim: consecutive holds start date
+        kind: temporal
+        value: May 2025
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "the eighth consecutive hold since May 2025"
+      - claim: new BOK Governor identity
+        kind: named_person
+        value: Shin Hyun-song
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "new Governor Shin Hyun-song, who took office on April 21, 2026"
+      - claim: new BOK Governor date took office
+        kind: temporal
+        value: April 21, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "who took office on April 21, 2026"
+      - claim: board votes to hold
+        kind: numerical
+        value: "Five of seven board members"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "Five of seven board members voted to hold"
+      - claim: dissenting board member identity 1
+        kind: named_person
+        value: Ryoo Sang-dai
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "two — Ryoo Sang-dai and Chang Yong-sung — dissented in favour of a 25 basis point increase"
+      - claim: dissenting board member identity 2
+        kind: named_person
+        value: Chang Yong-sung
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "two — Ryoo Sang-dai and Chang Yong-sung — dissented in favour of a 25 basis point increase"
+      - claim: dissenting vote hike size
+        kind: numerical_with_unit
+        value: "25 basis point"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "dissented in favour of a 25 basis point increase to 2.75 percent"
+      - claim: dissenting vote target rate
+        kind: numerical_with_unit
+        value: "2.75 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "dissented in favour of a 25 basis point increase to 2.75 percent"
+      - claim: BOK 2026 GDP growth forecast revised up
+        kind: numerical_with_unit
+        value: "2.6 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+          - https://www.koreatimes.co.kr/economy/20260528/bok-lifts-2026-growth-forecast-to-26-from-2
+        verbatim_excerpt: "the BOK raised its 2026 economic growth forecast to 2.6 percent from 2.0 percent"
+      - claim: BOK 2026 GDP growth prior forecast
+        kind: numerical_with_unit
+        value: "2.0 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "raised its 2026 economic growth forecast to 2.6 percent from 2.0 percent"
+      - claim: Q1 GDP growth quarter-on-quarter
+        kind: numerical_with_unit
+        value: "1.7 percent quarter-on-quarter"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "citing Q1 GDP growth of 1.7 percent quarter-on-quarter"
+      - claim: prior Q1 GDP estimate
+        kind: numerical_with_unit
+        value: "0.9 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "nearly double its earlier 0.9 percent estimate"
+      - claim: consumer price inflation year-on-year April
+        kind: numerical_with_unit
+        value: "2.6 percent year-on-year"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "Consumer prices rose 2.6 percent year-on-year in April"
+      - claim: BOK inflation target
+        kind: numerical_with_unit
+        value: "2 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "breaching the 2 percent target"
+      - claim: petroleum product price surge
+        kind: numerical_with_unit
+        value: "21.9 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "petroleum products surged 21.9 percent, the fastest pace since July 2022"
+      - claim: petroleum surge comparison date
+        kind: temporal
+        value: July 2022
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "the fastest pace since July 2022"
+      - claim: Korean won level vs dollar
+        kind: numerical_with_unit
+        value: "above 1,500 per dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "The Korean won traded above 1,500 per dollar"
+      - claim: BOK dot plot rate target within 6 months
+        kind: numerical_with_unit
+        value: "3 percent within six months"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "indicated rate increases toward 3 percent within six months"
+      - claim: BOK dot plot outer projection
+        kind: numerical_with_unit
+        value: "3.25 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "with some projections reaching 3.25 percent"
+      - claim: analyst identity Ahn
+        kind: named_person
+        value: Ahn Jae-kyun
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "Analyst Ahn Jae-kyun of Korea Investment & Securities said"
+      - claim: analyst institution Ahn
+        kind: named_institution
+        value: Korea Investment & Securities
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "Ahn Jae-kyun of Korea Investment & Securities said"
+      - claim: analyst identity Lee
+        kind: named_person
+        value: Stephen Lee
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "Stephen Lee, economist at Meritz Securities, forecast"
+      - claim: analyst institution Lee
+        kind: named_institution
+        value: Meritz Securities
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "Stephen Lee, economist at Meritz Securities"
+      - claim: forecast next hike target rate
+        kind: numerical_with_unit
+        value: "2.75%"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "We expect the BOK will hike its policy rate to 2.75% at the next meeting in July"
+      - claim: forecast next meeting month
+        kind: temporal
+        value: July
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "at the next meeting in July"
+      - claim: forecast subsequent hike month
+        kind: temporal
+        value: October
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "followed by another rate hike in October"
+      - claim: forecast year-end rate
+        kind: numerical_with_unit
+        value: "3.00%"
+        source_urls:
+          - https://www.koreaherald.com/article/10758075
+        verbatim_excerpt: "pushing the rate towards 3.00% by the end of the year"
+    quotes:
+      - speaker_name: Shin Hyun-song
+        speaker_title: Governor, Bank of Korea
+        verbatim_en: "Whether looking at inflation, growth, the exchange rate or the property market, the direction is clear. Raising the base rate would provide an opportunity to handle them all at once."
+        source_url: https://www.koreaherald.com/article/10758075
+        context: May 28 Monetary Policy Board press conference
+      - speaker_name: Shin Hyun-song
+        speaker_title: Governor, Bank of Korea
+        verbatim_en: "We will not tolerate one-sided moves in the currency market."
+        source_url: https://www.koreaherald.com/article/10758075
+        context: May 28 Monetary Policy Board press conference
+      - speaker_name: Ahn Jae-kyun
+        speaker_title: Analyst, Korea Investment & Securities
+        verbatim_en: "He got as hawkish as markets had expected him to be, and I think a hike in July is likely."
+        source_url: https://www.koreaherald.com/article/10758075
+        context: analyst comment on BOK May 28 rate decision
+      - speaker_name: Stephen Lee
+        speaker_title: Economist, Meritz Securities
+        verbatim_en: "We expect the BOK will hike its policy rate to 2.75% at the next meeting in July, followed by another rate hike in October, pushing the rate towards 3.00% by the end of the year."
+        source_url: https://www.koreaherald.com/article/10758075
+        context: analyst forecast following BOK May 28 rate decision
+
+  - story_id: south-korea-top-five-exporter-900-billion
+    category: econ
+    headline_en: South Korea on track to become world's top-five exporter as 2026 shipments forecast to exceed $900 billion
+    lead_url: https://www.koreaherald.com/article/10758124
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10758124
+    hard_facts:
+      - claim: Industry Minister identity
+        kind: named_person
+        value: Kim Jung-kwan
+        source_urls:
+          - https://www.koreaherald.com/article/10758124
+        verbatim_excerpt: "South Korea's Industry Minister Kim Jung-kwan said Thursday"
+      - claim: 2026 full-year export projection
+        kind: numerical_with_unit
+        value: "$900 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758124
+        verbatim_excerpt: "exports projected to exceed $900 billion for the full year"
+      - claim: 2025 record export value
+        kind: numerical_with_unit
+        value: "$709.3 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758124
+        verbatim_excerpt: "Last year's exports reached a record $709.3 billion"
+      - claim: exports through April 2026 year-on-year growth
+        kind: numerical_with_unit
+        value: "40.9 percent year-on-year"
+        source_urls:
+          - https://www.koreaherald.com/article/10758124
+        verbatim_excerpt: "Through April 2026, exports surged 40.9 percent year-on-year"
+      - claim: exports through April 2026 value
+        kind: numerical_with_unit
+        value: "$306.5 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758124
+        verbatim_excerpt: "exports surged 40.9 percent year-on-year to $306.5 billion"
+      - claim: chip export growth
+        kind: numerical_with_unit
+        value: "roughly 140 percent increase"
+        source_urls:
+          - https://www.koreaherald.com/article/10758124
+        verbatim_excerpt: "driven primarily by a roughly 140 percent increase in chip exports"
+      - claim: Korea-US tariff rate agreed
+        kind: numerical_with_unit
+        value: "15 percent tariff rate"
+        source_urls:
+          - https://www.koreaherald.com/article/10758124
+        verbatim_excerpt: "South Korea secured a 15 percent tariff rate in exchange for $350 billion in US investment commitments"
+      - claim: Korea US investment commitment
+        kind: numerical_with_unit
+        value: "$350 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758124
+        verbatim_excerpt: "in exchange for $350 billion in US investment commitments"
+    quotes:
+      - speaker_name: Kim Jung-kwan
+        speaker_title: Industry Minister, South Korea
+        verbatim_en: "Although we need to remain cautious about external variables, exports are expected to exceed $900 billion this year."
+        source_url: https://www.koreaherald.com/article/10758124
+        context: Thursday ministerial statement on 2026 export outlook
+
+  - story_id: kospi-falls-0-53-pct-8185-ai-rally-pauses
+    category: econ
+    headline_en: KOSPI falls 0.53% to 8,185 as AI rally pauses on renewed US-Iran military exchanges
+    lead_url: https://www.koreaherald.com/article/10758096
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10758096
+    hard_facts:
+      - claim: KOSPI point decline
+        kind: numerical_with_unit
+        value: "43.41 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "South Korea's KOSPI fell 43.41 points (0.53 percent) to close at 8,185.29 on Thursday"
+      - claim: KOSPI percentage decline
+        kind: numerical_with_unit
+        value: "0.53 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "fell 43.41 points (0.53 percent) to close at 8,185.29"
+      - claim: KOSPI closing level
+        kind: numerical_with_unit
+        value: "8,185.29"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "to close at 8,185.29 on Thursday"
+      - claim: KOSPI prior record
+        kind: numerical_with_unit
+        value: "8,288.7"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "that had brought the index to a record 8,288.7 the previous day"
+      - claim: winning streak ended
+        kind: numerical
+        value: "four-day winning streak"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "ending a four-day winning streak"
+      - claim: Samsung Electronics decline
+        kind: numerical_with_unit
+        value: "1.87 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "Samsung Electronics fell 1.87 percent"
+      - claim: named institution Samsung Electronics
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "Samsung Electronics fell 1.87 percent"
+      - claim: SK hynix decline
+        kind: numerical_with_unit
+        value: "2.45 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "SK hynix fell 2.45 percent"
+      - claim: named institution SK hynix
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "SK hynix fell 2.45 percent"
+      - claim: Hanwha Ocean decline
+        kind: numerical_with_unit
+        value: "6.45 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "Hanwha Ocean dropped 6.45 percent"
+      - claim: named institution Hanwha Ocean
+        kind: named_institution
+        value: Hanwha Ocean
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "Hanwha Ocean dropped 6.45 percent"
+      - claim: LG Energy Solution surge
+        kind: numerical_with_unit
+        value: "12.65 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "LG Energy Solution surged 12.65 percent after announcing a $1.6 billion battery storage deal"
+      - claim: LG Energy Solution deal value
+        kind: numerical_with_unit
+        value: "$1.6 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "after announcing a $1.6 billion battery storage deal"
+      - claim: named institution LG Energy Solution
+        kind: named_institution
+        value: LG Energy Solution
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "LG Energy Solution surged 12.65 percent"
+      - claim: Hyundai Motor rise
+        kind: numerical_with_unit
+        value: "2.35 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "Hyundai Motor rose 2.35 percent"
+      - claim: named institution Hyundai Motor
+        kind: named_institution
+        value: Hyundai Motor
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "Hyundai Motor rose 2.35 percent"
+      - claim: KOSPI milestone breached earlier
+        kind: numerical_with_unit
+        value: "8,000 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10758096
+        verbatim_excerpt: "The KOSPI had surpassed 8,000 points earlier in the week"
+    quotes: []
+
+  - story_id: june-3-local-elections-early-voting-begins
+    category: politics
+    headline_en: "South Korea's June 3 local elections begin two-day early voting; 44.64 million voters eligible across 7,813 candidates"
+    lead_url: https://www.koreaherald.com/article/10758037
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10758037
+    hard_facts:
+      - claim: election date
+        kind: temporal
+        value: June 3
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "Two-day early voting for South Korea's June 3 local elections"
+      - claim: number of nationwide polling stations
+        kind: numerical_with_unit
+        value: "3,571 nationwide polling stations"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "began Thursday at 3,571 nationwide polling stations"
+      - claim: early voting hours
+        kind: temporal
+        value: "6 a.m. to 6 p.m."
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "from 6 a.m. to 6 p.m."
+      - claim: total eligible voters
+        kind: numerical_with_unit
+        value: "44.64 million eligible voters"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "A total of 44.64 million eligible voters may participate"
+      - claim: eligible foreign permanent residents
+        kind: numerical_with_unit
+        value: "151,532 foreign F5 permanent residents"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "including 151,532 foreign F5 permanent residents"
+      - claim: ballot papers per voter
+        kind: numerical
+        value: "seven ballot papers"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "Most voters will receive seven ballot papers"
+      - claim: metropolitan and provincial chiefs selected
+        kind: numerical
+        value: "16 metropolitan and provincial chiefs"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "The election selects 16 metropolitan and provincial chiefs"
+      - claim: mayors and county heads selected
+        kind: numerical
+        value: "227 mayors and county heads"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "227 mayors and county heads"
+      - claim: metropolitan council members selected
+        kind: numerical
+        value: "804 metropolitan council members"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "804 metropolitan council members"
+      - claim: local council members selected
+        kind: numerical
+        value: "2,650 local council members"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "2,650 local council members"
+      - claim: education superintendents selected
+        kind: numerical
+        value: "16 education superintendents"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "16 education superintendents"
+      - claim: National Assembly by-election seats
+        kind: numerical
+        value: "14 National Assembly members"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "14 National Assembly members"
+      - claim: NEC chief identity
+        kind: named_person
+        value: Roh Tae-ak
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "National Election Commission chief Roh Tae-ak presided at the launch"
+      - claim: named institution National Election Commission
+        kind: named_institution
+        value: National Election Commission
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "National Election Commission chief Roh Tae-ak presided at the launch"
+      - claim: DPK chair identity
+        kind: named_person
+        value: Jung Chung-rae
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "DPK chair Rep. Jung Chung-rae and floor leader Rep. Han Byung-do voted early"
+      - claim: DPK floor leader identity
+        kind: named_person
+        value: Han Byung-do
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "DPK chair Rep. Jung Chung-rae and floor leader Rep. Han Byung-do voted early"
+      - claim: PPP chair identity
+        kind: named_person
+        value: Jang Dong-hyeok
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "PPP chair Rep. Jang Dong-hyeok and whip Rep. Song Eon-seog also voted"
+      - claim: PPP whip identity
+        kind: named_person
+        value: Song Eon-seog
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "PPP chair Rep. Jang Dong-hyeok and whip Rep. Song Eon-seog also voted"
+      - claim: named institution One Metrix poll
+        kind: named_institution
+        value: One Metrix
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "One Metrix poll before the campaign blackout showed opposition candidate Chong at 40 percent"
+      - claim: opposition Seoul mayor candidate poll result
+        kind: numerical_with_unit
+        value: "40 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "showed opposition candidate Chong at 40 percent versus ruling party's Oh at 37 percent"
+      - claim: ruling party Seoul mayor candidate poll result
+        kind: numerical_with_unit
+        value: "37 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758037
+        verbatim_excerpt: "versus ruling party's Oh at 37 percent for the Seoul mayoral race"
+    quotes: []
+
+  - story_id: yoon-acquitted-perjury-charges-martial-law
+    category: politics
+    headline_en: Seoul court acquits ex-President Yoon Suk-yeol of perjury charges over martial law Cabinet testimony
+    lead_url: https://www.koreaherald.com/article/10757874
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/law-crime/20260528/court-acquits-ex-president-yoon-of-perjury-over-testimony-at-ex-pms-trial
+    locked_urls:
+      - https://www.koreaherald.com/article/10757874
+      - https://www.koreatimes.co.kr/southkorea/law-crime/20260528/court-acquits-ex-president-yoon-of-perjury-over-testimony-at-ex-pms-trial
+    hard_facts:
+      - claim: court that acquitted Yoon
+        kind: named_institution
+        value: Seoul Central District Court
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "The Seoul Central District Court on Thursday acquitted former President Yoon Suk Yeol of perjury charges"
+      - claim: former president identity
+        kind: named_person
+        value: Yoon Suk Yeol
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "acquitted former President Yoon Suk Yeol of perjury charges"
+      - claim: former Prime Minister identity
+        kind: named_person
+        value: Han Duck-soo
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "during the insurrection trial of former Prime Minister Han Duck-soo"
+      - claim: special counsel identity
+        kind: named_person
+        value: Cho Eun-suk
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "Special counsel Cho Eun-suk's team had requested a two-year prison sentence"
+      - claim: prison sentence requested by special counsel
+        kind: temporal
+        value: two-year prison sentence
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "had requested a two-year prison sentence"
+      - claim: martial law declaration date
+        kind: temporal
+        value: December 3, 2024
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "before his December 3, 2024 martial law declaration"
+      - claim: Yoon current sentence
+        kind: named_product
+        value: life sentence for insurrection
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "Yoon, already serving a life sentence for insurrection handed down in February 2026"
+      - claim: insurrection sentence handed down date
+        kind: temporal
+        value: February 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "handed down in February 2026"
+      - claim: total number of trials Yoon faces
+        kind: numerical
+        value: "eight total trials"
+        source_urls:
+          - https://www.koreaherald.com/article/10757874
+        verbatim_excerpt: "Yoon, already serving a life sentence for insurrection handed down in February 2026, faces eight total trials"
+    quotes:
+      - speaker_name: Seoul Central District Court
+        speaker_title: Court ruling
+        verbatim_en: "It appears highly likely that Yoon had planned to convene Cabinet members from the beginning, regardless of Han's suggestion. It is difficult to determine that his testimony in court was contrary to his recollection."
+        source_url: https://www.koreaherald.com/article/10757874
+        context: Thursday ruling on perjury acquittal
+      - speaker_name: Yoon Suk Yeol
+        speaker_title: Former President, South Korea
+        verbatim_en: "Cabinet members were not dolls brought in to create an appearance."
+        source_url: https://www.koreaherald.com/article/10757874
+        context: testimony during Han Duck-soo insurrection trial
+
+  - story_id: lee-jae-myung-first-year-pragmatic-diplomacy
+    category: politics
+    headline_en: "Lee Jae-myung completes first year in office with pragmatic diplomacy record: US tariff deal, Xi summit, Japan energy pact"
+    lead_url: https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+    hard_facts:
+      - claim: President Lee identity
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "President Lee Jae Myung's first year in office (June 4, 2025 inauguration)"
+      - claim: Lee inauguration date
+        kind: temporal
+        value: June 4, 2025
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "President Lee Jae Myung's first year in office (June 4, 2025 inauguration)"
+      - claim: APEC summit location and date
+        kind: temporal
+        value: October 2025 APEC summit in Gyeongju
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "the October 2025 APEC summit in Gyeongju"
+      - claim: US investment plan announced
+        kind: numerical_with_unit
+        value: "$350 billion investment plan"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "South Korea announced a $350 billion investment plan in the US in exchange for tariff reduction"
+      - claim: tariff reduction from
+        kind: numerical_with_unit
+        value: "25 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "tariff reduction from 25 percent to 15 percent"
+      - claim: tariff reduction to
+        kind: numerical_with_unit
+        value: "15 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "tariff reduction from 25 percent to 15 percent"
+      - claim: Chinese President Xi visit date
+        kind: temporal
+        value: October 2025
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "Chinese President Xi Jinping's visit to South Korea in October 2025 — the first Chinese leader visit in 11 years"
+      - claim: Xi Jinping identity
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "Chinese President Xi Jinping's visit to South Korea in October 2025"
+      - claim: years since last Chinese leader visit
+        kind: numerical
+        value: "11 years"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "the first Chinese leader visit in 11 years"
+      - claim: Lee's visit to Beijing date
+        kind: temporal
+        value: January 2026
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "Lee's reciprocal visit to Beijing in January 2026"
+      - claim: Japan PM identity
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "a bilateral summit with Japanese PM Sanae Takaichi in Andong on May 19, 2026"
+      - claim: Japan-Korea summit date and location
+        kind: temporal
+        value: May 19, 2026 in Andong
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "bilateral summit with Japanese PM Sanae Takaichi in Andong on May 19, 2026"
+      - claim: researcher identity Sneider
+        kind: named_person
+        value: Daniel Sneider
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "Stanford University researcher Daniel Sneider stated"
+      - claim: institution Stanford University
+        kind: named_institution
+        value: Stanford University
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "Stanford University researcher Daniel Sneider stated"
+      - claim: professor identity Park
+        kind: named_person
+        value: Park Won-gon
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "Ewha Womans University professor Park Won-gon said"
+      - claim: institution Ewha Womans University
+        kind: named_institution
+        value: Ewha Womans University
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        verbatim_excerpt: "Ewha Womans University professor Park Won-gon said"
+    quotes:
+      - speaker_name: Daniel Sneider
+        speaker_title: Researcher, Stanford University
+        verbatim_en: "Korea smartly used the issue to bargain for concessions that are more crucial to its national interests."
+        source_url: https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        context: assessment of Lee Jae Myung's first year diplomacy
+      - speaker_name: Park Won-gon
+        speaker_title: Professor, Ewha Womans University
+        verbatim_en: "The Seoul-Washington relations got off to a good start under the Lee administration."
+        source_url: https://www.koreatimes.co.kr/foreignaffairs/20260528/lees-1st-year-in-office-president-steers-through-diplomatic-headwinds-with-pragmatic-approach
+        context: assessment of Lee Jae Myung's first year diplomacy
+
+  - story_id: lg-energy-solution-1-6-billion-dte-energy-deal
+    category: tech
+    headline_en: LG Energy Solution wins $1.6 billion US battery storage contract with DTE Energy, backed by AI data-centre power demand
+    lead_url: https://www.koreaherald.com/article/10758024
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/business/companies/20260528/lg-energy-solution-secures-18-bil-ess-deal-with-dte-energy
+    locked_urls:
+      - https://www.koreaherald.com/article/10758024
+      - https://www.koreatimes.co.kr/business/companies/20260528/lg-energy-solution-secures-18-bil-ess-deal-with-dte-energy
+    hard_facts:
+      - claim: named institution LG Energy Solution Vertech
+        kind: named_institution
+        value: LG Energy Solution Vertech
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "LG Energy Solution Vertech announced Thursday a $1.6 billion contract with Michigan-based utility DTE Energy"
+      - claim: contract value
+        kind: numerical_with_unit
+        value: "$1.6 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "a $1.6 billion contract with Michigan-based utility DTE Energy"
+      - claim: named institution DTE Energy
+        kind: named_institution
+        value: DTE Energy
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "Michigan-based utility DTE Energy"
+      - claim: battery storage volume
+        kind: numerical_with_unit
+        value: "6 gigawatt-hours"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "to supply 6 gigawatt-hours of energy storage system batteries over two years"
+      - claim: supply duration
+        kind: temporal
+        value: over two years
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "to supply 6 gigawatt-hours of energy storage system batteries over two years"
+      - claim: LG factory location
+        kind: named_institution
+        value: "Holland, Michigan facility"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "Battery cells will be manufactured at LG's Holland, Michigan facility"
+      - claim: LG facility operations start date
+        kind: temporal
+        value: June 2025
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "which began operations in June 2025"
+      - claim: number of Michigan grid projects
+        kind: numerical
+        value: "eight Michigan grid projects"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "DTE Energy will deploy the batteries across eight Michigan grid projects"
+      - claim: named institution Oracle AI data centre location
+        kind: named_institution
+        value: Oracle
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "including at Oracle's AI data centre in Saline Township"
+      - claim: number of major ESS production bases in North America
+        kind: numerical
+        value: "five major ESS production bases"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "The company operates five major ESS production bases across North America"
+      - claim: planned global ESS capacity by year-end
+        kind: numerical_with_unit
+        value: "more than 60 gigawatt-hours"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "plans to expand global ESS capacity to more than 60 gigawatt-hours by year-end"
+      - claim: cumulative ESS orders as of 2025
+        kind: numerical_with_unit
+        value: "140 gigawatt-hours"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "Cumulative ESS orders as of 2025: 140 gigawatt-hours"
+      - claim: 2026 ESS contracts total volume
+        kind: numerical_with_unit
+        value: "11 gigawatt-hours"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "2026 ESS contracts total 11 gigawatt-hours (approximately $2.26 billion)"
+      - claim: 2026 ESS contracts total value
+        kind: numerical_with_unit
+        value: "approximately $2.26 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "2026 ESS contracts total 11 gigawatt-hours (approximately $2.26 billion)"
+      - claim: LG Energy Solution share surge
+        kind: numerical_with_unit
+        value: "12.65 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "LG Energy Solution shares surged 12.65 percent in KOSPI trading Thursday"
+      - claim: Park Jae-hong identity
+        kind: named_person
+        value: Park Jae-hong
+        source_urls:
+          - https://www.koreaherald.com/article/10758024
+        verbatim_excerpt: "Park Jae-hong, head of LG Energy Solution Vertech, stated"
+    quotes:
+      - speaker_name: Park Jae-hong
+        speaker_title: Head of LG Energy Solution Vertech
+        verbatim_en: "Through our localization strategy and continued expansion to North America's ESS sector, we aim to support grid stability, job creation and market growth across the region."
+        source_url: https://www.koreaherald.com/article/10758024
+        context: Thursday announcement of DTE Energy battery storage deal
+
+  - story_id: naver-1-trillion-won-ai-creator-ecosystem
+    category: tech
+    headline_en: Naver commits 1 trillion won over five years to AI-powered creator content ecosystem
+    lead_url: https://www.koreaherald.com/article/10757974
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10757974
+    hard_facts:
+      - claim: named institution Naver
+        kind: named_institution
+        value: Naver
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "Naver announced Thursday a 1 trillion won ($663 million) five-year investment"
+      - claim: investment amount Korean won
+        kind: numerical_with_unit
+        value: "1 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "Naver announced Thursday a 1 trillion won ($663 million) five-year investment"
+      - claim: investment amount USD equivalent
+        kind: numerical_with_unit
+        value: "$663 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "a 1 trillion won ($663 million) five-year investment"
+      - claim: investment duration
+        kind: temporal
+        value: five-year
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "a 1 trillion won ($663 million) five-year investment in creator content infrastructure"
+      - claim: named product Naver Mate launch date
+        kind: temporal
+        value: June 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "The company will launch \"Naver Mate\" in June 2026"
+      - claim: named product Naver Mate
+        kind: named_product
+        value: Naver Mate
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "The company will launch \"Naver Mate\" in June 2026"
+      - claim: monthly creator selection count
+        kind: numerical_with_unit
+        value: "approximately 3,000 creators monthly"
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "selecting approximately 3,000 creators monthly"
+      - claim: creator cash support range low
+        kind: numerical_with_unit
+        value: "300,000 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "selected creators receive cash support of 300,000 won to 10 million won per person"
+      - claim: creator cash support range high
+        kind: numerical_with_unit
+        value: "10 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "selected creators receive cash support of 300,000 won to 10 million won per person"
+      - claim: annual creator support pool
+        kind: numerical_with_unit
+        value: "20 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "with the annual creator support pool valued at 20 billion won"
+      - claim: named product Naver AI Tab users within one month
+        kind: numerical_with_unit
+        value: "over 3 million users"
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "Naver's AI Tab accumulated over 3 million users within one month of its April 2026 beta launch"
+      - claim: Naver AI Tab beta launch date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "its April 2026 beta launch"
+      - claim: named product HyperClova X
+        kind: named_product
+        value: HyperClova X
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "Next-generation HyperClova X will deploy across Naver services"
+      - claim: Naver content ecosystem age
+        kind: temporal
+        value: "more than 25 years"
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "Naver's independent content ecosystem, built over more than 25 years, is our strongest asset"
+      - claim: Kim Kwang-hyun identity
+        kind: named_person
+        value: Kim Kwang-hyun
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "Kim Kwang-hyun, Chief Data and Contents Officer, stated"
+      - claim: Kim Sang-bum identity
+        kind: named_person
+        value: Kim Sang-bum
+        source_urls:
+          - https://www.koreaherald.com/article/10757974
+        verbatim_excerpt: "Kim Sang-bum, head of Naver's search platform division, added"
+    quotes:
+      - speaker_name: Kim Kwang-hyun
+        speaker_title: Chief Data and Contents Officer, Naver
+        verbatim_en: "The center of competition among AI platforms is moving toward data quality and service competitiveness. Naver's independent content ecosystem, built over more than 25 years, is our strongest asset."
+        source_url: https://www.koreaherald.com/article/10757974
+        context: Thursday announcement of 1 trillion won creator investment
+      - speaker_name: Kim Sang-bum
+        speaker_title: Head of Naver's search platform division
+        verbatim_en: "Based on Naver's unique assets that best understand the daily lives and context of Korean users, we will build AI agent services that go beyond search and help users take action."
+        source_url: https://www.koreaherald.com/article/10757974
+        context: Thursday announcement of 1 trillion won creator investment
+
+  - story_id: doosan-enerbility-rolls-royce-smr-partner
+    category: tech
+    headline_en: Doosan Enerbility named strategic partner for Rolls-Royce SMR nuclear reactor projects in UK and Czech Republic
+    lead_url: https://www.koreaherald.com/article/10757884
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10757884
+    hard_facts:
+      - claim: named institution Doosan Enerbility
+        kind: named_institution
+        value: Doosan Enerbility
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "Doosan Enerbility announced Thursday it has been selected as a strategic partner for small modular reactor projects led by Rolls-Royce SMR Ltd."
+      - claim: named institution Rolls-Royce SMR Ltd.
+        kind: named_institution
+        value: Rolls-Royce SMR Ltd.
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "small modular reactor projects led by Rolls-Royce SMR Ltd."
+      - claim: named product Wylfa SMR location
+        kind: named_product
+        value: Wylfa SMR
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "conducting feasibility testing on key equipment for the Wylfa SMR in the UK"
+      - claim: named product Temelin SMR location
+        kind: named_product
+        value: Temelin SMR
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "and the Temelin SMR in the Czech Republic"
+      - claim: SMR reactor capacity
+        kind: numerical_with_unit
+        value: "470-megawatt reactor"
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "Rolls-Royce SMR is developing a 470-megawatt reactor"
+      - claim: SMR design operational lifespan
+        kind: temporal
+        value: "60 years"
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "designed to operate for 60 years"
+      - claim: named product Hinkley Point C prior supply
+        kind: named_product
+        value: Hinkley Point C
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "Doosan Enerbility has previously supplied reactor coolant pumps and major nuclear components to plants in the UK (Hinkley Point C)"
+      - claim: named product Barakah plant prior supply
+        kind: named_product
+        value: Barakah
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "the UAE (Barakah)"
+      - claim: Kim Jong-doo identity
+        kind: named_person
+        value: Kim Jong-doo
+        source_urls:
+          - https://www.koreaherald.com/article/10757884
+        verbatim_excerpt: "Kim Jong-doo, CEO of Doosan Enerbility Nuclear BG, stated"
+    quotes:
+      - speaker_name: Kim Jong-doo
+        speaker_title: CEO, Doosan Enerbility Nuclear BG
+        verbatim_en: "Our partnership with Rolls-Royce SMR will be a significant chance for Doosan Enerbility to expand its role in the global SMR supply chain. With our expertise in nuclear plant manufacturing and technical capabilities, we will take an active part in Rolls-Royce's SMR projects."
+        source_url: https://www.koreaherald.com/article/10757884
+        context: Thursday announcement of strategic partnership with Rolls-Royce SMR
+
+  - story_id: seoul-overpass-collapse-gtx-scandal-lee-orders
+    category: society
+    headline_en: President Lee orders sweeping investigation after fatal Seoul overpass collapse kills three; GTX reinforcement scandal linked
+    lead_url: https://www.koreaherald.com/article/10758030
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10758030
+    hard_facts:
+      - claim: overpass collapse fatalities
+        kind: numerical
+        value: "three people"
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "killed three people (including a construction site manager)"
+      - claim: overpass collapse injuries
+        kind: numerical
+        value: "three others"
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "killed three people (including a construction site manager) and injured three others"
+      - claim: collapse date
+        kind: temporal
+        value: May 26
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "the collapse of the Seosomun overpass demolition site in Seoul's Seodaemun-gu on May 26"
+      - claim: named product Seosomun overpass
+        kind: named_product
+        value: Seosomun overpass
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "the collapse of the Seosomun overpass demolition site in Seoul's Seodaemun-gu on May 26"
+      - claim: named product Samsung Station GTX
+        kind: named_product
+        value: Samsung Station GTX
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "missing reinforcing bars discovered at the Samsung Station GTX (Great Train eXpress) high-speed commuter rail project"
+      - claim: Seosomun overpass opened year
+        kind: temporal
+        value: "1966"
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "The Seosomun overpass, opened in 1966"
+      - claim: Seosomun overpass safety grade
+        kind: named_product
+        value: D grade
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "had previously received a D grade in a precision safety inspection"
+      - claim: President Lee identity
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "President Lee Jae Myung on Thursday ordered a sweeping investigation"
+      - claim: named institution Cheong Wa Dae
+        kind: named_institution
+        value: Cheong Wa Dae
+        source_urls:
+          - https://www.koreaherald.com/article/10758030
+        verbatim_excerpt: "Lee issued the orders at a weekly senior-aides meeting at Cheong Wa Dae"
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: President, South Korea
+        verbatim_en: "Whether the fatal accident at the Seosomun overpass demolition site the other day and the missing reinforcing bars problem at Samsung Station's GTX project also stem from such entrenched maladies requires a thorough investigation."
+        source_url: https://www.koreaherald.com/article/10758030
+        context: Thursday weekly senior-aides meeting at Cheong Wa Dae
+      - speaker_name: Lee Jae Myung
+        speaker_title: President, South Korea
+        verbatim_en: "Money can never be more valuable than human life"
+        source_url: https://www.koreaherald.com/article/10758030
+        context: Thursday weekly senior-aides meeting at Cheong Wa Dae
+      - speaker_name: Lee Jae Myung
+        speaker_title: President, South Korea
+        verbatim_en: "We must also keep firmly in mind the fact that safety is the most efficient investment."
+        source_url: https://www.koreaherald.com/article/10758030
+        context: Thursday weekly senior-aides meeting at Cheong Wa Dae
+
+  - story_id: economically-inactive-youth-784000-k-shaped-labour
+    category: society
+    headline_en: Economically inactive South Koreans aged 25-29 hit 784,000 in April - sharpest April rise since 2020 amid K-shaped labour market
+    lead_url: https://www.koreaherald.com/article/10757891
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10757891
+    hard_facts:
+      - claim: economically inactive 25-29 population April 2026
+        kind: numerical_with_unit
+        value: "784,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "The economically inactive population among South Koreans aged 25 to 29 reached 784,000 in April 2026"
+      - claim: year-on-year increase in inactive 25-29
+        kind: numerical_with_unit
+        value: "up 37,000 from April 2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "up 37,000 from April 2025"
+      - claim: comparison benchmark for sharpest rise
+        kind: temporal
+        value: "sharpest April increase since 2020"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "marking the sharpest April increase since 2020"
+      - claim: data source
+        kind: named_institution
+        value: Korean Statistical Information Service
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "according to Korean Statistical Information Service data"
+      - claim: overall 25-29 population decline
+        kind: numerical_with_unit
+        value: "shrinking by 72,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "despite the overall 25–29 population shrinking by 72,000"
+      - claim: economically active population fall in cohort
+        kind: numerical_with_unit
+        value: "fell by 109,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "the economically active population (employed or job-seeking) fell by 109,000"
+      - claim: benchmark for steepest active population drop
+        kind: temporal
+        value: "steepest year-on-year drop in this cohort since 2013"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "the steepest year-on-year drop in this cohort since 2013"
+      - claim: resting category count
+        kind: numerical_with_unit
+        value: "Approximately 228,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "Approximately 228,000 in this age group were classified as \"resting\""
+      - claim: resting category year-on-year rise
+        kind: numerical_with_unit
+        value: "up 31,000 from a year earlier"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "up 31,000 from a year earlier"
+      - claim: fastest quarterly growth period
+        kind: temporal
+        value: "fastest quarterly growth in five-and-a-half years"
+        source_urls:
+          - https://www.koreaherald.com/article/10757891
+        verbatim_excerpt: "South Korea's semiconductor-driven economy posts its fastest quarterly growth in five-and-a-half years"
+    quotes: []
+
+  - story_id: starbucks-korea-tank-day-shinsegae-640-billion
+    category: society
+    headline_en: Starbucks Korea "Tank Day" marketing controversy puts Shinsegae under potential 640 billion won financial exposure
+    lead_url: https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+    hard_facts:
+      - claim: Tank Day promotion launch date
+        kind: temporal
+        value: May 18
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "Starbucks Korea's \"Tank Day\" promotional event, launched May 18"
+      - claim: named product Tank Day
+        kind: named_product
+        value: Tank Day
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "Starbucks Korea's \"Tank Day\" promotional event"
+      - claim: weekly sales decline
+        kind: numerical_with_unit
+        value: "26 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "Weekly sales fell 26 percent from the week before the incident"
+      - claim: mobile app downloads decline
+        kind: numerical_with_unit
+        value: "23.6 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "mobile app downloads fell 23.6 percent"
+      - claim: Starbucks Korea 2024 annual sales
+        kind: numerical_with_unit
+        value: "3 trillion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "Starbucks Korea reported 3 trillion won in annual sales in 2024"
+      - claim: Starbucks Korea 2024 operating profit
+        kind: numerical_with_unit
+        value: "191 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "with 191 billion won in operating profit"
+      - claim: outstanding prepaid gift card balances
+        kind: numerical_with_unit
+        value: "428 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "outstanding prepaid gift card balances total 428 billion won as of December 2025"
+      - claim: gift card balance reference date
+        kind: temporal
+        value: December 2025
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "outstanding prepaid gift card balances total 428 billion won as of December 2025"
+      - claim: named institution Emart stake in Starbucks Korea
+        kind: named_institution
+        value: Emart
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "Emart (Shinsegae Group) holds a 67.5 percent stake in Starbucks Korea"
+      - claim: Emart stake percentage
+        kind: numerical_with_unit
+        value: "67.5 percent stake"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "Emart (Shinsegae Group) holds a 67.5 percent stake in Starbucks Korea"
+      - claim: Emart stake valuation year
+        kind: temporal
+        value: "2021"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "valued at approximately 1.83 trillion won in 2021"
+      - claim: Emart stake 2021 value
+        kind: numerical_with_unit
+        value: "approximately 1.83 trillion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "valued at approximately 1.83 trillion won in 2021"
+      - claim: call option buyback discount
+        kind: numerical_with_unit
+        value: "35 percent discount"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "allows Starbucks Coffee International to buy back Emart's stake at a 35 percent discount"
+      - claim: named institution Starbucks Coffee International
+        kind: named_institution
+        value: Starbucks Coffee International
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "allows Starbucks Coffee International to buy back Emart's stake"
+      - claim: potential Emart financial loss Korean won
+        kind: numerical_with_unit
+        value: "640 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "a scenario that could cost Emart up to 640 billion won ($427 million)"
+      - claim: potential Emart financial loss USD
+        kind: numerical_with_unit
+        value: "$427 million"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "could cost Emart up to 640 billion won ($427 million)"
+      - claim: Park Ju-gun identity
+        kind: named_person
+        value: Park Ju-gun
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "Park Ju-gun, CEO of Leaders Index, stated"
+      - claim: named institution Leaders Index
+        kind: named_institution
+        value: Leaders Index
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        verbatim_excerpt: "Park Ju-gun, CEO of Leaders Index, stated"
+    quotes:
+      - speaker_name: Park Ju-gun
+        speaker_title: CEO, Leaders Index
+        verbatim_en: "Starbucks, a place meant for conversation and casual hangouts, has now turned into a political and ideological arena between those who condemn the company and Chung, and those who support them."
+        source_url: https://www.koreatimes.co.kr/business/companies/20260528/starbucks-fiasco-puts-shinsegae-under-financial-strain
+        context: commentary on Starbucks Korea Tank Day controversy
+
+  - story_id: samsung-affiliates-acquire-4pct-dunamu-612-billion
+    category: ipo_ma
+    headline_en: Samsung affiliates acquire 4% stake in Dunamu (Upbit operator) for 612.8 billion won ($446M)
+    lead_url: https://www.koreaherald.com/article/10757889
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10757889
+    hard_facts:
+      - claim: named institution Samsung Securities
+        kind: named_institution
+        value: Samsung Securities
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Samsung Securities (2%), Samsung SDS (1%), and Samsung Card (1%) are acquiring a combined 4 percent stake in Dunamu"
+      - claim: Samsung Securities stake
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Samsung Securities (2%)"
+      - claim: named institution Samsung SDS
+        kind: named_institution
+        value: Samsung SDS
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Samsung SDS (1%)"
+      - claim: Samsung SDS stake
+        kind: numerical_with_unit
+        value: "1%"
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Samsung SDS (1%)"
+      - claim: named institution Samsung Card
+        kind: named_institution
+        value: Samsung Card
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Samsung Card (1%)"
+      - claim: Samsung Card stake
+        kind: numerical_with_unit
+        value: "1%"
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Samsung Card (1%)"
+      - claim: combined stake acquired
+        kind: numerical_with_unit
+        value: "combined 4 percent stake"
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "acquiring a combined 4 percent stake in Dunamu"
+      - claim: named institution Dunamu
+        kind: named_institution
+        value: Dunamu
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "a combined 4 percent stake in Dunamu — operator of Upbit"
+      - claim: named product Upbit
+        kind: named_product
+        value: Upbit
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Dunamu — operator of Upbit, South Korea's largest cryptocurrency exchange"
+      - claim: acquisition price Korean won
+        kind: numerical_with_unit
+        value: "612.8 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "for 612.8 billion won ($446 million, covering 1.39 million shares)"
+      - claim: acquisition price USD
+        kind: numerical_with_unit
+        value: "$446 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "612.8 billion won ($446 million, covering 1.39 million shares)"
+      - claim: shares covered
+        kind: numerical_with_unit
+        value: "1.39 million shares"
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "covering 1.39 million shares"
+      - claim: named institution Kakao Investment (seller)
+        kind: named_institution
+        value: Kakao Investment
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "The sellers are four Kakao-affiliated funds (Kakao Investment, Kakao Ventures, Kakao Youth Entrepreneurship Fund, KIF–Kakao Woori Bank Technology Finance Investment Fund)"
+      - claim: named institution Kakao Ventures (seller)
+        kind: named_institution
+        value: Kakao Ventures
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Kakao Investment, Kakao Ventures, Kakao Youth Entrepreneurship Fund, KIF–Kakao Woori Bank Technology Finance Investment Fund"
+      - claim: named institution Kakao Youth Entrepreneurship Fund (seller)
+        kind: named_institution
+        value: Kakao Youth Entrepreneurship Fund
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Kakao Investment, Kakao Ventures, Kakao Youth Entrepreneurship Fund, KIF–Kakao Woori Bank Technology Finance Investment Fund"
+      - claim: named institution KIF-Kakao Woori Bank Technology Finance Investment Fund (seller)
+        kind: named_institution
+        value: KIF-Kakao Woori Bank Technology Finance Investment Fund
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "KIF–Kakao Woori Bank Technology Finance Investment Fund"
+      - claim: transaction close date
+        kind: temporal
+        value: June 19, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10757889
+        verbatim_excerpt: "Transaction closes June 19, 2026"
+    quotes: []
+
+  - story_id: south-korea-k-culture-export-goal-110-billion
+    category: other
+    headline_en: South Korea raises 2030 K-culture export goal to $110B as sector becomes third-largest foreign-exchange earner
+    lead_url: https://www.koreaherald.com/article/10758126
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10758126
+    hard_facts:
+      - claim: named institution Ministry of Culture Sports and Tourism
+        kind: named_institution
+        value: Ministry of Culture, Sports and Tourism
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "South Korea's Ministry of Culture, Sports and Tourism raised its 2030 K-culture targets Thursday"
+      - claim: 2030 domestic market target revised
+        kind: numerical_with_unit
+        value: "400 trillion won ($265 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "raised its 2030 K-culture targets Thursday to a 400 trillion won ($265 billion) domestic market and $110 billion in exports"
+      - claim: 2030 export target revised
+        kind: numerical_with_unit
+        value: "$110 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "to a 400 trillion won ($265 billion) domestic market and $110 billion in exports"
+      - claim: previous 2030 domestic market target
+        kind: numerical_with_unit
+        value: "300 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "up from previous targets of 300 trillion won and $35 billion respectively"
+      - claim: previous 2030 export target
+        kind: numerical_with_unit
+        value: "$35 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "up from previous targets of 300 trillion won and $35 billion respectively"
+      - claim: K-culture exports 2025
+        kind: numerical_with_unit
+        value: "$71.8 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "K-culture exports reached $71.8 billion in 2025"
+      - claim: K-culture ranking among export sectors
+        kind: named_product
+        value: "third-largest export sector"
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "making it Korea's third-largest export sector after semiconductors and automobiles"
+      - claim: content and arts export share
+        kind: numerical_with_unit
+        value: "$14.2 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "content and arts alone account for $14.2 billion"
+      - claim: K-culture law effective date
+        kind: temporal
+        value: August 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "a forthcoming K-culture industry promotion law taking effect in August 2026"
+      - claim: Culture Minister identity
+        kind: named_person
+        value: Chae Hwi-young
+        source_urls:
+          - https://www.koreaherald.com/article/10758126
+        verbatim_excerpt: "Culture Minister Chae Hwi-young stated"
+    quotes:
+      - speaker_name: Chae Hwi-young
+        speaker_title: Minister of Culture, Sports and Tourism
+        verbatim_en: "K-culture is already one of Korea's top three core export industries earning foreign currency."
+        source_url: https://www.koreaherald.com/article/10758126
+        context: Thursday announcement of revised 2030 K-culture targets
+      - speaker_name: Chae Hwi-young
+        speaker_title: Minister of Culture, Sports and Tourism
+        verbatim_en: "When the law takes effect in August, another war begins, and we'll respond thoroughly."
+        source_url: https://www.koreaherald.com/article/10758126
+        context: Thursday announcement referencing forthcoming K-culture promotion law
+
+  - story_id: hd-hyundai-heavy-canadian-submarine-bid-june
+    category: other
+    headline_en: HD Hyundai Heavy Industries deepens Canadian shipbuilder ties as Korean-German submarine bid enters final June decision phase
+    lead_url: https://www.koreaherald.com/article/10757953
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10757953
+    hard_facts:
+      - claim: named institution HD Hyundai Heavy Industries
+        kind: named_institution
+        value: HD Hyundai Heavy Industries
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "HD Hyundai Heavy Industries is deepening cooperation with Canadian shipbuilders"
+      - claim: named institution Davie Shipbuilding
+        kind: named_institution
+        value: Davie Shipbuilding
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Canadian shipbuilders Davie Shipbuilding and Irving Shipbuilding"
+      - claim: named institution Irving Shipbuilding
+        kind: named_institution
+        value: Irving Shipbuilding
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Canadian shipbuilders Davie Shipbuilding and Irving Shipbuilding"
+      - claim: Canadian decision timeline
+        kind: temporal
+        value: June
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Canada's expected June decision on the Canadian Patrol Submarine Project"
+      - claim: named product Canadian Patrol Submarine Project
+        kind: named_product
+        value: Canadian Patrol Submarine Project
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Canada's expected June decision on the Canadian Patrol Submarine Project"
+      - claim: number of submarines to purchase
+        kind: numerical_with_unit
+        value: "up to 12 new diesel-powered submarines"
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "which involves purchasing up to 12 new diesel-powered submarines"
+      - claim: named institution Hanwha Ocean in consortium
+        kind: named_institution
+        value: Hanwha Ocean
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "A Korean consortium (Hanwha Ocean and HD HHI) made the final shortlist"
+      - claim: competing bidder
+        kind: named_institution
+        value: Thyssenkrupp Marine Systems
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "alongside Germany's Thyssenkrupp Marine Systems"
+      - claim: Joo Won-ho identity
+        kind: named_person
+        value: Joo Won-ho
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Joo Won-ho, president and head of HD HHI's naval business, stated"
+      - claim: Park Yong-yeol identity
+        kind: named_person
+        value: Park Yong-yeol
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Park Yong-yeol, head of the Naval Ship Division at HD HHI, met Davie CEO James Davies and Irving president Dirk Lesko"
+      - claim: Davie CEO identity
+        kind: named_person
+        value: James Davies
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "met Davie CEO James Davies and Irving president Dirk Lesko"
+      - claim: Irving president identity
+        kind: named_person
+        value: Dirk Lesko
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Irving president Dirk Lesko"
+      - claim: named product KSS-III submarines operational status
+        kind: named_product
+        value: KSS-III
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Korea's KSS-III submarines are \"already operational\" unlike Germany's competing design"
+      - claim: Industry Minister referencing bid
+        kind: named_person
+        value: Kim Jung-kwan
+        source_urls:
+          - https://www.koreaherald.com/article/10757953
+        verbatim_excerpt: "Industry Minister Kim Jung-kwan referenced the Korean bid in a separate May 28 address"
+    quotes:
+      - speaker_name: Joo Won-ho
+        speaker_title: President and Head of Naval Business, HD HHI
+        verbatim_en: "We are working closely with leading Canadian shipbuilders such as Davie Shipbuilding and Irving Shipbuilding to expand cooperation in both commercial shipbuilding and naval sectors."
+        source_url: https://www.koreaherald.com/article/10757953
+        context: Thursday announcement of deepened cooperation with Canadian shipbuilders
+
+  - story_id: htwo-guangzhou-hydrogen-leading-enterprise-china
+    category: other
+    headline_en: Hyundai Motor's China hydrogen JV HTWO Guangzhou becomes only foreign firm selected as leading enterprise in Guangzhou's hydrogen sector
+    lead_url: https://www.koreaherald.com/article/10758061
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10758061
+    hard_facts:
+      - claim: named institution HTWO Guangzhou
+        kind: named_institution
+        value: HTWO Guangzhou
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "HTWO Guangzhou, Hyundai Motor's hydrogen fuel cell commercial vehicle joint venture in China"
+      - claim: named institution Hyundai Motor
+        kind: named_institution
+        value: Hyundai Motor
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "HTWO Guangzhou, Hyundai Motor's hydrogen fuel cell commercial vehicle joint venture in China"
+      - claim: designating authority
+        kind: named_institution
+        value: Guangzhou Municipal Bureau of Industry and Information Technology
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "designated Thursday as a \"leading enterprise in the hydrogen energy industrial chain\" by the Guangzhou Municipal Bureau of Industry and Information Technology"
+      - claim: total designated companies count
+        kind: numerical
+        value: "96 designated companies"
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "the only foreign-invested firm among 96 designated companies"
+      - claim: hydrogen vehicles sold last year
+        kind: numerical_with_unit
+        value: "over 900 hydrogen commercial vehicles"
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "HTWO Guangzhou sold over 900 hydrogen commercial vehicles in China last year"
+      - claim: overall China ranking
+        kind: numerical
+        value: "third overall"
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "ranking third overall and first among foreign firms"
+      - claim: foreign firm ranking
+        kind: numerical
+        value: "first among foreign firms"
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "ranking third overall and first among foreign firms"
+      - claim: China hydrogen industry plan period
+        kind: temporal
+        value: "2021 to 2035"
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "China's hydrogen industry development plan covers 2021 to 2035"
+      - claim: number of Guangzhou strategic sectors
+        kind: numerical
+        value: "14 strategic sectors"
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "Guangzhou is nurturing leaders across 14 strategic sectors"
+      - claim: Choi Doo-ha identity
+        kind: named_person
+        value: Choi Doo-ha
+        source_urls:
+          - https://www.koreaherald.com/article/10758061
+        verbatim_excerpt: "Choi Doo-ha, General Manager of HTWO Guangzhou, stated"
+    quotes:
+      - speaker_name: Choi Doo-ha
+        speaker_title: General Manager, HTWO Guangzhou
+        verbatim_en: "HTWO Guangzhou plans to expand cooperation with local governments and partners while participating in China's upcoming hydrogen energy demonstration projects scheduled to launch later this year."
+        source_url: https://www.koreaherald.com/article/10758061
+        context: Thursday designation as leading enterprise in Guangzhou hydrogen sector
