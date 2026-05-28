@@ -1,0 +1,566 @@
+version: 1
+generated_at: 2026-05-28T12:00:00Z
+country: United States
+date: 2026-05-28
+total_stories: 11
+stories:
+  - story_id: bea-q1-2026-gdp-second-estimate
+    category: econ
+    headline_en: BEA Releases Q1 2026 GDP Second Estimate and Corporate Profits
+    lead_url: https://www.bea.gov/news/schedule
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html
+    locked_urls:
+      - https://www.bea.gov/news/schedule
+      - https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html
+    hard_facts:
+      - claim: Release time
+        kind: temporal
+        value: "8:30 a.m. EDT on May 28"
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "release the Q1 2026 GDP second estimate at 8:30 a.m. EDT on May 28"
+      - claim: Advance estimate growth
+        kind: numerical_with_unit
+        value: "2.0%"
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "The advance estimate (April 30) showed 2.0% annualized real GDP growth"
+      - claim: Advance estimate release date
+        kind: temporal
+        value: "April 30"
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "The advance estimate (April 30)"
+      - claim: BEA institution
+        kind: named_institution
+        value: BEA
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "BEA scheduled to release"
+    quotes: []
+
+  - story_id: bea-april-2026-pce-personal-income
+    category: econ
+    headline_en: BEA Releases April 2026 Personal Income and Outlays, Including PCE Inflation Data
+    lead_url: https://www.bea.gov/news/schedule
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html
+    locked_urls:
+      - https://www.bea.gov/news/schedule
+      - https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html
+    hard_facts:
+      - claim: Release time
+        kind: temporal
+        value: "8:30 a.m. EDT"
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "BEA released April 2026 Personal Income and Outlays at 8:30 a.m. EDT"
+      - claim: Consensus headline PCE YoY
+        kind: numerical_with_unit
+        value: "~3.8–3.9%"
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "Pre-release consensus forecast headline PCE at ~3.8–3.9% YoY"
+      - claim: Prior month headline PCE YoY
+        kind: numerical_with_unit
+        value: "3.5%"
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "up from March's 3.5%"
+      - claim: Consensus core PCE YoY
+        kind: numerical_with_unit
+        value: "~3.3%"
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "with core PCE at ~3.3% YoY"
+      - claim: Reporting institution
+        kind: named_institution
+        value: BEA
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "BEA released April 2026 Personal Income and Outlays"
+      - claim: Fed reference
+        kind: named_institution
+        value: Fed
+        source_urls: [https://www.bea.gov/news/schedule]
+        verbatim_excerpt: "complicating the Fed's easing path"
+    quotes: []
+
+  - story_id: us-stock-futures-dip-oil-rebounds-iran
+    category: econ
+    headline_en: US Stock Futures Dip as Oil Rebounds and Iran Tensions Resurface Before Key Data
+    lead_url: https://www.cnbc.com/2026/05/28/us-reportedly-carries-out-new-airstrikes-on-iran-.html
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.cnbc.com/2026/05/28/us-reportedly-carries-out-new-airstrikes-on-iran-.html
+    hard_facts:
+      - claim: S&P 500 move
+        kind: numerical_with_unit
+        value: "~0.23%"
+        source_urls: [https://www.cnbc.com/2026/05/28/us-reportedly-carries-out-new-airstrikes-on-iran-.html]
+        verbatim_excerpt: "The S&P 500 (US500) fell ~0.23% on May 28"
+      - claim: WTI level
+        kind: numerical_with_unit
+        value: "above $90/barrel"
+        source_urls: [https://www.cnbc.com/2026/05/28/us-reportedly-carries-out-new-airstrikes-on-iran-.html]
+        verbatim_excerpt: "oil rebounded above $90/barrel"
+      - claim: WTI change
+        kind: numerical_with_unit
+        value: "+1.8%"
+        source_urls: [https://www.cnbc.com/2026/05/28/us-reportedly-carries-out-new-airstrikes-on-iran-.html]
+        verbatim_excerpt: "WTI +1.8%"
+      - claim: Date
+        kind: temporal
+        value: "May 28"
+        source_urls: [https://www.cnbc.com/2026/05/28/us-reportedly-carries-out-new-airstrikes-on-iran-.html]
+        verbatim_excerpt: "on May 28"
+      - claim: Index ticker
+        kind: named_product
+        value: "S&P 500 (US500)"
+        source_urls: [https://www.cnbc.com/2026/05/28/us-reportedly-carries-out-new-airstrikes-on-iran-.html]
+        verbatim_excerpt: "The S&P 500 (US500)"
+      - claim: Pentagon institution
+        kind: named_institution
+        value: Pentagon
+        source_urls: [https://www.cnbc.com/2026/05/28/us-reportedly-carries-out-new-airstrikes-on-iran-.html]
+        verbatim_excerpt: "when Pentagon confirmed fresh strikes"
+    quotes: []
+
+  - story_id: judge-declines-block-mail-in-voting-eo
+    category: politics
+    headline_en: Federal Judge Declines to Block Trump's Mail-In Voting Executive Order
+    lead_url: https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail
+    body_source: full
+    corroborated_by:
+      - https://www.usnews.com/news/world/articles/2026-05-28/judge-allows-trump-to-implement-mail-in-voting-executive-order
+      - https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order
+    locked_urls:
+      - https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail
+      - https://www.usnews.com/news/world/articles/2026-05-28/judge-allows-trump-to-implement-mail-in-voting-executive-order
+      - https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order
+    hard_facts:
+      - claim: Judge name
+        kind: named_person
+        value: Carl Nichols
+        source_urls: [https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail]
+        verbatim_excerpt: "U.S. District Judge Carl Nichols (Trump appointee, D.C.)"
+      - claim: Executive order date
+        kind: temporal
+        value: "March 31"
+        source_urls: [https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail]
+        verbatim_excerpt: "Trump's March 31 executive order restricting mail-in voting"
+      - claim: Agencies directed
+        kind: named_institution
+        value: "DHS and SSA"
+        source_urls: [https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail]
+        verbatim_excerpt: "directs DHS and SSA to build 'state citizenship lists'"
+      - claim: USPS ballot directive
+        kind: named_institution
+        value: US Postal Service
+        source_urls: [https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail]
+        verbatim_excerpt: "directs the US Postal Service to deliver mail-in ballots only to people on those lists"
+      - claim: States opposing
+        kind: numerical
+        value: "~24"
+        source_urls: [https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail]
+        verbatim_excerpt: "Democrats, voting rights groups and ~24 states argued"
+      - claim: Boston hearing date
+        kind: temporal
+        value: "June 2"
+        source_urls: [https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail]
+        verbatim_excerpt: "A separate case is set for hearing in Boston June 2"
+    quotes:
+      - speaker_name: Carl Nichols
+        speaker_title: U.S. District Judge (D.C.)
+        verbatim_en: "state citizenship lists"
+        source_url: https://www.kpbs.org/news/politics/2026/05/28/a-federal-judge-in-d-c-declines-to-block-trumps-executive-order-on-voting-by-mail
+        context: "EO text quoted in ruling"
+
+  - story_id: us-strikes-iran-drone-station-bandar-abbas
+    category: politics
+    headline_en: US Conducts Defensive Strikes on Iran Drone Station as Ceasefire Frays
+    lead_url: https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html
+    body_source: full
+    corroborated_by:
+      - https://www.cnn.com/2026/05/28/world/live-news/iran-war-us-news
+      - https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077
+      - https://www.euronews.com/2026/05/28/us-military-conducts-second-strike-against-iran-within-days-as-trump-fumes-over-negotiatio
+    locked_urls:
+      - https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html
+      - https://www.cnn.com/2026/05/28/world/live-news/iran-war-us-news
+      - https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077
+      - https://www.euronews.com/2026/05/28/us-military-conducts-second-strike-against-iran-within-days-as-trump-fumes-over-negotiatio
+    hard_facts:
+      - claim: US aircraft types
+        kind: named_product
+        value: "F/A-18, F-16, and F-35"
+        source_urls: [https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html]
+        verbatim_excerpt: "US F/A-18, F-16, and F-35 fighters shot down four Iranian one-way attack drones"
+      - claim: Drones shot down
+        kind: numerical
+        value: "four"
+        source_urls: [https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html]
+        verbatim_excerpt: "shot down four Iranian one-way attack drones"
+      - claim: Target location
+        kind: named_product
+        value: Bandar Abbas
+        source_urls: [https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html]
+        verbatim_excerpt: "struck a ground control station in Bandar Abbas"
+      - claim: Hormuz threat
+        kind: named_product
+        value: Strait of Hormuz
+        source_urls: [https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html]
+        verbatim_excerpt: "drones threatening the Strait of Hormuz"
+      - claim: Iran ballistic missile intercept
+        kind: named_institution
+        value: Kuwaiti forces
+        source_urls: [https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html]
+        verbatim_excerpt: "intercepted by Kuwaiti forces"
+      - claim: Iran drone count
+        kind: numerical
+        value: "five"
+        source_urls: [https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html]
+        verbatim_excerpt: "and five attack drones"
+      - claim: CENTCOM institution
+        kind: named_institution
+        value: CENTCOM
+        source_urls: [https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html]
+        verbatim_excerpt: "CENTCOM reported"
+    quotes:
+      - speaker_name: CENTCOM
+        speaker_title: U.S. Central Command
+        verbatim_en: "measured, purely defensive"
+        source_url: https://www.stripes.com/theaters/middle_east/2026-05-28/us-strikes-iran-drone-plant-21802293.html
+        context: "official statement on May 28 strikes"
+
+  - story_id: illinois-ai-accountability-sb-315
+    category: tech
+    headline_en: Illinois Legislature Passes Landmark AI Accountability Law Requiring Third-Party Audits
+    lead_url: https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill
+    body_source: full
+    corroborated_by:
+      - https://dnyuz.com/2026/05/28/illinois-lawmakers-just-passed-americas-strongest-ai-safety-bill/
+    locked_urls:
+      - https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill
+      - https://dnyuz.com/2026/05/28/illinois-lawmakers-just-passed-americas-strongest-ai-safety-bill/
+    hard_facts:
+      - claim: Bill name
+        kind: named_product
+        value: "Illinois SB 315"
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "Illinois SB 315 passed"
+      - claim: House vote
+        kind: numerical
+        value: "110-0"
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "passed the House 110-0"
+      - claim: Senate vote
+        kind: numerical
+        value: "52-5"
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "and Senate 52-5"
+      - claim: Revenue threshold
+        kind: numerical_with_unit
+        value: "≥$500M"
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "frontier AI companies (revenue ≥$500M, large compute thresholds)"
+      - claim: Civil penalty cap
+        kind: numerical_with_unit
+        value: "$3M per violation"
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "Civil penalties up to $3M per violation"
+      - claim: Effective date
+        kind: temporal
+        value: "2028"
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "Effective date extended to 2028"
+      - claim: Governor name
+        kind: named_person
+        value: Pritzker
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "Governor Pritzker indicated he would sign the bill"
+      - claim: Supporting AI companies
+        kind: named_institution
+        value: "OpenAI and Anthropic"
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "Both OpenAI and Anthropic supported the bill"
+      - claim: Enforcement authority
+        kind: named_institution
+        value: Illinois AG
+        source_urls: [https://www.northernpublicradio.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill]
+        verbatim_excerpt: "enforced exclusively by the Illinois AG"
+    quotes: []
+
+  - story_id: snowflake-6b-aws-deal
+    category: tech
+    headline_en: Snowflake Signs $6 Billion Five-Year AWS Deal as Q1 Revenue Surges 34%
+    lead_url: https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/
+    body_source: full
+    corroborated_by:
+      - https://www.fxleaders.com/news/2026/05/28/snow-surges-38-after-earnings-blowout-as-6b-aws-ai-deal-reignites-growth-narrative/
+      - https://www.snowflake.com/en/news/press-releases/
+    locked_urls:
+      - https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/
+      - https://www.fxleaders.com/news/2026/05/28/snow-surges-38-after-earnings-blowout-as-6b-aws-ai-deal-reignites-growth-narrative/
+      - https://www.snowflake.com/en/news/press-releases/
+    hard_facts:
+      - claim: Deal value
+        kind: numerical_with_unit
+        value: "$6 billion"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "a five-year, $6 billion commitment to Amazon Web Services"
+      - claim: Deal term
+        kind: temporal
+        value: "five-year"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "a five-year, $6 billion commitment"
+      - claim: Q1 revenue
+        kind: numerical_with_unit
+        value: "$1.39B"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "Snowflake Q1 FY2027 revenue of $1.39B"
+      - claim: Revenue YoY growth
+        kind: numerical_with_unit
+        value: "+33%"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "$1.39B (+33% YoY"
+      - claim: Consensus revenue
+        kind: numerical_with_unit
+        value: "$1.32B"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "beating consensus $1.32B"
+      - claim: EPS
+        kind: numerical_with_unit
+        value: "$0.39"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "EPS $0.39"
+      - claim: Consensus EPS
+        kind: numerical_with_unit
+        value: "$0.32"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "beating $0.32"
+      - claim: Stock surge
+        kind: numerical_with_unit
+        value: "~38%"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "SNOW stock surged ~38% after-hours"
+      - claim: 2025 AWS spend
+        kind: numerical_with_unit
+        value: "$2B"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "Customer spending on AWS doubled in 2025 to $2B"
+      - claim: Counterparty
+        kind: named_institution
+        value: "Amazon Web Services"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "commitment to Amazon Web Services"
+      - claim: Chip platform
+        kind: named_product
+        value: "Graviton ARM-based CPU chips"
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "Deal centered on Graviton ARM-based CPU chips"
+      - claim: Ticker
+        kind: named_product
+        value: SNOW
+        source_urls: [https://theaiinsider.tech/2026/05/28/snowflake-signs-6b-aws-deal-driven-by-ai-workloads-and-graviton-chip-demand/]
+        verbatim_excerpt: "SNOW stock surged"
+    quotes: []
+
+  - story_id: dell-costco-mongodb-earnings-may-28
+    category: tech
+    headline_en: Dell, Costco, and MongoDB Report Q1/Q3 Earnings May 28 — Dell AI Server Backlog at $43B
+    lead_url: https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-hold-conference-call-may-28-discuss-first-0
+    body_source: paywall-stub
+    corroborated_by:
+      - https://investor.costco.com/events-and-presentations/events/event-details/2026/Q3-2026-Earnings-Results-2026-ipC_qOechX/default.aspx
+      - https://news.alphastreet.com/costco-wholesale-q3-2026-earnings-preview-may-28-street-expects-4-92-eps/
+    locked_urls:
+      - https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-hold-conference-call-may-28-discuss-first-0
+      - https://investor.costco.com/events-and-presentations/events/event-details/2026/Q3-2026-Earnings-Results-2026-ipC_qOechX/default.aspx
+      - https://news.alphastreet.com/costco-wholesale-q3-2026-earnings-preview-may-28-street-expects-4-92-eps/
+    hard_facts:
+      - claim: Dell revenue guidance
+        kind: numerical_with_unit
+        value: "$34.7–35.7B"
+        source_urls: [https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-hold-conference-call-may-28-discuss-first-0]
+        verbatim_excerpt: "guidance: revenue $34.7–35.7B"
+      - claim: Dell revenue YoY
+        kind: numerical_with_unit
+        value: "+51%"
+        source_urls: [https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-hold-conference-call-may-28-discuss-first-0]
+        verbatim_excerpt: "+51% YoY"
+      - claim: Dell AI server backlog
+        kind: numerical_with_unit
+        value: "$43B"
+        source_urls: [https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-hold-conference-call-may-28-discuss-first-0]
+        verbatim_excerpt: "$43B AI server backlog"
+      - claim: Dell AI revenue target FY2027
+        kind: numerical_with_unit
+        value: "~$50B"
+        source_urls: [https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-hold-conference-call-may-28-discuss-first-0]
+        verbatim_excerpt: "~$50B AI revenue target for FY2027"
+      - claim: Costco EPS consensus
+        kind: numerical_with_unit
+        value: "$4.92"
+        source_urls: [https://news.alphastreet.com/costco-wholesale-q3-2026-earnings-preview-may-28-street-expects-4-92-eps/]
+        verbatim_excerpt: "analyst consensus: EPS $4.92"
+      - claim: Costco EPS YoY
+        kind: numerical_with_unit
+        value: "+15%"
+        source_urls: [https://news.alphastreet.com/costco-wholesale-q3-2026-earnings-preview-may-28-street-expects-4-92-eps/]
+        verbatim_excerpt: "+15%"
+      - claim: Costco revenue consensus
+        kind: numerical_with_unit
+        value: "$69.64B"
+        source_urls: [https://news.alphastreet.com/costco-wholesale-q3-2026-earnings-preview-may-28-street-expects-4-92-eps/]
+        verbatim_excerpt: "revenue $69.64B"
+      - claim: Costco revenue YoY
+        kind: numerical_with_unit
+        value: "+10.2%"
+        source_urls: [https://news.alphastreet.com/costco-wholesale-q3-2026-earnings-preview-may-28-street-expects-4-92-eps/]
+        verbatim_excerpt: "+10.2%"
+      - claim: Tickers
+        kind: named_product
+        value: "DELL / COST / MongoDB"
+        source_urls: [https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-hold-conference-call-may-28-discuss-first-0]
+        verbatim_excerpt: "Dell (DELL) ... Costco (COST) ... MongoDB"
+    quotes: []
+
+  - story_id: ap-ice-custody-suicides-record
+    category: society
+    headline_en: AP Investigation — ICE Custody Suicides at Record Pace
+    lead_url: https://www.business-standard.com/world-news/126052800464_1.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.click2houston.com/news/texas/2026/05/27/ice-detainees-are-dying-by-suicide-at-an-alarming-rate-an-ap-investigation-finds/
+    locked_urls:
+      - https://www.business-standard.com/world-news/126052800464_1.html
+      - https://www.click2houston.com/news/texas/2026/05/27/ice-detainees-are-dying-by-suicide-at-an-alarming-rate-an-ap-investigation-finds/
+    hard_facts:
+      - claim: Total suicide deaths
+        kind: numerical
+        value: "10"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "At least 10 ICE detainees have died by suicide since Trump took office in Jan 2025"
+      - claim: Current fiscal year deaths
+        kind: numerical
+        value: "7"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "7 in the current fiscal year"
+      - claim: Trump term start
+        kind: temporal
+        value: "Jan 2025"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "since Trump took office in Jan 2025"
+      - claim: Average detainee age
+        kind: numerical
+        value: "32"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "Detainees averaged 32 years old"
+      - claim: Non-violent share
+        kind: numerical
+        value: "7 of 10"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "7 of 10 had no violent criminal record"
+      - claim: Contractor-facility deaths
+        kind: numerical
+        value: "5"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "5 died in CoreCivic/GEO Group facilities"
+      - claim: Detention population
+        kind: numerical
+        value: "60,000"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "ICE's detained population surged 50% to 60,000"
+      - claim: Population surge
+        kind: numerical_with_unit
+        value: "50%"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "surged 50%"
+      - claim: ICE institution
+        kind: named_institution
+        value: ICE
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "ICE detainees"
+      - claim: Private operators
+        kind: named_institution
+        value: "CoreCivic/GEO Group"
+        source_urls: [https://www.business-standard.com/world-news/126052800464_1.html]
+        verbatim_excerpt: "CoreCivic/GEO Group facilities"
+    quotes: []
+
+  - story_id: us-ebola-response-citizens-to-kenya
+    category: society
+    headline_en: US Public Health Response to DRC Ebola Outbreak — Citizens to Kenya for Observation
+    lead_url: https://www.npr.org/programs/morning-edition/
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.npr.org/programs/morning-edition/
+    hard_facts:
+      - claim: Outbreak location
+        kind: named_product
+        value: "eastern DRC"
+        source_urls: [https://www.npr.org/programs/morning-edition/]
+        verbatim_excerpt: "an Ebola outbreak centered in eastern DRC"
+      - claim: Receiving country
+        kind: named_product
+        value: Kenya
+        source_urls: [https://www.npr.org/programs/morning-edition/]
+        verbatim_excerpt: "send US citizens exposed to the virus to Kenya for observation"
+      - claim: Deployed agency
+        kind: named_institution
+        value: "Public Health Service"
+        source_urls: [https://www.npr.org/programs/morning-edition/]
+        verbatim_excerpt: "deploying Public Health Service officers to staff a quarantine facility in Kenya"
+    quotes: []
+
+  - story_id: two-harbors-ccm-merger-vote
+    category: ipo_ma
+    headline_en: Two Harbors Investment Corp. Reconvenes Special Meeting to Vote on $12/Share CrossCountry Mortgage Merger
+    lead_url: https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting
+    body_source: full
+    corroborated_by:
+      - https://www.stocktitan.net/news/TWO/two-announces-adjournment-of-special-9elmmvlb2x57.html
+      - https://www.mpamag.com/us/specialty/wholesale/two-harbors-delays-ccm-vote-as-shareholder-support-falls-short/575993
+    locked_urls:
+      - https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting
+      - https://www.stocktitan.net/news/TWO/two-announces-adjournment-of-special-9elmmvlb2x57.html
+      - https://www.mpamag.com/us/specialty/wholesale/two-harbors-delays-ccm-vote-as-shareholder-support-falls-short/575993
+    hard_facts:
+      - claim: Meeting time
+        kind: temporal
+        value: "May 28 at 10:00 a.m. ET"
+        source_urls: [https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting]
+        verbatim_excerpt: "reconvened its adjourned Special Meeting of Stockholders on May 28 at 10:00 a.m. ET (virtual)"
+      - claim: Target company
+        kind: named_institution
+        value: "Two Harbors (NYSE: TWO)"
+        source_urls: [https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting]
+        verbatim_excerpt: "Two Harbors (NYSE: TWO)"
+      - claim: Acquirer entity
+        kind: named_institution
+        value: "CrossCountry Intermediate Holdco LLC"
+        source_urls: [https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting]
+        verbatim_excerpt: "acquisition by CrossCountry Intermediate Holdco LLC"
+      - claim: Board-recommended bid
+        kind: numerical_with_unit
+        value: "$12.00/share all-cash"
+        source_urls: [https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting]
+        verbatim_excerpt: "Board unanimously recommends FOR at $12.00/share all-cash"
+      - claim: Original bid
+        kind: numerical_with_unit
+        value: "$11.30"
+        source_urls: [https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting]
+        verbatim_excerpt: "up from original $11.30"
+      - claim: UWMC competing cash bid
+        kind: numerical_with_unit
+        value: "$12.50/share"
+        source_urls: [https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting]
+        verbatim_excerpt: "Competing bid from UWMC at $12.50/share"
+      - claim: UWMC competing stock ratio
+        kind: numerical_with_unit
+        value: "2.3328 UWMC shares"
+        source_urls: [https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting]
+        verbatim_excerpt: "or 2.3328 UWMC shares"
+      - claim: Counter-recommender
+        kind: named_institution
+        value: "UWM Holdings"
+        source_urls: [https://www.twoinv.com/news-events/press-releases/detail/470/two-announces-adjournment-of-special-meeting]
+        verbatim_excerpt: "UWM Holdings urged stockholders to vote AGAINST"
+    quotes: []
