@@ -1,0 +1,421 @@
+version: 1
+generated_at: "2026-05-28T00:00:00Z"
+country: China
+date: "2026-05-28"
+total_stories: 3
+stories:
+  - story_id: china-first-offshore-green-sovereign-bond-hk
+    category: econ
+    headline_en: China Issues First Offshore Green Sovereign Bond in Hong Kong, Raising Up to $885 Million
+    lead_url: https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-05-19/china-aims-to-raise-6-billion-yuan-in-hong-kong-green-bond-sale
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong
+      - https://www.bloomberg.com/news/articles/2026-05-19/china-aims-to-raise-6-billion-yuan-in-hong-kong-green-bond-sale
+    hard_facts:
+      - claim: green sovereign bond issuance size in yuan
+        kind: numerical_with_unit
+        value: "6 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong
+          - https://www.bloomberg.com/news/articles/2026-05-19/china-aims-to-raise-6-billion-yuan-in-hong-kong-green-bond-sale
+        verbatim_excerpt: "China is selling as much as 6 billion yuan ($885 million) of green sovereign bonds in Hong Kong on Thursday (May 28, 2026)"
+      - claim: green sovereign bond issuance size in USD
+        kind: numerical_with_unit
+        value: "$885 million"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong
+        verbatim_excerpt: "China is selling as much as 6 billion yuan ($885 million) of green sovereign bonds in Hong Kong on Thursday (May 28, 2026)"
+      - claim: issuance date
+        kind: temporal
+        value: "May 28, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong
+        verbatim_excerpt: "China is selling as much as 6 billion yuan ($885 million) of green sovereign bonds in Hong Kong on Thursday (May 28, 2026)"
+      - claim: prior green bond debut location
+        kind: named_institution
+        value: London
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong
+        verbatim_excerpt: "returning to the international ESG debt market approximately one year after its debut in London"
+      - claim: approximate gap since debut
+        kind: temporal
+        value: "approximately one year"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong
+        verbatim_excerpt: "returning to the international ESG debt market approximately one year after its debut in London"
+      - claim: pledge date to expand ESG funding
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong
+        verbatim_excerpt: "following a March 2026 pledge to expand funding in the international ESG market as a means to support domestic low-carbon developments"
+    quotes: []
+
+  - story_id: shanxi-coal-disaster-ripple-steel-power-chemicals
+    category: society
+    headline_en: Shanxi Coal Disaster Projected to Ripple Through China's Steel, Power, and Chemicals Industries
+    lead_url: https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china
+      - https://www.japantimes.co.jp/news/2026/05/24/asia-pacific/china-coal-blast-energy-security/
+      - https://en.wikipedia.org/wiki/2026_Liushenyu_coal_mine_explosion
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+      - https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china
+      - https://www.japantimes.co.jp/news/2026/05/24/asia-pacific/china-coal-blast-energy-security/
+      - https://en.wikipedia.org/wiki/2026_Liushenyu_coal_mine_explosion
+    hard_facts:
+      - claim: mine explosion location — mine name
+        kind: named_institution
+        value: Liushenyu Coal Mine
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+          - https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china
+          - https://en.wikipedia.org/wiki/2026_Liushenyu_coal_mine_explosion
+        verbatim_excerpt: "A gas explosion at the Liushenyu Coal Mine in Qinyuan County, Shanxi Province on May 22, 2026"
+      - claim: mine explosion location — county
+        kind: named_institution
+        value: Qinyuan County
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "A gas explosion at the Liushenyu Coal Mine in Qinyuan County, Shanxi Province on May 22, 2026"
+      - claim: mine explosion location — province
+        kind: named_institution
+        value: Shanxi Province
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+          - https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china
+        verbatim_excerpt: "A gas explosion at the Liushenyu Coal Mine in Qinyuan County, Shanxi Province on May 22, 2026"
+      - claim: explosion date
+        kind: temporal
+        value: "May 22, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+          - https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china
+          - https://en.wikipedia.org/wiki/2026_Liushenyu_coal_mine_explosion
+        verbatim_excerpt: "A gas explosion at the Liushenyu Coal Mine in Qinyuan County, Shanxi Province on May 22, 2026 (19:29 CST)"
+      - claim: explosion time
+        kind: temporal
+        value: "19:29 CST"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "on May 22, 2026 (19:29 CST)"
+      - claim: death toll
+        kind: numerical_with_unit
+        value: "at least 82 people"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+          - https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china
+        verbatim_excerpt: "killed at least 82 people — China's deadliest mining disaster in more than 16 years"
+      - claim: historical ranking of disaster
+        kind: temporal
+        value: "more than 16 years"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "China's deadliest mining disaster in more than 16 years"
+      - claim: total workers underground at time of blast
+        kind: numerical_with_unit
+        value: "247 workers"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "At the time of the blast 247 workers were underground"
+      - claim: workers lacking mandated location trackers
+        kind: numerical_with_unit
+        value: "123 of them"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "123 of them lacked mandated location trackers and were not logged as being underground"
+      - claim: year mine was listed for safety hazards
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "The mine had been placed on a national list of disaster-prone facilities in 2024 for \"severe safety hazards\" and high gas content"
+      - claim: Shanxi April coal output
+        kind: numerical_with_unit
+        value: "107 million tonnes in April"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "output in Shanxi — the country's top coal-producing province with 107 million tonnes in April — is expected to fall 8% in May"
+      - claim: expected Shanxi output fall in May
+        kind: numerical_with_unit
+        value: "8%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "output in Shanxi — the country's top coal-producing province with 107 million tonnes in April — is expected to fall 8% in May"
+      - claim: number of mines halted for safety inspections
+        kind: numerical_with_unit
+        value: "109 mines"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "with 109 mines (122 million tonnes of annual capacity) halted for safety inspections"
+      - claim: annual capacity of halted mines
+        kind: numerical_with_unit
+        value: "122 million tonnes of annual capacity"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "with 109 mines (122 million tonnes of annual capacity) halted for safety inspections"
+      - claim: coking coal futures exchange
+        kind: named_institution
+        value: Dalian
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "Coking coal futures in Dalian surged to the daily limit in the days after the explosion"
+      - claim: investigation team establishment date
+        kind: temporal
+        value: "May 27-28"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "China's State Council established a formal investigation team on May 27-28, 2026"
+      - claim: investigation team lead institution
+        kind: named_institution
+        value: Ministry of Emergency Management
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "led by the Ministry of Emergency Management with participants from the Ministry of Public Security, Ministry of Natural Resources, National Energy Administration, National Mine Safety Administration, and Shanxi provincial government"
+      - claim: investigation participant institution 1
+        kind: named_institution
+        value: Ministry of Public Security
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "participants from the Ministry of Public Security, Ministry of Natural Resources, National Energy Administration, National Mine Safety Administration, and Shanxi provincial government"
+      - claim: investigation participant institution 2
+        kind: named_institution
+        value: Ministry of Natural Resources
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "participants from the Ministry of Public Security, Ministry of Natural Resources, National Energy Administration, National Mine Safety Administration, and Shanxi provincial government"
+      - claim: investigation participant institution 3
+        kind: named_institution
+        value: National Energy Administration
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "participants from the Ministry of Public Security, Ministry of Natural Resources, National Energy Administration, National Mine Safety Administration, and Shanxi provincial government"
+      - claim: investigation participant institution 4
+        kind: named_institution
+        value: National Mine Safety Administration
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "participants from the Ministry of Public Security, Ministry of Natural Resources, National Energy Administration, National Mine Safety Administration, and Shanxi provincial government"
+      - claim: detained executives' company
+        kind: named_institution
+        value: Shanxi Tongzhou Group Liushenyu Coal Industry
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "Executives of Shanxi Tongzhou Group Liushenyu Coal Industry had been detained"
+      - claim: Chinese leader who ordered rescue
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "Xi Jinping ordered an \"all-out rescue\" and a thorough investigation"
+      - claim: Chinese premier who called for accountability
+        kind: named_person
+        value: Li Qiang
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "Premier Li Qiang called for accurate information release and accountability"
+      - claim: State Council role in investigation
+        kind: named_institution
+        value: State Council
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        verbatim_excerpt: "China's State Council established a formal investigation team on May 27-28"
+    quotes:
+      - speaker_name: Xi Jinping
+        speaker_title: President of China
+        verbatim_en: "all-out rescue"
+        source_url: https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        context: order issued following the May 22, 2026 Liushenyu Coal Mine explosion
+      - speaker_name: unnamed national list authority
+        speaker_title: Chinese national safety regulator
+        verbatim_en: "severe safety hazards"
+        source_url: https://www.bloomberg.com/news/articles/2026-05-28/chinese-coal-disaster-to-ripple-through-steel-power-chemicals
+        context: 2024 classification of Liushenyu Coal Mine on national list of disaster-prone facilities
+
+  - story_id: cxmt-star-market-ipo-5-billion-dram
+    category: ipo_ma
+    headline_en: CXMT Wins Shanghai STAR Market Approval for Record Up-to-$5 Billion DRAM Chip IPO
+    lead_url: https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+    body_source: full
+    corroborated_by:
+      - https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html
+      - https://www.digitimes.com/news/a20260528VL221/cxmt-ipo-dram-supply-chain-production.html
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+      - https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html
+      - https://www.digitimes.com/news/a20260528VL221/cxmt-ipo-dram-supply-chain-production.html
+    hard_facts:
+      - claim: CXMT full company name
+        kind: named_institution
+        value: ChangXin Memory Technologies
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+          - https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html
+        verbatim_excerpt: "ChangXin Memory Technologies (CXMT), headquartered in Hefei, won Shanghai Stock Exchange approval on May 28, 2026"
+      - claim: CXMT headquarters
+        kind: named_institution
+        value: Hefei
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "ChangXin Memory Technologies (CXMT), headquartered in Hefei"
+      - claim: stock exchange granting approval
+        kind: named_institution
+        value: Shanghai Stock Exchange
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+          - https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html
+        verbatim_excerpt: "won Shanghai Stock Exchange approval on May 28, 2026 for an IPO targeting at least 29.5 billion yuan ($4.3 billion) on the STAR Market"
+      - claim: approval date
+        kind: temporal
+        value: "May 28, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+          - https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html
+        verbatim_excerpt: "won Shanghai Stock Exchange approval on May 28, 2026"
+      - claim: IPO target size in yuan
+        kind: numerical_with_unit
+        value: "at least 29.5 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+          - https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html
+        verbatim_excerpt: "targeting at least 29.5 billion yuan ($4.3 billion) on the STAR Market"
+      - claim: IPO target size in USD
+        kind: numerical_with_unit
+        value: "$4.3 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "targeting at least 29.5 billion yuan ($4.3 billion) on the STAR Market"
+      - claim: listing board
+        kind: named_product
+        value: STAR Market
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+          - https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html
+        verbatim_excerpt: "targeting at least 29.5 billion yuan ($4.3 billion) on the STAR Market"
+      - claim: comparable mainland IPO — company
+        kind: named_institution
+        value: CNOOC Ltd.
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "poised to be mainland China's largest listing since CNOOC Ltd. raised $5.1 billion in 2022"
+      - claim: comparable mainland IPO — amount raised
+        kind: numerical_with_unit
+        value: "$5.1 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "since CNOOC Ltd. raised $5.1 billion in 2022"
+      - claim: comparable mainland IPO — year
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "since CNOOC Ltd. raised $5.1 billion in 2022"
+      - claim: IPO size upper bound if over-allotment exercised
+        kind: numerical_with_unit
+        value: "above $5 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "The size could rise above $5 billion if the over-allotment option is exercised"
+      - claim: largest Asia IPO comparison — company
+        kind: named_institution
+        value: CATL
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "the largest IPO in Asia since CATL's $5.3 billion share sale in May 2025"
+      - claim: largest Asia IPO comparison — amount
+        kind: numerical_with_unit
+        value: "$5.3 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "the largest IPO in Asia since CATL's $5.3 billion share sale in May 2025"
+      - claim: largest Asia IPO comparison — date
+        kind: temporal
+        value: "May 2025"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "the largest IPO in Asia since CATL's $5.3 billion share sale in May 2025"
+      - claim: CXMT global DRAM market share
+        kind: numerical_with_unit
+        value: "7.67%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "holding a 7.67% global market share (Q4 2025, per Omdia)"
+      - claim: CXMT market share data period
+        kind: temporal
+        value: "Q4 2025"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "holding a 7.67% global market share (Q4 2025, per Omdia)"
+      - claim: CXMT market share data source
+        kind: named_institution
+        value: Omdia
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "holding a 7.67% global market share (Q4 2025, per Omdia)"
+      - claim: CXMT global DRAM rank
+        kind: numerical
+        value: "fourth-largest"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "the world's fourth-largest DRAM maker"
+      - claim: Q1 2026 revenue
+        kind: numerical_with_unit
+        value: "50.8 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "Q1 2026 revenue surged 719% year-on-year to 50.8 billion yuan"
+      - claim: Q1 2026 revenue year-on-year growth
+        kind: numerical_with_unit
+        value: "719%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "Q1 2026 revenue surged 719% year-on-year to 50.8 billion yuan"
+      - claim: Q1 2026 net profit
+        kind: numerical_with_unit
+        value: "24.76 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "net profit swung to 24.76 billion yuan from a loss of 2.83 billion yuan a year earlier"
+      - claim: prior year net loss (Q1 2025)
+        kind: numerical_with_unit
+        value: "2.83 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "net profit swung to 24.76 billion yuan from a loss of 2.83 billion yuan a year earlier"
+      - claim: net profit year-on-year change
+        kind: numerical_with_unit
+        value: "1,688%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "a 1,688% profit increase"
+      - claim: CXMT total debt
+        kind: numerical_with_unit
+        value: "118.8 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "The company carries 118.8 billion yuan in debt and 36.6 billion yuan in accumulated losses"
+      - claim: CXMT accumulated losses
+        kind: numerical_with_unit
+        value: "36.6 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "The company carries 118.8 billion yuan in debt and 36.6 billion yuan in accumulated losses"
+      - claim: IPO proceeds use — product technology
+        kind: named_product
+        value: HBM3
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+        verbatim_excerpt: "developing high-bandwidth memory (HBM3) mass-production capability"
+      - claim: listing review committee approval date
+        kind: temporal
+        value: "May 27-28, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-28/china-chip-giant-cxmt-s-ipo-revives-memories-of-past-market-tops
+          - https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html
+        verbatim_excerpt: "The IPO listing review committee of the Shanghai Stock Exchange cleared the application on May 27-28, 2026"
+    quotes: []
