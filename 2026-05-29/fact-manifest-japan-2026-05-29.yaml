@@ -1,0 +1,683 @@
+version: 1
+generated_at: "2026-05-29T12:00:00Z"
+country: Japan
+date: "2026-05-29"
+total_stories: 10
+stories:
+  - story_id: tokyo-core-cpi-slows-1-3-pct-may-boj
+    category: econ
+    headline_en: Tokyo Core CPI Slows to 1.3% in May, Missing BOJ's 2% Target for Third Month
+    lead_url: https://www.stat.go.jp/english/data/cpi/1582.html
+    body_source: full
+    corroborated_by:
+      - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+      - https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-may-29-2026-japan-inflation-tokyo-may-20260528/
+    locked_urls:
+      - https://www.stat.go.jp/english/data/cpi/1582.html
+      - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+      - https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-may-29-2026-japan-inflation-tokyo-may-20260528/
+    hard_facts:
+      - claim: Tokyo CPI ex-fresh food YoY change May 2026
+        kind: numerical_with_unit
+        value: "1.3%"
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "Tokyo consumer price index excluding fresh food rose 1.3% year-on-year in May 2026"
+      - claim: Tokyo CPI ex-fresh food YoY change April 2026 (prior month)
+        kind: numerical_with_unit
+        value: "1.5%"
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "down from 1.5% in April"
+      - claim: consensus forecast for Tokyo CPI ex-fresh food
+        kind: numerical_with_unit
+        value: "1.5%"
+        source_urls:
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "below the 1.5% consensus forecast"
+      - claim: Tokyo headline CPI YoY change May 2026
+        kind: numerical_with_unit
+        value: "1.4%"
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "The headline CPI rose 1.4% YoY, also below expectations"
+      - claim: Tokyo core-core CPI (ex-fresh food, ex-energy) YoY change May 2026
+        kind: numerical_with_unit
+        value: "1.6%"
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "The core-core measure (ex-fresh food, ex-energy) rose 1.6% YoY"
+      - claim: Tokyo core-core CPI prior reading
+        kind: numerical_with_unit
+        value: "1.9%"
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "down from 1.9% prior"
+      - claim: consecutive months all three measures undershot BOJ 2% target
+        kind: temporal
+        value: third consecutive month
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "marking the third consecutive month all three measures undershot the Bank of Japan's 2% inflation target"
+      - claim: BOJ inflation target
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "all three measures undershot the Bank of Japan's 2% inflation target"
+      - claim: USD/JPY rate following release
+        kind: numerical_with_unit
+        value: "159.25"
+        source_urls:
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "USD/JPY was trading down 0.17% at 159.25 following the release"
+      - claim: USD/JPY change following release
+        kind: numerical_with_unit
+        value: "0.17%"
+        source_urls:
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "USD/JPY was trading down 0.17% at 159.25 following the release"
+      - claim: Tokyo CPI publication schedule
+        kind: temporal
+        value: last Friday of the month
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+        verbatim_excerpt: "The Statistics Bureau of Japan publishes the Tokyo CPI on the last Friday of the month"
+      - claim: Statistics Bureau of Japan (publisher)
+        kind: named_institution
+        value: Statistics Bureau of Japan
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+        verbatim_excerpt: "The Statistics Bureau of Japan publishes the Tokyo CPI"
+      - claim: Bank of Japan (institution referenced)
+        kind: named_institution
+        value: Bank of Japan
+        source_urls:
+          - https://www.stat.go.jp/english/data/cpi/1582.html
+          - https://www.fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127
+        verbatim_excerpt: "the Bank of Japan's 2% inflation target"
+    quotes: []
+
+  - story_id: katayama-fx-intervention-readiness-yen
+    category: econ
+    headline_en: Japan Finance Minister Katayama Reiterates FX Intervention Readiness Amid Yen Volatility
+    lead_url: https://www.bloomberg.com/news/articles/2026-05-29/japan-can-step-into-fx-market-if-volatility-katayama-reiterates
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-05-29/japan-can-step-into-fx-market-if-volatility-katayama-reiterates
+    hard_facts:
+      - claim: Japan Finance Minister identity
+        kind: named_person
+        value: Satsuki Katayama
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-can-step-into-fx-market-if-volatility-katayama-reiterates
+        verbatim_excerpt: "Finance Minister Satsuki Katayama told reporters Friday"
+      - claim: date of remarks
+        kind: temporal
+        value: Friday
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-can-step-into-fx-market-if-volatility-katayama-reiterates
+        verbatim_excerpt: "Finance Minister Satsuki Katayama told reporters Friday"
+    quotes:
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister of Japan
+        verbatim_en: "if we see volatility or speculative moves in the market, we can take bold action"
+        source_url: https://www.bloomberg.com/news/articles/2026-05-29/japan-can-step-into-fx-market-if-volatility-katayama-reiterates
+        context: remarks to reporters Friday May 29 2026
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister of Japan
+        verbatim_en: "that stance has remained unchanged over the years, both for finance ministers and top currency officials"
+        source_url: https://www.bloomberg.com/news/articles/2026-05-29/japan-can-step-into-fx-market-if-volatility-katayama-reiterates
+        context: remarks to reporters Friday May 29 2026
+
+  - story_id: japan-2yr-jgb-auction-weak-demand-boj
+    category: econ
+    headline_en: Japan 2-Year JGB Auction Draws Weakest Demand in Months as BOJ Rate-Hike Bets Build
+    lead_url: https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.investing.com/economic-calendar/2-year-jgb-auction-723
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+      - https://www.investing.com/economic-calendar/2-year-jgb-auction-723
+    hard_facts:
+      - claim: 2-year JGB auction bid-to-cover ratio May 2026
+        kind: numerical
+        value: "3.7"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+        verbatim_excerpt: "bid-to-cover ratio of 3.7, below the previous auction's 5.24"
+      - claim: 2-year JGB auction bid-to-cover ratio previous auction
+        kind: numerical
+        value: "5.24"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+        verbatim_excerpt: "below the previous auction's 5.24"
+      - claim: 2-year JGB 12-month average bid-to-cover ratio
+        kind: numerical
+        value: "3.74"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+        verbatim_excerpt: "just under the 12-month average of 3.74"
+      - claim: widest tail since month
+        kind: temporal
+        value: December
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+        verbatim_excerpt: "the widest since December"
+      - claim: 2-year JGB cut-off price at auction
+        kind: numerical_with_unit
+        value: "100.04"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+        verbatim_excerpt: "the cut-off price of 100.04 was below the 100.055 Bloomberg survey estimate"
+      - claim: Bloomberg survey estimate for cut-off price
+        kind: numerical_with_unit
+        value: "100.055"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+        verbatim_excerpt: "below the 100.055 Bloomberg survey estimate"
+      - claim: Bank of Japan (institution referenced)
+        kind: named_institution
+        value: Bank of Japan
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp
+        verbatim_excerpt: "as markets price in a near-term Bank of Japan rate hike"
+    quotes: []
+
+  - story_id: japan-philippines-strategic-partnership-dtc
+    category: politics
+    headline_en: Japan and Philippines Sign Comprehensive Strategic Partnership and New Double Tax Convention
+    lead_url: https://www.mofa.go.jp/s_sa/sea2/ph/pageite_000001_00011.html
+    body_source: full
+    corroborated_by:
+      - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+      - https://mb.com.ph/2026/05/29/philippines-japan-sign-double-tax-convention
+      - https://www.manilatimes.net/2026/05/29/news/ph-japan-sign-double-tax-convention-other-deals-during-marcos-visit/2354288
+    locked_urls:
+      - https://www.mofa.go.jp/s_sa/sea2/ph/pageite_000001_00011.html
+      - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+      - https://mb.com.ph/2026/05/29/philippines-japan-sign-double-tax-convention
+      - https://www.manilatimes.net/2026/05/29/news/ph-japan-sign-double-tax-convention-other-deals-during-marcos-visit/2354288
+    hard_facts:
+      - claim: signing date
+        kind: temporal
+        value: "Friday, May 29, 2026"
+        source_urls:
+          - https://www.mofa.go.jp/s_sa/sea2/ph/pageite_000001_00011.html
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        verbatim_excerpt: "On Friday, May 29, 2026, in Tokyo"
+      - claim: signing location
+        kind: temporal
+        value: Tokyo
+        source_urls:
+          - https://www.mofa.go.jp/s_sa/sea2/ph/pageite_000001_00011.html
+        verbatim_excerpt: "On Friday, May 29, 2026, in Tokyo"
+      - claim: Philippine Ambassador to Japan (signatory)
+        kind: named_person
+        value: Mylene J. Garcia-Albano
+        source_urls:
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        verbatim_excerpt: "Philippine Ambassador to Japan Mylene J. Garcia-Albano"
+      - claim: Japanese Ambassador to Philippines (signatory)
+        kind: named_person
+        value: Endo Kazuya
+        source_urls:
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        verbatim_excerpt: "Japanese Ambassador to the Philippines Endo Kazuya"
+      - claim: Philippine President present at signing
+        kind: named_person
+        value: Ferdinand R. Marcos Jr.
+        source_urls:
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+          - https://mb.com.ph/2026/05/29/philippines-japan-sign-double-tax-convention
+        verbatim_excerpt: "in the presence of President Ferdinand R. Marcos Jr."
+      - claim: Japanese Prime Minister present at signing
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://www.mofa.go.jp/s_sa/sea2/ph/pageite_000001_00011.html
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        verbatim_excerpt: "and Prime Minister Sanae Takaichi"
+      - claim: treaty replaced (original year)
+        kind: temporal
+        value: "1980"
+        source_urls:
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        verbatim_excerpt: "replaces the 1980 Philippines-Japan tax treaty (partially amended in 2008)"
+      - claim: prior treaty amendment year
+        kind: temporal
+        value: "2008"
+        source_urls:
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        verbatim_excerpt: "partially amended in 2008"
+      - claim: arbitration mechanism duration
+        kind: temporal
+        value: two-year
+        source_urls:
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        verbatim_excerpt: "establishes a two-year arbitration mechanism"
+      - claim: state visit dates
+        kind: temporal
+        value: May 26-29
+        source_urls:
+          - https://www.mofa.go.jp/s_sa/sea2/ph/pageite_000001_00011.html
+        verbatim_excerpt: "during President Marcos's state visit (May 26-29)"
+      - claim: Philippines Finance Secretary identity
+        kind: named_person
+        value: Frederick D. Go
+        source_urls:
+          - https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        verbatim_excerpt: "Finance Secretary Frederick D. Go"
+      - claim: bilateral partnership level
+        kind: named_product
+        value: Comprehensive Strategic Partnership
+        source_urls:
+          - https://www.mofa.go.jp/s_sa/sea2/ph/pageite_000001_00011.html
+        verbatim_excerpt: "elevated bilateral ties to a Comprehensive Strategic Partnership"
+    quotes:
+      - speaker_name: Frederick D. Go
+        speaker_title: Finance Secretary of the Philippines
+        verbatim_en: "the negotiation with Japan underscores our countries' mutual commitment."
+        source_url: https://tribune.net.ph/2026/05/29/philippines-japan-sign-new-tax-treaty-dof
+        context: statement at DTC signing ceremony Tokyo May 29 2026
+
+  - story_id: japan-un-amb-dismisses-russia-remilitarize
+    category: politics
+    headline_en: Japan UN Ambassador Dismisses Russia's "Ridiculous" Remilitarization Criticism at UN Session
+    lead_url: https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+    body_source: full
+    corroborated_by:
+      - https://www.japantimes.co.jp/news/2026/05/29/japan/united-nations-ambassador-russia-criticism/
+      - https://www.arabnews.com/node/2645264/world
+      - https://www.usnews.com/news/world/articles/2026-05-28/japan-dismisses-ridiculous-russian-criticism-of-military-buildup
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+      - https://www.japantimes.co.jp/news/2026/05/29/japan/united-nations-ambassador-russia-criticism/
+      - https://www.arabnews.com/node/2645264/world
+      - https://www.usnews.com/news/world/articles/2026-05-28/japan-dismisses-ridiculous-russian-criticism-of-military-buildup
+    hard_facts:
+      - claim: Japan UN Ambassador identity
+        kind: named_person
+        value: Kazuyuki Yamazaki
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "Japanese Ambassador to the United Nations Kazuyuki Yamazaki on Thursday"
+      - claim: day of Yamazaki's response
+        kind: temporal
+        value: Thursday
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "Kazuyuki Yamazaki on Thursday dismissed Russia's criticism"
+      - claim: venue of session
+        kind: named_institution
+        value: UN General Assembly
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "during a resumed UN General Assembly session in New York"
+      - claim: location of session
+        kind: temporal
+        value: New York
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "during a resumed UN General Assembly session in New York"
+      - claim: Russian UN Ambassador identity
+        kind: named_person
+        value: Vassily Nebenzia
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "Russian UN Ambassador Vassily Nebenzia had told a UN Security Council meeting on Tuesday"
+      - claim: day of Nebenzia's original criticism
+        kind: temporal
+        value: Tuesday
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "had told a UN Security Council meeting on Tuesday"
+      - claim: UN Security Council (institution)
+        kind: named_institution
+        value: UN Security Council
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "had told a UN Security Council meeting on Tuesday"
+      - claim: China Foreign Minister identity (mentioned)
+        kind: named_person
+        value: Wang Yi
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "separate remarks from China's Foreign Minister Wang Yi"
+      - claim: publish time (JST)
+        kind: temporal
+        value: "2026-05-29 13:28 JST"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        verbatim_excerpt: "Publish date (verified): 2026-05-29 13:28 JST"
+    quotes:
+      - speaker_name: Kazuyuki Yamazaki
+        speaker_title: Japanese Ambassador to the United Nations
+        verbatim_en: "ridiculous"
+        source_url: https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        context: resumed UN General Assembly session New York Thursday
+      - speaker_name: Kazuyuki Yamazaki
+        speaker_title: Japanese Ambassador to the United Nations
+        verbatim_en: "Japan has consistently maintained an exclusively defense-oriented policy under its Constitution."
+        source_url: https://www.nippon.com/en/news/yjj2026052900213/japan-rejects-russia%E2%80%99s-remilitarization-criticism-at-u-n.html
+        context: resumed UN General Assembly session New York Thursday
+
+  - story_id: fujitsu-firms-eye-softbank-domestic-ai-model
+    category: tech
+    headline_en: Fujitsu and Other Japanese Firms Eye Investment in SoftBank-Led Domestic AI Foundation Model Venture
+    lead_url: https://www.nippon.com/en/news/yjj2026052801002/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026052801002/
+    hard_facts:
+      - claim: Fujitsu (company considering investment)
+        kind: named_institution
+        value: Fujitsu Ltd.
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "Japanese companies including Fujitsu Ltd. and Asahi Kasei Corp."
+      - claim: Asahi Kasei (company considering investment)
+        kind: named_institution
+        value: Asahi Kasei Corp.
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "Japanese companies including Fujitsu Ltd. and Asahi Kasei Corp."
+      - claim: SoftBank (founding company of new venture)
+        kind: named_institution
+        value: SoftBank Corp.
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "a new firm established by SoftBank Corp., NEC Corp., Sony Group Corp., and Honda Motor Co."
+      - claim: NEC (founding company of new venture)
+        kind: named_institution
+        value: NEC Corp.
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "a new firm established by SoftBank Corp., NEC Corp., Sony Group Corp., and Honda Motor Co."
+      - claim: Sony (founding company of new venture)
+        kind: named_institution
+        value: Sony Group Corp.
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "a new firm established by SoftBank Corp., NEC Corp., Sony Group Corp., and Honda Motor Co."
+      - claim: Honda (founding company of new venture)
+        kind: named_institution
+        value: Honda Motor Co.
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "a new firm established by SoftBank Corp., NEC Corp., Sony Group Corp., and Honda Motor Co."
+      - claim: investment amount being considered by each company
+        kind: numerical_with_unit
+        value: tens of millions of yen
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "The companies are each considering investments of tens of millions of yen"
+      - claim: new company establishment date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "The new company, established in April 2026"
+      - claim: Fujitsu CEO identity
+        kind: named_person
+        value: Takahito Tokita
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "Fujitsu CEO Takahito Tokita said at a business briefing"
+      - claim: publication time (JST)
+        kind: temporal
+        value: "2026-05-29 00:05 JST"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052801002/
+        verbatim_excerpt: "Publish date (verified): 2026-05-29 00:05 JST"
+    quotes:
+      - speaker_name: Takahito Tokita
+        speaker_title: CEO, Fujitsu Ltd.
+        verbatim_en: "I see the value in developing domestic AI models"
+        source_url: https://www.nippon.com/en/news/yjj2026052801002/
+        context: business briefing May 29 2026
+
+  - story_id: fujitsu-3-trillion-yen-ai-quantum-2035-plan
+    category: tech
+    headline_en: Fujitsu Commits 3 Trillion Yen Over Decade to AI and Quantum, Targeting 25-30% Operating Margin by 2035
+    lead_url: https://newsonjapan.com/article/149425.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149425.php
+    hard_facts:
+      - claim: Fujitsu total investment commitment
+        kind: numerical_with_unit
+        value: approximately 3 trillion yen
+        source_urls:
+          - https://newsonjapan.com/article/149425.php
+        verbatim_excerpt: "committing approximately 3 trillion yen toward emerging sectors including artificial intelligence and quantum computing"
+      - claim: plan time horizon
+        kind: temporal
+        value: next decade
+        source_urls:
+          - https://newsonjapan.com/article/149425.php
+        verbatim_excerpt: "a long-term management plan extending through fiscal 2035, committing approximately 3 trillion yen toward emerging sectors"
+      - claim: plan end year
+        kind: temporal
+        value: fiscal 2035
+        source_urls:
+          - https://newsonjapan.com/article/149425.php
+        verbatim_excerpt: "a long-term management plan extending through fiscal 2035"
+      - claim: Fujitsu operating profit margin target low end
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://newsonjapan.com/article/149425.php
+        verbatim_excerpt: "achieve an operating profit margin of between 25% and 30% in fiscal 2035"
+      - claim: Fujitsu operating profit margin target high end
+        kind: numerical_with_unit
+        value: "30%"
+        source_urls:
+          - https://newsonjapan.com/article/149425.php
+        verbatim_excerpt: "achieve an operating profit margin of between 25% and 30% in fiscal 2035"
+      - claim: profitability improvement factor
+        kind: numerical
+        value: more than doubling
+        source_urls:
+          - https://newsonjapan.com/article/149425.php
+        verbatim_excerpt: "more than doubling current profitability levels"
+      - claim: Fujitsu (company)
+        kind: named_institution
+        value: Fujitsu
+        source_urls:
+          - https://newsonjapan.com/article/149425.php
+        verbatim_excerpt: "Fujitsu announced a long-term management plan"
+      - claim: sovereign AI concept
+        kind: named_product
+        value: sovereign AI
+        source_urls:
+          - https://newsonjapan.com/article/149425.php
+        verbatim_excerpt: "establishing \"sovereign AI\" systems"
+    quotes: []
+
+  - story_id: japan-2025-census-population-falls-3-09m
+    category: society
+    headline_en: "Japan 2025 Census: Population Falls Record 3.09 Million in Five Years to 123 Million"
+    lead_url: https://www.nippon.com/en/news/yjj2026052900224/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026052900224/
+    hard_facts:
+      - claim: population decline over five years to Oct 2025
+        kind: numerical_with_unit
+        value: "3,096,575"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "fell by a record 3,096,575 over the five years to October 1, 2025"
+      - claim: census reference date
+        kind: temporal
+        value: October 1, 2025
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "over the five years to October 1, 2025"
+      - claim: Japan total population (2025 census)
+        kind: numerical_with_unit
+        value: "123,049,524"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "The population stood at 123,049,524"
+      - claim: consecutive census showing population decline
+        kind: temporal
+        value: third consecutive census since 1920
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "the third consecutive census showing a decline since 1920"
+      - claim: rate of population decline 2025 census
+        kind: numerical_with_unit
+        value: "2.5%"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "accelerated sharply from 0.7% in the 2020 survey to 2.5%"
+      - claim: rate of population decline 2020 census
+        kind: numerical_with_unit
+        value: "0.7%"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "accelerated sharply from 0.7% in the 2020 survey to 2.5%"
+      - claim: publisher of 2025 census
+        kind: named_institution
+        value: Ministry of Internal Affairs and Communications
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "according to the 2025 census published Friday by the Ministry of Internal Affairs and Communications"
+      - claim: number of prefectures in Japan
+        kind: numerical
+        value: "47"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "across Japan's 47 prefectures"
+      - claim: publication time (JST)
+        kind: temporal
+        value: "2026-05-29 12:15 JST"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026052900224/
+        verbatim_excerpt: "Publish date (verified): 2026-05-29 12:15 JST"
+    quotes: []
+
+  - story_id: typhoon-jangmi-no6-okinawa-june-1-forecast
+    category: society
+    headline_en: Typhoon Jangmi (No. 6) Forecast to Reach Very Strong Category Near Okinawa by June 1
+    lead_url: https://newsonjapan.com/article/149409.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149409.php
+    hard_facts:
+      - claim: typhoon name
+        kind: named_product
+        value: Jangmi
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "Typhoon No. 6 (Jangmi)"
+      - claim: typhoon number
+        kind: numerical
+        value: "No. 6"
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "Typhoon No. 6 (Jangmi)"
+      - claim: typhoon observation time
+        kind: temporal
+        value: 9 p.m. on May 28
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "as of 9 p.m. on May 28"
+      - claim: expected approach time to Nansei Islands
+        kind: temporal
+        value: around 3 a.m. on June 1
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "approaching the Nansei Islands (Okinawa) by around 3 a.m. on June 1"
+      - claim: forecast central pressure near Okinawa
+        kind: numerical_with_unit
+        value: approximately 950 hectopascals
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "a central pressure of approximately 950 hectopascals"
+      - claim: forecast maximum instantaneous wind speed near Okinawa
+        kind: numerical_with_unit
+        value: 60 meters per second
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "maximum instantaneous wind speeds reaching 60 meters per second"
+      - claim: JMA disaster weather information system overhaul date
+        kind: temporal
+        value: afternoon of May 28
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "Japan's Meteorological Agency began overhauling its disaster weather information system from the afternoon of May 28"
+      - claim: Japan Meteorological Agency (institution)
+        kind: named_institution
+        value: Japan's Meteorological Agency
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "Japan's Meteorological Agency began overhauling its disaster weather information system"
+      - claim: target area (island group)
+        kind: named_institution
+        value: Nansei Islands
+        source_urls:
+          - https://newsonjapan.com/article/149409.php
+        verbatim_excerpt: "approaching the Nansei Islands (Okinawa)"
+    quotes: []
+
+  - story_id: osaka-suspends-special-zone-minpaku-apps
+    category: other
+    headline_en: Osaka Suspends New Special-Zone Minpaku Applications Over Noise and Waste Complaints
+    lead_url: https://newsonjapan.com/article/149423.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149423.php
+    hard_facts:
+      - claim: suspension date
+        kind: temporal
+        value: May 29
+        source_urls:
+          - https://newsonjapan.com/article/149423.php
+        verbatim_excerpt: "Osaka City halted acceptance of new applications for its special-zone minpaku (short-term rental) program on May 29"
+      - claim: Osaka City (institution)
+        kind: named_institution
+        value: Osaka City
+        source_urls:
+          - https://newsonjapan.com/article/149423.php
+        verbatim_excerpt: "Osaka City halted acceptance of new applications"
+      - claim: program introduction year
+        kind: temporal
+        value: "2016"
+        source_urls:
+          - https://newsonjapan.com/article/149423.php
+        verbatim_excerpt: "Introduced in 2016 to address lodging shortages driven by tourism growth"
+      - claim: guideline strengthening date
+        kind: temporal
+        value: March
+        source_urls:
+          - https://newsonjapan.com/article/149423.php
+        verbatim_excerpt: "prompted the city to strengthen guidelines in March"
+      - claim: Osaka Mayor identity
+        kind: named_person
+        value: Hideyuki Yokoyama
+        source_urls:
+          - https://newsonjapan.com/article/149423.php
+        verbatim_excerpt: "Mayor Hideyuki Yokoyama stated"
+    quotes:
+      - speaker_name: Hideyuki Yokoyama
+        speaker_title: Mayor of Osaka City
+        verbatim_en: "By temporarily halting new applications, we will take the time to properly establish a stronger management system."
+        source_url: https://newsonjapan.com/article/149423.php
+        context: statement on minpaku suspension May 29 2026
