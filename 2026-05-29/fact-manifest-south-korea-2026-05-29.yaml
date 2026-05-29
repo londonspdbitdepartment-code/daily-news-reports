@@ -1,0 +1,671 @@
+version: 1
+generated_at: "2026-05-29T00:00:00Z"
+country: South Korea
+date: "2026-05-29"
+total_stories: 8
+
+stories:
+
+  - story_id: industrial-output-rebound-koo-yun-cheol
+    category: econ
+    headline_en: "South Korea finance minister projects industrial output rebound in May after April decline"
+    lead_url: https://www.koreatimes.co.kr/economy/20260529/koreas-industrial-output-set-to-rebound-in-may-finance-minister
+    body_source: full
+    corroborated_by:
+      - https://english.moef.go.kr
+    locked_urls:
+      - https://www.koreatimes.co.kr/economy/20260529/koreas-industrial-output-set-to-rebound-in-may-finance-minister
+      - https://english.moef.go.kr
+    hard_facts:
+      - kind: named_person
+        value: "Koo Yun-cheol"
+        verbatim_excerpt: "Finance Minister and Deputy Prime Minister Koo Yun-cheol"
+      - kind: temporal
+        value: "Friday"
+        verbatim_excerpt: "declared on Friday at a multi-ministry economic meeting"
+      - kind: numerical_with_unit
+        value: "0.6 percent month-on-month decline"
+        verbatim_excerpt: "registering a 0.6 percent month-on-month decline in April"
+      - kind: temporal
+        value: "April 2026"
+        verbatim_excerpt: "decline in April"
+      - kind: numerical_with_unit
+        value: "2.1 percent"
+        verbatim_excerpt: "industrial output rose 2.1 percent in February"
+      - kind: temporal
+        value: "February"
+        verbatim_excerpt: "rose 2.1 percent in February"
+      - kind: numerical_with_unit
+        value: "0.4 percent"
+        verbatim_excerpt: "0.4 percent in March month-on-month"
+      - kind: temporal
+        value: "March"
+        verbatim_excerpt: "0.4 percent in March month-on-month"
+      - kind: temporal
+        value: "May 2026"
+        verbatim_excerpt: "return to an upward trend in May 2026"
+      - kind: named_institution
+        value: "Bank of Korea"
+        verbatim_excerpt: "the Bank of Korea's monetary policy board meeting"
+      - kind: numerical_with_unit
+        value: "2.50 percent"
+        verbatim_excerpt: "held its benchmark rate at 2.50 percent"
+      - kind: numerical_with_unit
+        value: "2.6 percent"
+        verbatim_excerpt: "revised up its 2026 GDP growth forecast to 2.6 percent"
+      - kind: numerical_with_unit
+        value: "2.7 percent"
+        verbatim_excerpt: "its inflation estimate to 2.7 percent"
+      - kind: numerical_with_unit
+        value: "2.0 percent"
+        verbatim_excerpt: "compared with earlier projections of 2.0 percent"
+      - kind: numerical_with_unit
+        value: "2.2 percent"
+        verbatim_excerpt: "and 2.2 percent respectively"
+    quotes:
+      - speaker: "Koo Yun-cheol"
+        text: "a base effect following strong performances over the past months"
+      - speaker: "Koo Yun-cheol"
+        text: "a temporary correction"
+      - speaker: "Koo Yun-cheol"
+        text: "As consumer and business sentiment have rebounded sharply, with exports maintaining strong performance, industrial output figures are expected to return to an upward trend."
+      - speaker: "Koo Yun-cheol"
+        text: "the government will seek to minimise burdens on people's livelihoods caused by high fuel prices"
+
+  - story_id: bok-holds-rate-2-50-pct-shin-hawkish
+    category: econ
+    headline_en: "Bank of Korea holds rate at 2.50%, new governor Shin Hyun-song signals imminent hikes"
+    lead_url: https://www.koreaherald.com/article/10758075
+    body_source: full
+    corroborated_by:
+      - https://www.kedglobal.com/central-bank/newsView/ked202605280003
+      - https://en.sedaily.com/finance/2026/05/28/shin-hyun-song-signals-rate-hike-citing-aligned-growth-and
+      - https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=10095713&menuNo=400423
+    locked_urls:
+      - https://www.koreaherald.com/article/10758075
+      - https://www.kedglobal.com/central-bank/newsView/ked202605280003
+      - https://en.sedaily.com/finance/2026/05/28/shin-hyun-song-signals-rate-hike-citing-aligned-growth-and
+      - https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=10095713&menuNo=400423
+    hard_facts:
+      - kind: named_institution
+        value: "Bank of Korea"
+        verbatim_excerpt: "Bank of Korea's May 29, 2026 meeting"
+      - kind: named_institution
+        value: "Monetary Policy Board"
+        verbatim_excerpt: "South Korea's Monetary Policy Board"
+      - kind: numerical_with_unit
+        value: "2.50 percent"
+        verbatim_excerpt: "benchmark interest rate unchanged at 2.50 percent"
+      - kind: temporal
+        value: "May 29, 2026"
+        verbatim_excerpt: "Bank of Korea's May 29, 2026 meeting"
+      - kind: numerical
+        value: "eighth consecutive hold"
+        verbatim_excerpt: "the eighth consecutive hold"
+      - kind: temporal
+        value: "May 2025"
+        verbatim_excerpt: "freeze in place since May 2025"
+      - kind: named_person
+        value: "Shin Hyun-song"
+        verbatim_excerpt: "new Governor Shin Hyun-song"
+      - kind: numerical
+        value: "two of the seven board members"
+        verbatim_excerpt: "Two of the seven board members voted for an immediate 25-basis-point rate increase"
+      - kind: numerical_with_unit
+        value: "25-basis-point"
+        verbatim_excerpt: "an immediate 25-basis-point rate increase"
+      - kind: numerical_with_unit
+        value: "2.6 percent"
+        verbatim_excerpt: "raised its 2026 GDP growth forecast to 2.6 percent from 2.0 percent"
+      - kind: numerical_with_unit
+        value: "2.0 percent"
+        verbatim_excerpt: "from 2.0 percent previously"
+      - kind: numerical_with_unit
+        value: "1.7 percent quarter-on-quarter"
+        verbatim_excerpt: "a robust first-quarter expansion of 1.7 percent quarter-on-quarter"
+      - kind: numerical_with_unit
+        value: "2.7 percent"
+        verbatim_excerpt: "revised up its 2026 inflation estimate to 2.7 percent from 2.2 percent"
+      - kind: numerical_with_unit
+        value: "2.2 percent"
+        verbatim_excerpt: "from 2.2 percent"
+      - kind: numerical_with_unit
+        value: "2.6 percent year-on-year"
+        verbatim_excerpt: "Consumer price inflation accelerated to 2.6 percent year-on-year in April"
+      - kind: numerical_with_unit
+        value: "2.2 percent"
+        verbatim_excerpt: "up from 2.2 percent in March"
+      - kind: numerical_with_unit
+        value: "1,517.2 per dollar"
+        verbatim_excerpt: "The Korean won traded around 1,517.2 per dollar"
+      - kind: numerical_with_unit
+        value: "1,520"
+        verbatim_excerpt: "approaching the 1,520 level"
+      - kind: numerical_with_unit
+        value: "25-basis-point rate hike"
+        verbatim_excerpt: "price in a 25-basis-point rate hike at the July BoK meeting"
+      - kind: temporal
+        value: "July"
+        verbatim_excerpt: "at the July BoK meeting"
+      - kind: numerical_with_unit
+        value: "3.0 percent"
+        verbatim_excerpt: "taking the terminal rate to 3.0 percent"
+      - kind: named_institution
+        value: "Bank of America"
+        verbatim_excerpt: "Bank of America, in a separate May 27 note"
+      - kind: temporal
+        value: "May 27"
+        verbatim_excerpt: "a separate May 27 note"
+      - kind: numerical_with_unit
+        value: "3.1 percent"
+        verbatim_excerpt: "raised its South Korea 2026 GDP forecast to 3.1 percent"
+    quotes:
+      - speaker: "Shin Hyun-song"
+        text: "Whether looking at inflation, growth, the exchange rate or the property market, the direction is clear"
+      - speaker: "Shin Hyun-song"
+        text: "raising the base rate would provide an opportunity to handle them all at once"
+      - speaker: "Shin Hyun-song"
+        text: "we will not tolerate one-sided moves in the currency market"
+
+  - story_id: korea-early-voting-june-3-local-elections
+    category: politics
+    headline_en: "South Korea opens two-day early voting for June 3 local elections; turnout on pace to exceed 2022 record"
+    lead_url: https://www.koreaherald.com/article/10758611
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10758438
+      - https://www.upi.com/Top_News/World-News/2026/05/29/korea-South-Korea-local-elections-early-voting-Lee-Jae-Myung/6001780031602/
+      - https://www.koreaherald.com/article/10759108
+    locked_urls:
+      - https://www.koreaherald.com/article/10758611
+      - https://www.koreaherald.com/article/10758438
+      - https://www.upi.com/Top_News/World-News/2026/05/29/korea-South-Korea-local-elections-early-voting-Lee-Jae-Myung/6001780031602/
+      - https://www.koreaherald.com/article/10759108
+    hard_facts:
+      - kind: temporal
+        value: "Friday, May 29, 2026"
+        verbatim_excerpt: "South Korea launched two-day early voting on Friday, May 29, 2026"
+      - kind: temporal
+        value: "June 3"
+        verbatim_excerpt: "for the June 3 nationwide local elections"
+      - kind: numerical
+        value: "3,571 polling stations"
+        verbatim_excerpt: "with 3,571 polling stations open from 6 a.m. to 6 p.m."
+      - kind: numerical
+        value: "44.64 million eligible voters"
+        verbatim_excerpt: "Over 44.64 million eligible voters"
+      - kind: numerical
+        value: "151,532 foreign nationals"
+        verbatim_excerpt: "including 151,532 foreign nationals with permanent residency"
+      - kind: numerical_with_unit
+        value: "18.7 percent increase"
+        verbatim_excerpt: "an 18.7 percent increase from 127,623 in 2022"
+      - kind: numerical
+        value: "127,623"
+        verbatim_excerpt: "from 127,623 in 2022"
+      - kind: numerical_with_unit
+        value: "8.15 percent"
+        verbatim_excerpt: "turnout reached 8.15 percent"
+      - kind: numerical
+        value: "3,640,057 voters"
+        verbatim_excerpt: "representing 3,640,057 voters"
+      - kind: numerical_with_unit
+        value: "0.9 percentage points"
+        verbatim_excerpt: "running 0.9 percentage points ahead"
+      - kind: numerical_with_unit
+        value: "16.6 percent"
+        verbatim_excerpt: "highest in South Jeolla Province at 16.6 percent"
+      - kind: numerical_with_unit
+        value: "14.16 percent"
+        verbatim_excerpt: "North Jeolla Province at 14.16 percent"
+      - kind: numerical_with_unit
+        value: "7.66 percent"
+        verbatim_excerpt: "Seoul stood at 7.66 percent"
+      - kind: numerical_with_unit
+        value: "73.6 percent"
+        verbatim_excerpt: "73.6 percent of respondents planned to vote"
+      - kind: numerical_with_unit
+        value: "39.4 percent"
+        verbatim_excerpt: "39.4 percent intending to use the early-voting option"
+      - kind: numerical
+        value: "16 metropolitan mayors and provincial governors"
+        verbatim_excerpt: "Up for election are 16 metropolitan mayors and provincial governors"
+      - kind: numerical
+        value: "16 education superintendents"
+        verbatim_excerpt: "16 education superintendents"
+      - kind: numerical
+        value: "227 local government heads"
+        verbatim_excerpt: "227 local government heads"
+      - kind: numerical
+        value: "approximately 4,000 local council members"
+        verbatim_excerpt: "approximately 4,000 local council members"
+      - kind: numerical
+        value: "14 vacant National Assembly seats"
+        verbatim_excerpt: "14 vacant National Assembly seats in parliamentary by-elections"
+      - kind: named_person
+        value: "Lee Jae Myung"
+        verbatim_excerpt: "President Lee Jae Myung's Democratic Party government"
+      - kind: temporal
+        value: "June 4, 2025"
+        verbatim_excerpt: "inaugurated June 4, 2025"
+      - kind: named_person
+        value: "Oh Se-hoon"
+        verbatim_excerpt: "incumbent Mayor Oh Se-hoon of the opposition People Power Party (PPP)"
+      - kind: named_person
+        value: "Chong Won-o"
+        verbatim_excerpt: "Democratic Party candidate Chong Won-o"
+      - kind: named_institution
+        value: "Hankook Research"
+        verbatim_excerpt: "a Hankook Research poll"
+      - kind: numerical_with_unit
+        value: "42 percent"
+        verbatim_excerpt: "Chong leading 42 percent"
+      - kind: numerical_with_unit
+        value: "36 percent"
+        verbatim_excerpt: "to Oh's 36 percent"
+      - kind: named_person
+        value: "Kim Hea Kyung"
+        verbatim_excerpt: "accompanied by first lady Kim Hea Kyung"
+      - kind: temporal
+        value: "June 2"
+        verbatim_excerpt: "Campaigning runs through June 2."
+      - kind: named_institution
+        value: "National Election Commission"
+        verbatim_excerpt: "A National Election Commission poll"
+      - kind: named_institution
+        value: "People Power Party"
+        verbatim_excerpt: "People Power Party (PPP)"
+    quotes:
+      - speaker: "Democratic Party Secretary-General Jo Seoung-lae"
+        text: "The side that turns out more voters wins."
+      - speaker: "PPP Rep. Jung Hee-yong"
+        text: "If turnout rises, it is absolutely advantageous for the PPP."
+
+  - story_id: police-raid-seoul-overpass-collapse
+    category: politics
+    headline_en: "Police raid Seoul city hall and engineering firms over deadly Seosomun overpass collapse"
+    lead_url: https://www.koreatimes.co.kr/southkorea/law-crime/20260529/police-raid-seoul-city-govt-engineering-company-over-overpass-collapse
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10758775
+      - https://www.koreaherald.com/article/10758457
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/law-crime/20260529/police-raid-seoul-city-govt-engineering-company-over-overpass-collapse
+      - https://www.koreaherald.com/article/10758775
+      - https://www.koreaherald.com/article/10758457
+    hard_facts:
+      - kind: named_institution
+        value: "Seoul Metropolitan Police"
+        verbatim_excerpt: "Seoul Metropolitan Police simultaneously raided seven locations"
+      - kind: numerical
+        value: "seven locations"
+        verbatim_excerpt: "raided seven locations at 9 a.m. on Friday"
+      - kind: temporal
+        value: "9 a.m. on Friday"
+        verbatim_excerpt: "raided seven locations at 9 a.m. on Friday"
+      - kind: temporal
+        value: "May 26"
+        verbatim_excerpt: "three days after the May 26 partial collapse"
+      - kind: named_product
+        value: "Seosomun Overpass"
+        verbatim_excerpt: "the May 26 partial collapse of the Seosomun Overpass"
+      - kind: numerical
+        value: "three workers killed"
+        verbatim_excerpt: "killed three workers and injured three others"
+      - kind: numerical
+        value: "three others injured"
+        verbatim_excerpt: "killed three workers and injured three others"
+      - kind: named_institution
+        value: "Seoul Metropolitan Government's Urban Infrastructure Headquarters"
+        verbatim_excerpt: "the Seoul Metropolitan Government's Urban Infrastructure Headquarters (project commissioner)"
+      - kind: named_institution
+        value: "Heunghwa Construction"
+        verbatim_excerpt: "main contractor Heunghwa Construction"
+      - kind: named_institution
+        value: "Suseong Engineering"
+        verbatim_excerpt: "supervising firm Suseong Engineering"
+      - kind: numerical
+        value: "33 police investigators"
+        verbatim_excerpt: "A combined team of 33 police investigators"
+      - kind: numerical
+        value: "20 workplace safety officials"
+        verbatim_excerpt: "and 20 workplace safety officials"
+      - kind: named_institution
+        value: "Ministry of Employment and Labor"
+        verbatim_excerpt: "from the Ministry of Employment and Labor"
+      - kind: temporal
+        value: "1966"
+        verbatim_excerpt: "The overpass, a 1966-era structure"
+      - kind: temporal
+        value: "August 2025"
+        verbatim_excerpt: "undergoing demolition since August 2025"
+      - kind: named_person
+        value: "Lee Jae Myung"
+        verbatim_excerpt: "President Lee Jae Myung called for"
+    quotes:
+      - speaker: "Ministry of Employment and Labor"
+        text: "strictly"
+      - speaker: "Lee Jae Myung"
+        text: "prompt investigation and stern punishment"
+
+  - story_id: samsung-sk-hynix-anthropic-series-h
+    category: tech
+    headline_en: "Samsung Electronics and SK Hynix join Anthropic's $65 billion Series H round as strategic infrastructure partners"
+    lead_url: https://www.koreaherald.com/article/10758856
+    body_source: full
+    corroborated_by:
+      - https://www.kedglobal.com/artificial-intelligence/newsView/ked202605290004
+      - https://www.asiae.co.kr/en/article/2026052907592796585
+      - https://www.sammobile.com/2026/05/29/samsung-could-make-chips-anthropic-ai-startup/
+      - https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/
+    locked_urls:
+      - https://www.koreaherald.com/article/10758856
+      - https://www.kedglobal.com/artificial-intelligence/newsView/ked202605290004
+      - https://www.asiae.co.kr/en/article/2026052907592796585
+      - https://www.sammobile.com/2026/05/29/samsung-could-make-chips-anthropic-ai-startup/
+      - https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/
+    hard_facts:
+      - kind: named_institution
+        value: "Samsung Electronics"
+        verbatim_excerpt: "Samsung Electronics and SK Hynix became strategic infrastructure partners"
+      - kind: named_institution
+        value: "SK Hynix"
+        verbatim_excerpt: "Samsung Electronics and SK Hynix became strategic infrastructure partners"
+      - kind: named_institution
+        value: "Anthropic"
+        verbatim_excerpt: "Anthropic's Series H funding round"
+      - kind: temporal
+        value: "May 28"
+        verbatim_excerpt: "which closed May 28 (US time)"
+      - kind: numerical_with_unit
+        value: "$65 billion"
+        verbatim_excerpt: "raised $65 billion"
+      - kind: numerical_with_unit
+        value: "$965 billion"
+        verbatim_excerpt: "valuing the AI company at $965 billion"
+      - kind: named_institution
+        value: "OpenAI"
+        verbatim_excerpt: "surpassing OpenAI's $852 billion March valuation"
+      - kind: numerical_with_unit
+        value: "$852 billion"
+        verbatim_excerpt: "OpenAI's $852 billion March valuation"
+      - kind: named_institution
+        value: "Micron"
+        verbatim_excerpt: "US memory maker Micron was the third chipmaker to join"
+      - kind: named_institution
+        value: "Capital Group"
+        verbatim_excerpt: "additional backers included Capital Group"
+      - kind: named_institution
+        value: "Coatue"
+        verbatim_excerpt: "Coatue"
+      - kind: named_institution
+        value: "GIC"
+        verbatim_excerpt: "Singapore's GIC"
+      - kind: named_institution
+        value: "Blackstone"
+        verbatim_excerpt: "Blackstone"
+      - kind: named_institution
+        value: "Fidelity"
+        verbatim_excerpt: "Fidelity"
+      - kind: named_institution
+        value: "Baillie Gifford"
+        verbatim_excerpt: "Baillie Gifford"
+      - kind: named_institution
+        value: "Temasek"
+        verbatim_excerpt: "and Temasek"
+      - kind: numerical_with_unit
+        value: "$47 billion"
+        verbatim_excerpt: "Anthropic's annualized revenue surpassed $47 billion"
+      - kind: temporal
+        value: "Q2 2026"
+        verbatim_excerpt: "projected its first operating profit for Q2 2026"
+      - kind: numerical_with_unit
+        value: "$380 billion"
+        verbatim_excerpt: "from the $380 billion level recorded in February 2026"
+      - kind: temporal
+        value: "February 2026"
+        verbatim_excerpt: "recorded in February 2026"
+      - kind: named_product
+        value: "Tesla AI5"
+        verbatim_excerpt: "Tesla's AI5 and AI6 chips"
+      - kind: named_product
+        value: "Tesla AI6"
+        verbatim_excerpt: "Tesla's AI5 and AI6 chips"
+      - kind: named_product
+        value: "Nvidia Grok 3"
+        verbatim_excerpt: "Nvidia's Grok 3 inference processor"
+      - kind: numerical_with_unit
+        value: "7.2 percent market share"
+        verbatim_excerpt: "ranking second globally in foundry services with 7.2 percent market share"
+      - kind: numerical_with_unit
+        value: "69.9 percent"
+        verbatim_excerpt: "against TSMC's 69.9 percent"
+      - kind: named_institution
+        value: "TSMC"
+        verbatim_excerpt: "against TSMC's 69.9 percent"
+      - kind: temporal
+        value: "2027"
+        verbatim_excerpt: "expectations of a return to profit in 2027"
+    quotes:
+      - speaker: "Anthropic"
+        text: "play a critical role in the world's supply of memory, storage and logic chips"
+
+  - story_id: sk-hynix-market-cap-narrows-samsung
+    category: tech
+    headline_en: "SK Hynix market cap gap with Samsung narrows to 6.8% as AI chip boom reshapes Korea equity rankings"
+    lead_url: https://en.sedaily.com/finance/2026/05/29/sk-hynix-closes-in-on-samsungs-market-cap-68-percent-gap
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10758856
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/05/29/sk-hynix-closes-in-on-samsungs-market-cap-68-percent-gap
+      - https://www.koreaherald.com/article/10758856
+    hard_facts:
+      - kind: named_institution
+        value: "SK Hynix"
+        verbatim_excerpt: "SK Hynix's market capitalisation reached 1,631.3757 trillion won"
+      - kind: numerical_with_unit
+        value: "1,631.3757 trillion won"
+        verbatim_excerpt: "SK Hynix's market capitalisation reached 1,631.3757 trillion won"
+      - kind: temporal
+        value: "May 29, 2026"
+        verbatim_excerpt: "on the last trading day of the week ending May 29, 2026"
+      - kind: numerical_with_unit
+        value: "93.2 percent"
+        verbatim_excerpt: "representing 93.2 percent of Samsung Electronics'"
+      - kind: named_institution
+        value: "Samsung Electronics"
+        verbatim_excerpt: "Samsung Electronics' 1,750.9604 trillion won market cap"
+      - kind: numerical_with_unit
+        value: "1,750.9604 trillion won"
+        verbatim_excerpt: "Samsung Electronics' 1,750.9604 trillion won market cap"
+      - kind: numerical_with_unit
+        value: "6.8 percentage points"
+        verbatim_excerpt: "narrowing the gap to just 6.8 percentage points"
+      - kind: numerical_with_unit
+        value: "approximately 1,000 percent"
+        verbatim_excerpt: "SK Hynix shares surged approximately 1,000 percent"
+      - kind: numerical_with_unit
+        value: "roughly 436 percent"
+        verbatim_excerpt: "Samsung Electronics gained roughly 436 percent"
+      - kind: numerical
+        value: "global top 12 by market capitalisation"
+        verbatim_excerpt: "propelled SK Hynix into the global top 12 by market capitalisation"
+      - kind: numerical
+        value: "Samsung ranked 11th globally"
+        verbatim_excerpt: "Samsung ranked 11th globally"
+      - kind: numerical
+        value: "SK Hynix 12th"
+        verbatim_excerpt: "and SK Hynix 12th"
+      - kind: numerical_with_unit
+        value: "2.05 percent"
+        verbatim_excerpt: "SK Hynix rose 2.05 percent"
+      - kind: numerical_with_unit
+        value: "2,289,000 won"
+        verbatim_excerpt: "to a fresh record close of 2,289,000 won"
+      - kind: numerical_with_unit
+        value: "2.44 percent"
+        verbatim_excerpt: "Samsung Electronics fell 2.44 percent"
+      - kind: numerical_with_unit
+        value: "299,500 won"
+        verbatim_excerpt: "to 299,500 won"
+      - kind: temporal
+        value: "May 27"
+        verbatim_excerpt: "launched May 27"
+      - kind: named_product
+        value: "TIGER SK Hynix Single Stock Leverage"
+        verbatim_excerpt: "the \"TIGER SK Hynix Single Stock Leverage\" ETF"
+      - kind: numerical_with_unit
+        value: "690.9 billion won"
+        verbatim_excerpt: "attracted 690.9 billion won in purchases"
+      - kind: named_institution
+        value: "Bank of America"
+        verbatim_excerpt: "Bank of America, in a separate note"
+      - kind: numerical_with_unit
+        value: "3.1 percent"
+        verbatim_excerpt: "raised South Korea's 2026 GDP growth forecast to 3.1 percent"
+      - kind: numerical_with_unit
+        value: "48 percent"
+        verbatim_excerpt: "raised its DRAM price forecast by 48 percent from its March projection"
+    quotes: []
+
+  - story_id: samsung-foundry-anthropic-logic-chips
+    category: tech
+    headline_en: "Samsung Foundry seen as frontrunner for Anthropic's logic chip fabrication"
+    lead_url: https://www.asiae.co.kr/en/article/2026052907592796585
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10758856
+      - https://www.kedglobal.com/artificial-intelligence/newsView/ked202605290004
+    locked_urls:
+      - https://www.asiae.co.kr/en/article/2026052907592796585
+      - https://www.koreaherald.com/article/10758856
+      - https://www.kedglobal.com/artificial-intelligence/newsView/ked202605290004
+    hard_facts:
+      - kind: named_institution
+        value: "Samsung Electronics"
+        verbatim_excerpt: "Samsung Electronics and SK Hynix's participation"
+      - kind: named_institution
+        value: "SK Hynix"
+        verbatim_excerpt: "Samsung Electronics and SK Hynix's participation"
+      - kind: named_institution
+        value: "Anthropic"
+        verbatim_excerpt: "Anthropic's $65 billion Series H round"
+      - kind: numerical_with_unit
+        value: "$65 billion"
+        verbatim_excerpt: "Anthropic's $65 billion Series H round"
+      - kind: temporal
+        value: "May 29"
+        verbatim_excerpt: "industry analysis published on May 29"
+      - kind: named_product
+        value: "Claude AI chips"
+        verbatim_excerpt: "branded internally as \"Claude AI chips\""
+      - kind: named_institution
+        value: "Samsung Foundry"
+        verbatim_excerpt: "Samsung Foundry as the most likely candidate"
+      - kind: numerical_with_unit
+        value: "7.2 percent market share"
+        verbatim_excerpt: "Samsung Foundry currently ranks second globally with 7.2 percent market share"
+      - kind: named_institution
+        value: "TSMC"
+        verbatim_excerpt: "against TSMC at 69.9 percent"
+      - kind: numerical_with_unit
+        value: "69.9 percent"
+        verbatim_excerpt: "against TSMC at 69.9 percent"
+      - kind: numerical_with_unit
+        value: "62.7 percentage-point gap"
+        verbatim_excerpt: "a 62.7 percentage-point gap"
+      - kind: named_product
+        value: "Tesla AI5"
+        verbatim_excerpt: "Tesla's next-generation AI5 and AI6 artificial intelligence chips"
+      - kind: named_product
+        value: "Tesla AI6"
+        verbatim_excerpt: "Tesla's next-generation AI5 and AI6 artificial intelligence chips"
+      - kind: named_product
+        value: "Nvidia Grok 3"
+        verbatim_excerpt: "Nvidia's Grok 3 inference processor"
+      - kind: temporal
+        value: "2027"
+        verbatim_excerpt: "analysts now project a return to profitability in 2027"
+      - kind: temporal
+        value: "May 28"
+        verbatim_excerpt: "announced in the US on May 28"
+      - kind: numerical_with_unit
+        value: "$47 billion"
+        verbatim_excerpt: "Anthropic's annualised revenue surpassed $47 billion"
+      - kind: temporal
+        value: "Q2 2026"
+        verbatim_excerpt: "projected its first operating profit for Q2 2026"
+    quotes:
+      - speaker: "Industry analysts"
+        text: "The three partners' technologies play a critical role in the world's supply of memory, storage and logic chips."
+
+  - story_id: cambodia-sentences-chinese-park-minho
+    category: society
+    headline_en: "Cambodia sentences six Chinese nationals to life in prison for kidnapping and killing South Korean student"
+    lead_url: https://www.manilatimes.net/2026/05/29/world/asia-oceania/cambodia-jails-6-chinese-for-south-koreans-murder/2353833
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10758217
+      - https://www.washingtonpost.com/world/2026/05/27/cambodia-scam-centers-cybercrime-south-korea/10dd0d98-59ed-11f1-8a9d-afb1148204e1_story.html
+    locked_urls:
+      - https://www.manilatimes.net/2026/05/29/world/asia-oceania/cambodia-jails-6-chinese-for-south-koreans-murder/2353833
+      - https://www.koreaherald.com/article/10758217
+      - https://www.washingtonpost.com/world/2026/05/27/cambodia-scam-centers-cybercrime-south-korea/10dd0d98-59ed-11f1-8a9d-afb1148204e1_story.html
+    hard_facts:
+      - kind: temporal
+        value: "May 27, 2026"
+        verbatim_excerpt: "A Cambodian court on May 27, 2026 sentenced"
+      - kind: numerical
+        value: "six Chinese nationals"
+        verbatim_excerpt: "sentenced six Chinese nationals aged between 30 and 54"
+      - kind: numerical
+        value: "aged between 30 and 54"
+        verbatim_excerpt: "aged between 30 and 54"
+      - kind: named_institution
+        value: "Kampot Provincial Court"
+        verbatim_excerpt: "The Kampot Provincial Court convicted the defendants"
+      - kind: named_person
+        value: "Park Minho"
+        verbatim_excerpt: "South Korean university student Park Minho, 22"
+      - kind: numerical
+        value: "22"
+        verbatim_excerpt: "Park Minho, 22"
+      - kind: named_institution
+        value: "Kampot province"
+        verbatim_excerpt: "in Kampot province in August 2025"
+      - kind: temporal
+        value: "August 2025"
+        verbatim_excerpt: "in Kampot province in August 2025"
+      - kind: named_product
+        value: "Thansuor Bokor Resort"
+        verbatim_excerpt: "Room 173 of the Thansuor Bokor Resort"
+      - kind: numerical
+        value: "Room 173"
+        verbatim_excerpt: "Room 173 of the Thansuor Bokor Resort"
+      - kind: named_institution
+        value: "Bokor Town"
+        verbatim_excerpt: "in Kampot province's Bokor Town"
+      - kind: temporal
+        value: "August 8, 2025"
+        verbatim_excerpt: "on August 8, 2025"
+      - kind: numerical
+        value: "220 cases"
+        verbatim_excerpt: "Kidnappings of South Koreans in Cambodia surged to 220 cases in 2024"
+      - kind: temporal
+        value: "2024"
+        verbatim_excerpt: "surged to 220 cases in 2024"
+      - kind: numerical
+        value: "330"
+        verbatim_excerpt: "had already reached 330 by August 2025"
+      - kind: named_person
+        value: "Hun Manet"
+        verbatim_excerpt: "Cambodian Prime Minister Hun Manet"
+      - kind: temporal
+        value: "May 29, 2026"
+        verbatim_excerpt: "reported extensively in Korean-language media on May 29, 2026"
+    quotes:
+      - speaker: "Kampot Provincial Court"
+        text: "sufficient evidence linking them to the crimes"
+      - speaker: "source"
+        text: "weak law enforcement and cross-border criminal activity have fuelled the growth of large-scale scam compounds"
