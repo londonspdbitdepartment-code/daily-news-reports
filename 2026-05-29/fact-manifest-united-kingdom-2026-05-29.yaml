@@ -1,0 +1,955 @@
+version: 1
+country: United Kingdom
+date: 2026-05-29
+lang: zh
+story_count: 17
+
+stories:
+
+  - story_id: uk-econ-001
+    category: econ
+    headline_en: "Bank of England's Bailey signals tolerance for above-target inflation to support weak economy"
+    lead_url: "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+    body_source: full
+    corroborated_by:
+      - "https://www.bankofengland.co.uk/speech/2026/may/andrew-bailey-speech-at-the-reykjavik-2026-economic-conference"
+      - "https://www.bloomberg.com/news/articles/2026-05-29/"
+      - "https://www.lbc.co.uk/article/37aff4307a33415db2e7c7f1bc7a07c5-5HjdZry_2/"
+    locked_urls:
+      - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+      - "https://www.bankofengland.co.uk/speech/2026/may/andrew-bailey-speech-at-the-reykjavik-2026-economic-conference"
+      - "https://www.bloomberg.com/news/articles/2026-05-29/"
+      - "https://www.lbc.co.uk/article/37aff4307a33415db2e7c7f1bc7a07c5-5HjdZry_2/"
+    hard_facts:
+      - claim: "Bailey spoke at an economic conference in Reykjavik, Iceland on 29 May 2026"
+        kind: temporal
+        value: "2026-05-29"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+          - "https://www.bankofengland.co.uk/speech/2026/may/andrew-bailey-speech-at-the-reykjavik-2026-economic-conference"
+        verbatim_excerpt: "Bank of England Governor Andrew Bailey stated on Friday 29 May 2026, speaking at an economic conference in Reykjavik, Iceland, organised by Iceland's central bank"
+      - claim: "UK CPI stood at 2.8% in April 2026"
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        verbatim_excerpt: "UK CPI stood at 2.8% in April 2026, down from 3.3% in March"
+      - claim: "UK CPI was 3.3% in March 2026"
+        kind: numerical_with_unit
+        value: "3.3%"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        verbatim_excerpt: "UK CPI stood at 2.8% in April 2026, down from 3.3% in March"
+      - claim: "Bank Rate currently stands at 3.75%"
+        kind: numerical_with_unit
+        value: "3.75%"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        verbatim_excerpt: "The Bank Rate currently stands at 3.75%."
+      - claim: "MPC held interest rates steady on 30 April"
+        kind: temporal
+        value: "30 April 2026"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        verbatim_excerpt: "The Monetary Policy Committee had held interest rates steady on 30 April while monitoring the economic consequences of the conflict in the Middle East"
+      - claim: "Iran conflict began on 28 February 2026"
+        kind: temporal
+        value: "2026-02-28"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        verbatim_excerpt: "the conflict in the Middle East, which began on 28 February 2026"
+      - claim: "Markets pricing only one quarter-point rate hike for remainder of 2026, likely in November"
+        kind: temporal
+        value: "November 2026"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        verbatim_excerpt: "Financial markets as of 29 May are pricing in only one quarter-point rate hike for the remainder of 2026 — likely in November — with roughly a one-in-three probability of a second increase."
+      - claim: "UK 10-year gilt yields reversed early gains to slip toward 4.8%"
+        kind: numerical_with_unit
+        value: "4.8%"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        verbatim_excerpt: "UK 10-year gilt yields reversed early gains to slip toward 4.8%, their lowest level since 17 April"
+      - claim: "Andrew Bailey is Governor of the Bank of England"
+        kind: named_person
+        value: "Andrew Bailey"
+        source_urls:
+          - "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+          - "https://www.bankofengland.co.uk/speech/2026/may/andrew-bailey-speech-at-the-reykjavik-2026-economic-conference"
+        verbatim_excerpt: "Bank of England Governor Andrew Bailey stated on Friday 29 May 2026"
+    quotes:
+      - speaker_name: "Andrew Bailey"
+        speaker_title: "Governor, Bank of England"
+        verbatim_en: "tolerating temporarily above-target inflation to provide some support for the real economy is appropriate"
+        source_url: "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        context: "Speaking at Reykjavik economic conference on BoE policy stance"
+      - speaker_name: "Andrew Bailey"
+        speaker_title: "Governor, Bank of England"
+        verbatim_en: "if signs of second-round effects begin to emerge"
+        source_url: "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        context: "Condition under which tolerance of above-target inflation would weaken"
+      - speaker_name: "Andrew Bailey"
+        speaker_title: "Governor, Bank of England"
+        verbatim_en: "taking rate cuts off the table"
+        source_url: "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        context: "Describing effective tightening measure already in place"
+      - speaker_name: "Andrew Bailey"
+        speaker_title: "Governor, Bank of England"
+        verbatim_en: "is likely to go higher over this year as utility bills rise"
+        source_url: "https://ca.finance.yahoo.com/news/bank-englands-bailey-signals-no-100559133.html"
+        context: "Bailey's forecast for UK inflation trajectory"
+
+  - story_id: uk-econ-002
+    category: econ
+    headline_en: "UK gilt yields slip to seven-week low as Bailey signals tolerance for above-target inflation; sterling holds firm"
+    lead_url: "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+    hard_facts:
+      - claim: "UK 10-year gilt yields reversed early gains to slip back toward 4.8%, their lowest level since 17 April"
+        kind: numerical_with_unit
+        value: "4.8%"
+        source_urls:
+          - "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+        verbatim_excerpt: "UK 10-year gilt yields reversed early gains to slip back toward 4.8%, their lowest level since 17 April"
+      - claim: "The gilt rally extended to a seventh consecutive session"
+        kind: numerical
+        value: "7"
+        source_urls:
+          - "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+        verbatim_excerpt: "The rally in UK government bonds extended to a seventh consecutive session, marking the longest winning streak since just before tensions escalated in the Iran conflict in late February 2026."
+      - claim: "CPI 2.8% in April, down from 3.3%"
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+        verbatim_excerpt: "softer-than-expected inflation (CPI 2.8% in April, down from 3.3%)"
+      - claim: "GBP/USD failed to sustain gains above 1.3600 earlier in May"
+        kind: numerical
+        value: "1.3600"
+        source_urls:
+          - "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+        verbatim_excerpt: "GBP/USD remained in a broad consolidation pattern after failing to sustain gains above 1.3600 earlier in May."
+      - claim: "Bank Rate stands at 3.75%"
+        kind: numerical_with_unit
+        value: "3.75%"
+        source_urls:
+          - "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+        verbatim_excerpt: "The Bank Rate stands at 3.75%, and markets are pricing only one quarter-point hike for the full remainder of 2026."
+      - claim: "Unemployment has risen to around 5.0–5.1%"
+        kind: numerical_with_unit
+        value: "5.0–5.1%"
+        source_urls:
+          - "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+        verbatim_excerpt: "Unemployment has risen to around 5.0–5.1% and vacancies are at their lowest since April 2021."
+      - claim: "Vacancies at their lowest since April 2021"
+        kind: temporal
+        value: "April 2021"
+        source_urls:
+          - "https://www.exchangerates.org.uk/news/46051/2026-05-29-pound-sterling-today-markets-ignore-weak-us-growth-gbp-holds-firm.html"
+        verbatim_excerpt: "vacancies are at their lowest since April 2021."
+    quotes: []
+
+  - story_id: uk-econ-003
+    category: econ
+    headline_en: "UK Government agrees £3.64bn community pharmacy contract with 10.3% funding increase and independent prescribing powers"
+    lead_url: "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+    body_source: full
+    corroborated_by:
+      - "https://pharmaceutical-journal.com/article/news/nhs-funded-community-independent-prescribing-announced-as-part-of-pharmacy-contract"
+      - "https://www.nationalhealthexecutive.com/articles/community-pharmacies-deliver-expanded-role-under-new-ps340m-nhs-deal"
+    locked_urls:
+      - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+      - "https://pharmaceutical-journal.com/article/news/nhs-funded-community-independent-prescribing-announced-as-part-of-pharmacy-contract"
+      - "https://www.nationalhealthexecutive.com/articles/community-pharmacies-deliver-expanded-role-under-new-ps340m-nhs-deal"
+    hard_facts:
+      - claim: "Total funding of £3.636 billion agreed"
+        kind: numerical_with_unit
+        value: "£3.636 billion"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "The agreement provides total funding of £3.636 billion — a 10.3% increase, equivalent to £340 million"
+      - claim: "Funding increase of 10.3%, equivalent to £340 million"
+        kind: numerical_with_unit
+        value: "10.3%"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "a 10.3% increase, equivalent to £340 million"
+      - claim: "Waiver of up to £239 million in historic over-paid funding"
+        kind: numerical_with_unit
+        value: "£239 million"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "a waiver of up to £239 million in historic over-paid funding that would otherwise have been clawed back from the sector"
+      - claim: "Single activity fee rises by 6 pence to £1.52"
+        kind: numerical_with_unit
+        value: "£1.52"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "The single activity fee paid per consultation will rise by 6 pence to £1.52."
+      - claim: "Pharmacy First recorded 3.3 million consultations between March 2025 and February 2026"
+        kind: numerical
+        value: "3.3 million"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "The Pharmacy First service recorded 3.3 million consultations between March 2025 and February 2026"
+      - claim: "43% year-on-year increase in Pharmacy First consultations"
+        kind: numerical_with_unit
+        value: "43%"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "a 43% year-on-year increase, with 86% of patients reporting positive experiences"
+      - claim: "86% of patients reported positive experiences"
+        kind: numerical_with_unit
+        value: "86%"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "with 86% of patients reporting positive experiences"
+      - claim: "NPA identified £2.5 billion funding gap"
+        kind: numerical_with_unit
+        value: "£2.5 billion"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "The National Pharmacy Association described the contract as \"broken beyond repair,\" citing a £2.5 billion identified funding gap."
+      - claim: "Community pharmacists with independent prescribing qualifications will prescribe from autumn 2026"
+        kind: temporal
+        value: "autumn 2026"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "from autumn 2026 community pharmacists with independent prescribing qualifications will, for the first time, be able to assess patients and prescribe NHS medicines directly"
+      - claim: "Stephen Kinnock is Pharmacy Minister"
+        kind: named_person
+        value: "Stephen Kinnock"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "Pharmacy Minister Stephen Kinnock said"
+      - claim: "David Webb is Chief Pharmaceutical Officer"
+        kind: named_person
+        value: "David Webb"
+        source_urls:
+          - "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        verbatim_excerpt: "Chief Pharmaceutical Officer David Webb stated"
+    quotes:
+      - speaker_name: "Stephen Kinnock"
+        speaker_title: "Pharmacy Minister"
+        verbatim_en: "Through our landmark 10 Year Health Plan, we are making the most of our highly skilled pharmacists, while boosting access to services and giving patients more care right on their doorstep."
+        source_url: "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        context: "Commenting on the new community pharmacy contract agreement"
+      - speaker_name: "David Webb"
+        speaker_title: "Chief Pharmaceutical Officer"
+        verbatim_en: "This is great news for patients that community pharmacists will for the first time be able to prescribe NHS medicines across a range of health conditions."
+        source_url: "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        context: "Welcoming the new independent prescribing provisions"
+      - speaker_name: "Malcolm Harrison"
+        speaker_title: "Company Chemists' Association"
+        verbatim_en: "a generational opportunity"
+        source_url: "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        context: "Harrison's characterisation of the contract, though he warned sector needs above-inflation funding increases"
+      - speaker_name: "Malcolm Harrison"
+        speaker_title: "Company Chemists' Association"
+        verbatim_en: "needs year-on-year above inflation increases in funding"
+        source_url: "https://www.gov.uk/government/publications/community-pharmacy-contractual-framework-financial-year-2026-to-2027"
+        context: "Harrison's warning about funding sustainability"
+
+  - story_id: uk-politics-001
+    category: politics
+    headline_en: "Public Accounts Committee finds MoD recovers only 48p per £1 spent fighting fraud, as £1.5bn annual risk persists"
+    lead_url: "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+    body_source: full
+    corroborated_by:
+      - "https://www.lbc.co.uk/article/ministry-of-defence-tackle-apparent-normalisation-fraud-mps-5HjdZrW_2/"
+      - "https://ukdefencejournal.org.uk/pac-warns-mod-fraud-risk-is-vast-as-recoveries-fall-short/"
+    locked_urls:
+      - "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+      - "https://www.lbc.co.uk/article/ministry-of-defence-tackle-apparent-normalisation-fraud-mps-5HjdZrW_2/"
+      - "https://ukdefencejournal.org.uk/pac-warns-mod-fraud-risk-is-vast-as-recoveries-fall-short/"
+    hard_facts:
+      - claim: "MoD recovered only 48 pence for every pound spent on counter-fraud over 2021–25"
+        kind: numerical_with_unit
+        value: "48 pence per £1"
+        source_urls:
+          - "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        verbatim_excerpt: "the MoD recovered only 48 pence for every pound spent on counter-fraud activities, well below the government's stated benchmark of £3 returned for every £1 invested in fraud prevention"
+      - claim: "Government benchmark is £3 returned for every £1 invested in fraud prevention"
+        kind: numerical_with_unit
+        value: "£3 per £1"
+        source_urls:
+          - "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        verbatim_excerpt: "well below the government's stated benchmark of £3 returned for every £1 invested in fraud prevention"
+      - claim: "MoD annual fraud exposure approximately £1.5 billion"
+        kind: numerical_with_unit
+        value: "£1.5 billion"
+        source_urls:
+          - "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        verbatim_excerpt: "approximately £1.5 billion of public money exposed annually"
+      - claim: "In 2024–25, recovery rate improved to £1.34 per £1 spent"
+        kind: numerical_with_unit
+        value: "£1.34 per £1"
+        source_urls:
+          - "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        verbatim_excerpt: "In 2024–25, the recovery rate improved to £1.34 per £1 spent"
+      - claim: "MoD stopped approximately £400 million in contract payments judged invalid in 2024–25"
+        kind: numerical_with_unit
+        value: "£400 million"
+        source_urls:
+          - "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        verbatim_excerpt: "the department stopped approximately £400 million in contract payments it judged to be invalid"
+      - claim: "PAC recommended anti-fraud strategy to be developed by September 2026"
+        kind: temporal
+        value: "September 2026"
+        source_urls:
+          - "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        verbatim_excerpt: "called for a comprehensive anti-fraud strategy to be developed by September 2026"
+      - claim: "PAC Chair is Sir Geoffrey Clifton-Brown MP"
+        kind: named_person
+        value: "Sir Geoffrey Clifton-Brown"
+        source_urls:
+          - "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        verbatim_excerpt: "PAC Chair Sir Geoffrey Clifton-Brown MP stated"
+    quotes:
+      - speaker_name: "Sir Geoffrey Clifton-Brown"
+        speaker_title: "PAC Chair MP"
+        verbatim_en: "The MoD is far behind the curve in preventing the loss of precious public funds"
+        source_url: "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        context: "PAC Chair's assessment of MoD counter-fraud performance"
+      - speaker_name: "Sir Geoffrey Clifton-Brown"
+        speaker_title: "PAC Chair MP"
+        verbatim_en: "radical change of culture within the MoD"
+        source_url: "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        context: "Clifton-Brown's call for structural reform at the MoD"
+      - speaker_name: "MoD spokesperson"
+        speaker_title: "Ministry of Defence"
+        verbatim_en: "primarily relate to a period under the previous government"
+        source_url: "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        context: "MoD response to PAC fraud recovery figures"
+      - speaker_name: "David Reed"
+        speaker_title: "Shadow Defence Minister"
+        verbatim_en: "show it has a credible plan"
+        source_url: "https://committees.parliament.uk/committee/127/public-accounts-committee/news/213810/mods-lack-of-focus-and-leadership-leaves-valuable-public-funds-exposed-to-fraud/"
+        context: "Reed calling on government to demonstrate credible defence spending plan"
+
+  - story_id: uk-politics-002
+    category: politics
+    headline_en: "UK government plays down AUKUS workforce fears over potential staff drain from Barrow and Plymouth to Australia"
+    lead_url: "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+    hard_facts:
+      - claim: "BAE Systems Barrow workforce grew from just under 11,000 in 2023 to approximately 13,500"
+        kind: numerical
+        value: "13,500"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        verbatim_excerpt: "The workforce at BAE Systems' Barrow site has grown from just under 11,000 in 2023 to approximately 13,500"
+      - claim: "Barrow workforce plans to reach 17,000"
+        kind: numerical
+        value: "17,000"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        verbatim_excerpt: "with plans to reach 17,000 to support both the Dreadnought ballistic missile submarine programme and the forthcoming SSN-AUKUS class"
+      - claim: "Babcock requires an additional 5,500 workers over the coming decade"
+        kind: numerical
+        value: "5,500"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        verbatim_excerpt: "Babcock, responsible for submarine maintenance at Devonport, requires an additional 5,500 workers over the coming decade"
+      - claim: "SSN-AUKUS construction to begin in the late 2020s"
+        kind: temporal
+        value: "late 2020s"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        verbatim_excerpt: "The government confirmed SSN-AUKUS construction will begin in the late 2020s"
+      - claim: "Target of delivering one SSN-AUKUS boat every 18 months once production rate established"
+        kind: temporal
+        value: "every 18 months"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        verbatim_excerpt: "with a target of delivering one boat every 18 months once a production rate is established"
+      - claim: "Luke Pollard is Minister of State for Defence"
+        kind: named_person
+        value: "Luke Pollard"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        verbatim_excerpt: "Minister of State for Defence Luke Pollard acknowledged"
+      - claim: "Ben Obese-Jecty is Conservative MP"
+        kind: named_person
+        value: "Ben Obese-Jecty"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        verbatim_excerpt: "Conservative MP Ben Obese-Jecty raised the issue in a parliamentary question"
+    quotes:
+      - speaker_name: "Luke Pollard"
+        speaker_title: "Minister of State for Defence"
+        verbatim_en: "some movement of personnel is inevitable"
+        source_url: "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        context: "Pollard acknowledging workforce mobility under AUKUS Optimal Pathway"
+      - speaker_name: "Luke Pollard"
+        speaker_title: "Minister of State for Defence"
+        verbatim_en: "the UK's world-leading facilities will continue to attract the very best personnel"
+        source_url: "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        context: "Pollard playing down concerns about brain drain from UK submarine sites"
+      - speaker_name: "Luke Pollard"
+        speaker_title: "Minister of State for Defence"
+        verbatim_en: "the benefits of global mobility"
+        source_url: "https://ukdefencejournal.org.uk/government-plays-down-aukus-workforce-fears/"
+        context: "Pollard characterising AUKUS personnel movement as positive"
+
+  - story_id: uk-politics-003
+    category: politics
+    headline_en: "House of Lords debates fertility treatment regulation, Civil Aviation Bill, and Sporting Events Bill on 29 May as Commons sits in recess"
+    lead_url: "https://www.parliament.uk/business/news/2026/may-2026/short-debates-in-the-lords/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.parliament.uk/business/news/2026/may-2026/short-debates-in-the-lords/"
+    hard_facts:
+      - claim: "House of Commons in recess until 1 June 2026"
+        kind: temporal
+        value: "2026-06-01"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/short-debates-in-the-lords/"
+        verbatim_excerpt: "the House of Commons remained in recess until 1 June 2026"
+      - claim: "King Charles III opened the new parliamentary session on 13 May 2026 with the King's Speech"
+        kind: temporal
+        value: "2026-05-13"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/short-debates-in-the-lords/"
+        verbatim_excerpt: "King Charles III had opened the new parliamentary session on 13 May 2026 with the King's Speech"
+      - claim: "Labour government set out over 30 bills in King's Speech"
+        kind: numerical
+        value: "30"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/short-debates-in-the-lords/"
+        verbatim_excerpt: "setting out the Labour government's legislative agenda across more than 30 bills"
+      - claim: "Future short debates scheduled for Thursday 4 June 2026"
+        kind: temporal
+        value: "2026-06-04"
+        source_urls:
+          - "https://www.parliament.uk/business/news/2026/may-2026/short-debates-in-the-lords/"
+        verbatim_excerpt: "The House of Lords also scheduled future short debates for Thursday 4 June 2026"
+    quotes: []
+
+  - story_id: uk-tech-001
+    category: tech
+    headline_en: "UK MPs and campaigners warn dependence on US tech giants is becoming a national security risk"
+    lead_url: "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+    hard_facts:
+      - claim: "CMA estimated UK is overcharged by at least £500 million per year in the cloud market"
+        kind: numerical_with_unit
+        value: "£500 million"
+        source_urls:
+          - "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        verbatim_excerpt: "The Competition and Markets Authority has estimated the UK is overcharged by at least £500 million per year in the cloud market alone."
+      - claim: "Jim Killock is CEO of Open Rights Group"
+        kind: named_person
+        value: "Jim Killock"
+        source_urls:
+          - "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        verbatim_excerpt: "ORG CEO Jim Killock stated"
+      - claim: "Siân Berry MP represents the Greens"
+        kind: named_person
+        value: "Siân Berry"
+        source_urls:
+          - "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        verbatim_excerpt: "Siân Berry MP (Greens) called for digital sovereignty to be \"a top government objective\""
+      - claim: "Lord Clement-Jones is a Lib Dem peer"
+        kind: named_person
+        value: "Lord Clement-Jones"
+        source_urls:
+          - "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        verbatim_excerpt: "Lord Clement-Jones (Lib Dem peer) stated"
+      - claim: "Clive Lewis is a Labour MP who raised concerns about Palantir"
+        kind: named_person
+        value: "Clive Lewis"
+        source_urls:
+          - "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        verbatim_excerpt: "Labour MP Clive Lewis raised specific concerns about Palantir's adoption in UK public services."
+      - claim: "Cybersecurity and Resilience Bill is currently before Parliament"
+        kind: named_product
+        value: "Cybersecurity and Resilience Bill"
+        source_urls:
+          - "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        verbatim_excerpt: "The Cybersecurity and Resilience Bill, currently before Parliament, is cited as a rare opportunity"
+    quotes:
+      - speaker_name: "Jim Killock"
+        speaker_title: "CEO, Open Rights Group"
+        verbatim_en: "Over-reliance on foreign tech companies is an urgent national security issue and economic threat."
+        source_url: "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        context: "ORG CEO warning about UK's dependence on US technology firms"
+      - speaker_name: "Siân Berry"
+        speaker_title: "MP, Greens"
+        verbatim_en: "a top government objective"
+        source_url: "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        context: "Berry calling for digital sovereignty to be a government priority"
+      - speaker_name: "Lord Clement-Jones"
+        speaker_title: "Lib Dem peer"
+        verbatim_en: "Every procurement decision embedding foreign dependency accumulates strategic vulnerability."
+        source_url: "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        context: "Clement-Jones warning about long-term risks of tech dependency"
+      - speaker_name: "James Baker"
+        speaker_title: "Platform Power Programme Manager, Open Rights Group"
+        verbatim_en: "Just as relying on one country for the UK's energy needs would be risky and irresponsible, so is overreliance on US companies."
+        source_url: "https://www.computing.co.uk/news/2026/government/mps-campaigners-warn-uk-dependence-on-us-tech-firms-is-becoming-a-national-security-risk"
+        context: "Baker drawing analogy between energy dependency and tech dependency"
+
+  - story_id: uk-tech-002
+    category: tech
+    headline_en: "ICO automated decision-making consultation closes; regulator sets new expectations for AI use in UK recruitment"
+    lead_url: "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/"
+    hard_facts:
+      - claim: "ICO consultation on ADM closed at 23:59 GMT on 29 May 2026"
+        kind: temporal
+        value: "2026-05-29"
+        source_urls:
+          - "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/"
+        verbatim_excerpt: "The UK Information Commissioner's Office's (ICO) three-month public consultation on its draft updated guidance on automated decision-making (ADM) and profiling closed at 23:59 GMT on 29 May 2026."
+      - claim: "Consultation launched on 31 March 2026"
+        kind: temporal
+        value: "2026-03-31"
+        source_urls:
+          - "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/"
+        verbatim_excerpt: "The consultation, launched on 31 March 2026"
+      - claim: "Data (Use and Access) Act 2025 (DUAA) took effect on 5 February 2026"
+        kind: temporal
+        value: "2026-02-05"
+        source_urls:
+          - "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/"
+        verbatim_excerpt: "changes to the UK GDPR's ADM regime introduced under the Data (Use and Access) Act 2025 (DUAA), which took effect on 5 February 2026"
+      - claim: "New right to raise data protection complaints directly with organisations comes into force on 19 June 2026"
+        kind: temporal
+        value: "2026-06-19"
+        source_urls:
+          - "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/"
+        verbatim_excerpt: "A new right to raise data protection complaints directly with organisations comes into force on 19 June 2026."
+      - claim: "Final ICO guidance expected in summer 2026"
+        kind: temporal
+        value: "summer 2026"
+        source_urls:
+          - "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/"
+        verbatim_excerpt: "The ICO indicated that final guidance is expected in summer 2026 following analysis of responses."
+      - claim: "Data (Use and Access) Act 2025 is the legislative instrument"
+        kind: named_product
+        value: "Data (Use and Access) Act 2025"
+        source_urls:
+          - "https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/03/ico-consultation-on-the-draft-guidance-about-automated-decision-making-including-profiling/"
+        verbatim_excerpt: "the Data (Use and Access) Act 2025 (DUAA), which took effect on 5 February 2026"
+    quotes: []
+
+  - story_id: uk-tech-003
+    category: tech
+    headline_en: "UK government launches Naval Support Integrated Global Network programme; sets scope of Royal Navy's new support framework"
+    lead_url: "https://ukdefencejournal.org.uk/government-sets-scope-of-new-royal-navy-support-programme/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://ukdefencejournal.org.uk/government-sets-scope-of-new-royal-navy-support-programme/"
+    hard_facts:
+      - claim: "Programme name is Naval Support Integrated Global Network (NSIGN)"
+        kind: named_product
+        value: "Naval Support Integrated Global Network (NSIGN)"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-sets-scope-of-new-royal-navy-support-programme/"
+        verbatim_excerpt: "The UK government on 29 May 2026 outlined the full scope of the Naval Support Integrated Global Network (NSIGN) programme"
+      - claim: "Babcock International, BAE Systems Maritime, and Rolls-Royce are key industrial partners"
+        kind: named_institution
+        value: "Babcock International; BAE Systems Maritime; Rolls-Royce"
+        source_urls:
+          - "https://ukdefencejournal.org.uk/government-sets-scope-of-new-royal-navy-support-programme/"
+        verbatim_excerpt: "the roles of key industrial partners such as Babcock International, BAE Systems Maritime, and Rolls-Royce"
+    quotes: []
+
+  - story_id: uk-society-001
+    category: society
+    headline_en: "Luton Arriva bus engineers conclude final leg of strike over sexual harassment; Unite threatens escalation"
+    lead_url: "https://www.unitetheunion.org/news-events/news/2026/april/luton-arriva-bus-engineers-strike-over-serious-sexual-harassment-and-assault-issues"
+    body_source: full
+    corroborated_by:
+      - "https://www.thecomet.net/news/26049927.arriva-staff-confirm-strike-sexual-assault-claims/"
+    locked_urls:
+      - "https://www.unitetheunion.org/news-events/news/2026/april/luton-arriva-bus-engineers-strike-over-serious-sexual-harassment-and-assault-issues"
+      - "https://www.thecomet.net/news/26049927.arriva-staff-confirm-strike-sexual-assault-claims/"
+    hard_facts:
+      - claim: "Three blocks of strike action: 27 April to 1 May, 11 May to 15 May, and 25 May to 29 May"
+        kind: temporal
+        value: "27 April – 29 May 2026"
+        source_urls:
+          - "https://www.unitetheunion.org/news-events/news/2026/april/luton-arriva-bus-engineers-strike-over-serious-sexual-harassment-and-assault-issues"
+        verbatim_excerpt: "The three blocks of industrial action — 27 April to 1 May, 11 May to 15 May, and 25 May to 29 May — were called by Unite"
+      - claim: "A man in his 30s from Stevenage, employed in a managerial role, was arrested and released on bail"
+        kind: named_institution
+        value: "Bedfordshire Police"
+        source_urls:
+          - "https://www.unitetheunion.org/news-events/news/2026/april/luton-arriva-bus-engineers-strike-over-serious-sexual-harassment-and-assault-issues"
+        verbatim_excerpt: "Bedfordshire Police is investigating sexual assault allegations, and a man in his 30s from Stevenage, employed in a managerial role, was arrested and released on bail."
+      - claim: "Sharon Graham is Unite General Secretary"
+        kind: named_person
+        value: "Sharon Graham"
+        source_urls:
+          - "https://www.unitetheunion.org/news-events/news/2026/april/luton-arriva-bus-engineers-strike-over-serious-sexual-harassment-and-assault-issues"
+        verbatim_excerpt: "Unite General Secretary Sharon Graham said"
+      - claim: "Jeff Hodge is Unite Regional Officer"
+        kind: named_person
+        value: "Jeff Hodge"
+        source_urls:
+          - "https://www.unitetheunion.org/news-events/news/2026/april/luton-arriva-bus-engineers-strike-over-serious-sexual-harassment-and-assault-issues"
+        verbatim_excerpt: "Unite Regional Officer Jeff Hodge stated"
+    quotes:
+      - speaker_name: "Sharon Graham"
+        speaker_title: "General Secretary, Unite"
+        verbatim_en: "Arriva's handling of this dreadful situation is despicable — it brings shame on the entire company."
+        source_url: "https://www.unitetheunion.org/news-events/news/2026/april/luton-arriva-bus-engineers-strike-over-serious-sexual-harassment-and-assault-issues"
+        context: "Graham condemning Arriva's response to sexual harassment allegations at Luton depot"
+      - speaker_name: "Jeff Hodge"
+        speaker_title: "Regional Officer, Unite"
+        verbatim_en: "Arriva is entirely responsible for the disruption that will be caused to services."
+        source_url: "https://www.unitetheunion.org/news-events/news/2026/april/luton-arriva-bus-engineers-strike-over-serious-sexual-harassment-and-assault-issues"
+        context: "Hodge placing responsibility for service disruption on Arriva management"
+
+  - story_id: uk-society-002
+    category: society
+    headline_en: "UK half-term bank holiday travel disrupted by Heathrow rail signal failure and Piccadilly Line suspension"
+    lead_url: "https://www.travelandtourworld.com/news/article/rnydatwxdkwq/"
+    body_source: full
+    corroborated_by:
+      - "https://www.nationalrail.co.uk/travel-information/may-bank-holidays/"
+    locked_urls:
+      - "https://www.travelandtourworld.com/news/article/rnydatwxdkwq/"
+      - "https://www.nationalrail.co.uk/travel-information/may-bank-holidays/"
+    hard_facts:
+      - claim: "Heathrow Express services reduced to only two trains per hour in each direction"
+        kind: numerical
+        value: "2"
+        source_urls:
+          - "https://www.travelandtourworld.com/news/article/rnydatwxdkwq/"
+        verbatim_excerpt: "Heathrow Express services were reduced to only two trains per hour in each direction"
+      - claim: "No Piccadilly Line service to or from Heathrow from Thursday 28 May through Sunday 31 May 2026"
+        kind: temporal
+        value: "28–31 May 2026"
+        source_urls:
+          - "https://www.travelandtourworld.com/news/article/rnydatwxdkwq/"
+        verbatim_excerpt: "there was no Piccadilly Line London Underground service to or from Heathrow (any terminal) from Thursday 28 May through Sunday 31 May 2026, due to planned engineering works"
+      - claim: "English schools' Whit half-term ran 25–29 May 2026"
+        kind: temporal
+        value: "25–29 May 2026"
+        source_urls:
+          - "https://www.travelandtourworld.com/news/article/rnydatwxdkwq/"
+        verbatim_excerpt: "The disruptions coincided with the final day of English schools' Whit half-term (25–29 May 2026)"
+      - claim: "RMT planned tube strike action for May 19–22 had been suspended"
+        kind: temporal
+        value: "19–22 May 2026"
+        source_urls:
+          - "https://www.travelandtourworld.com/news/article/rnydatwxdkwq/"
+        verbatim_excerpt: "RMT planned tube strike action for May 19–22 had been suspended following last-minute negotiations"
+      - claim: "Further walkouts threatened for 2–3 and 4–5 June 2026"
+        kind: temporal
+        value: "2–5 June 2026"
+        source_urls:
+          - "https://www.travelandtourworld.com/news/article/rnydatwxdkwq/"
+        verbatim_excerpt: "further walkouts were threatened for 2–3 and 4–5 June 2026 over a disputed compressed four-day working week roster"
+    quotes: []
+
+  - story_id: uk-ipo_ma-001
+    category: ipo_ma
+    headline_en: "Ocado Group and Asda announce ecommerce partnership: Ocado Smart Platform to replace and upgrade Asda's online infrastructure from 2027"
+    lead_url: "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+    body_source: full
+    corroborated_by:
+      - "https://www.proactiveinvestors.co.uk/companies/news/ocado-asda-partnership"
+      - "https://www.grocerygazette.co.uk/ocado-asda-partnership"
+    locked_urls:
+      - "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+      - "https://www.proactiveinvestors.co.uk/companies/news/ocado-asda-partnership"
+      - "https://www.grocerygazette.co.uk/ocado-asda-partnership"
+    hard_facts:
+      - claim: "Asda operates approximately 1,100 stores nationwide"
+        kind: numerical
+        value: "1,100"
+        source_urls:
+          - "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        verbatim_excerpt: "Asda is one of the UK's largest retailers, operating approximately 1,100 stores nationwide"
+      - claim: "Asda recorded total sales exceeding £21 billion in 2025"
+        kind: numerical_with_unit
+        value: "£21 billion"
+        source_urls:
+          - "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        verbatim_excerpt: "recording total sales exceeding £21 billion in 2025"
+      - claim: "Asda fulfils over 700,000 ecommerce orders weekly"
+        kind: numerical
+        value: "700,000"
+        source_urls:
+          - "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        verbatim_excerpt: "The supermarket currently fulfils over 700,000 ecommerce orders weekly."
+      - claim: "OSP rollout targeted for go-live early 2027"
+        kind: temporal
+        value: "early 2027"
+        source_urls:
+          - "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        verbatim_excerpt: "Ocado's solutions to be rolled out across Asda's stores and dark stores from 2027, with go-live targeted for early 2027"
+      - claim: "Ocado anticipates achieving cash flow positivity in H2 FY26, full-year positivity in FY27"
+        kind: temporal
+        value: "H2 FY26 / FY27"
+        source_urls:
+          - "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        verbatim_excerpt: "Ocado separately anticipates achieving cash flow positivity in H2 FY26, with full-year positivity projected for FY27."
+      - claim: "Tim Steiner is CEO of Ocado"
+        kind: named_person
+        value: "Tim Steiner"
+        source_urls:
+          - "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        verbatim_excerpt: "Ocado CEO Tim Steiner said"
+      - claim: "Allan Leighton is Asda Executive Chairman"
+        kind: named_person
+        value: "Allan Leighton"
+        source_urls:
+          - "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        verbatim_excerpt: "Asda Executive Chairman Allan Leighton said"
+    quotes:
+      - speaker_name: "Tim Steiner"
+        speaker_title: "CEO, Ocado Group"
+        verbatim_en: "The UK remains one of the world's most competitive online grocery markets"
+        source_url: "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        context: "Steiner commenting on the Ocado-Asda partnership announcement"
+      - speaker_name: "Allan Leighton"
+        speaker_title: "Executive Chairman, Asda"
+        verbatim_en: "strengthen our online offer"
+        source_url: "https://www.ocadogroup.com/newsroom/news/ocado-group-and-asda-to-enter-ecommerce-partnership"
+        context: "Leighton on the expected benefit of the Ocado partnership for Asda"
+
+  - story_id: uk-ipo_ma-002
+    category: ipo_ma
+    headline_en: "CelLBxHealth (AIM:CLBX) shares surge 36% after master services agreement with AstraZeneca for circulating tumour cell analytics in clinical trials"
+    lead_url: "https://www.proactiveinvestors.co.uk/companies/news/1093099/cellbxhealth-shares-jump-36-after-master-services-agreement-with-astrazeneca-1093099.html"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.proactiveinvestors.co.uk/companies/news/1093099/cellbxhealth-shares-jump-36-after-master-services-agreement-with-astrazeneca-1093099.html"
+    hard_facts:
+      - claim: "CelLBxHealth PLC trades on AIM with ticker CLBX"
+        kind: named_institution
+        value: "CelLBxHealth PLC (AIM:CLBX)"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093099/cellbxhealth-shares-jump-36-after-master-services-agreement-with-astrazeneca-1093099.html"
+        verbatim_excerpt: "CelLBxHealth PLC (AIM:CLBX), a UK-listed oncology diagnostics company"
+      - claim: "MSA announcement was made at 07:22 BST on 29 May 2026"
+        kind: temporal
+        value: "07:22 BST, 2026-05-29"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093099/cellbxhealth-shares-jump-36-after-master-services-agreement-with-astrazeneca-1093099.html"
+        verbatim_excerpt: "announced on 29 May 2026 at 07:22 BST"
+      - claim: "CelLBxHealth shares rose 36% to 2.35p following the announcement"
+        kind: numerical_with_unit
+        value: "36% / 2.35p"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093099/cellbxhealth-shares-jump-36-after-master-services-agreement-with-astrazeneca-1093099.html"
+        verbatim_excerpt: "CelLBxHealth shares rose 36% to 2.35p following the announcement"
+      - claim: "Peter Collins is CEO of CelLBxHealth"
+        kind: named_person
+        value: "Peter Collins"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093099/cellbxhealth-shares-jump-36-after-master-services-agreement-with-astrazeneca-1093099.html"
+        verbatim_excerpt: "CEO Peter Collins stated"
+      - claim: "AstraZeneca trades as AZN on the LSE"
+        kind: named_institution
+        value: "AstraZeneca PLC (LSE:AZN)"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093099/cellbxhealth-shares-jump-36-after-master-services-agreement-with-astrazeneca-1093099.html"
+        verbatim_excerpt: "AstraZeneca PLC (LSE:AZN)"
+    quotes:
+      - speaker_name: "Peter Collins"
+        speaker_title: "CEO, CelLBxHealth"
+        verbatim_en: "strong and productive outcomes"
+        source_url: "https://www.proactiveinvestors.co.uk/companies/news/1093099/cellbxhealth-shares-jump-36-after-master-services-agreement-with-astrazeneca-1093099.html"
+        context: "Collins on anticipated results from the AstraZeneca MSA framework"
+
+  - story_id: uk-ipo_ma-003
+    category: ipo_ma
+    headline_en: "Clean Power Hydrogen (AIM:CPH2) suspends trading after testing incident damages flagship 1MW electrolyser; fundraise derailed"
+    lead_url: "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+    hard_facts:
+      - claim: "Clean Power Hydrogen PLC trades on AIM with ticker CPH2"
+        kind: named_institution
+        value: "Clean Power Hydrogen PLC (AIM:CPH2)"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        verbatim_excerpt: "Clean Power Hydrogen PLC (AIM:CPH2), a UK-listed hydrogen technology developer"
+      - claim: "Trading suspended from 07:30 BST on 29 May 2026"
+        kind: temporal
+        value: "07:30 BST, 2026-05-29"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        verbatim_excerpt: "suspension of its ordinary shares from trading on AIM with effect from 07:30 BST on 29 May 2026"
+      - claim: "Incident occurred during third and final stage of Factory Acceptance Testing of the 1MW MFE220 electrolyser"
+        kind: named_product
+        value: "MFE220 electrolyser"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        verbatim_excerpt: "Factory Acceptance Testing (FAT) of the company's flagship 1MW MFE220 electrolyser unit"
+      - claim: "Facility is at Rossington, near Doncaster, South Yorkshire"
+        kind: named_institution
+        value: "Rossington facility, Doncaster, South Yorkshire"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        verbatim_excerpt: "at its facility in Rossington, near Doncaster, South Yorkshire"
+      - claim: "Company lacks sufficient working capital to continue operating normally"
+        kind: named_institution
+        value: "Clean Power Hydrogen PLC"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        verbatim_excerpt: "Clean Power Hydrogen stated it lacks \"sufficient working capital to continue operating normally\""
+      - claim: "Jon Duffy is CEO of Clean Power Hydrogen"
+        kind: named_person
+        value: "Jon Duffy"
+        source_urls:
+          - "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        verbatim_excerpt: "CEO Jon Duffy described the outcome as \"disappointing\""
+    quotes:
+      - speaker_name: "Jon Duffy"
+        speaker_title: "CEO, Clean Power Hydrogen"
+        verbatim_en: "disappointing"
+        source_url: "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        context: "Duffy describing the electrolyser testing incident"
+      - speaker_name: "Jon Duffy"
+        speaker_title: "CEO, Clean Power Hydrogen"
+        verbatim_en: "begin work immediately to resolve the tech"
+        source_url: "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        context: "Duffy committing to fix the electrolyser issue"
+      - speaker_name: "Clean Power Hydrogen"
+        speaker_title: "Company statement"
+        verbatim_en: "sufficient working capital to continue operating normally"
+        source_url: "https://www.proactiveinvestors.co.uk/companies/news/1093109/clean-power-hydrogen-shares-suspended-after-testing-incident-damages-flagship-electrolyser-unit-1093109.html"
+        context: "Company disclosure that it lacks sufficient working capital"
+
+  - story_id: uk-other-001
+    category: other
+    headline_en: "PM Starmer meets Archbishop of Canterbury to discuss social cohesion, rising antisemitism, and Iran war impact on UK communities"
+    lead_url: "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+    hard_facts:
+      - claim: "PM Starmer met Archbishop of Canterbury at 10 Downing Street on 29 May 2026"
+        kind: temporal
+        value: "2026-05-29"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "On 29 May 2026, Prime Minister Sir Keir Starmer met Dame Sarah Mullally, the Archbishop of Canterbury, at 10 Downing Street"
+      - claim: "Dame Sarah Mullally is the Archbishop of Canterbury"
+        kind: named_person
+        value: "Dame Sarah Mullally"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "Prime Minister Sir Keir Starmer met Dame Sarah Mullally, the Archbishop of Canterbury"
+      - claim: "Keir Starmer is Prime Minister"
+        kind: named_person
+        value: "Sir Keir Starmer"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "Prime Minister Sir Keir Starmer"
+    quotes:
+      - speaker_name: "Number Ten spokesperson"
+        speaker_title: "10 Downing Street"
+        verbatim_en: "the importance of social cohesion, inter-faith relationships and celebrating the UK's diverse communities in the face of division, including rising antisemitism and anti-Muslim hostility"
+        source_url: "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        context: "Number Ten describing the focus of the Starmer-Mullally meeting"
+
+  - story_id: uk-other-002
+    category: other
+    headline_en: "British Museum postpones Jewish culture month lecture on ancient Israel after disruption threat; hate crime investigation follows Dame Helen Mirren antisemitic accosting"
+    lead_url: "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+    hard_facts:
+      - claim: "British Museum postponed a lecture about ancient Israel and Judah on 29 May 2026"
+        kind: temporal
+        value: "2026-05-29"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "On 29 May 2026, the British Museum announced the postponement of a lecture about ancient Israel and Judah"
+      - claim: "Museum gave 24 hours' notice of the cancellation"
+        kind: temporal
+        value: "24 hours"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "The museum gave 24 hours' notice of the cancellation"
+      - claim: "Metropolitan Police investigating hate crime incident involving Dame Helen Mirren"
+        kind: named_institution
+        value: "Metropolitan Police"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "Metropolitan Police in London confirmed they are investigating a hate crime incident in which pro-Palestine activists accosted Dame Helen Mirren"
+      - claim: "Incident took place near Tower Bridge in London"
+        kind: named_institution
+        value: "Tower Bridge, London"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "accosted Dame Helen Mirren, the Oscar-winning British actress, near Tower Bridge in London"
+      - claim: "Dame Helen Mirren is described as an Oscar-winning British actress"
+        kind: named_person
+        value: "Dame Helen Mirren"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "Dame Helen Mirren, the Oscar-winning British actress"
+    quotes:
+      - speaker_name: "Campaign Against Antisemitism"
+        speaker_title: "Campaign organisation"
+        verbatim_en: "intimidation, mob behaviour and extremism"
+        source_url: "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        context: "Campaign Against Antisemitism condemning the accosting of Dame Helen Mirren"
+      - speaker_name: "British Museum"
+        speaker_title: "Institutional statement"
+        verbatim_en: "proceeded safely without intimidation"
+        source_url: "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        context: "British Museum explaining the postponement of the ancient Israel lecture"
+      - speaker_name: "British Museum"
+        speaker_title: "Institutional statement"
+        verbatim_en: "a significant proportion of the attendees were individuals intending to deliberately disrupt the event"
+        source_url: "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        context: "British Museum's stated reason for postponing the lecture"
+
+  - story_id: uk-other-003
+    category: other
+    headline_en: "Arsenal win Premier League title; Crystal Palace win European Conference League; faith communities prominent at victory celebrations"
+    lead_url: "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+    hard_facts:
+      - claim: "Arsenal Football Club have won the Premier League title"
+        kind: named_institution
+        value: "Arsenal Football Club"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "Arsenal Football Club have won the Premier League title"
+      - claim: "Crystal Palace won the UEFA European Conference League"
+        kind: named_institution
+        value: "Crystal Palace"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "Crystal Palace won the UEFA European Conference League — their first major European trophy"
+      - claim: "Femi Koleoso is described as a Christian jazz drummer"
+        kind: named_person
+        value: "Femi Koleoso"
+        source_urls:
+          - "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-29-may-2026/"
+        verbatim_excerpt: "Christian jazz drummer Femi Koleoso headlining the victory parade event"
+    quotes: []
