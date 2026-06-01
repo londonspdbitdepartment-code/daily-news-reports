@@ -1,0 +1,1205 @@
+version: 1
+generated_at: "2026-06-01T12:00:00Z"
+country: Europe
+date: "2026-06-01"
+total_stories: 8
+stories:
+  - story_id: ecb-consumer-expectations-survey-april-2026
+    category: econ
+    headline_en: ECB Consumer Expectations Survey (April 2026)
+    lead_url: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+    hard_facts:
+      - claim: survey release date
+        kind: temporal
+        value: "1 June 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "released on 1 June 2026"
+      - claim: survey reference month
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Consumer Expectations Survey (CES) for April 2026"
+      - claim: three-year inflation expectations (April 2026)
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "three-year inflation expectations eased modestly to 2.9% from 3.0% in March"
+      - claim: three-year inflation expectations prior month (March)
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "eased modestly to 2.9% from 3.0% in March"
+      - claim: five-year inflation expectations
+        kind: numerical_with_unit
+        value: "2.4%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "the five-year horizon remained anchored at 2.4%"
+      - claim: perceived inflation over previous 12 months (April 2026)
+        kind: numerical_with_unit
+        value: "4.0%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Perceived inflation over the previous 12 months rose to 4.0% from 3.5%"
+      - claim: perceived inflation over previous 12 months prior reading
+        kind: numerical_with_unit
+        value: "3.5%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "rose to 4.0% from 3.5%"
+      - claim: 12-month-ahead inflation expectations
+        kind: numerical_with_unit
+        value: "4.0%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "12-month-ahead expectations held steady at 4.0%"
+      - claim: fieldwork consumer count
+        kind: numerical_with_unit
+        value: "~19,000 adult consumers"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Fieldwork covered ~19,000 adult consumers across 11 euro area countries"
+      - claim: number of euro area countries surveyed
+        kind: numerical
+        value: "11"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "across 11 euro area countries (Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: fieldwork start date
+        kind: temporal
+        value: "2 April"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "between 2 April and 4 May 2026"
+      - claim: fieldwork end date
+        kind: temporal
+        value: "4 May 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "between 2 April and 4 May 2026"
+      - claim: nominal income growth expectations next 12 months (April 2026)
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Nominal income growth expectations for the next 12 months fell to 0.8% from 1.2%"
+      - claim: nominal income growth expectations prior reading
+        kind: numerical_with_unit
+        value: "1.2%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "fell to 0.8% from 1.2%"
+      - claim: expected nominal spending growth next 12 months (April 2026)
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Expected nominal spending growth for next 12 months rose to 4.3% from 4.1%"
+      - claim: expected nominal spending growth prior reading
+        kind: numerical_with_unit
+        value: "4.1%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "rose to 4.3% from 4.1%"
+      - claim: economic growth expectations 12 months ahead (April 2026)
+        kind: numerical_with_unit
+        value: "-2.2%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Economic growth expectations: -2.2% from -2.1%"
+      - claim: economic growth expectations prior reading
+        kind: numerical_with_unit
+        value: "-2.1%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Economic growth expectations: -2.2% from -2.1%"
+      - claim: unemployment rate expected 12 months ahead (April 2026)
+        kind: numerical_with_unit
+        value: "11.2%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Unemployment rate 12 months ahead expected: 11.2% from 11.3%"
+      - claim: unemployment rate expected prior reading
+        kind: numerical_with_unit
+        value: "11.3%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Unemployment rate 12 months ahead expected: 11.2% from 11.3%"
+      - claim: home price growth expectations
+        kind: numerical_with_unit
+        value: "3.7%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Home price growth expectations: flat at 3.7%"
+      - claim: expected mortgage rates
+        kind: numerical_with_unit
+        value: "4.9%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Expected mortgage rates: unchanged at 4.9%"
+      - claim: credit tightening reference benchmark date
+        kind: temporal
+        value: "February 2024"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Net tightening of credit access at \"highest level since February 2024.\""
+      - claim: share applying for credit (April 2026)
+        kind: numerical_with_unit
+        value: "13.4%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "Share applying for credit: 13.4% (lowest since April 2023)"
+      - claim: share applying for credit historical low reference date
+        kind: temporal
+        value: "April 2023"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "13.4% (lowest since April 2023)"
+      - claim: surveyed country — Belgium
+        kind: named_institution
+        value: Belgium
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Germany
+        kind: named_institution
+        value: Germany
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Ireland
+        kind: named_institution
+        value: Ireland
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Greece
+        kind: named_institution
+        value: Greece
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Spain
+        kind: named_institution
+        value: Spain
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — France
+        kind: named_institution
+        value: France
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Italy
+        kind: named_institution
+        value: Italy
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Netherlands
+        kind: named_institution
+        value: the Netherlands
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Austria
+        kind: named_institution
+        value: Austria
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Portugal
+        kind: named_institution
+        value: Portugal
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: surveyed country — Finland
+        kind: named_institution
+        value: Finland
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "(Belgium, Germany, Ireland, Greece, Spain, France, Italy, the Netherlands, Austria, Portugal, Finland)"
+      - claim: survey name
+        kind: named_product
+        value: Consumer Expectations Survey (CES)
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "ECB's monthly Consumer Expectations Survey (CES) for April 2026"
+      - claim: publishing institution
+        kind: named_institution
+        value: ECB
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260601~bf8026bfc2.en.html
+        verbatim_excerpt: "The ECB's monthly Consumer Expectations Survey"
+    quotes: []
+
+  - story_id: ecb-monetary-developments-m3-april-2026
+    category: econ
+    headline_en: "ECB Monetary Developments (April 2026): M3 Growth Decelerates to 2.7%"
+    lead_url: https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+    hard_facts:
+      - claim: release date
+        kind: temporal
+        value: "1 June 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Released 1 June 2026"
+      - claim: M3 annual growth (April 2026)
+        kind: numerical_with_unit
+        value: "2.7%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "M3 annual growth: 2.7% in April from 3.2% in March"
+      - claim: M3 annual growth prior month (March)
+        kind: numerical_with_unit
+        value: "3.2%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "2.7% in April from 3.2% in March"
+      - claim: M3 three-month average
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "three-month average 3.0%"
+      - claim: M1 annual growth (April 2026)
+        kind: numerical_with_unit
+        value: "3.8%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "M1: 3.8% from 4.7%"
+      - claim: M1 annual growth prior month
+        kind: numerical_with_unit
+        value: "4.7%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "M1: 3.8% from 4.7%"
+      - claim: short-term deposits (M2-M1) annual growth (April 2026)
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Short-term deposits (M2-M1): 0.8% from -0.1%"
+      - claim: short-term deposits (M2-M1) annual growth prior month
+        kind: numerical_with_unit
+        value: "-0.1%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Short-term deposits (M2-M1): 0.8% from -0.1%"
+      - claim: marketable instruments annual growth (April 2026)
+        kind: numerical_with_unit
+        value: "1.1%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Marketable instruments: 1.1% from 4.2%"
+      - claim: marketable instruments annual growth prior month
+        kind: numerical_with_unit
+        value: "4.2%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Marketable instruments: 1.1% from 4.2%"
+      - claim: household deposits annual growth
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Household deposits: 2.9%"
+      - claim: investment fund deposits annual growth (April 2026)
+        kind: numerical_with_unit
+        value: "-5.7%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Investment fund deposits: -5.7% from 3.1%"
+      - claim: investment fund deposits annual growth prior month
+        kind: numerical_with_unit
+        value: "3.1%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Investment fund deposits: -5.7% from 3.1%"
+      - claim: claims on private sector contribution to M3
+        kind: numerical_with_unit
+        value: "+2.9 pp"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Claims on private sector +2.9 pp"
+      - claim: net external assets contribution to M3
+        kind: numerical_with_unit
+        value: "+1.9 pp"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "net external assets +1.9 pp"
+      - claim: general government contribution to M3
+        kind: numerical_with_unit
+        value: "-0.2 pp"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "general government -0.2 pp"
+      - claim: adjusted loans to households YoY growth
+        kind: numerical_with_unit
+        value: "3.0% YoY"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Adjusted loans to households: 3.0% YoY (unchanged)"
+      - claim: adjusted loans to non-financial corporations YoY growth (April 2026)
+        kind: numerical_with_unit
+        value: "3.4%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Adjusted loans to non-financial corporations: 3.4% from 3.2%"
+      - claim: adjusted loans to non-financial corporations YoY growth prior month
+        kind: numerical_with_unit
+        value: "3.2%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Adjusted loans to non-financial corporations: 3.4% from 3.2%"
+      - claim: publishing institution
+        kind: named_institution
+        value: ECB
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/md/html/ecb.md2604~8af9bdc7d9.en.html
+        verbatim_excerpt: "Released 1 June 2026"
+    quotes: []
+
+  - story_id: hungary-constitutional-amendment-president
+    category: politics
+    headline_en: Hungary Constitutional Amendment
+    lead_url: https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+    hard_facts:
+      - claim: Hungarian PM name
+        kind: named_person
+        value: Péter Magyar
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Hungarian PM Péter Magyar (took office April 2026"
+      - claim: Péter Magyar took office date
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "took office April 2026"
+      - claim: Magyar's party name
+        kind: named_institution
+        value: Tisza party
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Tisza party won two-thirds parliamentary majority defeating Viktor Orbán's Fidesz"
+      - claim: Tisza party parliamentary majority
+        kind: numerical_with_unit
+        value: "two-thirds parliamentary majority"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Tisza party won two-thirds parliamentary majority defeating Viktor Orbán's Fidesz"
+      - claim: defeated party name
+        kind: named_institution
+        value: Fidesz
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "defeating Viktor Orbán's Fidesz"
+      - claim: former Hungarian PM name
+        kind: named_person
+        value: Viktor Orbán
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "defeating Viktor Orbán's Fidesz"
+      - claim: announcement date
+        kind: temporal
+        value: "1 June 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "announced 1 June 2026 that his government would amend Hungary's constitution"
+      - claim: Hungarian President name
+        kind: named_person
+        value: Tamás Sulyok
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "to remove appointed state officials including President Tamás Sulyok"
+      - claim: voluntary resignation deadline for Sulyok and court leaders
+        kind: temporal
+        value: "31 May"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Voluntary deadline 31 May for Sulyok and Constitutional Court / Supreme Court leaders to resign"
+      - claim: institution Sulyok heads
+        kind: named_institution
+        value: Constitutional Court
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Constitutional Court / Supreme Court leaders to resign"
+      - claim: institution mentioned alongside Constitutional Court
+        kind: named_institution
+        value: Supreme Court
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Constitutional Court / Supreme Court leaders to resign"
+      - claim: advisory body Sulyok suggested should weigh in
+        kind: named_institution
+        value: Venice Commission of the Council of Europe
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "suggested the Venice Commission of the Council of Europe weigh in"
+      - claim: Orbán's years in power
+        kind: numerical_with_unit
+        value: "16 years"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Orbán's 16 years"
+      - claim: amendment supermajority requirement
+        kind: numerical_with_unit
+        value: "two-thirds supermajority"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Amendment requires two-thirds supermajority (Tisza coalition holds it)"
+      - claim: Hungary's constitutional document name
+        kind: named_product
+        value: "Hungary's Fundamental Law"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        verbatim_excerpt: "Hungary's Fundamental Law does not allow parliamentary impeachment of the president"
+    quotes:
+      - speaker_name: Péter Magyar
+        speaker_title: Prime Minister of Hungary
+        verbatim_en: "Viktor Orbán's puppet president"
+        source_url: https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        context: Statement by PM Magyar describing President Sulyok, 1 June 2026
+      - speaker_name: Péter Magyar
+        speaker_title: Prime Minister of Hungary
+        verbatim_en: "failed his constitutional duties by remaining silent"
+        source_url: https://www.euronews.com/my-europe/2026/06/01/hungarian-government-to-amend-constitution-to-allow-removal-of-president
+        context: Magyar's justification for constitutional amendment, 1 June 2026
+
+  - story_id: eu-western-balkans-enlargement-costa-tour
+    category: politics
+    headline_en: EU Western Balkans Enlargement — Costa Tour
+    lead_url: https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+    hard_facts:
+      - claim: Costa tour duration
+        kind: numerical_with_unit
+        value: "5-day"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "António Costa launched 5-day Western Balkans tour 1 June 2026"
+      - claim: tour launch date
+        kind: temporal
+        value: "1 June 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "launched 5-day Western Balkans tour 1 June 2026, starting Sarajevo"
+      - claim: tour first stop
+        kind: named_institution
+        value: Sarajevo
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "starting Sarajevo"
+      - claim: European Council President name
+        kind: named_person
+        value: António Costa
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "European Council President António Costa launched 5-day Western Balkans tour"
+      - claim: Bosnia-Herzegovina Presidency member 1
+        kind: named_person
+        value: Denis Bećirović
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Met Bosnia-Herzegovina Presidency members Denis Bećirović, Željka Cvijanović, Željko Komšić"
+      - claim: Bosnia-Herzegovina Presidency member 2
+        kind: named_person
+        value: Željka Cvijanović
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Met Bosnia-Herzegovina Presidency members Denis Bećirović, Željka Cvijanović, Željko Komšić"
+      - claim: Bosnia-Herzegovina Presidency member 3
+        kind: named_person
+        value: Željko Komšić
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Met Bosnia-Herzegovina Presidency members Denis Bećirović, Željka Cvijanović, Željko Komšić"
+      - claim: Bosnia-Herzegovina Chairwoman of the Council of Ministers
+        kind: named_person
+        value: Borjana Krišto
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Chairwoman of the Council of Ministers Borjana Krišto"
+      - claim: itinerary stop — Tirana
+        kind: temporal
+        value: "Tirana, 2 June"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Itinerary: Tirana, Skopje (2 June)"
+      - claim: itinerary stop — Skopje
+        kind: temporal
+        value: "Skopje, 2 June"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Itinerary: Tirana, Skopje (2 June)"
+      - claim: itinerary stop — Pristina
+        kind: temporal
+        value: "Pristina, 3 June"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Pristina (3 June)"
+      - claim: itinerary stop — Belgrade
+        kind: temporal
+        value: "Belgrade, 4 June"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Belgrade (4 June)"
+      - claim: EU-Western Balkans Summit date
+        kind: temporal
+        value: "5 June"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "EU-Western Balkans Summit 5 June in Tivat, Montenegro"
+      - claim: EU-Western Balkans Summit location
+        kind: named_institution
+        value: Tivat, Montenegro
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "EU-Western Balkans Summit 5 June in Tivat, Montenegro"
+      - claim: number of delegations at summit
+        kind: numerical
+        value: "42"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "(42 delegations, ~300 media)"
+      - claim: number of media at summit
+        kind: numerical_with_unit
+        value: "~300 media"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "(42 delegations, ~300 media)"
+      - claim: number of candidate countries
+        kind: numerical
+        value: "Six"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Six candidate countries: Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, Serbia"
+      - claim: candidate country — Albania
+        kind: named_institution
+        value: Albania
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Six candidate countries: Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, Serbia"
+      - claim: candidate country — Bosnia and Herzegovina
+        kind: named_institution
+        value: Bosnia and Herzegovina
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Six candidate countries: Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, Serbia"
+      - claim: candidate country — Kosovo
+        kind: named_institution
+        value: Kosovo
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Six candidate countries: Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, Serbia"
+      - claim: candidate country — Montenegro
+        kind: named_institution
+        value: Montenegro
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Six candidate countries: Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, Serbia"
+      - claim: candidate country — North Macedonia
+        kind: named_institution
+        value: North Macedonia
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Six candidate countries: Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, Serbia"
+      - claim: candidate country — Serbia
+        kind: named_institution
+        value: Serbia
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Six candidate countries: Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, Serbia"
+      - claim: Montenegro potential accession timeframe
+        kind: temporal
+        value: "by year-end"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Montenegro potentially joining by year-end"
+      - claim: German Chancellor name
+        kind: named_person
+        value: Friedrich Merz
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "German Chancellor Friedrich Merz proposed \"associate\" EU membership for Ukraine"
+      - claim: former European Commission Vice-President name
+        kind: named_person
+        value: Věra Jourová
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        verbatim_excerpt: "Former European Commission Vice-President Věra Jourová"
+    quotes:
+      - speaker_name: Věra Jourová
+        speaker_title: Former European Commission Vice-President
+        verbatim_en: "I see that we need them to join more than they need Europe."
+        source_url: https://www.euronews.com/my-europe/2026/06/01/newsletter-keeping-the-western-balkans-eu-dreams-alive
+        context: Commentary on Western Balkans EU accession process
+
+  - story_id: softbank-eu75bn-french-ai-data-centres
+    category: tech
+    headline_en: SoftBank €75bn French AI data centres
+    lead_url: https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: "1 June 2026"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "SoftBank Group announced 1 June 2026"
+      - claim: total investment amount (euros)
+        kind: numerical_with_unit
+        value: "€75 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "invest up to €75 billion ($87 billion)"
+      - claim: total investment amount (USD)
+        kind: numerical_with_unit
+        value: "$87 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "up to €75 billion ($87 billion)"
+      - claim: total AI data-centre capacity target
+        kind: numerical_with_unit
+        value: "5 GW"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "build 5 GW of AI data-centre capacity in northern France"
+      - claim: project description
+        kind: named_product
+        value: "Europe's largest AI infrastructure project on record"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "Europe's largest AI infrastructure project on record"
+      - claim: initial phase investment amount
+        kind: numerical_with_unit
+        value: "€45 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "Initial phase: €45 billion by 2031"
+      - claim: initial phase deadline
+        kind: temporal
+        value: "2031"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "Initial phase: €45 billion by 2031"
+      - claim: initial phase capacity
+        kind: numerical_with_unit
+        value: "3.1 GW"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "3.1 GW across three Hauts-de-France sites"
+      - claim: number of initial sites
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "3.1 GW across three Hauts-de-France sites"
+      - claim: region for data centres
+        kind: named_institution
+        value: Hauts-de-France
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "three Hauts-de-France sites"
+      - claim: site 1 location
+        kind: named_institution
+        value: Loon-Plage (Dunkirk)
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "Loon-Plage (Dunkirk), Bosquel, Bouchain"
+      - claim: site 2 location
+        kind: named_institution
+        value: Bosquel
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "Loon-Plage (Dunkirk), Bosquel, Bouchain"
+      - claim: site 3 location
+        kind: named_institution
+        value: Bouchain
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "Loon-Plage (Dunkirk), Bosquel, Bouchain"
+      - claim: partner for Bouchain site
+        kind: named_institution
+        value: EDF
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "Partners: EDF (Bouchain site)"
+      - claim: partner for Port of Dunkirk hub
+        kind: named_institution
+        value: Schneider Electric
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "Schneider Electric (Port of Dunkirk advanced manufacturing hub for data-centre enclosures with Schneider integrating power modules)"
+      - claim: investor company
+        kind: named_institution
+        value: SoftBank Group
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "SoftBank Group announced 1 June 2026"
+      - claim: SoftBank CEO name
+        kind: named_person
+        value: Masayoshi Son
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "SoftBank CEO Masayoshi Son"
+      - claim: French minister name
+        kind: named_person
+        value: Roland Lescure
+        source_urls:
+          - https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        verbatim_excerpt: "French minister Roland Lescure"
+    quotes:
+      - speaker_name: Masayoshi Son
+        speaker_title: CEO, SoftBank Group
+        verbatim_en: "AI is entering a new era, and the countries that build the infrastructure for this transformation will shape the future."
+        source_url: https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        context: SoftBank announcement of French AI data-centre investment, 1 June 2026
+      - speaker_name: Roland Lescure
+        speaker_title: French minister
+        verbatim_en: "creates jobs, strengthens our digital infrastructure and contributes to our goal of digital sovereignty"
+        source_url: https://www.euronews.com/business/2026/06/01/creating-thousands-of-high-skilled-jobs-softbank-to-invest-75bn-in-french-ai-data-centres
+        context: French government response to SoftBank investment announcement, 1 June 2026
+
+  - story_id: syria-torture-trial-vienna-austria-2026
+    category: society
+    headline_en: Syria torture trial in Austria
+    lead_url: https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+    hard_facts:
+      - claim: trial start date
+        kind: temporal
+        value: "1 June 2026"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "went on trial in Vienna 1 June 2026"
+      - claim: trial location
+        kind: named_institution
+        value: Vienna
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "went on trial in Vienna 1 June 2026"
+      - claim: defendant 1 name
+        kind: named_person
+        value: Khaled al-Halabi
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Brigadier General Khaled al-Halabi, 63, former intelligence officer"
+      - claim: defendant 1 rank
+        kind: named_person
+        value: Brigadier General
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Brigadier General Khaled al-Halabi, 63, former intelligence officer"
+      - claim: defendant 1 age
+        kind: numerical
+        value: "63"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Brigadier General Khaled al-Halabi, 63, former intelligence officer"
+      - claim: defendant 1 former role
+        kind: named_person
+        value: "former intelligence officer"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Brigadier General Khaled al-Halabi, 63, former intelligence officer"
+      - claim: defendant 2 name
+        kind: named_person
+        value: Musab Abu Rukbah
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Lieutenant Colonel Musab Abu Rukbah, 54, former head of criminal police investigations"
+      - claim: defendant 2 rank
+        kind: named_person
+        value: Lieutenant Colonel
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Lieutenant Colonel Musab Abu Rukbah, 54, former head of criminal police investigations"
+      - claim: defendant 2 age
+        kind: numerical
+        value: "54"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Lieutenant Colonel Musab Abu Rukbah, 54, former head of criminal police investigations"
+      - claim: defendant 2 former role
+        kind: named_person
+        value: "former head of criminal police investigations"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Lieutenant Colonel Musab Abu Rukbah, 54, former head of criminal police investigations"
+      - claim: alleged offence period start
+        kind: temporal
+        value: "April 2011"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "mistreatment of protesters in Raqqa April 2011–March 2013"
+      - claim: alleged offence period end
+        kind: temporal
+        value: "March 2013"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "mistreatment of protesters in Raqqa April 2011–March 2013"
+      - claim: alleged offence location
+        kind: named_institution
+        value: Raqqa
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "mistreatment of protesters in Raqqa April 2011–March 2013"
+      - claim: maximum prison term for al-Halabi charges
+        kind: numerical_with_unit
+        value: "up to 10 years prison"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "up to 10 years prison"
+      - claim: defendants' year of flight from Syria
+        kind: temporal
+        value: "2013"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Both fled Syria 2013"
+      - claim: defendants' year of Austrian asylum application
+        kind: temporal
+        value: "2015"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "applied for Austrian asylum 2015"
+      - claim: number of scheduled hearing days
+        kind: numerical
+        value: "13"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "13 hearing days scheduled through 30 June 2026"
+      - claim: trial end date
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "13 hearing days scheduled through 30 June 2026"
+      - claim: victims' attorney name
+        kind: named_person
+        value: Tatiana Urdaneta Wittek
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Attorney Tatiana Urdaneta Wittek represents 18 alleged victims"
+      - claim: number of alleged victims represented
+        kind: numerical
+        value: "18"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Attorney Tatiana Urdaneta Wittek represents 18 alleged victims"
+      - claim: legal basis — UN convention
+        kind: named_product
+        value: "UN Convention Against Torture"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Basis: UN Convention Against Torture, Rome Statute, universal jurisdiction"
+      - claim: legal basis — statute
+        kind: named_product
+        value: "Rome Statute"
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Basis: UN Convention Against Torture, Rome Statute, universal jurisdiction"
+      - claim: Syrian lawyer name
+        kind: named_person
+        value: Anwar al-Bunni
+        source_urls:
+          - https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        verbatim_excerpt: "Syrian lawyer Anwar al-Bunni"
+    quotes:
+      - speaker_name: Anwar al-Bunni
+        speaker_title: Syrian lawyer
+        verbatim_en: "I don't know really why they don't charge him with crimes against humanity."
+        source_url: https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        context: Commentary on Syria torture trial in Vienna, 1 June 2026
+      - speaker_name: Tatiana Urdaneta Wittek
+        speaker_title: Attorney representing 18 alleged victims
+        verbatim_en: "Austria must not become a refuge for war criminals."
+        source_url: https://www.thelocal.at/20260601/two-syrians-accused-of-torture-go-on-trial-in-austria
+        context: Statement at commencement of Syria torture trial in Vienna, 1 June 2026
+
+  - story_id: easyjet-castlelake-takeover-approach-2026
+    category: ipo_ma
+    headline_en: easyJet / Castlelake takeover approach
+    lead_url: https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+    hard_facts:
+      - claim: easyJet board confirmation date
+        kind: temporal
+        value: "1 June 2026"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "easyJet PLC confirmed 1 June 2026 its board received notice"
+      - claim: company receiving approach
+        kind: named_institution
+        value: easyJet PLC
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "easyJet PLC confirmed 1 June 2026 its board received notice of a possible takeover approach"
+      - claim: acquirer company name
+        kind: named_institution
+        value: Castlelake
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "possible takeover approach from Castlelake, a Minneapolis-based alternative investment firm"
+      - claim: Castlelake headquarters
+        kind: named_institution
+        value: Minneapolis
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "Castlelake, a Minneapolis-based alternative investment firm"
+      - claim: Castlelake AUM
+        kind: numerical_with_unit
+        value: "~$36 billion AUM"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "alternative investment firm with ~$36 billion AUM"
+      - claim: Castlelake public disclosure date
+        kind: temporal
+        value: "30 May 2026"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "Castlelake publicly disclosed 30 May 2026"
+      - claim: Castlelake stake purchased (percentage)
+        kind: numerical_with_unit
+        value: "2.14%"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "By 1 June Castlelake confirmed purchase of 2.14% stake"
+      - claim: indicative offer price per share
+        kind: numerical_with_unit
+        value: "~403 pence per share"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "indicative offer ~403 pence per share"
+      - claim: indicative company valuation
+        kind: numerical_with_unit
+        value: "~£3 billion"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "valuing company at ~£3 billion"
+      - claim: easyJet YTD share price decline
+        kind: numerical_with_unit
+        value: "~20% YTD"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "share price had declined ~20% YTD"
+      - claim: easyJet profit before tax threshold
+        kind: numerical_with_unit
+        value: "greater than £1 billion profit before tax"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "\"greater than £1 billion profit before tax\""
+      - claim: UK Takeover Code deadline for Castlelake
+        kind: temporal
+        value: "5:00 p.m. on 26 June 2026"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "Castlelake must announce a firm intention or walk away by 5:00 p.m. on 26 June 2026"
+      - claim: regulatory framework governing the bid
+        kind: named_product
+        value: "UK Takeover Code"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "Under UK Takeover Code"
+      - claim: easyJet share surge post-announcement
+        kind: numerical_with_unit
+        value: ">11%"
+        source_urls:
+          - https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        verbatim_excerpt: "Shares surged >11%"
+    quotes:
+      - speaker_name: easyJet board
+        speaker_title: Board of Directors, easyJet PLC
+        verbatim_en: "has not had any discussions with, nor received any approach or proposal from Castlelake"
+        source_url: https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        context: easyJet board statement responding to Castlelake takeover approach, 1 June 2026
+      - speaker_name: easyJet board
+        speaker_title: Board of Directors, easyJet PLC
+        verbatim_en: "The Board notes the highly opportunistic timing when easyJet's share price is temporarily depressed due to the current situation in the Middle East and its impact on customer confidence and jet fuel prices."
+        source_url: https://www.aerotime.aero/articles/easyjet-highly-opportunistic-nature-castlelake-takeover-bid
+        context: easyJet board statement on Castlelake takeover approach, 1 June 2026
+
+  - story_id: boris-vujcic-ecb-vice-president-2026
+    category: other
+    headline_en: Boris Vujčić takes office as ECB Vice-President
+    lead_url: https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+    hard_facts:
+      - claim: new ECB Vice-President name
+        kind: named_person
+        value: Boris Vujčić
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "Boris Vujčić, outgoing Governor of the Croatian National Bank"
+      - claim: Vujčić's previous role
+        kind: named_institution
+        value: Croatian National Bank
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "outgoing Governor of the Croatian National Bank (since 2012)"
+      - claim: Vujčić's CNB tenure start
+        kind: temporal
+        value: "since 2012"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "outgoing Governor of the Croatian National Bank (since 2012)"
+      - claim: Vujčić assumption of ECB VP role date
+        kind: temporal
+        value: "1 June 2026"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "officially assumed role of ECB Vice-President 1 June 2026"
+      - claim: predecessor as ECB VP
+        kind: named_person
+        value: Luis de Guindos
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "succeeding Spain's Luis de Guindos whose eight-year term expired 31 May 2026"
+      - claim: predecessor's country
+        kind: named_institution
+        value: Spain
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "succeeding Spain's Luis de Guindos"
+      - claim: predecessor's term expiry date
+        kind: temporal
+        value: "31 May 2026"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "whose eight-year term expired 31 May 2026"
+      - claim: predecessor's term length
+        kind: temporal
+        value: "eight-year term"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "whose eight-year term expired 31 May 2026"
+      - claim: European Council formal appointment date
+        kind: temporal
+        value: "19 March 2026"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "European Council formally appointed Vujčić 19 March 2026"
+      - claim: Eurogroup nomination month
+        kind: temporal
+        value: "January"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "following January Eurogroup nomination"
+      - claim: European Parliament opinion month
+        kind: temporal
+        value: "March"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "favourable European Parliament opinion in March"
+      - claim: distinction — first post-2004 accession country Executive Board member
+        kind: temporal
+        value: "post-2004 EU accession country"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "First Executive Board member from a post-2004 EU accession country"
+      - claim: Croatia EU accession year
+        kind: temporal
+        value: "2013"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "Croatia joined the EU in 2013"
+      - claim: Croatia euro adoption year
+        kind: temporal
+        value: "January 2023"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "adopted the euro in January 2023"
+      - claim: Croatia's position as euro adopter
+        kind: numerical_with_unit
+        value: "20th member"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "as the bloc's 20th member"
+      - claim: ECB Executive Board size
+        kind: numerical_with_unit
+        value: "six-member Executive Board"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "Joins six-member Executive Board"
+      - claim: next ECB Governing Council meeting date
+        kind: temporal
+        value: "11 June 2026"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "ECB Governing Council meets 11 June 2026"
+      - claim: euro area inflation in April
+        kind: numerical_with_unit
+        value: "3.0% in April"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "persistent energy-driven inflation at 3.0% in April"
+      - claim: Vujčić term length
+        kind: temporal
+        value: "Eight-year non-renewable term"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "Eight-year non-renewable term ending June 2034"
+      - claim: Vujčić term end date
+        kind: temporal
+        value: "June 2034"
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "Eight-year non-renewable term ending June 2034"
+      - claim: appointing body
+        kind: named_institution
+        value: European Council
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "European Council formally appointed Vujčić 19 March 2026"
+      - claim: nominating body
+        kind: named_institution
+        value: Eurogroup
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "following January Eurogroup nomination"
+      - claim: opinion-giving body
+        kind: named_institution
+        value: European Parliament
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        verbatim_excerpt: "favourable European Parliament opinion in March"
+    quotes:
+      - speaker_name: Boris Vujčić
+        speaker_title: ECB Vice-President; outgoing Governor, Croatian National Bank
+        verbatim_en: "a complement to cash, not a replacement for it"
+        source_url: https://www.consilium.europa.eu/en/press/press-releases/2026/03/19/european-council-appoints-boris-vujcic-as-vice-president-of-the-european-central-bank/
+        context: Vujčić's publicly stated position on the digital euro
