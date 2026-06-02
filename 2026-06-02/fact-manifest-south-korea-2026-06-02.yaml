@@ -1,0 +1,1225 @@
+version: 1
+generated_at: 2026-06-02T18:00:00Z
+country: South Korea
+date: 2026-06-02
+total_stories: 15
+stories:
+  - story_id: south-korea-may-cpi-3-1-pct-two-year-high
+    category: econ
+    headline_en: South Korea May CPI Surges to 3.1% Two-Year High as Petroleum Prices Climb 24%; Rate Hike Seen Likely at July Bank of Korea Meeting
+    lead_url: https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html
+    body_source: full
+    corroborated_by:
+      - https://www.investing.com/news/economic-indicators/south-korea-may-inflation-31-yy-higher-than-expected-4720656
+      - https://www.aol.com/articles/south-korea-may-inflation-3-231509000.html
+    locked_urls:
+      - https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html
+      - https://www.investing.com/news/economic-indicators/south-korea-may-inflation-31-yy-higher-than-expected-4720656
+      - https://www.aol.com/articles/south-korea-may-inflation-3-231509000.html
+    hard_facts:
+      - claim: May 2026 CPI YoY
+        kind: numerical_with_unit
+        value: "3.1%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "South Korea's consumer price index rose 3.1% year-over-year in May 2026"
+      - claim: biggest CPI jump since
+        kind: temporal
+        value: March 2024
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "the biggest jump since March 2024"
+      - claim: April CPI YoY
+        kind: numerical_with_unit
+        value: "2.6%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "following a 2.6% increase in April"
+      - claim: Reuters poll median forecast
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "exceeding the median 3.0% forecast in a Reuters poll"
+      - claim: petroleum product price increase YoY
+        kind: numerical_with_unit
+        value: "24.2%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "Petroleum product prices climbed 24.2% annually"
+      - claim: international airfare increase YoY
+        kind: numerical_with_unit
+        value: "33.5%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "while international airfare surged 33.5%"
+      - claim: monthly CPI increase
+        kind: numerical_with_unit
+        value: "0.5%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "Monthly CPI increased 0.5%, above the expected 0.3%"
+      - claim: monthly CPI expected
+        kind: numerical_with_unit
+        value: "0.3%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "above the expected 0.3%"
+      - claim: core inflation new level
+        kind: numerical_with_unit
+        value: "2.5%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "Core inflation — excluding volatile food and energy — accelerated to 2.5% from 2.2%"
+      - claim: core inflation prior level
+        kind: numerical_with_unit
+        value: "2.2%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "accelerated to 2.5% from 2.2%"
+      - claim: core inflation fastest pace since
+        kind: temporal
+        value: February 2024
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "marking the fastest pace since February 2024"
+      - claim: BoK revised 2026 inflation forecast
+        kind: numerical_with_unit
+        value: "2.7%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "raised its 2026 inflation forecast to 2.7% from 2.2%"
+      - claim: BoK prior 2026 inflation forecast
+        kind: numerical_with_unit
+        value: "2.2%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "raised its 2026 inflation forecast to 2.7% from 2.2%"
+      - claim: policy-sensitive treasury bond yield move
+        kind: numerical_with_unit
+        value: "6 basis points to 3.847%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "Policy-sensitive treasury bond yields rose 6 basis points to 3.847%"
+      - claim: bond yield highest since
+        kind: temporal
+        value: November 2023
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "the highest since November 2023"
+      - claim: counterfactual inflation absent fuel caps
+        kind: numerical_with_unit
+        value: "3.7%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "inflation would have reached approximately 3.7% without nationwide fuel price caps introduced in March"
+      - claim: BoK next policy meeting date
+        kind: temporal
+        value: July 16
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "The Bank of Korea's next policy meeting is scheduled for July 16"
+      - claim: USD/KRW exchange rate
+        kind: numerical_with_unit
+        value: "1,518.82"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "The USD/KRW exchange rate stood at 1,518.82"
+      - claim: KRW decline over past month
+        kind: numerical_with_unit
+        value: "2.88%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "with the won down 2.88% over the past month"
+      - claim: KRW decline over 12 months
+        kind: numerical_with_unit
+        value: "10.16%"
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "and 10.16% over 12 months"
+      - claim: Bank of Korea
+        kind: named_institution
+        value: Bank of Korea
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "The Bank of Korea stated"
+      - claim: economist identity
+        kind: named_person
+        value: Park Sang-hyun
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "Park Sang-hyun, economist at iM Securities"
+      - claim: iM Securities affiliation
+        kind: named_institution
+        value: iM Securities
+        source_urls: [https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html]
+        verbatim_excerpt: "Park Sang-hyun, economist at iM Securities"
+    quotes:
+      - speaker_name: Bank of Korea
+        speaker_title: Bank of Korea (central bank)
+        verbatim_en: "It is expected that inflation will stay at the 3% level for the time being due to spillover effects."
+        source_url: https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html
+        context: Bank of Korea statement on May CPI
+      - speaker_name: Park Sang-hyun
+        speaker_title: Economist, iM Securities
+        verbatim_en: "There will be a rate hike at the next meeting in July for sure."
+        source_url: https://finance.yahoo.com/economy/articles/south-korea-may-inflation-3-231509735.html
+        context: analyst comment on May CPI release
+
+  - story_id: korea-content-exports-record-14-9-billion-2025
+    category: econ
+    headline_en: South Korea Content Industry Exports Hit Record $14.9 Billion in 2025; Culture Ministry Targets 400 Trillion Won K-Culture Market by 2030
+    lead_url: https://www.koreaherald.com/article/10762264
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762264
+    hard_facts:
+      - claim: 2025 content industry exports
+        kind: numerical_with_unit
+        value: "$14.9 billion"
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "total exports reaching $14.9 billion"
+      - claim: 2024 content industry exports
+        kind: numerical_with_unit
+        value: "$14.1 billion"
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "up from $14.1 billion in 2024"
+      - claim: 2025 overseas tourists
+        kind: numerical_with_unit
+        value: "18.9 million"
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "welcomed 18.9 million overseas tourists in 2025"
+      - claim: prior year tourists
+        kind: numerical_with_unit
+        value: "16.3 million"
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "rising from 16.3 million the previous year"
+      - claim: foreign visitor credit card spending
+        kind: numerical_with_unit
+        value: "$14.1 billion"
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "Foreign visitors' credit card spending hit a record $14.1 billion"
+      - claim: K-culture market target
+        kind: numerical_with_unit
+        value: "400 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "to build a 400 trillion-won 'K-culture' market by 2030"
+      - claim: target year
+        kind: temporal
+        value: "2030"
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "to build a 400 trillion-won 'K-culture' market by 2030"
+      - claim: previous K-culture market goal
+        kind: numerical_with_unit
+        value: "300 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "raising the goal from the previous 300 trillion won"
+      - claim: Ministry of Culture, Sports and Tourism
+        kind: named_institution
+        value: Ministry of Culture, Sports and Tourism
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "according to the Ministry of Culture, Sports and Tourism"
+      - claim: Culture Minister identity
+        kind: named_person
+        value: Chae Hwi-young
+        source_urls: [https://www.koreaherald.com/article/10762264]
+        verbatim_excerpt: "Culture Minister Chae Hwi-young announced"
+    quotes:
+      - speaker_name: Chae Hwi-young
+        speaker_title: Culture Minister, Ministry of Culture, Sports and Tourism
+        verbatim_en: "to build a 400 trillion-won 'K-culture' market by 2030."
+        source_url: https://www.koreaherald.com/article/10762264
+        context: ministry announcement on K-culture market target
+      - speaker_name: Ministry of Culture, Sports and Tourism
+        speaker_title: Ministry of Culture, Sports and Tourism
+        verbatim_en: "relaxed entry policies and strengthened marketing efforts."
+        source_url: https://www.koreaherald.com/article/10762264
+        context: ministry attribution for visitor spending growth
+
+  - story_id: korea-24-hour-won-dollar-trading-july-6
+    category: econ
+    headline_en: South Korea to Launch Round-the-Clock Won-Dollar Trading from July 6 in Bid to Attract Foreign Investors and Advance MSCI Upgrade
+    lead_url: https://www.koreaherald.com/article/10762479
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762479
+    hard_facts:
+      - claim: round-the-clock trading start date
+        kind: temporal
+        value: July 6
+        source_urls: [https://www.koreaherald.com/article/10762479]
+        verbatim_excerpt: "South Korea will introduce round-the-clock won-dollar trading starting July 6"
+      - claim: current market close time
+        kind: temporal
+        value: 2 a.m.
+        source_urls: [https://www.koreaherald.com/article/10762479]
+        verbatim_excerpt: "extending beyond the current 2 a.m. closing time"
+      - claim: overnight gap narrowing after 2024 extension
+        kind: numerical_with_unit
+        value: "52.6%"
+        source_urls: [https://www.koreaherald.com/article/10762479]
+        verbatim_excerpt: "the overnight gap between closing and opening rates narrowed by 52.6% following a 2024 trading extension"
+      - claim: MSCI announcement expected month
+        kind: temporal
+        value: June
+        source_urls: [https://www.koreaherald.com/article/10762479]
+        verbatim_excerpt: "The MSCI announcement is expected in June"
+      - claim: potential MSCI inclusion year
+        kind: temporal
+        value: "2028"
+        source_urls: [https://www.koreaherald.com/article/10762479]
+        verbatim_excerpt: "with potential MSCI inclusion occurring in 2028 if approved"
+      - claim: Korea Capital Market Institute
+        kind: named_institution
+        value: Korea Capital Market Institute
+        source_urls: [https://www.koreaherald.com/article/10762479]
+        verbatim_excerpt: "Research from the Korea Capital Market Institute"
+      - claim: MSCI
+        kind: named_institution
+        value: MSCI
+        source_urls: [https://www.koreaherald.com/article/10762479]
+        verbatim_excerpt: "support South Korea's efforts to achieve developed-market status from MSCI"
+      - claim: Finance Ministry
+        kind: named_institution
+        value: Finance Ministry
+        source_urls: [https://www.koreaherald.com/article/10762479]
+        verbatim_excerpt: "the Finance Ministry stated an upgrade"
+    quotes:
+      - speaker_name: Unnamed analyst
+        speaker_title: Analyst cited by Korea Herald
+        verbatim_en: "could trigger sharp swings"
+        source_url: https://www.koreaherald.com/article/10762479
+        context: analyst warning on thin overnight trading
+      - speaker_name: Finance Ministry
+        speaker_title: South Korea Finance Ministry
+        verbatim_en: "would be welcome, as it could attract additional passive fund inflows."
+        source_url: https://www.koreaherald.com/article/10762479
+        context: Finance Ministry statement on MSCI upgrade
+
+  - story_id: korea-june-3-local-elections-eve-campaign
+    category: politics
+    headline_en: Rival Parties Make Final Campaign Push Across South Korea on Eve of June 3 Local Elections — First Electoral Test for Lee Jae-myung Administration
+    lead_url: https://www.koreaherald.com/article/10762516
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10762439
+    locked_urls:
+      - https://www.koreaherald.com/article/10762516
+      - https://www.koreaherald.com/article/10762439
+    hard_facts:
+      - claim: election date
+        kind: temporal
+        value: June 3
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "the eve of nationwide local elections scheduled for June 3"
+      - claim: mayoral/gubernatorial positions
+        kind: numerical
+        value: "16"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "The elections will determine 16 mayoral and gubernatorial positions"
+      - claim: local government heads
+        kind: numerical
+        value: "227"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "227 local government heads"
+      - claim: local council members
+        kind: numerical
+        value: "approximately 4,000"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "approximately 4,000 local council members"
+      - claim: National Assembly seats
+        kind: numerical
+        value: "14"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "plus 14 National Assembly seats through parliamentary by-elections"
+      - claim: eligible voters
+        kind: numerical_with_unit
+        value: "44.6 million"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "Some 44.6 million voters are eligible"
+      - claim: polling stations
+        kind: numerical
+        value: "14,000+"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "polling stations (14,000+) will operate from 6 a.m. to 8 p.m."
+      - claim: polling hours
+        kind: temporal
+        value: 6 a.m. to 8 p.m.
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "will operate from 6 a.m. to 8 p.m."
+      - claim: early voting turnout
+        kind: numerical_with_unit
+        value: "23.51%"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "Early voting concluded Saturday with a 23.51% turnout"
+      - claim: early voters participating
+        kind: numerical_with_unit
+        value: "over 10.4 million"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "with over 10.4 million voters participating"
+      - claim: local election system introduction year
+        kind: temporal
+        value: "2014"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "since the introduction of the system in 2014"
+      - claim: DP candidate Choo Mi-ae
+        kind: named_person
+        value: Choo Mi-ae
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "six-term DP lawmaker Choo Mi-ae running for Gyeonggi Province governor"
+      - claim: PPP candidate Choo Kyung-ho
+        kind: named_person
+        value: Choo Kyung-ho
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "former PPP floor leader Choo Kyung-ho seeking Daegu mayor"
+      - claim: DP floor leader identity
+        kind: named_person
+        value: Han Byung-do
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "DP floor leader Han Byung-do stated"
+      - claim: PPP leader identity
+        kind: named_person
+        value: Jang Dong-hyeok
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "PPP leader Rep. Jang Dong-hyeok warned"
+      - claim: Polymarket DP polling
+        kind: numerical_with_unit
+        value: "~45–48%"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "the DP held overwhelming consensus at ~45–48% polling versus PPP at ~20%"
+      - claim: Polymarket PPP polling
+        kind: numerical_with_unit
+        value: "~20%"
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "versus PPP at ~20%"
+      - claim: foreign nationals voting residency requirement
+        kind: temporal
+        value: at least three years
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "Foreign nationals holding permanent resident status for at least three years were eligible to vote"
+      - claim: Democratic Party of Korea
+        kind: named_institution
+        value: Democratic Party of Korea
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "South Korea's ruling Democratic Party of Korea"
+      - claim: People Power Party
+        kind: named_institution
+        value: People Power Party
+        source_urls: [https://www.koreaherald.com/article/10762516]
+        verbatim_excerpt: "main opposition People Power Party"
+    quotes:
+      - speaker_name: Han Byung-do
+        speaker_title: DP floor leader, Democratic Party of Korea
+        verbatim_en: "Complete the success of the Lee Jae Myung government with your vote."
+        source_url: https://www.koreaherald.com/article/10762516
+        context: campaign appeal June 2
+      - speaker_name: Jang Dong-hyeok
+        speaker_title: PPP leader, People Power Party
+        verbatim_en: "If the local governments are taken over by the ruling party...South Korea will become a country for Lee alone."
+        source_url: https://www.koreaherald.com/article/10762516
+        context: campaign warning June 2
+
+  - story_id: korea-africa-business-forum-seoul-june-2
+    category: politics
+    headline_en: Korea-Africa Business Forum Convenes in Seoul; President Lee Meets African Ministers; Libya Oil and Critical Minerals in Focus
+    lead_url: https://www.koreaherald.com/article/10762452
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762452
+    hard_facts:
+      - claim: African nations represented
+        kind: numerical
+        value: "50"
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "representatives from 50 African nations"
+      - claim: forum date
+        kind: temporal
+        value: June 2
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "convened with representatives from 50 African nations in Seoul on June 2"
+      - claim: forum theme
+        kind: named_product
+        value: "Korea-Africa Business Partnership: The Future of Shared Prosperity and Joint Growth"
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "under the theme \"Korea-Africa Business Partnership: The Future of Shared Prosperity and Joint Growth\""
+      - claim: participants attending
+        kind: numerical_with_unit
+        value: approximately 300
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "attended by approximately 300 participants"
+      - claim: Hyundai Motor president identity
+        kind: named_person
+        value: Sung Kim
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "Sung Kim, president of Hyundai Motor Company and former US ambassador to South Korea"
+      - claim: AfCFTA secretary-general identity
+        kind: named_person
+        value: Wamkele Keabetswe Mene
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "Wamkele Keabetswe Mene, secretary-general of the African Continental Free Trade Area"
+      - claim: Tunisian Foreign Minister identity
+        kind: named_person
+        value: Mohamed Ali Nafti
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "Tunisian Foreign Minister Mohamed Ali Nafti addressed a session"
+      - claim: First Vice Foreign Minister identity
+        kind: named_person
+        value: Park Yoon-joo
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "First Vice Foreign Minister Park Yoon-joo discussed enhanced South Korean participation in Libya's oil sectors"
+      - claim: Libyan Minister of State for African Affairs identity
+        kind: named_person
+        value: Fatalla Elzuni
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "Libya's Minister of State for African Affairs Fatalla Elzuni"
+      - claim: Second Vice Foreign Minister identity
+        kind: named_person
+        value: Kim Jina
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "Second Vice Foreign Minister Kim Jina met Chadian Deputy Foreign Minister Fatime Aldjineh Garfa"
+      - claim: Chadian Deputy Foreign Minister identity
+        kind: named_person
+        value: Fatime Aldjineh Garfa
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "Chadian Deputy Foreign Minister Fatime Aldjineh Garfa"
+      - claim: South Korea-Chad diplomatic anniversary
+        kind: temporal
+        value: 65th
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "marking the 65th diplomatic anniversary"
+      - claim: Libya embassy rotational arrangement since
+        kind: temporal
+        value: "2022"
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "having operated on a rotational basis with Tunisia since 2022"
+      - claim: African Continental Free Trade Area
+        kind: named_institution
+        value: African Continental Free Trade Area
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "secretary-general of the African Continental Free Trade Area"
+      - claim: President Lee meeting count
+        kind: numerical
+        value: over 20
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "scheduled to meet with over 20 ministerial-level delegates"
+      - claim: President identity
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls: [https://www.koreaherald.com/article/10762452]
+        verbatim_excerpt: "President Lee Jae Myung was scheduled to meet"
+    quotes: []
+
+  - story_id: korea-nis-international-crime-intelligence-centre
+    category: politics
+    headline_en: South Korea NIS Proposes Regulations to Create International Crime Intelligence Centre to Combat Transnational Drug, Scam, and Cyber-Gambling Networks
+    lead_url: https://www.koreaherald.com/article/10762605
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762605
+    hard_facts:
+      - claim: NIS advance notice date
+        kind: temporal
+        value: June 2
+        source_urls: [https://www.koreaherald.com/article/10762605]
+        verbatim_excerpt: "issued an advance notice on June 2 of a proposed decree"
+      - claim: public comment period end
+        kind: temporal
+        value: July 13
+        source_urls: [https://www.koreaherald.com/article/10762605]
+        verbatim_excerpt: "with a public comment period extending until July 13"
+      - claim: National Intelligence Service
+        kind: named_institution
+        value: National Intelligence Service
+        source_urls: [https://www.koreaherald.com/article/10762605]
+        verbatim_excerpt: "South Korea's National Intelligence Service (NIS) issued an advance notice"
+      - claim: new center name
+        kind: named_product
+        value: International Crime Intelligence Center
+        source_urls: [https://www.koreaherald.com/article/10762605]
+        verbatim_excerpt: "establishes a legal foundation for creating an International Crime Intelligence Center"
+    quotes:
+      - speaker_name: National Intelligence Service
+        speaker_title: South Korea National Intelligence Service (NIS)
+        verbatim_en: "strengthen its response to crimes that increasingly threaten public safety and national security"
+        source_url: https://www.koreaherald.com/article/10762605
+        context: NIS statement on proposed decree June 2
+
+  - story_id: samsung-hbm5-mockup-heat-path-block-computex
+    category: tech
+    headline_en: Samsung Electronics Unveils HBM5 Memory Mockup and Heat Path Block Thermal Technology at Computex 2026 in Taipei
+    lead_url: https://www.koreaherald.com/article/10762419
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762419
+    hard_facts:
+      - claim: unveil date
+        kind: temporal
+        value: June 2
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "at Computex 2026 in Taipei on June 2"
+      - claim: HBM5 generation
+        kind: named_product
+        value: HBM5 (seventh-generation high-bandwidth memory)
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "a mockup of its HBM5 (seventh-generation high-bandwidth memory)"
+      - claim: new thermal tech name
+        kind: named_product
+        value: Heat Path Block
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "a new heat-management technology called Heat Path Block"
+      - claim: HBM4E speed per pin
+        kind: numerical_with_unit
+        value: 14 gigabits per second per pin
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "which operates at 14 gigabits per second per pin"
+      - claim: HBM4E max speed per pin
+        kind: numerical_with_unit
+        value: 16 gigabits per second
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "supports up to 16 gigabits per second"
+      - claim: HBM4E max bandwidth
+        kind: numerical_with_unit
+        value: 4 terabytes per second
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "delivers maximum bandwidth of 4 terabytes per second"
+      - claim: HBM5 base die process
+        kind: numerical_with_unit
+        value: 2-nanometer
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "Samsung plans to use a 2-nanometer base die for HBM5"
+      - claim: HBM market size 2026
+        kind: numerical_with_unit
+        value: "$58.9 billion"
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "from $58.9 billion in 2026"
+      - claim: HBM market size 2029 projected
+        kind: numerical_with_unit
+        value: "$198.3 billion"
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "to $198.3 billion by 2029"
+      - claim: HBM market projection source
+        kind: named_institution
+        value: Omdia
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "according to Omdia"
+      - claim: Samsung market cap milestone
+        kind: numerical_with_unit
+        value: "2 quadrillion won ($1.32 trillion)"
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "Samsung's market capitalisation exceeded 2 quadrillion won ($1.32 trillion) for the first time on June 1"
+      - claim: market cap milestone date
+        kind: temporal
+        value: June 1
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "for the first time on June 1"
+      - claim: Samsung President and CTO identity
+        kind: named_person
+        value: Song Jai-hyuk
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "Samsung's President and CTO Song Jai-hyuk stated"
+      - claim: SK hynix
+        kind: named_institution
+        value: SK hynix
+        source_urls: [https://www.koreaherald.com/article/10762419]
+        verbatim_excerpt: "AI memory competition against SK hynix"
+    quotes:
+      - speaker_name: Song Jai-hyuk
+        speaker_title: President and CTO, Samsung Electronics
+        verbatim_en: "AI systems are becoming more powerful and densely integrated, making heat management just as important as memory performance itself."
+        source_url: https://www.koreaherald.com/article/10762419
+        context: Samsung statement at Computex 2026
+      - speaker_name: Samsung Electronics
+        speaker_title: Samsung Electronics
+        verbatim_en: "creates an additional pathway for heat transfer, reducing thermal resistance and improving operational stability as memory stacks become taller and data speeds increase."
+        source_url: https://www.koreaherald.com/article/10762419
+        context: Samsung description of Heat Path Block technology
+
+  - story_id: doosan-robotics-stock-surge-jensen-huang-gtc-taipei
+    category: tech
+    headline_en: Doosan Robotics Stock Surges 14% as Nvidia CEO Jensen Huang Declares Robotics "Very Important" to Korea at GTC Taipei
+    lead_url: https://www.koreaherald.com/article/10762448
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762448
+    hard_facts:
+      - claim: Doosan Robotics share price
+        kind: numerical_with_unit
+        value: "157,900 won ($104.12)"
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "Doosan Robotics shares surged to 157,900 won ($104.12) per share by midday Tuesday"
+      - claim: trading day
+        kind: temporal
+        value: June 2
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "by midday Tuesday, June 2"
+      - claim: Tuesday session move
+        kind: numerical_with_unit
+        value: "14.09%"
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "representing a 14.09% increase from the previous session"
+      - claim: Monday gain
+        kind: numerical_with_unit
+        value: "29.95%"
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "following a 29.95% jump on Monday that hit the daily trading ceiling"
+      - claim: Nvidia event description
+        kind: named_product
+        value: Korea Partner Night
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "remarks by Nvidia CEO Jensen Huang at an Nvidia-hosted \"Korea Partner Night\" dinner"
+      - claim: event location and date
+        kind: temporal
+        value: Taipei on June 1
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "dinner for Korean firms in Taipei on June 1 during GTC Taipei 2026"
+      - claim: humanoid timeline
+        kind: temporal
+        value: "2028"
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "industrial humanoids by 2028"
+      - claim: Madison Huang identity
+        kind: named_person
+        value: Madison Huang
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "Madison Huang, Nvidia senior director and Jensen Huang's daughter"
+      - claim: Madison Huang facility visited
+        kind: named_institution
+        value: Doosan Robotics' Bundang facility
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "visited Doosan Robotics' Bundang facility to discuss technology collaboration"
+      - claim: first pitch event date
+        kind: temporal
+        value: June 7
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "throw the first pitch at a Doosan Bears baseball game on June 7"
+      - claim: parent holding company move
+        kind: numerical_with_unit
+        value: declined 11.62% to 1,947,000 won
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "The parent holding company, Doosan, declined 11.62% to 1,947,000 won by midday"
+      - claim: Jensen Huang identity and role
+        kind: named_person
+        value: Jensen Huang, Nvidia CEO
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "remarks by Nvidia CEO Jensen Huang"
+      - claim: Doosan Robotics OS name
+        kind: named_product
+        value: Agentic Robot
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "developing an Agentic Robot operating system"
+      - claim: CES event referenced
+        kind: temporal
+        value: CES 2026 in January
+        source_urls: [https://www.koreaherald.com/article/10762448]
+        verbatim_excerpt: "previously discussed joint demonstrations at CES 2026 in January"
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia
+        verbatim_en: "robotics is very important to Korea and that Nvidia hopes to contribute to the country's progress"
+        source_url: https://www.koreaherald.com/article/10762448
+        context: Nvidia Korea Partner Night dinner, Taipei, June 1
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia
+        verbatim_en: "always looking for opportunities in Korea"
+        source_url: https://www.koreaherald.com/article/10762448
+        context: Nvidia Korea Partner Night dinner, Taipei, June 1
+
+  - story_id: korea-semiconductor-vocational-schools-record-demand
+    category: tech
+    headline_en: South Korea Semiconductor Vocational High Schools See Record Demand as Competition Ratios Soar Amid AI Chip Boom
+    lead_url: https://www.koreaherald.com/article/10762282
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762282
+    hard_facts:
+      - claim: Korea Semiconductor Meister High School competition ratio 2026
+        kind: numerical_with_unit
+        value: "1.67-to-1"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "Korea Semiconductor Meister High School in Gyeongju recorded an admissions competition ratio of 1.67-to-1 in 2026"
+      - claim: Korea Semiconductor Meister prior ratio
+        kind: numerical_with_unit
+        value: "0.88-to-1"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "up sharply from 0.88-to-1 the previous year"
+      - claim: Chungbuk Semiconductor High School new ratio
+        kind: numerical_with_unit
+        value: "2.26-to-1"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "saw its ratio climb to 2.26-to-1 from 1.5-to-1 year-over-year"
+      - claim: Chungbuk prior ratio
+        kind: numerical_with_unit
+        value: "1.5-to-1"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "from 1.5-to-1 year-over-year"
+      - claim: Samsung market cap milestone
+        kind: numerical_with_unit
+        value: "2 quadrillion won ($1.32 trillion)"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "Samsung Electronics' market capitalisation exceeded 2 quadrillion won ($1.32 trillion) for the first time on June 1"
+      - claim: Samsung Q1 operating profit
+        kind: numerical_with_unit
+        value: 57.2 trillion won
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "Samsung and SK hynix posted first-quarter operating profits of 57.2 trillion won and 37.6 trillion won respectively"
+      - claim: SK hynix Q1 operating profit
+        kind: numerical_with_unit
+        value: 37.6 trillion won
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "Samsung and SK hynix posted first-quarter operating profits of 57.2 trillion won and 37.6 trillion won respectively"
+      - claim: vocational high school graduate employment rate
+        kind: numerical_with_unit
+        value: over 73%
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "Over 73% of vocational high school graduates secured employment"
+      - claim: specialised high school employment rate
+        kind: numerical_with_unit
+        value: "52.4%"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "compared to 52.4% from specialised high schools"
+      - claim: regular vocational track employment rate
+        kind: numerical_with_unit
+        value: "38.2%"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "and 38.2% from regular vocational tracks"
+      - claim: total vocational high schools
+        kind: numerical
+        value: "58"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "South Korea currently operates 58 vocational high schools"
+      - claim: semiconductor-specialising schools
+        kind: numerical
+        value: "four"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "four specialising in semiconductors"
+      - claim: new Seoul school opening
+        kind: temporal
+        value: March 2027
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "one in Seoul (March 2027)"
+      - claim: new Yongin school opening
+        kind: temporal
+        value: "2028"
+        source_urls: [https://www.koreaherald.com/article/10762282]
+        verbatim_excerpt: "one in Yongin, Gyeonggi Province (2028)"
+    quotes:
+      - speaker_name: A school official
+        speaker_title: School official (unnamed)
+        verbatim_en: "More students with strong academic records are showing interest...Many parents and students are asking about specific career paths after graduation and the outlook for the semiconductor industry."
+        source_url: https://www.koreaherald.com/article/10762282
+        context: school official cited by Korea Herald
+      - speaker_name: An admissions consulting official
+        speaker_title: Admissions consulting official (unnamed)
+        verbatim_en: "high-achieving and average-achieving students are considering vocational high schools as a realistic option"
+        source_url: https://www.koreaherald.com/article/10762282
+        context: admissions consultant cited by Korea Herald
+
+  - story_id: hanwha-aerospace-daejeon-explosion-joint-inspection
+    category: society
+    headline_en: South Korean Police and Multi-Agency Task Force Launch Joint Inspection of Hanwha Aerospace Daejeon Plant After Fatal Rocket Propellant Explosion Kills Five
+    lead_url: https://www.koreaherald.com/article/10762238
+    body_source: full
+    corroborated_by:
+      - https://www.claimsjournal.com/news/national/2026/06/02/337906.htm
+      - https://www.asiae.co.kr/en/article/2026060209010398912
+    locked_urls:
+      - https://www.koreaherald.com/article/10762238
+      - https://www.claimsjournal.com/news/national/2026/06/02/337906.htm
+      - https://www.asiae.co.kr/en/article/2026060209010398912
+    hard_facts:
+      - claim: inspection date
+        kind: temporal
+        value: June 2
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "South Korean authorities initiated a coordinated inspection on June 2"
+      - claim: factory location distance from Seoul
+        kind: numerical_with_unit
+        value: approximately 140 kilometres south of Seoul
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "at Hanwha Aerospace's factory in Daejeon, approximately 140 kilometres south of Seoul"
+      - claim: explosion date
+        kind: temporal
+        value: June 1
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "following a fatal explosion on June 1"
+      - claim: fatalities
+        kind: numerical
+        value: "five"
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "killed five workers and injured two"
+      - claim: injuries
+        kind: numerical
+        value: "two"
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "killed five workers and injured two"
+      - claim: SK Hynix evacuation
+        kind: numerical_with_unit
+        value: approximately 3,600 workers
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "SK Hynix evacuated approximately 3,600 workers from its Cheongju semiconductor complex"
+      - claim: Hanwha Aerospace share decline intraday low
+        kind: numerical_with_unit
+        value: 4.9%
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "Hanwha Aerospace shares declined as much as 4.9% to their lowest level since February"
+      - claim: Hanwha Aerospace share decline closing
+        kind: numerical_with_unit
+        value: approximately 3%
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "before paring losses to approximately 3% down"
+      - claim: Labor Minister identity
+        kind: named_person
+        value: Kim Young-hoon
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "Labor Minister Kim Young-hoon participated in the inspection"
+      - claim: President identity
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "President Lee Jae Myung had previously ordered a full investigation"
+      - claim: Daejeon Metropolitan Police Agency
+        kind: named_institution
+        value: Daejeon Metropolitan Police Agency
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "The joint inspection involved the Daejeon Metropolitan Police Agency"
+      - claim: National Forensic Service
+        kind: named_institution
+        value: National Forensic Service
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "fire service, National Forensic Service, labor ministry"
+      - claim: Korea Occupational Safety and Health Agency
+        kind: named_institution
+        value: Korea Occupational Safety and Health Agency
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "and Korea Occupational Safety and Health Agency"
+      - claim: Hanwha Aerospace status
+        kind: named_institution
+        value: Hanwha Aerospace
+        source_urls: [https://www.koreaherald.com/article/10762238]
+        verbatim_excerpt: "Hanwha Aerospace is South Korea's largest defense contractor"
+    quotes:
+      - speaker_name: Kim Young-hoon
+        speaker_title: Labor Minister
+        verbatim_en: "Through a thorough probe, (we) will fulfill our duty as the living."
+        source_url: https://www.koreaherald.com/article/10762238
+        context: social media post during inspection June 2
+
+  - story_id: korea-bereaved-families-name-murder-victims
+    category: society
+    headline_en: South Korean Bereaved Families Name Murdered Loved Ones to Prevent Cases Fading from Public Attention and Press for Safety Reforms
+    lead_url: https://www.koreaherald.com/article/10762299
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762299
+    hard_facts:
+      - claim: Lee Chae-won age
+        kind: numerical_with_unit
+        value: 17-year-old
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "Lee Chae-won, a 17-year-old high school student"
+      - claim: Lee Chae-won attack date
+        kind: temporal
+        value: May 5 (Children's Day)
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "killed in a stabbing attack on Children's Day (May 5) in Gwangju"
+      - claim: Lee Chae-won location
+        kind: named_institution
+        value: Gwangju
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "in Gwangju"
+      - claim: suspect identity
+        kind: named_person
+        value: Jang Yoon-gi
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "The suspect, Jang Yoon-gi, faces charges including murder"
+      - claim: petition signatures collected
+        kind: numerical
+        value: over 7,000
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "Lee's family collected over 7,000 signatures petitioning for strict punishment"
+      - claim: Kim Ha-neul age
+        kind: numerical_with_unit
+        value: 7-year-old
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "the father of 7-year-old Kim Ha-neul"
+      - claim: Kim Ha-neul killing date
+        kind: temporal
+        value: February 10
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "killed by teacher Myung Jae-wan on February 10"
+      - claim: Kim Ha-neul case year
+        kind: temporal
+        value: February 2025
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "In February 2025, the father of 7-year-old Kim Ha-neul"
+      - claim: teacher identity
+        kind: named_person
+        value: Myung Jae-wan
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "killed by teacher Myung Jae-wan"
+      - claim: proposed law name
+        kind: named_product
+        value: Haneul Law
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "The case sparked the proposed \"Haneul Law\""
+      - claim: Incheon victim age
+        kind: numerical_with_unit
+        value: 38-year-old
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "In a 2023 Incheon case, a 38-year-old woman stabbed by her ex-boyfriend"
+      - claim: Incheon case year
+        kind: temporal
+        value: "2023"
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "In a 2023 Incheon case"
+      - claim: perpetrator sentence
+        kind: numerical_with_unit
+        value: 30-year sentence
+        source_urls: [https://www.koreaherald.com/article/10762299]
+        verbatim_excerpt: "the perpetrator received a 30-year sentence"
+    quotes:
+      - speaker_name: Lee Chae-won's mother
+        speaker_title: Mother of Lee Chae-won
+        verbatim_en: "Only parents can appeal to the world and say these incidents must never happen again."
+        source_url: https://www.koreaherald.com/article/10762299
+        context: statement upon disclosing daughter's identity
+      - speaker_name: Kim Ha-neul's father
+        speaker_title: Father of Kim Ha-neul
+        verbatim_en: "To think a person with depression was allowed to teach, especially the youngest grades in elementary school."
+        source_url: https://www.koreaherald.com/article/10762299
+        context: public identification of daughter, February 2025
+      - speaker_name: Victim's cousin (Incheon case)
+        speaker_title: Cousin of 2023 Incheon victim
+        verbatim_en: "a crime allowed by the state"
+        source_url: https://www.koreaherald.com/article/10762299
+        context: campaigning for stalking victim protection legislation
+
+  - story_id: korea-marten-dambi-june-endangered-species
+    category: society
+    headline_en: South Korea Names Marten "Dambi" as June's Endangered Wildlife Species; Habitat Fragmentation and Road Traffic Cited as Key Threats
+    lead_url: https://www.koreaherald.com/article/10762261
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762261
+    hard_facts:
+      - claim: designation month
+        kind: temporal
+        value: June 2026
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "designated the marten (\"dambi\") as the nation's endangered wildlife species for June 2026"
+      - claim: classification
+        kind: named_product
+        value: Class II endangered mammal
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "The marten is classified as a Class II endangered mammal"
+      - claim: marten typical length
+        kind: numerical_with_unit
+        value: 60 centimetres
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "typically 60 centimetres in length"
+      - claim: marten weight range
+        kind: numerical_with_unit
+        value: 3–6 kilograms
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "weighing 3–6 kilograms"
+      - claim: group size
+        kind: numerical
+        value: two to five
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "living in groups of two to five"
+      - claim: required habitat range
+        kind: numerical_with_unit
+        value: up to approximately 60 kilometres
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "expansive, connected habitats spanning up to approximately 60 kilometres"
+      - claim: imprisonment penalty
+        kind: numerical_with_unit
+        value: up to three years
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "faces penalties of up to three years imprisonment"
+      - claim: fines range
+        kind: numerical_with_unit
+        value: 3 million to 30 million won ($2,000–$20,000)
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "or fines of 3 million to 30 million won ($2,000–$20,000)"
+      - claim: governing institution
+        kind: named_institution
+        value: Ministry of Energy, Climate and Environment
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "South Korea's Ministry of Energy, Climate and Environment designated the marten"
+      - claim: governing legislation
+        kind: named_product
+        value: Wildlife Protection and Management Act
+        source_urls: [https://www.koreaherald.com/article/10762261]
+        verbatim_excerpt: "under the Wildlife Protection and Management Act"
+    quotes: []
+
+  - story_id: neuromeka-dart-correction-filing-kosdaq
+    category: ipo_ma
+    headline_en: Neuromeka Files Correction to Equity Securities Registration Statement on DART; KOSDAQ Listing Preparation Continues
+    lead_url: https://englishdart.fss.or.kr/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://englishdart.fss.or.kr/
+    hard_facts:
+      - claim: Neuromeka ticker
+        kind: named_product
+        value: "KOSDAQ: 348340"
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "Neuromeka Co. (KOSDAQ: 348340)"
+      - claim: filing type
+        kind: named_product
+        value: "[Correction of statement] Registration Statement (Equity securities)"
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "filed a \"[Correction of statement] Registration Statement (Equity securities)\""
+      - claim: filing date and time
+        kind: temporal
+        value: June 2, 2026 at 17:04 KST
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "with Korea's DART filing system on June 2, 2026 at 17:04 KST"
+      - claim: Neuromeka subscription period
+        kind: temporal
+        value: July 27–28, 2026
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "subscription period July 27–28, 2026"
+      - claim: HYUNGJI filing type
+        kind: named_product
+        value: "[Confirmation of issuance conditions] Equity Securities"
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "HYUNGJI Innovation and Creative filed a \"[Confirmation of issuance conditions] Equity Securities\""
+      - claim: HYUNGJI subscription period
+        kind: temporal
+        value: July 9–10, 2026
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "with a subscription period of July 9–10, 2026"
+      - claim: primary IPO floor reference
+        kind: numerical_with_unit
+        value: USD 300M
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "no deal size meeting the primary IPO floor of USD 300M"
+      - claim: M&A threshold reference
+        kind: numerical_with_unit
+        value: USD 500M
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "or M&A threshold of USD 500M was disclosed"
+      - claim: filer Neuromeka
+        kind: named_institution
+        value: Neuromeka Co.
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "Neuromeka Co. (KOSDAQ: 348340) filed"
+      - claim: filer HYUNGJI
+        kind: named_institution
+        value: HYUNGJI Innovation and Creative
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "HYUNGJI Innovation and Creative filed"
+      - claim: regulator
+        kind: named_institution
+        value: DART (Korea Financial Supervisory Service)
+        source_urls: [https://englishdart.fss.or.kr/]
+        verbatim_excerpt: "with Korea's DART filing system"
+    quotes: []
+
+  - story_id: korea-sesame-oil-exports-record-jan-apr-2026
+    category: other
+    headline_en: South Korea Sesame Oil Exports Hit Record High in January–April 2026, Up 37% on Global K-Food Demand; US Remains Top Market for 14th Year
+    lead_url: https://www.koreaherald.com/article/10762200
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762200
+    hard_facts:
+      - claim: export period
+        kind: temporal
+        value: January–April 2026
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "achieved record levels in January–April 2026"
+      - claim: export value YoY growth
+        kind: numerical_with_unit
+        value: 37%
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "rising 37% year-over-year to $6.14 million"
+      - claim: total export value
+        kind: numerical_with_unit
+        value: "$6.14 million"
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "rising 37% year-over-year to $6.14 million"
+      - claim: shipment volume growth
+        kind: numerical_with_unit
+        value: 47.6%
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "with shipment volume climbing 47.6% to 657 metric tons"
+      - claim: shipment volume
+        kind: numerical_with_unit
+        value: 657 metric tons
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "climbing 47.6% to 657 metric tons"
+      - claim: data source
+        kind: named_institution
+        value: Korea Customs Service
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "according to Korea Customs Service data"
+      - claim: US top market years
+        kind: temporal
+        value: 14th consecutive year
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "The United States remained the dominant market for the 14th consecutive year"
+      - claim: US share of exports
+        kind: numerical_with_unit
+        value: 41.7%
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "representing 41.7% of total export value"
+      - claim: countries reached
+        kind: numerical
+        value: "62"
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "Korean sesame oil reached 62 countries"
+      - claim: Australia exports value
+        kind: numerical_with_unit
+        value: "$2.3 million"
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "Australia emerging as a significant new destination at $2.3 million"
+      - claim: Australia exports growth
+        kind: numerical_with_unit
+        value: 167.9%
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "(up 167.9%)"
+      - claim: European shipments growth
+        kind: numerical_with_unit
+        value: 42.7%
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "European shipments increasing 42.7%"
+      - claim: 2025 instant noodle exports
+        kind: numerical_with_unit
+        value: "$1.52 billion"
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "instant noodle exports reached $1.52 billion in 2025"
+      - claim: 2025 sauce exports
+        kind: numerical_with_unit
+        value: "$410 million"
+        source_urls: [https://www.koreaherald.com/article/10762200]
+        verbatim_excerpt: "sauce exports totalled $410 million"
+    quotes: []
+
+  - story_id: korea-anti-discrimination-legislation-review
+    category: other
+    headline_en: South Korea Government Begins Review of Anti-Discrimination Legislation Covering Sexual Orientation, Disability, and Religion as Part of Lee Administration's First-Year Policy Agenda
+    lead_url: https://theasian.asia/archives/204456
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://theasian.asia/archives/204456
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: June 2
+        source_urls: [https://theasian.asia/archives/204456]
+        verbatim_excerpt: "South Korea's government announced on June 2 that it is reviewing possible anti-discrimination legislation"
+      - claim: President identity
+        kind: named_person
+        value: Lee Jae-myung
+        source_urls: [https://theasian.asia/archives/204456]
+        verbatim_excerpt: "as part of President Lee Jae-myung's first-year policy agenda"
+      - claim: act to be revised
+        kind: named_product
+        value: Board of Audit and Inspection Act
+        source_urls: [https://theasian.asia/archives/204456]
+        verbatim_excerpt: "plans to revise the Board of Audit and Inspection Act"
+      - claim: historical reference 1
+        kind: named_product
+        value: Nogun-ri massacre
+        source_urls: [https://theasian.asia/archives/204456]
+        verbatim_excerpt: "restoring honour to Nogun-ri massacre victims"
+      - claim: historical reference 2
+        kind: named_product
+        value: Ukishima Maru
+        source_urls: [https://theasian.asia/archives/204456]
+        verbatim_excerpt: "verifying Ukishima Maru passenger records"
+    quotes: []
