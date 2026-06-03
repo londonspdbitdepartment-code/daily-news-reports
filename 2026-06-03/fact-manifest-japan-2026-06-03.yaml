@@ -1,0 +1,595 @@
+version: 1
+generated_at: "2026-06-03T12:00:00Z"
+country: Japan
+date: "2026-06-03"
+total_stories: 11
+stories:
+  - story_id: diet-debates-fy2026-extra-budget
+    category: econ
+    headline_en: Diet Debates Start on Japan FY 2026 Extra Budget
+    lead_url: https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+    body_source: full
+    corroborated_by:
+      - https://newsonjapan.com/article/149496.php
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+      - https://newsonjapan.com/article/149496.php
+    hard_facts:
+      - claim: general-account spending under extra budget
+        kind: numerical_with_unit
+        value: "3,113.5 billion yen"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+        verbatim_excerpt: "General-account spending under the extra budget totals 3,113.5 billion yen"
+      - claim: energy cost measures allocation
+        kind: numerical_with_unit
+        value: "2.5 trillion yen"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+        verbatim_excerpt: "The cabinet approved the supplementary budget on June 3 with 2.5 trillion yen allocated for energy cost measures"
+      - claim: cabinet approval date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+        verbatim_excerpt: "The cabinet approved the supplementary budget on June 3"
+      - claim: Finance Minister identity
+        kind: named_person
+        value: "Satsuki Katayama"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+        verbatim_excerpt: "Finance Minister Satsuki Katayama delivered a fiscal policy address"
+      - claim: Prime Minister identity
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+        verbatim_excerpt: "Prime Minister Sanae Takaichi has been calling for the draft budget to be enacted swiftly"
+      - claim: legislative chamber for plenary meeting
+        kind: named_institution
+        value: "House of Representatives"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+        verbatim_excerpt: "At a plenary meeting of the House of Representatives"
+    quotes:
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister of Japan
+        verbatim_en: "ensure sufficient financial preparedness to minimize risks and respond promptly whenever necessary."
+        source_url: https://www.nippon.com/en/news/yjj2026060300140/diet-debates-start-on-japan-fy-2026-extra-budget.html
+        context: statement on supplementary budget approval, June 3
+
+  - story_id: nikkei-225-tops-68000-ai-chip-surge
+    category: econ
+    headline_en: "Japan's Nikkei 225 Tops 68,000 for First Time on AI-Driven Chip Stock Surge"
+    lead_url: https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+    body_source: full
+    corroborated_by:
+      - https://www.wsls.com/business/2026/06/03/tokyos-nikkei-225-index-tops-68000-for-the-1st-time-as-wall-street-logs-more-records/
+      - https://www.business-standard.com/markets/news/japan-s-nikkei-tops-68-000-for-first-time-on-ai-driven-chip-stock-surge-126060300335_1.html
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+      - https://www.wsls.com/business/2026/06/03/tokyos-nikkei-225-index-tops-68000-for-the-1st-time-as-wall-street-logs-more-records/
+      - https://www.business-standard.com/markets/news/japan-s-nikkei-tops-68-000-for-first-time-on-ai-driven-chip-stock-surge-126060300335_1.html
+    hard_facts:
+      - claim: Nikkei 225 intraday level
+        kind: numerical_with_unit
+        value: "68,634.74"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "the benchmark up 2.9% at 68,634.74 by midafternoon"
+      - claim: Nikkei 225 percentage gain
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "the benchmark up 2.9% at 68,634.74 by midafternoon"
+      - claim: Tokyo Electron share gain
+        kind: numerical_with_unit
+        value: "13.4%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "Shares in computer chip equipment maker Tokyo Electron gained 13.4%"
+      - claim: Advantest share gain
+        kind: numerical_with_unit
+        value: "5.9%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "those for chip testing equipment maker Advantest gained 5.9%"
+      - claim: Topix gain
+        kind: numerical_with_unit
+        value: "2.14%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "The Topix added 2.14%"
+      - claim: USD/JPY rate milestone
+        kind: numerical
+        value: "160"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "The dollar briefly surpassed 160 Japanese yen"
+      - claim: China CSI 300 change
+        kind: numerical_with_unit
+        value: "1.52%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "Mainland China's CSI 300 was 1.52% higher"
+      - claim: Hong Kong Hang Seng change
+        kind: numerical_with_unit
+        value: "-1.73%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "Hong Kong's Hang Seng lost 1.73%"
+      - claim: named institution — chip equipment maker
+        kind: named_institution
+        value: "Tokyo Electron"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "Shares in computer chip equipment maker Tokyo Electron gained 13.4%"
+      - claim: named institution — chip testing equipment maker
+        kind: named_institution
+        value: "Advantest"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam
+        verbatim_excerpt: "those for chip testing equipment maker Advantest gained 5.9%"
+    quotes: []
+
+  - story_id: katayama-reiterates-fx-intervention-readiness
+    category: econ
+    headline_en: Japan Finance Minister Katayama Reiterates FX Intervention Readiness as Yen Weakens Toward 160
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-03/japan-s-katayama-reiterates-ready-on-fx-response-as-yen-weakens
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-03/japan-s-katayama-reiterates-ready-on-fx-response-as-yen-weakens
+    hard_facts:
+      - claim: Finance Minister identity
+        kind: named_person
+        value: "Satsuki Katayama"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-03/japan-s-katayama-reiterates-ready-on-fx-response-as-yen-weakens
+        verbatim_excerpt: "Japan's Finance Minister Satsuki Katayama reiterated that authorities are prepared to respond to foreign exchange moves"
+      - claim: yen level threshold
+        kind: numerical
+        value: "160"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-03/japan-s-katayama-reiterates-ready-on-fx-response-as-yen-weakens
+        verbatim_excerpt: "The yen weakened toward 160 per dollar"
+      - claim: Japan FX intervention spending (April 28 – May 27)
+        kind: numerical_with_unit
+        value: "¥11.7 trillion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-03/japan-s-katayama-reiterates-ready-on-fx-response-as-yen-weakens
+        verbatim_excerpt: "Japan spent ¥11.7 trillion on currency intervention measures between April 28 and May 27"
+      - claim: FX intervention period
+        kind: temporal
+        value: "April 28 and May 27"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-03/japan-s-katayama-reiterates-ready-on-fx-response-as-yen-weakens
+        verbatim_excerpt: "Japan spent ¥11.7 trillion on currency intervention measures between April 28 and May 27"
+      - claim: occasion of minister's remarks
+        kind: temporal
+        value: "Wednesday after the cabinet met"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-03/japan-s-katayama-reiterates-ready-on-fx-response-as-yen-weakens
+        verbatim_excerpt: "Katayama told reporters Wednesday after the cabinet met to approve an extra budget"
+    quotes:
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister of Japan
+        verbatim_en: "ready to respond to forex as necessary at any time."
+        source_url: https://www.bloomberg.com/news/articles/2026-06-03/japan-s-katayama-reiterates-ready-on-fx-response-as-yen-weakens
+        context: remarks to reporters Wednesday after cabinet meeting
+
+  - story_id: takaichi-naphtha-chemical-supply-stable
+    category: politics
+    headline_en: Takaichi Announces Naphtha-Based Chemical Supply Stable Beyond FY2026
+    lead_url: https://www.nippon.com/en/news/yjj2026060300141/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026060300141/
+    hard_facts:
+      - claim: Prime Minister identity
+        kind: named_person
+        value: "Takaichi"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300141/
+        verbatim_excerpt: "Prime Minister Takaichi announced that Japan's naphtha-based chemical supply chain will remain stable beyond fiscal year 2026"
+      - claim: supply chain stability horizon
+        kind: temporal
+        value: "beyond fiscal year 2026"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300141/
+        verbatim_excerpt: "Japan's naphtha-based chemical supply chain will remain stable beyond fiscal year 2026"
+      - claim: announcement date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.nippon.com/en/news/yjj2026060300141/
+        verbatim_excerpt: "energy security measures tied to the supplementary budget package approved by cabinet on June 3"
+    quotes: []
+
+  - story_id: ldp-eyes-dpp-coalition-takaichi-parliament
+    category: politics
+    headline_en: LDP Eyes DPP as Coalition Partner to Strengthen Takaichi's Parliamentary Position
+    lead_url: https://www.japantimes.co.jp/news/2026/06/03/japan/politics/ldp-dpp-coalition/
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.japantimes.co.jp/news/2026/06/03/japan/politics/ldp-dpp-coalition/
+    hard_facts:
+      - claim: LDP Deputy Secretary General identity
+        kind: named_person
+        value: "Koichi Hagiuda"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/politics/ldp-dpp-coalition/
+        verbatim_excerpt: "LDP Deputy Secretary General Koichi Hagiuda floated the idea of expanding the ruling coalition to include the opposition Democratic Party for the People (DPP)"
+      - claim: opposition party named
+        kind: named_institution
+        value: "Democratic Party for the People (DPP)"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/politics/ldp-dpp-coalition/
+        verbatim_excerpt: "expanding the ruling coalition to include the opposition Democratic Party for the People (DPP)"
+      - claim: ruling coalition parties
+        kind: named_institution
+        value: "LDP–Japan Innovation Party"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/politics/ldp-dpp-coalition/
+        verbatim_excerpt: "The LDP–Japan Innovation Party coalition currently lacks a majority in the upper house"
+      - claim: LDP lower house seats from February 2026 election
+        kind: numerical
+        value: "316"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/politics/ldp-dpp-coalition/
+        verbatim_excerpt: "The LDP's February 2026 lower house landslide gained 316 seats"
+      - claim: LDP lower house election date
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/politics/ldp-dpp-coalition/
+        verbatim_excerpt: "The LDP's February 2026 lower house landslide gained 316 seats"
+      - claim: DPP chief identity
+        kind: named_person
+        value: "Yuichiro Tamaki"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/politics/ldp-dpp-coalition/
+        verbatim_excerpt: "DPP chief Yuichiro Tamaki had previously held firm on partnership terms"
+    quotes: []
+
+  - story_id: takaichi-food-tax-cut-1pct-decision-june
+    category: politics
+    headline_en: Takaichi to Decide This Month on Cutting Food Consumption Tax to 1% Rather Than Zero
+    lead_url: https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+    body_source: full
+    corroborated_by:
+      - https://www.japantimes.co.jp/news/2026/06/02/japan/takaichi-food-tax-one-percent/
+    locked_urls:
+      - https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+      - https://www.japantimes.co.jp/news/2026/06/02/japan/takaichi-food-tax-one-percent/
+    hard_facts:
+      - claim: Prime Minister identity
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+        verbatim_excerpt: "Prime Minister Sanae Takaichi is set to decide this month whether to cut the consumption tax rate on food to 1%"
+      - claim: proposed food consumption tax rate
+        kind: numerical_with_unit
+        value: "1%"
+        source_urls:
+          - https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+        verbatim_excerpt: "cut the consumption tax rate on food to 1% from the current 8%"
+      - claim: current food consumption tax rate
+        kind: numerical_with_unit
+        value: "8%"
+        source_urls:
+          - https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+        verbatim_excerpt: "cut the consumption tax rate on food to 1% from the current 8%"
+      - claim: timeline for zero-rate cash register update
+        kind: temporal
+        value: "around one year"
+        source_urls:
+          - https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+        verbatim_excerpt: "a zero-rate policy, which would take around one year"
+      - claim: interim agreement target date
+        kind: temporal
+        value: "end of June"
+        source_urls:
+          - https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+        verbatim_excerpt: "The National Council on Social Security aims to reach an interim agreement on a consumption tax cut for food by the end of June"
+      - claim: estimated annual tax revenue loss under zero-rate scenario
+        kind: numerical_with_unit
+        value: "approximately 4.3 trillion yen"
+        source_urls:
+          - https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+        verbatim_excerpt: "The government estimates annual tax revenue losses at approximately 4.3 trillion yen under a zero-rate scenario"
+      - claim: named institution — social security council
+        kind: named_institution
+        value: "National Council on Social Security"
+        source_urls:
+          - https://asia.nikkei.com/economy/japan-s-takaichi-to-decide-this-month-on-cutting-food-tax-to-1
+        verbatim_excerpt: "The National Council on Social Security aims to reach an interim agreement"
+    quotes: []
+
+  - story_id: mhi-preferred-networks-defense-ai-alliance
+    category: tech
+    headline_en: Mitsubishi Heavy Industries and Preferred Networks Form Defense AI Business Alliance
+    lead_url: https://asia.nikkei.com/business/technology/artificial-intelligence/mitsubishi-heavy-and-preferred-networks-forge-defense-ai-business
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://asia.nikkei.com/business/technology/artificial-intelligence/mitsubishi-heavy-and-preferred-networks-forge-defense-ai-business
+    hard_facts:
+      - claim: defense contractor identity
+        kind: named_institution
+        value: "Mitsubishi Heavy Industries"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/mitsubishi-heavy-and-preferred-networks-forge-defense-ai-business
+        verbatim_excerpt: "Mitsubishi Heavy Industries and Preferred Networks announced the formation of a defense AI business alliance"
+      - claim: AI startup identity
+        kind: named_institution
+        value: "Preferred Networks"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/mitsubishi-heavy-and-preferred-networks-forge-defense-ai-business
+        verbatim_excerpt: "Mitsubishi Heavy Industries and Preferred Networks announced the formation of a defense AI business alliance"
+    quotes: []
+
+  - story_id: microsoft-mai-thinking-1-ai-reasoning-model
+    category: tech
+    headline_en: Microsoft Unveils MAI-Thinking-1 AI Reasoning Model Ahead of OpenAI IPO
+    lead_url: https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+    hard_facts:
+      - claim: named product — Microsoft AI model
+        kind: named_product
+        value: "MAI-Thinking-1"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+        verbatim_excerpt: "Microsoft introduced its initial reasoning-focused AI model, MAI-Thinking-1"
+      - claim: named institution — Microsoft
+        kind: named_institution
+        value: "Microsoft"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+        verbatim_excerpt: "Microsoft introduced its initial reasoning-focused AI model, MAI-Thinking-1, and collaborated with Nvidia"
+      - claim: named institution — Nvidia
+        kind: named_institution
+        value: "Nvidia"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+        verbatim_excerpt: "collaborated with Nvidia on specialized chip technology for Windows systems"
+      - claim: named institution — OpenAI
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+        verbatim_excerpt: "The model launch comes ahead of the anticipated OpenAI IPO"
+      - claim: Microsoft Japan AI infrastructure commitment
+        kind: numerical_with_unit
+        value: "$10 billion"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+        verbatim_excerpt: "Microsoft committed $10 billion in Japan AI infrastructure through 2029"
+      - claim: Microsoft Japan AI infrastructure timeline
+        kind: temporal
+        value: "through 2029"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+        verbatim_excerpt: "Microsoft committed $10 billion in Japan AI infrastructure through 2029"
+      - claim: Japanese engineers training target
+        kind: numerical_with_unit
+        value: "1 million"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-unveils-its-first-ai-reasoning-model-ahead-of-openai-ipo
+        verbatim_excerpt: "is training 1 million Japanese engineers"
+    quotes: []
+
+  - story_id: tropical-storm-jangmi-slams-japan
+    category: society
+    headline_en: Tropical Storm Jangmi Slams Japan
+    lead_url: https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+      - https://www.nationthailand.com/news/world/40066984
+      - https://newsonjapan.com/article/149466.php
+      - https://newsonjapan.com/article/149481.php
+      - https://newsonjapan.com/article/149483.php
+    locked_urls:
+      - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+      - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+      - https://www.nationthailand.com/news/world/40066984
+      - https://newsonjapan.com/article/149466.php
+      - https://newsonjapan.com/article/149481.php
+      - https://newsonjapan.com/article/149483.php
+    hard_facts:
+      - claim: evacuation order time issued
+        kind: temporal
+        value: "12:30 p.m."
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "As of 12:30 p.m., level 4 evacuation orders were in place in Tokyo"
+      - claim: evacuation level in Tokyo
+        kind: numerical
+        value: "4"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "level 4 evacuation orders were in place in Tokyo"
+      - claim: named ward — Tokyo evacuation
+        kind: named_institution
+        value: "Shinagawa Ward"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "level 4 evacuation orders were in place in Tokyo for all of Shinagawa Ward"
+      - claim: households losing power
+        kind: numerical_with_unit
+        value: "Nearly 60,000 households"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "Nearly 60,000 households lost power"
+      - claim: flights cancelled by JAL and ANA
+        kind: numerical_with_unit
+        value: "nearly 900 flights"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "Japan Airlines and All Nippon Airways cancelled nearly 900 flights"
+      - claim: passengers affected by flight cancellations
+        kind: numerical_with_unit
+        value: "approximately 90,000 passengers"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "affecting approximately 90,000 passengers"
+      - claim: named institution — Japan Airlines
+        kind: named_institution
+        value: "Japan Airlines"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "Japan Airlines and All Nippon Airways cancelled nearly 900 flights"
+      - claim: named institution — All Nippon Airways
+        kind: named_institution
+        value: "All Nippon Airways"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "Japan Airlines and All Nippon Airways cancelled nearly 900 flights"
+      - claim: named institution — JR East
+        kind: named_institution
+        value: "JR East"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "JR East suspended multiple rail lines"
+      - claim: flood alert level
+        kind: numerical
+        value: "5"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "A Level 5 Flood Occurrence Information alert was issued for the Kuwano River and the Naka River tributary in Tokushima Prefecture"
+      - claim: number of injuries
+        kind: numerical_with_unit
+        value: "At least 16 people"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "At least 16 people were injured"
+      - claim: storm central pressure
+        kind: numerical_with_unit
+        value: "980 hPa"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "The storm had a central pressure of 980 hPa"
+      - claim: storm maximum sustained winds
+        kind: numerical_with_unit
+        value: "25 m/s"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "maximum sustained winds of 25 m/s"
+      - claim: number of prefectures under evacuation advisories
+        kind: numerical
+        value: "eight"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/03/japan/tropical-storm-jangmi-landfall/
+        verbatim_excerpt: "Authorities issued evacuation advisories across eight prefectures"
+    quotes: []
+
+  - story_id: toyota-suzuki-halt-production-typhoon-jangmi
+    category: society
+    headline_en: Toyota and Suzuki Halt Domestic Factory Production Due to Typhoon Jangmi
+    lead_url: https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+    body_source: full
+    corroborated_by:
+      - https://newsonjapan.com/article/149485.php
+    locked_urls:
+      - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+      - https://newsonjapan.com/article/149485.php
+    hard_facts:
+      - claim: Toyota domestic factories halted
+        kind: numerical
+        value: "13"
+        source_urls:
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "Toyota Motor suspended operations at 13 domestic factories on June 3"
+      - claim: Toyota halt date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "Toyota Motor suspended operations at 13 domestic factories on June 3"
+      - claim: Toyota production halt duration
+        kind: temporal
+        value: "from early morning until around 3 p.m."
+        source_urls:
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "All production lines at Toyota's 13 domestic plants were halted from early morning until around 3 p.m."
+      - claim: Toyota excluded plant location
+        kind: named_institution
+        value: "Fukuoka Prefecture plant"
+        source_urls:
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "The Fukuoka Prefecture plant was excluded"
+      - claim: Suzuki plants halted
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "Suzuki halted work at all five of its Shizuoka Prefecture plants"
+      - claim: Suzuki plant location
+        kind: named_institution
+        value: "Shizuoka Prefecture"
+        source_urls:
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "Suzuki halted work at all five of its Shizuoka Prefecture plants"
+      - claim: named institution — Toyota Motor
+        kind: named_institution
+        value: "Toyota Motor"
+        source_urls:
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "Toyota Motor suspended operations at 13 domestic factories on June 3"
+      - claim: named institution — Suzuki
+        kind: named_institution
+        value: "Suzuki"
+        source_urls:
+          - https://japantoday.com/category/national/tropical-storm-jangmi-batters-japan-cuts-power-to-60-000-homes
+        verbatim_excerpt: "Suzuki halted work at all five of its Shizuoka Prefecture plants"
+    quotes: []
+
+  - story_id: meti-supplementary-takeover-guidelines
+    category: ipo_ma
+    headline_en: METI Proposes Supplementary Guidance on Corporate Takeover Guidelines
+    lead_url: https://mlexmarketinsight.com/news-analysis/editors-picks/area-of-expertise/competition/japan-meti-supplementary-takeover-guidelines-june-2026
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://mlexmarketinsight.com/news-analysis/editors-picks/area-of-expertise/competition/japan-meti-supplementary-takeover-guidelines-june-2026
+    hard_facts:
+      - claim: named institution — METI
+        kind: named_institution
+        value: "Japan's Ministry of Economy, Trade and Industry"
+        source_urls:
+          - https://mlexmarketinsight.com/news-analysis/editors-picks/area-of-expertise/competition/japan-meti-supplementary-takeover-guidelines-june-2026
+        verbatim_excerpt: "Japan's Ministry of Economy, Trade and Industry proposed supplementary guidance clarifying the implementation of its corporate takeover guidelines"
+      - claim: public consultation end date
+        kind: temporal
+        value: "July 2026"
+        source_urls:
+          - https://mlexmarketinsight.com/news-analysis/editors-picks/area-of-expertise/competition/japan-meti-supplementary-takeover-guidelines-june-2026
+        verbatim_excerpt: "with a public consultation period running through July 2026"
+      - claim: FIEA amendments effective date
+        kind: temporal
+        value: "May 1, 2026"
+        source_urls:
+          - https://mlexmarketinsight.com/news-analysis/editors-picks/area-of-expertise/competition/japan-meti-supplementary-takeover-guidelines-june-2026
+        verbatim_excerpt: "Follows the May 1, 2026 effective date of the 2024 FIEA amendments"
+      - claim: mandatory tender offer voting rights threshold
+        kind: numerical_with_unit
+        value: "30%"
+        source_urls:
+          - https://mlexmarketinsight.com/news-analysis/editors-picks/area-of-expertise/competition/japan-meti-supplementary-takeover-guidelines-june-2026
+        verbatim_excerpt: "mandatory tender offer rules for acquisitions above 30% of outstanding voting rights"
+      - claim: named product — regulation
+        kind: named_product
+        value: "2024 FIEA amendments"
+        source_urls:
+          - https://mlexmarketinsight.com/news-analysis/editors-picks/area-of-expertise/competition/japan-meti-supplementary-takeover-guidelines-june-2026
+        verbatim_excerpt: "Follows the May 1, 2026 effective date of the 2024 FIEA amendments"
+    quotes: []
