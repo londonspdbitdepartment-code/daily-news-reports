@@ -1,0 +1,897 @@
+version: 1
+generated_at: 2026-06-03T00:00:00Z
+country: South Korea
+date: 2026-06-03
+total_stories: 20
+stories:
+  - story_id: kospi-sidecar-volatility-retail-leverage
+    category: econ
+    headline_en: "South Korea KOSPI hits extreme volatility milestone with 20 sidecar triggers in five months as retail leverage surges to record"
+    lead_url: https://www.koreaherald.com/article/10762899
+    body_source: full
+    corroborated_by:
+      - https://en.sedaily.com/finance/2026/06/03/korea-stock-trading-hits-153-trillion-won-daily-amid
+    locked_urls:
+      - https://www.koreaherald.com/article/10762899
+      - https://en.sedaily.com/finance/2026/06/03/korea-stock-trading-hits-153-trillion-won-daily-amid
+    hard_facts:
+      - claim: Sidecar triggers in first five months of 2026
+        kind: numerical
+        value: "20"
+        source_urls: [https://www.koreaherald.com/article/10762899]
+        verbatim_excerpt: "Sidecars were triggered 20 times in the first five months of 2026, eleven on the buy side and nine on the sell side."
+      - claim: Margin debt peak
+        kind: numerical_with_unit
+        value: "38 trillion won ($24.9 billion)"
+        source_urls: [https://www.koreaherald.com/article/10762899]
+        verbatim_excerpt: "Margin debt reached 38 trillion won ($24.9 billion) for the first time last week."
+      - claim: Forced liquidation volume in May
+        kind: numerical_with_unit
+        value: "794.6 billion won"
+        source_urls: [https://www.koreaherald.com/article/10762899]
+        verbatim_excerpt: "Forced liquidation volume was 794.6 billion won in May, roughly tripling April's 264.2 billion won."
+      - claim: VKOSPI fear gauge level
+        kind: numerical
+        value: "75.42"
+        source_urls: [https://www.koreaherald.com/article/10762899]
+        verbatim_excerpt: "The fear gauge VKOSPI stayed above 70, touching 75.42; readings above 50 are considered extreme."
+      - claim: Daily trading volume on June 1
+        kind: numerical_with_unit
+        value: "153.75 trillion won"
+        source_urls: [https://en.sedaily.com/finance/2026/06/03/korea-stock-trading-hits-153-trillion-won-daily-amid]
+        verbatim_excerpt: "Total daily trading volume on Korean stock markets reached 153.75 trillion won on June 1, 45 percent above the previous month's daily average."
+      - claim: Analyst at Mirae Asset Securities
+        kind: named_person
+        value: "Seo Sang-young"
+        source_urls: [https://www.koreaherald.com/article/10762899]
+        verbatim_excerpt: "Analyst Seo Sang-young of Mirae Asset Securities stated: 'Retail investors' concentration in single-stock leveraged products is increasingly shaping the direction of the index.'"
+      - claim: Samsung Electronics market cap
+        kind: numerical_with_unit
+        value: "$1.56 trillion"
+        source_urls: [https://www.koreaherald.com/article/10762899]
+        verbatim_excerpt: "Samsung Electronics market cap at $1.56 trillion (10th globally) and SK hynix at $1.104 trillion."
+    quotes:
+      - speaker_name: Seo Sang-young
+        speaker_title: Analyst, Mirae Asset Securities
+        verbatim_en: "Retail investors' concentration in single-stock leveraged products is increasingly shaping the direction of the index."
+        source_url: https://www.koreaherald.com/article/10762899
+        context: Comment on the structural market risk from leveraged retail participation in a record KOSPI rally.
+
+  - story_id: korea-may-cpi-31pct-rate-hike-expectation
+    category: econ
+    headline_en: "South Korea May inflation surges to 3.1%, highest in 26 months, cementing July rate hike expectations"
+    lead_url: https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months
+    body_source: full
+    corroborated_by:
+      - https://www.investing.com/news/economic-indicators/south-korea-may-inflation-31-yy-higher-than-expected-4720656
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months
+      - https://www.investing.com/news/economic-indicators/south-korea-may-inflation-31-yy-higher-than-expected-4720656
+    hard_facts:
+      - claim: CPI year-on-year rise in May 2026
+        kind: numerical_with_unit
+        value: "3.1 percent"
+        source_urls: [https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months]
+        verbatim_excerpt: "South Korea's consumer price index rose 3.1 percent year-on-year in May 2026 (CPI: 119.92)."
+      - claim: Core inflation rate in May
+        kind: numerical_with_unit
+        value: "2.5 percent"
+        source_urls: [https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months]
+        verbatim_excerpt: "Core inflation quickened to 2.5 percent in May from 2.2 percent in April, the fastest pace since February 2024."
+      - claim: Petroleum product price surge year-on-year
+        kind: numerical_with_unit
+        value: "24.2 percent"
+        source_urls: [https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months]
+        verbatim_excerpt: "Petroleum product prices surged 24.2 percent year-on-year."
+      - claim: Inflation reduction from fuel price caps
+        kind: numerical_with_unit
+        value: "0.6 percentage point"
+        source_urls: [https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months]
+        verbatim_excerpt: "Without fuel price caps introduced in March, inflation would have reached approximately 3.7 percent—government measures reduced the reading by 0.6 percentage point."
+      - claim: BOK next policy meeting date
+        kind: temporal
+        value: "July 16"
+        source_urls: [https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months]
+        verbatim_excerpt: "The BOK's next policy meeting is scheduled for July 16."
+      - claim: Director of Economic Trends Statistics
+        kind: named_person
+        value: "Lee Du-won"
+        source_urls: [https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months]
+        verbatim_excerpt: "Lee Du-won, Director of Economic Trends Statistics at the National Data Agency, noted the government's cap on petroleum prices and the fuel tax cut jointly lowered inflation by 0.6 percentage point."
+      - claim: BOK Head of Research
+        kind: named_person
+        value: "Lee Ji-ho"
+        source_urls: [https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months]
+        verbatim_excerpt: "Lee Ji-ho, Head of Research at the Bank of Korea, stated 'Inflation won't fall below 3% for the time being.'"
+    quotes:
+      - speaker_name: Lee Ji-ho
+        speaker_title: Head of Research, Bank of Korea
+        verbatim_en: "Inflation won't fall below 3% for the time being."
+        source_url: https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months
+        context: Comment on May 2026 CPI release showing 3.1% YoY inflation, the highest in 26 months.
+      - speaker_name: Park Sang-hyun
+        speaker_title: Economist
+        verbatim_en: "Rate hikes appear certain, contingent on the geopolitical situation's impact on oil prices."
+        source_url: https://en.sedaily.com/finance/2026/06/02/korea-may-inflation-hits-31-percent-highest-in-26-months
+        context: Market reaction to May CPI print cementing July BOK rate-hike expectations.
+
+  - story_id: bok-governor-shin-rate-hike-signal
+    category: econ
+    headline_en: "New BOK Governor Shin Hyun-song signals imminent rate hikes as hawkish board split widens"
+    lead_url: https://www.koreaherald.com/article/10758075
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/05/28/south-korea-holds-rates-reveals-hawkish-split-within-board.html
+    locked_urls:
+      - https://www.koreaherald.com/article/10758075
+      - https://www.cnbc.com/2026/05/28/south-korea-holds-rates-reveals-hawkish-split-within-board.html
+    hard_facts:
+      - claim: BOK benchmark rate held at May 28 meeting
+        kind: numerical_with_unit
+        value: "2.5 percent"
+        source_urls: [https://www.koreaherald.com/article/10758075]
+        verbatim_excerpt: "Governor Shin Hyun-song held the benchmark interest rate at 2.5 percent at the May 28 Monetary Policy Board meeting."
+      - claim: Board members calling for immediate hike
+        kind: numerical
+        value: "2 of 7"
+        source_urls: [https://www.koreaherald.com/article/10758075]
+        verbatim_excerpt: "Two of seven board members called for an immediate 25-basis-point hike."
+      - claim: BOK 2026 growth forecast revision
+        kind: numerical_with_unit
+        value: "2.6 percent (from 2 percent in February)"
+        source_urls: [https://www.koreaherald.com/article/10758075]
+        verbatim_excerpt: "The BOK raised its 2026 growth forecast to 2.6 percent (from 2 percent in February)."
+      - claim: BOK 2026 inflation forecast revision
+        kind: numerical_with_unit
+        value: "2.7 percent (from 2.2 percent)"
+        source_urls: [https://www.koreaherald.com/article/10758075]
+        verbatim_excerpt: "The BOK lifted its inflation forecast to 2.7 percent (from 2.2 percent)."
+      - claim: USD/KRW rate on June 3
+        kind: numerical_with_unit
+        value: "1,527.34"
+        source_urls: [https://www.koreaherald.com/article/10758075]
+        verbatim_excerpt: "USD/KRW rose to 1,527.34 on June 3, up 0.67 percent from the prior session."
+      - claim: BOK Governor
+        kind: named_person
+        value: "Shin Hyun-song"
+        source_urls: [https://www.koreaherald.com/article/10758075]
+        verbatim_excerpt: "Bank of Korea Governor Shin Hyun-song, who took office in late April 2026."
+    quotes:
+      - speaker_name: Shin Hyun-song
+        speaker_title: Governor, Bank of Korea
+        verbatim_en: "Whether looking at inflation, growth, the exchange rate or the property market, the direction is clear. Raising the base rate would provide an opportunity to handle them all at once."
+        source_url: https://www.koreaherald.com/article/10758075
+        context: Governor Shin's rationale for the hawkish policy pivot at the May 28 MPC meeting.
+      - speaker_name: Shin Hyun-song
+        speaker_title: Governor, Bank of Korea
+        verbatim_en: "We will not tolerate one-sided moves in the currency market."
+        source_url: https://www.koreaherald.com/article/10758075
+        context: Governor Shin's warning on KRW weakness amid USD/KRW trading above 1,500.
+
+  - story_id: sk-local-elections-2026-polling-day
+    category: politics
+    headline_en: "South Korea holds landmark local elections, first electoral test of President Lee administration; by-elections for 14 Assembly seats run simultaneously"
+    lead_url: https://www.koreaherald.com/article/10762703
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260603/nation-heads-to-polls-to-select-local-govt-chiefs-councilors
+    locked_urls:
+      - https://www.koreaherald.com/article/10762703
+      - https://www.koreatimes.co.kr/southkorea/politics/20260603/nation-heads-to-polls-to-select-local-govt-chiefs-councilors
+    hard_facts:
+      - claim: Total polling stations
+        kind: numerical
+        value: "14,288"
+        source_urls: [https://www.koreaherald.com/article/10762703]
+        verbatim_excerpt: "South Korea's ninth nationwide local elections opened on June 3, 2026 at 6:00 a.m. across 14,288 polling stations."
+      - claim: Eligible voters
+        kind: numerical_with_unit
+        value: "44.6 million citizens"
+        source_urls: [https://www.koreaherald.com/article/10762703]
+        verbatim_excerpt: "A total of 44.6 million citizens were eligible to vote."
+      - claim: Total officials being elected
+        kind: numerical
+        value: "4,227"
+        source_urls: [https://www.koreaherald.com/article/10762703]
+        verbatim_excerpt: "4,227 officials in total."
+      - claim: Early voting rate (May 29–30)
+        kind: numerical_with_unit
+        value: "23.51 percent (10.49 million voters)"
+        source_urls: [https://www.koreaherald.com/article/10762703]
+        verbatim_excerpt: "Early voting (May 29–30) achieved a record high of 23.51 percent (10.49 million voters), the highest since the system's introduction in 2014."
+      - claim: Turnout by 5 p.m. on election day
+        kind: numerical_with_unit
+        value: "57.3 percent (25.61 million people)"
+        source_urls: [https://www.koreaherald.com/article/10762703]
+        verbatim_excerpt: "By 5 p.m. on June 3, 57.3 percent of voters—25.61 million people—had cast ballots."
+      - claim: DPK current National Assembly seats
+        kind: numerical
+        value: "152"
+        source_urls: [https://www.koreaherald.com/article/10762703]
+        verbatim_excerpt: "Current National Assembly composition: Democratic Party 152 seats, People Power Party 106 seats."
+      - claim: DPK leader
+        kind: named_person
+        value: "Jung Chung-rae"
+        source_urls: [https://www.koreaherald.com/article/10762703]
+        verbatim_excerpt: "DPK leader Jung Chung-rae stated: 'Korea stands at a crossroads.'"
+    quotes:
+      - speaker_name: Jung Chung-rae
+        speaker_title: Leader, Democratic Party of Korea
+        verbatim_en: "Korea stands at a crossroads between moving toward a more vibrant future and being held back by the legacy of Dec. 3 martial law."
+        source_url: https://www.koreaherald.com/article/10762703
+        context: DPK leader's statement on election day framing the vote as a referendum on the Dec. 3 martial law legacy.
+      - speaker_name: Jang Dong-hyeok
+        speaker_title: Leader, People Power Party
+        verbatim_en: "Many races remain too close to call, and a single vote could determine the outcome."
+        source_url: https://www.koreaherald.com/article/10762703
+        context: PPP leader's election-day appeal to supporters amid polling showing PPP trailing in Seoul.
+
+  - story_id: by-elections-14-seats-han-dong-hoon
+    category: politics
+    headline_en: "By-elections for 14 National Assembly seats highlight fractured opposition landscape including Han Dong-hoon independent bid in Busan"
+    lead_url: https://www.koreaherald.com/article/10762897
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762897
+    hard_facts:
+      - claim: Vacant Assembly seats contested
+        kind: numerical
+        value: "14"
+        source_urls: [https://www.koreaherald.com/article/10762897]
+        verbatim_excerpt: "By-elections for 14 vacant National Assembly seats were held on June 3, 2026."
+      - claim: Former PPP chair running as independent in Busan
+        kind: named_person
+        value: "Han Dong-hoon"
+        source_urls: [https://www.koreaherald.com/article/10762897]
+        verbatim_excerpt: "In Busan's Buk-A district, former PPP chair Han Dong-hoon ran as an independent, leading polls at 39 percent."
+      - claim: Rebuilding Korea Party founder running in Pyeongtaek-B
+        kind: named_person
+        value: "Cho Kuk"
+        source_urls: [https://www.koreaherald.com/article/10762897]
+        verbatim_excerpt: "In Pyeongtaek-B, Rebuilding Korea Party founder and former Justice Minister Cho Kuk led polls at 24 percent."
+      - claim: Former KCC Chair running in Daegu
+        kind: named_person
+        value: "Lee Jin-sook"
+        source_urls: [https://www.koreaherald.com/article/10762897]
+        verbatim_excerpt: "In Daegu, former Korea Communications Commission Chair Lee Jin-sook (PPP) led with 48.5 percent."
+      - claim: DPK's Seoul mayoral candidate polling lead
+        kind: named_institution
+        value: "Democratic Party of Korea"
+        source_urls: [https://www.koreaherald.com/article/10762897]
+        verbatim_excerpt: "DPK's Chong Won-o leading incumbent PPP Seoul Mayor Oh Se-hoon 42 percent to 36 percent."
+      - claim: Seats previously held by DPK among the 14 vacancies
+        kind: numerical
+        value: "13 of 14"
+        source_urls: [https://www.koreaherald.com/article/10762897]
+        verbatim_excerpt: "Thirteen of the 14 seats were previously held by Democratic Party lawmakers."
+    quotes:
+      - speaker_name: Lee Jae-myung
+        speaker_title: President of South Korea
+        verbatim_en: "But only if we do not give up our vote and choose capable and loyal public servants wisely."
+        source_url: https://www.koreaherald.com/article/10762897
+        context: President Lee's social media message urging voters to participate in the June 3 elections.
+
+  - story_id: president-lee-election-day-statement
+    category: politics
+    headline_en: "South Korea election day: President Lee urges public to vote and defend future of country"
+    lead_url: https://www.koreaherald.com/article/10762807
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10762807
+    hard_facts:
+      - claim: President of South Korea
+        kind: named_person
+        value: "Lee Jae-myung"
+        source_urls: [https://www.koreaherald.com/article/10762807]
+        verbatim_excerpt: "President Lee Jae-myung publicly urged South Korean citizens not to forfeit their vote."
+      - claim: Time of Lee's social media message
+        kind: temporal
+        value: "around 11 a.m., June 3, 2026"
+        source_urls: [https://www.koreaherald.com/article/10762807]
+        verbatim_excerpt: "Speaking via a social media message posted around 11 a.m."
+      - claim: President Lee's approval rating
+        kind: numerical_with_unit
+        value: "around 60 percent"
+        source_urls: [https://www.koreaherald.com/article/10762807]
+        verbatim_excerpt: "Lee maintains approval ratings hovering around 60 percent, according to polling conducted through late May 2026."
+      - claim: Lee's inauguration date
+        kind: temporal
+        value: "June 2025"
+        source_urls: [https://www.koreaherald.com/article/10762807]
+        verbatim_excerpt: "following his inauguration in June 2025."
+      - claim: Assembly seats up for by-election
+        kind: numerical
+        value: "14"
+        source_urls: [https://www.koreaherald.com/article/10762807]
+        verbatim_excerpt: "14 National Assembly by-election seats."
+    quotes:
+      - speaker_name: Lee Jae-myung
+        speaker_title: President of South Korea
+        verbatim_en: "But only if we do not give up our vote and choose capable and loyal public servants wisely."
+        source_url: https://www.koreaherald.com/article/10762807
+        context: President Lee's vision for South Korea as a "premium financial nation," framing the June 3 election as determinative.
+
+  - story_id: sk-japan-acsa-shangri-la-dialogue
+    category: politics
+    headline_en: "South Korea, Japan discuss potential ACSA military logistics pact at Shangri-La Dialogue amid historical sensitivities"
+    lead_url: https://www.koreaherald.com/article/10760884
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/defense/20260531/s-korea-discussed-bilateral-military-logistics-support-pact-with-japan-defense-minister
+      - https://www.scmp.com/news/china/military/article/3355726/south-korea-and-japan-eye-military-logistics-pact-should-china-be-wary
+    locked_urls:
+      - https://www.koreaherald.com/article/10760884
+      - https://www.koreatimes.co.kr/southkorea/defense/20260531/s-korea-discussed-bilateral-military-logistics-support-pact-with-japan-defense-minister
+      - https://www.scmp.com/news/china/military/article/3355726/south-korea-and-japan-eye-military-logistics-pact-should-china-be-wary
+    hard_facts:
+      - claim: South Korean Defense Minister
+        kind: named_person
+        value: "Ahn Gyu-back"
+        source_urls: [https://www.koreaherald.com/article/10760884]
+        verbatim_excerpt: "South Korean Defense Minister Ahn Gyu-back confirmed on the sidelines of the 23rd Shangri-La Dialogue security forum in Singapore on May 31, 2026."
+      - claim: Japanese Defense Minister
+        kind: named_person
+        value: "Shinjiro Koizumi"
+        source_urls: [https://www.koreaherald.com/article/10760884]
+        verbatim_excerpt: "following a bilateral meeting between Ahn and Japanese Defense Minister Shinjiro Koizumi on Saturday."
+      - claim: Venue and date of Shangri-La Dialogue
+        kind: temporal
+        value: "May 31, 2026, Singapore"
+        source_urls: [https://www.koreaherald.com/article/10760884]
+        verbatim_excerpt: "the 23rd Shangri-La Dialogue security forum in Singapore on May 31, 2026."
+      - claim: Last bilateral search-and-rescue exercises
+        kind: temporal
+        value: "2017"
+        source_urls: [https://www.koreaherald.com/article/10760884]
+        verbatim_excerpt: "The two ministers also agreed to resume bilateral search-and-rescue exercises for the first time since 2017."
+      - claim: Year ACSA talks were first jointly discussed
+        kind: temporal
+        value: "2012"
+        source_urls: [https://www.koreaherald.com/article/10760884]
+        verbatim_excerpt: "An ACSA was first discussed jointly in 2012 alongside the General Security of Military Information Agreement (GSOMIA)."
+      - claim: Korean People Research Institute analyst
+        kind: named_person
+        value: "Jeong Han-wool"
+        source_urls: [https://www.koreaherald.com/article/10760884]
+        verbatim_excerpt: "Jeong Han-wool of Korean People Research Institute noted that 'the conservatives' support base has been fractured and weakened.'"
+    quotes:
+      - speaker_name: Ahn Gyu-back
+        speaker_title: Defense Minister, South Korea
+        verbatim_en: "There were discussions."
+        source_url: https://www.koreaherald.com/article/10760884
+        context: Minister Ahn's confirmation of ACSA talks with Japan at Shangri-La Dialogue, May 31, 2026.
+      - speaker_name: Shinjiro Koizumi
+        speaker_title: Defense Minister, Japan
+        verbatim_en: "Japan is ready to further expand cooperation with South Korea. At the same time, I understand that any next step must also have the support of the South Korean people."
+        source_url: https://www.koreaherald.com/article/10760884
+        context: Japanese Defense Minister's response on ACSA discussions at Shangri-La Dialogue.
+
+  - story_id: sk-group-chey-ai-factories-computex
+    category: tech
+    headline_en: "SK Group Chairman Chey Tae-won announces ambition to build AI factories at Computex 2026, pledges to double production capacity within five years"
+    lead_url: https://www.koreaherald.com/article/10762789
+    body_source: full
+    corroborated_by:
+      - https://en.sedaily.com/markets/2026/06/03/jensen-huangs-korea-visit-looms-raising-hopes-for-naver
+    locked_urls:
+      - https://www.koreaherald.com/article/10762789
+      - https://en.sedaily.com/markets/2026/06/03/jensen-huangs-korea-visit-looms-raising-hopes-for-naver
+    hard_facts:
+      - claim: SK Group Chairman
+        kind: named_person
+        value: "Chey Tae-won"
+        source_urls: [https://www.koreaherald.com/article/10762789]
+        verbatim_excerpt: "SK Group Chairman Chey Tae-won, speaking at Computex 2026 in Taipei on June 3."
+      - claim: SK hynix HBM4 allocation share
+        kind: numerical_with_unit
+        value: "60–70 percent of Nvidia's HBM4 allocation"
+        source_urls: [https://www.koreaherald.com/article/10762789]
+        verbatim_excerpt: "SK hynix holds an estimated 60–70 percent of Nvidia's HBM4 allocation, with Samsung at approximately 25–30 percent."
+      - claim: SK hynix market capitalisation
+        kind: numerical_with_unit
+        value: "$1 trillion"
+        source_urls: [https://www.koreaherald.com/article/10762789]
+        verbatim_excerpt: "SK hynix, which Chey chairs, has recently achieved a $1 trillion market capitalisation."
+      - claim: NCsoft stock surge on June 3
+        kind: numerical_with_unit
+        value: "14.43 percent"
+        source_urls: [https://www.koreaherald.com/article/10762789]
+        verbatim_excerpt: "NCsoft stock surging 14.43 percent on June 3."
+      - claim: SK Telecom stock jump
+        kind: numerical_with_unit
+        value: "11.59 percent"
+        source_urls: [https://www.koreaherald.com/article/10762789]
+        verbatim_excerpt: "SK Telecom jumped 11.59 percent after being named a 'major physical AI partner' in Huang's Computex keynote."
+      - claim: Nvidia CEO Seoul visit date
+        kind: temporal
+        value: "June 4"
+        source_urls: [https://www.koreaherald.com/article/10762789]
+        verbatim_excerpt: "as Nvidia CEO Jensen Huang was preparing his imminent Seoul visit, scheduled to begin June 4."
+    quotes:
+      - speaker_name: Chey Tae-won
+        speaker_title: Chairman, SK Group / SK hynix
+        verbatim_en: "Today we produce memory chips for AI, but I want to challenge ourselves to build AI factories."
+        source_url: https://www.koreaherald.com/article/10762789
+        context: SK Group Chairman's strategic declaration at Computex 2026 in Taipei, June 3, 2026.
+      - speaker_name: Chey Tae-won
+        speaker_title: Chairman, SK Group / SK hynix
+        verbatim_en: "We will double our production capacity within the next five years."
+        source_url: https://www.koreaherald.com/article/10762789
+        context: Capacity commitment announced at Computex 2026 alongside warnings of memory shortages persisting through 2030.
+
+  - story_id: nvidia-huang-seoul-visit-june4
+    category: tech
+    headline_en: "Nvidia CEO Jensen Huang to arrive in Seoul on June 4; Korea Herald details physical AI vision and key meetings with SK, Hyundai, LG, Naver"
+    lead_url: https://www.koreaherald.com/article/10762896
+    body_source: full
+    corroborated_by:
+      - https://en.sedaily.com/finance/2026/05/31/jensen-huang-to-meet-koreas-top-4-conglomerates-on-ai-chips
+    locked_urls:
+      - https://www.koreaherald.com/article/10762896
+      - https://en.sedaily.com/finance/2026/05/31/jensen-huang-to-meet-koreas-top-4-conglomerates-on-ai-chips
+    hard_facts:
+      - claim: Nvidia CEO
+        kind: named_person
+        value: "Jensen Huang"
+        source_urls: [https://www.koreaherald.com/article/10762896]
+        verbatim_excerpt: "Nvidia CEO Jensen Huang is set to arrive in Seoul on Thursday, June 4."
+      - claim: Number of Huang's Korea visits within six months
+        kind: numerical
+        value: "fourth visit to South Korea within six months"
+        source_urls: [https://www.koreaherald.com/article/10762896]
+        verbatim_excerpt: "his second trip in seven months and his fourth visit to South Korea within six months."
+      - claim: Korea's industrial robot density
+        kind: numerical_with_unit
+        value: "1,220 robots per 10,000 manufacturing employees"
+        source_urls: [https://www.koreaherald.com/article/10762896]
+        verbatim_excerpt: "Korea's industrial robot density of 1,220 robots per 10,000 manufacturing employees—six times the global average."
+      - claim: Hyundai Motor Group Executive Chair
+        kind: named_person
+        value: "Chung Euisun"
+        source_urls: [https://www.koreaherald.com/article/10762896]
+        verbatim_excerpt: "Hyundai Motor Group Executive Chair Chung Euisun (robotics, autonomous driving, AI factories)."
+      - claim: Naver Founder
+        kind: named_person
+        value: "Lee Hae-jin"
+        source_urls: [https://www.koreaherald.com/article/10762896]
+        verbatim_excerpt: "Naver Founder Lee Hae-jin (software and infrastructure expansion)."
+      - claim: Nvidia humanoid robot model
+        kind: named_product
+        value: "GR00T N1.7"
+        source_urls: [https://www.koreaherald.com/article/10762896]
+        verbatim_excerpt: "Key Nvidia technologies on the agenda include GR00T N1.7 humanoid robot model."
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia
+        verbatim_en: "I think that robotics is very important to Korea, and I hope to be able to contribute to robotics in Korea."
+        source_url: https://www.koreaherald.com/article/10762896
+        context: Huang's comment at Korea Partner Night in Taipei, ahead of his June 4 Seoul visit.
+
+  - story_id: samsung-hbm4e-shipments-market-cap
+    category: tech
+    headline_en: "Samsung HBM4E shipments begin, stock approaches ₩2,000 trillion market cap as KOSPI nears 9,000"
+    lead_url: https://en.sedaily.com/finance/2026/06/01/samsung-market-cap-tops-2000-trillion-won-as-kospi-breaches-8800
+    body_source: full
+    corroborated_by:
+      - https://www.techtimes.com/articles/317539/20260602/nvidia-vera-rubin-enters-full-production-samsung-sk-hynix-micron-named-hbm4-suppliers.htm
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/06/01/samsung-market-cap-tops-2000-trillion-won-as-kospi-breaches-8800
+      - https://www.techtimes.com/articles/317539/20260602/nvidia-vera-rubin-enters-full-production-samsung-sk-hynix-micron-named-hbm4-suppliers.htm
+    hard_facts:
+      - claim: Samsung stock rise on June 1
+        kind: numerical_with_unit
+        value: "6.51 percent"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/samsung-market-cap-tops-2000-trillion-won-as-kospi-breaches-8800]
+        verbatim_excerpt: "Samsung Electronics began shipping samples of its HBM4E memory to global customers, with stock climbing 6.51 percent during trading on June 1, 2026."
+      - claim: Samsung market capitalisation
+        kind: numerical_with_unit
+        value: "2,000 trillion won ($1.56 trillion)"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/samsung-market-cap-tops-2000-trillion-won-as-kospi-breaches-8800]
+        verbatim_excerpt: "Samsung's market capitalisation surpassed 2,000 trillion won ($1.56 trillion), ranking 10th globally."
+      - claim: Samsung 2026 chip capex
+        kind: numerical_with_unit
+        value: "₩110 trillion ($73 billion)"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/samsung-market-cap-tops-2000-trillion-won-as-kospi-breaches-8800]
+        verbatim_excerpt: "Samsung is investing ₩110 trillion ($73 billion) in chip capacity and R&D in 2026—a 22 percent year-on-year increase surpassing TSMC's approximately $50 billion capex."
+      - claim: Samsung production capacity expansion in 2026
+        kind: numerical_with_unit
+        value: "approximately 50 percent"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/samsung-market-cap-tops-2000-trillion-won-as-kospi-breaches-8800]
+        verbatim_excerpt: "Samsung is expanding its production capacity by approximately 50 percent in 2026."
+      - claim: Nvidia Vera Rubin platform status
+        kind: named_product
+        value: "Vera Rubin"
+        source_urls: [https://www.techtimes.com/articles/317539/20260602/nvidia-vera-rubin-enters-full-production-samsung-sk-hynix-micron-named-hbm4-suppliers.htm]
+        verbatim_excerpt: "after Nvidia CEO Jensen Huang confirmed at GTC Taipei 2026 that the Vera Rubin AI platform is in full production."
+      - claim: Byline of primary article
+        kind: named_person
+        value: "Kang Do-won"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/samsung-market-cap-tops-2000-trillion-won-as-kospi-breaches-8800]
+        verbatim_excerpt: "Samsung's market capitalisation surpassed 2,000 trillion won ($1.56 trillion), ranking 10th globally."
+    quotes: []
+
+  - story_id: election-record-turnout-573pct
+    category: society
+    headline_en: "South Korea votes in election with record turnout; 57.3 percent cast ballots by 5 p.m., exceeding entire 2022 final total"
+    lead_url: https://www.koreaherald.com/article/10762763
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260603/nation-heads-to-polls-to-select-local-govt-chiefs-councilors
+    locked_urls:
+      - https://www.koreaherald.com/article/10762763
+      - https://www.koreatimes.co.kr/southkorea/politics/20260603/nation-heads-to-polls-to-select-local-govt-chiefs-councilors
+    hard_facts:
+      - claim: Turnout by 5 p.m. June 3
+        kind: numerical_with_unit
+        value: "57.3 percent (25.61 million people)"
+        source_urls: [https://www.koreaherald.com/article/10762763]
+        verbatim_excerpt: "By 5 p.m. on June 3, 2026, 57.3 percent of South Korea's 44.65 million eligible voters had cast their ballots—25.61 million people."
+      - claim: Early voting turnout (May 29–30)
+        kind: numerical_with_unit
+        value: "23.51 percent"
+        source_urls: [https://www.koreaherald.com/article/10762763]
+        verbatim_excerpt: "23.51 percent of voters participated in early voting—the highest ever recorded for local elections since the system was introduced in 2014."
+      - claim: 2022 final turnout surpassed
+        kind: numerical_with_unit
+        value: "50.9 percent"
+        source_urls: [https://www.koreaherald.com/article/10762763]
+        verbatim_excerpt: "surpassing the final 50.9 percent turnout of the entire 2022 local elections by 6.4 percentage points."
+      - claim: Highest historical turnout year
+        kind: temporal
+        value: "1995 (68.4 percent)"
+        source_urls: [https://www.koreaherald.com/article/10762763]
+        verbatim_excerpt: "The 2022 elections saw the highest turnout since 1995, when 68.4 percent voted."
+      - claim: Poll closing time and exit poll release
+        kind: temporal
+        value: "6 p.m., June 3, 2026"
+        source_urls: [https://www.koreaherald.com/article/10762763]
+        verbatim_excerpt: "Exit polls were set to be announced immediately after polls closed at 6 p.m."
+    quotes: []
+
+  - story_id: national-pension-contribution-rise-2026
+    category: society
+    headline_en: "National pension contribution rates begin gradual rise in 2026 as South Korea confronts super-aged society fiscal pressure"
+    lead_url: https://global.lockton.com/us/en/news-insights/south-korea-to-increase-national-pension-service-contribution-rates
+    body_source: full
+    corroborated_by:
+      - https://www.koreabiomed.com/news/articleView.html?idxno=28774
+    locked_urls:
+      - https://global.lockton.com/us/en/news-insights/south-korea-to-increase-national-pension-service-contribution-rates
+      - https://www.koreabiomed.com/news/articleView.html?idxno=28774
+    hard_facts:
+      - claim: National Assembly pension reform approval date
+        kind: temporal
+        value: "March 20, 2025"
+        source_urls: [https://global.lockton.com/us/en/news-insights/south-korea-to-increase-national-pension-service-contribution-rates]
+        verbatim_excerpt: "South Korea's reformed National Pension Act, approved by the National Assembly on March 20, 2025 and effective January 1, 2026."
+      - claim: Contribution rate trajectory
+        kind: numerical_with_unit
+        value: "4.5 percent each to 6.5 percent each by 2033 (total 9% to 13%)"
+        source_urls: [https://global.lockton.com/us/en/news-insights/south-korea-to-increase-national-pension-service-contribution-rates]
+        verbatim_excerpt: "Employee and employer contributions each begin a gradual rise from 4.5 percent (total 9.0 percent) to a target of 6.5 percent each (13.0 percent total) by 2033."
+      - claim: Elderly population share
+        kind: numerical_with_unit
+        value: "21.21 percent by end-2025 (approximately 10.84 million people)"
+        source_urls: [https://global.lockton.com/us/en/news-insights/south-korea-to-increase-national-pension-service-contribution-rates]
+        verbatim_excerpt: "21.21 percent by end-2025, approximately 10.84 million people."
+      - claim: Projected year South Korea becomes world's most aged society
+        kind: temporal
+        value: "2044"
+        source_urls: [https://global.lockton.com/us/en/news-insights/south-korea-to-increase-national-pension-service-contribution-rates]
+        verbatim_excerpt: "South Korea is forecast to become the world's most aged society by 2044."
+      - claim: National health insurance premium for 2026
+        kind: numerical_with_unit
+        value: "7.19 percent"
+        source_urls: [https://global.lockton.com/us/en/news-insights/south-korea-to-increase-national-pension-service-contribution-rates]
+        verbatim_excerpt: "The national health insurance premium was simultaneously set at 7.19 percent for 2026, up 0.1 percentage point from 7.09 percent in 2025."
+    quotes: []
+
+  - story_id: election-day-social-media-digital-blackout
+    category: society
+    headline_en: "South Korea's election-day social media ban and \"digital blackout\" period highlights evolving relationship between politics and online platforms"
+    lead_url: https://www.koreatimes.co.kr/collections/2026localelections
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/collections/2026localelections
+    hard_facts:
+      - claim: Poll hours on election day
+        kind: temporal
+        value: "6 a.m. to 6 p.m., June 3, 2026"
+        source_urls: [https://www.koreatimes.co.kr/collections/2026localelections]
+        verbatim_excerpt: "Polling stations opened at 6 a.m. on June 3, 2026... exit poll data and vote projections may only be published after 6 p.m. when polls close."
+      - claim: Total candidates in elections
+        kind: numerical
+        value: "7,800-plus"
+        source_urls: [https://www.koreatimes.co.kr/collections/2026localelections]
+        verbatim_excerpt: "44.65 million eligible voters, 7,800-plus candidates, 14,288 polling stations."
+      - claim: Pre-certified uncontested candidates
+        kind: numerical
+        value: "513"
+        source_urls: [https://www.koreatimes.co.kr/collections/2026localelections]
+        verbatim_excerpt: "The commission had pre-certified 513 uncontested candidates in various smaller constituencies by mid-May 2026."
+      - claim: Expected final turnout
+        kind: numerical_with_unit
+        value: "well above 60 percent"
+        source_urls: [https://www.koreatimes.co.kr/collections/2026localelections]
+        verbatim_excerpt: "an estimated final turnout well above 60 percent."
+      - claim: Expected result announcement time
+        kind: temporal
+        value: "between midnight and 4 a.m. June 4"
+        source_urls: [https://www.koreatimes.co.kr/collections/2026localelections]
+        verbatim_excerpt: "final results expected to emerge between midnight and 4 a.m. June 4."
+    quotes: []
+
+  - story_id: doosan-sk-siltron-acquisition-5trillion
+    category: ipo_ma
+    headline_en: "Doosan Group signs stock purchase agreement for ₩5 trillion acquisition of SK Siltron, world's third-largest semiconductor wafer maker"
+    lead_url: https://www.businesskorea.co.kr/news/articleView.html?idxno=269601
+    body_source: full
+    corroborated_by:
+      - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202605170001
+      - https://www.upi.com/Top_News/World-News/2026/05/18/South-Korean-Doosan-group-nears-33B-deal-to-acquire-SK-Siltron/5461779146935/
+      - https://en.sedaily.com/news/2026/05/24/doosan-awakens-ma-dna-with-36-billion-sk-siltron-deal
+    locked_urls:
+      - https://www.businesskorea.co.kr/news/articleView.html?idxno=269601
+      - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202605170001
+      - https://www.upi.com/Top_News/World-News/2026/05/18/South-Korean-Doosan-group-nears-33B-deal-to-acquire-SK-Siltron/5461779146935/
+      - https://en.sedaily.com/news/2026/05/24/doosan-awakens-ma-dna-with-36-billion-sk-siltron-deal
+    hard_facts:
+      - claim: Acquisition deal value
+        kind: numerical_with_unit
+        value: "approximately 5 trillion won ($3.32 billion)"
+        source_urls: [https://www.businesskorea.co.kr/news/articleView.html?idxno=269601]
+        verbatim_excerpt: "the approximately 5 trillion won ($3.32 billion) acquisition of SK Siltron Co."
+      - claim: Phase 1 share coverage
+        kind: numerical_with_unit
+        value: "70.6 percent (SK Group's 51 percent + 19.6 percent TRS-linked)"
+        source_urls: [https://www.businesskorea.co.kr/news/articleView.html?idxno=269601]
+        verbatim_excerpt: "The deal covers 70.6 percent of shares in the first phase: SK Group's 51 percent stake plus a 19.6 percent stake linked to total return swap contracts."
+      - claim: Bank financing committed
+        kind: numerical_with_unit
+        value: "2.5 trillion won"
+        source_urls: [https://www.businesskorea.co.kr/news/articleView.html?idxno=269601]
+        verbatim_excerpt: "Korea Development Bank and Woori Bank committed 2.5 trillion won in acquisition financing."
+      - claim: Doosan Group Chairman
+        kind: named_person
+        value: "Park Jeong-won"
+        source_urls: [https://www.businesskorea.co.kr/news/articleView.html?idxno=269601]
+        verbatim_excerpt: "Doosan Group Chairman Park Jeong-won will separately acquire SK Group Chairman Chey Tae-won's personal 29.4 percent stake."
+      - claim: Financing banks
+        kind: named_institution
+        value: "Korea Development Bank and Woori Bank"
+        source_urls: [https://www.businesskorea.co.kr/news/articleView.html?idxno=269601]
+        verbatim_excerpt: "Korea Development Bank and Woori Bank committed 2.5 trillion won in acquisition financing."
+      - claim: SK Siltron global ranking
+        kind: named_institution
+        value: "world's third-largest semiconductor silicon wafer manufacturer"
+        source_urls: [https://www.businesskorea.co.kr/news/articleView.html?idxno=269601]
+        verbatim_excerpt: "SK Siltron Co., the world's third-largest semiconductor silicon wafer manufacturer."
+    quotes:
+      - speaker_name: Industry insider
+        speaker_title: Anonymous industry source
+        verbatim_en: "Under Doosan's leadership, SK Siltron will likely be able to rapidly boost global market share through aggressive investment."
+        source_url: https://www.businesskorea.co.kr/news/articleView.html?idxno=269601
+        context: Market commentary on Doosan's strategic rationale for the ₩5 trillion SK Siltron acquisition.
+
+  - story_id: krx-fsc-dual-listing-framework-june
+    category: ipo_ma
+    headline_en: "Korea Exchange and FSC to release dual-listing regulatory framework in June after delay, unlocking stalled IPO pipeline"
+    lead_url: https://en.sedaily.com/finance/2026/05/05/delayed-dual-listing-rules-risk-harming-koreas-ipo-market
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10718896
+      - https://www.kedglobal.com/regulations/newsView/ked202603180007
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/05/05/delayed-dual-listing-rules-risk-harming-koreas-ipo-market
+      - https://www.koreaherald.com/article/10718896
+      - https://www.kedglobal.com/regulations/newsView/ked202603180007
+    hard_facts:
+      - claim: Regulatory body publishing dual-listing framework
+        kind: named_institution
+        value: "Korea Exchange (KRX) and Financial Services Commission (FSC)"
+        source_urls: [https://en.sedaily.com/finance/2026/05/05/delayed-dual-listing-rules-risk-harming-koreas-ipo-market]
+        verbatim_excerpt: "The Korea Exchange (KRX) and the Financial Services Commission (FSC) were targeting June 2026 for the release of a formal regulatory framework for dual listings."
+      - claim: Group that withdrew subsidiary listing
+        kind: named_institution
+        value: "LS Group (Essex Solutions)"
+        source_urls: [https://en.sedaily.com/finance/2026/05/05/delayed-dual-listing-rules-risk-harming-koreas-ipo-market]
+        verbatim_excerpt: "The delay followed LS Group's withdrawal of the Essex Solutions listing in early 2026."
+      - claim: FSC pre-announcement timeline
+        kind: temporal
+        value: "June 2026 pre-announcement; end-June amendment; July 2026 implementation"
+        source_urls: [https://en.sedaily.com/finance/2026/05/05/delayed-dual-listing-rules-risk-harming-koreas-ipo-market]
+        verbatim_excerpt: "The FSC planned to issue a pre-announcement of legislation in June, amend listing regulations by end-June, and implement the new system as early as July 2026."
+      - claim: Three screening criteria for dual listing approval
+        kind: numerical
+        value: "3"
+        source_urls: [https://en.sedaily.com/finance/2026/05/05/delayed-dual-listing-rules-risk-harming-koreas-ipo-market]
+        verbatim_excerpt: "Three screening criteria must all be met: operational independence, management independence, and investor protection."
+    quotes:
+      - speaker_name: IPO industry officials
+        speaker_title: Anonymous IPO industry participants
+        verbatim_en: "We can't really do anything until the dual-listing guidelines come out."
+        source_url: https://en.sedaily.com/finance/2026/05/05/delayed-dual-listing-rules-risk-harming-koreas-ipo-market
+        context: Industry reaction to delay in KRX/FSC dual-listing regulatory framework release.
+
+  - story_id: naver-dunamu-merger-ftc-delay
+    category: ipo_ma
+    headline_en: "Naver Financial–Dunamu (Upbit) ₩20 trillion merger faces three-month delay, now targeting September 2026 close amid FTC review"
+    lead_url: https://en.sedaily.com/news/2026/05/15/naver-dunamu-merger-faces-hurdles-on-shareholder-vetting
+    body_source: full
+    corroborated_by:
+      - https://www.kedglobal.com/fintech/newsView/ked202511260007
+    locked_urls:
+      - https://en.sedaily.com/news/2026/05/15/naver-dunamu-merger-faces-hurdles-on-shareholder-vetting
+      - https://www.kedglobal.com/fintech/newsView/ked202511260007
+    hard_facts:
+      - claim: Deal value
+        kind: numerical_with_unit
+        value: "₩20 trillion ($13.6 billion)"
+        source_urls: [https://en.sedaily.com/news/2026/05/15/naver-dunamu-merger-faces-hurdles-on-shareholder-vetting]
+        verbatim_excerpt: "The ₩20 trillion ($13.6 billion) stock-swap merger between Naver Financial and Dunamu."
+      - claim: New shareholder meeting date
+        kind: temporal
+        value: "August 18, 2026"
+        source_urls: [https://en.sedaily.com/news/2026/05/15/naver-dunamu-merger-faces-hurdles-on-shareholder-vetting]
+        verbatim_excerpt: "The extraordinary shareholder meetings, originally scheduled for May 22, 2026, were rescheduled to August 18, 2026."
+      - claim: New transaction close date
+        kind: temporal
+        value: "September 30, 2026"
+        source_urls: [https://en.sedaily.com/news/2026/05/15/naver-dunamu-merger-faces-hurdles-on-shareholder-vetting]
+        verbatim_excerpt: "the transaction close was pushed from June 30 to September 30, 2026."
+      - claim: Exchange ratio
+        kind: numerical
+        value: "2.54 Naver Financial shares per Dunamu share"
+        source_urls: [https://en.sedaily.com/news/2026/05/15/naver-dunamu-merger-faces-hurdles-on-shareholder-vetting]
+        verbatim_excerpt: "each Dunamu share to be exchanged for 2.54 Naver Financial shares."
+      - claim: Dunamu Chair post-merger stake
+        kind: named_person
+        value: "Song Chi-hyung (19.5 percent stake)"
+        source_urls: [https://en.sedaily.com/news/2026/05/15/naver-dunamu-merger-faces-hurdles-on-shareholder-vetting]
+        verbatim_excerpt: "Dunamu Chair Song Chi-hyung to become Naver Financial's largest shareholder with a 19.5 percent stake."
+      - claim: AI and blockchain infrastructure investment plan
+        kind: numerical_with_unit
+        value: "$6.8 billion"
+        source_urls: [https://en.sedaily.com/news/2026/05/15/naver-dunamu-merger-faces-hurdles-on-shareholder-vetting]
+        verbatim_excerpt: "invest $6.8 billion in AI and blockchain infrastructure."
+    quotes: []
+
+  - story_id: hanwha-canada-submarine-cpsp-42b
+    category: other
+    headline_en: "South Korea mounts final push in Canada's $42 billion Canadian Patrol Submarine Project with Hanwha Ocean consortium; decision expected by end of June"
+    lead_url: https://en.sedaily.com/finance/2026/06/01/korea-mounts-final-push-for-canadas-42-billion-submarine
+    body_source: full
+    corroborated_by:
+      - https://www.defensenews.com/naval/2026/06/01/south-korea-goes-full-steam-ahead-on-nuclear-powered-submarines/
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/06/01/korea-mounts-final-push-for-canadas-42-billion-submarine
+      - https://www.defensenews.com/naval/2026/06/01/south-korea-goes-full-steam-ahead-on-nuclear-powered-submarines/
+    hard_facts:
+      - claim: Canadian Patrol Submarine Project value
+        kind: numerical_with_unit
+        value: "60 trillion won ($39.7 billion)"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-mounts-final-push-for-canadas-42-billion-submarine]
+        verbatim_excerpt: "a deal valued at an estimated 60 trillion won ($39.7 billion)."
+      - claim: South Korean consortium members
+        kind: named_institution
+        value: "Hanwha Ocean and HD Hyundai Heavy Industries"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-mounts-final-push-for-canadas-42-billion-submarine]
+        verbatim_excerpt: "South Korea's Hanwha Ocean–HD Hyundai Heavy Industries consortium."
+      - claim: South Korean submarine class offered
+        kind: named_product
+        value: "KSS-III (Dosan Ahn Chang-ho class)"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-mounts-final-push-for-canadas-42-billion-submarine]
+        verbatim_excerpt: "South Korea is offering its KSS-III class (Dosan Ahn Chang-ho class)."
+      - claim: Demonstration voyage distance
+        kind: numerical_with_unit
+        value: "14,000 km from South Gyeongsang Province to Victoria, British Columbia"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-mounts-final-push-for-canadas-42-billion-submarine]
+        verbatim_excerpt: "one unit completed a 14,000 km voyage from South Gyeongsang Province to Victoria, British Columbia to demonstrate range."
+      - claim: Projected jobs from Hanwha MoUs in Canada
+        kind: numerical_with_unit
+        value: "22,500 direct jobs"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-mounts-final-push-for-canadas-42-billion-submarine]
+        verbatim_excerpt: "promising 22,500 direct jobs and a $94 billion cumulative GDP impact over the contract's life."
+      - claim: Competing bidder
+        kind: named_institution
+        value: "ThyssenKrupp Marine Systems (TKMS) with Type 212CD"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-mounts-final-push-for-canadas-42-billion-submarine]
+        verbatim_excerpt: "The competing bid is Germany's ThyssenKrupp Marine Systems (TKMS) with its Type 212CD submarines."
+    quotes: []
+
+  - story_id: son-heung-min-world-cup-2026-squad
+    category: other
+    headline_en: "South Korea national football team prepares for likely final World Cup with Son Heung-min as 2026 FIFA tournament kicks off June 11"
+    lead_url: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10757013
+    locked_urls:
+      - https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview
+      - https://www.koreaherald.com/article/10757013
+    hard_facts:
+      - claim: South Korea captain
+        kind: named_person
+        value: "Son Heung-min, age 33"
+        source_urls: [https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview]
+        verbatim_excerpt: "Captain Son Heung-min, 33, playing for LA FC in MLS after leaving Tottenham Hotspur."
+      - claim: South Korea's first group-stage match
+        kind: temporal
+        value: "June 11 against Czechia at Estadio Akron"
+        source_urls: [https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview]
+        verbatim_excerpt: "its first group-stage match on June 11 against Czechia at Estadio Akron."
+      - claim: Squad size
+        kind: numerical
+        value: "26-man squad"
+        source_urls: [https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview]
+        verbatim_excerpt: "South Korea's 26-man squad for the 2026 FIFA World Cup was finalised and submitted to FIFA on June 1–2, 2026."
+      - claim: South Korea World Cup qualifying record
+        kind: numerical
+        value: "11 wins in 16 matches"
+        source_urls: [https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview]
+        verbatim_excerpt: "The team went unbeaten through qualifying, winning 11 of 16 matches."
+      - claim: South Korea head coach
+        kind: named_person
+        value: "Hong Myung-bo"
+        source_urls: [https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview]
+        verbatim_excerpt: "Coach Hong Myung-bo selected the 26-man squad on April 16."
+      - claim: Group A composition
+        kind: named_institution
+        value: "South Korea, Mexico, South Africa, Czechia"
+        source_urls: [https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview]
+        verbatim_excerpt: "South Korea was drawn in Group A alongside co-hosts Mexico, South Africa, and Czechia."
+    quotes:
+      - speaker_name: Son Heung-min
+        speaker_title: Captain, South Korea national football team / Striker, LA FC
+        verbatim_en: "This tournament could be my last World Cup. I hope we can make our journey with the national team truly wonderful."
+        source_url: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview
+        context: Son's FIFA interview released May 27, ahead of South Korea's 2026 World Cup campaign opening June 11.
+      - speaker_name: Hong Myung-bo
+        speaker_title: Head Coach, South Korea national football team
+        verbatim_en: "Son Heung-min is the heart of our team and I have never once doubted that."
+        source_url: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/son-heungmin-korea-republic-interview
+        context: Coach Hong on Son Heung-min's role as team captain ahead of the 2026 World Cup.
+
+  - story_id: korea-africa-foreign-ministers-2029-summit
+    category: other
+    headline_en: "Korea-Africa Foreign Ministers' Meeting in Seoul sets 2029 Summit horizon and pledges cooperation on shipping routes and critical minerals"
+    lead_url: https://en.sedaily.com/finance/2026/06/01/korea-africa-foreign-ministers-pledge-cooperation-on
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/06/01/korea-africa-foreign-ministers-pledge-cooperation-on
+    hard_facts:
+      - claim: Event date and venue
+        kind: temporal
+        value: "June 1, 2026 at Lotte Hotel Seoul, Jung-gu"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-africa-foreign-ministers-pledge-cooperation-on]
+        verbatim_excerpt: "The 2026 Korea-Africa Foreign Ministers' Meeting was held on June 1, 2026 at Lotte Hotel Seoul, Jung-gu, central Seoul."
+      - claim: South Korean Foreign Minister
+        kind: named_person
+        value: "Cho Hyun"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-africa-foreign-ministers-pledge-cooperation-on]
+        verbatim_excerpt: "South Korean Foreign Minister Cho Hyun and African foreign ministers adopted a joint statement."
+      - claim: First such Korea-hosted event
+        kind: named_institution
+        value: "first Korea-hosted all-Africa foreign ministers' gathering"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-africa-foreign-ministers-pledge-cooperation-on]
+        verbatim_excerpt: "the first time South Korea hosted a foreign ministers' gathering covering all African countries and regional organisations."
+      - claim: Proposed next Korea-Africa Summit
+        kind: temporal
+        value: "2029"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-africa-foreign-ministers-pledge-cooperation-on]
+        verbatim_excerpt: "The joint statement welcomed Korea's proposal to host the 2029 Korea-Africa Summit."
+      - claim: Last Korea-Africa Summit
+        kind: temporal
+        value: "June 2024"
+        source_urls: [https://en.sedaily.com/finance/2026/06/01/korea-africa-foreign-ministers-pledge-cooperation-on]
+        verbatim_excerpt: "following implementation of the June 2024 Korea-Africa Summit outcomes."
+    quotes:
+      - speaker_name: Cho Hyun
+        speaker_title: Foreign Minister, South Korea
+        verbatim_en: "The world is facing complex challenges in various areas, including supply chains, energy, and food security. Close cooperation between Korea and Africa is more important than ever."
+        source_url: https://en.sedaily.com/finance/2026/06/01/korea-africa-foreign-ministers-pledge-cooperation-on
+        context: Foreign Minister Cho's statement at the June 1 Korea-Africa Foreign Ministers' Meeting in Seoul.
