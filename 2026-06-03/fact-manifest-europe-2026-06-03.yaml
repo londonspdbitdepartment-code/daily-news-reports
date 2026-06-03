@@ -1,0 +1,957 @@
+version: 1
+generated_at: "2026-06-03T09:30:00Z"
+country: Europe
+date: "2026-06-03"
+total_stories: 15
+stories:
+  - story_id: oecd-outlook-euro-area-growth-0-8-pct
+    category: econ
+    headline_en: "OECD Economic Outlook slashes euro-area growth to 0.8% amid energy shock and Iran war fallout"
+    lead_url: https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+    hard_facts:
+      - claim: OECD Secretary-General identity
+        kind: named_person
+        value: Mathias Cormann
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "OECD Secretary-General Mathias Cormann"
+      - claim: OECD Chief Economist identity
+        kind: named_person
+        value: Stefano Scarpetta
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "Chief Economist Stefano Scarpetta"
+      - claim: presentation date and time
+        kind: temporal
+        value: "3 June 2026 09:00 CEST"
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "presented 3 June 2026 09:00 CEST"
+      - claim: Euro area GDP forecast 2026
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "Euro area GDP 0.8% 2026"
+      - claim: Euro area GDP forecast 2027
+        kind: numerical_with_unit
+        value: "1.2%"
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "Euro area GDP 0.8% 2026, 1.2% 2027"
+      - claim: Germany GDP forecast 2026
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "Germany 0.8% 2026"
+      - claim: France GDP forecast 2026
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "France 0.8% 2026"
+      - claim: Global growth forecast 2026
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "Global growth 2.9% 2026"
+      - claim: Global growth forecast 2027
+        kind: numerical_with_unit
+        value: "3.1%"
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "Global growth 2.9% 2026, 3.1% 2027"
+      - claim: Strait of Hormuz disruption context
+        kind: named_institution
+        value: Strait of Hormuz
+        source_urls:
+          - https://www.oecd.org/en/about/news/press-releases/2026/06/global-economic-outlook-weakens-amid-energy-shock-and-rising-inflationary-pressures.html
+        verbatim_excerpt: "Strait of Hormuz disruption"
+    quotes: []
+
+  - story_id: us-forced-labour-tariffs-on-eu
+    category: econ
+    headline_en: "New US tariff plan targets EU and dozens of economies over forced labour imports"
+    lead_url: https://www.euronews.com/business/2026/06/03/new-us-tariff-plan-targets-eu-and-dozens-of-economies-over-forced-labour-imports
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/03/new-us-tariff-plan-targets-eu-and-dozens-of-economies-over-forced-labour-imports
+    hard_facts:
+      - claim: US Trade Representative identity
+        kind: named_person
+        value: Jamieson Greer
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/new-us-tariff-plan-targets-eu-and-dozens-of-economies-over-forced-labour-imports
+        verbatim_excerpt: "US Trade Representative Jamieson Greer"
+      - claim: tariff rate lower bound
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/new-us-tariff-plan-targets-eu-and-dozens-of-economies-over-forced-labour-imports
+        verbatim_excerpt: "tariffs 10% to 12.5%"
+      - claim: tariff rate upper bound
+        kind: numerical_with_unit
+        value: "12.5%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/new-us-tariff-plan-targets-eu-and-dozens-of-economies-over-forced-labour-imports
+        verbatim_excerpt: "tariffs 10% to 12.5%"
+      - claim: number of economies targeted
+        kind: numerical
+        value: "60"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/new-us-tariff-plan-targets-eu-and-dozens-of-economies-over-forced-labour-imports
+        verbatim_excerpt: "60 economies including EU"
+      - claim: announcement date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/new-us-tariff-plan-targets-eu-and-dozens-of-economies-over-forced-labour-imports
+        verbatim_excerpt: "announced June 3"
+    quotes: []
+
+  - story_id: inditex-q1-strong-sales-iran-war
+    category: econ
+    headline_en: "Zara owner Inditex defies Iran war concerns with strong sales"
+    lead_url: https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+    hard_facts:
+      - claim: Inditex reporting period
+        kind: temporal
+        value: "Q1 FY2026"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "Inditex Q1 FY2026"
+      - claim: Inditex net income
+        kind: numerical_with_unit
+        value: "€1.4bn"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "net income €1.4bn (+5.4% YoY)"
+      - claim: Inditex net income YoY growth
+        kind: numerical_with_unit
+        value: "+5.4% YoY"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "net income €1.4bn (+5.4% YoY)"
+      - claim: Inditex net sales
+        kind: numerical_with_unit
+        value: "€8.7bn"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "net sales €8.7bn (+5.8%, +8.8% constant FX)"
+      - claim: Inditex net sales reported growth
+        kind: numerical_with_unit
+        value: "+5.8%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "net sales €8.7bn (+5.8%, +8.8% constant FX)"
+      - claim: Inditex net sales constant FX growth
+        kind: numerical_with_unit
+        value: "+8.8% constant FX"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "net sales €8.7bn (+5.8%, +8.8% constant FX)"
+      - claim: Inditex gross profit
+        kind: numerical_with_unit
+        value: "€5.4bn"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "gross profit €5.4bn (+6.9%)"
+      - claim: Inditex gross profit growth
+        kind: numerical_with_unit
+        value: "+6.9%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "gross profit €5.4bn (+6.9%)"
+      - claim: Inditex EBITDA
+        kind: numerical_with_unit
+        value: "€2.6bn"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "EBITDA €2.6bn (+7.3%)"
+      - claim: Inditex EBITDA growth
+        kind: numerical_with_unit
+        value: "+7.3%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "EBITDA €2.6bn (+7.3%)"
+      - claim: Inditex store count
+        kind: numerical
+        value: "5,456"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "5,456 stores"
+      - claim: Inditex net cash position
+        kind: numerical_with_unit
+        value: "€10.8bn"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "net cash €10.8bn"
+      - claim: Inditex Q2 early trading period
+        kind: temporal
+        value: "May 1–June 1"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "Q2 early trading (May 1–June 1) +11.5%"
+      - claim: Inditex Q2 early trading growth
+        kind: numerical_with_unit
+        value: "+11.5%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "Q2 early trading (May 1–June 1) +11.5%"
+      - claim: Inditex share price change
+        kind: numerical_with_unit
+        value: "+5%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "shares +5%"
+      - claim: Inditex dividend per share
+        kind: numerical_with_unit
+        value: "€1.75/share"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "dividend €1.75/share"
+      - claim: Analyst identity
+        kind: named_person
+        value: "Mamta Valechha"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "Analyst Mamta Valechha (Quilter Cheviot)"
+      - claim: Analyst institution
+        kind: named_institution
+        value: "Quilter Cheviot"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/03/zara-owner-inditex-defies-iran-war-concerns-with-strong-sales
+        verbatim_excerpt: "Analyst Mamta Valechha (Quilter Cheviot)"
+    quotes: []
+
+  - story_id: us-iran-military-escalation-ceasefire
+    category: politics
+    headline_en: "US and Iran exchange new strikes as ceasefire talks falter over Israel military actions"
+    lead_url: https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+    hard_facts:
+      - claim: date of Iran missile/drone attacks
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+        verbatim_excerpt: "Iran missile/drone attacks on US facilities in Kuwait/Bahrain June 3"
+      - claim: targets of Iran attacks
+        kind: named_institution
+        value: "US facilities in Kuwait/Bahrain"
+        source_urls:
+          - https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+        verbatim_excerpt: "Iran missile/drone attacks on US facilities in Kuwait/Bahrain June 3"
+      - claim: US strike target
+        kind: named_institution
+        value: "Qeshm Island"
+        source_urls:
+          - https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+        verbatim_excerpt: "US strikes on Qeshm Island previous night"
+      - claim: duration of Iran-US conflict
+        kind: temporal
+        value: "4th month"
+        source_urls:
+          - https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+        verbatim_excerpt: "Iran-US conflict 4th month"
+      - claim: Strait of Hormuz status
+        kind: named_institution
+        value: "Strait of Hormuz"
+        source_urls:
+          - https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+        verbatim_excerpt: "Strait of Hormuz closure"
+      - claim: Trump identity
+        kind: named_person
+        value: "Trump"
+        source_urls:
+          - https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+        verbatim_excerpt: "Trump quote: \"conversations are continuing\""
+    quotes:
+      - speaker_name: Trump
+        speaker_title: US President
+        verbatim_en: "conversations are continuing"
+        source_url: https://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i
+        context: June 3 statement amid Iran-US conflict
+
+  - story_id: eu-sanctions-envoy-china-russia-problem
+    category: politics
+    headline_en: "China is a very big problem for EU sanctions against Russia, O'Sullivan tells Euronews"
+    lead_url: https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+    hard_facts:
+      - claim: EU Sanctions Envoy identity
+        kind: named_person
+        value: "David O'Sullivan"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+        verbatim_excerpt: "EU Sanctions Envoy David O'Sullivan"
+      - claim: EU sanctions package number
+        kind: numerical
+        value: "21st"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+        verbatim_excerpt: "21st sanctions package"
+      - claim: countries opposing maritime ban
+        kind: named_institution
+        value: "Greece, Malta"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+        verbatim_excerpt: "Greece, Malta oppose maritime ban on Russian oil"
+      - claim: Hungary leader identity
+        kind: named_person
+        value: "Viktor Magyar"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+        verbatim_excerpt: "Hungary's Viktor Magyar on Ukraine accession"
+      - claim: territory referenced in Ukraine accession context
+        kind: named_institution
+        value: "Transcarpathia"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+        verbatim_excerpt: "Hungary's Viktor Magyar on Ukraine accession; Transcarpathia"
+    quotes:
+      - speaker_name: David O'Sullivan
+        speaker_title: EU Sanctions Envoy
+        verbatim_en: "a very big problem"
+        source_url: https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+        context: interview with Euronews on EU sanctions against Russia
+      - speaker_name: David O'Sullivan
+        speaker_title: EU Sanctions Envoy
+        verbatim_en: "backfilling"
+        source_url: https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews
+        context: interview with Euronews on EU sanctions against Russia
+
+  - story_id: ukraine-strikes-st-petersburg-spief
+    category: politics
+    headline_en: "Ukraine targets St Petersburg as flagship economic forum opens in Russia"
+    lead_url: https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+    hard_facts:
+      - claim: Ukrainian drone targets
+        kind: named_institution
+        value: "Petersburg Oil Terminal + Kronstadt naval base"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+        verbatim_excerpt: "Ukrainian drones struck Petersburg Oil Terminal + Kronstadt naval base morning June 3"
+      - claim: date of drone strikes
+        kind: temporal
+        value: "morning June 3"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+        verbatim_excerpt: "Ukrainian drones struck Petersburg Oil Terminal + Kronstadt naval base morning June 3"
+      - claim: forum opening date
+        kind: temporal
+        value: "same day"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+        verbatim_excerpt: "SPIEF opening same day"
+      - claim: SPIEF acronym institution
+        kind: named_institution
+        value: "SPIEF"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+        verbatim_excerpt: "SPIEF opening same day; Putin attending"
+      - claim: Putin attending SPIEF
+        kind: named_person
+        value: "Putin"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+        verbatim_excerpt: "Putin attending"
+      - claim: additional overnight strike target
+        kind: named_institution
+        value: "Tambov weapons plant"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+        verbatim_excerpt: "Tambov weapons plant overnight"
+      - claim: Zelenskyy identity
+        kind: named_person
+        value: "Zelenskyy"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+        verbatim_excerpt: "Zelenskyy quote"
+    quotes:
+      - speaker_name: Zelenskyy
+        speaker_title: President of Ukraine
+        verbatim_en: "continue to strike at Russian military and economic infrastructure"
+        source_url: https://www.euronews.com/my-europe/2026/06/03/ukraine-targets-st-petersburg-as-flagship-economic-forum-opens-in-russia
+        context: June 3 statement following drone strikes on St Petersburg
+
+  - story_id: eu-tech-sovereignty-package-unveiled
+    category: tech
+    headline_en: "Newsletter: The quest for the EU's tech independence"
+    lead_url: https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+    hard_facts:
+      - claim: Commissioner identity
+        kind: named_person
+        value: "Henna Virkkunen"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "Commissioner Henna Virkkunen unveiled June 3"
+      - claim: unveiling date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "Commissioner Henna Virkkunen unveiled June 3"
+      - claim: Chips Act 2.0 investment target
+        kind: numerical_with_unit
+        value: "€120bn"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "Chips Act 2.0 target €120bn by 2035"
+      - claim: Chips Act 2.0 target year
+        kind: temporal
+        value: "2035"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "Chips Act 2.0 target €120bn by 2035"
+      - claim: original Chips Act target
+        kind: numerical_with_unit
+        value: "€43bn"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "(original €43bn by 2030)"
+      - claim: original Chips Act target year
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "(original €43bn by 2030)"
+      - claim: daily fine rate
+        kind: numerical_with_unit
+        value: "€300,000/day"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "fines €300,000/day"
+      - claim: Cloud and AI Development Act name
+        kind: named_product
+        value: "Cloud and AI Development Act"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "Cloud and AI Development Act"
+      - claim: EU Sovereign Cloud certification name
+        kind: named_product
+        value: "EU Sovereign Cloud certification"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "EU Sovereign Cloud certification"
+      - claim: migration timeline
+        kind: temporal
+        value: "36 months"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "36 months migration"
+      - claim: open-source AI investment amount
+        kind: numerical_with_unit
+        value: "€2.5bn"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/newsletter-the-quest-for-the-eus-tech-independence
+        verbatim_excerpt: "€2.5bn open-source AI investment"
+    quotes: []
+
+  - story_id: anthropic-mythos-eu-expansion
+    category: tech
+    headline_en: "Anthropic expands access to Mythos despite warnings of mass cyberattacks"
+    lead_url: https://www.euronews.com/next/2026/06/03/anthropic-expands-access-to-mythos-despite-warnings-of-mass-cyberattacks
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/next/2026/06/03/anthropic-expands-access-to-mythos-despite-warnings-of-mass-cyberattacks
+    hard_facts:
+      - claim: Anthropic product name
+        kind: named_product
+        value: "Mythos"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/03/anthropic-expands-access-to-mythos-despite-warnings-of-mass-cyberattacks
+        verbatim_excerpt: "Anthropic Mythos AI cybersecurity"
+      - claim: number of partners
+        kind: numerical
+        value: "150"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/03/anthropic-expands-access-to-mythos-despite-warnings-of-mass-cyberattacks
+        verbatim_excerpt: "150 partners"
+      - claim: number of countries
+        kind: numerical
+        value: "15+"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/03/anthropic-expands-access-to-mythos-despite-warnings-of-mass-cyberattacks
+        verbatim_excerpt: "15+ countries as of June 3, 2026"
+      - claim: date of milestone
+        kind: temporal
+        value: "June 3, 2026"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/03/anthropic-expands-access-to-mythos-despite-warnings-of-mass-cyberattacks
+        verbatim_excerpt: "15+ countries as of June 3, 2026"
+      - claim: software vulnerabilities identified
+        kind: numerical
+        value: ">10,000"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/03/anthropic-expands-access-to-mythos-despite-warnings-of-mass-cyberattacks
+        verbatim_excerpt: "identified >10,000 software vulnerabilities"
+      - claim: institution in pilot deployment talks
+        kind: named_institution
+        value: "European Commission"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/03/anthropic-expands-access-to-mythos-despite-warnings-of-mass-cyberattacks
+        verbatim_excerpt: "European Commission pilot deployment talks"
+    quotes: []
+
+  - story_id: eu-ai-act-transparency-consultation-close
+    category: tech
+    headline_en: "Consultation on draft guidelines for transparency obligations under EU AI Act closes"
+    lead_url: https://digital-strategy.ec.europa.eu/en/consultations/consultation-draft-guidelines-transparency-obligations-under-ai-act
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://digital-strategy.ec.europa.eu/en/consultations/consultation-draft-guidelines-transparency-obligations-under-ai-act
+    hard_facts:
+      - claim: consultation closing date
+        kind: temporal
+        value: "June 3, 2026"
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/consultations/consultation-draft-guidelines-transparency-obligations-under-ai-act
+        verbatim_excerpt: "EC consultation on draft guidelines for AI Act Article 50 transparency obligations closed June 3, 2026"
+      - claim: consultation opening date
+        kind: temporal
+        value: "May 8"
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/consultations/consultation-draft-guidelines-transparency-obligations-under-ai-act
+        verbatim_excerpt: "opened May 8"
+      - claim: AI Act article referenced
+        kind: named_product
+        value: "Article 50"
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/consultations/consultation-draft-guidelines-transparency-obligations-under-ai-act
+        verbatim_excerpt: "AI Act Article 50 transparency obligations"
+      - claim: Article 50 effective date
+        kind: temporal
+        value: "August 2, 2026"
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/consultations/consultation-draft-guidelines-transparency-obligations-under-ai-act
+        verbatim_excerpt: "Article 50 effective August 2, 2026"
+      - claim: issuing institution
+        kind: named_institution
+        value: "European Commission"
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/consultations/consultation-draft-guidelines-transparency-obligations-under-ai-act
+        verbatim_excerpt: "EC consultation on draft guidelines for AI Act Article 50 transparency obligations"
+    quotes: []
+
+  - story_id: portugal-cgtp-general-strike-june3
+    category: society
+    headline_en: "Empty stations and cancelled trains as nationwide strike hits Portugal"
+    lead_url: https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+    hard_facts:
+      - claim: union organising strike
+        kind: named_institution
+        value: "CGTP"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: "Portugal CGTP 24-hour general strike June 3"
+      - claim: strike duration
+        kind: temporal
+        value: "24-hour"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: "Portugal CGTP 24-hour general strike June 3"
+      - claim: strike date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: "Portugal CGTP 24-hour general strike June 3"
+      - claim: labour reform name
+        kind: named_product
+        value: "Trabalho XXI"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: "\"Trabalho XXI\" labour reform"
+      - claim: Portugal PM identity
+        kind: named_person
+        value: "Luís Montenegro"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: "PM Luís Montenegro"
+      - claim: airports authority identity
+        kind: named_institution
+        value: "ANA"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: "airports authority ANA reported >500 flight cancellations Lisbon/Porto/Faro"
+      - claim: number of flight cancellations
+        kind: numerical
+        value: ">500"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: "airports authority ANA reported >500 flight cancellations Lisbon/Porto/Faro"
+      - claim: affected airports
+        kind: named_institution
+        value: "Lisbon/Porto/Faro"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: ">500 flight cancellations Lisbon/Porto/Faro"
+      - claim: union that declined to join
+        kind: named_institution
+        value: "UGT"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal
+        verbatim_excerpt: "UGT declined to join"
+    quotes: []
+
+  - story_id: eu-green-week-2026-brussels
+    category: society
+    headline_en: "EU Green Week 2026: Investing in a nature-positive economy"
+    lead_url: https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+    hard_facts:
+      - claim: EU Green Week edition number
+        kind: numerical
+        value: "26th"
+        source_urls:
+          - https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+        verbatim_excerpt: "26th EU Green Week Brussels June 3–4, 2026"
+      - claim: event location
+        kind: named_institution
+        value: "Brussels"
+        source_urls:
+          - https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+        verbatim_excerpt: "26th EU Green Week Brussels June 3–4, 2026"
+      - claim: event dates
+        kind: temporal
+        value: "June 3–4, 2026"
+        source_urls:
+          - https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+        verbatim_excerpt: "26th EU Green Week Brussels June 3–4, 2026"
+      - claim: event theme
+        kind: named_product
+        value: "Investing in a nature-positive economy"
+        source_urls:
+          - https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+        verbatim_excerpt: "theme \"Investing in a nature-positive economy\""
+      - claim: organising directorate
+        kind: named_institution
+        value: "DG Environment"
+        source_urls:
+          - https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+        verbatim_excerpt: "organised by DG Environment"
+      - claim: return on nature investment lower bound
+        kind: numerical_with_unit
+        value: "€5"
+        source_urls:
+          - https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+        verbatim_excerpt: "€5–10 return per €1 invested"
+      - claim: return on nature investment upper bound
+        kind: numerical_with_unit
+        value: "€10"
+        source_urls:
+          - https://environment.ec.europa.eu/events/eu-green-week-2026-investing-nature-positive-economy-2026-06-03_en
+        verbatim_excerpt: "€5–10 return per €1 invested"
+    quotes: []
+
+  - story_id: bavaria-antisemitism-hotel-probe
+    category: society
+    headline_en: "No hotel room for Jews: investigators probe antisemitism case in Bavaria"
+    lead_url: https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+    hard_facts:
+      - claim: investigating authority
+        kind: named_institution
+        value: "Bavaria justice ministry"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        verbatim_excerpt: "Bavaria justice ministry investigation"
+      - claim: hotel name and location
+        kind: named_institution
+        value: "Hotel zum Hirschen in Lam, Bavaria"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        verbatim_excerpt: "Hotel zum Hirschen in Lam, Bavaria"
+      - claim: platform that hosted hotel listing
+        kind: named_institution
+        value: "Booking.com"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        verbatim_excerpt: "Booking.com email: \"Sorry, there are no Jews allowed in our hotel\""
+      - claim: Israel Consul General publicised incident
+        kind: named_institution
+        value: "Israel Consul General"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        verbatim_excerpt: "Israel Consul General publicised"
+      - claim: applicable criminal code paragraph
+        kind: named_product
+        value: "paragraph 130 German Criminal Code"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        verbatim_excerpt: "paragraph 130 German Criminal Code"
+      - claim: Germany antisemitic incidents in 2024
+        kind: numerical
+        value: "6,236"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        verbatim_excerpt: "Germany 6,236 antisemitic incidents in 2024"
+      - claim: year of German antisemitic incident data
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        verbatim_excerpt: "Germany 6,236 antisemitic incidents in 2024"
+      - claim: violent crimes count in 2024
+        kind: numerical
+        value: "173"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        verbatim_excerpt: "173 violent crimes"
+    quotes:
+      - speaker_name: Booking.com automated email
+        speaker_title: Booking.com platform email response
+        verbatim_en: "Sorry, there are no Jews allowed in our hotel"
+        source_url: https://www.euronews.com/my-europe/2026/06/03/no-hotel-room-for-jews-investigators-probe-antisemitism-case-in-bavaria
+        context: email sent via Booking.com booking inquiry at Hotel zum Hirschen
+
+  - story_id: unicredit-commerzbank-stake-37-6-pct
+    category: ipo_ma
+    headline_en: "UniCredit boosts Commerzbank stake amid German hostility"
+    lead_url: https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+    hard_facts:
+      - claim: UniCredit effective stake in Commerzbank
+        kind: numerical_with_unit
+        value: "37.6%"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "UniCredit effective stake in Commerzbank 37.6% (incl. derivatives)"
+      - claim: UniCredit direct holding in Commerzbank
+        kind: numerical_with_unit
+        value: "34.4%"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "direct holding 34.4%"
+      - claim: Commerzbank shares tendered by offer close
+        kind: numerical_with_unit
+        value: "7.6%"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "7.6% Commerzbank shares tendered by offer close June 2"
+      - claim: offer close date
+        kind: temporal
+        value: "June 2"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "7.6% Commerzbank shares tendered by offer close June 2"
+      - claim: UniCredit offer price per share
+        kind: numerical_with_unit
+        value: "€35.75/share"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "offer €35.75/share"
+      - claim: Commerzbank market price
+        kind: numerical_with_unit
+        value: "~€37"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "market price ~€37"
+      - claim: offer acceptance closing date
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "offer acceptance closes June 16"
+      - claim: total deal value
+        kind: numerical_with_unit
+        value: "~€38.6bn"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "total deal value ~€38.6bn"
+      - claim: UniCredit CEO identity
+        kind: named_person
+        value: "Andrea Orcel"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "CEO Andrea Orcel"
+      - claim: German government stake in Commerzbank
+        kind: numerical_with_unit
+        value: "12%"
+        source_urls:
+          - https://www.sharecafe.com.au/2026/06/03/unicredit-boosts-commerzbank-stake-amid-german-hostility/
+        verbatim_excerpt: "German government holds 12%"
+    quotes: []
+
+  - story_id: melia-iberostar-quit-cuba-trump-pressure
+    category: other
+    headline_en: "Melia and Iberostar quit Cuba: Trump's ultimatum leaves Spanish hotel groups under pressure"
+    lead_url: https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+    hard_facts:
+      - claim: Meliá Hotels International identity
+        kind: named_institution
+        value: "Meliá Hotels International"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Meliá Hotels International \"halting operations at 15 Cuban hotels\" June 3"
+      - claim: number of Meliá Cuban hotels halted
+        kind: numerical
+        value: "15"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "halting operations at 15 Cuban hotels"
+      - claim: Meliá announcement date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Meliá Hotels International \"halting operations at 15 Cuban hotels\" June 3"
+      - claim: Meliá Portuguese subsidiary name
+        kind: named_institution
+        value: "Ilha Bela"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "through Portuguese subsidiary Ilha Bela"
+      - claim: Iberostar properties ceased
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Iberostar ceased 12 properties June 1"
+      - claim: Iberostar cessation date
+        kind: temporal
+        value: "June 1"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Iberostar ceased 12 properties June 1"
+      - claim: Cuban military tourism conglomerate
+        kind: named_institution
+        value: "Gaviota Tourism Group / GAESA"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Gaviota Tourism Group / GAESA military conglomerate"
+      - claim: Trump OFAC deadline
+        kind: temporal
+        value: "June 5, 2026"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Trump OFAC deadline June 5, 2026"
+      - claim: Cuba tourist arrivals Jan-Apr 2026
+        kind: numerical
+        value: "328,608"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Cuba tourists Jan–Apr 2026: 328,608 (-55.8% YoY)"
+      - claim: Cuba tourist arrival period
+        kind: temporal
+        value: "Jan–Apr 2026"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Cuba tourists Jan–Apr 2026: 328,608 (-55.8% YoY)"
+      - claim: Cuba tourist arrival YoY change
+        kind: numerical_with_unit
+        value: "-55.8% YoY"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/03/melia-and-iberostar-quit-cuba-trumps-ultimatum-leaves-spanish-hotel-groups-under-pressure
+        verbatim_excerpt: "Cuba tourists Jan–Apr 2026: 328,608 (-55.8% YoY)"
+    quotes: []
+
+  - story_id: jr-pont-neuf-installation-storm-damage
+    category: other
+    headline_en: "French artist JR's giant cave installation in Paris appears damaged"
+    lead_url: https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+    hard_facts:
+      - claim: installation name
+        kind: named_product
+        value: "La Caverne du Pont Neuf"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "JR \"La Caverne du Pont Neuf\""
+      - claim: installation location
+        kind: named_institution
+        value: "Paris Pont Neuf bridge"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "Paris Pont Neuf bridge"
+      - claim: damage date
+        kind: temporal
+        value: "night June 2–3"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "damaged night June 2–3 by storm"
+      - claim: installation span
+        kind: numerical_with_unit
+        value: "120 metres"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "120 metres span"
+      - claim: installation height
+        kind: numerical_with_unit
+        value: "18 metres"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "18 metres high"
+      - claim: number of fabric arches
+        kind: numerical
+        value: "80"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "80 fabric arches"
+      - claim: original planned opening date
+        kind: temporal
+        value: "June 6"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "opening planned June 6 postponed"
+      - claim: sound designer identity
+        kind: named_person
+        value: "Thomas Bangalter"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "sound design by Thomas Bangalter (Daft Punk)"
+      - claim: sound designer band affiliation
+        kind: named_institution
+        value: "Daft Punk"
+        source_urls:
+          - https://www.euronews.com/video/2026/06/03/french-artist-jrs-giant-cave-installation-in-paris-appears-damaged
+        verbatim_excerpt: "sound design by Thomas Bangalter (Daft Punk)"
+    quotes: []
