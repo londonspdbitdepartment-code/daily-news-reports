@@ -1,0 +1,1272 @@
+version: 1
+generated_at: "2026-06-04T00:00:00Z"
+country: South Korea
+date: 2026-06-04
+total_stories: 15
+stories:
+  - story_id: fx-intervention-won-17yr-low
+    category: econ
+    headline_en: "Finance Minister Vows Immediate FX Intervention as Korean Won Weakens Toward 17-Year Low"
+    lead_url: https://www.koreaherald.com/article/10763356
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-04/krw-usd-south-korea-vows-action-in-case-of-excessive-move-as-won-weakens
+    locked_urls:
+      - https://www.koreaherald.com/article/10763356
+      - https://www.bloomberg.com/news/articles/2026-06-04/krw-usd-south-korea-vows-action-in-case-of-excessive-move-as-won-weakens
+    hard_facts:
+      - claim: Number of officials convened in Seoul
+        kind: numerical
+        value: "4"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "Four officials convened in Seoul on Thursday to discuss market stabilization measures"
+      - claim: Korean won rate on June 4
+        kind: numerical_with_unit
+        value: "1,529.7 won per U.S. dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "The Korean won weakened to 1,529.7 won per U.S. dollar on June 4"
+      - claim: Won decline from previous session
+        kind: numerical_with_unit
+        value: "13.7 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "down 13.7 won from the previous session"
+      - claim: May exports year-over-year surge
+        kind: numerical_with_unit
+        value: "53.2 percent year-over-year"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "May exports surging 53.2 percent year-over-year"
+      - claim: Date won traded above 1,500 level since
+        kind: temporal
+        value: "May 15, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "The won had traded above the psychologically important 1,500 level since May 15, 2026"
+      - claim: Finance Minister name
+        kind: named_person
+        value: "Koo Yun-cheol"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "Finance Minister Koo Yun-cheol"
+      - claim: Bank of Korea Governor name
+        kind: named_person
+        value: "Shin Hyun-song"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "Bank of Korea Governor Shin Hyun-song"
+      - claim: Financial Services Commission Chairman name
+        kind: named_person
+        value: "Lee Eog-weon"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "Financial Services Commission Chairman Lee Eog-weon"
+      - claim: Financial Supervisory Service Governor name
+        kind: named_person
+        value: "Lee Chan-jin"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "Financial Supervisory Service Governor Lee Chan-jin"
+      - claim: Local stock market capitalization global rank
+        kind: numerical
+        value: "sixth globally"
+        source_urls:
+          - https://www.koreaherald.com/article/10763356
+        verbatim_excerpt: "the local stock market capitalization ranking sixth globally"
+    quotes:
+      - speaker_name: "Koo Yun-cheol"
+        speaker_title: "Finance Minister, South Korea"
+        verbatim_en: "The government is currently monitoring the situation with vigilance so that external uncertainties do not lead to growing market anxiety. (The government) will take immediate measures when necessary to address excessive market swings."
+        source_url: https://www.koreaherald.com/article/10763356
+        context: "Emergency market stabilization meeting in Seoul, June 4, 2026"
+
+  - story_id: foreign-reserves-drop-may
+    category: econ
+    headline_en: "Foreign Reserves Drop $880 Million in May on FX Stabilization Swaps; South Korea Falls to 12th Globally"
+    lead_url: https://www.koreaherald.com/article/10763153
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10763153
+    hard_facts:
+      - claim: Total foreign reserves end-May 2026
+        kind: numerical_with_unit
+        value: "$426.99 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "reserves totaled $426.99 billion as of end-May"
+      - claim: Monthly decline in reserves May
+        kind: numerical_with_unit
+        value: "$880 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "representing an $880 million decrease from April"
+      - claim: April reserves increase
+        kind: numerical_with_unit
+        value: "$4.22 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "reserves rise $4.22 billion in April"
+      - claim: March reserves decline
+        kind: numerical_with_unit
+        value: "$3.97 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "following a $3.97 billion decline in March"
+      - claim: Foreign securities holding
+        kind: numerical_with_unit
+        value: "$380.68 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "foreign securities at $380.68 billion"
+      - claim: Foreign securities as percent of total
+        kind: numerical_with_unit
+        value: "89.2 percent of total"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "foreign securities at $380.68 billion (89.2 percent of total)"
+      - claim: Foreign securities monthly change
+        kind: numerical_with_unit
+        value: "down $3.39 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "down $3.39 billion"
+      - claim: Foreign currency deposits
+        kind: numerical_with_unit
+        value: "$21.35 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "foreign currency deposits at $21.35 billion"
+      - claim: Foreign currency deposits monthly change
+        kind: numerical_with_unit
+        value: "up $2.59 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "up $2.59 billion"
+      - claim: Special drawing rights
+        kind: numerical_with_unit
+        value: "$15.78 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "special drawing rights at $15.78 billion"
+      - claim: SDR monthly change
+        kind: numerical_with_unit
+        value: "up $30 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "up $30 million"
+      - claim: Gold bullion holding
+        kind: numerical_with_unit
+        value: "$4.79 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "gold bullion at $4.79 billion (unchanged)"
+      - claim: IMF reserve position
+        kind: numerical_with_unit
+        value: "$4.4 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "IMF reserve position at $4.4 billion"
+      - claim: IMF reserve position monthly change
+        kind: numerical_with_unit
+        value: "down $60 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "down $60 million"
+      - claim: South Korea global reserves rank end-April
+        kind: numerical
+        value: "12th globally"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "South Korea ranked 12th globally in foreign reserves as of end-April, down from 10th place"
+      - claim: South Korea previous global reserves rank
+        kind: numerical
+        value: "10th place"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "down from 10th place"
+      - claim: Date won traded above 1,500 since
+        kind: temporal
+        value: "May 15"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "The Korean won had traded above 1,500 won per U.S. dollar since May 15"
+      - claim: Bank of Korea institution
+        kind: named_institution
+        value: "Bank of Korea"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "The Bank of Korea reported"
+      - claim: National Pension Service institution
+        kind: named_institution
+        value: "National Pension Service"
+        source_urls:
+          - https://www.koreaherald.com/article/10763153
+        verbatim_excerpt: "foreign exchange swaps with the National Pension Service"
+    quotes: []
+
+  - story_id: kospi-falls-1pct-foreign-selling-19sessions
+    category: econ
+    headline_en: "KOSPI Falls 1.84% to 8,639 on Profit-Taking; Won Slides to 1,529.7 as Foreign Selling Streak Hits 19 Sessions"
+    lead_url: https://www.koreaherald.com/article/10763815
+    body_source: full
+    corroborated_by:
+      - https://en.sedaily.com/markets/2026/06/03/korean-won-slides-to-two-month-low-as-foreigners-dump-stocks
+    locked_urls:
+      - https://www.koreaherald.com/article/10763815
+      - https://en.sedaily.com/markets/2026/06/03/korean-won-slides-to-two-month-low-as-foreigners-dump-stocks
+    hard_facts:
+      - claim: KOSPI point decline
+        kind: numerical_with_unit
+        value: "162.08 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "The KOSPI fell 162.08 points (1.84 percent) to close at 8,639.41"
+      - claim: KOSPI percentage decline
+        kind: numerical_with_unit
+        value: "1.84 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "The KOSPI fell 162.08 points (1.84 percent)"
+      - claim: KOSPI closing level
+        kind: numerical_with_unit
+        value: "8,639.41"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "to close at 8,639.41"
+      - claim: Shares traded
+        kind: numerical_with_unit
+        value: "431.77 million shares"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "431.77 million shares valued at 46.2 trillion won"
+      - claim: Trading value in won
+        kind: numerical_with_unit
+        value: "46.2 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "valued at 46.2 trillion won ($30.2 billion)"
+      - claim: Trading value in USD
+        kind: numerical_with_unit
+        value: "$30.2 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "valued at 46.2 trillion won ($30.2 billion)"
+      - claim: Number of winning stocks
+        kind: numerical
+        value: "446"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Winners slightly exceeded losers 446 to 444"
+      - claim: Number of losing stocks
+        kind: numerical
+        value: "444"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Winners slightly exceeded losers 446 to 444"
+      - claim: Institutional investors net purchase
+        kind: numerical_with_unit
+        value: "1.81 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Institutional investors purchased a net 1.81 trillion won"
+      - claim: Individual investors net purchase
+        kind: numerical_with_unit
+        value: "5.01 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "individuals purchased a net 5.01 trillion won"
+      - claim: Foreign investors net sale
+        kind: numerical_with_unit
+        value: "6.95 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "foreign investors sold a net 6.95 trillion won"
+      - claim: Foreign selling consecutive sessions
+        kind: numerical_with_unit
+        value: "19 consecutive sessions"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "extending their selling streak to 19 consecutive sessions"
+      - claim: KOSPI record high surpassed
+        kind: numerical_with_unit
+        value: "8,800 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "The index had surpassed 8,800 points for the first time on Tuesday"
+      - claim: Samsung Electronics stock price decline
+        kind: numerical_with_unit
+        value: "-2.5% to 351,500 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Samsung Electronics -2.5% to 351,500 won"
+      - claim: SK hynix stock price decline
+        kind: numerical_with_unit
+        value: "-2.63% to 2,298,000 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "SK hynix -2.63% to 2,298,000 won"
+      - claim: Hyundai Motor stock price decline
+        kind: numerical_with_unit
+        value: "-3.98% to 700,000 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Hyundai Motor -3.98% to 700,000 won"
+      - claim: Samsung Electro-Mechanics stock price decline
+        kind: numerical_with_unit
+        value: "-5.35% to 1,716,000 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Samsung Electro-Mechanics -5.35% to 1,716,000 won"
+      - claim: Samsung Life Insurance stock price decline
+        kind: numerical_with_unit
+        value: "-8.75% to 438,000 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Samsung Life Insurance -8.75% to 438,000 won"
+      - claim: Won rate June 4
+        kind: numerical_with_unit
+        value: "1,529.7 per U.S. dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Korean won: 1,529.7 per U.S. dollar, down 13.7 won from the previous session"
+      - claim: Analyst name at Daeshin Securities
+        kind: named_person
+        value: "Lee Kyung-min"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Lee Kyung-min, analyst at Daeshin Securities"
+      - claim: Daeshin Securities institution
+        kind: named_institution
+        value: "Daeshin Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10763815
+        verbatim_excerpt: "Lee Kyung-min, analyst at Daeshin Securities"
+    quotes:
+      - speaker_name: "Lee Kyung-min"
+        speaker_title: "Analyst, Daeshin Securities"
+        verbatim_en: "The Kospi came under pressure from profit-taking as concerns grew that the recent rally had become overheated."
+        source_url: https://www.koreaherald.com/article/10763815
+        context: "Comment on KOSPI decline on June 4, 2026"
+
+  - story_id: kospi-june-range-9500-semiconductor-overweight
+    category: econ
+    headline_en: "Korea Investment & Securities Projects KOSPI Range of 8,500–9,500 for June; Recommends Semiconductor Overweight"
+    lead_url: https://en.sedaily.com/finance/2026/06/04/korea-investment-securities-sees-kospi-reaching-9500-in-june
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/06/04/korea-investment-securities-sees-kospi-reaching-9500-in-june
+    hard_facts:
+      - claim: KOSPI projected lower bound June 2026
+        kind: numerical_with_unit
+        value: "8,500"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/04/korea-investment-securities-sees-kospi-reaching-9500-in-june
+        verbatim_excerpt: "the KOSPI will fluctuate between 8,500 and 9,500 during June 2026"
+      - claim: KOSPI projected upper bound June 2026
+        kind: numerical_with_unit
+        value: "9,500"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/04/korea-investment-securities-sees-kospi-reaching-9500-in-june
+        verbatim_excerpt: "the KOSPI will fluctuate between 8,500 and 9,500 during June 2026"
+      - claim: Korea Investment & Securities institution
+        kind: named_institution
+        value: "Korea Investment & Securities"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/04/korea-investment-securities-sees-kospi-reaching-9500-in-june
+        verbatim_excerpt: "Korea Investment & Securities projected"
+    quotes: []
+
+  - story_id: democratic-party-wins-12-of-16-local-elections
+    category: politics
+    headline_en: "Democratic Party Wins 12 of 16 Major Posts in Local Elections; Lee Administration Secures One-Year Electoral Mandate"
+    lead_url: https://www.koreaherald.com/article/10763729
+    body_source: full
+    corroborated_by:
+      - https://www.upi.com/Top_News/World-News/2026/06/04/korea-Democratic-Party-landslide-despite-losing-Seoul-mayor-election-PPP/5551780557441/
+      - https://asia.nikkei.com/politics/south-korea-s-ruling-party-win-big-in-local-elections
+    locked_urls:
+      - https://www.koreaherald.com/article/10763729
+      - https://www.upi.com/Top_News/World-News/2026/06/04/korea-Democratic-Party-landslide-despite-losing-Seoul-mayor-election-PPP/5551780557441/
+      - https://asia.nikkei.com/politics/south-korea-s-ruling-party-win-big-in-local-elections
+    hard_facts:
+      - claim: Democratic Party mayoral/gubernatorial seats won
+        kind: numerical
+        value: "12 of 16"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "winning 12 of 16 mayoral and gubernatorial positions"
+      - claim: People Power Party mayoral/gubernatorial seats won
+        kind: numerical
+        value: "4"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "The People Power Party claimed four seats"
+      - claim: Democratic Party National Assembly by-election seats won
+        kind: numerical
+        value: "9 of 14"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "the Democratic Party won nine of 14 seats"
+      - claim: PPP National Assembly by-election seats won
+        kind: numerical
+        value: "4"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "the PPP secured four"
+      - claim: Oh Se-hoon vote share at 95.83% counted
+        kind: numerical_with_unit
+        value: "48.77 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "Oh secured 48.77 percent of the vote"
+      - claim: Jung Won-oh vote share at 95.83% counted
+        kind: numerical_with_unit
+        value: "48.51 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "challenger Jung Won-oh's 48.51 percent"
+      - claim: Votes counted percentage at time of lead
+        kind: numerical_with_unit
+        value: "95.83 percent counted"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "at 95.83 percent counted"
+      - claim: Time Oh pulled ahead
+        kind: temporal
+        value: "approximately 7:16 a.m. Thursday"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "pulling ahead at approximately 7:16 a.m. Thursday"
+      - claim: Democratic Party district chief posts won
+        kind: numerical
+        value: "119 of 227"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "Democratic Party won 119 of 227 district chief posts nationwide"
+      - claim: PPP district chief posts won
+        kind: numerical
+        value: "95"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "PPP won 95"
+      - claim: Voter turnout
+        kind: numerical_with_unit
+        value: "55.9 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "Voter turnout reached 55.9 percent"
+      - claim: Election date
+        kind: temporal
+        value: "June 3, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "South Korea's June 3, 2026 local elections"
+      - claim: President Lee Jae Myung administration start date
+        kind: temporal
+        value: "June 4, 2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "President Lee Jae Myung's administration took office on June 4, 2025"
+      - claim: Democratic Party Chair name
+        kind: named_person
+        value: "Jung Chung-rae"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "Democratic Party Chair Rep. Jung Chung-rae"
+      - claim: Seoul PPP incumbent name
+        kind: named_person
+        value: "Oh Se-hoon"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "People Power Party incumbent Oh Se-hoon"
+      - claim: Seoul Democratic challenger name
+        kind: named_person
+        value: "Jung Won-oh"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "challenger Jung Won-oh"
+      - claim: Busan Democratic candidate name
+        kind: named_person
+        value: "Chun Jae-soo"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "Democratic Party candidate Chun Jae-soo"
+      - claim: Busan incumbent mayor name
+        kind: named_person
+        value: "Park Hyeong-joon"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "incumbent Mayor Park Hyeong-joon"
+      - claim: Ulsan winner name
+        kind: named_person
+        value: "Kim Sang-wook"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "Kim Sang-wook defeated Kim Du-kyum"
+      - claim: Ulsan incumbent name
+        kind: named_person
+        value: "Kim Du-kyum"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "Kim Sang-wook defeated Kim Du-kyum"
+      - claim: President name
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10763729
+        verbatim_excerpt: "President Lee Jae Myung's administration"
+    quotes:
+      - speaker_name: "Jung Chung-rae"
+        speaker_title: "Chair, Democratic Party of Korea"
+        verbatim_en: "I am deeply grateful to the people for giving the Democratic Party a sweeping victory"
+        source_url: https://www.koreaherald.com/article/10763729
+        context: "Statement following June 3, 2026 local election results"
+
+  - story_id: oh-se-hoon-fifth-term-seoul-mayor
+    category: politics
+    headline_en: "Oh Se-hoon Wins Unprecedented Fifth Term as Seoul Mayor in Dramatic Late-Count Surge"
+    lead_url: https://www.koreaherald.com/article/10763189
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10763768
+    locked_urls:
+      - https://www.koreaherald.com/article/10763189
+      - https://www.koreaherald.com/article/10763768
+    hard_facts:
+      - claim: Oh Se-hoon vote share at 95.83% counted
+        kind: numerical_with_unit
+        value: "48.77 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763189
+        verbatim_excerpt: "Oh secured 48.77 percent of the vote"
+      - claim: Jung Won-oh vote share at 95.83% counted
+        kind: numerical_with_unit
+        value: "48.51 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763189
+        verbatim_excerpt: "His Democratic Party of Korea opponent, Jung Won-oh, received 48.51 percent"
+      - claim: Vote count percentage at time of report
+        kind: numerical_with_unit
+        value: "95.83 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763189
+        verbatim_excerpt: "With 95.83 percent of votes counted"
+      - claim: Time Oh moved into the lead
+        kind: temporal
+        value: "around 7:16 a.m."
+        source_urls:
+          - https://www.koreaherald.com/article/10763189
+        verbatim_excerpt: "He moved into the lead at around 7:16 a.m."
+      - claim: Date of report
+        kind: temporal
+        value: "Thursday, June 4, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10763189
+        verbatim_excerpt: "as of 8:00 a.m. Thursday, June 4, 2026"
+      - claim: Oh Se-hoon mayoral terms won
+        kind: numerical
+        value: "fifth consecutive mayoral win"
+        source_urls:
+          - https://www.koreaherald.com/article/10763189
+        verbatim_excerpt: "Oh's unprecedented fifth consecutive mayoral win"
+      - claim: Seoul mayor incumbent name
+        kind: named_person
+        value: "Oh Se-hoon"
+        source_urls:
+          - https://www.koreaherald.com/article/10763189
+        verbatim_excerpt: "People Power Party candidate and incumbent Seoul Mayor Oh Se-hoon"
+      - claim: Democratic challenger name
+        kind: named_person
+        value: "Jung Won-oh"
+        source_urls:
+          - https://www.koreaherald.com/article/10763189
+        verbatim_excerpt: "His Democratic Party of Korea opponent, Jung Won-oh"
+    quotes: []
+
+  - story_id: nec-ballot-shortage-criminal-complaint
+    category: politics
+    headline_en: "NEC Faces Criminal Complaint and Presidential Rebuke Over Ballot Shortage Affecting 17 Polling Stations Nationwide"
+    lead_url: https://www.koreaherald.com/article/10763752
+    body_source: full
+    corroborated_by:
+      - https://en.sedaily.com/society/2026/06/04/korea-election-watchdog-faces-backlash-over-ballot-shortage
+    locked_urls:
+      - https://www.koreaherald.com/article/10763752
+      - https://en.sedaily.com/society/2026/06/04/korea-election-watchdog-faces-backlash-over-ballot-shortage
+    hard_facts:
+      - claim: Polling stations nationwide affected by ballot shortage
+        kind: numerical
+        value: "17"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "ballot shortages affected 14 polling stations in Seoul and 17 nationwide"
+      - claim: Polling stations in Seoul affected by ballot shortage
+        kind: numerical
+        value: "14"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "ballot shortages affected 14 polling stations in Seoul"
+      - claim: Songpa-gu ballot preparation ratio
+        kind: numerical_with_unit
+        value: "approximately 50 percent of eligible voters"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "Officials in Songpa-gu had prepared ballots for approximately 50 percent of eligible voters"
+      - claim: Uncollected votes at Jamsil-dong
+        kind: numerical_with_unit
+        value: "An estimated 2,000 votes"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "An estimated 2,000 votes remained uncollected at the Jamsil-dong polling station"
+      - claim: NEC Chair name
+        kind: named_person
+        value: "Roh Tae-ak"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "NEC Chair Roh Tae-ak"
+      - claim: NEC Secretary-General name
+        kind: named_person
+        value: "Heo Cheol-hoon"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "Secretary-General Heo Cheol-hoon"
+      - claim: President name
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "President Lee Jae Myung"
+      - claim: National Election Commission institution
+        kind: named_institution
+        value: "National Election Commission (NEC)"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "The National Election Commission (NEC) faced mounting criticism"
+      - claim: Filing group institution
+        kind: named_institution
+        value: "People's Welfare Countermeasure Committee"
+        source_urls:
+          - https://www.koreaherald.com/article/10763752
+        verbatim_excerpt: "The People's Welfare Countermeasure Committee filed a criminal complaint"
+    quotes:
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President, South Korea"
+        verbatim_en: "an unacceptable failure in election management"
+        source_url: https://www.koreaherald.com/article/10763752
+        context: "Presidential response to ballot shortages at June 3, 2026 local elections"
+      - speaker_name: "Heo Cheol-hoon"
+        speaker_title: "Secretary-General, National Election Commission"
+        verbatim_en: "We take this matter seriously, and as soon as ballot counting concludes, we will accurately analyze the causes."
+        source_url: https://www.koreaherald.com/article/10763752
+        context: "Statement following criminal complaint over ballot shortages"
+
+  - story_id: choo-mi-ae-first-female-provincial-governor
+    category: politics
+    headline_en: "Former Justice Minister Choo Mi-ae Becomes South Korea's First Female Provincial Governor After Gyeonggi Win"
+    lead_url: https://www.koreaherald.com/article/10763694
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10763694
+    hard_facts:
+      - claim: Choo Mi-ae age
+        kind: numerical
+        value: "67"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "Choo Mi-ae, 67"
+      - claim: Choo Mi-ae vote share
+        kind: numerical_with_unit
+        value: "55.04 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "securing 55.04 percent to Yang's 39.37 percent"
+      - claim: Yang Hyang-ja vote share
+        kind: numerical_with_unit
+        value: "39.37 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "securing 55.04 percent to Yang's 39.37 percent"
+      - claim: Choo Mi-ae number of National Assembly terms
+        kind: numerical
+        value: "six terms"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "Choo's career spans six terms as a lawmaker"
+      - claim: Year Choo entered National Assembly
+        kind: temporal
+        value: "1996"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "Choo entered the National Assembly in 1996"
+      - claim: Choo Democratic Party chairmanship period
+        kind: temporal
+        value: "2016–2018"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "As Democratic Party chair 2016–2018"
+      - claim: Gyeonggi Province population
+        kind: numerical_with_unit
+        value: "more than 14 million residents"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "Gyeonggi Province is home to more than 14 million residents surrounding Seoul"
+      - claim: Choo Mi-ae name
+        kind: named_person
+        value: "Choo Mi-ae"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "Choo Mi-ae, 67, a veteran liberal politician and former Justice Minister"
+      - claim: PPP rival name
+        kind: named_person
+        value: "Yang Hyang-ja"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "People Power Party rival Yang Hyang-ja"
+      - claim: President who recruited Choo
+        kind: named_person
+        value: "Kim Dae-jung"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "recruited by President Kim Dae-jung"
+      - claim: President under whom Choo served as justice minister
+        kind: named_person
+        value: "Moon Jae-in"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "Under President Moon Jae-in, she served as justice minister"
+      - claim: Province governed
+        kind: named_institution
+        value: "Gyeonggi Province"
+        source_urls:
+          - https://www.koreaherald.com/article/10763694
+        verbatim_excerpt: "winning the Gyeonggi governorship on June 3, 2026"
+    quotes: []
+
+  - story_id: chip-equipment-stocks-surge-30pct
+    category: tech
+    headline_en: "Chip Equipment Stocks Surge Up to 30% as Semiconductor Capex Rotation Benefits Equipment Makers"
+    lead_url: https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10763815
+    locked_urls:
+      - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+      - https://www.koreaherald.com/article/10763815
+    hard_facts:
+      - claim: Eugene Technology stock gain
+        kind: numerical_with_unit
+        value: "+29.97% to 155,700 won"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "Eugene Technology +29.97% to 155,700 won"
+      - claim: Wonik IPS stock gain
+        kind: numerical_with_unit
+        value: "+29.93% to 127,200 won"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "Wonik IPS +29.93% to 127,200 won"
+      - claim: Tes stock gain
+        kind: numerical_with_unit
+        value: "+29.35% to 135,300 won"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "Tes +29.35% to 135,300 won"
+      - claim: VM stock gain
+        kind: numerical_with_unit
+        value: "+28.41% to 69,600 won"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "VM +28.41% to 69,600 won"
+      - claim: PSK stock gain
+        kind: numerical_with_unit
+        value: "+24.39% to 112,700 won"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "PSK +24.39% to 112,700 won"
+      - claim: Jusung Engineering stock gain
+        kind: numerical_with_unit
+        value: "+23.41% to 243,000 won"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "Jusung Engineering +23.41% to 243,000 won"
+      - claim: SOL Semiconductor Front-End ETF gain
+        kind: numerical_with_unit
+        value: "+16.63%"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "SOL Semiconductor Front-End ETF +16.63%"
+      - claim: HANARO Semiconductor Core Process Leaders ETF gain
+        kind: numerical_with_unit
+        value: "+13.06%"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "HANARO Semiconductor Core Process Leaders ETF +13.06%"
+      - claim: Tes operating profit projection YoY
+        kind: numerical_with_unit
+        value: "105.7 billion won (+83% YoY)"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "Tes operating profit 105.7 billion won (+83% YoY)"
+      - claim: VM operating profit projection YoY
+        kind: numerical_with_unit
+        value: "98.5 billion won (+299% YoY)"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "VM 98.5 billion won (+299% YoY)"
+      - claim: SK Securities analyst name
+        kind: named_person
+        value: "Lee Dong-ju"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "SK Securities analyst Lee Dong-ju"
+      - claim: Hana Securities institution
+        kind: named_institution
+        value: "Hana Securities"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "Hana Securities reported"
+      - claim: SK Securities institution
+        kind: named_institution
+        value: "SK Securities"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "SK Securities analyst Lee Dong-ju"
+      - claim: Eugene Technology product
+        kind: named_product
+        value: "Eugene Technology"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "Eugene Technology +29.97% to 155,700 won"
+      - claim: SOL Semiconductor Front-End ETF product
+        kind: named_product
+        value: "SOL Semiconductor Front-End ETF"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "SOL Semiconductor Front-End ETF +16.63%"
+      - claim: HANARO ETF product
+        kind: named_product
+        value: "HANARO Semiconductor Core Process Leaders ETF"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        verbatim_excerpt: "HANARO Semiconductor Core Process Leaders ETF +13.06%"
+    quotes:
+      - speaker_name: "Lee Dong-ju"
+        speaker_title: "Analyst, SK Securities"
+        verbatim_en: "earnings expectations for front-end equipment are running ahead"
+        source_url: https://en.sedaily.com/markets/2026/06/04/chip-equipment-stocks-surge-as-samsung-sk-hynix-take-a
+        context: "Comment on chip equipment stock rally, June 4, 2026"
+
+  - story_id: hyundai-nvidia-ai-center-saemangeum
+    category: tech
+    headline_en: "Hyundai Motor, Nvidia, and Korean Government in Final Talks on AI Technology Center at Saemangeum"
+    lead_url: https://www.koreaherald.com/article/10763743
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10763743
+    hard_facts:
+      - claim: Hyundai Motor Group investment at Saemangeum
+        kind: numerical_with_unit
+        value: "9 trillion won ($5.89 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10763743
+        verbatim_excerpt: "Hyundai Motor Group has committed 9 trillion won ($5.89 billion)"
+      - claim: MOU signing date
+        kind: temporal
+        value: "October"
+        source_urls:
+          - https://www.koreaherald.com/article/10763743
+        verbatim_excerpt: "a memorandum of understanding signed in October by Hyundai Motor Group, Nvidia, and South Korea's Ministry of Science and ICT"
+      - claim: Jensen Huang visit duration
+        kind: temporal
+        value: "four-day Seoul visit beginning Thursday"
+        source_urls:
+          - https://www.koreaherald.com/article/10763743
+        verbatim_excerpt: "Huang is expected to meet Hyundai Motor Group Executive Chair Chung Euisun during his four-day Seoul visit beginning Thursday"
+      - claim: Nvidia CEO name
+        kind: named_person
+        value: "Jensen Huang"
+        source_urls:
+          - https://www.koreaherald.com/article/10763743
+        verbatim_excerpt: "Nvidia CEO Jensen Huang"
+      - claim: Hyundai Motor Group Executive Chair name
+        kind: named_person
+        value: "Chung Euisun"
+        source_urls:
+          - https://www.koreaherald.com/article/10763743
+        verbatim_excerpt: "Hyundai Motor Group Executive Chair Chung Euisun"
+      - claim: Hyundai Motor Group institution
+        kind: named_institution
+        value: "Hyundai Motor Group"
+        source_urls:
+          - https://www.koreaherald.com/article/10763743
+        verbatim_excerpt: "Hyundai Motor Group, Nvidia, and South Korea's government are discussing"
+      - claim: Ministry of Science and ICT institution
+        kind: named_institution
+        value: "Ministry of Science and ICT"
+        source_urls:
+          - https://www.koreaherald.com/article/10763743
+        verbatim_excerpt: "South Korea's Ministry of Science and ICT"
+      - claim: Saemangeum location
+        kind: named_institution
+        value: "Saemangeum industrial development zone in North Jeolla Province"
+        source_urls:
+          - https://www.koreaherald.com/article/10763743
+        verbatim_excerpt: "the Saemangeum industrial development zone in North Jeolla Province as a leading candidate"
+    quotes:
+      - speaker_name: "Jensen Huang"
+        speaker_title: "CEO, Nvidia"
+        verbatim_en: "I think that robotics is very important to Korea"
+        source_url: https://www.koreaherald.com/article/10763743
+        context: "Statement indicating Nvidia would consider additional investments in South Korea"
+
+  - story_id: hanwha-aerospace-suspends-9-sites-daejeon-explosion
+    category: society
+    headline_en: "Hanwha Aerospace Suspends All Nine Production Sites for Safety Inspections After Five Workers Killed in Daejeon Explosion"
+    lead_url: https://www.koreaherald.com/article/10763343
+    body_source: full
+    corroborated_by:
+      - https://www.upi.com/Top_News/World-News/2026/06/01/korea-Hanwha-Aerospace-explosion-factory-Daejeon-five-killed/7831780294977/
+    locked_urls:
+      - https://www.koreaherald.com/article/10763343
+      - https://www.upi.com/Top_News/World-News/2026/06/01/korea-Hanwha-Aerospace-explosion-factory-Daejeon-five-killed/7831780294977/
+    hard_facts:
+      - claim: Number of production sites halted
+        kind: numerical
+        value: "9"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "halt operations across nine business sites"
+      - claim: Duration of halt
+        kind: temporal
+        value: "two days beginning Thursday, June 4"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "for two days beginning Thursday, June 4"
+      - claim: Date of explosion
+        kind: temporal
+        value: "Monday, June 1"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "The explosion occurred Monday, June 1"
+      - claim: Workers killed in June 2026 explosion
+        kind: numerical
+        value: "5"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "killing five people and injuring two"
+      - claim: Workers injured in June 2026 explosion
+        kind: numerical
+        value: "2"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "killing five people and injuring two"
+      - claim: Distance of Daejeon plant from Seoul
+        kind: numerical_with_unit
+        value: "approximately 140 kilometers south of Seoul"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "the facility approximately 140 kilometers south of Seoul"
+      - claim: Revenue from affected production lines last year
+        kind: numerical_with_unit
+        value: "1.32 trillion won ($870 million)"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "The affected production lines generated 1.32 trillion won ($870 million) in revenue last year"
+      - claim: Revenue as percent of total
+        kind: numerical_with_unit
+        value: "4.94 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "representing 4.94 percent of Hanwha Aerospace's total 26.7 trillion won revenue"
+      - claim: Hanwha Aerospace total revenue
+        kind: numerical_with_unit
+        value: "26.7 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "Hanwha Aerospace's total 26.7 trillion won revenue"
+      - claim: Workers killed in May 2018 explosion
+        kind: numerical
+        value: "5"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "five workers killed in May 2018"
+      - claim: Date of first previous explosion
+        kind: temporal
+        value: "May 2018"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "five workers killed in May 2018"
+      - claim: Workers killed in February 2019 explosion
+        kind: numerical
+        value: "3"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "three workers killed in February 2019"
+      - claim: Date of second previous explosion
+        kind: temporal
+        value: "February 2019"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "three workers killed in February 2019"
+      - claim: Hanwha Aerospace institution
+        kind: named_institution
+        value: "Hanwha Aerospace Co."
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "Hanwha Aerospace Co. announced"
+      - claim: Chunmoo multiple rocket launchers product
+        kind: named_product
+        value: "Chunmoo multiple rocket launchers"
+        source_urls:
+          - https://www.koreaherald.com/article/10763343
+        verbatim_excerpt: "The Daejeon plant manufactures Chunmoo multiple rocket launchers and long-range surface-to-air missiles"
+    quotes:
+      - speaker_name: "Hanwha Aerospace"
+        speaker_title: "Corporate spokesperson, Hanwha Aerospace Co."
+        verbatim_en: "Securing a safe working environment is a higher priority than avoiding temporary production disruptions."
+        source_url: https://www.koreaherald.com/article/10763343
+        context: "Company statement on suspension of operations following fatal Daejeon explosion"
+
+  - story_id: progressives-win-11-of-16-education-superintendents
+    category: society
+    headline_en: "Progressives Win 11 of 16 Regional Education Superintendent Posts, Strengthening Hold on South Korean Schools"
+    lead_url: https://www.koreaherald.com/article/10763610
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10763610
+    hard_facts:
+      - claim: Progressive superintendent posts won
+        kind: numerical
+        value: "11 of 16"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "winning 11 of 16 posts"
+      - claim: Progressive posts won four years earlier
+        kind: numerical
+        value: "nine"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "up from nine four years earlier"
+      - claim: Seoul Metropolitan Education Superintendent vote share
+        kind: numerical_with_unit
+        value: "30.56 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "Jung Geun-sik secured reelection with 30.56 percent"
+      - claim: Conservative rival vote share in Seoul
+        kind: numerical_with_unit
+        value: "23.22 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "defeating conservative rival Cho Chun-hyuk at 23.22 percent"
+      - claim: Third candidate vote share in Seoul
+        kind: numerical_with_unit
+        value: "14.47 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "and Yoon Ho-sang at 14.47 percent"
+      - claim: Seoul Superintendent name
+        kind: named_person
+        value: "Jung Geun-sik"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "Seoul Metropolitan Education Superintendent Jung Geun-sik"
+      - claim: Conservative rival name in Seoul
+        kind: named_person
+        value: "Cho Chun-hyuk"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "defeating conservative rival Cho Chun-hyuk"
+      - claim: Third candidate name in Seoul
+        kind: named_person
+        value: "Yoon Ho-sang"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "and Yoon Ho-sang at 14.47 percent"
+      - claim: Gyeonggi Province superintendent winner
+        kind: named_person
+        value: "Ahn Min-seok"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "Gyeonggi Province (Ahn Min-seok)"
+      - claim: Gangwon Province superintendent winner
+        kind: named_person
+        value: "Kang Sam-young"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "Gangwon Province (Kang Sam-young)"
+      - claim: Jeju superintendent winner
+        kind: named_person
+        value: "Ko Eui-sook"
+        source_urls:
+          - https://www.koreaherald.com/article/10763610
+        verbatim_excerpt: "and Jeju (Ko Eui-sook)"
+    quotes:
+      - speaker_name: "Jung Geun-sik"
+        speaker_title: "Seoul Metropolitan Education Superintendent"
+        verbatim_en: "I believe it reflects citizens' hopes for schools where every student is respected and can grow together."
+        source_url: https://www.koreaherald.com/article/10763610
+        context: "Statement following reelection as Seoul Metropolitan Education Superintendent"
+
+  - story_id: exit-ban-us-scholar-lee-defamation
+    category: society
+    headline_en: "Court Rejects Suspension of Exit Ban on US Scholar Accused of Defaming President Lee"
+    lead_url: https://www.koreaherald.com/article/10763526
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10763526
+    hard_facts:
+      - claim: Scholar name
+        kind: named_person
+        value: "Morse Tan"
+        source_urls:
+          - https://www.koreaherald.com/article/10763526
+        verbatim_excerpt: "Morse Tan, a Korean American scholar"
+      - claim: President name
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10763526
+        verbatim_excerpt: "accused of defaming President Lee Jae Myung"
+      - claim: Scholar's institution affiliation
+        kind: named_institution
+        value: "Liberty University"
+        source_urls:
+          - https://www.koreaherald.com/article/10763526
+        verbatim_excerpt: "Tan, affiliated with Liberty University"
+      - claim: Court institution
+        kind: named_institution
+        value: "Seoul Administrative Court"
+        source_urls:
+          - https://www.koreaherald.com/article/10763526
+        verbatim_excerpt: "A Seoul Administrative Court rejected a suspension request"
+      - claim: Tan's former US government role
+        kind: named_person
+        value: "U.S. ambassador-at-large for global criminal justice"
+        source_urls:
+          - https://www.koreaherald.com/article/10763526
+        verbatim_excerpt: "Tan formerly served as U.S. ambassador-at-large for global criminal justice under the first Donald Trump administration"
+      - claim: Administration under which Tan served
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - https://www.koreaherald.com/article/10763526
+        verbatim_excerpt: "under the first Donald Trump administration"
+    quotes: []
+
+  - story_id: korea-investment-trust-spacex-ipo
+    category: ipo_ma
+    headline_en: "Korea Investment Trust Management to Participate in SpaceX IPO; Plans to Raise SpaceX ETF Weighting to 25 Percent"
+    lead_url: https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+    body_source: full
+    corroborated_by:
+      - https://en.bloomingbit.io/feed/news/113539
+    locked_urls:
+      - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+      - https://en.bloomingbit.io/feed/news/113539
+    hard_facts:
+      - claim: SpaceX IPO date
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "SpaceX's initial public offering, scheduled for June 12, 2026 local time"
+      - claim: Announcement date
+        kind: temporal
+        value: "June 4, 2026"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "Korea Investment Trust Management announced on June 4, 2026"
+      - claim: Expected SpaceX IPO size
+        kind: numerical_with_unit
+        value: "$75–80 billion"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "Expected IPO size: $75–80 billion"
+      - claim: SpaceX valuation range at IPO
+        kind: numerical_with_unit
+        value: "$1.75–2 trillion"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "SpaceX valuation range: $1.75–2 trillion at IPO"
+      - claim: Target SpaceX weighting in ACE ETF
+        kind: numerical_with_unit
+        value: "approximately 25 percent"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "The ACE U.S. Space Tech Active ETF targets raising SpaceX's weighting to approximately 25 percent"
+      - claim: Korea Investment Trust Management institution
+        kind: named_institution
+        value: "Korea Investment Trust Management"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "Korea Investment Trust Management announced"
+      - claim: ACE ETF product name
+        kind: named_product
+        value: "ACE U.S. Space Tech Active ETF"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "the ACE U.S. Space Tech Active ETF"
+      - claim: Korea Investment Global Space Technology & Defense Fund product name
+        kind: named_product
+        value: "Korea Investment Global Space Technology & Defense Fund"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "the Korea Investment Global Space Technology & Defense Fund"
+      - claim: Kim Hyun-tae title
+        kind: named_person
+        value: "Kim Hyun-tae"
+        source_urls:
+          - https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        verbatim_excerpt: "Kim Hyun-tae, head of global quant management"
+    quotes:
+      - speaker_name: "Kim Hyun-tae"
+        speaker_title: "Head of Global Quant Management, Korea Investment Trust Management"
+        verbatim_en: "Both funds are active, so they can respond immediately on SpaceX's listing day."
+        source_url: https://www.digitaltoday.co.kr/en/view/60469/korea-investment-trust-management-to-join-spacex-ipo-add-to-space-tech-etf
+        context: "Statement on Korea Investment Trust Management's SpaceX IPO participation, June 4, 2026"
+
+  - story_id: lee-electoral-mandate-diplomatic-continuity
+    category: other
+    headline_en: "South Korea's Lee Wins Mandate for Diplomatic Continuity as Local Elections Strengthen Foreign Policy Hand"
+    lead_url: https://asia.nikkei.com/politics/south-korea-s-lee-wins-mandate-for-diplomatic-continuity-in-local-elections
+    body_source: paywall-stub
+    corroborated_by:
+      - https://thediplomat.com/2026/06/exit-polls-suggest-ruling-democratic-partys-victory-in-local-elections/
+    locked_urls:
+      - https://asia.nikkei.com/politics/south-korea-s-lee-wins-mandate-for-diplomatic-continuity-in-local-elections
+      - https://thediplomat.com/2026/06/exit-polls-suggest-ruling-democratic-partys-victory-in-local-elections/
+    hard_facts:
+      - claim: Joint news conference date
+        kind: temporal
+        value: "May 19"
+        source_urls:
+          - https://asia.nikkei.com/politics/south-korea-s-lee-wins-mandate-for-diplomatic-continuity-in-local-elections
+        verbatim_excerpt: "joint news conference with Japanese Prime Minister Sanae Takaichi in Andong, South Korea on May 19"
+      - claim: Location of Lee-Takaichi joint news conference
+        kind: named_institution
+        value: "Andong, South Korea"
+        source_urls:
+          - https://asia.nikkei.com/politics/south-korea-s-lee-wins-mandate-for-diplomatic-continuity-in-local-elections
+        verbatim_excerpt: "joint news conference with Japanese Prime Minister Sanae Takaichi in Andong, South Korea on May 19"
+      - claim: President name
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://asia.nikkei.com/politics/south-korea-s-lee-wins-mandate-for-diplomatic-continuity-in-local-elections
+        verbatim_excerpt: "South Korean President Lee Jae Myung achieved a significant electoral victory"
+      - claim: Japanese Prime Minister name
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://asia.nikkei.com/politics/south-korea-s-lee-wins-mandate-for-diplomatic-continuity-in-local-elections
+        verbatim_excerpt: "joint news conference with Japanese Prime Minister Sanae Takaichi"
+    quotes: []
