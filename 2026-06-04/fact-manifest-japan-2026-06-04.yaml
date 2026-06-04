@@ -1,0 +1,1582 @@
+version: 1
+generated_at: "2026-06-04T12:00:00Z"
+country: Japan
+date: "2026-06-04"
+total_stories: 19
+stories:
+  - story_id: boj-ueda-pivots-inflation-fighting-mode
+    category: econ
+    headline_en: "Analysis: BOJ's Ueda pivots to inflation-fighting mode, clearing path for steadier hikes"
+    lead_url: https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+    body_source: full
+    corroborated_by:
+      - https://www.zawya.com/en/news/insights/bojs-ueda-pivots-to-inflation-fighting-mode-clearing-path-for-steadier-hikes-joyats7u
+    locked_urls:
+      - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+      - https://www.zawya.com/en/news/insights/bojs-ueda-pivots-to-inflation-fighting-mode-clearing-path-for-steadier-hikes-joyats7u
+    hard_facts:
+      - claim: BOJ Governor identity
+        kind: named_person
+        value: Kazuo Ueda
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "Bank of Japan Governor Kazuo Ueda has shed his dovish image"
+      - claim: Ueda speech date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "Ueda stated in a June 4 speech"
+      - claim: Analyst name — Mari Iwashita
+        kind: named_person
+        value: Mari Iwashita
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "Analyst Mari Iwashita said"
+      - claim: Analyst name — Rinto Maruyama
+        kind: named_person
+        value: Rinto Maruyama
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "SMBC Nikko analyst Rinto Maruyama noted"
+      - claim: SMBC Nikko institution
+        kind: named_institution
+        value: SMBC Nikko
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "SMBC Nikko analyst Rinto Maruyama noted"
+      - claim: Market-implied probability of June rate hike
+        kind: numerical_with_unit
+        value: "78%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "Markets are pricing approximately 78% probability of a rate rise at the June 15–16 BOJ policy meeting"
+      - claim: BOJ June policy meeting dates
+        kind: temporal
+        value: June 15–16
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "the June 15–16 BOJ policy meeting"
+      - claim: BOJ current policy rate
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "BOJ's policy rate currently stands at 0.75%"
+      - claim: Previous BOJ policy rate before December 2025 hike
+        kind: numerical_with_unit
+        value: "0.50%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "raised from 0.50% in December 2025"
+      - claim: Date of previous BOJ rate raise
+        kind: temporal
+        value: December 2025
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        verbatim_excerpt: "raised from 0.50% in December 2025"
+    quotes:
+      - speaker_name: Kazuo Ueda
+        speaker_title: Bank of Japan Governor
+        verbatim_en: "Even if Middle East conditions remain ambiguous, we must weigh rate increase benefits against economic activity risks."
+        source_url: https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        context: June 4 speech
+      - speaker_name: Mari Iwashita
+        speaker_title: Analyst
+        verbatim_en: "the war-induced wave of price increases has only just begun."
+        source_url: https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        context: analyst commentary on BOJ pivot
+      - speaker_name: Rinto Maruyama
+        speaker_title: Analyst, SMBC Nikko
+        verbatim_en: "any rebound in the yen will be limited."
+        source_url: https://finance.yahoo.com/economy/policy/articles/analysis-bojs-ueda-pivots-inflation-040102513.html
+        context: analyst commentary on BOJ pivot
+
+  - story_id: boj-expected-raise-rates-june-sources
+    category: econ
+    headline_en: Bank of Japan expected to raise rates this month, sources say
+    lead_url: https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+    hard_facts:
+      - claim: Bank of Japan institution
+        kind: named_institution
+        value: Bank of Japan
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "The Bank of Japan is expected to raise interest rates"
+      - claim: BOJ policy meeting conclusion date
+        kind: temporal
+        value: June 16
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "at the conclusion of its June 16 policy meeting"
+      - claim: Market-implied probability of BOJ rate hike
+        kind: numerical_with_unit
+        value: "roughly 80%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "Markets are pricing roughly 80% probability that the BOJ will raise its short-term policy rate"
+      - claim: Target short-term policy rate
+        kind: numerical_with_unit
+        value: "1%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "raise its short-term policy rate to 1% from 0.75%"
+      - claim: Current short-term policy rate
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "raise its short-term policy rate to 1% from 0.75%"
+      - claim: Last time 1% rate level seen
+        kind: temporal
+        value: "1995"
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "a level not seen since 1995"
+      - claim: BOJ Governor name
+        kind: named_person
+        value: Ueda
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "BOJ Governor Ueda's Wednesday speech on June 4"
+      - claim: Ueda speech date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "BOJ Governor Ueda's Wednesday speech on June 4"
+      - claim: BOJ QT pause target fiscal year
+        kind: temporal
+        value: fiscal year 2027
+        source_urls:
+          - https://finance.yahoo.com/economy/policy/articles/boj-expected-raise-interest-rates-065302404.html
+        verbatim_excerpt: "BOJ may also pause or slow its bond purchase reductions (quantitative tightening) in fiscal year 2027"
+    quotes: []
+
+  - story_id: nikkei-pulls-back-record-high-ai-selloff
+    category: econ
+    headline_en: "Japan's Nikkei pulls back from record high on AI selloff"
+    lead_url: https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.rttnews.com/story.aspx?Id=3657858
+    locked_urls:
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+      - https://www.rttnews.com/story.aspx?Id=3657858
+    hard_facts:
+      - claim: Nikkei 225 point decline on June 4
+        kind: numerical_with_unit
+        value: "approximately 1,118 points"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Japan's Nikkei 225 fell approximately 1,118 points (-1.63%) on June 4"
+      - claim: Nikkei 225 percentage decline on June 4
+        kind: numerical_with_unit
+        value: "-1.63%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Japan's Nikkei 225 fell approximately 1,118 points (-1.63%) on June 4"
+      - claim: Nikkei 225 closing level June 4
+        kind: numerical_with_unit
+        value: "67,283.97"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "to close at 67,283.97"
+      - claim: Previous Nikkei 225 record closing high
+        kind: numerical_with_unit
+        value: "68,401"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "retreating from the record closing high of 68,401 set June 3"
+      - claim: Date of previous Nikkei 225 record closing high
+        kind: temporal
+        value: June 3
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "record closing high of 68,401 set June 3"
+      - claim: Trigger company — Broadcom earnings miss
+        kind: named_institution
+        value: Broadcom
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "triggered by Broadcom's Q2 earnings miss"
+      - claim: Broadcom earnings period
+        kind: temporal
+        value: Q2
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Broadcom's Q2 earnings miss"
+      - claim: SoftBank Group decline
+        kind: numerical_with_unit
+        value: "over 8%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "SoftBank Group was the largest single drag, falling over 8%"
+      - claim: SoftBank Group institution
+        kind: named_institution
+        value: SoftBank Group
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "SoftBank Group was the largest single drag, falling over 8%"
+      - claim: Panasonic decline
+        kind: numerical_with_unit
+        value: "nearly 5%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Panasonic declined nearly 5%"
+      - claim: Panasonic institution
+        kind: named_institution
+        value: Panasonic
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Panasonic declined nearly 5%"
+      - claim: Sony decline
+        kind: numerical_with_unit
+        value: "over 2%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Sony slipped over 2%"
+      - claim: Sony institution
+        kind: named_institution
+        value: Sony
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Sony slipped over 2%"
+      - claim: Mitsubishi Electric decline
+        kind: numerical_with_unit
+        value: "nearly 3%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Mitsubishi Electric declined nearly 3%"
+      - claim: Mitsubishi Electric institution
+        kind: named_institution
+        value: Mitsubishi Electric
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Mitsubishi Electric declined nearly 3%"
+      - claim: Topix decline
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "The Topix fell 0.8% to approximately 3,964"
+      - claim: Topix closing level
+        kind: numerical_with_unit
+        value: "approximately 3,964"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "The Topix fell 0.8% to approximately 3,964"
+      - claim: USD/JPY trading range
+        kind: numerical_with_unit
+        value: "159-yen range"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "The U.S. dollar traded in the 159-yen range"
+      - claim: Disco Corp advance
+        kind: numerical_with_unit
+        value: "over 4%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Disco Corp. advanced over 4%"
+      - claim: Disco Corp institution
+        kind: named_institution
+        value: Disco Corp.
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Disco Corp. advanced over 4%"
+    quotes: []
+
+  - story_id: foreign-inflow-japanese-bonds-8-week-peak
+    category: econ
+    headline_en: Foreign inflow into Japanese bonds at 8-week peak on hopes for Mideast peace deal
+    lead_url: https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+    hard_facts:
+      - claim: Foreign investor net purchase of Japanese bonds — week ending May 30 2026
+        kind: numerical_with_unit
+        value: "1.74 trillion yen ($10.88 billion)"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "Foreign investors purchased 1.74 trillion yen ($10.88 billion) in Japanese bonds during the week ending May 30, 2026"
+      - claim: Week ending for peak purchase data
+        kind: temporal
+        value: "week ending May 30, 2026"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "during the week ending May 30, 2026"
+      - claim: Peak purchase ranking
+        kind: temporal
+        value: "largest weekly net purchase in eight weeks"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "their largest weekly net purchase in eight weeks"
+      - claim: Prior comparison week purchase amount
+        kind: numerical_with_unit
+        value: "1.99 trillion yen"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "up from 1.99 trillion yen in the week to April 4"
+      - claim: Prior comparison week date
+        kind: temporal
+        value: "week to April 4"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "up from 1.99 trillion yen in the week to April 4"
+      - claim: Short-term bills component of inflow
+        kind: numerical_with_unit
+        value: "494.7 billion yen"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "The inflow comprised 494.7 billion yen in short-term bills"
+      - claim: Long-term bonds component of inflow
+        kind: numerical_with_unit
+        value: "1.25 trillion yen"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "and 1.25 trillion yen in long-term bonds"
+      - claim: JGB 10-year yield decline
+        kind: numerical_with_unit
+        value: "15 basis points"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "Japanese 10-year government bond yields declined 15 basis points from a 29-year high of 2.8% to 2.645%"
+      - claim: JGB 10-year yield previous 29-year high
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "from a 29-year high of 2.8% to 2.645%"
+      - claim: JGB 10-year yield after decline
+        kind: numerical_with_unit
+        value: "2.645%"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "from a 29-year high of 2.8% to 2.645%"
+      - claim: JGB 10-year yield prior record duration
+        kind: temporal
+        value: "29-year high"
+        source_urls:
+          - https://www.zawya.com/en/capital-markets/bonds/foreign-inflow-into-japanese-bonds-at-8-week-peak-on-hopes-for-mideast-peace-deal-nohc52cg
+        verbatim_excerpt: "a 29-year high of 2.8%"
+    quotes: []
+
+  - story_id: nissan-us-built-murano-suv-orders-japan
+    category: econ
+    headline_en: Nissan Begins Taking Orders for U.S.-Built Murano SUV in Japan
+    lead_url: https://newsonjapan.com/article/149511.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149511.php
+    hard_facts:
+      - claim: Nissan Motor institution
+        kind: named_institution
+        value: Nissan Motor
+        source_urls:
+          - https://newsonjapan.com/article/149511.php
+        verbatim_excerpt: "Nissan Motor has begun accepting orders for the U.S.-manufactured Murano SUV in Japan"
+      - claim: Murano SUV product name
+        kind: named_product
+        value: Murano SUV
+        source_urls:
+          - https://newsonjapan.com/article/149511.php
+        verbatim_excerpt: "U.S.-manufactured Murano SUV in Japan"
+      - claim: Murano SUV price in Japan
+        kind: numerical_with_unit
+        value: "approximately 7.96 million yen"
+        source_urls:
+          - https://newsonjapan.com/article/149511.php
+        verbatim_excerpt: "priced at approximately 7.96 million yen"
+      - claim: Expected Murano sales target timeline
+        kind: temporal
+        value: "by March 2027"
+        source_urls:
+          - https://newsonjapan.com/article/149511.php
+        verbatim_excerpt: "Nissan expects to sell around 200 units by March 2027"
+      - claim: Expected Nissan Murano sales units
+        kind: numerical_with_unit
+        value: "around 200 units"
+        source_urls:
+          - https://newsonjapan.com/article/149511.php
+        verbatim_excerpt: "Nissan expects to sell around 200 units by March 2027"
+      - claim: Toyota Motor institution
+        kind: named_institution
+        value: Toyota Motor
+        source_urls:
+          - https://newsonjapan.com/article/149511.php
+        verbatim_excerpt: "Toyota Motor has already begun selling two vehicle models in Japan under the same arrangement"
+      - claim: Toyota models already sold under framework
+        kind: numerical_with_unit
+        value: "two vehicle models"
+        source_urls:
+          - https://newsonjapan.com/article/149511.php
+        verbatim_excerpt: "Toyota Motor has already begun selling two vehicle models in Japan under the same arrangement"
+    quotes: []
+
+  - story_id: takaichi-europe-tour-june-13-g7-evian
+    category: politics
+    headline_en: "Takaichi eyes Europe tour from June 13, with visits to Britain, Italy, France"
+    lead_url: https://japantoday.com/category/politics/japan-pm-eyes-europe-tour-from-june-13-visits-to-britain-italy-france
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/japan-pm-eyes-europe-tour-from-june-13-visits-to-britain-italy-france
+    hard_facts:
+      - claim: Japanese Prime Minister name
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-eyes-europe-tour-from-june-13-visits-to-britain-italy-france
+        verbatim_excerpt: "Japanese Prime Minister Sanae Takaichi is planning a visit to Britain, Italy and France from June 13"
+      - claim: Europe tour start date
+        kind: temporal
+        value: June 13
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-eyes-europe-tour-from-june-13-visits-to-britain-italy-france
+        verbatim_excerpt: "planning a visit to Britain, Italy and France from June 13"
+      - claim: G7 summit location
+        kind: named_institution
+        value: Evian, France
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-eyes-europe-tour-from-june-13-visits-to-britain-italy-france
+        verbatim_excerpt: "culminating at the G7 summit in Evian, France on June 15–17"
+      - claim: G7 summit dates
+        kind: temporal
+        value: June 15–17
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-eyes-europe-tour-from-june-13-visits-to-britain-italy-france
+        verbatim_excerpt: "G7 summit in Evian, France on June 15–17"
+      - claim: GCAP programme name
+        kind: named_product
+        value: Global Combat Air Programme (GCAP)
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-eyes-europe-tour-from-june-13-visits-to-britain-italy-france
+        verbatim_excerpt: "advancing the Global Combat Air Programme (GCAP)"
+    quotes: []
+
+  - story_id: taiwan-japan-philippines-maritime-border
+    category: politics
+    headline_en: Taiwan says Japan, Philippines must respect its rights in maritime border talks
+    lead_url: https://japantoday.com/category/politics/taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-border-talks
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-border-talks
+    hard_facts:
+      - claim: Taiwan's Coast Guard spokesman title
+        kind: named_person
+        value: Taiwan's Coast Guard spokesman
+        source_urls:
+          - https://japantoday.com/category/politics/taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-border-talks
+        verbatim_excerpt: "Taiwan's Coast Guard spokesman stated"
+      - claim: Chief Cabinet Secretary name
+        kind: named_person
+        value: Kihara
+        source_urls:
+          - https://japantoday.com/category/politics/taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-border-talks
+        verbatim_excerpt: "Chief Cabinet Secretary Kihara stated"
+      - claim: Disputed location near Yonaguni Island
+        kind: named_institution
+        value: Yonaguni Island
+        source_urls:
+          - https://japantoday.com/category/politics/taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-border-talks
+        verbatim_excerpt: "Taipei has deployed patrol vessels to disputed waters near Yonaguni Island"
+    quotes:
+      - speaker_name: Taiwan's Coast Guard spokesman
+        speaker_title: Spokesman, Taiwan Coast Guard
+        verbatim_en: "Any arrangement reached between Japan and the Philippines regarding maritime boundary demarcation must not prejudice Taiwan's rights and interests."
+        source_url: https://japantoday.com/category/politics/taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-border-talks
+        context: public statement on Japan-Philippines coastal security agreement
+      - speaker_name: Kihara
+        speaker_title: Chief Cabinet Secretary, Japan
+        verbatim_en: "not legally binding on third parties."
+        source_url: https://japantoday.com/category/politics/taiwan-says-japan-philippines-must-respect-its-rights-in-maritime-border-talks
+        context: comment on Japan-Philippines agreement scope
+
+  - story_id: japan-best-ai-value-barclays-says
+    category: tech
+    headline_en: "Japan may be hiding 'the best AI value,' Barclays says"
+    lead_url: https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html
+    locked_urls:
+      - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+      - https://finance.yahoo.com/sectors/technology/articles/next-phase-ai-trade-could-105819882.html
+    hard_facts:
+      - claim: Barclays strategist name
+        kind: named_person
+        value: Ajay Rajadhyaksha
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "Barclays strategist Ajay Rajadhyaksha published a research note"
+      - claim: Barclays institution
+        kind: named_institution
+        value: Barclays
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "Barclays strategist Ajay Rajadhyaksha published a research note"
+      - claim: Samsung and SK Hynix share of Kospi
+        kind: numerical_with_unit
+        value: "over 50%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "South Korea's Samsung and SK Hynix represent over 50% of the Kospi"
+      - claim: Samsung institution
+        kind: named_institution
+        value: Samsung
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "South Korea's Samsung and SK Hynix represent over 50% of the Kospi"
+      - claim: SK Hynix institution
+        kind: named_institution
+        value: SK Hynix
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "South Korea's Samsung and SK Hynix represent over 50% of the Kospi"
+      - claim: TSMC share of TAIEX
+        kind: numerical_with_unit
+        value: "42%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "TSMC alone is 42% of the TAIEX"
+      - claim: TSMC institution
+        kind: named_institution
+        value: TSMC
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "TSMC alone is 42% of the TAIEX"
+      - claim: Nikkei 225 forward earnings multiple
+        kind: numerical_with_unit
+        value: "18-19x forward earnings"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "Japan's Nikkei 225 trades at 18-19x forward earnings"
+      - claim: Nikkei 225 YTD return
+        kind: numerical_with_unit
+        value: "32% YTD"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "The Nikkei 225 is up 32% YTD"
+      - claim: Tokyo Electron institution
+        kind: named_institution
+        value: Tokyo Electron
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "semiconductor equipment (Tokyo Electron)"
+      - claim: Shin-Etsu Chemical institution
+        kind: named_institution
+        value: Shin-Etsu Chemical
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "materials (Shin-Etsu Chemical, Sumitomo Chemical)"
+      - claim: Sumitomo Chemical institution
+        kind: named_institution
+        value: Sumitomo Chemical
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "materials (Shin-Etsu Chemical, Sumitomo Chemical)"
+      - claim: Fanuc institution
+        kind: named_institution
+        value: Fanuc
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "robotics (Fanuc, Yaskawa)"
+      - claim: Yaskawa institution
+        kind: named_institution
+        value: Yaskawa
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        verbatim_excerpt: "robotics (Fanuc, Yaskawa)"
+    quotes:
+      - speaker_name: Ajay Rajadhyaksha
+        speaker_title: Strategist, Barclays
+        verbatim_en: "Korea is a memory trade. Taiwan is a foundry trade. Japan is an economy trade, with an AI kicker."
+        source_url: https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        context: Barclays research note on Japan AI investment thesis
+      - speaker_name: Ajay Rajadhyaksha
+        speaker_title: Strategist, Barclays
+        verbatim_en: "The best AI value might be hiding in Tokyo."
+        source_url: https://www.cnbc.com/2026/06/04/japan-may-be-hiding-the-best-ai-value-barclays-says.html
+        context: Barclays research note on Japan AI investment thesis
+
+  - story_id: japan-osaka-robotics-technology-investment
+    category: tech
+    headline_en: Japan promotes Osaka as a gateway for robotics and technology investment
+    lead_url: https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+    hard_facts:
+      - claim: JETRO institution
+        kind: named_institution
+        value: JETRO (Japan External Trade Organization)
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "JETRO (Japan External Trade Organization) is stepping up efforts to attract overseas technology companies"
+      - claim: J-Bridge platform name
+        kind: named_product
+        value: J-Bridge
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "leverages the J-Bridge support platform"
+      - claim: Invest Japan Business Center Osaka
+        kind: named_institution
+        value: Invest Japan Business Center Osaka
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "and the Invest Japan Business Center Osaka"
+      - claim: US Genesis Mission program focus areas count
+        kind: numerical_with_unit
+        value: "26 focus areas"
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "Japan has capabilities across all 26 focus areas of the US Genesis Mission program"
+      - claim: US Genesis Mission program name
+        kind: named_product
+        value: US Genesis Mission program
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "the US Genesis Mission program"
+      - claim: Expo 2025 Osaka legacy reference
+        kind: temporal
+        value: "Expo 2025 Osaka"
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "builds on the post-Expo 2025 Osaka legacy"
+      - claim: Fanuc institution
+        kind: named_institution
+        value: Fanuc
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "Japan's industrial robotics sector includes global leaders Fanuc, Yaskawa Electric, Kawasaki Heavy Industries, and Mitsubishi Electric"
+      - claim: Yaskawa Electric institution
+        kind: named_institution
+        value: Yaskawa Electric
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "global leaders Fanuc, Yaskawa Electric, Kawasaki Heavy Industries, and Mitsubishi Electric"
+      - claim: Kawasaki Heavy Industries institution
+        kind: named_institution
+        value: Kawasaki Heavy Industries
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "global leaders Fanuc, Yaskawa Electric, Kawasaki Heavy Industries, and Mitsubishi Electric"
+      - claim: Mitsubishi Electric institution
+        kind: named_institution
+        value: Mitsubishi Electric
+        source_urls:
+          - https://roboticsandautomationnews.com/2026/06/04/japan-promotes-osaka-as-a-gateway-for-robotics-and-technology-investment/102234/
+        verbatim_excerpt: "global leaders Fanuc, Yaskawa Electric, Kawasaki Heavy Industries, and Mitsubishi Electric"
+    quotes: []
+
+  - story_id: typhoon-jangmi-destruction-japan
+    category: society
+    headline_en: Typhoon Jangmi Leaves Trail of Destruction Across Japan
+    lead_url: https://newsonjapan.com/article/149481.php
+    body_source: full
+    corroborated_by:
+      - https://newsonjapan.com/article/149508.php
+      - https://newsonjapan.com/article/149512.php
+    locked_urls:
+      - https://newsonjapan.com/article/149481.php
+      - https://newsonjapan.com/article/149508.php
+      - https://newsonjapan.com/article/149512.php
+    hard_facts:
+      - claim: Typhoon name and number
+        kind: named_product
+        value: Typhoon Jangmi (Typhoon No. 6)
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "Typhoon Jangmi (Typhoon No. 6) swept across Japan's Honshu on June 3, 2026"
+      - claim: Typhoon passage date
+        kind: temporal
+        value: June 3, 2026
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "swept across Japan's Honshu on June 3, 2026"
+      - claim: Tokyo danger alert level issued
+        kind: numerical_with_unit
+        value: "Level 4"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "Tokyo issued its first-ever Level 4 danger alert under Japan's new 5-tier weather emergency system"
+      - claim: Japan's weather emergency tier system total tiers
+        kind: numerical_with_unit
+        value: "5-tier"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "Japan's new 5-tier weather emergency system"
+      - claim: Number of injured
+        kind: numerical_with_unit
+        value: "23 people"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "23 people were injured across the affected regions"
+      - claim: Owase City rainfall record
+        kind: numerical_with_unit
+        value: "535.5 mm"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "Owase City, Mie Prefecture, recorded 535.5 mm of rainfall — the highest June rainfall ever recorded there"
+      - claim: Owase City location
+        kind: named_institution
+        value: Owase City, Mie Prefecture
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "Owase City, Mie Prefecture, recorded 535.5 mm of rainfall"
+      - claim: Central Tokyo 12-hour rainfall total
+        kind: numerical_with_unit
+        value: "173.5 mm"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "Central Tokyo received 173.5 mm over 12 hours"
+      - claim: Central Tokyo rainfall duration
+        kind: temporal
+        value: "12 hours"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "Central Tokyo received 173.5 mm over 12 hours, the highest June total since records began"
+      - claim: Flights cancelled on June 3
+        kind: numerical_with_unit
+        value: "Nearly 900 flights"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "Nearly 900 flights were cancelled on June 3"
+      - claim: Evacuation advisories issued
+        kind: numerical_with_unit
+        value: "1.6 million people"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "1.6 million people received evacuation advisories"
+      - claim: Households that lost power at peak
+        kind: numerical_with_unit
+        value: "approximately 60,000 households"
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "approximately 60,000 households lost power at peak"
+      - claim: Tokaido Shinkansen status during storm
+        kind: named_product
+        value: Tokaido Shinkansen
+        source_urls:
+          - https://newsonjapan.com/article/149481.php
+        verbatim_excerpt: "The Tokaido Shinkansen continued operating with speed reductions"
+    quotes: []
+
+  - story_id: himeji-castle-plaster-falls-typhoon
+    category: society
+    headline_en: Plaster Falls Off Walls of Himeji Castle Following Typhoon
+    lead_url: https://newsonjapan.com/article/149512.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149512.php
+    hard_facts:
+      - claim: Himeji Castle UNESCO designation year
+        kind: temporal
+        value: "1993"
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "Himeji Castle, a UNESCO World Heritage Site designated in 1993"
+      - claim: Himeji Castle institution/site name
+        kind: named_institution
+        value: Himeji Castle
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "Castle officials at Himeji Castle, a UNESCO World Heritage Site"
+      - claim: UNESCO World Heritage Site designation
+        kind: named_institution
+        value: UNESCO World Heritage Site
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "a UNESCO World Heritage Site designated in 1993"
+      - claim: Damaged turret name
+        kind: named_product
+        value: Higashi-Sanju-Yagura
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "plaster had fallen from the northern turret (Higashi-Sanju-Yagura)"
+      - claim: Discovery date of damage
+        kind: temporal
+        value: "morning of June 4"
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "discovered on the morning of June 4"
+      - claim: Himeji Castle nickname
+        kind: named_institution
+        value: Hakuro-jo (White Heron Castle)
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "Himeji Castle, known as Hakuro-jo (White Heron Castle)"
+      - claim: Himeji Castle founding date
+        kind: temporal
+        value: "1333"
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "dates to 1333"
+      - claim: Himeji Castle comprehensive restoration period
+        kind: temporal
+        value: "2009–2015"
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "underwent a comprehensive restoration from 2009–2015"
+      - claim: Japan's three premier castles — Matsumoto
+        kind: named_institution
+        value: Matsumoto
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "alongside Matsumoto and Kumamoto"
+      - claim: Japan's three premier castles — Kumamoto
+        kind: named_institution
+        value: Kumamoto
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "alongside Matsumoto and Kumamoto"
+      - claim: Typhoon that caused damage
+        kind: named_product
+        value: Typhoon Jangmi
+        source_urls:
+          - https://newsonjapan.com/article/149512.php
+        verbatim_excerpt: "whether the damage was caused by strong winds from Typhoon Jangmi"
+    quotes: []
+
+  - story_id: transport-eastern-japan-returns-normal
+    category: society
+    headline_en: Transport Networks Across Eastern Japan Return to Normal
+    lead_url: https://newsonjapan.com/article/149508.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149508.php
+    hard_facts:
+      - claim: Recovery date for transport
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "Transport services across eastern Japan largely returned to normal on June 4"
+      - claim: Haneda Airport named
+        kind: named_institution
+        value: Haneda
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "major airports including Haneda, Narita, and Chubu Centrair functioned normally"
+      - claim: Narita Airport named
+        kind: named_institution
+        value: Narita
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "major airports including Haneda, Narita, and Chubu Centrair functioned normally"
+      - claim: Chubu Centrair Airport named
+        kind: named_institution
+        value: Chubu Centrair
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "major airports including Haneda, Narita, and Chubu Centrair functioned normally"
+      - claim: Flights cancelled prior day
+        kind: numerical_with_unit
+        value: "900 cancelled flights"
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "from the previous day's 900 cancelled flights"
+      - claim: Tokaido Shinkansen full-speed service resumed date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "full-speed service resumed June 4"
+      - claim: Peak power outage households
+        kind: numerical_with_unit
+        value: "approximately 60,000 households"
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "Approximately 60,000 households had lost power at peak"
+      - claim: Mie Prefecture power restoration
+        kind: named_institution
+        value: Mie
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "restoration was underway in Mie and Shizuoka"
+      - claim: Shizuoka Prefecture power restoration
+        kind: named_institution
+        value: Shizuoka
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "restoration was underway in Mie and Shizuoka"
+      - claim: NEXCO Central Japan institution
+        kind: named_institution
+        value: NEXCO central Japan
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "NEXCO central Japan re-opened previously closed expressway sections through June 4 morning"
+      - claim: Expressway reopening date
+        kind: temporal
+        value: "through June 4 morning"
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "NEXCO central Japan re-opened previously closed expressway sections through June 4 morning"
+      - claim: Tokaido Shinkansen product
+        kind: named_product
+        value: Tokaido Shinkansen
+        source_urls:
+          - https://newsonjapan.com/article/149508.php
+        verbatim_excerpt: "The Tokaido Shinkansen maintained service throughout the storm but with speed reductions"
+    quotes: []
+
+  - story_id: body-river-suspect-murder-case
+    category: society
+    headline_en: Body Found in River Identified as Suspect in Mother-Daughter Murder Case
+    lead_url: https://newsonjapan.com/article/149507.php
+    body_source: full
+    corroborated_by:
+      - https://japantoday.com/category/crime/suspected-killer-of-mother-daughter-in-western-japan-found-dead
+    locked_urls:
+      - https://newsonjapan.com/article/149507.php
+      - https://japantoday.com/category/crime/suspected-killer-of-mother-daughter-in-western-japan-found-dead
+    hard_facts:
+      - claim: River tributary where body was found
+        kind: named_institution
+        value: Ibo River
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "a tributary of the Ibo River in Tatsuno, Hyogo Prefecture"
+      - claim: Location of body discovery
+        kind: named_institution
+        value: Tatsuno, Hyogo Prefecture
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "a tributary of the Ibo River in Tatsuno, Hyogo Prefecture"
+      - claim: Date body was discovered
+        kind: temporal
+        value: June 3
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "A body discovered June 3 in a tributary of the Ibo River"
+      - claim: Distance downstream from where suspect last seen
+        kind: numerical_with_unit
+        value: "approximately 10 km"
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "approximately 10 km downstream from where suspect Kenji Oyama (42) was last seen"
+      - claim: Suspect name
+        kind: named_person
+        value: Kenji Oyama
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "suspect Kenji Oyama (42) was last seen on May 20"
+      - claim: Suspect age
+        kind: numerical
+        value: "42"
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "suspect Kenji Oyama (42)"
+      - claim: Date suspect was last seen
+        kind: temporal
+        value: May 20
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "Kenji Oyama (42) was last seen on May 20"
+      - claim: Clothing description — T-shirt color
+        kind: named_product
+        value: "gray T-shirt"
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "wore clothing matching police descriptions: gray T-shirt and black trousers with white stripes"
+      - claim: Clothing description — trousers
+        kind: named_product
+        value: "black trousers with white stripes"
+        source_urls:
+          - https://newsonjapan.com/article/149507.php
+        verbatim_excerpt: "gray T-shirt and black trousers with white stripes"
+    quotes: []
+
+  - story_id: yakuza-arrested-420-million-yen-theft
+    category: society
+    headline_en: "3 more, including yakuza, arrested over 420 million yen theft in Tokyo"
+    lead_url: https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+    hard_facts:
+      - claim: Arrest date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "Tokyo Metropolitan Police arrested three individuals on June 4"
+      - claim: Tokyo Metropolitan Police institution
+        kind: named_institution
+        value: Tokyo Metropolitan Police
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "Tokyo Metropolitan Police arrested three individuals on June 4"
+      - claim: First arrested suspect — yakuza executive
+        kind: named_person
+        value: Keiichi Yamaguchi
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "including Keiichi Yamaguchi, 29, identified as a yakuza crime syndicate executive"
+      - claim: Age of Keiichi Yamaguchi
+        kind: numerical
+        value: "29"
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "Keiichi Yamaguchi, 29"
+      - claim: Second arrested suspect
+        kind: named_person
+        value: Makoto Kitahara
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "Also arrested: Makoto Kitahara, 42"
+      - claim: Age of Makoto Kitahara
+        kind: numerical
+        value: "42"
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "Makoto Kitahara, 42"
+      - claim: Third arrested suspect
+        kind: named_person
+        value: Yuichiro Miyakawa
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "and Yuichiro Miyakawa, 52"
+      - claim: Age of Yuichiro Miyakawa
+        kind: numerical
+        value: "52"
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "Yuichiro Miyakawa, 52"
+      - claim: Date of original theft
+        kind: temporal
+        value: January 29
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "the January 29 theft of approximately 423 million yen"
+      - claim: Amount stolen
+        kind: numerical_with_unit
+        value: "approximately 423 million yen ($2.6 million)"
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "the January 29 theft of approximately 423 million yen ($2.6 million) from three suitcases in Tokyo's Ueno district"
+      - claim: Number of suitcases stolen from
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "from three suitcases in Tokyo's Ueno district"
+      - claim: Theft location
+        kind: named_institution
+        value: Tokyo's Ueno district
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "from three suitcases in Tokyo's Ueno district"
+      - claim: Cash recovered from residences
+        kind: numerical_with_unit
+        value: "About 3.6 million yen"
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "About 3.6 million yen was recovered from their residences"
+      - claim: Already-indicted individuals count
+        kind: numerical
+        value: "Five"
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "Five additional individuals have already been indicted"
+      - claim: Gold purchase destination
+        kind: named_institution
+        value: Hong Kong
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "Police believe the stolen cash was intended for gold purchases in Hong Kong"
+      - claim: Haneda Airport robbery
+        kind: named_institution
+        value: Haneda Airport
+        source_urls:
+          - https://japantoday.com/category/crime/3-more-including-yakuza-arrested-over-420-mil.-yen-theft-in-tokyo
+        verbatim_excerpt: "connections to a separate Haneda Airport robbery attempt"
+    quotes: []
+
+  - story_id: conveyor-belt-sushi-spray-arrest-saitama
+    category: society
+    headline_en: Video of man spraying liquid on conveyor belt sushi leads to arrest in Saitama
+    lead_url: https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+    body_source: full
+    corroborated_by:
+      - https://newsonjapan.com/article/149506.php
+    locked_urls:
+      - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+      - https://newsonjapan.com/article/149506.php
+    hard_facts:
+      - claim: Suspect name
+        kind: named_person
+        value: Yuta Niinishi
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "Yuta Niinishi, 43, unemployed, of Moroyama Town, Saitama Prefecture"
+      - claim: Suspect age
+        kind: numerical
+        value: "43"
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "Yuta Niinishi, 43"
+      - claim: Suspect residence
+        kind: named_institution
+        value: Moroyama Town, Saitama Prefecture
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "of Moroyama Town, Saitama Prefecture"
+      - claim: Arrest date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "was arrested June 4 for filming himself pouring a detergent-like liquid onto sushi"
+      - claim: Restaurant name
+        kind: named_institution
+        value: Hama Sushi
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "at a Hama Sushi conveyor belt restaurant in Saitama"
+      - claim: Date of incident
+        kind: temporal
+        value: May 27, 2026
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "pouring a detergent-like liquid onto sushi at a Hama Sushi conveyor belt restaurant in Saitama on May 27, 2026"
+      - claim: Prior Sushiro incident date
+        kind: temporal
+        value: January 2023
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "beginning with a January 2023 Sushiro incident"
+      - claim: Sushiro company named
+        kind: named_institution
+        value: Sushiro
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "beginning with a January 2023 Sushiro incident"
+      - claim: Japan contamination legislation strengthened year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        verbatim_excerpt: "Japan's restaurant contamination legislation was strengthened in 2023"
+    quotes:
+      - speaker_name: Yuta Niinishi
+        speaker_title: suspect, unemployed resident of Moroyama Town, Saitama Prefecture
+        verbatim_en: "wanted to increase the video's view count."
+        source_url: https://japantoday.com/category/crime/video-of-man-spraying-liquid-on-conveyor-belt-sushi-leads-to-arrest-in-saitama
+        context: admission following arrest on June 4
+
+  - story_id: nissan-chery-sunderland-plant-fy2027
+    category: ipo_ma
+    headline_en: Nissan to manufacture Chery vehicles at Sunderland plant starting FY2027
+    lead_url: https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+    body_source: full
+    corroborated_by:
+      - https://japantoday.com/category/business/nissan-eyes-making-cars-for-chinese-automaker-chery-at-plant-in-britain
+      - https://carnewschina.com/2026/06/04/nissan-confirms-chery-partnership-sunderland/
+    locked_urls:
+      - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+      - https://japantoday.com/category/business/nissan-eyes-making-cars-for-chinese-automaker-chery-at-plant-in-britain
+      - https://carnewschina.com/2026/06/04/nissan-confirms-chery-partnership-sunderland/
+    hard_facts:
+      - claim: Nissan Motor institution
+        kind: named_institution
+        value: Nissan Motor
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "Nissan Motor and Chinese automaker Chery Automobile signed a non-binding Memorandum of Understanding"
+      - claim: Chery Automobile institution
+        kind: named_institution
+        value: Chery Automobile
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "Nissan Motor and Chinese automaker Chery Automobile signed a non-binding Memorandum of Understanding"
+      - claim: Deal type
+        kind: named_product
+        value: "non-binding Memorandum of Understanding"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "signed a non-binding Memorandum of Understanding for Chery vehicles to be produced at Nissan's Line One facility"
+      - claim: Production facility name and location
+        kind: named_institution
+        value: "Nissan's Line One facility in Sunderland, UK"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "Chery vehicles to be produced at Nissan's Line One facility in Sunderland, UK"
+      - claim: Production start fiscal year
+        kind: temporal
+        value: "fiscal year 2027 (ending March 2028)"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "beginning in fiscal year 2027 (ending March 2028)"
+      - claim: Sunderland plant workforce
+        kind: numerical_with_unit
+        value: "approximately 6,000 workers"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "approximately 6,000 workers remain Nissan employees"
+      - claim: Plant current capacity utilization
+        kind: numerical_with_unit
+        value: "approximately 50% capacity"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "The plant currently operates at approximately 50% capacity"
+      - claim: Number of current production lines at Sunderland
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "running two production lines for three Nissan models"
+      - claim: Current Nissan models at Sunderland
+        kind: numerical
+        value: "three Nissan models"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "running two production lines for three Nissan models including the Leaf electric car"
+      - claim: Nissan Leaf product named
+        kind: named_product
+        value: Leaf electric car
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "three Nissan models including the Leaf electric car"
+      - claim: Chery May 2026 overseas sales
+        kind: numerical_with_unit
+        value: "177,666 overseas sales"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "Chery reported 177,666 overseas sales in May 2026"
+      - claim: Chery May 2026 overseas sales YoY growth
+        kind: numerical_with_unit
+        value: "+20.5% YoY"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "177,666 overseas sales in May 2026 (+20.5% YoY)"
+      - claim: Chery May 2026 sales month
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "Chery reported 177,666 overseas sales in May 2026"
+      - claim: Nissan FY2025 net loss
+        kind: numerical_with_unit
+        value: "net loss of 533.1 billion yen"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "Nissan reported a net loss of 533.1 billion yen for FY2025"
+      - claim: Nissan FY2025 fiscal year
+        kind: temporal
+        value: "FY2025"
+        source_urls:
+          - https://cnevpost.com/2026/06/04/chery-nissan-uk-manufacturing-deal/
+        verbatim_excerpt: "Nissan reported a net loss of 533.1 billion yen for FY2025"
+    quotes: []
+
+  - story_id: japan-population-falls-three-million
+    category: other
+    headline_en: "Japan's Population Falls by Three Million in Five Years"
+    lead_url: https://www.nippon.com/en/japan-data/h02799/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.nippon.com/en/japan-data/h02799/
+    hard_facts:
+      - claim: Japan total population as of October 1 2025
+        kind: numerical_with_unit
+        value: "123,049,524"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "Japan's total population stood at 123,049,524 as of October 1, 2025"
+      - claim: Census reference date
+        kind: temporal
+        value: "October 1, 2025"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "as of October 1, 2025"
+      - claim: Population decline over five years
+        kind: numerical_with_unit
+        value: "3.1 million (2.5%)"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "a decrease of 3.1 million (2.5%) from five years prior"
+      - claim: Previous 2020 census decline rate
+        kind: numerical_with_unit
+        value: "0.7%"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "from 0.7% in the 2020 census to 2.5% in 2025"
+      - claim: Issuing body
+        kind: named_institution
+        value: Ministry of Internal Affairs and Communications
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "according to preliminary results from the Ministry of Internal Affairs and Communications 2025 national census"
+      - claim: Census release date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "2025 national census released June 4"
+      - claim: Number of prefectures with population growth
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "Only Tokyo and Okinawa recorded population growth among 47 prefectures"
+      - claim: Total number of prefectures
+        kind: numerical
+        value: "47"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "among 47 prefectures"
+      - claim: Number of households
+        kind: numerical_with_unit
+        value: "57.1 million"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "The number of households rose to 57.1 million (+2.3%)"
+      - claim: Household count growth rate
+        kind: numerical_with_unit
+        value: "+2.3%"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "rose to 57.1 million (+2.3%)"
+      - claim: Average household size
+        kind: numerical_with_unit
+        value: "2.15"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "average household size fell to 2.15 — the lowest since 1970"
+      - claim: Previous low year for household size
+        kind: temporal
+        value: "1970"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "the lowest since 1970"
+      - claim: Tokyo share of national population
+        kind: numerical_with_unit
+        value: "11.6%"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "Tokyo concentrates 11.6% of national population"
+      - claim: Top eight prefectures share of population
+        kind: numerical_with_unit
+        value: "over 50%"
+        source_urls:
+          - https://www.nippon.com/en/japan-data/h02799/
+        verbatim_excerpt: "the top eight prefectures contain over 50% of Japan's total population"
+    quotes: []
+
+  - story_id: japan-births-fertility-rate-record-lows
+    category: other
+    headline_en: Japan births, fertility rate at record lows in 2025
+    lead_url: https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+    body_source: full
+    corroborated_by:
+      - https://www.nippon.com/en/japan-data/h02799/
+    locked_urls:
+      - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+      - https://www.nippon.com/en/japan-data/h02799/
+    hard_facts:
+      - claim: Japan births count in 2025
+        kind: numerical_with_unit
+        value: "671,236 births"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Japan recorded 671,236 births to Japanese nationals in 2025"
+      - claim: Year-on-year decline in births
+        kind: numerical_with_unit
+        value: "2.2% year-on-year decline"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "a 2.2% year-on-year decline"
+      - claim: Consecutive annual fall count
+        kind: temporal
+        value: "10th consecutive annual fall"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "the 10th consecutive annual fall"
+      - claim: Issuing body
+        kind: named_institution
+        value: Ministry of Health, Labour and Welfare
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "per Ministry of Health, Labour and Welfare vital statistics released June 4"
+      - claim: Vital statistics release date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "vital statistics released June 4"
+      - claim: Japan total fertility rate 2025
+        kind: numerical_with_unit
+        value: "1.14"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Japan's total fertility rate fell to 1.14 — a new record low"
+      - claim: TFR change from 2024
+        kind: numerical_with_unit
+        value: "0.01 percentage points"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "down 0.01 percentage points from 2024"
+      - claim: Deaths total in 2025
+        kind: numerical_with_unit
+        value: "1,589,489"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Deaths totaled 1,589,489, declining for the first time in five years"
+      - claim: Deaths decline duration note
+        kind: temporal
+        value: "first time in five years"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "declining for the first time in five years"
+      - claim: Natural population decline
+        kind: numerical_with_unit
+        value: "918,253"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Natural population decline (deaths minus births) was 918,253"
+      - claim: Consecutive years of natural decrease
+        kind: temporal
+        value: "19th consecutive year"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "the 19th consecutive year of natural decrease"
+      - claim: Marriages count in 2025
+        kind: numerical_with_unit
+        value: "489,119"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Marriages rose for the second year running to 489,119"
+      - claim: Prefectures with birth increases
+        kind: numerical
+        value: "four"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Only four prefectures recorded birth increases"
+      - claim: Highest TFR prefecture — Okinawa
+        kind: named_institution
+        value: Okinawa
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Okinawa had the highest TFR at 1.52"
+      - claim: Okinawa TFR
+        kind: numerical_with_unit
+        value: "1.52"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Okinawa had the highest TFR at 1.52"
+      - claim: Lowest TFR prefecture — Tokyo
+        kind: named_institution
+        value: Tokyo
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Tokyo recorded the lowest at 0.96"
+      - claim: Tokyo TFR
+        kind: numerical_with_unit
+        value: "0.96"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "Tokyo recorded the lowest at 0.96"
+      - claim: NIPSSR projected births for 2025
+        kind: named_institution
+        value: National Institute of Population and Social Security Research
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "The National Institute of Population and Social Security Research had projected approximately 749,000 births for 2025"
+      - claim: NIPSSR 2025 births projection
+        kind: numerical_with_unit
+        value: "approximately 749,000 births"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "had projected approximately 749,000 births for 2025"
+      - claim: NIPSSR projection overestimate
+        kind: numerical_with_unit
+        value: "approximately 78,000 births (10.4%)"
+        source_urls:
+          - https://japantoday.com/category/national/japan-births-fertility-rate-at-record-lows-in-2025
+        verbatim_excerpt: "an overestimate of approximately 78,000 births (10.4%)"
+    quotes: []
+
+  - story_id: japanese-intolerance-muslims-population
+    category: other
+    headline_en: Japanese intolerance of Muslims increases as population doubles
+    lead_url: https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+    hard_facts:
+      - claim: Professor name
+        kind: named_person
+        value: Hirofumi Tanada
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "according to Professor Hirofumi Tanada (Waseda University)"
+      - claim: Professor affiliation
+        kind: named_institution
+        value: Waseda University
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "Professor Hirofumi Tanada (Waseda University)"
+      - claim: Japan Muslim population in 2019
+        kind: numerical_with_unit
+        value: "approximately 230,000"
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "Japan's Muslim population nearly doubled from approximately 230,000 (2019)"
+      - claim: Japan Muslim population reference year 2019
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "from approximately 230,000 (2019)"
+      - claim: Japan Muslim population at end of 2024
+        kind: numerical_with_unit
+        value: "approximately 420,000"
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "to approximately 420,000 (end of 2024)"
+      - claim: Japan Muslim population reference date end of 2024
+        kind: temporal
+        value: "end of 2024"
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "to approximately 420,000 (end of 2024)"
+      - claim: Number of mosques in Japan
+        kind: numerical_with_unit
+        value: "over 160 mosques"
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "Japan now has over 160 mosques"
+      - claim: Incident location — Hokkaido mosque fires
+        kind: named_institution
+        value: Hokkaido
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "documented incidents include fires at mosques in Hokkaido"
+      - claim: Incident location — Kanagawa protests
+        kind: named_institution
+        value: Kanagawa (Fujisawa)
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "protests in Kanagawa (Fujisawa)"
+      - claim: Researcher name — Michito Ohashi
+        kind: named_person
+        value: Michito Ohashi
+        source_urls:
+          - https://japantoday.com/category/national/japanese-intolerance-of-muslims-up-as-population-doubles
+        verbatim_excerpt: "Researcher Michito Ohashi recommends engaging Muslims as individuals"
+    quotes: []
