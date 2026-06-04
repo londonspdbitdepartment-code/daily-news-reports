@@ -1,0 +1,862 @@
+version: 1
+generated_at: "2026-06-04T12:00:00Z"
+country: United Kingdom
+date: "2026-06-04"
+total_stories: 15
+stories:
+  - story_id: ons-business-insights-impact-4-june-2026
+    category: econ
+    headline_en: ONS Business Insights and Impact on the UK Economy — 4 June 2026 bulletin
+    lead_url: https://backup.ons.gov.uk/2026/06/04/business-insights-and-impact-on-the-uk-economy-4-june-2026/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://backup.ons.gov.uk/2026/06/04/business-insights-and-impact-on-the-uk-economy-4-june-2026/
+    hard_facts:
+      - claim: publishing institution
+        kind: named_institution
+        value: ONS
+        source_urls:
+          - https://backup.ons.gov.uk/2026/06/04/business-insights-and-impact-on-the-uk-economy-4-june-2026/
+        verbatim_excerpt: "ONS, fortnightly BICS"
+      - claim: bulletin name
+        kind: named_product
+        value: Business Insights and Conditions Survey (BICS)
+        source_urls:
+          - https://backup.ons.gov.uk/2026/06/04/business-insights-and-impact-on-the-uk-economy-4-june-2026/
+        verbatim_excerpt: "ONS, fortnightly BICS"
+      - claim: publication date
+        kind: temporal
+        value: "4 June 2026"
+        source_urls:
+          - https://backup.ons.gov.uk/2026/06/04/business-insights-and-impact-on-the-uk-economy-4-june-2026/
+        verbatim_excerpt: "published 4 June 2026"
+      - claim: reference period
+        kind: temporal
+        value: "late May / early June 2026"
+        source_urls:
+          - https://backup.ons.gov.uk/2026/06/04/business-insights-and-impact-on-the-uk-economy-4-june-2026/
+        verbatim_excerpt: "reference period late May / early June 2026"
+    quotes: []
+
+  - story_id: uk-gilts-pushed-toward-retail-investors
+    category: econ
+    headline_en: UK urged to tap £2 trillion pot and bring gilts to the masses
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-04/uk-urged-to-tap-2-trillion-pot-and-bring-gilts-to-the-masses
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-04/uk-urged-to-tap-2-trillion-pot-and-bring-gilts-to-the-masses
+    hard_facts:
+      - claim: UK household savings pool targeted
+        kind: numerical_with_unit
+        value: "£2 trillion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-04/uk-urged-to-tap-2-trillion-pot-and-bring-gilts-to-the-masses
+        verbatim_excerpt: "£2 trillion household savings"
+      - claim: publication date
+        kind: temporal
+        value: "4 June 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-04/uk-urged-to-tap-2-trillion-pot-and-bring-gilts-to-the-masses
+        verbatim_excerpt: "Bloomberg News, 4 June 2026"
+      - claim: UK Treasury involvement
+        kind: named_institution
+        value: UK Treasury
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-04/uk-urged-to-tap-2-trillion-pot-and-bring-gilts-to-the-masses
+        verbatim_excerpt: "UK Treasury"
+      - claim: debt management body
+        kind: named_institution
+        value: Debt Management Office (DMO)
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-04/uk-urged-to-tap-2-trillion-pot-and-bring-gilts-to-the-masses
+        verbatim_excerpt: "Debt Management Office (DMO)"
+      - claim: analogous US retail bond programmes
+        kind: named_product
+        value: US Treasury Direct / Series I
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-04/uk-urged-to-tap-2-trillion-pot-and-bring-gilts-to-the-masses
+        verbatim_excerpt: "analogous to US Treasury Direct / Series I"
+      - claim: 10-year gilt yield
+        kind: numerical_with_unit
+        value: "~4.89%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-04/uk-urged-to-tap-2-trillion-pot-and-bring-gilts-to-the-masses
+        verbatim_excerpt: "10-year gilt yield ~4.89%"
+    quotes: []
+
+  - story_id: uk-gilt-yields-ftse-100-fall
+    category: econ
+    headline_en: UK gilt yields near 4.89% as FTSE 100 falls on 4 June 2026
+    lead_url: https://tradingeconomics.com/united-kingdom/government-bond-yield
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/quotes/GB10Y
+      - https://www.proactiveinvestors.co.uk/companies/news/1093443/portmeirion-shares-plunge-as-new-equity-raise-triggers-a-reset-1093443.html
+    locked_urls:
+      - https://tradingeconomics.com/united-kingdom/government-bond-yield
+      - https://www.cnbc.com/quotes/GB10Y
+      - https://www.proactiveinvestors.co.uk/companies/news/1093443/portmeirion-shares-plunge-as-new-equity-raise-triggers-a-reset-1093443.html
+    hard_facts:
+      - claim: 10-year gilt yield
+        kind: numerical_with_unit
+        value: "~4.89%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+          - https://www.cnbc.com/quotes/GB10Y
+        verbatim_excerpt: "10-year gilt yield ~4.89%"
+      - claim: FTSE 100 percentage decline
+        kind: numerical_with_unit
+        value: "0.46–0.68%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "FTSE 100 down 0.46–0.68%"
+      - claim: FTSE 100 index range
+        kind: numerical_with_unit
+        value: "10,282–10,338"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "to range 10,282–10,338"
+      - claim: central bank on hold
+        kind: named_institution
+        value: BoE
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "BoE on hold"
+    quotes: []
+
+  - story_id: starmer-accuses-musk-whipping-up-division
+    category: politics
+    headline_en: Starmer accuses Musk of "trying to whip up division"
+    lead_url: https://www.huffingtonpost.co.uk/entry/starmer-says-musk-whipping-up-division_uk_6a2148eae4b032392fa9843b
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.huffingtonpost.co.uk/entry/starmer-says-musk-whipping-up-division_uk_6a2148eae4b032392fa9843b
+    hard_facts:
+      - claim: UK Prime Minister
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/starmer-says-musk-whipping-up-division_uk_6a2148eae4b032392fa9843b
+        verbatim_excerpt: "PM Keir Starmer"
+      - claim: person accused
+        kind: named_person
+        value: Elon Musk
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/starmer-says-musk-whipping-up-division_uk_6a2148eae4b032392fa9843b
+        verbatim_excerpt: "Elon Musk"
+      - claim: platform referenced
+        kind: named_institution
+        value: X platform
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/starmer-says-musk-whipping-up-division_uk_6a2148eae4b032392fa9843b
+        verbatim_excerpt: "X platform"
+      - claim: date and time of remarks
+        kind: temporal
+        value: "4 June 2026 12:36 BST"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/starmer-says-musk-whipping-up-division_uk_6a2148eae4b032392fa9843b
+        verbatim_excerpt: "remarks 4 June 2026 12:36 BST"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister of the United Kingdom
+        verbatim_en: "trying to whip up division"
+        source_url: https://www.huffingtonpost.co.uk/entry/starmer-says-musk-whipping-up-division_uk_6a2148eae4b032392fa9843b
+        context: remarks on 4 June 2026 at 12:36 BST
+
+  - story_id: house-of-commons-lords-debates-june-4
+    category: politics
+    headline_en: House of Commons and Lords debates on 4 June 2026 — Pride Month, fertility, birth rates, atrocity crimes
+    lead_url: https://www.parliament.uk/business/news/2026/june-2026/
+    body_source: full
+    corroborated_by:
+      - https://committees.parliament.uk/event/27314
+    locked_urls:
+      - https://www.parliament.uk/business/news/2026/june-2026/
+      - https://committees.parliament.uk/event/27314
+    hard_facts:
+      - claim: legislative body — lower house
+        kind: named_institution
+        value: House of Commons
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/
+        verbatim_excerpt: "Commons opposition day debate on Pride Month"
+      - claim: legislative body — upper house
+        kind: named_institution
+        value: House of Lords
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/
+        verbatim_excerpt: "Lords: Baroness Deech"
+      - claim: Lords speaker — fertility regulation
+        kind: named_person
+        value: Baroness Deech
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/
+        verbatim_excerpt: "Baroness Deech (fertility regulation)"
+      - claim: Lords speaker — birth rates
+        kind: named_person
+        value: Baroness Nargund
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/
+        verbatim_excerpt: "Baroness Nargund (declining birth rates / ageing population"
+      - claim: Lords speaker — atrocity crimes
+        kind: named_person
+        value: Lord Alton
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/
+        verbatim_excerpt: "Lord Alton (atrocity crimes, crime of aggression)"
+      - claim: statistical agency cited
+        kind: named_institution
+        value: ONS
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/
+        verbatim_excerpt: "ONS projects deaths > births from 2026 onwards"
+      - claim: ONS demographic projection year
+        kind: temporal
+        value: "from 2026 onwards"
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/
+        verbatim_excerpt: "ONS projects deaths > births from 2026 onwards"
+      - claim: PAC oral evidence topic
+        kind: named_institution
+        value: PAC
+        source_urls:
+          - https://committees.parliament.uk/event/27314
+        verbatim_excerpt: "PAC oral evidence on compensation schemes"
+    quotes: []
+
+  - story_id: makerfield-by-election-june-2026
+    category: politics
+    headline_en: Makerfield by-election set for 18 June 2026 after death of Labour MP Yvonne Fovargue
+    lead_url: https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+    hard_facts:
+      - claim: by-election constituency
+        kind: named_institution
+        value: Makerfield
+        source_urls:
+          - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+        verbatim_excerpt: "Makerfield by-election"
+      - claim: poll date
+        kind: temporal
+        value: "18 June 2026"
+        source_urls:
+          - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+        verbatim_excerpt: "poll 18 June 2026"
+      - claim: deceased MP
+        kind: named_person
+        value: Yvonne Fovargue
+        source_urls:
+          - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+        verbatim_excerpt: "triggered by death of Labour MP Yvonne Fovargue"
+      - claim: party contesting — incumbent
+        kind: named_institution
+        value: Labour
+        source_urls:
+          - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+        verbatim_excerpt: "Labour, Liberal Democrats, Conservatives all fielding candidates"
+      - claim: party contesting — Liberal Democrats
+        kind: named_institution
+        value: Liberal Democrats
+        source_urls:
+          - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+        verbatim_excerpt: "Labour, Liberal Democrats, Conservatives all fielding candidates"
+      - claim: party contesting — Conservatives
+        kind: named_institution
+        value: Conservatives
+        source_urls:
+          - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+        verbatim_excerpt: "Labour, Liberal Democrats, Conservatives all fielding candidates"
+      - claim: challenger party closely watched
+        kind: named_institution
+        value: Reform UK
+        source_urls:
+          - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+        verbatim_excerpt: "Reform UK closely watched"
+      - claim: geographic location
+        kind: named_institution
+        value: Greater Manchester
+        source_urls:
+          - https://www.theguardian.com/politics/2026/jun/04/makerfield-by-election-june-2026
+        verbatim_excerpt: "Greater Manchester"
+    quotes: []
+
+  - story_id: cma-forces-google-ai-overviews-opt-out
+    category: tech
+    headline_en: CMA forces Google to allow AI Overviews opt-out in UK
+    lead_url: https://resultsense.com/news/cma-forces-google-to-allow-ai-overviews-opt-out-in-uk/
+    body_source: full
+    corroborated_by:
+      - https://www.proactiveinvestors.co.uk/companies/news/1093421/broker-says-cma-ruling-on-google-shifts-power-balance-towards-uk-publishers-1093421.html
+    locked_urls:
+      - https://resultsense.com/news/cma-forces-google-to-allow-ai-overviews-opt-out-in-uk/
+      - https://www.proactiveinvestors.co.uk/companies/news/1093421/broker-says-cma-ruling-on-google-shifts-power-balance-towards-uk-publishers-1093421.html
+    hard_facts:
+      - claim: regulator
+        kind: named_institution
+        value: CMA
+        source_urls:
+          - https://resultsense.com/news/cma-forces-google-to-allow-ai-overviews-opt-out-in-uk/
+        verbatim_excerpt: "CMA formal announcement 3 June 2026"
+      - claim: company regulated
+        kind: named_institution
+        value: Google
+        source_urls:
+          - https://resultsense.com/news/cma-forces-google-to-allow-ai-overviews-opt-out-in-uk/
+        verbatim_excerpt: "CMA forces Google to allow AI Overviews opt-out"
+      - claim: product regulated
+        kind: named_product
+        value: AI Overviews
+        source_urls:
+          - https://resultsense.com/news/cma-forces-google-to-allow-ai-overviews-opt-out-in-uk/
+        verbatim_excerpt: "UK publishers opt-out from Google AI Overviews"
+      - claim: CMA announcement date
+        kind: temporal
+        value: "3 June 2026"
+        source_urls:
+          - https://resultsense.com/news/cma-forces-google-to-allow-ai-overviews-opt-out-in-uk/
+        verbatim_excerpt: "CMA formal announcement 3 June 2026"
+      - claim: corroboration coverage date/time
+        kind: temporal
+        value: "June 4 15:01 BST"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1093421/broker-says-cma-ruling-on-google-shifts-power-balance-towards-uk-publishers-1093421.html
+        verbatim_excerpt: "June 4 15:01 BST"
+    quotes: []
+
+  - story_id: uk-national-ai-awareness-day-2026
+    category: tech
+    headline_en: UK National AI Awareness Day 2026 — over 500,000 students reached, new government AI education standards announced
+    lead_url: https://www.stem.org.uk/news-and-views/news/2026/national-ai-awareness-day-2026
+    body_source: full
+    corroborated_by:
+      - https://www.aiawarenessday.co.uk/
+    locked_urls:
+      - https://www.stem.org.uk/news-and-views/news/2026/national-ai-awareness-day-2026
+      - https://www.aiawarenessday.co.uk/
+    hard_facts:
+      - claim: event date
+        kind: temporal
+        value: "4 June 2026"
+        source_urls:
+          - https://www.stem.org.uk/news-and-views/news/2026/national-ai-awareness-day-2026
+        verbatim_excerpt: "4 June 2026"
+      - claim: students reached
+        kind: numerical_with_unit
+        value: ">500,000 students"
+        source_urls:
+          - https://www.stem.org.uk/news-and-views/news/2026/national-ai-awareness-day-2026
+        verbatim_excerpt: ">500,000 students reached"
+      - claim: Education Secretary
+        kind: named_person
+        value: Bridget Phillipson
+        source_urls:
+          - https://www.stem.org.uk/news-and-views/news/2026/national-ai-awareness-day-2026
+        verbatim_excerpt: "Education Secretary Bridget Phillipson announced new government AI education standards"
+    quotes: []
+
+  - story_id: owasp-agentic-research-council-june-2026
+    category: tech
+    headline_en: OWASP Agentic Research Council unveiled at GenAI Summit in London
+    lead_url: https://www.infosecurity-magazine.com/news/owasp-agentic-research-council-june-2026/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.infosecurity-magazine.com/news/owasp-agentic-research-council-june-2026/
+    hard_facts:
+      - claim: organising body
+        kind: named_institution
+        value: OWASP
+        source_urls:
+          - https://www.infosecurity-magazine.com/news/owasp-agentic-research-council-june-2026/
+        verbatim_excerpt: "OWASP GenAI Summit at ExCeL London"
+      - claim: summit venue
+        kind: named_institution
+        value: ExCeL London
+        source_urls:
+          - https://www.infosecurity-magazine.com/news/owasp-agentic-research-council-june-2026/
+        verbatim_excerpt: "OWASP GenAI Summit at ExCeL London"
+      - claim: event date
+        kind: temporal
+        value: "4 June 2026"
+        source_urls:
+          - https://www.infosecurity-magazine.com/news/owasp-agentic-research-council-june-2026/
+        verbatim_excerpt: "4 June 2026 10:00–15:00 BST"
+      - claim: event time window
+        kind: temporal
+        value: "10:00–15:00 BST"
+        source_urls:
+          - https://www.infosecurity-magazine.com/news/owasp-agentic-research-council-june-2026/
+        verbatim_excerpt: "4 June 2026 10:00–15:00 BST"
+      - claim: new body unveiled
+        kind: named_institution
+        value: Agentic Research Council
+        source_urls:
+          - https://www.infosecurity-magazine.com/news/owasp-agentic-research-council-june-2026/
+        verbatim_excerpt: "Agentic Research Council for autonomous AI agent security research"
+      - claim: foundational standard referenced
+        kind: named_product
+        value: OWASP Top 10 for LLM Applications
+        source_urls:
+          - https://www.infosecurity-magazine.com/news/owasp-agentic-research-council-june-2026/
+        verbatim_excerpt: "builds on OWASP Top 10 for LLM Applications"
+    quotes: []
+
+  - story_id: two-men-charged-henry-nowak-murder-protests
+    category: society
+    headline_en: Two men charged following Henry Nowak murder protests in the UK
+    lead_url: https://www.euronews.com/my-europe/2026/06/04/two-charged-following-henry-nowak-murder-protests-in-the-uk
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/04/two-charged-following-henry-nowak-murder-protests-in-the-uk
+    hard_facts:
+      - claim: first person charged — name
+        kind: named_person
+        value: Matt Styler
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/04/two-charged-following-henry-nowak-murder-protests-in-the-uk
+        verbatim_excerpt: "Matt Styler charged with assaulting a police officer"
+      - claim: second person charged — name
+        kind: named_person
+        value: Daniel Frost
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/04/two-charged-following-henry-nowak-murder-protests-in-the-uk
+        verbatim_excerpt: "Daniel Frost charged with violent disorder and possession of an offensive weapon"
+      - claim: charging authority
+        kind: named_institution
+        value: CPS
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/04/two-charged-following-henry-nowak-murder-protests-in-the-uk
+        verbatim_excerpt: "CPS charging decision 4 June 2026"
+      - claim: charging decision date
+        kind: temporal
+        value: "4 June 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/04/two-charged-following-henry-nowak-murder-protests-in-the-uk
+        verbatim_excerpt: "CPS charging decision 4 June 2026"
+      - claim: murder victim
+        kind: named_person
+        value: Henry Nowak
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/04/two-charged-following-henry-nowak-murder-protests-in-the-uk
+        verbatim_excerpt: "Henry Nowak (Polish national) murder victim"
+    quotes: []
+
+  - story_id: rmt-24hr-london-underground-strike
+    category: society
+    headline_en: RMT 24-hour London Underground strike on 4 June 2026 disrupts Circle, Piccadilly and other lines
+    lead_url: https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+    body_source: full
+    corroborated_by:
+      - https://tfl.gov.uk/tube-dlr-overground/status/
+    locked_urls:
+      - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+      - https://tfl.gov.uk/tube-dlr-overground/status/
+    hard_facts:
+      - claim: strike organising union
+        kind: named_institution
+        value: RMT
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "RMT union vs TfL voluntary 4-day-week pilot"
+      - claim: operator targeted
+        kind: named_institution
+        value: TfL
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "RMT union vs TfL voluntary 4-day-week pilot"
+      - claim: strike duration and timing
+        kind: temporal
+        value: "4 June 2026 midnight–23:59 BST"
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+          - https://tfl.gov.uk/tube-dlr-overground/status/
+        verbatim_excerpt: "4 June 2026 midnight–23:59 BST"
+      - claim: lines fully affected — Circle
+        kind: named_product
+        value: Circle line
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "Circle, Piccadilly lines, sections of Central and Metropolitan"
+      - claim: lines fully affected — Piccadilly
+        kind: named_product
+        value: Piccadilly line
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "Circle, Piccadilly lines, sections of Central and Metropolitan"
+      - claim: lines partially affected — Central
+        kind: named_product
+        value: Central line
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "sections of Central and Metropolitan"
+      - claim: lines partially affected — Metropolitan
+        kind: named_product
+        value: Metropolitan line
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "sections of Central and Metropolitan"
+      - claim: alternative service — Overground
+        kind: named_product
+        value: Overground
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "Overground / Elizabeth line / DLR / river bus alternatives"
+      - claim: alternative service — Elizabeth line
+        kind: named_product
+        value: Elizabeth line
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "Overground / Elizabeth line / DLR / river bus alternatives"
+      - claim: alternative service — DLR
+        kind: named_product
+        value: DLR
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "Overground / Elizabeth line / DLR / river bus alternatives"
+      - claim: dispute cause
+        kind: named_product
+        value: "voluntary 4-day-week pilot"
+        source_urls:
+          - https://www.timeout.com/london/news/heres-which-tube-lines-are-affected-by-the-london-underground-strike-on-june-4-2026
+        verbatim_excerpt: "RMT union vs TfL voluntary 4-day-week pilot"
+    quotes: []
+
+  - story_id: lords-debates-birth-rate-fertility
+    category: society
+    headline_en: Lords debates fertility regulation, declining birth rates and atrocity crimes on 4 June 2026
+    lead_url: https://www.parliament.uk/business/lords/2026/june-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections
+    locked_urls:
+      - https://www.parliament.uk/business/lords/2026/june-2026/
+      - https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections
+    hard_facts:
+      - claim: Lords speaker — fertility regulation
+        kind: named_person
+        value: Baroness Deech
+        source_urls:
+          - https://www.parliament.uk/business/lords/2026/june-2026/
+        verbatim_excerpt: "Baroness Deech (fertility regulation, IVF, donor/surrogacy law)"
+      - claim: Lords speaker — birth rate
+        kind: named_person
+        value: Baroness Nargund
+        source_urls:
+          - https://www.parliament.uk/business/lords/2026/june-2026/
+        verbatim_excerpt: "Baroness Nargund (declining birth rate, ageing population"
+      - claim: Lords speaker — atrocity crimes
+        kind: named_person
+        value: Lord Alton
+        source_urls:
+          - https://www.parliament.uk/business/lords/2026/june-2026/
+        verbatim_excerpt: "Lord Alton (atrocity crimes, crime of aggression)"
+      - claim: statistical authority
+        kind: named_institution
+        value: ONS
+        source_urls:
+          - https://www.parliament.uk/business/lords/2026/june-2026/
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections
+        verbatim_excerpt: "ONS: deaths > births from 2026"
+      - claim: ONS demographic crossover year
+        kind: temporal
+        value: "from 2026"
+        source_urls:
+          - https://www.parliament.uk/business/lords/2026/june-2026/
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections
+        verbatim_excerpt: "ONS: deaths > births from 2026"
+    quotes: []
+
+  - story_id: castlelake-msc-consortium-easyjet-bid
+    category: ipo_ma
+    headline_en: Castlelake / MSC consortium mulls possible EasyJet bid above £3 billion
+    lead_url: https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+    hard_facts:
+      - claim: bidder — private credit firm
+        kind: named_institution
+        value: Castlelake
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+        verbatim_excerpt: "Castlelake (US private credit)"
+      - claim: bidder — shipping company
+        kind: named_institution
+        value: MSC
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+        verbatim_excerpt: "MSC (Mediterranean Shipping Company, controlled by Gianluigi Aponte)"
+      - claim: MSC controlling shareholder
+        kind: named_person
+        value: Gianluigi Aponte
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+        verbatim_excerpt: "controlled by Gianluigi Aponte"
+      - claim: target company
+        kind: named_institution
+        value: EasyJet
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+        verbatim_excerpt: "EasyJet (UK LCC)"
+      - claim: indicative bid value
+        kind: numerical_with_unit
+        value: "> £3 billion"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+        verbatim_excerpt: "possible consortium bid > £3 billion"
+      - claim: implied per-share price
+        kind: numerical_with_unit
+        value: ">403.23 pence per share"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+        verbatim_excerpt: "implied >403.23 pence per share"
+      - claim: Takeover Code PUSU deadline
+        kind: temporal
+        value: "26 June 2026"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0604/1576692-castlelake-offer-for-easyjet/
+        verbatim_excerpt: "UK Takeover Code PUSU deadline 26 June 2026"
+    quotes: []
+
+  - story_id: d-day-82nd-anniversary-commemorations
+    category: other
+    headline_en: D-Day 82nd anniversary commemorations begin on 4 June 2026
+    lead_url: https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+    body_source: full
+    corroborated_by:
+      - https://www.britishlegion.org.uk/get-involved/events/remembrance-events/d-day
+      - https://www.thenma.org.uk/what's-on/events/d-day-normandy-82
+      - https://www.portsmouth.co.uk/news/defence/d-day-commemoration-memorial-stone-portsmouth-8654050
+    locked_urls:
+      - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+      - https://www.britishlegion.org.uk/get-involved/events/remembrance-events/d-day
+      - https://www.thenma.org.uk/what's-on/events/d-day-normandy-82
+      - https://www.portsmouth.co.uk/news/defence/d-day-commemoration-memorial-stone-portsmouth-8654050
+    hard_facts:
+      - claim: programme duration
+        kind: temporal
+        value: "4–7 June"
+        source_urls:
+          - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+        verbatim_excerpt: "Multi-day programme 4–7 June"
+      - claim: centrepiece ceremony date
+        kind: temporal
+        value: "6 June"
+        source_urls:
+          - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+        verbatim_excerpt: "centrepiece 6 June at British Normandy Memorial near Ver-sur-Mer (Calvados)"
+      - claim: centrepiece venue
+        kind: named_institution
+        value: British Normandy Memorial
+        source_urls:
+          - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+        verbatim_excerpt: "centrepiece 6 June at British Normandy Memorial near Ver-sur-Mer (Calvados)"
+      - claim: location of memorial
+        kind: named_institution
+        value: "Ver-sur-Mer (Calvados)"
+        source_urls:
+          - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+        verbatim_excerpt: "near Ver-sur-Mer (Calvados)"
+      - claim: cemetery service organiser
+        kind: named_institution
+        value: CWGC
+        source_urls:
+          - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+        verbatim_excerpt: "Bayeux War Cemetery service by CWGC"
+      - claim: cemetery service location
+        kind: named_institution
+        value: Bayeux War Cemetery
+        source_urls:
+          - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+        verbatim_excerpt: "Bayeux War Cemetery service by CWGC"
+      - claim: UK domestic event venue
+        kind: named_institution
+        value: National Memorial Arboretum
+        source_urls:
+          - https://www.thenma.org.uk/what's-on/events/d-day-normandy-82
+        verbatim_excerpt: "National Memorial Arboretum Staffordshire event 4 June"
+      - claim: domestic event county
+        kind: named_institution
+        value: Staffordshire
+        source_urls:
+          - https://www.thenma.org.uk/what's-on/events/d-day-normandy-82
+        verbatim_excerpt: "National Memorial Arboretum Staffordshire event 4 June"
+      - claim: number of Normandy veterans expected
+        kind: numerical_with_unit
+        value: "three Normandy veterans"
+        source_urls:
+          - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+        verbatim_excerpt: "three Normandy veterans expected"
+      - claim: Portsmouth event type
+        kind: named_institution
+        value: Portsmouth
+        source_urls:
+          - https://www.portsmouth.co.uk/news/defence/d-day-commemoration-memorial-stone-portsmouth-8654050
+        verbatim_excerpt: "Portsmouth memorial stone ceremony"
+      - claim: anniversary number
+        kind: numerical
+        value: "82"
+        source_urls:
+          - https://www.britishnormandymemorial.org/news-story/d-day-82-register-to-attend-official-ceremony/
+        verbatim_excerpt: "D-Day 82nd anniversary"
+    quotes: []
+
+  - story_id: royal-navy-merlin-mk4-crash-devon
+    category: other
+    headline_en: Three Royal Navy crew killed in Merlin Mk4 helicopter crash near Devon on 3 June 2026
+    lead_url: https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+    body_source: full
+    corroborated_by:
+      - https://www.ibtimes.co.uk/royal-navy-helicopter-crash-devon-1800632
+      - https://www.aerotime.aero/articles/royal-navy-helicopter-crash-devon
+    locked_urls:
+      - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+      - https://www.ibtimes.co.uk/royal-navy-helicopter-crash-devon-1800632
+      - https://www.aerotime.aero/articles/royal-navy-helicopter-crash-devon
+    hard_facts:
+      - claim: crash date
+        kind: temporal
+        value: "3 June 2026"
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "Crash 3 June 2026 near Sourton, Devon"
+      - claim: crash location
+        kind: named_institution
+        value: "Sourton, Devon"
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+          - https://www.ibtimes.co.uk/royal-navy-helicopter-crash-devon-1800632
+        verbatim_excerpt: "near Sourton, Devon (near Okehampton)"
+      - claim: nearby town
+        kind: named_institution
+        value: Okehampton
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "near Sourton, Devon (near Okehampton)"
+      - claim: aircraft type
+        kind: named_product
+        value: Merlin Mk4
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+          - https://www.aerotime.aero/articles/royal-navy-helicopter-crash-devon
+        verbatim_excerpt: "Royal Navy Merlin Mk4 helicopter"
+      - claim: operating force
+        kind: named_institution
+        value: Royal Navy
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "Royal Navy Merlin Mk4 helicopter"
+      - claim: number of crew killed
+        kind: numerical_with_unit
+        value: "three crew"
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+          - https://www.ibtimes.co.uk/royal-navy-helicopter-crash-devon-1800632
+        verbatim_excerpt: "three crew killed"
+      - claim: mission type
+        kind: named_product
+        value: routine training exercise
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "routine training exercise"
+      - claim: royal response — Princess of Wales
+        kind: named_person
+        value: Princess of Wales
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "Princess of Wales said \"saddened\" by deaths"
+      - claim: royal response — King Charles
+        kind: named_person
+        value: King Charles
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "King Charles wrote privately to families"
+      - claim: PM statement
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "PM Keir Starmer called crash \"utterly tragic\""
+      - claim: Defence Secretary statement
+        kind: named_person
+        value: John Healey
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "Defence Secretary John Healey said \"devastated\""
+      - claim: investigating authority
+        kind: named_institution
+        value: MoD
+        source_urls:
+          - https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        verbatim_excerpt: "MoD investigators examining wreckage and flight data"
+    quotes:
+      - speaker_name: Princess of Wales
+        speaker_title: Princess of Wales
+        verbatim_en: "saddened"
+        source_url: https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        context: public statement on 4 June 2026 following crash on 3 June 2026
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister of the United Kingdom
+        verbatim_en: "utterly tragic"
+        source_url: https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        context: statement on 4 June 2026 following Royal Navy helicopter crash
+      - speaker_name: John Healey
+        speaker_title: Defence Secretary
+        verbatim_en: "devastated"
+        source_url: https://www.lbc.co.uk/article/helicopter-navy-crash-princess-wales-tribute-5Hjdb6k_2/
+        context: statement on 4 June 2026 following Royal Navy helicopter crash
+
+  - story_id: chelsea-pensioners-founders-day-2026
+    category: other
+    headline_en: Chelsea Pensioners Founder's Day 2026 at Royal Hospital Chelsea on 4 June
+    lead_url: https://www.chelsea-pensioners.co.uk/whats-on/founders-day-2026
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.chelsea-pensioners.co.uk/whats-on/founders-day-2026
+    hard_facts:
+      - claim: event name
+        kind: named_product
+        value: "Founder's Day / Oak Apple Day"
+        source_urls:
+          - https://www.chelsea-pensioners.co.uk/whats-on/founders-day-2026
+        verbatim_excerpt: "Annual Founder's Day / Oak Apple Day at Royal Hospital Chelsea 4 June 2026"
+      - claim: event date
+        kind: temporal
+        value: "4 June 2026"
+        source_urls:
+          - https://www.chelsea-pensioners.co.uk/whats-on/founders-day-2026
+        verbatim_excerpt: "Annual Founder's Day / Oak Apple Day at Royal Hospital Chelsea 4 June 2026"
+      - claim: host institution
+        kind: named_institution
+        value: Royal Hospital Chelsea
+        source_urls:
+          - https://www.chelsea-pensioners.co.uk/whats-on/founders-day-2026
+        verbatim_excerpt: "Annual Founder's Day / Oak Apple Day at Royal Hospital Chelsea 4 June 2026"
+      - claim: founding monarch
+        kind: named_person
+        value: Charles II
+        source_urls:
+          - https://www.chelsea-pensioners.co.uk/whats-on/founders-day-2026
+        verbatim_excerpt: "commemorates founding by Charles II in 1682"
+      - claim: founding year
+        kind: temporal
+        value: "1682"
+        source_urls:
+          - https://www.chelsea-pensioners.co.uk/whats-on/founders-day-2026
+        verbatim_excerpt: "founding by Charles II in 1682"
+      - claim: historical reference — battle
+        kind: named_product
+        value: "Boscobel Oak / Battle of Worcester"
+        source_urls:
+          - https://www.chelsea-pensioners.co.uk/whats-on/founders-day-2026
+        verbatim_excerpt: "Boscobel Oak / Battle of Worcester legend"
+    quotes: []
