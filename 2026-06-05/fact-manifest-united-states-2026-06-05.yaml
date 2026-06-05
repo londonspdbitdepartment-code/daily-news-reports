@@ -1,0 +1,1441 @@
+version: 1
+generated_at: "2026-06-05T00:00:00Z"
+country: United States
+date: "2026-06-05"
+total_stories: 13
+stories:
+  - story_id: bls-may-2026-jobs-report
+    category: econ
+    headline_en: BLS May 2026 Jobs Report
+    lead_url: https://www.bls.gov/schedule/news_release/empsit.htm
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bls.gov/schedule/news_release/empsit.htm
+    hard_facts:
+      - claim: BLS Employment Situation release date
+        kind: temporal
+        value: June 5, 2026
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "BLS released Employment Situation for May 2026 on June 5, 2026, at 8:30 a.m. ET"
+      - claim: BLS Employment Situation release time
+        kind: temporal
+        value: 8:30 a.m. ET
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "BLS released Employment Situation for May 2026 on June 5, 2026, at 8:30 a.m. ET"
+      - claim: Bloomberg-surveyed economists nonfarm payrolls forecast for May
+        kind: numerical_with_unit
+        value: "~85,000"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Bloomberg-surveyed economists expected ~85,000 nonfarm payrolls in May"
+      - claim: Unemployment rate expectation
+        kind: numerical_with_unit
+        value: "4.3 percent"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "with unemployment unchanged at 4.3 percent"
+      - claim: ADP private payrolls May 2026
+        kind: numerical_with_unit
+        value: "122,000"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "ADP private payrolls rose 122,000 in May"
+      - claim: Dow Jones ADP consensus
+        kind: numerical_with_unit
+        value: "110,000"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "(vs Dow Jones consensus 110,000)"
+      - claim: April payrolls
+        kind: numerical_with_unit
+        value: "+115,000"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "April payrolls +115,000"
+      - claim: Revised March payrolls
+        kind: numerical_with_unit
+        value: "+185,000"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "revised March +185,000"
+      - claim: Job openings in April
+        kind: numerical_with_unit
+        value: "7.62 million"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Job openings rose to 7.62 million in April"
+      - claim: Spirit Airlines workers laid off at shutdown
+        kind: numerical_with_unit
+        value: "17,000 workers"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Spirit Airlines shutdown May 2 put 17,000 workers out"
+      - claim: Spirit Airlines shutdown date
+        kind: temporal
+        value: May 2
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Spirit Airlines shutdown May 2 put 17,000 workers out"
+      - claim: Treasury 10-year yield on June 5 morning
+        kind: numerical_with_unit
+        value: "~4.47%"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Treasury 10-year yield ~4.47% on morning of June 5"
+      - claim: Fed target range held at April 28-29 FOMC
+        kind: numerical_with_unit
+        value: "3.50–3.75%"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Fed held target range 3.50–3.75% at April 28–29 FOMC"
+      - claim: FOMC vote count
+        kind: numerical
+        value: "8–4"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "(8–4 vote)"
+      - claim: FOMC meeting dates
+        kind: temporal
+        value: April 28–29
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "at April 28–29 FOMC"
+      - claim: Market probability of Fed rate hike before year-end
+        kind: numerical_with_unit
+        value: "~85%"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Markets price ~85% probability of a Fed rate hike before year-end"
+      - claim: PCE inflation April YoY
+        kind: numerical_with_unit
+        value: "3.8% YoY April"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "given PCE 3.8% YoY April"
+      - claim: FOMC dissenter wanting cut
+        kind: named_person
+        value: Miran
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Miran wanted 25-bp cut"
+      - claim: FOMC dissenters opposing easing-bias
+        kind: named_person
+        value: Hammack
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Hammack, Kashkari, Logan opposed easing-bias"
+      - claim: FOMC dissenters opposing easing-bias
+        kind: named_person
+        value: Kashkari
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Hammack, Kashkari, Logan opposed easing-bias"
+      - claim: FOMC dissenters opposing easing-bias
+        kind: named_person
+        value: Logan
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Hammack, Kashkari, Logan opposed easing-bias"
+      - claim: BLS institution
+        kind: named_institution
+        value: BLS
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "BLS released Employment Situation for May 2026"
+      - claim: Indeed Hiring Lab commentary source
+        kind: named_institution
+        value: Indeed Hiring Lab
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Laura Ullrich (Indeed Hiring Lab)"
+      - claim: Schwab commentary source
+        kind: named_institution
+        value: Schwab
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Liz Ann Sonders (Schwab)"
+      - claim: Spirit Airlines institution
+        kind: named_institution
+        value: Spirit Airlines
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Spirit Airlines shutdown May 2 put 17,000 workers out"
+      - claim: Miran requested cut size
+        kind: numerical_with_unit
+        value: "25-bp cut"
+        source_urls:
+          - https://www.bls.gov/schedule/news_release/empsit.htm
+        verbatim_excerpt: "Miran wanted 25-bp cut"
+    quotes:
+      - speaker_name: Laura Ullrich
+        speaker_title: Economist, Indeed Hiring Lab
+        verbatim_en: "We're continuing to hear and see the low-hire, low-fire sentiment... People are continuing this kind of job-hugging trend. But if you're looking for a job, it's a very hard time to find a job because hires are so low."
+        source_url: https://www.bls.gov/schedule/news_release/empsit.htm
+        context: Commentary on May 2026 labor market conditions
+      - speaker_name: Liz Ann Sonders
+        speaker_title: Chief Investment Strategist, Schwab
+        verbatim_en: "If you were to get a hot employment report alongside still-rising inflation numbers, I think it continues to change the outlook for Fed policy."
+        source_url: https://www.bls.gov/schedule/news_release/empsit.htm
+        context: Commentary on May 2026 jobs report implications for Fed
+
+  - story_id: ustr-section-301-tariffs-10-12-5-pct-60-economies
+    category: econ
+    headline_en: USTR Section 301 Tariffs 10-12.5% on 60 Economies
+    lead_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+    hard_facts:
+      - claim: USTR publication date
+        kind: temporal
+        value: June 2, 2026
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "USTR June 2, 2026 published findings + proposed actions in 60 Section 301 investigations"
+      - claim: Number of Section 301 investigations
+        kind: numerical
+        value: "60"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "USTR June 2, 2026 published findings + proposed actions in 60 Section 301 investigations"
+      - claim: Economies failing to impose forced-labour prohibitions
+        kind: numerical
+        value: "54"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "54 economies failed to impose forced-labour import prohibitions"
+      - claim: Economies failing to enforce prohibition (list)
+        kind: numerical
+        value: "6"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "6 (Canada, EU, Indonesia, Mexico, Pakistan, Ecuador) failed to enforce"
+      - claim: Duty rate for economies with prohibition or commitment
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Duties: 10% for economies with prohibition or commitment"
+      - claim: Duty rate for other economies
+        kind: numerical_with_unit
+        value: "12.5%"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "12.5% for others"
+      - claim: Public comment open date
+        kind: temporal
+        value: July 7
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Public comment opens July 7"
+      - claim: Written comments due date
+        kind: temporal
+        value: July 6
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "written comments due July 6"
+      - claim: Hearings date
+        kind: temporal
+        value: July 7
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "hearings July 7"
+      - claim: Implementation deadline (Section 122 expiration)
+        kind: temporal
+        value: July 24, 2026
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Implementation expected before July 24, 2026 (Section 122 expiration)"
+      - claim: Canada as failing enforcer
+        kind: named_institution
+        value: Canada
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "6 (Canada, EU, Indonesia, Mexico, Pakistan, Ecuador) failed to enforce"
+      - claim: EU as failing enforcer
+        kind: named_institution
+        value: EU
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "6 (Canada, EU, Indonesia, Mexico, Pakistan, Ecuador) failed to enforce"
+      - claim: USTR institution
+        kind: named_institution
+        value: USTR
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "USTR June 2, 2026 published findings + proposed actions"
+      - claim: China FM spokesperson
+        kind: named_person
+        value: Mao Ning
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Mao Ning (China FM)"
+      - claim: USTR head
+        kind: named_person
+        value: Greer
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "USTR Greer"
+      - claim: Commentator Ryan Majerus
+        kind: named_person
+        value: Ryan Majerus
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Ryan Majerus"
+    quotes:
+      - speaker_name: Greer
+        speaker_title: United States Trade Representative
+        verbatim_en: "The failure of our most important trading partners to address the importation of goods made with forced labor is unacceptable."
+        source_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        context: USTR press release June 2, 2026
+      - speaker_name: Ryan Majerus
+        speaker_title: Trade attorney (commentator)
+        verbatim_en: "What's somewhat brilliant about this way of approaching 301 is that politically it's very hard to argue against going after forced labor."
+        source_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        context: Commentary on USTR Section 301 investigation approach
+      - speaker_name: Mao Ning
+        speaker_title: Spokesperson, China Ministry of Foreign Affairs
+        verbatim_en: "There is no such thing as forced labor in China, and we oppose using it as an excuse for political manipulation."
+        source_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        context: Chinese Foreign Ministry response to USTR Section 301 actions
+
+  - story_id: senate-passes-70b-immigration-enforcement-bill
+    category: politics
+    headline_en: Senate Passes $70B Immigration Enforcement Bill 52-47
+    lead_url: https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+    hard_facts:
+      - claim: Senate vote result
+        kind: numerical
+        value: "52–47"
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "Senate voted 52–47 early June 5, 2026 passing Secure America Act"
+      - claim: Senate vote date
+        kind: temporal
+        value: June 5, 2026
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "Senate voted 52–47 early June 5, 2026 passing Secure America Act"
+      - claim: Bill name and designation
+        kind: named_product
+        value: Secure America Act (S.2)
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "passing Secure America Act (S.2)"
+      - claim: Total bill funding amount
+        kind: numerical_with_unit
+        value: "$70 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "$70 billion three-year package funding ICE + CBP"
+      - claim: Bill funding duration
+        kind: temporal
+        value: three-year package
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "$70 billion three-year package funding ICE + CBP through end of Trump's second term"
+      - claim: Vote-a-rama duration
+        kind: temporal
+        value: 18-hour vote-a-rama
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "Final vote just before 5 a.m. ET after 18-hour vote-a-rama"
+      - claim: Final vote time
+        kind: temporal
+        value: just before 5 a.m. ET
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "Final vote just before 5 a.m. ET after 18-hour vote-a-rama"
+      - claim: Only Republican against
+        kind: named_person
+        value: Lisa Murkowski
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "Only Republican against: Lisa Murkowski (R-Alaska)"
+      - claim: White House ballroom security appropriation removed
+        kind: numerical_with_unit
+        value: "$1 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "Republicans pre-removed $1 billion White House ballroom security appropriation"
+      - claim: Anti-weaponization settlement fund amount
+        kind: numerical_with_unit
+        value: "$1.776 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "Democratic amendments to ban Trump's $1.776 billion \"anti-weaponization\" settlement fund failed"
+      - claim: Federal judge blocked settlement fund date
+        kind: temporal
+        value: May 29, 2026
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "federal judge blocked fund May 29, 2026"
+      - claim: ICE as funded institution
+        kind: named_institution
+        value: ICE
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "$70 billion three-year package funding ICE + CBP through end of Trump's second term"
+      - claim: CBP as funded institution
+        kind: named_institution
+        value: CBP
+        source_urls:
+          - https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund
+        verbatim_excerpt: "$70 billion three-year package funding ICE + CBP through end of Trump's second term"
+    quotes: []
+
+  - story_id: house-passes-ukraine-support-act-226-195
+    category: politics
+    headline_en: House Passes Ukraine Support Act 226-195
+    lead_url: https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+    hard_facts:
+      - claim: House vote result
+        kind: numerical
+        value: "226–195"
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "House voted 226–195 June 5, 2026 passing Ukraine Support Act"
+      - claim: House vote date
+        kind: temporal
+        value: June 5, 2026
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "House voted 226–195 June 5, 2026 passing Ukraine Support Act"
+      - claim: Number of Republicans joining
+        kind: numerical
+        value: "18"
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "18 Republicans joined all Democrats + independent Kevin Kiley"
+      - claim: Independent who joined
+        kind: named_person
+        value: Kevin Kiley
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "18 Republicans joined all Democrats + independent Kevin Kiley"
+      - claim: Discharge petition signatures required
+        kind: numerical
+        value: "218 signatures"
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "Reached floor via discharge petition (218 signatures)"
+      - claim: FMF loans in bill
+        kind: numerical_with_unit
+        value: "$8 billion FMF loans"
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "Provisions: $8 billion FMF loans"
+      - claim: Annual training/equipment funding
+        kind: numerical_with_unit
+        value: "$300 million annually 2026–2027"
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "$300 million annually 2026–2027 training/equipment"
+      - claim: Tariff on Russian imports
+        kind: numerical_with_unit
+        value: "500% tariff on Russian imports"
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "500% tariff on Russian imports"
+      - claim: Lead Republican cosponsor Don Bacon
+        kind: named_person
+        value: Don Bacon
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "led by Don Bacon (R-Neb.) and Brian Fitzpatrick (R-Pa.)"
+      - claim: Lead Republican cosponsor Brian Fitzpatrick
+        kind: named_person
+        value: Brian Fitzpatrick
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "led by Don Bacon (R-Neb.) and Brian Fitzpatrick (R-Pa.)"
+      - claim: Steny Hoyer representative
+        kind: named_person
+        value: Steny Hoyer
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "Steny Hoyer"
+      - claim: Keith Self representative
+        kind: named_person
+        value: Keith Self
+        source_urls:
+          - https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        verbatim_excerpt: "Keith Self (R-Tex.)"
+    quotes:
+      - speaker_name: Steny Hoyer
+        speaker_title: U.S. Representative (D)
+        verbatim_en: "This is a moment to choose between right and wrong, good and evil, not tomorrow, but today, tonight."
+        source_url: https://time.com/article/2026/06/05/house-republicans-bipartisan-ukraine-support-act-aid-russia-trump/
+        context: Floor statement on Ukraine Support Act passage June 5, 2026
+
+  - story_id: trump-nominates-todd-blanche-as-ag
+    category: politics
+    headline_en: Trump Nominates Todd Blanche as AG
+    lead_url: https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+    hard_facts:
+      - claim: Nominee for AG
+        kind: named_person
+        value: Todd Blanche
+        source_urls:
+          - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+        verbatim_excerpt: "Trump announced at White House dinner June 3–4, 2026 he intends to nominate Todd Blanche"
+      - claim: Announcement occasion and date
+        kind: temporal
+        value: June 3–4, 2026
+        source_urls:
+          - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+        verbatim_excerpt: "Trump announced at White House dinner June 3–4, 2026"
+      - claim: Formal nomination submission date
+        kind: temporal
+        value: Thursday June 5
+        source_urls:
+          - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+        verbatim_excerpt: "Trump told attendees formal nomination would be submitted Thursday June 5"
+      - claim: Blanche's appointment month as acting AG
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+        verbatim_excerpt: "appointed acting AG April 2026 after Pam Bondi's dismissal"
+      - claim: Prior acting AG dismissed
+        kind: named_person
+        value: Pam Bondi
+        source_urls:
+          - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+        verbatim_excerpt: "appointed acting AG April 2026 after Pam Bondi's dismissal"
+      - claim: DOJ anti-weaponization settlement fund
+        kind: numerical_with_unit
+        value: "$1.776B"
+        source_urls:
+          - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+        verbatim_excerpt: "oversaw $1.776B \"anti-weaponization\" settlement fund (blocked by federal judge May 29)"
+      - claim: Federal judge blocked settlement fund
+        kind: temporal
+        value: May 29
+        source_urls:
+          - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+        verbatim_excerpt: "blocked by federal judge May 29"
+      - claim: DOJ institution
+        kind: named_institution
+        value: DOJ
+        source_urls:
+          - https://www.hawaiitribune-herald.com/2026/06/05/nation-world-news/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general/
+        verbatim_excerpt: "permanently to lead DOJ"
+    quotes: []
+
+  - story_id: iran-us-peace-deal-sticking-points
+    category: politics
+    headline_en: Iran-U.S. Peace Deal Sticking Points
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+    hard_facts:
+      - claim: Bloomberg analysis publication date
+        kind: temporal
+        value: June 5, 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        verbatim_excerpt: "Bloomberg June 5, 2026 analysis of US–Iran MOU stalled on Hormuz, Lebanon, nuclear enrichment"
+      - claim: Iran uranium enrichment quantity
+        kind: numerical_with_unit
+        value: "440.9 kg"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        verbatim_excerpt: "Iran holds 440.9 kg uranium enriched to 60% purity"
+      - claim: Iran uranium enrichment purity
+        kind: numerical_with_unit
+        value: "60% purity"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        verbatim_excerpt: "Iran holds 440.9 kg uranium enriched to 60% purity"
+      - claim: IAEA call to Tehran date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        verbatim_excerpt: "IAEA called Tehran June 4 to engage \"constructively\""
+      - claim: JD Vance identity
+        kind: named_person
+        value: JD Vance
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        verbatim_excerpt: "JD Vance"
+      - claim: Iran FM name
+        kind: named_person
+        value: Abbas Araghchi
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        verbatim_excerpt: "Iran FM Abbas Araghchi"
+      - claim: IAEA institution
+        kind: named_institution
+        value: IAEA
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        verbatim_excerpt: "IAEA called Tehran June 4 to engage \"constructively\""
+    quotes:
+      - speaker_name: JD Vance
+        speaker_title: U.S. Vice President
+        verbatim_en: "We're back and forth on a couple of language points... It's hard to say exactly when or if the president's going to sign."
+        source_url: https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        context: Commentary on Iran-US MOU negotiations June 2026
+      - speaker_name: Abbas Araghchi
+        speaker_title: Foreign Minister, Iran
+        verbatim_en: "no significant progress... messages continue to be exchanged."
+        source_url: https://www.bloomberg.com/news/articles/2026-06-05/iran-us-peace-deal-why-hormuz-lebanon-nuclear-enrichment-are-sticking-points
+        context: Iran FM statement on Iran-US deal status June 2026
+
+  - story_id: trump-ai-executive-order
+    category: tech
+    headline_en: Trump AI Executive Order
+    lead_url: https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+    hard_facts:
+      - claim: EO signing date
+        kind: temporal
+        value: June 2, 2026
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Trump signed EO June 2, 2026 \"Promoting Advanced Artificial Intelligence Innovation and Security\""
+      - claim: Pre-release sharing window for frontier AI developers
+        kind: temporal
+        value: up to 30 days pre-release
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Voluntary framework for frontier AI developers to share systems with federal government up to 30 days pre-release"
+      - claim: OPM Tech Force cyber hiring timeline
+        kind: temporal
+        value: 60-day
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "OPM Tech Force cyber hiring (60-day)"
+      - claim: AI cyber benchmarks development timeline
+        kind: temporal
+        value: within 60 days
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Treasury/NSA/CISA jointly develop AI cyber benchmarks within 60 days"
+      - claim: CISA EO section
+        kind: named_institution
+        value: CISA
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Sec 2: CISA binding directives"
+      - claim: Treasury EO role
+        kind: named_institution
+        value: Treasury
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Treasury AI cybersecurity clearinghouse"
+      - claim: OMB EO role
+        kind: named_institution
+        value: OMB
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "OMB AI vulnerability grant funding"
+      - claim: OPM EO role
+        kind: named_institution
+        value: OPM
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "OPM Tech Force cyber hiring (60-day)"
+      - claim: NSA EO role
+        kind: named_institution
+        value: NSA
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Treasury/NSA/CISA jointly develop AI cyber benchmarks within 60 days"
+    quotes:
+      - speaker_name: Trump
+        speaker_title: President of the United States
+        verbatim_en: "My Administration has unleashed tremendous technological growth and economic investment in AI by slashing the bureaucratic constraints."
+        source_url: https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        context: EO preamble, signed June 2, 2026
+
+  - story_id: commerce-ai-chip-export-ban-chinese-hq-firms
+    category: tech
+    headline_en: Commerce Dept. AI Chip Export Ban on Chinese-HQ Firms Globally
+    lead_url: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+    hard_facts:
+      - claim: Commerce BIS guidance date
+        kind: temporal
+        value: June 1, 2026
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Commerce BIS June 1, 2026 issued guidance reaffirming export licensing for advanced AI chips"
+      - claim: AI chip product covered by guidance
+        kind: named_product
+        value: Nvidia Blackwell
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "export licensing for advanced AI chips (Nvidia Blackwell) applies to all subsidiaries/affiliates of China-HQ firms worldwide"
+      - claim: Prior rule allowing H200 to China
+        kind: temporal
+        value: Dec 2025
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Clarifies ambiguity after Dec 2025 rule allowing H200 to China"
+      - claim: H200 chip referenced in prior rule
+        kind: named_product
+        value: H200
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Dec 2025 rule allowing H200 to China but maintaining controls on advanced models"
+      - claim: BIS institution
+        kind: named_institution
+        value: BIS
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Commerce BIS June 1, 2026 issued guidance"
+      - claim: Nvidia institution
+        kind: named_institution
+        value: Nvidia
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Nvidia note: \"licences are required to ship controlled products to PRC-headquartered companies\""
+      - claim: Commentator Chris McGuire
+        kind: named_person
+        value: Chris McGuire
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Chris McGuire"
+      - claim: Article byline
+        kind: named_person
+        value: John Power
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Byline: John Power"
+    quotes:
+      - speaker_name: BIS
+        speaker_title: Bureau of Industry and Security, U.S. Department of Commerce
+        verbatim_en: "The answer is yes."
+        source_url: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        context: BIS response confirming Blackwell shipments to China-HQ subsidiaries abroad require US export licence
+      - speaker_name: Nvidia
+        speaker_title: Nvidia Corporation (company statement)
+        verbatim_en: "licences are required to ship controlled products to PRC-headquartered companies."
+        source_url: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        context: Nvidia note on June 1, 2026 BIS guidance
+      - speaker_name: Chris McGuire
+        speaker_title: Trade/export control expert (commentator)
+        verbatim_en: "Does make clear that Blackwell shipments to China-headquartered companies outside of China are now illegal again."
+        source_url: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        context: Commentary on BIS June 1, 2026 guidance
+
+  - story_id: broadcom-q2-fy2026-earnings
+    category: tech
+    headline_en: Broadcom Q2 FY2026 Earnings
+    lead_url: https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+    hard_facts:
+      - claim: Broadcom fiscal quarter covered
+        kind: temporal
+        value: FY Q2 2026 (quarter ending May 3, 2026)
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Broadcom (AVGO) FY Q2 2026 (quarter ending May 3, 2026)"
+      - claim: Broadcom earnings report date
+        kind: temporal
+        value: June 3, 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "reported after close June 3, 2026"
+      - claim: Broadcom revenue Q2 FY2026
+        kind: numerical_with_unit
+        value: "$22.19B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Revenue $22.19B (+48% YoY from $15B; consensus $22.27B)"
+      - claim: Broadcom revenue YoY growth
+        kind: numerical_with_unit
+        value: "+48% YoY"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Revenue $22.19B (+48% YoY from $15B; consensus $22.27B)"
+      - claim: Broadcom prior year revenue (comparison base)
+        kind: numerical_with_unit
+        value: "$15B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Revenue $22.19B (+48% YoY from $15B; consensus $22.27B)"
+      - claim: Broadcom revenue consensus estimate
+        kind: numerical_with_unit
+        value: "$22.27B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "consensus $22.27B"
+      - claim: Broadcom non-GAAP diluted EPS
+        kind: numerical_with_unit
+        value: "$2.44"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Non-GAAP diluted EPS $2.44 vs $2.40 est."
+      - claim: Broadcom EPS estimate
+        kind: numerical_with_unit
+        value: "$2.40 est."
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Non-GAAP diluted EPS $2.44 vs $2.40 est."
+      - claim: Broadcom GAAP net income
+        kind: numerical_with_unit
+        value: "$9.31B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "GAAP net income $9.31B"
+      - claim: Broadcom adj EBITDA
+        kind: numerical_with_unit
+        value: "$15.24B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "adj EBITDA $15.24B (69% of revenue)"
+      - claim: Broadcom adj EBITDA as pct of revenue
+        kind: numerical_with_unit
+        value: "69% of revenue"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "adj EBITDA $15.24B (69% of revenue)"
+      - claim: Broadcom FCF
+        kind: numerical_with_unit
+        value: "$10.26B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "FCF $10.26B (46%)"
+      - claim: Broadcom FCF as pct of revenue
+        kind: numerical_with_unit
+        value: "46%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "FCF $10.26B (46%)"
+      - claim: Broadcom stock decline date and magnitude
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Stock fell ~12–15% June 4"
+      - claim: Broadcom stock decline magnitude
+        kind: numerical_with_unit
+        value: "~12–15%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Stock fell ~12–15% June 4"
+      - claim: Broadcom full-year AI chip revenue target not raised
+        kind: numerical_with_unit
+        value: "$100B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "CEO Hock Tan declined to raise full-year AI chip revenue target ($100B)"
+      - claim: Broadcom Q3 FY2026 revenue guidance
+        kind: numerical_with_unit
+        value: "~$29.4B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Q3 FY2026 revenue guidance ~$29.4B (+84% YoY)"
+      - claim: Broadcom Q3 FY2026 revenue guidance YoY growth
+        kind: numerical_with_unit
+        value: "+84% YoY"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Q3 FY2026 revenue guidance ~$29.4B (+84% YoY)"
+      - claim: Broadcom quarterly dividend
+        kind: numerical_with_unit
+        value: "$0.65/share"
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Quarterly dividend $0.65/share"
+      - claim: Broadcom CEO
+        kind: named_person
+        value: Hock Tan
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "CEO Hock Tan declined to raise full-year AI chip revenue target"
+      - claim: Broadcom ticker
+        kind: named_product
+        value: AVGO
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Broadcom (AVGO)"
+      - claim: Broadcom institution
+        kind: named_institution
+        value: Broadcom
+        source_urls:
+          - https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html
+        verbatim_excerpt: "Broadcom (AVGO) FY Q2 2026"
+    quotes: []
+
+  - story_id: cms-medicaid-work-requirements
+    category: society
+    headline_en: CMS Medicaid Work Requirements
+    lead_url: https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+    hard_facts:
+      - claim: CMS interim final rule publication date
+        kind: temporal
+        value: June 1, 2026
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "CMS June 1, 2026 published interim final rule implementing Sec 5101 of OBBBA"
+      - claim: Authorizing legislation section
+        kind: named_product
+        value: Sec 5101 of OBBBA
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "implementing Sec 5101 of OBBBA (signed July 4, 2025)"
+      - claim: OBBBA signing date
+        kind: temporal
+        value: July 4, 2025
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "OBBBA (signed July 4, 2025)"
+      - claim: Minimum monthly qualifying activity hours required
+        kind: numerical_with_unit
+        value: "≥80 hrs/month"
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "requiring most non-elderly non-pregnant Medicaid adults to document ≥80 hrs/month of qualifying activities for eligibility"
+      - claim: Number of ACA expansion states covered
+        kind: numerical
+        value: "43"
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Applies in all 43 ACA expansion states + Georgia and Wisconsin partial waivers"
+      - claim: States with partial waivers
+        kind: named_institution
+        value: Georgia
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Applies in all 43 ACA expansion states + Georgia and Wisconsin partial waivers"
+      - claim: States with partial waivers
+        kind: named_institution
+        value: Wisconsin
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Applies in all 43 ACA expansion states + Georgia and Wisconsin partial waivers"
+      - claim: Implementation date
+        kind: temporal
+        value: Jan 1, 2027
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Implementation by Jan 1, 2027"
+      - claim: Rule effective date
+        kind: temporal
+        value: July 31, 2026
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Rule effective July 31, 2026"
+      - claim: Urban Institute projection of coverage loss low estimate
+        kind: numerical_with_unit
+        value: "4.9–10.1M"
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Urban Institute 4.9–10.1M could lose coverage by 2028"
+      - claim: Urban Institute projection timeframe
+        kind: temporal
+        value: by 2028
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Urban Institute 4.9–10.1M could lose coverage by 2028"
+      - claim: Number of patient organizations in joint statement
+        kind: numerical
+        value: "48"
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Coalition of 48 patient orgs joint statement"
+      - claim: CMS institution
+        kind: named_institution
+        value: CMS
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "CMS June 1, 2026 published interim final rule"
+      - claim: Urban Institute research institution
+        kind: named_institution
+        value: Urban Institute
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Urban Institute 4.9–10.1M could lose coverage by 2028"
+      - claim: KFF institution
+        kind: named_institution
+        value: KFF
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Jennifer Tolbert (KFF)"
+      - claim: KFF commentator
+        kind: named_person
+        value: Jennifer Tolbert
+        source_urls:
+          - https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        verbatim_excerpt: "Jennifer Tolbert (KFF)"
+    quotes:
+      - speaker_name: Jennifer Tolbert
+        speaker_title: Policy Analyst, KFF
+        verbatim_en: "While a temporary period of allowing people to self-attest to their compliance with work requirements will ease the effects for some, the more restrictive definition of medical frailty adopted by the Trump Administration will be challenging for states to implement and could lead to more people falling through the cracks and losing coverage."
+        source_url: https://www.cms.gov/newsroom/press-releases/cms-launches-nationwide-framework-implement-medicaid-work-requirements
+        context: Commentary on CMS Medicaid work requirements interim final rule June 2026
+
+  - story_id: usda-new-world-screwworm-detection-texas
+    category: society
+    headline_en: USDA New World Screwworm Detection in Texas
+    lead_url: https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+    hard_facts:
+      - claim: USDA APHIS confirmation date
+        kind: temporal
+        value: June 3, 2026
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "USDA APHIS June 3, 2026 confirmed first detected New World screwworm case in continental US in 60 years"
+      - claim: Years since last detected case in continental US
+        kind: temporal
+        value: 60 years
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "first detected New World screwworm case in continental US in 60 years"
+      - claim: Affected animal age
+        kind: temporal
+        value: Three-week-old calf
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "Three-week-old calf in Zavala County, South Texas (La Pryor) near Mexican border"
+      - claim: Detection location
+        kind: named_institution
+        value: Zavala County
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "Three-week-old calf in Zavala County, South Texas (La Pryor) near Mexican border"
+      - claim: US imposed Mexican cattle import restrictions
+        kind: temporal
+        value: May 2025
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "US imposed Mexican cattle import restrictions May 2025"
+      - claim: Texas cattle industry annual value
+        kind: numerical_with_unit
+        value: "$15B annually"
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "Texas cattle industry $15B annually"
+      - claim: USDA estimated damage to Texas if established
+        kind: numerical_with_unit
+        value: "$1.8B"
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "USDA estimates $1.8B damage to Texas if established"
+      - claim: USDA response investment
+        kind: numerical_with_unit
+        value: "$100M"
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "USDA invested $100M in response"
+      - claim: FDA authorized treatment products count
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "FDA authorized 12 treatment products"
+      - claim: Sterile fly facility planned in Mexico
+        kind: named_institution
+        value: Metapa Mexico
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "Sterile fly facilities planned Metapa Mexico and Edinburg Texas (fall 2027)"
+      - claim: Sterile fly facility planned in Texas
+        kind: named_institution
+        value: Edinburg Texas
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "Sterile fly facilities planned Metapa Mexico and Edinburg Texas (fall 2027)"
+      - claim: Sterile fly facility planned opening
+        kind: temporal
+        value: fall 2027
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "Sterile fly facilities planned Metapa Mexico and Edinburg Texas (fall 2027)"
+      - claim: USDA APHIS institution
+        kind: named_institution
+        value: USDA APHIS
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "USDA APHIS June 3, 2026 confirmed first detected New World screwworm case"
+      - claim: USDA Secretary
+        kind: named_person
+        value: Brooke Rollins
+        source_urls:
+          - https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        verbatim_excerpt: "USDA Secretary Brooke Rollins"
+    quotes:
+      - speaker_name: Brooke Rollins
+        speaker_title: Secretary, U.S. Department of Agriculture
+        verbatim_en: "If we all work together and follow the animal treatment protocols and movement restriction guidance, there is no reason to believe that this incursion will result in an establishment of the pest in our country."
+        source_url: https://www.texastribune.org/2026/06/04/screwworm-texas-united-states/
+        context: USDA response to first New World screwworm detection in US in 60 years, June 2026
+
+  - story_id: anthropic-confidential-s-1-filing
+    category: ipo_ma
+    headline_en: Anthropic Confidential S-1 Filing
+    lead_url: https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+    hard_facts:
+      - claim: Anthropic S-1 submission date
+        kind: temporal
+        value: June 1, 2026
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Anthropic confidentially submitted draft Form S-1 to SEC June 1, 2026"
+      - claim: Anthropic Series H closing date
+        kind: temporal
+        value: May 2026
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "$65B Series H closed May 2026 at $965B valuation"
+      - claim: Anthropic Series H amount
+        kind: numerical_with_unit
+        value: "$65B"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "$65B Series H closed May 2026 at $965B valuation"
+      - claim: Anthropic Series H valuation
+        kind: numerical_with_unit
+        value: "$965B"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "$65B Series H closed May 2026 at $965B valuation"
+      - claim: Anthropic annual revenue run rate at IPO
+        kind: numerical_with_unit
+        value: "$47B"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Annual revenue run rate $47B (up from $9B end-2025)"
+      - claim: Anthropic prior revenue run rate (end-2025)
+        kind: numerical_with_unit
+        value: "$9B end-2025"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Annual revenue run rate $47B (up from $9B end-2025)"
+      - claim: Projected Anthropic IPO valuation
+        kind: numerical_with_unit
+        value: ">$1T"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Would value Anthropic >$1T"
+      - claim: OpenAI private round valuation (March 2026)
+        kind: numerical_with_unit
+        value: "$852B"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "OpenAI March 2026 private round $852B valuation"
+      - claim: OpenAI private round date
+        kind: temporal
+        value: March 2026
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "OpenAI March 2026 private round $852B valuation"
+      - claim: Series H lead investor Altimeter
+        kind: named_institution
+        value: Altimeter
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Series H leads: Altimeter, Dragoneer, Greenoaks, Sequoia, Capital Group, Coatue, D1"
+      - claim: Series H lead investor Dragoneer
+        kind: named_institution
+        value: Dragoneer
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Series H leads: Altimeter, Dragoneer, Greenoaks, Sequoia, Capital Group, Coatue, D1"
+      - claim: Series H lead investor Greenoaks
+        kind: named_institution
+        value: Greenoaks
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Series H leads: Altimeter, Dragoneer, Greenoaks, Sequoia, Capital Group, Coatue, D1"
+      - claim: Series H lead investor Sequoia
+        kind: named_institution
+        value: Sequoia
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Series H leads: Altimeter, Dragoneer, Greenoaks, Sequoia, Capital Group, Coatue, D1"
+      - claim: Series H lead investor Capital Group
+        kind: named_institution
+        value: Capital Group
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Series H leads: Altimeter, Dragoneer, Greenoaks, Sequoia, Capital Group, Coatue, D1"
+      - claim: Series H lead investor Coatue
+        kind: named_institution
+        value: Coatue
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Series H leads: Altimeter, Dragoneer, Greenoaks, Sequoia, Capital Group, Coatue, D1"
+      - claim: Anthropic institution
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Anthropic confidentially submitted draft Form S-1 to SEC June 1, 2026"
+      - claim: OpenAI institution for comparison
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "OpenAI March 2026 private round $852B valuation"
+      - claim: Anthropic AI product
+        kind: named_product
+        value: Claude
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "driven by enterprise Claude adoption for coding and agentic AI"
+      - claim: Article byline
+        kind: named_person
+        value: Kirsten Korosec
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "Byline: Kirsten Korosec"
+    quotes: []
+
+  - story_id: spacex-75b-ipo-roadshow
+    category: ipo_ma
+    headline_en: SpaceX $75B IPO Roadshow
+    lead_url: https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+    hard_facts:
+      - claim: SpaceX IPO roadshow launch date
+        kind: temporal
+        value: June 4, 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "SpaceX officially launched IPO roadshow June 4, 2026 at fixed $135/share"
+      - claim: SpaceX IPO fixed share price
+        kind: numerical_with_unit
+        value: "$135/share"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "SpaceX officially launched IPO roadshow June 4, 2026 at fixed $135/share"
+      - claim: SpaceX valuation at $135
+        kind: numerical_with_unit
+        value: "$1.75–$1.77T"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "At $135 valuation $1.75–$1.77T, 7th largest US company by market cap"
+      - claim: SpaceX ranking by market cap at IPO
+        kind: numerical
+        value: "7th largest US company by market cap"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "7th largest US company by market cap, surpassing Tesla ($1.6T)"
+      - claim: Tesla market cap at time of comparison
+        kind: numerical_with_unit
+        value: "$1.6T"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "surpassing Tesla ($1.6T)"
+      - claim: Number of shares offered
+        kind: numerical_with_unit
+        value: "14.8–18.5M shares"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Offers 14.8–18.5M shares raising up to $75B"
+      - claim: Total IPO raise amount
+        kind: numerical_with_unit
+        value: "up to $75B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Offers 14.8–18.5M shares raising up to $75B"
+      - claim: Amount pre-committed to insiders/vendors/creditors
+        kind: numerical_with_unit
+        value: "~$62.8B (78%)"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "~$62.8B (78%) pre-committed to insiders/vendors/creditors"
+      - claim: Nasdaq listing ticker
+        kind: named_product
+        value: SPCX
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Lists on Nasdaq SPCX"
+      - claim: SpaceX listing exchange
+        kind: named_institution
+        value: Nasdaq
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Lists on Nasdaq SPCX"
+      - claim: Final IPO price date
+        kind: temporal
+        value: June 11
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "final price June 11, trading begins June 12"
+      - claim: Trading start date
+        kind: temporal
+        value: June 12
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "final price June 11, trading begins June 12"
+      - claim: Retail allocation percentage
+        kind: numerical_with_unit
+        value: "up to 30%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Up to 30% reserved for retail"
+      - claim: Fidelity retail minimum account balance
+        kind: numerical_with_unit
+        value: "$2,000"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Fidelity retail access for accounts ≥$2,000"
+      - claim: Japan IPO upsized amount
+        kind: numerical_with_unit
+        value: "$2.5B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Japan IPO upsized 25% to $2.5B"
+      - claim: Japan IPO upsized percentage
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Japan IPO upsized 25% to $2.5B"
+      - claim: Total metric tons launched to orbit since 2002
+        kind: numerical_with_unit
+        value: "~7,400 metric tons"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "~7,400 metric tons launched to orbit since 2002"
+      - claim: SpaceX mission success rate
+        kind: numerical_with_unit
+        value: ">99% mission success"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: ">99% mission success across ~650 orbital launches"
+      - claim: SpaceX orbital launches total
+        kind: numerical_with_unit
+        value: "~650 orbital launches"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: ">99% mission success across ~650 orbital launches"
+      - claim: xAI operating loss 2025
+        kind: numerical_with_unit
+        value: "$6.35B operating loss 2025"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "xAI $6.35B operating loss 2025"
+      - claim: Musk voting power via Class B shares
+        kind: numerical_with_unit
+        value: "82% voting power"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Musk 82% voting power via Class B (42% equity)"
+      - claim: Musk equity stake
+        kind: numerical_with_unit
+        value: "42% equity"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Musk 82% voting power via Class B (42% equity)"
+      - claim: Morningstar analyst
+        kind: named_person
+        value: Nicolas Owens
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Morningstar Nicolas Owens"
+      - claim: New Constructs analyst
+        kind: named_person
+        value: David Trainer
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "New Constructs David Trainer"
+      - claim: Morningstar fair value estimate
+        kind: numerical_with_unit
+        value: "$780B"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "\"significantly overvalued\" at $135, fair value $780B"
+      - claim: SpaceX revenue needed by 2035 to justify IPO price (New Constructs)
+        kind: numerical_with_unit
+        value: "$1.1T annual revenue by 2035"
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "SpaceX needs $1.1T annual revenue by 2035 to justify IPO price"
+      - claim: SpaceX institution
+        kind: named_institution
+        value: SpaceX
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "SpaceX officially launched IPO roadshow June 4, 2026"
+      - claim: Morningstar institution
+        kind: named_institution
+        value: Morningstar
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Morningstar Nicolas Owens"
+      - claim: New Constructs institution
+        kind: named_institution
+        value: New Constructs
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "New Constructs David Trainer"
+      - claim: Fidelity institution
+        kind: named_institution
+        value: Fidelity
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Fidelity retail access for accounts ≥$2,000"
+      - claim: xAI institution
+        kind: named_institution
+        value: xAI
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "xAI $6.35B operating loss 2025"
+      - claim: Elon Musk identity
+        kind: named_person
+        value: Musk
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "Musk 82% voting power via Class B (42% equity)"
+      - claim: S-1/A filing version
+        kind: named_product
+        value: S-1/A#2
+        source_urls:
+          - https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        verbatim_excerpt: "S-1/A#2: ~7,400 metric tons launched to orbit since 2002"
+    quotes:
+      - speaker_name: Nicolas Owens
+        speaker_title: Analyst, Morningstar
+        verbatim_en: "significantly overvalued"
+        source_url: https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html
+        context: Morningstar assessment of SpaceX IPO at $135/share
