@@ -1,0 +1,1333 @@
+version: 1
+generated_at: "2026-06-05T12:00:00Z"
+country: Europe
+date: "2026-06-05"
+total_stories: 14
+stories:
+  - story_id: eurostat-euro-area-gdp-fell-q1-2026
+    category: econ
+    headline_en: "Eurostat flash estimate: euro area GDP fell 0.2% in Q1 2026, employment up 0.1%"
+    lead_url: https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+    hard_facts:
+      - claim: Eurostat second estimate publication date
+        kind: temporal
+        value: "5 June 2026"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "Eurostat's second estimate for euro area GDP, published 5 June 2026"
+      - claim: euro area GDP quarter-on-quarter change Q1 2026
+        kind: numerical_with_unit
+        value: "-0.2%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "GDP in the euro area fell 0.2% quarter-on-quarter in Q1 2026"
+      - claim: euro area GDP quarter-on-quarter change Q4 2025
+        kind: numerical_with_unit
+        value: "+0.3% q/q"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "compared with +0.3% q/q in Q4 2025"
+      - claim: euro area GDP year-on-year growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.9%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "Year-on-year, euro area GDP grew 0.9%"
+      - claim: EU GDP quarter-on-quarter change Q1 2026
+        kind: numerical_with_unit
+        value: "-0.1% q/q"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "EU GDP fell 0.1% q/q"
+      - claim: EU GDP year-on-year growth Q1 2026
+        kind: numerical_with_unit
+        value: "1.0% y/y"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "grew 1.0% y/y"
+      - claim: euro area employment quarter-on-quarter change Q1 2026
+        kind: numerical_with_unit
+        value: "0.1% q/q"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "Employment in the euro area increased 0.1% q/q"
+      - claim: euro area employment year-on-year change Q1 2026
+        kind: numerical_with_unit
+        value: "0.8% y/y"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "and 0.8% y/y in Q1 2026"
+      - claim: Germany GDP quarter-on-quarter Q1 2026
+        kind: numerical_with_unit
+        value: "+0.3% q/q"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "Germany recorded +0.3% q/q"
+      - claim: Spain GDP quarter-on-quarter Q1 2026
+        kind: numerical_with_unit
+        value: "+0.6% q/q"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "Spain +0.6% q/q"
+      - claim: Italy GDP quarter-on-quarter Q1 2026
+        kind: numerical_with_unit
+        value: "+0.2% q/q"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "Italy +0.2% q/q"
+      - claim: France GDP quarter-on-quarter Q1 2026
+        kind: numerical_with_unit
+        value: "0.0% q/q"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "France 0.0% q/q"
+      - claim: preliminary flash release date
+        kind: temporal
+        value: "30 April 2026"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "Preliminary flash released 30 April 2026"
+      - claim: last negative quarter prior to Q1 2026
+        kind: temporal
+        value: "Q1 2023"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "First negative quarter since Q1 2023"
+      - claim: ECB rate decision date
+        kind: temporal
+        value: "11 June"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "ECB rate decision 11 June"
+      - claim: publishing institution
+        kind: named_institution
+        value: Eurostat
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "Eurostat's second estimate for euro area GDP"
+      - claim: central bank referenced
+        kind: named_institution
+        value: ECB
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap
+        verbatim_excerpt: "ECB rate decision 11 June"
+    quotes: []
+
+  - story_id: ecb-mir-stats-april-2026-mortgage-3-44
+    category: econ
+    headline_en: "ECB MIR statistics April 2026; mortgage rate 3.44%"
+    lead_url: https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+    hard_facts:
+      - claim: publication date
+        kind: temporal
+        value: "5 June 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "5 June 2026"
+      - claim: composite cost-of-borrowing for euro area corporations
+        kind: numerical_with_unit
+        value: "3.62%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Composite cost-of-borrowing for euro area corporations: 3.62% (unchanged)"
+      - claim: household mortgage rate change
+        kind: numerical_with_unit
+        value: "+9 bps"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Household mortgages: +9 bps to 3.44%"
+      - claim: household mortgage rate level
+        kind: numerical_with_unit
+        value: "3.44%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Household mortgages: +9 bps to 3.44%"
+      - claim: corporate loans >€1M >10yr fixation rate change
+        kind: numerical_with_unit
+        value: "+9 bps"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Corporate loans >€1M, >10yr fixation: +9 bps to 3.74%"
+      - claim: corporate loans >€1M >10yr fixation rate level
+        kind: numerical_with_unit
+        value: "3.74%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Corporate loans >€1M, >10yr fixation: +9 bps to 3.74%"
+      - claim: small business loans up to €250,000 floating rate change
+        kind: numerical_with_unit
+        value: "+6 bps"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Small business loans up to €250,000, floating + fixation up to 3M: +6 bps to 3.70%"
+      - claim: small business loans up to €250,000 floating rate level
+        kind: numerical_with_unit
+        value: "3.70%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Small business loans up to €250,000, floating + fixation up to 3M: +6 bps to 3.70%"
+      - claim: corporate deposits agreed maturity rate change
+        kind: numerical_with_unit
+        value: "+4 bps"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Corporate deposits, agreed maturity: +4 bps to 2.00%"
+      - claim: corporate deposits agreed maturity rate level
+        kind: numerical_with_unit
+        value: "2.00%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Corporate deposits, agreed maturity: +4 bps to 2.00%"
+      - claim: corporate overnight deposits rate
+        kind: numerical_with_unit
+        value: "0.53%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Corporate overnight deposits: 0.53% (unchanged)"
+      - claim: household deposits agreed maturity rate change
+        kind: numerical_with_unit
+        value: "+5 bps"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Household deposits, agreed maturity: +5 bps to 1.91%"
+      - claim: household deposits agreed maturity rate level
+        kind: numerical_with_unit
+        value: "1.91%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Household deposits, agreed maturity: +5 bps to 1.91%"
+      - claim: household overnight deposits rate
+        kind: numerical_with_unit
+        value: "0.26%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "Household overnight: 0.26% (unchanged)"
+      - claim: publishing institution
+        kind: named_institution
+        value: ECB
+        source_urls:
+          - https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2606~2665fb5ea4.en.html
+        verbatim_excerpt: "5 June 2026. Composite cost-of-borrowing for euro area corporations"
+    quotes: []
+
+  - story_id: greece-695bn-early-esm-repayment
+    category: econ
+    headline_en: "Greece €6.95bn early ESM repayment"
+    lead_url: https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+    hard_facts:
+      - claim: early repayment amount approved by ESM
+        kind: numerical_with_unit
+        value: "€6.95 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "ESM approved Greece's request to early-repay €6.95 billion"
+      - claim: remaining ESM balance after repayment
+        kind: numerical_with_unit
+        value: "~€26.3 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "Remaining balance ~€26.3 billion"
+      - claim: ESM Managing Director name
+        kind: named_person
+        value: Pierre Gramegna
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "ESM Managing Director Pierre Gramegna"
+      - claim: year Greece entered ESM/predecessor programme
+        kind: temporal
+        value: "2010"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "Greece entered ESM/predecessor in 2010"
+      - claim: Greece S&P credit rating
+        kind: named_product
+        value: "BBB/stable"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "S&P rating: BBB/stable"
+      - claim: Greece GDP growth in 2025
+        kind: numerical_with_unit
+        value: "2.3%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "Greece's economy grew 2.3% in 2025"
+      - claim: Greece debt/GDP peak ratio
+        kind: numerical_with_unit
+        value: "~207%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "Debt/GDP peaked ~207% in 2020"
+      - claim: year Greece debt/GDP peaked
+        kind: temporal
+        value: "2020"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "Debt/GDP peaked ~207% in 2020"
+      - claim: institution approving repayment
+        kind: named_institution
+        value: ESM
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "ESM approved Greece's request"
+      - claim: rating agency
+        kind: named_institution
+        value: S&P
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "S&P rating: BBB/stable"
+      - claim: byline author
+        kind: named_person
+        value: Ioannis Karagiorgas
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        verbatim_excerpt: "byline Ioannis Karagiorgas"
+    quotes:
+      - speaker_name: Pierre Gramegna
+        speaker_title: ESM Managing Director
+        verbatim_en: "continues to inspire confidence"
+        source_url: https://www.euronews.com/business/2026/06/05/greece-gets-green-light-to-repay-695bn-of-bailout-loans-early
+        context: ESM approval announcement for Greece early repayment
+
+  - story_id: eu-western-balkans-summit-budva-montenegro
+    category: politics
+    headline_en: "EU-Western Balkans summit, Budva, Montenegro"
+    lead_url: https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+    hard_facts:
+      - claim: summit date
+        kind: temporal
+        value: "5 June 2026"
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "5 June 2026, Budva, Montenegro"
+      - claim: summit location
+        kind: named_institution
+        value: "Budva, Montenegro"
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "5 June 2026, Budva, Montenegro"
+      - claim: number of Western Balkan candidate countries
+        kind: numerical
+        value: "Six"
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Six Western Balkan candidates: Montenegro, Serbia, Albania, North Macedonia, Bosnia and Herzegovina, Kosovo"
+      - claim: Western Balkan candidate country 1
+        kind: named_institution
+        value: Montenegro
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Six Western Balkan candidates: Montenegro, Serbia, Albania, North Macedonia, Bosnia and Herzegovina, Kosovo"
+      - claim: Western Balkan candidate country 2
+        kind: named_institution
+        value: Serbia
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Six Western Balkan candidates: Montenegro, Serbia, Albania, North Macedonia, Bosnia and Herzegovina, Kosovo"
+      - claim: Western Balkan candidate country 3
+        kind: named_institution
+        value: Albania
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Six Western Balkan candidates: Montenegro, Serbia, Albania, North Macedonia, Bosnia and Herzegovina, Kosovo"
+      - claim: Western Balkan candidate country 4
+        kind: named_institution
+        value: North Macedonia
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Six Western Balkan candidates: Montenegro, Serbia, Albania, North Macedonia, Bosnia and Herzegovina, Kosovo"
+      - claim: Western Balkan candidate country 5
+        kind: named_institution
+        value: Bosnia and Herzegovina
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Six Western Balkan candidates: Montenegro, Serbia, Albania, North Macedonia, Bosnia and Herzegovina, Kosovo"
+      - claim: Western Balkan candidate country 6
+        kind: named_institution
+        value: Kosovo
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Six Western Balkan candidates: Montenegro, Serbia, Albania, North Macedonia, Bosnia and Herzegovina, Kosovo"
+      - claim: European Council President name
+        kind: named_person
+        value: António Costa
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "European Council President António Costa to AP"
+      - claim: Montenegro chapters closed
+        kind: numerical
+        value: "33/33"
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Montenegro closed 33/33 chapters"
+      - claim: Montenegro accession target
+        kind: temporal
+        value: "2028–2030"
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "accession target 2028–2030"
+      - claim: EU Growth Plan value
+        kind: numerical_with_unit
+        value: "€6 billion"
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "EU Growth Plan: €6 billion in grants and loans"
+      - claim: Hungary PM name
+        kind: named_person
+        value: "Péter Magyar"
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "Hungary PM Péter Magyar lifted Budapest's veto on Ukraine accession"
+      - claim: wire service / byline author 1
+        kind: named_person
+        value: Justin Spike
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "byline Justin Spike and Sam McNeil"
+      - claim: wire service / byline author 2
+        kind: named_person
+        value: Sam McNeil
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "byline Justin Spike and Sam McNeil"
+      - claim: wire service
+        kind: named_institution
+        value: AP
+        source_urls:
+          - https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        verbatim_excerpt: "AP wire (via ABC News)"
+    quotes:
+      - speaker_name: António Costa
+        speaker_title: European Council President
+        verbatim_en: "not just an opportunity. It is a geostrategic necessity for Europe"
+        source_url: https://abcnews.go.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860
+        context: EU-Western Balkans summit, Budva, Montenegro, 5 June 2026
+
+  - story_id: naval-drone-constanta-romania
+    category: politics
+    headline_en: "Naval drone Constanta Romania"
+    lead_url: https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+    hard_facts:
+      - claim: explosion date and time
+        kind: temporal
+        value: "5 June 2026 at 10:47 GMT+2"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        verbatim_excerpt: "5 June 2026 at 10:47 GMT+2"
+      - claim: location of explosion
+        kind: named_institution
+        value: "Constanta port"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        verbatim_excerpt: "Naval drone exploded at Constanta port (Romania, Black Sea)"
+      - claim: number of port workers injured
+        kind: numerical_with_unit
+        value: "≥3"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        verbatim_excerpt: "≥3 port workers injured"
+      - claim: Romanian President name
+        kind: named_person
+        value: "Nicușor Dan"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        verbatim_excerpt: "President Nicușor Dan convened emergency CSAT"
+      - claim: emergency council convened
+        kind: named_institution
+        value: "CSAT"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        verbatim_excerpt: "convened emergency CSAT (Supreme Defence Council)"
+      - claim: EC President name
+        kind: named_person
+        value: "Ursula von der Leyen"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        verbatim_excerpt: "EC President Ursula von der Leyen"
+      - claim: byline author
+        kind: named_person
+        value: Nathan Rennolds
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        verbatim_excerpt: "byline Nathan Rennolds"
+      - claim: alliance in communication with Romanian authorities
+        kind: named_institution
+        value: NATO
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        verbatim_excerpt: "NATO in close communication with Romanian authorities"
+    quotes:
+      - speaker_name: Ursula von der Leyen
+        speaker_title: European Commission President
+        verbatim_en: "Our solidarity with every Member State exposed to these threats is absolute."
+        source_url: https://www.euronews.com/my-europe/2026/06/05/naval-drone-explodes-in-the-romanian-port-of-constanta
+        context: statement following naval drone explosion at Constanta port, 5 June 2026
+
+  - story_id: french-rafales-11-russian-intercepts-baltic
+    category: politics
+    headline_en: "French Rafales 11 Russian intercepts Baltic"
+    lead_url: https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+    hard_facts:
+      - claim: number of Russian aircraft intercepted in one week
+        kind: numerical
+        value: "11"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "11 Russian aircraft intercepted in one week over Baltic airspace"
+      - claim: air base location
+        kind: named_institution
+        value: "Šiauliai Air Base"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "French Rafale jets from Šiauliai Air Base (Lithuania)"
+      - claim: French armed forces spokesperson name
+        kind: named_person
+        value: "Colonel Guillaume Vernet"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "Colonel Guillaume Vernet (France armed forces spokesperson)"
+      - claim: Russian aircraft type 1
+        kind: named_product
+        value: "Il-18"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "Aircraft types: Il-18, An-12, Su-24, An-30"
+      - claim: Russian aircraft type 2
+        kind: named_product
+        value: "An-12"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "Aircraft types: Il-18, An-12, Su-24, An-30"
+      - claim: Russian aircraft type 3
+        kind: named_product
+        value: "Su-24"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "Aircraft types: Il-18, An-12, Su-24, An-30"
+      - claim: Russian aircraft type 4
+        kind: named_product
+        value: "An-30"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "Aircraft types: Il-18, An-12, Su-24, An-30"
+      - claim: largest simultaneous intercept count
+        kind: numerical
+        value: "6"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "One occasion intercepted 6 simultaneously"
+      - claim: France Baltic Air Policing rotation period
+        kind: temporal
+        value: "May–August 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "France's Baltic Air Policing rotation: May–August 2026"
+      - claim: NATO operation name
+        kind: named_product
+        value: "Baltic Air Policing"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "French Rafale jets from Šiauliai Air Base (Lithuania), NATO Baltic Air Policing"
+      - claim: French fighter jet type
+        kind: named_product
+        value: "Rafale"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        verbatim_excerpt: "French Rafale jets from Šiauliai Air Base"
+    quotes:
+      - speaker_name: Colonel Guillaume Vernet
+        speaker_title: France armed forces spokesperson
+        verbatim_en: "operating without flight plans or radio contact."
+        source_url: https://www.euronews.com/my-europe/2026/06/05/french-fighter-jets-intercepted-11-russian-aircraft-in-the-baltics-over-the-last-week
+        context: statement on Russian aircraft interceptions over Baltic airspace
+
+  - story_id: hungary-lifts-ukraine-eu-accession-veto
+    category: politics
+    headline_en: "Hungary lifts Ukraine EU accession veto"
+    lead_url: https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+    hard_facts:
+      - claim: publication date and time
+        kind: temporal
+        value: "5 June 2026 at 11:52 GMT+2"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "5 June 2026 at 11:52 GMT+2"
+      - claim: duration of Hungary veto
+        kind: temporal
+        value: "2-year veto"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "Hungary lifted 2-year veto on Ukraine EU accession"
+      - claim: European Council President name
+        kind: named_person
+        value: "António Costa"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "European Council President António Costa to Euronews"
+      - claim: Hungary's new PM name
+        kind: named_person
+        value: "Péter Magyar"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "Hungary's new PM Péter Magyar succeeded Viktor Orbán after April 2026 elections"
+      - claim: former Hungary PM name
+        kind: named_person
+        value: "Viktor Orbán"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "Péter Magyar succeeded Viktor Orbán after April 2026 elections"
+      - claim: Hungary elections date
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "succeeded Viktor Orbán after April 2026 elections"
+      - claim: Ukraine and Moldova cluster opening date
+        kind: temporal
+        value: "15 June 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "Ukraine and Moldova open first \"fundamentals\" cluster 15 June 2026"
+      - claim: total accession chapters
+        kind: numerical
+        value: "33"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "Accession = 33 chapters in 6 clusters"
+      - claim: total accession clusters
+        kind: numerical
+        value: "6"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "Accession = 33 chapters in 6 clusters"
+      - claim: cluster name opened by Ukraine and Moldova
+        kind: named_product
+        value: "fundamentals"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        verbatim_excerpt: "Ukraine and Moldova open first \"fundamentals\" cluster 15 June 2026"
+    quotes:
+      - speaker_name: António Costa
+        speaker_title: European Council President
+        verbatim_en: "immediately close several chapters"
+        source_url: https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        context: interview with Euronews, 5 June 2026
+      - speaker_name: António Costa
+        speaker_title: European Council President
+        verbatim_en: "Fortunately, we didn't lose time during this period of paralysis."
+        source_url: https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        context: interview with Euronews, 5 June 2026
+      - speaker_name: "Péter Magyar"
+        speaker_title: Prime Minister of Hungary
+        verbatim_en: "comprehensive agreement with Ukraine on the expansion of the linguistic, educational, cultural and political rights"
+        source_url: https://www.euronews.com/my-europe/2026/06/05/ukraine-ready-to-close-several-accession-chapters-immediately-costa-tells-euronews
+        context: statement on Hungarian minority rights agreement with Ukraine
+
+  - story_id: european-ai-stocks-kospi-5pct-drop
+    category: tech
+    headline_en: "European AI stocks / KOSPI 5% drop"
+    lead_url: https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+    hard_facts:
+      - claim: publication date
+        kind: temporal
+        value: "5 June 2026"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "5 June 2026"
+      - claim: KOSPI drop
+        kind: numerical_with_unit
+        value: "5%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "KOSPI dropped 5%"
+      - claim: leading European AI-adjacent equity YTD performance
+        kind: numerical_with_unit
+        value: "+2,245.93%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "Sweden's Sivers Semiconductors led European AI-adjacent equities YTD +2,245.93%"
+      - claim: top European AI-adjacent equity company name
+        kind: named_institution
+        value: "Sivers Semiconductors"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "Sweden's Sivers Semiconductors led European AI-adjacent equities YTD"
+      - claim: Sivers Semiconductors country
+        kind: named_institution
+        value: Sweden
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "Sweden's Sivers Semiconductors"
+      - claim: EURO STOXX 50 performance
+        kind: numerical_with_unit
+        value: "~0.4%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "EURO STOXX 50 down ~0.4%"
+      - claim: byline author
+        kind: named_person
+        value: Piero Cingari
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "byline Piero Cingari"
+      - claim: European index 1
+        kind: named_product
+        value: "FTSE 100"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "FTSE 100 slightly higher"
+      - claim: European index 2
+        kind: named_product
+        value: "DAX"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "DAX lower"
+      - claim: European index 3
+        kind: named_product
+        value: "CAC 40"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "CAC 40 near flat"
+      - claim: European index 4
+        kind: named_product
+        value: "EURO STOXX 50"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/05/beyond-nvidia-europes-best-performing-ai-stocks-of-2026
+        verbatim_excerpt: "EURO STOXX 50 down ~0.4%"
+    quotes: []
+
+  - story_id: anthropic-jack-clark-ai-brake-pedal
+    category: tech
+    headline_en: "Anthropic Jack Clark AI brake pedal"
+    lead_url: https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+    hard_facts:
+      - claim: publication date and time
+        kind: temporal
+        value: "5 June 2026 at 11:48 GMT+2"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        verbatim_excerpt: "5 June 2026 at 11:48 GMT+2"
+      - claim: Anthropic co-founder name
+        kind: named_person
+        value: "Jack Clark"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        verbatim_excerpt: "Anthropic co-founder Jack Clark"
+      - claim: proportion of Anthropic coding work done by Claude
+        kind: numerical_with_unit
+        value: "~80%"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        verbatim_excerpt: "~80% of Anthropic's coding work performed by Claude"
+      - claim: company name
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        verbatim_excerpt: "Anthropic co-founder Jack Clark"
+      - claim: AI model name
+        kind: named_product
+        value: Claude
+        source_urls:
+          - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        verbatim_excerpt: "~80% of Anthropic's coding work performed by Claude"
+      - claim: EU AI Act enforcement date for frontier AI
+        kind: temporal
+        value: "August 2026"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        verbatim_excerpt: "EU AI Act transparency/oversight rules for frontier AI enter force August 2026"
+      - claim: regulatory framework referenced
+        kind: named_product
+        value: "EU AI Act"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        verbatim_excerpt: "EU AI Act transparency/oversight rules for frontier AI enter force August 2026"
+      - claim: concept coined by Clark
+        kind: named_product
+        value: "recursive self-improvement"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        verbatim_excerpt: "Term: \"recursive self-improvement\""
+    quotes:
+      - speaker_name: Jack Clark
+        speaker_title: Anthropic co-founder
+        verbatim_en: "a gas pedal, but it doesn't have a brake pedal in the car."
+        source_url: https://www.euronews.com/next/2026/06/05/anthropic-calls-for-brake-pedal-before-ai-develops-itself-without-human-oversight
+        context: public statement on AI safety, 5 June 2026
+
+  - story_id: solar-saves-europe-128bn-since-iran-war
+    category: society
+    headline_en: "Solar saves Europe €12.8bn since Iran war"
+    lead_url: https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+    hard_facts:
+      - claim: total solar savings in fossil-fuel imports since Iran war began
+        kind: numerical_with_unit
+        value: "~€12.8 billion"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "Solar power saved Europe ~€12.8 billion in fossil-fuel imports since Iran war began 27 February 2026"
+      - claim: daily savings rate
+        kind: numerical_with_unit
+        value: "~€136 million/day"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "(~€136 million/day)"
+      - claim: Iran war start date
+        kind: temporal
+        value: "27 February 2026"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "since Iran war began 27 February 2026"
+      - claim: Brent crude price increase since Iran war
+        kind: numerical_with_unit
+        value: "~€20/barrel"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "Brent crude up ~€20/barrel since 27 February"
+      - claim: European gas price increase in March
+        kind: numerical_with_unit
+        value: "~50%"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "European gas prices up ~50% in March"
+      - claim: European solar capacity by end-2025
+        kind: numerical_with_unit
+        value: "~350 GW"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "European solar capacity ~350 GW by end-2025"
+      - claim: leading solar savings country 1
+        kind: named_institution
+        value: Spain
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "Spain and Germany lead"
+      - claim: leading solar savings country 2
+        kind: named_institution
+        value: Germany
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "Spain and Germany lead"
+      - claim: data source organisation
+        kind: named_institution
+        value: Ember
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "Ember data"
+      - claim: byline author
+        kind: named_person
+        value: Liam Gilliver
+        source_urls:
+          - https://www.euronews.com/2026/06/05/solar-saved-europe-3bn-in-fossil-fuel-imports-in-march-which-country-is-leading-the-way
+        verbatim_excerpt: "byline Liam Gilliver"
+    quotes: []
+
+  - story_id: unep-5050-urban-heat-world-environment-day
+    category: society
+    headline_en: "UNEP 50@50 urban heat World Environment Day"
+    lead_url: https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+    hard_facts:
+      - claim: publication date and time
+        kind: temporal
+        value: "5 June 2026 at 12:51 GMT+2"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "5 June 2026 at 12:51 GMT+2, World Environment Day"
+      - claim: occasion
+        kind: temporal
+        value: "World Environment Day"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "5 June 2026 at 12:51 GMT+2, World Environment Day"
+      - claim: number of city mayors in UNEP initiative
+        kind: numerical_with_unit
+        value: "Over 50"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Over 50 city mayors launched UNEP \"50@50\" initiative"
+      - claim: initiative name
+        kind: named_product
+        value: "50@50"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "UNEP \"50@50\" initiative"
+      - claim: European founding city 1
+        kind: named_institution
+        value: Athens
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "European founders: Athens, Paris, Oulu (Finland)"
+      - claim: European founding city 2
+        kind: named_institution
+        value: Paris
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "European founders: Athens, Paris, Oulu (Finland)"
+      - claim: European founding city 3
+        kind: named_institution
+        value: "Oulu"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "European founders: Athens, Paris, Oulu (Finland)"
+      - claim: UNEP Executive Director name
+        kind: named_person
+        value: "Inger Andersen"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "UNEP ED Inger Andersen"
+      - claim: annual extreme heat deaths globally
+        kind: numerical_with_unit
+        value: "~500,000"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Extreme heat kills ~500,000 globally annually"
+      - claim: France May 2026 heatwave temperature anomaly
+        kind: numerical_with_unit
+        value: "10–15°C above normal"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "France May 2026 heatwave: 10–15°C above normal"
+      - claim: Finland 2025 heatwave duration
+        kind: temporal
+        value: "3 consecutive weeks"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Finland 2025: 3 consecutive weeks of 30°C"
+      - claim: Finland 2025 heatwave temperature
+        kind: numerical_with_unit
+        value: "30°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Finland 2025: 3 consecutive weeks of 30°C"
+      - claim: Athens tree planting annual rate
+        kind: numerical_with_unit
+        value: "5,000 trees/year"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "plants 5,000 trees/year"
+      - claim: Athens total trees planted since 2024
+        kind: numerical
+        value: "12,400"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "12,400 since 2024"
+      - claim: Athens park area
+        kind: numerical_with_unit
+        value: "215,000-sq-m"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "215,000-sq-m park in Elaionas"
+      - claim: Athens park location
+        kind: named_institution
+        value: Elaionas
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "215,000-sq-m park in Elaionas"
+      - claim: Athens programme name
+        kind: named_product
+        value: "Urban Heat Atlas"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Athens: Urban Heat Atlas"
+      - claim: Paris exercise name
+        kind: named_product
+        value: "50°C simulation exercise"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Paris: \"50°C simulation exercise\""
+      - claim: Paris Mayor name
+        kind: named_person
+        value: "Emmanuel Grégoire"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Paris Mayor Emmanuel Grégoire"
+      - claim: EU project name for Antalya
+        kind: named_product
+        value: "CLIMAAX-MUHIR"
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Antalya: EU CLIMAAX-MUHIR project"
+      - claim: byline author
+        kind: named_person
+        value: Angela Symons
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "byline Angela Symons"
+      - claim: organising institution
+        kind: named_institution
+        value: UNEP
+        source_urls:
+          - https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        verbatim_excerpt: "Over 50 city mayors launched UNEP \"50@50\" initiative"
+    quotes:
+      - speaker_name: Inger Andersen
+        speaker_title: UNEP Executive Director
+        verbatim_en: "Extreme heat is already reshaping daily life in cities."
+        source_url: https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        context: World Environment Day, 5 June 2026, UNEP 50@50 launch
+      - speaker_name: Emmanuel Grégoire
+        speaker_title: Paris Mayor
+        verbatim_en: "Cities must act together to anticipate extreme heat and protect their residents."
+        source_url: https://www.euronews.com/2026/06/05/extreme-heat-is-reaching-europes-most-northern-cities-these-mayors-are-determined-to-solve
+        context: World Environment Day, 5 June 2026, UNEP 50@50 launch
+
+  - story_id: eu-ets-aviation-industry-warning-letter
+    category: other
+    headline_en: "EU ETS aviation industry warning letter"
+    lead_url: https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+    hard_facts:
+      - claim: publication date and time
+        kind: temporal
+        value: "5 June 2026 at 12:39 GMT+2"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "5 June 2026 at 12:39 GMT+2"
+      - claim: letter addressee
+        kind: named_person
+        value: "Ursula von der Leyen"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Open letter to EC President Ursula von der Leyen"
+      - claim: letter signatory organisation 1
+        kind: named_institution
+        value: "Airlines for Europe"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Airlines for Europe (A4E), Airports Council International Europe (ACI Europe)"
+      - claim: letter signatory abbreviation 1
+        kind: named_institution
+        value: "A4E"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Airlines for Europe (A4E)"
+      - claim: letter signatory organisation 2
+        kind: named_institution
+        value: "Airports Council International Europe"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Airports Council International Europe (ACI Europe)"
+      - claim: letter signatory abbreviation 2
+        kind: named_institution
+        value: "ACI Europe"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Airports Council International Europe (ACI Europe)"
+      - claim: previous ETS aviation backlash year
+        kind: temporal
+        value: "2012"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "\"likely provoke an even stronger international backlash than in 2012\""
+      - claim: deadline for EU ETS auto-expansion without exemption
+        kind: temporal
+        value: "End-2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "End-2026: EU ETS auto-expands to all EEA-departing flights without renewed exemption"
+      - claim: traffic diversion destinations
+        kind: named_institution
+        value: Istanbul
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Traffic would divert to Istanbul, Dubai, Doha"
+      - claim: traffic diversion destination 2
+        kind: named_institution
+        value: Dubai
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Traffic would divert to Istanbul, Dubai, Doha"
+      - claim: traffic diversion destination 3
+        kind: named_institution
+        value: Doha
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Traffic would divert to Istanbul, Dubai, Doha"
+      - claim: alternative advocated carbon scheme
+        kind: named_product
+        value: CORSIA
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Advocate CORSIA"
+      - claim: EC CORSIA report deadline
+        kind: temporal
+        value: "1 July 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "EC to submit CORSIA environmental integrity report by 1 July 2026"
+      - claim: ETS aviation revision timing
+        kind: temporal
+        value: "mid-July"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "ETS aviation revision mid-July"
+      - claim: aviation share of global CO2
+        kind: numerical_with_unit
+        value: "2-3%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "Aviation = 2-3% global CO₂"
+      - claim: regulatory instrument referenced
+        kind: named_product
+        value: "EU ETS"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        verbatim_excerpt: "extending EU ETS to long-haul international flights"
+    quotes:
+      - speaker_name: Airlines for Europe / ACI Europe / aerospace manufacturing groups
+        speaker_title: Industry open letter signatories
+        verbatim_en: "likely provoke an even stronger international backlash than in 2012."
+        source_url: https://www.euronews.com/my-europe/2026/06/05/european-aviation-sector-warns-brussels-climate-targets-could-cause-international-backlash
+        context: open letter to EC President von der Leyen on EU ETS aviation extension, 5 June 2026
+
+  - story_id: ai-designed-universal-vaccine-cambridge
+    category: other
+    headline_en: "AI-designed universal vaccine Cambridge Southampton"
+    lead_url: https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+    hard_facts:
+      - claim: publication date
+        kind: temporal
+        value: "5 June 2026"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "5 June 2026"
+      - claim: research institution 1
+        kind: named_institution
+        value: Cambridge
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Cambridge and Southampton universities"
+      - claim: research institution 2
+        kind: named_institution
+        value: Southampton
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Cambridge and Southampton universities"
+      - claim: Phase 1 trial start date
+        kind: temporal
+        value: "Dec 2021"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Phase 1: Dec 2021 – Sep 2023"
+      - claim: Phase 1 trial end date
+        kind: temporal
+        value: "Sep 2023"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Phase 1: Dec 2021 – Sep 2023"
+      - claim: number of Phase 1 volunteers
+        kind: numerical
+        value: "39"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "39 volunteers"
+      - claim: number of doses in Phase 1
+        kind: numerical
+        value: "4"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "4 doses"
+      - claim: funding source 1
+        kind: named_institution
+        value: UKRI
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Funded by UKRI and Wellcome Trust"
+      - claim: funding source 2
+        kind: named_institution
+        value: "Wellcome Trust"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Funded by UKRI and Wellcome Trust"
+      - claim: lead researcher 1 name
+        kind: named_person
+        value: "Jonathan Heeney"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Professor Jonathan Heeney"
+      - claim: lead researcher 2 name
+        kind: named_person
+        value: "Saul Faust"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Professor Saul Faust"
+      - claim: vaccine design concept
+        kind: named_product
+        value: "super-antigen"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "AI-designed \"super-antigen\""
+      - claim: delivery method
+        kind: named_product
+        value: "Needle-free microfluidic jets"
+        source_urls:
+          - https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        verbatim_excerpt: "Needle-free microfluidic jets"
+    quotes:
+      - speaker_name: Jonathan Heeney
+        speaker_title: Professor, Cambridge University
+        verbatim_en: "We've converted vaccine development from being reactive to being future proof,"
+        source_url: https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        context: announcement of Phase 1 trial results, AI-designed universal vaccine
+      - speaker_name: Jonathan Heeney
+        speaker_title: Professor, Cambridge University
+        verbatim_en: "we can escape the constant cycle of chasing the virus variants circulating in humans."
+        source_url: https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        context: announcement of Phase 1 trial results, AI-designed universal vaccine
+      - speaker_name: Saul Faust
+        speaker_title: Professor, Southampton University
+        verbatim_en: "by the time vaccines are rolled out, they may be poorly matched"
+        source_url: https://www.euronews.com/health/2026/06/05/new-ai-designed-universal-vaccine-could-future-proof-humans-against-unknown-viruses
+        context: statement on traditional vaccine development limitations
+
+  - story_id: henry-nowak-misinformation-case
+    category: other
+    headline_en: "Henry Nowak misinformation case"
+    lead_url: https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+    hard_facts:
+      - claim: publication date and time
+        kind: temporal
+        value: "5 June 2026 at 10:59 GMT+2"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "5 June 2026 at 10:59 GMT+2"
+      - claim: convicted murderer name
+        kind: named_person
+        value: Vickrum Digwa
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Vickrum Digwa life-sentenced for murder of Henry Nowak"
+      - claim: victim name
+        kind: named_person
+        value: Henry Nowak
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "murder of Henry Nowak"
+      - claim: victim age
+        kind: numerical_with_unit
+        value: "18-year-old"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Henry Nowak (18-year-old Southampton university student"
+      - claim: victim university
+        kind: named_institution
+        value: "Southampton university"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "18-year-old Southampton university student"
+      - claim: murder date
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Southampton university student killed December 2025"
+      - claim: falsely accused officer name
+        kind: named_person
+        value: "Christi Hill"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Former officer Christi Hill (left force April 2024)"
+      - claim: date Christi Hill left the force
+        kind: temporal
+        value: "April 2024"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Former officer Christi Hill (left force April 2024)"
+      - claim: AI chatbot that falsely confirmed involvement
+        kind: named_product
+        value: "Grok"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "X's AI chatbot Grok falsely confirmed her involvement"
+      - claim: platform hosting Grok
+        kind: named_institution
+        value: X
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "X's AI chatbot Grok falsely confirmed her involvement"
+      - claim: politician who shared manipulated image
+        kind: named_person
+        value: "Robert Jenrick"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Digitally manipulated bodycam image shared by British politician Robert Jenrick"
+      - claim: blade type carried by Digwa per Sikh Federation
+        kind: named_product
+        value: "pesh-kabz"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Sikh Federation: blade Digwa carried was a pesh-kabz, not a kirpan"
+      - claim: organisation clarifying blade type
+        kind: named_institution
+        value: "Sikh Federation"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Sikh Federation: blade Digwa carried was a pesh-kabz, not a kirpan"
+      - claim: political party calling for kirpan exemption revocation
+        kind: named_institution
+        value: "Reform UK"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Reform UK called for revoking kirpan religious exemption"
+      - claim: sentence handed to Digwa
+        kind: named_product
+        value: "life-sentenced"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/05/police-officers-in-hiding-and-false-images-misinformation-around-henry-nowak-murder-fuels-
+        verbatim_excerpt: "Vickrum Digwa life-sentenced for murder of Henry Nowak"
+    quotes: []
