@@ -1,0 +1,699 @@
+version: 1
+generated_at: "2026-06-05T12:00:00Z"
+country: South Korea
+date: "2026-06-05"
+total_stories: 13
+stories:
+  - story_id: kospi-plunges-5pct-on-us-chip-stock-rout
+    category: econ
+    headline_en: "Kospi plunges 5% on US chip stock rout"
+    lead_url: https://www.koreaherald.com/article/10764128
+    body_source: full
+    corroborated_by:
+      - https://abcnews.go.com/Business/wireStory/asian-shares-drop-south-koreas-kospi-5-133608584
+      - https://www.koreaherald.com/article/10764147
+    locked_urls:
+      - https://www.koreaherald.com/article/10764128
+      - https://abcnews.go.com/Business/wireStory/asian-shares-drop-south-koreas-kospi-5-133608584
+      - https://www.koreaherald.com/article/10764147
+    hard_facts:
+      - claim: Kospi decline percentage
+        kind: numerical_with_unit
+        value: "5 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "fell over 5 percent Friday"
+      - claim: Kospi closing index level
+        kind: numerical
+        value: "2,967.68"
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "The Kospi closed at 2,967.68"
+      - claim: Kospi point decline
+        kind: numerical_with_unit
+        value: "5.23 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "down 5.23 percent, or 163.53 points, from Thursday's close"
+      - claim: Kospi points lost
+        kind: numerical_with_unit
+        value: "163.53 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "down 5.23 percent, or 163.53 points, from Thursday's close"
+      - claim: Kosdaq closing level
+        kind: numerical
+        value: "799.37"
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "The Kosdaq dropped 5.84 percent to 799.37"
+      - claim: Kosdaq decline percentage
+        kind: numerical_with_unit
+        value: "5.84 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "The Kosdaq dropped 5.84 percent to 799.37"
+      - claim: Foreign net selling volume in Kospi shares
+        kind: numerical_with_unit
+        value: "2.41 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "Foreign investors were net sellers of approximately 2.41 trillion won in Kospi shares"
+      - claim: Regulatory body that issued sidecar
+        kind: named_institution
+        value: Korea Exchange (KRX)
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "The Korea Exchange (KRX) issued a sell-side sidecar for the Kospi"
+      - claim: US chip stocks cited in rout — Nvidia
+        kind: named_institution
+        value: Nvidia
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "sharp declines in major US semiconductor stocks, including Nvidia, AMD and Broadcom"
+      - claim: US chip stocks cited in rout — AMD
+        kind: named_institution
+        value: AMD
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "sharp declines in major US semiconductor stocks, including Nvidia, AMD and Broadcom"
+      - claim: US chip stocks cited in rout — Broadcom
+        kind: named_institution
+        value: Broadcom
+        source_urls:
+          - https://www.koreaherald.com/article/10764128
+        verbatim_excerpt: "sharp declines in major US semiconductor stocks, including Nvidia, AMD and Broadcom"
+    quotes: []
+
+  - story_id: mirae-spacex-offering-sells-out-in-minutes
+    category: econ
+    headline_en: "Mirae Asset's SpaceX offering sells out in minutes"
+    lead_url: https://www.koreaherald.com/article/10764629
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10764629
+    hard_facts:
+      - claim: Mirae Asset SpaceX allocation size
+        kind: numerical_with_unit
+        value: "$500 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10764629
+        verbatim_excerpt: "Korean brokerage's $500 million allocation exhausted almost immediately after opening"
+      - claim: SpaceX expected IPO valuation
+        kind: numerical_with_unit
+        value: "over $300 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10764629
+        verbatim_excerpt: "SpaceX's Nasdaq IPO is expected to value the company at over $300 billion"
+      - claim: Brokerage offering the subscription
+        kind: named_institution
+        value: Mirae Asset Securities
+        source_urls:
+          - https://www.koreaherald.com/article/10764629
+        verbatim_excerpt: "Mirae Asset Securities' SpaceX pre-IPO subscription offering sold out in minutes"
+      - claim: IPO listing exchange
+        kind: named_institution
+        value: Nasdaq
+        source_urls:
+          - https://www.koreaherald.com/article/10764629
+        verbatim_excerpt: "SpaceX's Nasdaq IPO is expected to value the company at over $300 billion"
+      - claim: Company subject of IPO offering
+        kind: named_institution
+        value: SpaceX
+        source_urls:
+          - https://www.koreaherald.com/article/10764629
+        verbatim_excerpt: "Mirae Asset Securities' SpaceX pre-IPO subscription offering sold out in minutes"
+      - claim: Mirae Asset role in syndicate
+        kind: named_institution
+        value: Mirae Asset
+        source_urls:
+          - https://www.koreaherald.com/article/10764629
+        verbatim_excerpt: "Mirae Asset is the sole Korean bookrunner in SpaceX's upcoming Nasdaq IPO syndicate"
+    quotes: []
+
+  - story_id: korean-won-hits-17-year-low-on-outflow
+    category: econ
+    headline_en: "Korean won hits 17-year low on foreign outflow"
+    lead_url: https://www.koreaherald.com/article/10764442
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10764442
+    hard_facts:
+      - claim: Won exchange rate at low
+        kind: numerical_with_unit
+        value: "1,549.1 per dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10764442
+        verbatim_excerpt: "The Korean won weakened to 1,549.1 per dollar Friday"
+      - claim: Last time won was this low
+        kind: temporal
+        value: "2009 global financial crisis"
+        source_urls:
+          - https://www.koreaherald.com/article/10764442
+        verbatim_excerpt: "its lowest level since the 2009 global financial crisis"
+      - claim: Foreign net selling volume in Kospi by noon
+        kind: numerical_with_unit
+        value: "2.41 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10764442
+        verbatim_excerpt: "Foreign investors were net sellers of approximately 2.41 trillion won in Kospi shares by noon"
+      - claim: Year-to-date foreign outflows from main board
+        kind: numerical_with_unit
+        value: "115.3 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10764442
+        verbatim_excerpt: "year-to-date foreign outflows from the main board reaching 115.3 trillion won"
+      - claim: Finance Minister who pledged action
+        kind: named_person
+        value: Koo Yun-cheol
+        source_urls:
+          - https://www.koreaherald.com/article/10764442
+        verbatim_excerpt: "Finance Minister Koo Yun-cheol pledged to take \"necessary measures immediately\""
+      - claim: Bank of Korea Governor who pledged response
+        kind: named_person
+        value: Shin Hyun-song
+        source_urls:
+          - https://www.koreaherald.com/article/10764442
+        verbatim_excerpt: "Bank of Korea Governor Shin Hyun-song vowed to respond \"firmly.\""
+      - claim: Won forecast range
+        kind: numerical_with_unit
+        value: "1,500 range"
+        source_urls:
+          - https://www.koreaherald.com/article/10764442
+        verbatim_excerpt: "Analysts forecast the won will remain in the 1,500 range"
+      - claim: Central bank institution
+        kind: named_institution
+        value: Bank of Korea
+        source_urls:
+          - https://www.koreaherald.com/article/10764442
+        verbatim_excerpt: "Bank of Korea Governor Shin Hyun-song vowed to respond \"firmly.\""
+    quotes:
+      - speaker_name: Koo Yun-cheol
+        speaker_title: Finance Minister of South Korea
+        verbatim_en: "necessary measures immediately"
+        source_url: https://www.koreaherald.com/article/10764442
+        context: "Statement pledging response to won weakness on June 5"
+      - speaker_name: Shin Hyun-song
+        speaker_title: Governor, Bank of Korea
+        verbatim_en: "firmly."
+        source_url: https://www.koreaherald.com/article/10764442
+        context: "Statement on Bank of Korea response to won weakness on June 5"
+
+  - story_id: president-may-need-to-moderate-policy-push
+    category: politics
+    headline_en: "President may need to moderate policy push following local election outcome: analysts"
+    lead_url: https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10764730
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+      - https://www.koreaherald.com/article/10764730
+    hard_facts:
+      - claim: Democratic Party major posts won in June 3 local elections
+        kind: numerical
+        value: "12 of 16"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+        verbatim_excerpt: "President Lee Jae-myung's ruling Democratic Party won 12 of 16 major posts in the June 3 local elections"
+      - claim: Local election date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+        verbatim_excerpt: "the June 3 local elections"
+      - claim: President of South Korea
+        kind: named_person
+        value: Lee Jae-myung
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+        verbatim_excerpt: "President Lee Jae-myung's ruling Democratic Party"
+      - claim: Ruling party name
+        kind: named_institution
+        value: Democratic Party
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+        verbatim_excerpt: "President Lee Jae-myung's ruling Democratic Party won 12 of 16 major posts"
+      - claim: Opposition party name
+        kind: named_institution
+        value: People Power Party
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+        verbatim_excerpt: "The conservative People Power Party retained Seoul and the Gyeongsang provinces"
+      - claim: Regions retained by People Power Party — Seoul
+        kind: named_institution
+        value: Seoul
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+        verbatim_excerpt: "The conservative People Power Party retained Seoul and the Gyeongsang provinces"
+    quotes: []
+
+  - story_id: pm-every-measure-ballot-shortage-probe
+    category: politics
+    headline_en: "PM says 'every measure' will be taken to delve into ballot shortage"
+    lead_url: https://www.koreaherald.com/article/10764597
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10764581
+    locked_urls:
+      - https://www.koreaherald.com/article/10764597
+      - https://www.koreaherald.com/article/10764581
+    hard_facts:
+      - claim: Prime Minister who made statement
+        kind: named_person
+        value: Han Duck-soo
+        source_urls:
+          - https://www.koreaherald.com/article/10764597
+        verbatim_excerpt: "Prime Minister Han Duck-soo said Friday that \"every possible measure\" will be employed"
+      - claim: Election body reporting discrepancies
+        kind: named_institution
+        value: National Election Commission
+        source_urls:
+          - https://www.koreaherald.com/article/10764597
+        verbatim_excerpt: "The National Election Commission reported discrepancies between printed ballot counts and the number of ballots cast"
+      - claim: Election during which shortages occurred
+        kind: temporal
+        value: "June 3 local elections"
+        source_urls:
+          - https://www.koreaherald.com/article/10764597
+        verbatim_excerpt: "ballot shortages reported at multiple polling stations during the June 3 local elections"
+    quotes:
+      - speaker_name: Han Duck-soo
+        speaker_title: Prime Minister of South Korea
+        verbatim_en: "every possible measure"
+        source_url: https://www.koreaherald.com/article/10764597
+        context: "Statement on ballot shortage investigation on June 5"
+
+  - story_id: xi-jinping-state-visit-north-korea-monday
+    category: politics
+    headline_en: "China's Xi Jinping to make state visit to North Korea from Monday"
+    lead_url: https://www.nknews.org/2026/06/chinas-xi-jinping-to-make-state-visit-to-north-korea-from-monday/
+    body_source: full
+    corroborated_by:
+      - https://www.taipeitimes.com/News/front/archives/2026/06/05/2003858559
+    locked_urls:
+      - https://www.nknews.org/2026/06/chinas-xi-jinping-to-make-state-visit-to-north-korea-from-monday/
+      - https://www.taipeitimes.com/News/front/archives/2026/06/05/2003858559
+    hard_facts:
+      - claim: Chinese President making state visit
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.nknews.org/2026/06/chinas-xi-jinping-to-make-state-visit-to-north-korea-from-monday/
+        verbatim_excerpt: "Chinese President Xi Jinping will make a state visit to North Korea beginning Monday June 8"
+      - claim: Start date of state visit
+        kind: temporal
+        value: "Monday June 8"
+        source_urls:
+          - https://www.nknews.org/2026/06/chinas-xi-jinping-to-make-state-visit-to-north-korea-from-monday/
+        verbatim_excerpt: "beginning Monday June 8"
+      - claim: North Korean leader Xi met on previous visit
+        kind: named_person
+        value: Kim Jong-un
+        source_urls:
+          - https://www.nknews.org/2026/06/chinas-xi-jinping-to-make-state-visit-to-north-korea-from-monday/
+        verbatim_excerpt: "following his 2019 summit with Kim Jong-un"
+      - claim: Year of previous Xi visit to Pyongyang
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - https://www.nknews.org/2026/06/chinas-xi-jinping-to-make-state-visit-to-north-korea-from-monday/
+        verbatim_excerpt: "following his 2019 summit with Kim Jong-un"
+      - claim: Visit sequence — second trip to Pyongyang
+        kind: numerical
+        value: "second"
+        source_urls:
+          - https://www.nknews.org/2026/06/chinas-xi-jinping-to-make-state-visit-to-north-korea-from-monday/
+        verbatim_excerpt: "The visit would be Xi's second trip to Pyongyang"
+    quotes: []
+
+  - story_id: lee-to-visit-europe-june-9-18-g7-evian
+    category: politics
+    headline_en: "Lee to visit Europe from June 9-18, attend G7 summit in France's Evian"
+    lead_url: https://www.koreaherald.com/article/10764584
+    body_source: full
+    corroborated_by:
+      - https://www.asiae.co.kr/en/article/2026060514282892905
+    locked_urls:
+      - https://www.koreaherald.com/article/10764584
+      - https://www.asiae.co.kr/en/article/2026060514282892905
+    hard_facts:
+      - claim: President Lee's Europe trip start date
+        kind: temporal
+        value: "June 9"
+        source_urls:
+          - https://www.koreaherald.com/article/10764584
+        verbatim_excerpt: "President Lee Jae-myung will travel to Europe from June 9 to 18"
+      - claim: President Lee's Europe trip end date
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreaherald.com/article/10764584
+        verbatim_excerpt: "President Lee Jae-myung will travel to Europe from June 9 to 18"
+      - claim: Summit Lee will attend
+        kind: named_institution
+        value: "G7 Leaders' Summit"
+        source_urls:
+          - https://www.koreaherald.com/article/10764584
+        verbatim_excerpt: "attending the G7 Leaders' Summit in Evian, France"
+      - claim: Summit location city
+        kind: temporal
+        value: "Evian, France"
+        source_urls:
+          - https://www.koreaherald.com/article/10764584
+        verbatim_excerpt: "the G7 Leaders' Summit in Evian, France"
+      - claim: Lee's status at G7
+        kind: named_person
+        value: "invited partner nation"
+        source_urls:
+          - https://www.koreaherald.com/article/10764584
+        verbatim_excerpt: "as an invited partner nation"
+      - claim: President making the trip
+        kind: named_person
+        value: Lee Jae-myung
+        source_urls:
+          - https://www.koreaherald.com/article/10764584
+        verbatim_excerpt: "President Lee Jae-myung will travel to Europe from June 9 to 18"
+    quotes: []
+
+  - story_id: lee-seeks-second-year-lift-cabinet-reset
+    category: politics
+    headline_en: "Lee seeks second-year lift from post-election Cabinet reset"
+    lead_url: https://www.koreaherald.com/article/10764730
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+    locked_urls:
+      - https://www.koreaherald.com/article/10764730
+      - https://www.koreatimes.co.kr/southkorea/politics/20260605/president-may-need-to-moderate-policy-push-following-local-election-outcome-analysts
+    hard_facts:
+      - claim: President planning Cabinet reshuffle
+        kind: named_person
+        value: Lee Jae-myung
+        source_urls:
+          - https://www.koreaherald.com/article/10764730
+        verbatim_excerpt: "President Lee Jae-myung is planning a Cabinet reshuffle"
+      - claim: Trigger for reshuffle
+        kind: temporal
+        value: "June 3 election results"
+        source_urls:
+          - https://www.koreaherald.com/article/10764730
+        verbatim_excerpt: "may reorganize key portfolios to reflect the June 3 election results"
+      - claim: Year in office that Lee is entering
+        kind: temporal
+        value: "second year in office"
+        source_urls:
+          - https://www.koreaherald.com/article/10764730
+        verbatim_excerpt: "as he transitions into his second year in office"
+    quotes: []
+
+  - story_id: nvidia-ceo-jensen-huang-seoul-visit-ai-robotics
+    category: tech
+    headline_en: "Nvidia CEO Jensen Huang embarks on packed Seoul visit focused on AI, robotics"
+    lead_url: https://www.koreaherald.com/article/10764331
+    body_source: full
+    corroborated_by:
+      - https://www.digitimes.com/news/a20260605VL207/nvidia-jensen-huang-south-korea-gaming-robotics-business.html
+      - https://www.koreaherald.com/article/10764604
+    locked_urls:
+      - https://www.koreaherald.com/article/10764331
+      - https://www.digitimes.com/news/a20260605VL207/nvidia-jensen-huang-south-korea-gaming-robotics-business.html
+      - https://www.koreaherald.com/article/10764604
+    hard_facts:
+      - claim: Nvidia CEO making Seoul visit
+        kind: named_person
+        value: Jensen Huang
+        source_urls:
+          - https://www.koreaherald.com/article/10764331
+        verbatim_excerpt: "Nvidia CEO Jensen Huang arrived in Seoul on Friday for a four-day visit"
+      - claim: Duration of Huang's Seoul visit
+        kind: temporal
+        value: "four-day"
+        source_urls:
+          - https://www.koreaherald.com/article/10764331
+        verbatim_excerpt: "arrived in Seoul on Friday for a four-day visit"
+      - claim: Visit arrival day
+        kind: temporal
+        value: "Friday"
+        source_urls:
+          - https://www.koreaherald.com/article/10764331
+        verbatim_excerpt: "arrived in Seoul on Friday"
+      - claim: Expected meeting partner — Samsung Electronics
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10764331
+        verbatim_excerpt: "Huang is expected to meet with leaders of Samsung Electronics, SK Hynix, Hyundai Motor"
+      - claim: Expected meeting partner — SK Hynix
+        kind: named_institution
+        value: SK Hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10764331
+        verbatim_excerpt: "Huang is expected to meet with leaders of Samsung Electronics, SK Hynix, Hyundai Motor"
+      - claim: Expected meeting partner — Hyundai Motor
+        kind: named_institution
+        value: Hyundai Motor
+        source_urls:
+          - https://www.koreaherald.com/article/10764331
+        verbatim_excerpt: "Huang is expected to meet with leaders of Samsung Electronics, SK Hynix, Hyundai Motor"
+      - claim: Nvidia as company making the visit
+        kind: named_institution
+        value: Nvidia
+        source_urls:
+          - https://www.koreaherald.com/article/10764331
+        verbatim_excerpt: "Nvidia CEO Jensen Huang arrived in Seoul"
+    quotes: []
+
+  - story_id: police-secure-ballot-boxes-seoul-protesters
+    category: society
+    headline_en: "Police secure ballot boxes from Seoul polling station after dispersing protesters"
+    lead_url: https://www.koreatimes.co.kr/southkorea/society/20260605/police-secure-ballot-boxes-from-seoul-polling-station-after-dispersing-protesters
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/society/20260605/police-secure-ballot-boxes-from-seoul-polling-station-after-dispersing-protesters
+    hard_facts:
+      - claim: Location of ballot box security action
+        kind: named_institution
+        value: Seoul
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260605/police-secure-ballot-boxes-from-seoul-polling-station-after-dispersing-protesters
+        verbatim_excerpt: "gathered at a Seoul polling station Friday and secured ballot boxes"
+      - claim: Election with disputed count
+        kind: temporal
+        value: "June 3 local elections"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260605/police-secure-ballot-boxes-from-seoul-polling-station-after-dispersing-protesters
+        verbatim_excerpt: "disputes over alleged vote count discrepancies in the June 3 local elections"
+      - claim: Body overseeing ballot box certification
+        kind: named_institution
+        value: National Election Commission
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260605/police-secure-ballot-boxes-from-seoul-polling-station-after-dispersing-protesters
+        verbatim_excerpt: "The National Election Commission said the ballot boxes are being secured as part of the routine post-election certification process"
+    quotes: []
+
+  - story_id: samsung-top-union-loses-majority-status
+    category: society
+    headline_en: "Samsung's top union loses majority status after chip-heavy bonus deal"
+    lead_url: https://www.koreaherald.com/article/10764397
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10764397
+    hard_facts:
+      - claim: Union entity losing majority status
+        kind: named_institution
+        value: Samsung Group Employees' Union
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "The Samsung Electronics branch of the Samsung Group Employees' Union dropped below the 50% membership threshold"
+      - claim: Membership threshold required for majority
+        kind: numerical_with_unit
+        value: "50%"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "dropped below the 50% membership threshold needed for majority-union status"
+      - claim: Peak union membership in late April
+        kind: numerical_with_unit
+        value: "over 76,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "Membership fell from over 76,000 in late April"
+      - claim: Union membership as of June 5
+        kind: numerical_with_unit
+        value: "approximately 58,270"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "to approximately 58,270 by June 5"
+      - claim: Date of membership count
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "approximately 58,270 by June 5"
+      - claim: Majority-threshold headcount
+        kind: numerical_with_unit
+        value: "64,440"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "below the 64,440 threshold (half of Samsung Electronics' 128,881 employees)"
+      - claim: Total Samsung Electronics employee count
+        kind: numerical_with_unit
+        value: "128,881 employees"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "half of Samsung Electronics' 128,881 employees"
+      - claim: Memory division worker total compensation
+        kind: numerical_with_unit
+        value: "approximately 567.1 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "memory division workers received approximately 567.1 million won each in total compensation"
+      - claim: Device eXperience (DX) worker compensation
+        kind: numerical_with_unit
+        value: "6 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "Device eXperience workers received just 6 million won"
+      - claim: Compensation gap ratio
+        kind: numerical_with_unit
+        value: "nearly 95-fold gap"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "a nearly 95-fold gap"
+      - claim: Confidence vote date for union chair
+        kind: temporal
+        value: "June 17"
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "A confidence vote on union chair Choi Seung-ho is scheduled for June 17"
+      - claim: Union chair subject of confidence vote
+        kind: named_person
+        value: Choi Seung-ho
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "A confidence vote on union chair Choi Seung-ho is scheduled for June 17"
+      - claim: Company whose employees are in union
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10764397
+        verbatim_excerpt: "The Samsung Electronics branch of the Samsung Group Employees' Union"
+    quotes: []
+
+  - story_id: prosecution-indicts-27-revenge-for-hire
+    category: society
+    headline_en: "Prosecution indicts 27 in 'revenge-for-hire' cases"
+    lead_url: https://www.koreaherald.com/article/10764587
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10764587
+    hard_facts:
+      - claim: Total individuals indicted
+        kind: numerical
+        value: "27"
+        source_urls:
+          - https://www.koreaherald.com/article/10764587
+        verbatim_excerpt: "South Korean prosecutors indicted all 27 individuals charged in connection with \"proxy revenge\" crimes"
+      - claim: Number arrested during investigation
+        kind: numerical
+        value: "19"
+        source_urls:
+          - https://www.koreaherald.com/article/10764587
+        verbatim_excerpt: "Of the 27 indicted, 19 were arrested during investigation"
+      - claim: Number who received court sentences
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://www.koreaherald.com/article/10764587
+        verbatim_excerpt: "six have already received court sentences"
+      - claim: Prison sentences among the six sentenced
+        kind: numerical
+        value: "five prison terms"
+        source_urls:
+          - https://www.koreaherald.com/article/10764587
+        verbatim_excerpt: "(five prison terms, one fine)"
+      - claim: Fine sentences among the six sentenced
+        kind: numerical
+        value: "one fine"
+        source_urls:
+          - https://www.koreaherald.com/article/10764587
+        verbatim_excerpt: "(five prison terms, one fine)"
+      - claim: Prosecutorial body announcing enforcement stance
+        kind: named_institution
+        value: Supreme Prosecutors' Office
+        source_urls:
+          - https://www.koreaherald.com/article/10764587
+        verbatim_excerpt: "The Supreme Prosecutors' Office announced a zero-tolerance enforcement stance"
+    quotes: []
+
+  - story_id: ador-reduces-damages-claim-against-ex-ceo
+    category: society
+    headline_en: "Ador reduces damages claim against ex-CEO, ex-NewJeans member by $6.5 mil."
+    lead_url: https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+    body_source: full
+    corroborated_by:
+      - https://www.allkpop.com/article/2026/06/ador-lowers-damages-claim-against-danielle-and-min-hee-jin-to-3309-billion-krw-about-241-million-usd
+    locked_urls:
+      - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+      - https://www.allkpop.com/article/2026/06/ador-lowers-damages-claim-against-danielle-and-min-hee-jin-to-3309-billion-krw-about-241-million-usd
+    hard_facts:
+      - claim: K-pop label filing damages claim
+        kind: named_institution
+        value: Ador
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "K-pop label Ador reduced its damages claim against former CEO Min Hee-jin and former NewJeans member Danielle"
+      - claim: Former CEO named in damages claim
+        kind: named_person
+        value: Min Hee-jin
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "former CEO Min Hee-jin and former NewJeans member Danielle"
+      - claim: Former NewJeans member named in damages claim
+        kind: named_person
+        value: Danielle
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "former CEO Min Hee-jin and former NewJeans member Danielle"
+      - claim: Original damages claim amount
+        kind: numerical_with_unit
+        value: "43.1 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "from 43.1 billion won to 33.1 billion won"
+      - claim: Reduced damages claim amount (won)
+        kind: numerical_with_unit
+        value: "33.1 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "from 43.1 billion won to 33.1 billion won"
+      - claim: Reduced damages claim amount (USD)
+        kind: numerical_with_unit
+        value: "approximately $21.5 million"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "(approximately $21.5 million)"
+      - claim: Reason for reduction
+        kind: named_institution
+        value: "change in legal representation"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "following a change in legal representation"
+      - claim: Date of first court hearing
+        kind: temporal
+        value: "June 11"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "The first hearing is scheduled for June 11"
+      - claim: K-pop group associated with Danielle
+        kind: named_product
+        value: NewJeans
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260605/ador-reduces-damages-claim-against-ex-ceo-ex-newjeans-member-by-65-mil
+        verbatim_excerpt: "former NewJeans member Danielle"
+    quotes: []
