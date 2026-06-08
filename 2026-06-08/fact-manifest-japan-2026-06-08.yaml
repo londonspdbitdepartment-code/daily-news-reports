@@ -1,0 +1,660 @@
+version: 1
+generated_at: "2026-06-08T12:00:00Z"
+country: Japan
+date: "2026-06-08"
+total_stories: 9
+stories:
+  - story_id: japan-q1-gdp-contraction-technical-recession
+    category: econ
+    headline_en: Japan Q1 2026 GDP contracts at revised 1.8% annual rate, entering technical recession
+    lead_url: https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+    hard_facts:
+      - claim: Japan Q1 2026 GDP annual contraction rate (revised)
+        kind: numerical_with_unit
+        value: "-1.8%"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "Japan's economy contracted at a revised annual rate of 1.8% in Q1 2026"
+      - claim: Japan Q1 2026 GDP annual contraction rate (preliminary)
+        kind: numerical_with_unit
+        value: "-1.2%"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "steeper than the preliminary 1.2%"
+      - claim: GDP quarter-on-quarter decline (revised)
+        kind: numerical_with_unit
+        value: "-0.4% q/q"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "GDP fell 0.4% q/q on revised basis"
+      - claim: Capex revised q/q change
+        kind: numerical_with_unit
+        value: "-2.4% q/q"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "Capex revised to -2.4% q/q from -0.6% preliminary"
+      - claim: Capex preliminary q/q change
+        kind: numerical_with_unit
+        value: "-0.6% preliminary"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "Capex revised to -2.4% q/q from -0.6% preliminary"
+      - claim: Private consumption q/q change
+        kind: numerical_with_unit
+        value: "+0.1%"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "Private consumption +0.1% unchanged"
+      - claim: BoJ next policy meeting date
+        kind: temporal
+        value: June 16
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "BoJ next policy meeting June 16"
+      - claim: April CPI reading
+        kind: numerical_with_unit
+        value: "3.6%"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "April CPI 3.6%"
+      - claim: Finance Minister identity
+        kind: named_person
+        value: Katsunobu Kato
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "Finance Minister Katsunobu Kato cited Middle East supply chain disruptions"
+      - claim: BoJ Governor identity
+        kind: named_person
+        value: Kazuo Ueda
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "Governor Kazuo Ueda has signalled willingness to normalise if underlying inflation holds"
+      - claim: Data source institution
+        kind: named_institution
+        value: Cabinet Office
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "Cabinet Office data Monday showed GDP fell 0.4% q/q on revised basis"
+      - claim: Central bank institution
+        kind: named_institution
+        value: BoJ
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "BoJ next policy meeting June 16"
+      - claim: GDP reporting period
+        kind: temporal
+        value: Q1 2026
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/japans-economy-cools-weak-capex-000828952.html
+        verbatim_excerpt: "Japan's economy contracted at a revised annual rate of 1.8% in Q1 2026"
+    quotes: []
+
+  - story_id: nikkei-225-selloff-ai-infrastructure
+    category: econ
+    headline_en: Nikkei 225 falls 3,100+ points (~4.2%) on AI-infrastructure selloff
+    lead_url: https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+    hard_facts:
+      - claim: Nikkei 225 point decline
+        kind: numerical_with_unit
+        value: "3,100+ points"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Nikkei 225 fell 3,100+ points (~4.2%) Monday"
+      - claim: Nikkei 225 percentage decline
+        kind: numerical_with_unit
+        value: "~4.2%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Nikkei 225 fell 3,100+ points (~4.2%) Monday"
+      - claim: Topix index decline
+        kind: numerical_with_unit
+        value: "-3.6%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Topix -3.6%"
+      - claim: 10-year JGB yield
+        kind: numerical_with_unit
+        value: "1.43%"
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "10y JGB yield dipped to 1.43%"
+      - claim: Turnover ranking
+        kind: numerical
+        value: third-highest of year
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Turnover third-highest of year"
+      - claim: Declining stock — SoftBank Group
+        kind: named_institution
+        value: SoftBank Group
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "SoftBank Group, Tokyo Electron, Advantest among steepest decliners"
+      - claim: Declining stock — Tokyo Electron
+        kind: named_institution
+        value: Tokyo Electron
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "SoftBank Group, Tokyo Electron, Advantest among steepest decliners"
+      - claim: Declining stock — Advantest
+        kind: named_institution
+        value: Advantest
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "SoftBank Group, Tokyo Electron, Advantest among steepest decliners"
+      - claim: Nikkei 225 index name
+        kind: named_product
+        value: Nikkei 225
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Nikkei 225 fell 3,100+ points (~4.2%) Monday"
+      - claim: Topix index name
+        kind: named_product
+        value: Topix
+        source_urls:
+          - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+        verbatim_excerpt: "Topix -3.6%"
+    quotes: []
+
+  - story_id: yen-near-160-boj-hike-odds
+    category: econ
+    headline_en: Yen near 160 as markets price ~80% odds of BoJ rate hike on June 16
+    lead_url: https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+    hard_facts:
+      - claim: USDJPY exchange rate level
+        kind: numerical_with_unit
+        value: "160.20"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+        verbatim_excerpt: "USDJPY near 160.20 Monday"
+      - claim: Market-implied probability of BoJ hike on June 16
+        kind: numerical_with_unit
+        value: "~80%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+        verbatim_excerpt: "Market pricing ~80% odds of BoJ hike June 16"
+      - claim: BoJ implied terminal rate end-2026
+        kind: numerical_with_unit
+        value: "1.25%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+        verbatim_excerpt: "swaps imply terminal rate 1.25% by end-2026"
+      - claim: BoJ current policy rate
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+        verbatim_excerpt: "swaps imply terminal rate 1.25% by end-2026 (current 0.75%)"
+      - claim: Core CPI ex-fresh-food April reading
+        kind: numerical_with_unit
+        value: "3.4%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+        verbatim_excerpt: "Core CPI ex-fresh-food April 3.4%"
+      - claim: MoF verbal intervention trigger level watching
+        kind: numerical_with_unit
+        value: "162"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+        verbatim_excerpt: "officials watching 162 level"
+      - claim: BoJ next policy meeting date
+        kind: temporal
+        value: June 16
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+        verbatim_excerpt: "Market pricing ~80% odds of BoJ hike June 16"
+      - claim: Ministry of Finance institution
+        kind: named_institution
+        value: MoF
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261951483-nikkei225-semiconductor-selloff-fed-hike-usdjpy-outflow-boj-policy-tradingkey
+        verbatim_excerpt: "MoF refrained from verbal intervention this month"
+    quotes: []
+
+  - story_id: sdf-hormuz-three-conditions-dispatch
+    category: politics
+    headline_en: Japan sets three conditions for SDF deployment to Strait of Hormuz
+    lead_url: https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+    hard_facts:
+      - claim: Number of SDF deployment conditions set
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "Japan set three conditions for SDF deployment to Strait of Hormuz"
+      - claim: Condition 1 — US-Iran ceasefire
+        kind: named_institution
+        value: US-Iran ceasefire
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "(1) US-Iran ceasefire"
+      - claim: Allied ministers meeting co-chairs
+        kind: named_institution
+        value: UK/France
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "virtual allied defense ministers meeting co-chaired by UK/France mid-May"
+      - claim: Date of virtual allied defense ministers meeting
+        kind: temporal
+        value: mid-May
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "virtual allied defense ministers meeting co-chaired by UK/France mid-May"
+      - claim: Share of global oil supply transiting Hormuz
+        kind: numerical_with_unit
+        value: "~20% global oil supply"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "~20% global oil supply disrupted"
+      - claim: Share of Japan's oil imports via Hormuz pre-closure
+        kind: numerical_with_unit
+        value: "~93%"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "~93% of Japan's oil imports transited Hormuz pre-closure"
+      - claim: Strait closure commencement
+        kind: temporal
+        value: late February
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "Strait effectively closed since late February US-Israeli strikes on Iran"
+      - claim: Defense Minister identity
+        kind: named_person
+        value: Shinjiro Koizumi
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "Defense Minister Shinjiro Koizumi presented conditions at virtual allied defense ministers meeting"
+      - claim: SDF unit referenced
+        kind: named_institution
+        value: SDF
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "Japan set three conditions for SDF deployment to Strait of Hormuz"
+      - claim: Geographic location of potential deployment
+        kind: named_product
+        value: Strait of Hormuz
+        source_urls:
+          - https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        verbatim_excerpt: "Japan set three conditions for SDF deployment to Strait of Hormuz"
+    quotes:
+      - speaker_name: unnamed officials
+        speaker_title: Japanese government officials
+        verbatim_en: "does not interpret an SDF dispatch as a hostile action"
+        source_url: https://japantoday.com/category/politics/japan-sets-3-conditions-for-defense-force-dispatch-to-hormuz-source
+        context: Officials statement on Iran's posture toward potential SDF deployment
+
+  - story_id: japan-russia-outreach-g7-summit-concerns
+    category: politics
+    headline_en: Japan's Russia outreach raises concerns among G7 allies ahead of Evian summit
+    lead_url: https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+    hard_facts:
+      - claim: G7 summit dates
+        kind: temporal
+        value: June 15-17
+        source_urls:
+          - https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+        verbatim_excerpt: "G7 summit June 15-17 in Évian-les-Bains, France"
+      - claim: G7 summit location
+        kind: named_institution
+        value: "Évian-les-Bains, France"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+        verbatim_excerpt: "G7 summit June 15-17 in Évian-les-Bains, France"
+      - claim: Japanese PM identity
+        kind: named_person
+        value: Takaichi
+        source_urls:
+          - https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+        verbatim_excerpt: "PM Takaichi to travel to London, Rome, Évian — first G7 as head of government"
+      - claim: PM travel destinations before G7
+        kind: named_institution
+        value: London
+        source_urls:
+          - https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+        verbatim_excerpt: "PM Takaichi to travel to London, Rome, Évian"
+      - claim: PM travel destinations before G7 — Rome
+        kind: named_institution
+        value: Rome
+        source_urls:
+          - https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+        verbatim_excerpt: "PM Takaichi to travel to London, Rome, Évian"
+      - claim: Countries concerned about Japan-Russia track
+        kind: named_institution
+        value: France
+        source_urls:
+          - https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+        verbatim_excerpt: "France and Germany concerned independent Japan-Russia track could complicate unified G7 front"
+      - claim: Countries concerned about Japan-Russia track — Germany
+        kind: named_institution
+        value: Germany
+        source_urls:
+          - https://japantoday.com/category/politics/japan-s-outreach-to-russia-raises-concerns-ahead-of-g7-summit
+        verbatim_excerpt: "France and Germany concerned independent Japan-Russia track could complicate unified G7 front"
+    quotes: []
+
+  - story_id: smear-videos-ldp-election-interference
+    category: politics
+    headline_en: Man admits creating smear videos targeting LDP leadership election rivals of PM Takaichi
+    lead_url: https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election
+    hard_facts:
+      - claim: PM identity questioned in Budget Committee
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election
+        verbatim_excerpt: "videos critical of PM Sanae Takaichi's LDP leadership election rivals"
+      - claim: Date of House Budget Committee questioning
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election
+        verbatim_excerpt: "Takaichi questioned in House Budget Committee June 4"
+      - claim: Political party involved
+        kind: named_institution
+        value: LDP
+        source_urls:
+          - https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election
+        verbatim_excerpt: "videos critical of PM Sanae Takaichi's LDP leadership election rivals"
+      - claim: Media source with audio recordings
+        kind: named_institution
+        value: Weekly Bunshun
+        source_urls:
+          - https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election
+        verbatim_excerpt: "Weekly Bunshun audio recordings"
+      - claim: Legislative body where questioning occurred
+        kind: named_institution
+        value: House Budget Committee
+        source_urls:
+          - https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election
+        verbatim_excerpt: "Takaichi questioned in House Budget Committee June 4"
+    quotes:
+      - speaker_name: Sanae Takaichi
+        speaker_title: Prime Minister of Japan
+        verbatim_en: "she had not verified recordings because she had no intention to become paid subscriber to magazine's online service"
+        source_url: https://japantoday.com/category/politics/man-admits-creating-videos-critical-of-japan-pm-rivals-in-ldp-election
+        context: House Budget Committee testimony, June 4
+
+  - story_id: philippines-m8-2-quake-japan-tsunami-advisory
+    category: society
+    headline_en: M8.2 Philippines earthquake triggers JMA tsunami advisory for Japan's Pacific coast
+    lead_url: https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+    hard_facts:
+      - claim: Earthquake magnitude
+        kind: numerical_with_unit
+        value: "M8.2"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "M8.2 earthquake off Philippines early Monday"
+      - claim: JMA tsunami advisory height warning
+        kind: numerical_with_unit
+        value: "up to 1m"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "JMA warned of tsunami up to 1m"
+      - claim: Earthquake time in JST
+        kind: temporal
+        value: "~8:38 am JST"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "Quake centred Philippine Sea ~8:38 am JST"
+      - claim: Death toll in Philippines
+        kind: numerical_with_unit
+        value: "≥15 killed"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "Philippine authorities reported ≥15 killed and dozens injured in Mindanao"
+      - claim: Affected region in Philippines
+        kind: named_institution
+        value: Mindanao
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "Philippine authorities reported ≥15 killed and dozens injured in Mindanao"
+      - claim: JMA advisory geographic coverage — start
+        kind: named_institution
+        value: Ibaraki
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "JMA tsunami advisory for Pacific coast from Ibaraki to Okinawa"
+      - claim: JMA advisory geographic coverage — end
+        kind: named_institution
+        value: Okinawa
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "JMA tsunami advisory for Pacific coast from Ibaraki to Okinawa"
+      - claim: Philippine President identity
+        kind: named_person
+        value: Marcos Jr
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "President Marcos Jr declared state of calamity"
+      - claim: Japanese meteorological agency
+        kind: named_institution
+        value: JMA
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "JMA tsunami advisory for Pacific coast from Ibaraki to Okinawa"
+      - claim: Japanese response agency
+        kind: named_institution
+        value: Japanese Coast Guard
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines
+        verbatim_excerpt: "Japanese Coast Guard and SDF conducted precautionary maritime surveillance"
+    quotes: []
+
+  - story_id: bear-sighting-94-schools-suspended
+    category: society
+    headline_en: Japanese city suspends 94 schools after first-ever urban bear sighting
+    lead_url: https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+    hard_facts:
+      - claim: Number of schools suspended
+        kind: numerical
+        value: "94"
+        source_urls:
+          - https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+        verbatim_excerpt: "City in Japan suspended 94 schools Monday after Asian black bear (Ursus thibetanus) sighted"
+      - claim: Bear species scientific name
+        kind: named_product
+        value: Ursus thibetanus
+        source_urls:
+          - https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+        verbatim_excerpt: "Asian black bear (Ursus thibetanus) sighted in urban residential zone"
+      - claim: Bear species common name
+        kind: named_product
+        value: Asian black bear
+        source_urls:
+          - https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+        verbatim_excerpt: "Asian black bear (Ursus thibetanus) sighted in urban residential zone"
+      - claim: Environment Ministry white paper date
+        kind: temporal
+        value: June 5
+        source_urls:
+          - https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+        verbatim_excerpt: "Environment Ministry June 5 white paper"
+      - claim: Nationwide bear sightings in fiscal 2025
+        kind: numerical_with_unit
+        value: "exceeded 50,000"
+        source_urls:
+          - https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+        verbatim_excerpt: "bear sightings nationwide exceeded 50,000 in fiscal 2025 — record level"
+      - claim: Fiscal year of record bear sightings
+        kind: temporal
+        value: fiscal 2025
+        source_urls:
+          - https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+        verbatim_excerpt: "bear sightings nationwide exceeded 50,000 in fiscal 2025 — record level"
+      - claim: Government institution issuing white paper
+        kind: named_institution
+        value: Environment Ministry
+        source_urls:
+          - https://www.dailymaverick.co.za/article/2026-06-08-japanese-city-suspends-94-schools-after-first-ever-bear-sighting/
+        verbatim_excerpt: "Environment Ministry June 5 white paper"
+    quotes: []
+
+  - story_id: go-inc-ipo-japan-biggest-2026
+    category: ipo_ma
+    headline_en: Goldman Sachs-backed GO Inc. prices Japan's biggest 2026 IPO at upper end of range
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+    hard_facts:
+      - claim: IPO price per share
+        kind: numerical_with_unit
+        value: "¥2,400/share"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "GO Inc., Goldman Sachs-backed Japanese ride-hailing/taxi-dispatch app, priced IPO at ¥2,400/share"
+      - claim: IPO price range lower bound
+        kind: numerical_with_unit
+        value: "¥2,350"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "top of ¥2,350-2,400 range"
+      - claim: IPO price range upper bound
+        kind: numerical_with_unit
+        value: "¥2,400"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "top of ¥2,350-2,400 range"
+      - claim: IPO proceeds raised in yen
+        kind: numerical_with_unit
+        value: "¥88.6B"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "raising ¥88.6B ($553M)"
+      - claim: IPO proceeds raised in USD
+        kind: numerical_with_unit
+        value: "$553M"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "raising ¥88.6B ($553M)"
+      - claim: Market cap at offer price in yen
+        kind: numerical_with_unit
+        value: "¥186B"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "market cap ¥186B ($1.16B) at offer price"
+      - claim: Market cap at offer price in USD
+        kind: numerical_with_unit
+        value: "$1.16B"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "market cap ¥186B ($1.16B) at offer price"
+      - claim: TSE trading start date
+        kind: temporal
+        value: June 16
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "Shares begin trading TSE June 16"
+      - claim: GO formation year
+        kind: temporal
+        value: "2020"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "GO formed 2020 via merger of JapanTaxi and MOV under Mobility Technologies"
+      - claim: BlackRock stake acquisition target
+        kind: numerical_with_unit
+        value: "~15%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "BlackRock poised to acquire ~15% at/near IPO price per Nikkei Asia"
+      - claim: Platform registered users
+        kind: numerical_with_unit
+        value: "3.1M+"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "Platform: 3.1M+ registered users, 130,000+ vehicles"
+      - claim: Platform registered vehicles
+        kind: numerical_with_unit
+        value: "130,000+"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "Platform: 3.1M+ registered users, 130,000+ vehicles"
+      - claim: Company name — IPO issuer
+        kind: named_institution
+        value: GO Inc.
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "GO Inc., Goldman Sachs-backed Japanese ride-hailing/taxi-dispatch app"
+      - claim: Investor/underwriter — Goldman Sachs
+        kind: named_institution
+        value: Goldman Sachs
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "GO Inc., Goldman Sachs-backed Japanese ride-hailing/taxi-dispatch app"
+      - claim: Investor — DeNA
+        kind: named_institution
+        value: DeNA
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "investors include Goldman Sachs, DeNA"
+      - claim: Potential IPO acquirer — BlackRock
+        kind: named_institution
+        value: BlackRock
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "BlackRock poised to acquire ~15% at/near IPO price per Nikkei Asia"
+      - claim: Merger predecessor company — JapanTaxi
+        kind: named_institution
+        value: JapanTaxi
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "GO formed 2020 via merger of JapanTaxi and MOV under Mobility Technologies"
+      - claim: Merger predecessor company — MOV
+        kind: named_institution
+        value: MOV
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "GO formed 2020 via merger of JapanTaxi and MOV under Mobility Technologies"
+      - claim: Parent/merger entity — Mobility Technologies
+        kind: named_institution
+        value: Mobility Technologies
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "GO formed 2020 via merger of JapanTaxi and MOV under Mobility Technologies"
+      - claim: Exchange for listing
+        kind: named_institution
+        value: TSE
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "Shares begin trading TSE June 16"
+      - claim: Source for BlackRock stake report
+        kind: named_institution
+        value: Nikkei Asia
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/goldman-backed-go-prices-japan-s-biggest-2026-ipo-at-upper-end
+        verbatim_excerpt: "BlackRock poised to acquire ~15% at/near IPO price per Nikkei Asia"
+    quotes: []

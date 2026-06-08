@@ -1,0 +1,1511 @@
+version: 1
+generated_at: 2026-06-08T00:00:00Z
+country: South Korea
+date: 2026-06-08
+total_stories: 13
+stories:
+  - story_id: kospi-plunges-8pct-circuit-breaker-triggered
+    category: econ
+    headline_en: KOSPI Plunges 8.3%, Circuit Breaker Triggered as Global Semiconductor Selloff Hits Korea
+    lead_url: https://www.koreaherald.com/article/10765666
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/amp/economy/20260608/seoul-shares-open-138-lower-on-woes-over-inflation-tech-slump
+      - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+    locked_urls:
+      - https://www.koreaherald.com/article/10765666
+      - https://www.koreatimes.co.kr/amp/economy/20260608/seoul-shares-open-138-lower-on-woes-over-inflation-tech-slump
+      - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+    hard_facts:
+      - claim: KOSPI decline percentage on June 8
+        kind: numerical_with_unit
+        value: "8.37 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "South Korea's benchmark KOSPI index plunged 8.37 percent on Monday June 8"
+      - claim: KOSPI closing level on June 8
+        kind: numerical_with_unit
+        value: "7,477.46"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "closing at 7,477.46"
+      - claim: KOSPI previous session close
+        kind: numerical_with_unit
+        value: "8,160.59"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "a steep decline from the previous session's close of 8,160.59"
+      - claim: KOSPI opening level on June 8
+        kind: numerical_with_unit
+        value: "8,048.09"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "The index opened 1.38 percent lower at 8,048.09"
+      - claim: KOSPI opening decline percentage
+        kind: numerical_with_unit
+        value: "1.38 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "The index opened 1.38 percent lower at 8,048.09"
+      - claim: circuit breaker threshold that halted program trading
+        kind: numerical_with_unit
+        value: "more than 8 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "triggering a Level 1 circuit breaker that halted program trading for 20 minutes after the KOSPI fell more than 8 percent"
+      - claim: circuit breaker halt duration
+        kind: numerical_with_unit
+        value: "20 minutes"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "halted program trading for 20 minutes"
+      - claim: Kosdaq decline percentage on June 8
+        kind: numerical_with_unit
+        value: "9.08 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "which itself fell 9.08 percent to close at 911.39"
+      - claim: Kosdaq closing level on June 8
+        kind: numerical_with_unit
+        value: "911.39"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "fell 9.08 percent to close at 911.39"
+      - claim: number of circuit breaker activations on KOSPI this calendar year
+        kind: numerical
+        value: "third"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "The circuit breaker activation was the third on the KOSPI this calendar year"
+      - claim: total circuit breaker activations since introduction
+        kind: numerical
+        value: "ninth"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "the ninth since circuit breakers were introduced"
+      - claim: Nvidia stock decline on Wall Street
+        kind: numerical_with_unit
+        value: "6.2 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Nvidia fell 6.2 percent"
+      - claim: Broadcom stock decline on Wall Street
+        kind: numerical_with_unit
+        value: "7.92 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Broadcom contracted 7.92 percent"
+      - claim: Micron stock decline on Wall Street
+        kind: numerical_with_unit
+        value: "13.25 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Micron fell 13.25 percent"
+      - claim: Broadcom quarterly AI chip revenue guidance
+        kind: numerical_with_unit
+        value: "$16 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Broadcom's quarterly AI chip revenue guidance of $16 billion fell short of market expectations"
+      - claim: Nasdaq Composite decline
+        kind: numerical_with_unit
+        value: "4.18 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "The Nasdaq Composite fell 4.18 percent"
+      - claim: S&P 500 decline
+        kind: numerical_with_unit
+        value: "2.64 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "the S&P 500 declined 2.64 percent"
+      - claim: Samsung Electronics stock decline
+        kind: numerical_with_unit
+        value: "9.27 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Samsung Electronics tumbled 9.27 percent to 298,500 won"
+      - claim: Samsung Electronics closing price
+        kind: numerical_with_unit
+        value: "298,500 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Samsung Electronics tumbled 9.27 percent to 298,500 won"
+      - claim: SK hynix stock decline
+        kind: numerical_with_unit
+        value: "8.02 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "SK hynix dropped 8.02 percent to 1.9 million won"
+      - claim: SK hynix closing price
+        kind: numerical_with_unit
+        value: "1.9 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "SK hynix dropped 8.02 percent to 1.9 million won"
+      - claim: SK Square stock decline
+        kind: numerical_with_unit
+        value: "11.13 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "SK Square fell 11.13 percent to 1.11 million won"
+      - claim: SK Square closing price
+        kind: numerical_with_unit
+        value: "1.11 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "SK Square fell 11.13 percent to 1.11 million won"
+      - claim: Hyundai Motor stock decline
+        kind: numerical_with_unit
+        value: "9.86 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Hyundai Motor dropped 9.86 percent to 631,000 won"
+      - claim: Hyundai Motor closing price
+        kind: numerical_with_unit
+        value: "631,000 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Hyundai Motor dropped 9.86 percent to 631,000 won"
+      - claim: Naver stock gain
+        kind: numerical_with_unit
+        value: "12.33 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Naver, which surged 12.33 percent on news of its partnership with Nvidia"
+      - claim: foreign investor net selling on June 8
+        kind: numerical_with_unit
+        value: "352.7 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Foreign investors were net sellers of 352.7 billion won ($227.3 million)"
+      - claim: foreign investor net selling in USD on June 8
+        kind: numerical_with_unit
+        value: "$227.3 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Foreign investors were net sellers of 352.7 billion won ($227.3 million)"
+      - claim: retail investor net buying on June 8
+        kind: numerical_with_unit
+        value: "247.5 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "retail investors purchased a net 247.5 billion won"
+      - claim: institutional investor net buying on June 8
+        kind: numerical_with_unit
+        value: "112.8 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "institutional investors net bought 112.8 billion won"
+      - claim: date of session
+        kind: temporal
+        value: "Monday June 8"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "South Korea's benchmark KOSPI index plunged 8.37 percent on Monday June 8"
+      - claim: named person — analyst at Hyundai Motor Securities
+        kind: named_person
+        value: "Kim Joong-won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Kim Joong-won, analyst, Hyundai Motor Securities"
+      - claim: named person — analyst at DS Investment & Securities
+        kind: named_person
+        value: "Yang Hyeong-mo"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Yang Hyeong-mo, analyst, DS Investment & Securities"
+      - claim: named institution — Hyundai Motor Securities
+        kind: named_institution
+        value: "Hyundai Motor Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Kim Joong-won, analyst, Hyundai Motor Securities"
+      - claim: named institution — DS Investment & Securities
+        kind: named_institution
+        value: "DS Investment & Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Yang Hyeong-mo, analyst, DS Investment & Securities"
+      - claim: named product — HBM4 supply chains
+        kind: named_product
+        value: "HBM4"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "including the expansion of HBM4 supply chains"
+      - claim: Wall Street semiconductor worst single-day drop reference date
+        kind: temporal
+        value: "March 2020"
+        source_urls:
+          - https://www.koreaherald.com/article/10765666
+        verbatim_excerpt: "Wall Street's worst single-day drop for semiconductor shares since March 2020"
+    quotes:
+      - speaker_name: Kim Joong-won
+        speaker_title: Analyst, Hyundai Motor Securities
+        verbatim_en: "Key growth drivers for the industry remain firmly in place, including the expansion of HBM4 supply chains and anticipated shipments of next-generation high-performance GPUs."
+        source_url: https://www.koreaherald.com/article/10765666
+        context: commentary on KOSPI selloff on June 8, 2026
+      - speaker_name: Yang Hyeong-mo
+        speaker_title: Analyst, DS Investment & Securities
+        verbatim_en: "Concerns are growing that valuations have already priced in much of the rosy outlook, leaving the market vulnerable."
+        source_url: https://www.koreaherald.com/article/10765666
+        context: commentary on KOSPI selloff on June 8, 2026
+
+  - story_id: won-hits-17yr-low-bok-verbal-intervention
+    category: econ
+    headline_en: South Korean Won Hits 17-Year Low; BOK and Finance Ministry Issue Joint Verbal Intervention
+    lead_url: https://www.koreaherald.com/article/10766037
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/amp/economy/20260608/seoul-shares-open-138-lower-on-woes-over-inflation-tech-slump
+    locked_urls:
+      - https://www.koreaherald.com/article/10766037
+      - https://www.koreatimes.co.kr/amp/economy/20260608/seoul-shares-open-138-lower-on-woes-over-inflation-tech-slump
+    hard_facts:
+      - claim: Korean won onshore rate on June 8
+        kind: numerical_with_unit
+        value: "1,555.2 per dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "the Korean won weakened to 1,555.2 per dollar in onshore trading"
+      - claim: reference date for previous comparable won level
+        kind: temporal
+        value: "March 6, 2009"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "its weakest level since March 6, 2009, when the won opened at 1,590 per dollar during the global financial crisis"
+      - claim: won level during global financial crisis reference
+        kind: numerical_with_unit
+        value: "1,590 per dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "when the won opened at 1,590 per dollar during the global financial crisis"
+      - claim: won decline against dollar from Friday close
+        kind: numerical_with_unit
+        value: "16.1 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "The won fell 16.1 won against the dollar from Friday's close"
+      - claim: won intraday low during overnight Saturday trading
+        kind: numerical_with_unit
+        value: "1,561.5 per dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "touching an intraday low of 1,561.5 per dollar"
+      - claim: won threshold breached for first time in 17+ years
+        kind: numerical_with_unit
+        value: "1,560-per-dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "had already breached the 1,560-per-dollar mark, touching an intraday low of 1,561.5 per dollar — the first time that threshold had been crossed in more than 17 years"
+      - claim: period since 1,560 threshold was last crossed
+        kind: temporal
+        value: "more than 17 years"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "the first time that threshold had been crossed in more than 17 years"
+      - claim: offshore investors' net selling of Korean shares on Friday
+        kind: numerical_with_unit
+        value: "3.52 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "Offshore investors dumped 3.52 trillion won of Korean shares during Friday's session alone"
+      - claim: named person — BOK Director General International Department
+        kind: named_person
+        value: "Yoon Kyoung-soo"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "Yoon Kyoung-soo, Director General of the International Department at the Bank of Korea"
+      - claim: named person — Finance Ministry Director General International Finance
+        kind: named_person
+        value: "Lee Hyung-ryul"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "Lee Hyung-ryul, Director General of International Finance at the Finance Ministry"
+      - claim: named person — analyst at Korea Investment & Securities
+        kind: named_person
+        value: "Moon Da-woon"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "Moon Da-woon, Analyst, Korea Investment & Securities"
+      - claim: named institution — Bank of Korea
+        kind: named_institution
+        value: "Bank of Korea"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "Director General of the International Department at the Bank of Korea"
+      - claim: named institution — Finance Ministry
+        kind: named_institution
+        value: "Finance Ministry"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "Lee Hyung-ryul, Director General of International Finance at the Finance Ministry"
+      - claim: named institution — Korea Investment & Securities
+        kind: named_institution
+        value: "Korea Investment & Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "Moon Da-woon, Analyst, Korea Investment & Securities"
+      - claim: date of joint verbal warning
+        kind: temporal
+        value: "Monday June 8, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10766037
+        verbatim_excerpt: "South Korea's financial authorities issued a joint verbal warning on Monday June 8, 2026"
+    quotes:
+      - speaker_name: Yoon Kyoung-soo
+        speaker_title: Director General of the International Department, Bank of Korea
+        verbatim_en: "Recent volatility in the forex market appears to have been amplified not only by supply and demand factors but also by speculative foreign exchange transactions, including those in the non-deliverable forward market. We will not tolerate excessive volatility or one-sided market movements that are inconsistent with economic fundamentals and will strongly respond to such developments."
+        source_url: https://www.koreaherald.com/article/10766037
+        context: joint statement with Finance Ministry on June 8, 2026
+      - speaker_name: Moon Da-woon
+        speaker_title: Analyst, Korea Investment & Securities
+        verbatim_en: "Exchange rates can be particularly volatile because expectations of further depreciation of the won often lead to one-way dollar buying."
+        source_url: https://www.koreaherald.com/article/10766037
+        context: commentary on KRW depreciation on June 8, 2026
+
+  - story_id: kospi-60pct-gain-from-april-peak-cycle-risk
+    category: econ
+    headline_en: Korea's KOSPI Had Logged 60% Gain from April — Analysts Warn Semiconductor Peak-Cycle Risk
+    lead_url: https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10766152
+    locked_urls:
+      - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+      - https://www.koreaherald.com/article/10766152
+    hard_facts:
+      - claim: KOSPI decline percentage on June 8
+        kind: numerical_with_unit
+        value: "8.29 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "South Korea's KOSPI fell 8.29 percent on June 8 to close at 7,484.41"
+      - claim: KOSPI closing level on June 8 (Korea Times figure)
+        kind: numerical_with_unit
+        value: "7,484.41"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "KOSPI fell 8.29 percent on June 8 to close at 7,484.41, down 676.18 points"
+      - claim: KOSPI point decline on June 8
+        kind: numerical_with_unit
+        value: "676.18 points"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "down 676.18 points"
+      - claim: KOSPI gain from early-April low
+        kind: numerical_with_unit
+        value: "more than 60 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "the KOSPI had climbed more than 60 percent from its early-April low"
+      - claim: KOSPI all-time intraday high
+        kind: numerical_with_unit
+        value: "8,933.62"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "reaching an all-time intraday high of 8,933.62 on June 2"
+      - claim: date of KOSPI all-time intraday high
+        kind: temporal
+        value: "June 2"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "reaching an all-time intraday high of 8,933.62 on June 2"
+      - claim: Kosdaq decline percentage on June 8
+        kind: numerical_with_unit
+        value: "9.08 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "The Kosdaq fell 9.08 percent to 911.39"
+      - claim: Kosdaq closing level on June 8
+        kind: numerical_with_unit
+        value: "911.39"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "The Kosdaq fell 9.08 percent to 911.39"
+      - claim: Samsung Electronics stock decline
+        kind: numerical_with_unit
+        value: "9.27 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "Samsung Electronics fell 9.27 percent to 298,500 won"
+      - claim: Samsung Electronics closing price
+        kind: numerical_with_unit
+        value: "298,500 won"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "Samsung Electronics fell 9.27 percent to 298,500 won"
+      - claim: SK hynix stock decline
+        kind: numerical_with_unit
+        value: "8.02 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "SK hynix dropped 8.02 percent to 1.9 million won"
+      - claim: SK hynix closing price
+        kind: numerical_with_unit
+        value: "1.9 million won"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "SK hynix dropped 8.02 percent to 1.9 million won"
+      - claim: SK Square stock decline
+        kind: numerical_with_unit
+        value: "11.13 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "SK Square tumbled 11.13 percent to 1.118 million won"
+      - claim: SK Square closing price (Korea Times figure)
+        kind: numerical_with_unit
+        value: "1.118 million won"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "SK Square tumbled 11.13 percent to 1.118 million won"
+      - claim: Hyundai Motor stock decline
+        kind: numerical_with_unit
+        value: "9.86 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "Hyundai Motor declined 9.86 percent"
+      - claim: Korean won level on June 8
+        kind: numerical_with_unit
+        value: "1,555.2 won per dollar"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "The Korean won weakened to 1,555.2 won per dollar, its worst level in 17 years and 3 months"
+      - claim: duration of won weakness record
+        kind: temporal
+        value: "17 years and 3 months"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "its worst level in 17 years and 3 months"
+      - claim: Broadcom quarterly AI chip revenue guidance
+        kind: numerical_with_unit
+        value: "$16 billion"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "Broadcom's AI chip revenue guidance of $16 billion for the next quarter missed analyst expectations"
+      - claim: named person — analyst at Hyundai Motor Securities
+        kind: named_person
+        value: "Kim Joong-won"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "Kim Joong-won, analyst, Hyundai Motor Securities"
+      - claim: named institution — Hyundai Motor Securities
+        kind: named_institution
+        value: "Hyundai Motor Securities"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        verbatim_excerpt: "Kim Joong-won, analyst, Hyundai Motor Securities"
+    quotes:
+      - speaker_name: Kim Joong-won
+        speaker_title: Analyst, Hyundai Motor Securities
+        verbatim_en: "Key growth drivers for the industry remain firmly in place, including the expansion of HBM4 supply chains and anticipated shipments of next-generation high-performance GPUs."
+        source_url: https://www.koreatimes.co.kr/economy/others/20260608/kospi-plunges-8-on-concerns-over-end-of-chip-earnings-cycle-interest-rate-hike
+        context: commentary on KOSPI selloff on June 8, 2026
+
+  - story_id: lee-inauguration-anniversary-cabinet-reset
+    category: politics
+    headline_en: President Lee Marks Inauguration Anniversary with 'Irreplaceable Korea' Vision, Announces Cabinet Reset
+    lead_url: https://www.koreaherald.com/article/10765867
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10765949
+      - https://www.koreaherald.com/article/10765894
+      - https://www.koreaherald.com/article/10765896
+    locked_urls:
+      - https://www.koreaherald.com/article/10765867
+      - https://www.koreaherald.com/article/10765949
+      - https://www.koreaherald.com/article/10765894
+      - https://www.koreaherald.com/article/10765896
+    hard_facts:
+      - claim: date of press conference
+        kind: temporal
+        value: "Monday June 8, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10765867
+        verbatim_excerpt: "President Lee Jae Myung held a press conference on Monday June 8, 2026"
+      - claim: venue of press conference
+        kind: named_institution
+        value: "Cheong Wa Dae Yeongbingwan guesthouse"
+        source_urls:
+          - https://www.koreaherald.com/article/10765867
+        verbatim_excerpt: "at the Cheong Wa Dae Yeongbingwan guesthouse in Seoul"
+      - claim: press conference sequence number
+        kind: numerical
+        value: "fourth"
+        source_urls:
+          - https://www.koreaherald.com/article/10765867
+        verbatim_excerpt: "Described as his fourth press conference since taking office"
+      - claim: named person — President of South Korea
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10765867
+        verbatim_excerpt: "President Lee Jae Myung held a press conference"
+      - claim: named person — PM nominee
+        kind: named_person
+        value: "Han Seong-sook"
+        source_urls:
+          - https://www.koreaherald.com/article/10765867
+        verbatim_excerpt: "with the appointment of PM nominee Han Seong-sook as the centerpiece"
+      - claim: event anniversary marked
+        kind: temporal
+        value: "first anniversary of his inauguration"
+        source_urls:
+          - https://www.koreaherald.com/article/10765867
+        verbatim_excerpt: "marking the first anniversary of his inauguration"
+      - claim: event slogan
+        kind: named_product
+        value: "The Irreplaceable Republic of Korea"
+        source_urls:
+          - https://www.koreaherald.com/article/10765867
+        verbatim_excerpt: "The slogan for the event was \"The Irreplaceable Republic of Korea.\""
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "I will make this year the beginning of a bold dream for an irreplaceable Republic of Korea."
+        source_url: https://www.koreaherald.com/article/10765867
+        context: first-anniversary press conference on June 8, 2026
+
+  - story_id: pm-nominee-han-seong-sook-second-female-pm
+    category: politics
+    headline_en: PM Nominee Han Seong-sook Tapped as South Korea's Second-Ever Female Prime Minister
+    lead_url: https://www.koreaherald.com/article/10765760
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10766088
+      - https://www.koreatimes.co.kr/southkorea/politics/20260608/pm-nominee-vows-to-put-top-priority-on-improving-peoples-livelihoods
+    locked_urls:
+      - https://www.koreaherald.com/article/10765760
+      - https://www.koreaherald.com/article/10766088
+      - https://www.koreatimes.co.kr/southkorea/politics/20260608/pm-nominee-vows-to-put-top-priority-on-improving-peoples-livelihoods
+    hard_facts:
+      - claim: named person — PM nominee
+        kind: named_person
+        value: "Han Seong-sook"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "President Lee Jae Myung on Sunday designated Han Seong-sook, 59, as nominee for Prime Minister"
+      - claim: age of PM nominee
+        kind: numerical_with_unit
+        value: "59"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "designated Han Seong-sook, 59, as nominee for Prime Minister"
+      - claim: named person — outgoing PM
+        kind: named_person
+        value: "Kim Min-seok"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "to succeed outgoing PM Kim Min-seok"
+      - claim: Han Seong-sook university graduation
+        kind: named_institution
+        value: "Sookmyung Women's University"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "Han graduated from Sookmyung Women's University in 1989"
+      - claim: Han Seong-sook graduation year
+        kind: temporal
+        value: "1989"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "Han graduated from Sookmyung Women's University in 1989"
+      - claim: Han Seong-sook joined Naver year
+        kind: temporal
+        value: "2007"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "joined Naver in 2007"
+      - claim: Han Seong-sook became Naver's first female CEO year
+        kind: temporal
+        value: "2017"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "becoming its first female chief executive in 2017"
+      - claim: Han Seong-sook Naver CEO tenure end year
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "a position she held until 2022"
+      - claim: Han Seong-sook role since July 2025
+        kind: temporal
+        value: "July 2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "has served as the Lee administration's first minister of startups and SMEs since July 2025"
+      - claim: previous female PM reference — Han Myeong-sook
+        kind: named_person
+        value: "Han Myeong-sook"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "South Korea's second female prime minister since Han Myeong-sook, who served from 2006 to 2007"
+      - claim: Han Myeong-sook tenure as PM
+        kind: temporal
+        value: "2006 to 2007"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "Han Myeong-sook, who served from 2006 to 2007"
+      - claim: named institution — Naver
+        kind: named_institution
+        value: "Naver"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "joined Naver in 2007, becoming its first female chief executive"
+      - claim: date designation announced
+        kind: temporal
+        value: "Sunday"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "President Lee Jae Myung on Sunday designated Han Seong-sook"
+      - claim: outgoing PM's plan after resignation
+        kind: named_institution
+        value: "Democratic Party"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "stepping down to prepare a run for the leadership of the ruling Democratic Party"
+      - claim: Democratic Party convention timing
+        kind: temporal
+        value: "August or September"
+        source_urls:
+          - https://www.koreaherald.com/article/10765760
+        verbatim_excerpt: "at its convention in August or September"
+    quotes:
+      - speaker_name: Han Seong-sook
+        speaker_title: Prime Minister nominee of South Korea
+        verbatim_en: "If I'm given the heavy responsibility of prime minister, I will devote all my energy to resolving the emergency situation in people's livelihoods."
+        source_url: https://www.koreaherald.com/article/10765760
+        context: remarks to reporters at confirmation hearing preparation office in Seoul, June 8, 2026
+      - speaker_name: Han Seong-sook
+        speaker_title: Prime Minister nominee of South Korea
+        verbatim_en: "At a time when artificial intelligence accelerates the industrial reorganization... I will put spurs to the grand AI transition."
+        source_url: https://www.koreaherald.com/article/10765760
+        context: remarks to reporters at confirmation hearing preparation office in Seoul, June 8, 2026
+
+  - story_id: nec-probe-reform-june3-ballot-shortage
+    category: politics
+    headline_en: South Korea's National Election Commission Faces Probe and Reform Push Over June 3 Ballot Shortage
+    lead_url: https://www.koreaherald.com/article/10766239
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+    locked_urls:
+      - https://www.koreaherald.com/article/10766239
+      - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+    hard_facts:
+      - claim: date of ballot shortage elections
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "ballot shortages during the June 3 local and parliamentary by-elections"
+      - claim: ballot preparation rate at affected stations
+        kind: numerical_with_unit
+        value: "50 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "it had prepared ballots equivalent to only 50 percent of eligible voters at affected stations"
+      - claim: NEC budget standard for ballot preparation
+        kind: numerical_with_unit
+        value: "1.1 times"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "having secured budget for 1.1 times the number of registered voters"
+      - claim: number of civic groups filing formal complaints
+        kind: numerical
+        value: "Seven"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "Seven civic groups filed formal complaints against the NEC"
+      - claim: named person — NEC Chair who offered resignation
+        kind: named_person
+        value: "Rho Tae-ak"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "NEC Chair Rho Tae-ak had earlier offered to resign"
+      - claim: named person — Independent Representative
+        kind: named_person
+        value: "Han Dong-hoon"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "Independent Representative Han Dong-hoon stated"
+      - claim: named institution — National Election Commission
+        kind: named_institution
+        value: "National Election Commission"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "South Korea's National Election Commission faced growing calls"
+      - claim: named institution — People Power Party
+        kind: named_institution
+        value: "People Power Party"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "The People Power Party, the main opposition, renewed demands for a partial re-election in Seoul"
+      - claim: date of probe announcement
+        kind: temporal
+        value: "Monday June 8"
+        source_urls:
+          - https://www.koreaherald.com/article/10766239
+        verbatim_excerpt: "police began investigating complaints against NEC officials following unprecedented ballot shortages"
+    quotes:
+      - speaker_name: Han Dong-hoon
+        speaker_title: Independent Representative, National Assembly of South Korea
+        verbatim_en: "Election management should not be 'as fair as possible' but '100 percent fair.'"
+        source_url: https://www.koreaherald.com/article/10766239
+        context: statement on NEC ballot shortage crisis, June 8, 2026
+
+  - story_id: lee-denuclearization-long-term-no-own-nukes
+    category: politics
+    headline_en: Lee Calls Denuclearization a Long-Term Goal, Rules Out South Korea's Own Nuclear Armament
+    lead_url: https://www.koreaherald.com/article/10766073
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10766231
+    locked_urls:
+      - https://www.koreaherald.com/article/10766073
+      - https://www.koreaherald.com/article/10766231
+    hard_facts:
+      - claim: date of press conference statement on nuclear policy
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "President Lee Jae Myung used his first-anniversary press conference on June 8, 2026"
+      - claim: estimated North Korea nuclear material production rate (low)
+        kind: numerical_with_unit
+        value: "10 to 15"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "Lee estimated North Korea is currently producing enough nuclear material for approximately 10 to 15, possibly up to 20 nuclear weapons annually"
+      - claim: estimated North Korea nuclear material production rate (high)
+        kind: numerical_with_unit
+        value: "up to 20 nuclear weapons annually"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "possibly up to 20 nuclear weapons annually"
+      - claim: named person — President of South Korea
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "President Lee Jae Myung used his first-anniversary press conference"
+      - claim: named person — Japanese PM referenced
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "discussed with Japanese Prime Minister Sanae Takaichi at their May 19 Andong summit"
+      - claim: date of Andong summit with Japan PM
+        kind: temporal
+        value: "May 19"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "discussed with Japanese Prime Minister Sanae Takaichi at their May 19 Andong summit"
+      - claim: location of summit with Japan PM
+        kind: named_institution
+        value: "Andong summit"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "their May 19 Andong summit"
+      - claim: named product — ACSA agreement discussed
+        kind: named_product
+        value: "Acquisition and Cross-Servicing Agreement (ACSA)"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "the Acquisition and Cross-Servicing Agreement (ACSA) discussed with Japanese Prime Minister Sanae Takaichi"
+      - claim: Japan colonial occupation period referenced
+        kind: temporal
+        value: "1910-1945"
+        source_urls:
+          - https://www.koreaherald.com/article/10766073
+        verbatim_excerpt: "Tokyo to offer a \"sincere\" apology for Japan's 1910-1945 colonial occupation of Korea"
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "Unfortunately, North Korea is producing nuclear materials even at this moment."
+        source_url: https://www.koreaherald.com/article/10766073
+        context: first-anniversary press conference on June 8, 2026
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "If South Korea armed itself with nuclear weapons, would Japan just stay still? Would Taiwan just stay still? Would East Asia just stay still?"
+        source_url: https://www.koreaherald.com/article/10766073
+        context: first-anniversary press conference on June 8, 2026
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "We need to be realistic... set short-, medium- and long-term goals and engage in actual dialogue."
+        source_url: https://www.koreaherald.com/article/10766073
+        context: first-anniversary press conference on June 8, 2026
+
+  - story_id: naver-nvidia-gigawatt-ai-cloud-partnership
+    category: tech
+    headline_en: Naver and Nvidia Announce Gigawatt-Scale AI Cloud Partnership Rooted in Korea, Targeting Global Sovereign AI
+    lead_url: https://www.koreaherald.com/article/10765602
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10765876
+    locked_urls:
+      - https://www.koreaherald.com/article/10765602
+      - https://www.koreaherald.com/article/10765876
+    hard_facts:
+      - claim: date of partnership announcement
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "Naver Corp. and Nvidia Corp. announced on June 8, 2026"
+      - claim: named institution — Naver Corp.
+        kind: named_institution
+        value: "Naver Corp."
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "South Korean internet giant Naver Corp. and Nvidia Corp. announced"
+      - claim: named institution — Nvidia Corp.
+        kind: named_institution
+        value: "Nvidia Corp."
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "Naver Corp. and Nvidia Corp. announced"
+      - claim: data center location
+        kind: named_institution
+        value: "Gak Sejong data center"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "Naver's Gak Sejong data center in Sejong, central Korea"
+      - claim: data center city location
+        kind: named_institution
+        value: "Sejong, central Korea"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "Naver's Gak Sejong data center in Sejong, central Korea"
+      - claim: initial data center capacity targeted for H1 2027
+        kind: numerical_with_unit
+        value: "55 megawatts"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "with an initial capacity of 55 megawatts targeted for H1 2027"
+      - claim: target date for initial capacity
+        kind: temporal
+        value: "H1 2027"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "an initial capacity of 55 megawatts targeted for H1 2027"
+      - claim: scaling target for later 2027
+        kind: numerical_with_unit
+        value: "100 MW"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "scaling to 100 MW later in 2027"
+      - claim: scaling target for 2028
+        kind: numerical_with_unit
+        value: "200 MW"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "200 MW by 2028"
+      - claim: long-term vision capacity
+        kind: named_product
+        value: "gigawatt-scale"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "with a long-term vision of reaching gigawatt-scale"
+      - claim: current maximum capacity of Gak Sejong facility (fraction)
+        kind: numerical
+        value: "four times"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "roughly four times the current maximum capacity of the Gak Sejong facility"
+      - claim: named product — Nvidia DSX platform
+        kind: named_product
+        value: "DSX platform"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "Nvidia will deploy its DSX platform at the expanded data center"
+      - claim: named product — Seoul World Model
+        kind: named_product
+        value: "Seoul World Model"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "The collaboration also covers a \"Seoul World Model\""
+      - claim: named product — Nvidia Cosmos world foundation models
+        kind: named_product
+        value: "Cosmos world foundation models"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "with Nvidia's Cosmos world foundation models"
+      - claim: named institution — Nvidia Nemotron Coalition membership count
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "which includes 12 global AI firms"
+      - claim: named institution — Nvidia Nemotron Coalition
+        kind: named_institution
+        value: "Nvidia's Nemotron Coalition"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "Naver recently became the first Korean company to join Nvidia's Nemotron Coalition"
+      - claim: named person — Nvidia CEO
+        kind: named_person
+        value: "Jensen Huang"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "Nvidia CEO Jensen Huang said"
+      - claim: named person — Naver Chairman
+        kind: named_person
+        value: "Lee Hae-jin"
+        source_urls:
+          - https://www.koreaherald.com/article/10765602
+        verbatim_excerpt: "Naver Chairman Lee Hae-jin stated"
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia
+        verbatim_en: "Naver's partnership with Nvidia goes beyond a technical one, into a partnership that spans every stage of the value chain."
+        source_url: https://www.koreaherald.com/article/10765602
+        context: Naver-Nvidia partnership announcement on June 8, 2026
+      - speaker_name: Lee Hae-jin
+        speaker_title: Chairman, Naver
+        verbatim_en: "We are very encouraged that this alliance will enable us to present a concrete option for regions and countries around the world to build independent sovereign AI capabilities."
+        source_url: https://www.koreaherald.com/article/10765602
+        context: Naver-Nvidia partnership announcement on June 8, 2026
+
+  - story_id: nvidia-sk-hynix-multiyear-ai-memory-deal
+    category: tech
+    headline_en: Nvidia and SK Hynix Sign Multiyear Deal for Next-Generation AI Factory Memory Technologies
+    lead_url: https://www.koreaherald.com/article/10765670
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10765670
+    hard_facts:
+      - claim: date of partnership announcement
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "South Korea's SK hynix and US chipmaker Nvidia announced on June 8, 2026"
+      - claim: named institution — SK hynix
+        kind: named_institution
+        value: "SK hynix"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "South Korea's SK hynix and US chipmaker Nvidia announced"
+      - claim: named institution — Nvidia
+        kind: named_institution
+        value: "Nvidia"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "US chipmaker Nvidia announced on June 8, 2026, a multiyear technology partnership"
+      - claim: named product — HBM4 chips
+        kind: named_product
+        value: "HBM4"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "The deal covers the development and supply roadmap for HBM4 (High Bandwidth Memory generation 4) chips"
+      - claim: named institution — Samsung Electronics as HBM4 supplier
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "alongside memory contributions from Samsung Electronics and Micron Technology"
+      - claim: named institution — Micron Technology as HBM4 supplier
+        kind: named_institution
+        value: "Micron Technology"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "alongside memory contributions from Samsung Electronics and Micron Technology"
+      - claim: named product — Vera Rubin AI platform
+        kind: named_product
+        value: "Vera Rubin"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "the full production ramp of Vera Rubin, Nvidia's next-generation flagship AI platform"
+      - claim: Vera Rubin delivery schedule
+        kind: temporal
+        value: "Q3 delivery scheduled"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "with Q3 delivery scheduled"
+      - claim: named person — Nvidia CEO
+        kind: named_person
+        value: "Jensen Huang"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "Nvidia CEO Jensen Huang, meeting with SK Group Chairman Chey Tae-won in Seoul"
+      - claim: named person — SK Group Chairman
+        kind: named_person
+        value: "Chey Tae-won"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "meeting with SK Group Chairman Chey Tae-won in Seoul"
+      - claim: named institution — SK Group
+        kind: named_institution
+        value: "SK Group"
+        source_urls:
+          - https://www.koreaherald.com/article/10765670
+        verbatim_excerpt: "SK Group Chairman Chey Tae-won"
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia
+        verbatim_en: "We are in the beginning of the AI revolution."
+        source_url: https://www.koreaherald.com/article/10765670
+        context: meeting with SK Group Chairman Chey Tae-won in Seoul, June 8, 2026
+      - speaker_name: Chey Tae-won
+        speaker_title: Chairman, SK Group
+        verbatim_en: "Most of our cooperation so far has centered on memory, but from now on we will elevate our partnership to a higher level."
+        source_url: https://www.koreaherald.com/article/10765670
+        context: meeting with Nvidia CEO Jensen Huang in Seoul, June 8, 2026
+
+  - story_id: nvidia-ceo-jensen-huang-packed-seoul-visit
+    category: tech
+    headline_en: Nvidia CEO Jensen Huang Begins Packed Seoul Visit, Meeting Korea's Top Tech and Business Leaders
+    lead_url: https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10764331
+    locked_urls:
+      - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+      - https://www.koreaherald.com/article/10764331
+    hard_facts:
+      - claim: Huang arrival day in Seoul
+        kind: temporal
+        value: "Friday afternoon"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "Nvidia founder and CEO Jensen Huang arrived in Seoul on Friday afternoon"
+      - claim: named person — Nvidia CEO
+        kind: named_person
+        value: "Jensen Huang"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "Nvidia founder and CEO Jensen Huang arrived in Seoul on Friday afternoon"
+      - claim: dining venue visited
+        kind: named_institution
+        value: "Hyeongnim Jeoyo in Mapo-gu"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "Huang dined at Hyeongnim Jeoyo in Mapo-gu"
+      - claim: named person — SK Group Chairman attending dinner
+        kind: named_person
+        value: "Chey Tae-won"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "with SK Group Chairman Chey Tae-won, LG Group Chairman Koo Kwang-mo, and Naver Chairman Lee Hae-jin"
+      - claim: named person — LG Group Chairman attending dinner
+        kind: named_person
+        value: "Koo Kwang-mo"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "LG Group Chairman Koo Kwang-mo"
+      - claim: named person — Naver Chairman attending dinner
+        kind: named_person
+        value: "Lee Hae-jin"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "Naver Chairman Lee Hae-jin"
+      - claim: named institution — T1 Base Camp esports facility visited
+        kind: named_institution
+        value: "T1 Base Camp"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "He visited T1 Base Camp esports facility"
+      - claim: named person — League of Legends player met
+        kind: named_person
+        value: "Lee \"Faker\" Sang-hyeok"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "meeting League of Legends player Lee \"Faker\" Sang-hyeok"
+      - claim: named person — Doosan Group Chairman met
+        kind: named_person
+        value: "Park Jeong-won"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "Huang also met Doosan Group Chairman Park Jeong-won"
+      - claim: named person — Minister of Science and ICT met
+        kind: named_person
+        value: "Bae Kyung-hoon"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "Bae Kyung-hoon, Minister of Science and ICT"
+      - claim: named institution — Doosan Group
+        kind: named_institution
+        value: "Doosan Group"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "Doosan Group Chairman Park Jeong-won"
+      - claim: named institution — SK Group
+        kind: named_institution
+        value: "SK Group"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "SK Group Chairman Chey Tae-won"
+      - claim: named institution — LG Group
+        kind: named_institution
+        value: "LG Group"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        verbatim_excerpt: "LG Group Chairman Koo Kwang-mo"
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: CEO and founder, Nvidia
+        verbatim_en: "Korea is doing very well, my partners in Korea are very important to me."
+        source_url: https://www.koreatimes.co.kr/lifestyle/travel-food/20260608/where-nvidia-ceo-jensen-huang-ate-during-3-day-seoul-visit
+        context: remarks to reporters during Seoul visit, June 8, 2026
+
+  - story_id: election-ballot-shortage-protests-fourth-day
+    category: society
+    headline_en: Election Ballot Shortage Protests Enter Fourth Straight Day Outside Seoul Vote-Counting Facility
+    lead_url: https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10766239
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+      - https://www.koreaherald.com/article/10766239
+    hard_facts:
+      - claim: protest duration at time of report
+        kind: temporal
+        value: "fourth consecutive day"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "Protesters rallied for a fourth consecutive day on Monday June 8, 2026"
+      - claim: date of protest
+        kind: temporal
+        value: "Monday June 8, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "Protesters rallied for a fourth consecutive day on Monday June 8, 2026"
+      - claim: venue of protest
+        kind: named_institution
+        value: "SK Olympic Handball Gymnasium in Songpa Ward, Seoul"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "outside the SK Olympic Handball Gymnasium in Songpa Ward, Seoul"
+      - claim: protester count as of 11:35 a.m.
+        kind: numerical_with_unit
+        value: "approximately 1,600"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "drew approximately 1,600 protesters as of 11:35 a.m."
+      - claim: time of protester count
+        kind: temporal
+        value: "11:35 a.m."
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "approximately 1,600 protesters as of 11:35 a.m."
+      - claim: peak crowd count from previous night
+        kind: numerical_with_unit
+        value: "roughly 8,000"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "down from roughly 8,000 gathered around midnight Sunday"
+      - claim: earlier Monday morning crowd count
+        kind: numerical_with_unit
+        value: "950"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "up from 950 counted earlier Monday morning"
+      - claim: number of entrances to gymnasium encircled at peak
+        kind: numerical
+        value: "10"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "the crowd had encircled all 10 entrances to the gymnasium"
+      - claim: number of police personnel deployed
+        kind: numerical_with_unit
+        value: "About 350"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "About 350 police personnel were deployed"
+      - claim: number of polling stations where voting was suspended on election day
+        kind: numerical
+        value: "22"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "Voting had been suspended at 22 polling stations in Seoul on election day"
+      - claim: ballot preparation rate at affected stations
+        kind: numerical_with_unit
+        value: "only 50 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "it had prepared ballot papers equivalent to only 50 percent of eligible voters at affected stations"
+      - claim: named person — NEC Chair who offered resignation
+        kind: named_person
+        value: "Rho Tae-ak"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "NEC Chair Rho Tae-ak had already offered to resign"
+      - claim: named institution — National Election Commission (NEC)
+        kind: named_institution
+        value: "NEC"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-continues-for-4th-day
+        verbatim_excerpt: "NEC Chair Rho Tae-ak had already offered to resign"
+    quotes: []
+
+  - story_id: hanwha-aerospace-ceo-booked-daejeon-explosion
+    category: society
+    headline_en: Hanwha Aerospace CEO Booked Under Serious Accidents Act Over Deadly Daejeon Plant Explosion
+    lead_url: https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10762903
+    locked_urls:
+      - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+      - https://www.koreaherald.com/article/10762903
+    hard_facts:
+      - claim: date of booking announcement
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "South Korean labor authorities announced on June 8, 2026"
+      - claim: named person — Hanwha Aerospace CEO booked
+        kind: named_person
+        value: "Sohn Jae-il"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "Hanwha Aerospace Chief Executive Officer Sohn Jae-il had been booked"
+      - claim: named product/law — Serious Accidents Punishment Act
+        kind: named_product
+        value: "Serious Accidents Punishment Act"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "booked on suspicion of violating the Serious Accidents Punishment Act"
+      - claim: named person — plant head also banned from leaving
+        kind: named_person
+        value: "Ga Jae-woong"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "Three Hanwha Aerospace officials — including CEO Sohn and plant head Ga Jae-woong"
+      - claim: number of Hanwha Aerospace officials banned from leaving
+        kind: numerical
+        value: "Three"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "Three Hanwha Aerospace officials — including CEO Sohn and plant head Ga Jae-woong — have been banned from leaving the country"
+      - claim: date of Daejeon plant explosion
+        kind: temporal
+        value: "June 1, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "a deadly explosion at the company's Daejeon propulsion systems plant on June 1, 2026"
+      - claim: time of explosion
+        kind: temporal
+        value: "approximately 10:59 a.m."
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "which occurred at approximately 10:59 a.m. during cleaning operations"
+      - claim: number of workers killed in explosion
+        kind: numerical_with_unit
+        value: "five workers"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "killed five workers and injured two others"
+      - claim: number of workers injured in explosion
+        kind: numerical_with_unit
+        value: "two others"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "killed five workers and injured two others"
+      - claim: number of fire engines dispatched
+        kind: numerical_with_unit
+        value: "Twenty-five fire engines"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "Twenty-five fire engines and 85 firefighters were dispatched"
+      - claim: number of firefighters dispatched
+        kind: numerical_with_unit
+        value: "85 firefighters"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "Twenty-five fire engines and 85 firefighters were dispatched"
+      - claim: time fire was extinguished
+        kind: temporal
+        value: "1:07 p.m."
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "the fire was extinguished by 1:07 p.m."
+      - claim: previous fatal incident at Daejeon plant — May 2018 deaths
+        kind: temporal
+        value: "May 2018"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "The Daejeon plant had previously suffered fatal incidents in May 2018 (5 deaths)"
+      - claim: deaths in May 2018 incident
+        kind: numerical_with_unit
+        value: "5 deaths"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "in May 2018 (5 deaths)"
+      - claim: previous fatal incident — February 2019 deaths
+        kind: temporal
+        value: "February 2019"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "and February 2019 (3 deaths)"
+      - claim: deaths in February 2019 incident
+        kind: numerical_with_unit
+        value: "3 deaths"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "and February 2019 (3 deaths)"
+      - claim: named institution — Hanwha Aerospace
+        kind: named_institution
+        value: "Hanwha Aerospace"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260608/hanwha-aerospace-ceo-booked-over-deadly-explosion-at-daejeon-factory
+        verbatim_excerpt: "Hanwha Aerospace Chief Executive Officer Sohn Jae-il"
+    quotes: []
+
+  - story_id: korean-brokerages-brace-for-spacex-ipo
+    category: ipo_ma
+    headline_en: Korean Brokerages Brace for SpaceX IPO Demand Surge as History's Largest Listing Approaches
+    lead_url: https://www.koreaherald.com/article/10766208
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10764629
+    locked_urls:
+      - https://www.koreaherald.com/article/10766208
+      - https://www.koreaherald.com/article/10764629
+    hard_facts:
+      - claim: SpaceX IPO scheduled date
+        kind: temporal
+        value: "Friday June 13, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "ahead of SpaceX's initial public offering scheduled for Friday June 13, 2026"
+      - claim: SpaceX IPO fundraising target
+        kind: numerical_with_unit
+        value: "approximately $75 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "SpaceX is seeking to raise approximately $75 billion in the IPO"
+      - claim: SpaceX targeted valuation
+        kind: numerical_with_unit
+        value: "roughly $1.75 trillion"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "targeting a valuation of roughly $1.75 trillion"
+      - claim: named institution — Mirae Asset Securities as joint bookrunner
+        kind: named_institution
+        value: "Mirae Asset Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "Mirae Asset Securities is the only Korean brokerage firm included among the joint bookrunners"
+      - claim: named institution — Goldman Sachs as bookrunner
+        kind: named_institution
+        value: "Goldman Sachs"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "alongside Goldman Sachs, Morgan Stanley, and Macquarie Capital"
+      - claim: named institution — Morgan Stanley as bookrunner
+        kind: named_institution
+        value: "Morgan Stanley"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "alongside Goldman Sachs, Morgan Stanley, and Macquarie Capital"
+      - claim: named institution — Macquarie Capital as bookrunner
+        kind: named_institution
+        value: "Macquarie Capital"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "alongside Goldman Sachs, Morgan Stanley, and Macquarie Capital"
+      - claim: Mirae Asset second-round domestic subscription sellout time
+        kind: temporal
+        value: "less than two minutes"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "Mirae Asset's second-round domestic subscription offering sold out in less than two minutes"
+      - claim: Mirae Asset first-round domestic subscription sellout time
+        kind: temporal
+        value: "approximately one minute"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "the first round sold out in approximately one minute"
+      - claim: wealthy client investment threshold considered
+        kind: numerical_with_unit
+        value: "1 billion won ($650,000)"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "considering investments exceeding 1 billion won ($650,000)"
+      - claim: extended overseas trading hours offered by brokerages
+        kind: numerical_with_unit
+        value: "23 hours and 50 minutes per day"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "extended overseas stock trading hours to as much as 23 hours and 50 minutes per day"
+      - claim: named person — Samsung Securities researcher
+        kind: named_person
+        value: "Kim Jong-min"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "Kim Jong-min, Senior Researcher, Samsung Securities"
+      - claim: named institution — Samsung Securities
+        kind: named_institution
+        value: "Samsung Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "Kim Jong-min, Senior Researcher, Samsung Securities"
+      - claim: named institution — SpaceX
+        kind: named_institution
+        value: "SpaceX"
+        source_urls:
+          - https://www.koreaherald.com/article/10766208
+        verbatim_excerpt: "South Korean brokerages are ramping up preparations ahead of SpaceX's initial public offering"
+    quotes:
+      - speaker_name: Kim Jong-min
+        speaker_title: Senior Researcher, Samsung Securities
+        verbatim_en: "SpaceX is evolving beyond an aerospace company into a global infrastructure platform connecting Earth and space."
+        source_url: https://www.koreaherald.com/article/10766208
+        context: commentary on SpaceX IPO, June 8, 2026
+
+  - story_id: lee-north-korea-drone-humiliation-dialogue
+    category: other
+    headline_en: Lee Says North Korea May Have Felt Humiliated by Seoul's Alleged Drone Incursion, Stresses Need for Dialogue
+    lead_url: https://www.koreaherald.com/article/10766059
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10766073
+    locked_urls:
+      - https://www.koreaherald.com/article/10766059
+      - https://www.koreaherald.com/article/10766073
+    hard_facts:
+      - claim: date of statement on North Korea
+        kind: temporal
+        value: "Monday June 8, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10766059
+        verbatim_excerpt: "President Lee Jae Myung said on Monday June 8, 2026"
+      - claim: named person — former President who conducted alleged drone incursions
+        kind: named_person
+        value: "Yoon Suk Yeol"
+        source_urls:
+          - https://www.koreaherald.com/article/10766059
+        verbatim_excerpt: "alleged drone incursions over Pyongyang conducted under the administration of former President Yoon Suk Yeol"
+      - claim: named person — President Lee Jae Myung
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10766059
+        verbatim_excerpt: "President Lee Jae Myung said on Monday June 8, 2026"
+      - claim: named institution — China referenced for diplomacy
+        kind: named_institution
+        value: "China"
+        source_urls:
+          - https://www.koreaherald.com/article/10766059
+        verbatim_excerpt: "Lee said he would pursue diplomatic engagement and cited the importance of involving China"
+      - claim: alleged drone target location
+        kind: named_institution
+        value: "Pyongyang"
+        source_urls:
+          - https://www.koreaherald.com/article/10766059
+        verbatim_excerpt: "alleged drone incursions over Pyongyang"
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "Inter-Korean relations have deteriorated to the point that it could not get worse. How much humiliation must they have felt while enduring that?"
+        source_url: https://www.koreaherald.com/article/10766059
+        context: first-anniversary press conference on June 8, 2026
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "Even if you strike with your right hand, you need to hold with your left. Communication must continue."
+        source_url: https://www.koreaherald.com/article/10766059
+        context: first-anniversary press conference on June 8, 2026

@@ -1,0 +1,665 @@
+version: 1
+generated_at: "2026-06-08T00:00:00Z"
+country: China
+date: "2026-06-08"
+total_stories: 5
+stories:
+
+  - story_id: china-coking-coal-hits-highest-since-2024
+    category: econ
+    headline_en: "China Coking Coal Futures Hit Highest Level Since October 2024 as Shanxi Mine Safety Shutdowns Tighten Supply"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.mining.com/web/china-coking-coal-prices-extend-gains-after-shanxi-mine-disaster/
+      - https://discoveryalert.com.au/china-coking-coal-prices-shanxi-mine-disaster-2026/
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+      - https://www.mining.com/web/china-coking-coal-prices-extend-gains-after-shanxi-mine-disaster/
+      - https://discoveryalert.com.au/china-coking-coal-prices-shanxi-mine-disaster-2026/
+    hard_facts:
+      - claim: coking coal futures intraday gain on June 8
+        kind: numerical_with_unit
+        value: "1.9%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "Chinese coking coal futures in Dalian climbed as much as 1.9% to 1,486.5 yuan ($219) a ton on June 8, 2026"
+      - claim: coking coal futures price per ton
+        kind: numerical_with_unit
+        value: "1,486.5 yuan ($219) a ton"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "climbed as much as 1.9% to 1,486.5 yuan ($219) a ton on June 8, 2026"
+      - claim: date of coking coal price record
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "on June 8, 2026, reaching the highest level since October 2024"
+      - claim: prior high reference date
+        kind: temporal
+        value: "October 2024"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "reaching the highest level since October 2024"
+      - claim: June month-to-date price gain
+        kind: numerical_with_unit
+        value: "approximately 14%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "Prices were up approximately 14% in June month-to-date"
+      - claim: date of Liushenyu mine gas explosion
+        kind: temporal
+        value: "May 22, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "a fatal gas explosion at the privately-operated Liushenyu mine in Qinyuan County, Shanxi province on May 22, 2026"
+      - claim: death toll from Liushenyu mine explosion
+        kind: numerical_with_unit
+        value: "at least 82 people"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "which killed at least 82 people — the deadliest Chinese mining disaster in over a decade"
+      - claim: total workers underground at time of explosion
+        kind: numerical
+        value: "247"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "with 247 workers underground at the time"
+      - claim: number of unregistered workers underground
+        kind: numerical
+        value: "123"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "123 of them unregistered and not on official personnel boards"
+      - claim: number of mines halted in Shanxi
+        kind: numerical
+        value: "109"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "Authorities in Shanxi halted operations at 109 mines"
+      - claim: annual capacity of halted Shanxi mines
+        kind: numerical_with_unit
+        value: "approximately 122 million tonnes"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "representing approximately 122 million tonnes of annual capacity"
+      - claim: share of China's coking coal output represented by halted mines
+        kind: numerical_with_unit
+        value: "approximately 4%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "approximately 4% of China's coking coal output"
+      - claim: estimated daily coking coal output reduction
+        kind: numerical_with_unit
+        value: "288,000 tonnes"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "reducing daily coking coal output by an estimated 288,000 tonnes"
+      - claim: typical safety shutdown duration per incident
+        kind: temporal
+        value: "three to seven days"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "mandatory safety shutdowns — typically three to seven days per incident"
+      - claim: start date of annual mining safety campaign
+        kind: temporal
+        value: "June 1"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "China enters its annual mining safety campaign that began June 1"
+      - claim: iron ore futures decline on Singapore Exchange
+        kind: numerical_with_unit
+        value: "1.4%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "Related iron ore futures on the Singapore Exchange fell 1.4% to $105.20"
+      - claim: iron ore futures price on Singapore Exchange
+        kind: numerical_with_unit
+        value: "$105.20"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "iron ore futures on the Singapore Exchange fell 1.4% to $105.20"
+      - claim: mine name
+        kind: named_institution
+        value: "Liushenyu mine"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "a fatal gas explosion at the privately-operated Liushenyu mine in Qinyuan County, Shanxi province"
+      - claim: mine operator
+        kind: named_institution
+        value: "Shanxi Tongzhou Group"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "Managers of the Shanxi Tongzhou Group (operator of the Liushenyu mine) were detained"
+      - claim: exchange for coking coal futures
+        kind: named_institution
+        value: "Dalian"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "Chinese coking coal futures in Dalian climbed"
+      - claim: commentary analyst affiliation
+        kind: named_institution
+        value: "Citic Futures Co."
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "Yu Dian, principal researcher at Citic Futures Co. (Shanghai)"
+      - claim: commentary analyst name
+        kind: named_person
+        value: "Yu Dian"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        verbatim_excerpt: "Yu Dian, principal researcher at Citic Futures Co. (Shanghai)"
+    quotes:
+      - speaker_name: Yu Dian
+        speaker_title: "Principal Researcher, Citic Futures Co. (Shanghai)"
+        verbatim_en: "Given the coal supply guarantee requirements ahead of summer, the central government has not [further extended the mine halts]."
+        source_url: https://www.bloomberg.com/news/articles/2026-06-08/china-coking-coal-hits-highest-since-2024-on-safety-shutdowns
+        context: "commentary on Shanxi mine shutdown extension prospects, June 8, 2026"
+
+  - story_id: xi-visits-north-korea-state-visit-2026
+    category: politics
+    headline_en: "Xi Jinping Arrives in North Korea for First State Visit Since 2019, Pledging \"Invincible Friendship\" with Kim Jong Un"
+    lead_url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/08/china-xi-jinping-visits-north-korea-trump-summit-nuclear-program-.html
+    locked_urls:
+      - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+      - https://www.cnbc.com/2026/06/08/china-xi-jinping-visits-north-korea-trump-summit-nuclear-program-.html
+    hard_facts:
+      - claim: date of Xi Jinping's arrival in Pyongyang
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "Chinese President Xi Jinping arrived in Pyongyang on June 8, 2026"
+      - claim: duration of state visit
+        kind: temporal
+        value: "June 8–9"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "for a two-day state visit (June 8–9)"
+      - claim: Xi Jinping's previous visit to North Korea
+        kind: temporal
+        value: "June 2019"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "Xi's first visit to North Korea since June 2019"
+      - claim: Xi's first overseas trip of 2026
+        kind: temporal
+        value: "first overseas trip of 2026"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "his first overseas trip of 2026"
+      - claim: anniversary of friendship treaty
+        kind: temporal
+        value: "65th anniversary"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "coincides with the 65th anniversary of China and North Korea's 1961 Treaty of Friendship, Cooperation and Mutual Assistance"
+      - claim: year of China-North Korea treaty
+        kind: temporal
+        value: "1961"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "China and North Korea's 1961 Treaty of Friendship, Cooperation and Mutual Assistance"
+      - claim: China's share of North Korea's trade
+        kind: numerical_with_unit
+        value: "over 90%"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "China accounts for over 90% of North Korea's trade"
+      - claim: North Korean leader
+        kind: named_person
+        value: "Kim Jong Un"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "at the invitation of North Korean leader Kim Jong Un"
+      - claim: Chinese President
+        kind: named_person
+        value: "Xi Jinping"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "Chinese President Xi Jinping arrived in Pyongyang on June 8, 2026"
+      - claim: state newspaper where Xi's article appeared
+        kind: named_institution
+        value: "Rodong Sinmun"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "writing in North Korea's state newspaper Rodong Sinmun"
+      - claim: U.S. President at time of visit
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "Xi's visit followed his separate Beijing summits with U.S. President Donald Trump"
+      - claim: Russian President met by Xi before visit
+        kind: named_person
+        value: "Vladimir Putin"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "his separate Beijing summits with U.S. President Donald Trump and Russia's Vladimir Putin"
+      - claim: Kim Jong Un's sister declaration on nuclear programme
+        kind: named_person
+        value: "Kim Jong Un's sister"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "On the eve of Xi's arrival, Kim Jong Un's sister declared that North Korea's nuclear weapons programme was \"the line of no retreat.\""
+      - claim: analyst name (Crisis Group)
+        kind: named_person
+        value: "William Yang"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "William Yang (Crisis Group, Northeast Asia)"
+      - claim: analyst affiliation (Crisis Group)
+        kind: named_institution
+        value: "Crisis Group"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "William Yang (Crisis Group, Northeast Asia)"
+      - claim: analyst name (KINU)
+        kind: named_person
+        value: "Hong Min"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "Hong Min (Korea Institute for National Unification)"
+      - claim: analyst affiliation (KINU)
+        kind: named_institution
+        value: "Korea Institute for National Unification"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        verbatim_excerpt: "Hong Min (Korea Institute for National Unification)"
+    quotes:
+      - speaker_name: Xi Jinping
+        speaker_title: "President of the People's Republic of China"
+        verbatim_en: "No matter how the times change or how the international situation evolves, the traditional friendship between China and North Korea is always invincible."
+        source_url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        context: "op-ed published in North Korea's state newspaper Rodong Sinmun ahead of June 8, 2026 state visit"
+      - speaker_name: Kim Jong Un's sister
+        speaker_title: "Senior official, Workers' Party of Korea"
+        verbatim_en: "the line of no retreat."
+        source_url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        context: "declaration on North Korea's nuclear weapons programme on eve of Xi's arrival, June 7, 2026"
+      - speaker_name: William Yang
+        speaker_title: "Analyst, Crisis Group, Northeast Asia"
+        verbatim_en: "The fact that Xi has decided to make his first overseas trip of 2026 to North Korea reflects the level of significance that Beijing attaches to the attempt to shore up ties."
+        source_url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/08/china039s-xi-lands-in-north-korea-for-rare-visit
+        context: "commentary on Xi Jinping's North Korea state visit, June 8, 2026"
+
+  - story_id: moonshot-ai-seeks-30-billion-valuation
+    category: tech
+    headline_en: "Moonshot AI Seeks $30 Billion Valuation in New Funding Round"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.investing.com/news/stock-market-news/chinas-moonshot-ai-seeks-30-billion-valuation-in-new-funding-round-bloomberg-93CH-4729752
+      - https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+      - https://www.investing.com/news/stock-market-news/chinas-moonshot-ai-seeks-30-billion-valuation-in-new-funding-round-bloomberg-93CH-4729752
+      - https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/
+    hard_facts:
+      - claim: Moonshot AI target fundraise amount
+        kind: numerical_with_unit
+        value: "$2 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "seeking as much as $2 billion in a new funding round"
+      - claim: Moonshot AI target valuation in new round
+        kind: numerical_with_unit
+        value: "$30 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "that would value the Beijing-based AI startup at $30 billion"
+      - claim: number of financing rounds in six months
+        kind: numerical
+        value: "third financing in six months"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "the company's third financing in six months"
+      - claim: Moonshot AI valuation in December 2025
+        kind: numerical_with_unit
+        value: "just over $4 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "in December 2025, when the startup was valued at just over $4 billion"
+      - claim: reference date for December 2025 valuation
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "in December 2025, when the startup was valued at just over $4 billion"
+      - claim: valuation increase multiple from December 2025
+        kind: numerical
+        value: "seven-fold"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "The $30 billion target represents a seven-fold increase from December 2025"
+      - claim: lead investor in previous round
+        kind: named_institution
+        value: "Meituan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "a separate round led by Meituan (via Long-Z Investments)"
+      - claim: investment vehicle of lead investor
+        kind: named_institution
+        value: "Long-Z Investments"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "led by Meituan (via Long-Z Investments)"
+      - claim: post-investment valuation in prior round
+        kind: numerical_with_unit
+        value: "$20 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+          - https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/
+        verbatim_excerpt: "valued the firm at $20 billion post-investment"
+      - claim: Moonshot AI founding year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Founded in 2023 by Yang Zhilin"
+      - claim: Moonshot AI founder
+        kind: named_person
+        value: "Yang Zhilin"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Founded in 2023 by Yang Zhilin (former Meta AI and Google Brain researcher)"
+      - claim: amount raised in May 2026 round
+        kind: numerical_with_unit
+        value: "$2 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+          - https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/
+        verbatim_excerpt: "Moonshot closed $2 billion in May 2026 at a $20 billion valuation"
+      - claim: date of May 2026 close
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Moonshot closed $2 billion in May 2026"
+      - claim: annualized recurring revenue as of April 2026
+        kind: numerical_with_unit
+        value: "$200 million"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Annualized recurring revenue topped $200 million in April 2026"
+      - claim: ARR reference date
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Annualized recurring revenue topped $200 million in April 2026"
+      - claim: Moonshot AI chatbot product
+        kind: named_product
+        value: "Kimi"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "developer of the Kimi chatbot"
+      - claim: latest model near-top benchmark
+        kind: named_product
+        value: "Kimi K2.5"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Kimi K2.5 model nearly topped open-weight LLM benchmarks"
+      - claim: second most-used LLM on OpenRouter
+        kind: named_product
+        value: "Kimi K2.6"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Kimi K2.6 ranked as the second-most used LLM on OpenRouter"
+      - claim: DeepSeek fundraise amount
+        kind: numerical_with_unit
+        value: "$7.4 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "DeepSeek (raising $7.4 billion at a 350–400 billion yuan valuation)"
+      - claim: DeepSeek valuation range
+        kind: numerical_with_unit
+        value: "350–400 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "raising $7.4 billion at a 350–400 billion yuan valuation"
+      - claim: competitor AI startup 1
+        kind: named_institution
+        value: "DeepSeek"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Moonshot competes against DeepSeek"
+      - claim: competitor AI startup 2
+        kind: named_institution
+        value: "StepFun"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Moonshot competes against DeepSeek (raising $7.4 billion at a 350–400 billion yuan valuation), StepFun, MiniMax, and Zhipu AI"
+      - claim: competitor AI startup 3
+        kind: named_institution
+        value: "MiniMax"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Moonshot competes against DeepSeek (raising $7.4 billion at a 350–400 billion yuan valuation), StepFun, MiniMax, and Zhipu AI"
+      - claim: competitor AI startup 4
+        kind: named_institution
+        value: "Zhipu AI"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks
+        verbatim_excerpt: "Moonshot competes against DeepSeek (raising $7.4 billion at a 350–400 billion yuan valuation), StepFun, MiniMax, and Zhipu AI"
+    quotes: []
+
+  - story_id: flood-warnings-south-china-rice-crop-risks
+    category: society
+    headline_en: "Flood Warnings for South China Farmlands Raise Rice-Crop Risks"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+    hard_facts:
+      - claim: forecast rain period for southern China
+        kind: temporal
+        value: "next 10 days"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "Forecasts for heavy rains across southern China over the next 10 days"
+      - claim: report date
+        kind: temporal
+        value: "June 8"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "Bloomberg reported June 8"
+      - claim: data source for rainfall forecasts
+        kind: named_institution
+        value: "China Meteorological Administration"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "citing China Meteorological Administration data"
+      - claim: maximum forecast total precipitation in some areas
+        kind: numerical_with_unit
+        value: "over 400 millimetres (16 inches)"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "some areas receiving over 400 millimetres (16 inches) of total precipitation"
+      - claim: heaviest rain period
+        kind: temporal
+        value: "Wednesday through the following Sunday"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "Rains are expected to be especially heavy from Wednesday through the following Sunday"
+      - claim: at-risk river — Dongting Lake
+        kind: named_institution
+        value: "Dongting"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "Above-alert flooding may occur in tributaries of Dongting and Poyang lakes (middle Yangtze)"
+      - claim: at-risk river — Poyang Lake
+        kind: named_institution
+        value: "Poyang"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "tributaries of Dongting and Poyang lakes (middle Yangtze)"
+      - claim: at-risk river — Xijiang
+        kind: named_institution
+        value: "Xijiang"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "the Xijiang and Hanjiang rivers in the Pearl River basin"
+      - claim: at-risk river — Hanjiang
+        kind: named_institution
+        value: "Hanjiang"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "the Xijiang and Hanjiang rivers in the Pearl River basin"
+      - claim: at-risk river — Qiantangjiang
+        kind: named_institution
+        value: "Qiantangjiang River"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "the Qiantangjiang River in Zhejiang"
+      - claim: at-risk river — Minjiang
+        kind: named_institution
+        value: "Minjiang River"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "the Minjiang River in Fujian"
+      - claim: above-average precipitation forecast for southern China
+        kind: numerical_with_unit
+        value: "10–20% above June average"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "Precipitation across large parts of southern China is forecast at 10–20% above June average"
+      - claim: China's population
+        kind: numerical_with_unit
+        value: "approximately 1.4 billion people"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-08/flood-warnings-for-south-china-farmlands-raise-rice-crop-risks
+        verbatim_excerpt: "China feeds approximately 1.4 billion people"
+    quotes: []
+
+  - story_id: china-rare-earth-exports-japan-plunge-80pct
+    category: china_nexus
+    headline_en: "China's Rare-Earth Exports to Japan Plunge More Than 80% Year-on-Year"
+    lead_url: https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.csis.org/analysis/chinas-rare-earth-campaign-against-japan
+    locked_urls:
+      - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+      - https://www.csis.org/analysis/chinas-rare-earth-campaign-against-japan
+    hard_facts:
+      - claim: year-on-year decline in China's rare-earth exports to Japan
+        kind: numerical_with_unit
+        value: "more than 80%"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "China's rare-earth exports to Japan plunged more than 80% year-on-year in March and April 2026"
+      - claim: period of export decline
+        kind: temporal
+        value: "March and April 2026"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "plunged more than 80% year-on-year in March and April 2026"
+      - claim: Nikkei Asia report date
+        kind: temporal
+        value: "June 8"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "per Nikkei Asia June 8"
+      - claim: China's share of global rare-earth production
+        kind: numerical_with_unit
+        value: "~70%"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "China controls ~70% of global rare-earth production"
+      - claim: China's share of global rare-earth processing/refining
+        kind: numerical_with_unit
+        value: "~90%"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "~90% of processing/refining"
+      - claim: date exports to Japan effectively ceased
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "Exports of dysprosium, terbium, yttrium oxide, and gallium to Japan effectively ceased from December 2025"
+      - claim: date of first export control tightening
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "after China tightened export controls in January 2026"
+      - claim: date of additional export control tightenings
+        kind: temporal
+        value: "twice again in February 2026"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "tightened export controls in January 2026 and twice again in February 2026"
+      - claim: targeted Japanese company — Mitsubishi Heavy Industries divisions
+        kind: named_institution
+        value: "Mitsubishi Heavy Industries"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "specifically named major Japanese industrial conglomerates including shipbuilding and aero-engine divisions of Mitsubishi Heavy Industries"
+      - claim: company that halted new dysprosium magnet orders
+        kind: named_institution
+        value: "Shin-Etsu"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "Shin-Etsu halted new orders for dysprosium-containing magnets"
+      - claim: company with rare earth supply secured only through mid-year
+        kind: named_institution
+        value: "Mitsubishi Motors"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "Mitsubishi Motors disclosed in February 2026 that it had secured rare earth supplies only through mid-year"
+      - claim: Mitsubishi Motors disclosure date
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "Mitsubishi Motors disclosed in February 2026"
+      - claim: Australian alternative sourcing company 1
+        kind: named_institution
+        value: "Lynas"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "seeking alternative sourcing from Australia (Lynas, Arafura)"
+      - claim: Australian alternative sourcing company 2
+        kind: named_institution
+        value: "Arafura"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "seeking alternative sourcing from Australia (Lynas, Arafura)"
+      - claim: date Japan began deep-sea rare earth mining tests
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "Japan began deep-sea rare earth mining tests in January 2026"
+      - claim: location of Japan's deep-sea mining tests
+        kind: named_institution
+        value: "Minamitori Island"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "near Minamitori Island at approximately 6,000 metres depth"
+      - claim: depth of Japan's deep-sea mining tests
+        kind: numerical_with_unit
+        value: "approximately 6,000 metres"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "at approximately 6,000 metres depth"
+      - claim: Japanese PM who made Taiwan statement
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "Japanese PM Sanae Takaichi's November 2025 statement"
+      - claim: date of Takaichi's Taiwan statement
+        kind: temporal
+        value: "November 2025"
+        source_urls:
+          - https://asia.nikkei.com/business/materials/china-s-rare-earth-exports-to-japan-drop-80-sending-companies-scrambling
+        verbatim_excerpt: "Japanese PM Sanae Takaichi's November 2025 statement that a Taiwan attack could constitute an \"existential threat\" to Japan"
+    quotes: []
