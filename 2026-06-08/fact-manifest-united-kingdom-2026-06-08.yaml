@@ -1,0 +1,1670 @@
+version: 1
+generated_at: "2026-06-08T12:00:00Z"
+country: United Kingdom
+date: "2026-06-08"
+total_stories: 11
+stories:
+  - story_id: uk-gilt-yields-rise-boe-rate-hike-sept
+    category: econ
+    headline_en: UK gilt yields rise as markets price near-80% probability of Bank of England rate hike by September
+    lead_url: https://tradingeconomics.com/united-kingdom/government-bond-yield
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/05/26/uk-gilt-yields-ease-political-drama-mellows-rate-hikes-ease.html
+      - https://hoa.org.uk/news/interest-rate-predictions-2/
+    locked_urls:
+      - https://tradingeconomics.com/united-kingdom/government-bond-yield
+      - https://www.cnbc.com/2026/05/26/uk-gilt-yields-ease-political-drama-mellows-rate-hikes-ease.html
+      - https://hoa.org.uk/news/interest-rate-predictions-2/
+    hard_facts:
+      - claim: date of yield data
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "As of June 8, 2026, the yield on the UK 30-year Treasury gilt rose to 5.59%"
+      - claim: UK 30-year gilt yield
+        kind: numerical_with_unit
+        value: "5.59%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "the yield on the UK 30-year Treasury gilt rose to 5.59%, up 0.03 percentage points from the previous session"
+      - claim: daily change in 30-year gilt yield
+        kind: numerical_with_unit
+        value: "0.03 percentage points"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "up 0.03 percentage points from the previous session"
+      - claim: UK 10-year gilt yield
+        kind: numerical_with_unit
+        value: "approximately 4.85%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "the benchmark 10-year gilt stood at approximately 4.85%"
+      - claim: market-implied probability of Bank Rate hike by September 2026
+        kind: numerical_with_unit
+        value: "roughly 80%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "Financial markets assign roughly 80% probability of a quarter-point Bank Rate increase by September 2026"
+      - claim: size of potential Bank Rate increase
+        kind: numerical_with_unit
+        value: "quarter-point"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "roughly 80% probability of a quarter-point Bank Rate increase by September 2026"
+      - claim: MPC vote on April 29 to hold Bank Rate
+        kind: temporal
+        value: "April 29"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "The Bank of England's Monetary Policy Committee voted 8-1 on April 29 to hold Bank Rate at 3.75%"
+      - claim: MPC vote split
+        kind: numerical
+        value: "8-1"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "Monetary Policy Committee voted 8-1 on April 29 to hold Bank Rate at 3.75%"
+      - claim: current Bank Rate
+        kind: numerical_with_unit
+        value: "3.75%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "voted 8-1 on April 29 to hold Bank Rate at 3.75%"
+      - claim: dissenting MPC vote for rate increase
+        kind: numerical_with_unit
+        value: "25 basis-point increase to 4%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "one member voting for a 25 basis-point increase to 4%"
+      - claim: next MPC decision date
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "The next MPC decision is due June 18"
+      - claim: April 2026 inflation
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "Inflation fell to 2.8% in April 2026—the lowest since March 2025"
+      - claim: energy price cap impact on headline CPI
+        kind: numerical_with_unit
+        value: "nearly 0.5 percentage points"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "a lower household energy price cap cutting nearly 0.5 percentage points off headline CPI"
+      - claim: April 2026 core CPI
+        kind: numerical_with_unit
+        value: "2.5%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "Core CPI was 2.5% in April"
+      - claim: April 2026 services inflation
+        kind: numerical_with_unit
+        value: "3.2%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "services inflation 3.2%"
+      - claim: UCL model launch date
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "A UCL macro-forecasting model launched June 5 projected inflation rising back to 3.0% in May"
+      - claim: UCL projected May inflation
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "projected inflation rising back to 3.0% in May"
+      - claim: UCL projected Q2 GDP growth
+        kind: numerical_with_unit
+        value: "0.3%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "GDP growth slowing to 0.3% in Q2 from 0.6% in Q1"
+      - claim: UK Q1 2026 GDP growth
+        kind: numerical_with_unit
+        value: "0.6%"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "UK GDP expanded 0.6% in Q1 2026"
+      - claim: MPC member identity
+        kind: named_person
+        value: "Swati Dhingra"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "MPC member Swati Dhingra stated June 5 that rate guidance was \"very hard to say\""
+      - claim: date of Dhingra statement
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "MPC member Swati Dhingra stated June 5 that rate guidance was \"very hard to say\""
+      - claim: number of economists expecting Bank Rate unchanged in 2026 (Reuters poll)
+        kind: numerical
+        value: "33"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "33 of surveyed economists expected Bank Rate unchanged in 2026"
+      - claim: number of economists expecting at least one hike (Reuters poll)
+        kind: numerical
+        value: "14"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "14 expected at least one hike"
+      - claim: number of economists predicting one or more cuts (Reuters poll)
+        kind: numerical
+        value: "15"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "15 predicted one or more cuts"
+      - claim: UK government borrowing in 2024-25
+        kind: numerical_with_unit
+        value: "£152 billion"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "UK government borrowing reached £152 billion (5.2% of GDP) in 2024-25"
+      - claim: UK government borrowing as share of GDP
+        kind: numerical_with_unit
+        value: "5.2% of GDP"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "£152 billion (5.2% of GDP) in 2024-25"
+      - claim: OBR report publication date
+        kind: temporal
+        value: "June 2"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "per the OBR Forecast Evaluation Report published June 2"
+      - claim: named institution — Bank of England
+        kind: named_institution
+        value: "Bank of England"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "The Bank of England's Monetary Policy Committee voted 8-1 on April 29 to hold Bank Rate at 3.75%"
+      - claim: named institution — OBR
+        kind: named_institution
+        value: "OBR"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "per the OBR Forecast Evaluation Report published June 2"
+      - claim: named institution — UCL
+        kind: named_institution
+        value: "UCL"
+        source_urls:
+          - https://tradingeconomics.com/united-kingdom/government-bond-yield
+        verbatim_excerpt: "A UCL macro-forecasting model launched June 5"
+    quotes:
+      - speaker_name: Swati Dhingra
+        speaker_title: MPC member, Bank of England
+        verbatim_en: "the big elephant in the room here is what happens to the energy crisis."
+        source_url: https://tradingeconomics.com/united-kingdom/government-bond-yield
+        context: UCL event, June 5, on interest rate guidance uncertainty
+
+  - story_id: steel-industry-nationalisation-bill-committee
+    category: econ
+    headline_en: Steel Industry (Nationalisation) Bill enters Committee of the Whole House as MPs scrutinise powers to nationalise British steelmakers
+    lead_url: https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+    body_source: full
+    corroborated_by:
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-8-june-2026
+      - https://www.gov.uk/government/news/bill-that-could-nationalise-british-steel-takes-first-step-through-parliament
+      - https://commonslibrary.parliament.uk/research-briefings/cbp-10846/
+    locked_urls:
+      - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-8-june-2026
+      - https://www.gov.uk/government/news/bill-that-could-nationalise-british-steel-takes-first-step-through-parliament
+      - https://commonslibrary.parliament.uk/research-briefings/cbp-10846/
+    hard_facts:
+      - claim: date of Committee of the Whole House Day 1
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "On June 8, 2026, the House of Commons commenced Day 1 of the Committee of the Whole House for the Steel Industry (Nationalisation) Bill"
+      - claim: bill introduction date
+        kind: temporal
+        value: "May 14"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "The bill was introduced May 14 following the King's Speech on May 13, 2026"
+      - claim: King's Speech date
+        kind: temporal
+        value: "May 13, 2026"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "the King's Speech on May 13, 2026"
+      - claim: direct steel sector jobs
+        kind: numerical_with_unit
+        value: "approximately 37,000 direct jobs"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "The steel sector supports approximately 37,000 direct jobs"
+      - claim: supply chain jobs supported by steel sector
+        kind: numerical_with_unit
+        value: "more than 60,000 supply chain jobs"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "more than 60,000 supply chain jobs across the UK"
+      - claim: Day 2 Committee stage date
+        kind: temporal
+        value: "June 9, 2026"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "Day 2 of Committee stage—covering Parts 2 to 4 on compensation, funding, and legislative repeals—was scheduled for June 9, 2026"
+      - claim: Steel Strategy launch date
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "builds on the Steel Strategy launched in March 2026"
+      - claim: named person — Industry Minister
+        kind: named_person
+        value: "Chris McDonald MP"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "Industry Minister Chris McDonald MP stated at First Reading"
+      - claim: named person — UK Steel Director General
+        kind: named_person
+        value: "Gareth Stace"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "UK Steel Director General Gareth Stace said"
+      - claim: named institution — UK Steel
+        kind: named_institution
+        value: "UK Steel"
+        source_urls:
+          - https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        verbatim_excerpt: "UK Steel Director General Gareth Stace said"
+    quotes:
+      - speaker_name: Chris McDonald
+        speaker_title: Industry Minister MP
+        verbatim_en: "Revitalising our steel sector is a top priority for this country."
+        source_url: https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        context: First Reading of the Steel Industry (Nationalisation) Bill
+      - speaker_name: Gareth Stace
+        speaker_title: Director General, UK Steel
+        verbatim_en: "We strongly welcome the Prime Minister's announcement to legislate for the nationalisation of British Steel. This provides vital certainty for the workforce, the company's customers and the wider supply chain."
+        source_url: https://www.parallelparliament.co.uk/bills/2026-27/steelindustrynationalisation
+        context: Response to the Steel Industry (Nationalisation) Bill
+
+  - story_id: financial-services-markets-bill-lords-2nd-reading
+    category: econ
+    headline_en: Financial Services and Markets Bill reaches Lords Second Reading, launching reform of UK financial regulation and ring-fencing
+    lead_url: https://bills.parliament.uk/bills/4129
+    body_source: full
+    corroborated_by:
+      - https://lordslibrary.parliament.uk/research-briefings/lln-2026-0027/
+      - https://www.parliament.uk/business/news/2026/june-2026/whats-on-in-the-lords-8-june-11-june/
+    locked_urls:
+      - https://bills.parliament.uk/bills/4129
+      - https://lordslibrary.parliament.uk/research-briefings/lln-2026-0027/
+      - https://www.parliament.uk/business/news/2026/june-2026/whats-on-in-the-lords-8-june-11-june/
+    hard_facts:
+      - claim: bill identifier
+        kind: named_product
+        value: "HL Bill 5 of 2026-27"
+        source_urls:
+          - https://bills.parliament.uk/bills/4129
+        verbatim_excerpt: "The Financial Services and Markets Bill [HL] (HL Bill 5 of 2026-27) received its Second Reading in the House of Lords on June 8, 2026"
+      - claim: date of Second Reading
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://bills.parliament.uk/bills/4129
+        verbatim_excerpt: "received its Second Reading in the House of Lords on June 8, 2026"
+      - claim: bill introduction to Lords date
+        kind: temporal
+        value: "May 19, 2026"
+        source_urls:
+          - https://bills.parliament.uk/bills/4129
+        verbatim_excerpt: "introduced to the Lords on May 19, 2026"
+      - claim: named institution — Financial Ombudsman Service
+        kind: named_institution
+        value: "Financial Ombudsman Service"
+        source_urls:
+          - https://bills.parliament.uk/bills/4129
+        verbatim_excerpt: "reforms to the Financial Ombudsman Service"
+      - claim: named institution — Payment Systems Regulator (to be abolished)
+        kind: named_institution
+        value: "Payment Systems Regulator"
+        source_urls:
+          - https://bills.parliament.uk/bills/4129
+        verbatim_excerpt: "abolition of the Payment Systems Regulator"
+      - claim: related bill identifier — Commercial Payments Bill
+        kind: named_product
+        value: "HL Bill 4 of 2026-27"
+        source_urls:
+          - https://bills.parliament.uk/bills/4129
+        verbatim_excerpt: "the Commercial Payments Bill [HL] (HL Bill 4 of 2026-27) also received its Second Reading in the Lords"
+      - claim: named product — Leeds Reforms
+        kind: named_product
+        value: "Leeds Reforms"
+        source_urls:
+          - https://bills.parliament.uk/bills/4129
+        verbatim_excerpt: "delivering the \"Leeds Reforms\" for UK financial services"
+    quotes: []
+
+  - story_id: starmer-apple-google-nude-images-ultimatum
+    category: politics
+    headline_en: Starmer gives Apple and Google three-month ultimatum to prevent children sending nude images or face criminal sanctions for executives
+    lead_url: https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+    body_source: full
+    corroborated_by:
+      - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+      - https://uk.finance.yahoo.com/news/starmer-gives-tech-companies-ultimatum-085907238.html
+    locked_urls:
+      - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+      - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+      - https://uk.finance.yahoo.com/news/starmer-gives-tech-companies-ultimatum-085907238.html
+    hard_facts:
+      - claim: event date and venue
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Speaking at London Tech Week on June 8, 2026"
+      - claim: ultimatum timeframe given to tech companies
+        kind: temporal
+        value: "three months"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Prime Minister Sir Keir Starmer gave technology companies including Apple and Google three months to implement device-level controls"
+      - claim: named product — iOS
+        kind: named_product
+        value: "iOS"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "apply to both existing and newly sold smartphones and tablets in the UK, covering operating systems iOS, Android, and other supply chain participants"
+      - claim: named product — Android
+        kind: named_product
+        value: "Android"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "covering operating systems iOS, Android, and other supply chain participants"
+      - claim: named institution — Apple
+        kind: named_institution
+        value: "Apple"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "technology companies including Apple and Google three months to implement device-level controls"
+      - claim: named institution — Google
+        kind: named_institution
+        value: "Google"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "technology companies including Apple and Google three months to implement device-level controls"
+      - claim: named person — Prime Minister
+        kind: named_person
+        value: "Sir Keir Starmer"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Prime Minister Sir Keir Starmer gave technology companies including Apple and Google three months"
+      - claim: named person — Home Secretary
+        kind: named_person
+        value: "Shabana Mahmood"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Home Secretary Shabana Mahmood declared"
+      - claim: named person — Education Secretary
+        kind: named_person
+        value: "Bridget Phillipson"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Education Secretary Bridget Phillipson also attended"
+      - claim: named person — former Labour safeguarding minister
+        kind: named_person
+        value: "Jess Phillips"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Former Labour safeguarding minister Jess Phillips expressed support"
+      - claim: named person — Technology Secretary
+        kind: named_person
+        value: "Liz Kendall"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Technology Secretary Liz Kendall had separately announced enforcement of the Data (Use and Access) Act 2025 provisions"
+      - claim: named product — Data (Use and Access) Act 2025
+        kind: named_product
+        value: "Data (Use and Access) Act 2025"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "enforcement of the Data (Use and Access) Act 2025 provisions making creation of non-consensual intimate images a criminal offence"
+      - claim: named institution — Ofcom
+        kind: named_institution
+        value: "Ofcom"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Ofcom had opened a formal investigation into X's Grok AI tool in January 2026"
+      - claim: named product — Grok AI
+        kind: named_product
+        value: "Grok AI"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "a formal investigation into X's Grok AI tool in January 2026"
+      - claim: date of Ofcom investigation opened
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        verbatim_excerpt: "Ofcom had opened a formal investigation into X's Grok AI tool in January 2026"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister
+        verbatim_en: "tech should adapt to the needs of society, not the other way around"
+        source_url: https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        context: Speech at London Tech Week, June 8, 2026
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister
+        verbatim_en: "The pace of change cannot be an excuse for harm."
+        source_url: https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        context: Speech at London Tech Week, June 8, 2026
+      - speaker_name: Shabana Mahmood
+        speaker_title: Home Secretary
+        verbatim_en: "Tech companies have a moral duty to act."
+        source_url: https://www.lbc.co.uk/article/8657803ba13b434782f458a99cebdea5-5HjdbGZ_2/
+        context: London Tech Week, June 8, 2026
+
+  - story_id: uk-middle-east-military-iran-israel-day-100
+    category: politics
+    headline_en: UK reinforces Middle East military posture as Iran-Israel missile exchanges shatter April ceasefire on day 100 of the war
+    lead_url: https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+    body_source: full
+    corroborated_by:
+      - https://commonslibrary.parliament.uk/research-briefings/cbp-10521/
+      - https://www.lbc.co.uk/article/hms-dragon-will-be-sent-to-middle-east-5HjdYt5_2/
+      - https://www.navalnews.com/naval-news/2026/05/uk-re-deploys-destroyer-dragon-to-middle-east-for-potential-hormuz-mission/
+    locked_urls:
+      - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+      - https://commonslibrary.parliament.uk/research-briefings/cbp-10521/
+      - https://www.lbc.co.uk/article/hms-dragon-will-be-sent-to-middle-east-5HjdYt5_2/
+      - https://www.navalnews.com/naval-news/2026/05/uk-re-deploys-destroyer-dragon-to-middle-east-for-potential-hormuz-mission/
+    hard_facts:
+      - claim: date — day 100 of the Iran war
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "On June 8, 2026—the 100th day of the Iran war"
+      - claim: day count of war
+        kind: numerical
+        value: "100th day"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "On June 8, 2026—the 100th day of the Iran war"
+      - claim: April ceasefire date
+        kind: temporal
+        value: "April 8"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "a nominal ceasefire on April 8"
+      - claim: war start date
+        kind: temporal
+        value: "February 28"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "The conflict began on February 28 when Israel and the United States killed Supreme Leader Ayatollah Ali Khamenei"
+      - claim: named person — Ayatollah Ali Khamenei
+        kind: named_person
+        value: "Ayatollah Ali Khamenei"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "Israel and the United States killed Supreme Leader Ayatollah Ali Khamenei and other senior Iranian leaders"
+      - claim: share of global oil and gas through Strait of Hormuz
+        kind: numerical_with_unit
+        value: "a fifth of all globally traded oil and gas"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "a chokehold on the Strait of Hormuz—through which a fifth of all globally traded oil and gas once transited in peacetime"
+      - claim: named product — HMS Dragon
+        kind: named_product
+        value: "HMS Dragon"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "the government deployed HMS Dragon (a Type 45 air-defence destroyer) to Cyprus and the eastern Mediterranean"
+      - claim: ship class
+        kind: named_product
+        value: "Type 45 air-defence destroyer"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "HMS Dragon (a Type 45 air-defence destroyer)"
+      - claim: number of additional RAF jets deployed to Qatar
+        kind: numerical_with_unit
+        value: "four additional RAF jets"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "four additional RAF jets to Qatar"
+      - claim: named institution — Guardian newspaper
+        kind: named_institution
+        value: "The Guardian"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "UK newspaper front pages on June 8 led with \"Missiles Over Israel, Defence Under Fire\" (The Guardian)"
+      - claim: named institution — Daily Telegraph
+        kind: named_institution
+        value: "The Daily Telegraph"
+        source_urls:
+          - https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates
+        verbatim_excerpt: "the tactical nature of the Iranian barrage (The Daily Telegraph)"
+    quotes: []
+
+  - story_id: uk-sovereign-ai-hardware-strategy-london-tech-week
+    category: tech
+    headline_en: UK Government announces sovereign AI hardware strategy at London Tech Week — strategic chip purchases and £1bn+ compute expansion
+    lead_url: https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+    body_source: full
+    corroborated_by:
+      - https://www.resultsense.com/news/2026-06-08-uk-government-buy-ai-chips-sovereignty/
+      - https://thenextweb.com/news/uk-buy-ai-chips-british-companies-kendall
+    locked_urls:
+      - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+      - https://www.resultsense.com/news/2026-06-08-uk-government-buy-ai-chips-sovereignty/
+      - https://thenextweb.com/news/uk-buy-ai-chips-british-companies-kendall
+    hard_facts:
+      - claim: event date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "At the opening of London Tech Week on June 8, 2026"
+      - claim: named person — Technology Secretary
+        kind: named_person
+        value: "Liz Kendall"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Technology Secretary Liz Kendall and Prime Minister Keir Starmer unveiled a sovereign AI hardware strategy"
+      - claim: named person — Prime Minister
+        kind: named_person
+        value: "Keir Starmer"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Technology Secretary Liz Kendall and Prime Minister Keir Starmer unveiled a sovereign AI hardware strategy"
+      - claim: AI compute capacity expansion target
+        kind: numerical_with_unit
+        value: "twentyfold"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "expand the UK's AI compute capacity twentyfold"
+      - claim: global chip market share target
+        kind: numerical_with_unit
+        value: "5% of the global chip market"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "target 5% of the global chip market—worth approximately £37 billion"
+      - claim: global chip market value
+        kind: numerical_with_unit
+        value: "approximately £37 billion"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "target 5% of the global chip market—worth approximately £37 billion"
+      - claim: planned spending on initiative
+        kind: numerical_with_unit
+        value: "Over £1 billion"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Over £1 billion in planned spending supports the initiative"
+      - claim: ARIA committed compute funding
+        kind: numerical_with_unit
+        value: "£100 million"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "£100 million is already committed through ARIA's scaling compute programme"
+      - claim: number of UK companies granted access to government supercomputers
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "six UK companies have been granted access to government-funded supercomputers"
+      - claim: named institution — Graphcore acquired
+        kind: named_institution
+        value: "Graphcore"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Past losses include Graphcore (acquired by SoftBank 2024)"
+      - claim: Graphcore acquisition date
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Graphcore (acquired by SoftBank 2024)"
+      - claim: named institution — SoftBank (Graphcore acquirer)
+        kind: named_institution
+        value: "SoftBank"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Graphcore (acquired by SoftBank 2024)"
+      - claim: named institution — Alphawave IP acquired
+        kind: named_institution
+        value: "Alphawave IP"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Alphawave IP (acquired by Qualcomm for $2.4 billion in 2025)"
+      - claim: Alphawave IP acquisition value
+        kind: numerical_with_unit
+        value: "$2.4 billion"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Alphawave IP (acquired by Qualcomm for $2.4 billion in 2025)"
+      - claim: Alphawave IP acquisition date
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Alphawave IP (acquired by Qualcomm for $2.4 billion in 2025)"
+      - claim: named institution — Qualcomm (acquirer)
+        kind: named_institution
+        value: "Qualcomm"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Alphawave IP (acquired by Qualcomm for $2.4 billion in 2025)"
+      - claim: named institution — Arm and its listing
+        kind: named_institution
+        value: "Arm"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Arm (which chose a New York Nasdaq listing)"
+      - claim: named institution — Fractile (priority beneficiary)
+        kind: named_institution
+        value: "Fractile"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Emerging UK semiconductor challengers Fractile, Olix, and Lumai are named as priority beneficiaries"
+      - claim: named institution — Olix (priority beneficiary)
+        kind: named_institution
+        value: "Olix"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Fractile, Olix, and Lumai are named as priority beneficiaries"
+      - claim: named institution — Lumai (priority beneficiary)
+        kind: named_institution
+        value: "Lumai"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Fractile, Olix, and Lumai are named as priority beneficiaries"
+      - claim: UK rank as technology economy
+        kind: numerical
+        value: "third largest technology economy in the world"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Britain is the third largest technology economy in the world"
+      - claim: UK share of European tech investment
+        kind: numerical_with_unit
+        value: "close to half of all European investment in tech this year"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Our startups have raised close to half of all European investment in tech this year"
+      - claim: named person — Business Secretary
+        kind: named_person
+        value: "Peter Kyle"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "Business Secretary Peter Kyle separately signalled the government would \"aggressively\" take equity stakes in fast-growing UK firms"
+      - claim: named institution — ARIA
+        kind: named_institution
+        value: "ARIA"
+        source_urls:
+          - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        verbatim_excerpt: "£100 million is already committed through ARIA's scaling compute programme"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister
+        verbatim_en: "Britain is the third largest technology economy in the world. Our startups have raised close to half of all European investment in tech this year."
+        source_url: https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        context: Opening of London Tech Week, June 8, 2026
+      - speaker_name: Liz Kendall
+        speaker_title: Technology Secretary
+        verbatim_en: "This is far too important a technology to depend entirely on other countries, especially in areas like defence, financial services and health care."
+        source_url: https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+        context: London Tech Week announcement, June 8, 2026
+
+  - story_id: amd-2bn-uk-ai-ecosystem-london-tech-week
+    category: tech
+    headline_en: AMD commits £2 billion to UK AI ecosystem at London Tech Week, backing Cambridge supercomputers and fusion research
+    lead_url: https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+    body_source: full
+    corroborated_by:
+      - https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom/2360511
+      - https://www.stocktitan.net/news/AMD/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-f0q78lpc3phv.html
+    locked_urls:
+      - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+      - https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom/2360511
+      - https://www.stocktitan.net/news/AMD/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-f0q78lpc3phv.html
+    hard_facts:
+      - claim: named person — AMD Chair and CEO
+        kind: named_person
+        value: "Dr. Lisa Su"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "AMD Chair and CEO Dr. Lisa Su announced at London Tech Week on June 8, 2026"
+      - claim: announcement date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "AMD Chair and CEO Dr. Lisa Su announced at London Tech Week on June 8, 2026"
+      - claim: AMD investment commitment
+        kind: numerical_with_unit
+        value: "up to £2 billion"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+          - https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom/2360511
+        verbatim_excerpt: "the company will invest up to £2 billion over five years in the United Kingdom"
+      - claim: investment duration
+        kind: temporal
+        value: "over five years"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "invest up to £2 billion over five years in the United Kingdom"
+      - claim: named institution — Oxford Quantum Circuits (partnership)
+        kind: named_institution
+        value: "Oxford Quantum Circuits"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "New strategic partnerships include Oxford Quantum Circuits, JPMorganChase, Imperial College London, Oriole Networks, the University of Cambridge, and the UK Atomic Energy Authority"
+      - claim: named institution — JPMorganChase (partnership)
+        kind: named_institution
+        value: "JPMorganChase"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "New strategic partnerships include Oxford Quantum Circuits, JPMorganChase, Imperial College London"
+      - claim: named institution — Imperial College London (partnership)
+        kind: named_institution
+        value: "Imperial College London"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "Oxford Quantum Circuits, JPMorganChase, Imperial College London, Oriole Networks"
+      - claim: named institution — Oriole Networks (partnership)
+        kind: named_institution
+        value: "Oriole Networks"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "JPMorganChase, Imperial College London, Oriole Networks, the University of Cambridge"
+      - claim: named institution — University of Cambridge (partnership)
+        kind: named_institution
+        value: "University of Cambridge"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "Oriole Networks, the University of Cambridge, and the UK Atomic Energy Authority"
+      - claim: named institution — UK Atomic Energy Authority (partnership)
+        kind: named_institution
+        value: "UK Atomic Energy Authority"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "the University of Cambridge, and the UK Atomic Energy Authority"
+      - claim: named institution — Dell Technologies (co-supporter)
+        kind: named_institution
+        value: "Dell Technologies"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "AMD and Dell Technologies are jointly supporting two new supercomputers"
+      - claim: named product — Zenith supercomputer
+        kind: named_product
+        value: "Zenith"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "Zenith (an AI supercomputer at the University of Cambridge, funded by DSIT and UKRI)"
+      - claim: named institution — DSIT (funder of Zenith)
+        kind: named_institution
+        value: "DSIT"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "an AI supercomputer at the University of Cambridge, funded by DSIT and UKRI"
+      - claim: named institution — UKRI (funder of Zenith)
+        kind: named_institution
+        value: "UKRI"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "an AI supercomputer at the University of Cambridge, funded by DSIT and UKRI"
+      - claim: named product — Sunrise fusion AI system
+        kind: named_product
+        value: "Sunrise"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "Sunrise (a fusion AI system funded by DESNZ)"
+      - claim: named institution — DESNZ (funder of Sunrise)
+        kind: named_institution
+        value: "DESNZ"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "Sunrise (a fusion AI system funded by DESNZ)"
+      - claim: named institution — AMD
+        kind: named_institution
+        value: "AMD"
+        source_urls:
+          - https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        verbatim_excerpt: "AMD Chair and CEO Dr. Lisa Su announced at London Tech Week on June 8, 2026 that the company will invest up to £2 billion"
+    quotes:
+      - speaker_name: Lisa Su
+        speaker_title: Chair and CEO, AMD
+        verbatim_en: "The United Kingdom has the talent, research excellence and ambition to help lead the next era of AI"
+        source_url: https://www.electronicsweekly.com/news/business/amd-investing-2bn-in-uk-2026-06/
+        context: London Tech Week announcement, June 8, 2026
+
+  - story_id: starmer-ai-work-assistant-youth-unemployment-16pct
+    category: tech
+    headline_en: PM Starmer launches AI Work Assistant at London Tech Week as youth unemployment hits 16.2%, the highest in a decade
+    lead_url: https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+    body_source: full
+    corroborated_by:
+      - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+      - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+    locked_urls:
+      - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+      - https://www.gov.uk/government/speeches/prime-ministers-speech-at-london-tech-week-2026
+      - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+    hard_facts:
+      - claim: announcement date and venue
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "Prime Minister Keir Starmer announced at London Tech Week on June 8, 2026, the launch of a three-month trial"
+      - claim: trial duration for AI Work Assistant
+        kind: temporal
+        value: "three-month trial"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "the launch of a three-month trial \"AI Work Assistant\""
+      - claim: named institution — Anthropic (AI Work Assistant partner)
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "developed in partnership with Anthropic and accessible at jobs.service.gov.uk/cv"
+      - claim: AI Work Assistant URL
+        kind: named_product
+        value: "jobs.service.gov.uk/cv"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "accessible at jobs.service.gov.uk/cv"
+      - claim: youth unemployment rate in early 2026
+        kind: numerical_with_unit
+        value: "16.2%"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "Youth unemployment stood at 16.2% in early 2026—the highest in over a decade"
+      - claim: NEET count milestone
+        kind: numerical_with_unit
+        value: "one million"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "the number of young people not in education, employment, or training (NEET) had surpassed one million for the first time in a decade"
+      - claim: AI tutors target — children receiving free school meals
+        kind: numerical_with_unit
+        value: "450,000 children"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "AI tutors for 450,000 children receiving free school meals"
+      - claim: AI upskilling target for workers
+        kind: numerical_with_unit
+        value: "7.5 million workers in AI by 2030"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "a target of upskilling 7.5 million workers in AI by 2030"
+      - claim: Digital Employability Certificate target date
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "a Digital Employability Certificate to be required for all school leavers starting 2027"
+      - claim: AI-focused internships pledged by major employers
+        kind: numerical_with_unit
+        value: "50,000 annual AI-focused internships"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "Major employers including Microsoft UK and BT pledged 50,000 annual AI-focused internships"
+      - claim: named institution — Microsoft UK (internships pledge)
+        kind: named_institution
+        value: "Microsoft UK"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "Major employers including Microsoft UK and BT pledged 50,000 annual AI-focused internships"
+      - claim: named institution — BT (internships pledge)
+        kind: named_institution
+        value: "BT"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "Major employers including Microsoft UK and BT pledged 50,000 annual AI-focused internships"
+      - claim: named person — IMF Managing Director
+        kind: named_person
+        value: "Kristalina Georgieva"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "IMF Managing Director Kristalina Georgieva had previously warned AI could be \"a tsunami hitting the labour market\""
+      - claim: named institution — IMF
+        kind: named_institution
+        value: "IMF"
+        source_urls:
+          - https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        verbatim_excerpt: "IMF Managing Director Kristalina Georgieva had previously warned AI could be \"a tsunami hitting the labour market\""
+    quotes:
+      - speaker_name: Kristalina Georgieva
+        speaker_title: Managing Director, IMF
+        verbatim_en: "a tsunami hitting the labour market."
+        source_url: https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        context: Prior warning on AI impact on labour markets
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister
+        verbatim_en: "No one doubts the huge potential of tech to change lives. But we have to decide who that change is for"
+        source_url: https://www.theregister.com/ai-and-ml/2026/06/08/uk-govs-answer-to-ai-job-fears-an-ai-bot-to-polish-your-cv/5251983
+        context: London Tech Week, June 8, 2026
+
+  - story_id: labour-20m-early-careers-jobs-alliance-neet
+    category: society
+    headline_en: Labour launches £20m Early Careers Jobs Alliance and AI bootcamp pilots as youth NEET count tops one million
+    lead_url: https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+    body_source: full
+    corroborated_by:
+      - https://www.gov.uk/government/news/entry-level-jobs-support-ai-bootcamps-and-tech-training-as-government-supports-young-people-into-the-jobs-of-the-future
+    locked_urls:
+      - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+      - https://www.gov.uk/government/news/entry-level-jobs-support-ai-bootcamps-and-tech-training-as-government-supports-young-people-into-the-jobs-of-the-future
+    hard_facts:
+      - claim: announcement date and venue
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "On June 8, 2026, Technology Secretary Liz Kendall and Work and Pensions Secretary Pat McFadden jointly announced the £20 million Early Careers Jobs Alliance at London Tech Week"
+      - claim: Early Careers Jobs Alliance funding
+        kind: numerical_with_unit
+        value: "£20 million"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+          - https://www.gov.uk/government/news/entry-level-jobs-support-ai-bootcamps-and-tech-training-as-government-supports-young-people-into-the-jobs-of-the-future
+        verbatim_excerpt: "the £20 million Early Careers Jobs Alliance at London Tech Week"
+      - claim: named person — Technology Secretary
+        kind: named_person
+        value: "Liz Kendall"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Technology Secretary Liz Kendall and Work and Pensions Secretary Pat McFadden jointly announced"
+      - claim: named person — Work and Pensions Secretary
+        kind: named_person
+        value: "Pat McFadden"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Technology Secretary Liz Kendall and Work and Pensions Secretary Pat McFadden jointly announced"
+      - claim: number of Industrial Strategy sectors covered
+        kind: numerical
+        value: "eight"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "will expand across all eight Industrial Strategy sectors"
+      - claim: AI bootcamp pilot launch timing
+        kind: temporal
+        value: "summer 2026"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Initial AI bootcamp pilots launch summer 2026 across five North West locations"
+      - claim: number of North West bootcamp locations
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "launch summer 2026 across five North West locations: Wigan, Blackpool, Oldham, Blackburn, and Lancashire"
+      - claim: North West bootcamp places — primary allocation
+        kind: numerical
+        value: "60"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "with 60 and 20 places respectively"
+      - claim: North West bootcamp places — secondary allocation
+        kind: numerical
+        value: "20"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "with 60 and 20 places respectively"
+      - claim: North East pilot timing
+        kind: temporal
+        value: "early 2027"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "A North East pilot (early 2027) will provide 6+ months paid work"
+      - claim: North East pilot paid work duration
+        kind: temporal
+        value: "6+ months"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "will provide 6+ months paid work with Accenture, Microsoft, and Sage"
+      - claim: named institution — Accenture (North East pilot)
+        kind: named_institution
+        value: "Accenture"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "will provide 6+ months paid work with Accenture, Microsoft, and Sage"
+      - claim: named institution — Microsoft (North East pilot)
+        kind: named_institution
+        value: "Microsoft"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "with Accenture, Microsoft, and Sage"
+      - claim: named institution — Sage (North East pilot)
+        kind: named_institution
+        value: "Sage"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "with Accenture, Microsoft, and Sage"
+      - claim: nationwide rollout timeline
+        kind: temporal
+        value: "2027-28 academic year"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Nationwide rollout is planned for the 2027-28 academic year"
+      - claim: named institution — JD Sports (pilot employer)
+        kind: named_institution
+        value: "JD Sports"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Employers including JD Sports and BAE Systems are signed up to the pilot"
+      - claim: named institution — BAE Systems (pilot employer)
+        kind: named_institution
+        value: "BAE Systems"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Employers including JD Sports and BAE Systems are signed up to the pilot"
+      - claim: TechFirst student target
+        kind: numerical_with_unit
+        value: "at least 400,000 students"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Through TechFirst, at least 400,000 students in disadvantaged schools will receive AI and technology skills training"
+      - claim: NEET count milestone
+        kind: numerical_with_unit
+        value: "one million"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "the number of young people not in education, employment, or training had passed one million for the first time in a decade"
+      - claim: youth unemployment rate
+        kind: numerical_with_unit
+        value: "16.2%"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "youth unemployment stood at 16.2%"
+      - claim: named person — Prospect General Secretary
+        kind: named_person
+        value: "Mike Clancy"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Prospect General Secretary Mike Clancy warned"
+      - claim: named institution — Prospect (trade union)
+        kind: named_institution
+        value: "Prospect"
+        source_urls:
+          - https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        verbatim_excerpt: "Prospect General Secretary Mike Clancy warned"
+    quotes:
+      - speaker_name: Liz Kendall
+        speaker_title: Technology Secretary
+        verbatim_en: "I'm determined to give young people the jobs and skills they need to thrive in an era of technological change."
+        source_url: https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        context: London Tech Week announcement, June 8, 2026
+      - speaker_name: Pat McFadden
+        speaker_title: Work and Pensions Secretary
+        verbatim_en: "Young people deserve every opportunity to build a meaningful career...ensuring no one is left behind."
+        source_url: https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        context: London Tech Week announcement, June 8, 2026
+      - speaker_name: Mike Clancy
+        speaker_title: General Secretary, Prospect
+        verbatim_en: "Some of the most exposed roles...are held by young workers."
+        source_url: https://www.resultsense.com/news/2026-06-08-labour-ai-jobs-bootcamps-young-people/
+        context: Response to Early Careers Jobs Alliance announcement
+
+  - story_id: starmer-under-16-social-media-ban-london-tech-week
+    category: society
+    headline_en: Starmer signals imminent ban on social media for under-16s as consultation closes and London Tech Week child safety push intensifies
+    lead_url: https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+    body_source: full
+    corroborated_by:
+      - https://researchbriefings.files.parliament.uk/documents/CBP-10468/CBP-10468.pdf
+      - https://www.computing.co.uk/news/2026/legislation-regulation/government-exploring-u16-social-media-ban
+    locked_urls:
+      - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+      - https://researchbriefings.files.parliament.uk/documents/CBP-10468/CBP-10468.pdf
+      - https://www.computing.co.uk/news/2026/legislation-regulation/government-exploring-u16-social-media-ban
+    hard_facts:
+      - claim: Starmer's indication date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "Prime Minister Keir Starmer indicated on June 8, 2026, at London Tech Week"
+      - claim: expected announcement window
+        kind: temporal
+        value: "within ten days"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "he expected to announce within ten days a ban on social media for under-16s"
+      - claim: Makerfield by-election date
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "The announcement is expected before the Makerfield by-election on June 18"
+      - claim: consultation start date
+        kind: temporal
+        value: "March 2"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "The government's consultation on children's social media use ran from March 2 to May 26, 2026"
+      - claim: consultation end date
+        kind: temporal
+        value: "May 26, 2026"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "The government's consultation on children's social media use ran from March 2 to May 26, 2026"
+      - claim: number of consultation responses
+        kind: numerical
+        value: "116,211"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "received 116,211 responses"
+      - claim: named product — Children's Wellbeing and Schools Act 2026
+        kind: named_product
+        value: "Children's Wellbeing and Schools Act 2026"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "Part 3 of the Children's Wellbeing and Schools Act 2026 mandates the government to impose age or functionality restrictions on social media for under-16s"
+      - claim: planned exclusion — YouTube Kids
+        kind: named_product
+        value: "YouTube Kids"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "The planned exclusions include applications such as YouTube Kids"
+      - claim: named person — England's Children's Commissioner
+        kind: named_person
+        value: "Rachel de Souza"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "England's Children's Commissioner Rachel de Souza publicly called for the ban to extend to 16-17 year-olds"
+      - claim: named person — Business Secretary
+        kind: named_person
+        value: "Peter Kyle"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "Business Secretary Peter Kyle separately signalled that the state would \"aggressively\" take equity stakes in fast-growing UK companies"
+      - claim: Arm NYSE valuation
+        kind: numerical_with_unit
+        value: "$370 billion"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "citing the cautionary example of Arm's New York listing at a $370 billion valuation"
+      - claim: May 2026 local elections context
+        kind: temporal
+        value: "May 2026 local elections"
+        source_urls:
+          - https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        verbatim_excerpt: "following heavy losses in the May 2026 local elections"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister
+        verbatim_en: "The pace of change cannot be an excuse for harm. And where technology poses a threat to our people, to our children, we will act quickly and firmly."
+        source_url: https://www.thenationalnews.com/future/technology/2026/06/08/uk-set-to-impose-under-16s-social-media-ban-and-introduce-ai-jobs-bootcamp/
+        context: London Tech Week, June 8, 2026
+
+  - story_id: henry-nowak-murder-protest-southampton-court
+    category: society
+    headline_en: Henry Nowak murder protest defendants appear at Southampton magistrates' court as far-right exploitation draws government rebuke
+    lead_url: https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/world/united-kingdom/uk-violence-protest-teenager-stabbing-death-henry-nowak-southampton-rcna348224
+      - https://www.euronews.com/2026/06/03/protests-erupt-in-uk-over-murder-of-18-year-old-student-henry-nowak
+      - https://www.aljazeera.com/news/2026/6/3/uk-minister-condemns-violent-protests-against-students-murder
+    locked_urls:
+      - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+      - https://www.nbcnews.com/world/united-kingdom/uk-violence-protest-teenager-stabbing-death-henry-nowak-southampton-rcna348224
+      - https://www.euronews.com/2026/06/03/protests-erupt-in-uk-over-murder-of-18-year-old-student-henry-nowak
+      - https://www.aljazeera.com/news/2026/6/3/uk-minister-condemns-violent-protests-against-students-murder
+    hard_facts:
+      - claim: court appearance date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "On June 8, 2026, defendants charged with violent disorder following Southampton protests appeared at Southampton Magistrates' Court"
+      - claim: total number charged
+        kind: numerical
+        value: "14"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "bringing the total charged to 14"
+      - claim: named person — perpetrator
+        kind: named_person
+        value: "Vickrum Digwa"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "the conviction and sentencing of Vickrum Digwa, 23, for the murder of Henry Nowak, 18"
+      - claim: perpetrator's age
+        kind: numerical
+        value: "23"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "Vickrum Digwa, 23, for the murder of Henry Nowak"
+      - claim: named person — victim
+        kind: named_person
+        value: "Henry Nowak"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "for the murder of Henry Nowak, 18"
+      - claim: victim's age
+        kind: numerical
+        value: "18"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "for the murder of Henry Nowak, 18"
+      - claim: Digwa sentence — life imprisonment minimum term
+        kind: temporal
+        value: "minimum term of 21 years"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "Digwa was sentenced to life in prison with a minimum term of 21 years"
+      - claim: murder date
+        kind: temporal
+        value: "December 3, 2025"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "Nowak, a freshman finance student, was murdered on December 3, 2025"
+      - claim: officers injured in protests
+        kind: numerical
+        value: "11 officers"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "11 officers and one police dog were injured"
+      - claim: date of guilty pleas
+        kind: temporal
+        value: "June 6"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "On June 6, four individuals pleaded guilty to violent disorder"
+      - claim: number of guilty pleas on June 6
+        kind: numerical
+        value: "four"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "On June 6, four individuals pleaded guilty to violent disorder"
+      - claim: number of defendants appearing June 8
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "on June 8, three more defendants appeared"
+      - claim: named person — Nigel Farage
+        kind: named_person
+        value: "Nigel Farage"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "Prime Minister Keir Starmer criticised Nigel Farage for attempting to \"create division\""
+      - claim: named person — Home Secretary
+        kind: named_person
+        value: "Shabana Mahmood"
+        source_urls:
+          - https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        verbatim_excerpt: "Home Secretary Shabana Mahmood stated"
+    quotes:
+      - speaker_name: Shabana Mahmood
+        speaker_title: Home Secretary
+        verbatim_en: "There can be no justification for hijacking this tragedy to stir up violence and disorder."
+        source_url: https://www.portsmouth.co.uk/news/crime/three-more-charged-over-southampton-protests-after-henry-nowak-murder-8662026
+        context: Government response to Southampton protest violence
+
+  - story_id: tate-lyle-2-7bn-takeover-ingredion-lse-listing
+    category: ipo_ma
+    headline_en: Tate & Lyle agrees £2.7bn all-cash takeover by US rival Ingredion, ending 87-year London Stock Exchange listing
+    lead_url: https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-08/ingredion-agrees-to-buy-uk-rival-tate-lyle-for-2-7-billion
+      - https://www.rte.ie/news/business/2026/0608/1577278-tate-lyle-takeover-deal/
+      - https://www.sec.gov/Archives/edgar/data/0001046257/000162828026034886/exhibit991pressrelease.htm
+      - https://www.foodbev.com/news/ingredion-and-tate-lyle-agree-on-2-7-billion-acquisition-deal/
+    locked_urls:
+      - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+      - https://www.bloomberg.com/news/articles/2026-06-08/ingredion-agrees-to-buy-uk-rival-tate-lyle-for-2-7-billion
+      - https://www.rte.ie/news/business/2026/0608/1577278-tate-lyle-takeover-deal/
+      - https://www.sec.gov/Archives/edgar/data/0001046257/000162828026034886/exhibit991pressrelease.htm
+      - https://www.foodbev.com/news/ingredion-and-tate-lyle-agree-on-2-7-billion-acquisition-deal/
+    hard_facts:
+      - claim: deal announcement date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "Tate & Lyle PLC agreed on June 8, 2026 to a recommended all-cash takeover by Ingredion Incorporated"
+      - claim: named institution — acquirer
+        kind: named_institution
+        value: "Ingredion Incorporated"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+          - https://www.bloomberg.com/news/articles/2026-06-08/ingredion-agrees-to-buy-uk-rival-tate-lyle-for-2-7-billion
+        verbatim_excerpt: "all-cash takeover by Ingredion Incorporated (US, Illinois)"
+      - claim: deal value (equity)
+        kind: numerical_with_unit
+        value: "£2.7 billion"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+          - https://www.bloomberg.com/news/articles/2026-06-08/ingredion-agrees-to-buy-uk-rival-tate-lyle-for-2-7-billion
+        verbatim_excerpt: "valued at £2.7 billion"
+      - claim: deal value including debt
+        kind: numerical_with_unit
+        value: "£3.8 billion including debt"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "valued at £2.7 billion (£3.8 billion including debt)"
+      - claim: combined entity value
+        kind: numerical_with_unit
+        value: "approximately $9.9 billion"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "creating a combined entity worth approximately $9.9 billion"
+      - claim: cash consideration per share
+        kind: numerical_with_unit
+        value: "595 pence per share"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "Tate & Lyle shareholders receive 595 pence per share in cash"
+      - claim: permitted final dividend
+        kind: numerical_with_unit
+        value: "up to 13 pence per share"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "a permitted final dividend of up to 13 pence per share for the year to March 31, 2026"
+      - claim: final dividend period
+        kind: temporal
+        value: "year to March 31, 2026"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "for the year to March 31, 2026"
+      - claim: permitted interim dividend
+        kind: numerical_with_unit
+        value: "up to 7 pence per share"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "an interim dividend of up to 7 pence per share for the six months to September 30, 2026"
+      - claim: interim dividend period
+        kind: temporal
+        value: "six months to September 30, 2026"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "for the six months to September 30, 2026"
+      - claim: total additional shareholder returns
+        kind: numerical_with_unit
+        value: "20 pence"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "20 pence in total additional returns"
+      - claim: premium over pre-announcement closing price
+        kind: numerical_with_unit
+        value: "nearly 59%"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "The offer represents a premium of nearly 59% above the pre-announcement closing price"
+      - claim: combined annual cost savings target
+        kind: numerical_with_unit
+        value: "approximately $130 million (£97.5 million)"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "Combined annual cost savings are expected to reach approximately $130 million (£97.5 million) by end-2030"
+      - claim: cost savings target date
+        kind: temporal
+        value: "end-2030"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "approximately $130 million (£97.5 million) by end-2030"
+      - claim: number of regulatory jurisdictions requiring clearance
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "Regulatory clearance is required in 12 jurisdictions including the US, EU, UK, China, and Brazil"
+      - claim: expected completion timing
+        kind: temporal
+        value: "second half of 2027"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "completion is expected in the second half of 2027"
+      - claim: Tate & Lyle LSE listing duration
+        kind: temporal
+        value: "87-year listing"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "The deal ends Tate & Lyle's 87-year listing on the London Stock Exchange"
+      - claim: named institution — London Stock Exchange
+        kind: named_institution
+        value: "London Stock Exchange"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "The deal ends Tate & Lyle's 87-year listing on the London Stock Exchange"
+      - claim: Tate & Lyle first-half profit drop
+        kind: numerical_with_unit
+        value: "10% drop in first-half profits"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "Tate & Lyle had reported a 10% drop in first-half profits ahead of the deal"
+      - claim: UK M&A bids value in 2026
+        kind: numerical_with_unit
+        value: "over £20 billion"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "the UK M&A market in 2026 had seen takeover bids worth over £20 billion against just two new LSE listings"
+      - claim: new LSE listings count in 2026
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "over £20 billion against just two new LSE listings"
+      - claim: named person — Tate & Lyle Chair
+        kind: named_person
+        value: "David Hearn"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "Tate & Lyle Chair David Hearn stated"
+      - claim: named person — Ingredion Chairman and CEO
+        kind: named_person
+        value: "Jim Zallie"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        verbatim_excerpt: "Ingredion Chairman and CEO Jim Zallie stated"
+    quotes:
+      - speaker_name: David Hearn
+        speaker_title: Chair, Tate & Lyle
+        verbatim_en: "The board believes Ingredion's offer represents an attractive opportunity for shareholders to crystallise value in cash."
+        source_url: https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        context: Tate & Lyle recommended offer announcement, June 8, 2026
+      - speaker_name: Jim Zallie
+        speaker_title: Chairman and CEO, Ingredion
+        verbatim_en: "creates a global leader in ingredient solutions"
+        source_url: https://uk.finance.yahoo.com/news/tate-lyle-agrees-2-7bn-063231631.html
+        context: Tate & Lyle acquisition announcement, June 8, 2026
+
+  - story_id: boe-banknote-wildlife-consultation-18-species
+    category: other
+    headline_en: Bank of England launches public consultation on wildlife for next UK banknote series, shortlisting 18 native species
+    lead_url: https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+    body_source: full
+    corroborated_by:
+      - https://uk.finance.yahoo.com/news/bank-england-reveals-animals-230100399.html
+      - https://www.countryside-jobs.com/article/public-asked-to-help-select-uk-wildlife-to-appear-on-new-banknote-series
+    locked_urls:
+      - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+      - https://uk.finance.yahoo.com/news/bank-england-reveals-animals-230100399.html
+      - https://www.countryside-jobs.com/article/public-asked-to-help-select-uk-wildlife-to-appear-on-new-banknote-series
+    hard_facts:
+      - claim: consultation launch date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "The Bank of England launched a public consultation on June 8, 2026"
+      - claim: number of shortlisted species
+        kind: numerical
+        value: "18"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "inviting the public to select from a shortlist of 18 UK native wildlife species"
+      - claim: banknote denominations covered
+        kind: named_product
+        value: "£5, £10, £20, and £50 banknotes"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "to feature on the next series of £5, £10, £20, and £50 banknotes"
+      - claim: Mammals shortlist — bottlenose dolphin
+        kind: named_product
+        value: "bottlenose dolphin"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Mammals — bottlenose dolphin, brown hare, European hedgehog, grey seal, pine marten, and red fox"
+      - claim: Mammals shortlist — brown hare
+        kind: named_product
+        value: "brown hare"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Mammals — bottlenose dolphin, brown hare, European hedgehog, grey seal, pine marten, and red fox"
+      - claim: Mammals shortlist — European hedgehog
+        kind: named_product
+        value: "European hedgehog"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "bottlenose dolphin, brown hare, European hedgehog, grey seal, pine marten, and red fox"
+      - claim: Mammals shortlist — grey seal
+        kind: named_product
+        value: "grey seal"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "European hedgehog, grey seal, pine marten, and red fox"
+      - claim: Mammals shortlist — pine marten
+        kind: named_product
+        value: "pine marten"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "grey seal, pine marten, and red fox"
+      - claim: Mammals shortlist — red fox
+        kind: named_product
+        value: "red fox"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "pine marten, and red fox"
+      - claim: Birds shortlist — Atlantic puffin
+        kind: named_product
+        value: "Atlantic puffin"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Birds — Atlantic puffin, barn owl, common kingfisher, Eurasian curlew, great spotted woodpecker, and white-tailed eagle"
+      - claim: Birds shortlist — barn owl
+        kind: named_product
+        value: "barn owl"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Atlantic puffin, barn owl, common kingfisher"
+      - claim: Birds shortlist — common kingfisher
+        kind: named_product
+        value: "common kingfisher"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "barn owl, common kingfisher, Eurasian curlew"
+      - claim: Birds shortlist — Eurasian curlew
+        kind: named_product
+        value: "Eurasian curlew"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "common kingfisher, Eurasian curlew, great spotted woodpecker"
+      - claim: Birds shortlist — great spotted woodpecker
+        kind: named_product
+        value: "great spotted woodpecker"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Eurasian curlew, great spotted woodpecker, and white-tailed eagle"
+      - claim: Birds shortlist — white-tailed eagle
+        kind: named_product
+        value: "white-tailed eagle"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "great spotted woodpecker, and white-tailed eagle"
+      - claim: Other species — common frog
+        kind: named_product
+        value: "common frog"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Other species — common frog, buff-tailed bumblebee, emperor dragonfly, Atlantic salmon, basking shark, and marsh fritillary butterfly"
+      - claim: Other species — buff-tailed bumblebee
+        kind: named_product
+        value: "buff-tailed bumblebee"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "common frog, buff-tailed bumblebee, emperor dragonfly"
+      - claim: Other species — emperor dragonfly
+        kind: named_product
+        value: "emperor dragonfly"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "buff-tailed bumblebee, emperor dragonfly, Atlantic salmon"
+      - claim: Other species — Atlantic salmon
+        kind: named_product
+        value: "Atlantic salmon"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "emperor dragonfly, Atlantic salmon, basking shark"
+      - claim: Other species — basking shark
+        kind: named_product
+        value: "basking shark"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Atlantic salmon, basking shark, and marsh fritillary butterfly"
+      - claim: Other species — marsh fritillary butterfly
+        kind: named_product
+        value: "marsh fritillary butterfly"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "basking shark, and marsh fritillary butterfly"
+      - claim: maximum species selections per category
+        kind: numerical
+        value: "up to two species from each category"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "The public can select up to two species from each category"
+      - claim: consultation closing date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "in a consultation running until July 3, 2026"
+      - claim: named person — Governor Andrew Bailey
+        kind: named_person
+        value: "Andrew Bailey"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Governor Andrew Bailey will make the final selection"
+      - claim: outcome announcement timing
+        kind: temporal
+        value: "end of 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "with the Bank expected to announce the outcome by end of 2026"
+      - claim: wildlife theme announcement date
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "The decision follows the Bank's March 2026 announcement that wildlife—with a focus on native UK species—would be the central theme"
+      - claim: current Bank Rate (contextual)
+        kind: numerical_with_unit
+        value: "3.75%"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Current Bank Rate is 3.75%"
+      - claim: named institution — Bank of England
+        kind: named_institution
+        value: "Bank of England"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "The Bank of England launched a public consultation on June 8, 2026"
+      - claim: named institution — Investment Association
+        kind: named_institution
+        value: "Investment Association"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series
+        verbatim_excerpt: "Bailey's scheduled attendance at an Adam Smith anniversary event in Kirkcaldy and the Investment Association Annual Conference"
+    quotes: []

@@ -1,0 +1,1504 @@
+version: 1
+generated_at: "2026-06-08T12:00:00Z"
+country: United States
+date: "2026-06-08"
+total_stories: 15
+
+stories:
+  - story_id: us-stock-futures-slide-may-jobs-yields
+    category: econ
+    headline_en: "U.S. Stock Futures Slide as Strong May Jobs Data Drives Yields Higher, Rate-Hike Odds Jump to 70%"
+    lead_url: "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+    body_source: full
+    corroborated_by:
+      - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-08-2026"
+    locked_urls:
+      - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+      - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-08-2026"
+    hard_facts:
+      - claim: E-mini S&P 500 futures decline
+        kind: numerical_with_unit
+        value: "roughly 2.6%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "E-mini S&P 500 contracts indicating a decline of roughly 2.6%"
+      - claim: Nasdaq 100 futures decline
+        kind: numerical_with_unit
+        value: "nearly 4.8%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Nasdaq 100 futures off nearly 4.8%"
+      - claim: May nonfarm payrolls report date
+        kind: temporal
+        value: "Friday June 5"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "May nonfarm payrolls report released Friday June 5"
+      - claim: May nonfarm payrolls added
+        kind: numerical_with_unit
+        value: "172,000"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "172,000 jobs added"
+      - claim: Dow Jones consensus estimate for payrolls
+        kind: numerical_with_unit
+        value: "85,000"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "nearly double the Dow Jones consensus estimate of 85,000"
+      - claim: Unemployment rate
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "the unemployment rate holding unchanged at 4.3%"
+      - claim: Average hourly earnings month-on-month rise
+        kind: numerical_with_unit
+        value: "0.3%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Average hourly earnings rose 0.3% month-on-month"
+      - claim: 10-year U.S. Treasury yield on June 8
+        kind: numerical_with_unit
+        value: "approximately 4.54%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "The 10-year U.S. Treasury yield climbed to approximately 4.54% on June 8"
+      - claim: 2-year Treasury yield
+        kind: numerical_with_unit
+        value: "4.20%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "up from 4.20% on the 2-year"
+      - claim: 30-year Treasury yield
+        kind: numerical_with_unit
+        value: "5.01%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "5.01% on the 30-year"
+      - claim: Fed rate hike probability December 2026
+        kind: numerical_with_unit
+        value: "nearly 70%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "markets raised the probability of a Federal Reserve rate hike in December 2026 to nearly 70%"
+      - claim: Prior Fed rate hike probability
+        kind: numerical_with_unit
+        value: "roughly 50%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "up from roughly 50% previously"
+      - claim: Nasdaq Friday June 5 decline
+        kind: numerical_with_unit
+        value: "4.18%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "the Nasdaq fell 4.18% to close at 25,709.43"
+      - claim: Nasdaq Friday June 5 closing level
+        kind: numerical
+        value: "25,709.43"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "close at 25,709.43"
+      - claim: S&P 500 Friday June 5 decline
+        kind: numerical_with_unit
+        value: "2.64%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "the S&P 500 fell 2.64% to 7,383.74"
+      - claim: S&P 500 Friday June 5 closing level
+        kind: numerical
+        value: "7,383.74"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "to 7,383.74"
+      - claim: Marvell Technology (MRVL) decline on June 8
+        kind: numerical_with_unit
+        value: "down 16.74%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Marvell Technology (MRVL) down 16.74%"
+      - claim: Micron Technology (MU) decline on June 8
+        kind: numerical_with_unit
+        value: "down 13.25%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Micron Technology (MU) down 13.25%"
+      - claim: FedEx Freight (FDXF) gain on June 8
+        kind: numerical_with_unit
+        value: "rising 6.42%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "FedEx Freight (FDXF) was a notable outperformer, rising 6.42%"
+      - claim: WTI crude oil price on June 8
+        kind: numerical_with_unit
+        value: "$93.63/bbl"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "WTI crude rose to $93.63/bbl (up 3.41%)"
+      - claim: WTI crude oil gain on June 8
+        kind: numerical_with_unit
+        value: "up 3.41%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "WTI crude rose to $93.63/bbl (up 3.41%)"
+      - claim: Brent crude oil price on June 8
+        kind: numerical_with_unit
+        value: "$97.68/bbl"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Brent to $97.68/bbl (up 4.93%)"
+      - claim: Brent crude oil gain on June 8
+        kind: numerical_with_unit
+        value: "up 4.93%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Brent to $97.68/bbl (up 4.93%)"
+      - claim: April 8 ceasefire date (Iran-Israel)
+        kind: temporal
+        value: "April 8"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "the April 8 ceasefire"
+      - claim: Named institution — Federal Reserve
+        kind: named_institution
+        value: "Federal Reserve"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "the probability of a Federal Reserve rate hike in December 2026"
+      - claim: Named institution — Dow Jones
+        kind: named_institution
+        value: "Dow Jones"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "the Dow Jones consensus estimate of 85,000"
+      - claim: Named product — Marvell Technology stock ticker
+        kind: named_product
+        value: "MRVL"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Marvell Technology (MRVL)"
+      - claim: Named product — Micron Technology stock ticker
+        kind: named_product
+        value: "MU"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Micron Technology (MU)"
+      - claim: Named product — FedEx Freight stock ticker
+        kind: named_product
+        value: "FDXF"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "FedEx Freight (FDXF)"
+    quotes:
+      - speaker_name: Simply Wall St analyst
+        speaker_title: Analyst, Simply Wall St
+        verbatim_en: "The key question now is whether this mix of solid hiring and firm wages keeps pressure on interest rate sensitive areas, such as growth stocks and smaller companies, or instead supports more defensive sectors, such as utilities."
+        source_url: "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        context: Comment on May jobs data impact on equity markets
+
+  - story_id: trump-revised-steel-aluminum-copper-tariff
+    category: econ
+    headline_en: "Trump's Revised Steel, Aluminum and Copper Tariff Regime Takes Effect, Cutting Rates on Agricultural and Industrial Equipment to 15%"
+    lead_url: "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+    body_source: full
+    corroborated_by:
+      - "https://www.supplychaindive.com/news/trump-further-tweaks-steel-aluminum-copper-tariffs/821719/"
+      - "https://www.washingtonpost.com/business/2026/06/02/trump-tariffs-steel-aluminum/862cc668-5ea4-11f1-9c46-d6211372eede_story.html"
+    locked_urls:
+      - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+      - "https://www.supplychaindive.com/news/trump-further-tweaks-steel-aluminum-copper-tariffs/821719/"
+      - "https://www.washingtonpost.com/business/2026/06/02/trump-tariffs-steel-aluminum/862cc668-5ea4-11f1-9c46-d6211372eede_story.html"
+    hard_facts:
+      - claim: Proclamation signed date
+        kind: temporal
+        value: "June 1, 2026"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "A presidential proclamation signed by President Donald Trump on June 1, 2026"
+      - claim: Effective date of proclamation
+        kind: temporal
+        value: "12:01 a.m. EDT on June 8, 2026"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "took effect at 12:01 a.m. EDT on June 8, 2026"
+      - claim: Statutory authority
+        kind: named_institution
+        value: "Section 232 of the Trade Expansion Act of 1962"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "under Section 232 of the Trade Expansion Act of 1962"
+      - claim: Reduced tariff rate for agricultural and industrial equipment
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "now face a reduced 15% rate"
+      - claim: Prior Section 232 tariff rate imposed April 2026
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "previously subject to the 25% Section 232 tariff imposed in April 2026"
+      - claim: Base Section 232 tariff for non-preferred jurisdictions
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "The base Section 232 tariff remains 25% for non-preferred jurisdictions"
+      - claim: Preferential tariff rate threshold for U.S.-melted/poured content
+        kind: numerical_with_unit
+        value: "85%"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "at least 85% U.S.-melted and poured or smelted and cast steel or aluminum by weight qualify for a preferential 10% rate"
+      - claim: Preferential tariff rate for qualifying U.S.-content goods
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "qualify for a preferential 10% rate"
+      - claim: Prior U.S.-content threshold
+        kind: numerical_with_unit
+        value: "95%"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "a threshold lowered from the prior 95% requirement"
+      - claim: New threshold effective date
+        kind: temporal
+        value: "January 1, 2028"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "effective January 1, 2028"
+      - claim: USMCA-qualifying tariff on non-U.S. content
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "Canada and Mexico USMCA-qualifying goods face a 25% tariff on non-U.S. content"
+      - claim: USMCA minimum effective rate
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "with a minimum effective rate of 15%"
+      - claim: Adjusted rates end date
+        kind: temporal
+        value: "December 31, 2027"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "The adjusted rates remain in place through December 31, 2027"
+      - claim: U.S. steel producer rank in 2025
+        kind: numerical
+        value: "third-largest"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "the U.S. became the world's third-largest steel producer in 2025"
+      - claim: Projected new steelmaking capacity
+        kind: numerical_with_unit
+        value: "over 4 million tons"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "projected over 4 million tons of new steelmaking capacity to come online within two years"
+      - claim: Named person — President Donald Trump
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+        verbatim_excerpt: "President Donald Trump on June 1, 2026"
+    quotes: []
+
+  - story_id: us-economy-oil-inflation-yields-fed-rate-hike
+    category: econ
+    headline_en: "U.S. Economy Faces Dual Pressure of Oil-Driven Inflation and Rising Yields; Fed Rate Hike in December Now 70% Priced"
+    lead_url: "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+    body_source: full
+    corroborated_by:
+      - "https://home.treasury.gov/news/press-releases/sb0486"
+    locked_urls:
+      - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+      - "https://home.treasury.gov/news/press-releases/sb0486"
+    hard_facts:
+      - claim: Real GDP annualised growth Q1 2026
+        kind: numerical_with_unit
+        value: "1.6%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "growing at 1.6% annualised real GDP in Q1 2026"
+      - claim: Business investment growth Q1 2026
+        kind: numerical_with_unit
+        value: "more than 10%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "Business investment surged more than 10% in Q1 2026"
+      - claim: CPI year-on-year April 2026
+        kind: numerical_with_unit
+        value: "3.8%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "The all-items Consumer Price Index rose 3.8% year-on-year in April 2026"
+      - claim: Core PCE April 2026
+        kind: numerical_with_unit
+        value: "approximately 3.3%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "core PCE running at approximately 3.3%"
+      - claim: Extra household energy spending due to Iran war
+        kind: numerical_with_unit
+        value: "roughly $450 more"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "average U.S. households paying roughly $450 more on gasoline and energy"
+      - claim: Iran war start date
+        kind: temporal
+        value: "late February 2026"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "the Iran war, which began in late February 2026"
+      - claim: WTI crude oil price June 8
+        kind: numerical_with_unit
+        value: "$93.63/bbl"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "WTI crude oil rose to $93.63/bbl"
+      - claim: Brent crude oil price June 8
+        kind: numerical_with_unit
+        value: "$97.68/bbl"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "Brent to $97.68/bbl on June 8"
+      - claim: Oil price increase since pre-war levels
+        kind: numerical_with_unit
+        value: "more than 45%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "up more than 45% from pre-war levels"
+      - claim: 10-year Treasury yield June 8
+        kind: numerical_with_unit
+        value: "4.54%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "The 10-year Treasury yield climbed to 4.54% on June 8"
+      - claim: 30-year Treasury yield June 8
+        kind: numerical_with_unit
+        value: "5.01%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "with the 30-year at 5.01%"
+      - claim: May nonfarm payrolls
+        kind: numerical_with_unit
+        value: "172,000"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "Nonfarm payrolls added 172,000 in May"
+      - claim: May payrolls forecast
+        kind: numerical_with_unit
+        value: "85,000"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "far above the 85,000 forecast"
+      - claim: Unemployment rate May 2026
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "keeping the unemployment rate at 4.3%"
+      - claim: Fed rate hike probability December 2026
+        kind: numerical_with_unit
+        value: "approximately 70%"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "Markets now price approximately 70% probability of a Fed rate hike in December 2026"
+      - claim: Named person — Federal Reserve Chair Kevin Warsh
+        kind: named_person
+        value: "Kevin Warsh"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "The Federal Reserve, under Chair Kevin Warsh"
+      - claim: Named institution — Mercatus Center
+        kind: named_institution
+        value: "Mercatus Center"
+        source_urls:
+          - "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        verbatim_excerpt: "Mercatus Center, Economic Situation: June 2026"
+    quotes:
+      - speaker_name: Mercatus Center
+        speaker_title: Author, Economic Situation June 2026, Mercatus Center
+        verbatim_en: "The war in the Middle East unleashed an oil-driven inflationary shock that is now spreading through the U.S. economy, eroding purchasing power and compressing growth, and the Fed will likely remain on an extended pause navigating risks of a potential tradeoff between containing inflation and supporting the labor market."
+        source_url: "https://www.mercatus.org/research/policy-briefs/economic-situation-june-2026"
+        context: Mercatus Center analysis of June 2026 U.S. economic situation
+
+  - story_id: iran-israel-brent-crude-97-ceasefire-100-days
+    category: econ
+    headline_en: "Iran–Israel Missile Exchanges Push Brent Crude Above $97/bbl as Middle East Ceasefire Teeters on Hundredth Day of War"
+    lead_url: "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+    body_source: full
+    corroborated_by:
+      - "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
+      - "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html"
+    locked_urls:
+      - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+      - "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
+      - "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html"
+    hard_facts:
+      - claim: Brent crude oil price June 8
+        kind: numerical_with_unit
+        value: "$97.68 per barrel"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "Brent crude oil futures jumped more than 4.93% to $97.68 per barrel on June 8, 2026"
+      - claim: Brent crude oil gain June 8
+        kind: numerical_with_unit
+        value: "more than 4.93%"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "Brent crude oil futures jumped more than 4.93% to $97.68 per barrel"
+      - claim: WTI crude oil price June 8
+        kind: numerical_with_unit
+        value: "$93.63/bbl"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "WTI crude rose 3.41% to $93.63/bbl"
+      - claim: WTI crude oil gain June 8
+        kind: numerical_with_unit
+        value: "3.41%"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "WTI crude rose 3.41% to $93.63/bbl"
+      - claim: Day of 2026 Iran War
+        kind: temporal
+        value: "hundredth day"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "the hundredth day of the 2026 Iran War"
+      - claim: April 8 ceasefire date
+        kind: temporal
+        value: "April 8"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "the April 8 ceasefire"
+      - claim: Number of ballistic missiles fired by Iran
+        kind: numerical
+        value: "nearly 30"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "Iran fired nearly 30 ballistic missiles at Israel"
+      - claim: Iranian petrochemical complex targeted
+        kind: named_institution
+        value: "petrochemical complex in Mahshahr"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "a petrochemical complex in Mahshahr used for missile production"
+      - claim: Israeli strike locations in Iran
+        kind: named_institution
+        value: "Isfahan, Kermanshah, Tabriz, and Tehran"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "explosions reported in Isfahan, Kermanshah, Tabriz, and Tehran"
+      - claim: Oil price rise since pre-war levels
+        kind: numerical_with_unit
+        value: "more than 45%"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "WTI and Brent are both up more than 45% from pre-war levels"
+      - claim: Named person — President Trump
+        kind: named_person
+        value: "Trump"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "President Trump called on both sides to stop the attacks early Monday"
+      - claim: Named person — Israeli Prime Minister Benjamin Netanyahu
+        kind: named_person
+        value: "Benjamin Netanyahu"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "will ask Israeli Prime Minister Benjamin Netanyahu not to strike back"
+      - claim: Named institution — Financial Times
+        kind: named_institution
+        value: "Financial Times"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "Trump told the Financial Times he \"calls all the shots\""
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "Israel and Iran must immediately stop 'shooting.'"
+        source_url: "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        context: Trump posting on social media calling for halt to missile exchanges
+      - speaker_name: Israeli military
+        speaker_title: Israeli Air Force spokesperson
+        verbatim_en: "several targets at a huge petrochemical complex in Mahshahr, in southwestern Iran"
+        source_url: "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        context: Statement on retaliatory strikes on Iranian targets
+
+  - story_id: iran-30-ballistic-missiles-trump-ceasefire-100-day-war
+    category: politics
+    headline_en: "Iran Fires ~30 Ballistic Missiles at Israel; Trump Calls for Immediate Ceasefire as 100-Day Middle East War Reaches Crisis Point"
+    lead_url: "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+    body_source: full
+    corroborated_by:
+      - "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
+      - "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html"
+    locked_urls:
+      - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+      - "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
+      - "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html"
+    hard_facts:
+      - claim: Date of missile exchange
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "On June 8, 2026 — the hundredth day of the 2026 Iran War"
+      - claim: Day count of Iran War
+        kind: numerical
+        value: "hundredth day"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "the hundredth day of the 2026 Iran War"
+      - claim: Number of Iranian ballistic missiles
+        kind: numerical
+        value: "nearly 30"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "Iran fired nearly 30 ballistic missiles at Israel"
+      - claim: April 8 ceasefire date (first direct attack since)
+        kind: temporal
+        value: "April 8"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "the first direct Iranian missile attack since the April 8 ceasefire"
+      - claim: Israeli strike target cities in Iran
+        kind: named_institution
+        value: "Isfahan, Kermanshah, Tabriz, and Tehran"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "explosions confirmed in Isfahan, Kermanshah, Tabriz, and Tehran"
+      - claim: Petrochemical complex targeted location
+        kind: named_institution
+        value: "Mahshahr"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "a major petrochemical complex in Mahshahr used in missile manufacturing"
+      - claim: IRGC strike location
+        kind: named_institution
+        value: "Sulaymaniyah province of Iraq's Kurdistan region"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "Kurdish opposition headquarters in the Sulaymaniyah province of Iraq's Kurdistan region"
+      - claim: Iran war start date
+        kind: temporal
+        value: "February 28, 2026"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "The U.S. blockade of Iran, in place since the war began on February 28, 2026"
+      - claim: Named person — President Trump
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "President Trump, speaking publicly on social media early Monday"
+      - claim: Named person — Benjamin Netanyahu
+        kind: named_person
+        value: "Benjamin Netanyahu"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "spoken with Israeli Prime Minister Benjamin Netanyahu"
+      - claim: Named institution — Financial Times
+        kind: named_institution
+        value: "Financial Times"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "Trump told the Financial Times he had spoken with Israeli Prime Minister Benjamin Netanyahu"
+      - claim: Named institution — Islamic Revolutionary Guard Corps
+        kind: named_institution
+        value: "Islamic Revolutionary Guard Corps"
+        source_urls:
+          - "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        verbatim_excerpt: "The Islamic Revolutionary Guard Corps also launched separate strikes"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "Israel and Iran must immediately stop 'shooting.'"
+        source_url: "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        context: Trump social media post calling for ceasefire on June 8
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "I call the shots. I call all the shots."
+        source_url: "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243"
+        context: Trump to Financial Times asserting authority over U.S. Middle East policy
+
+  - story_id: house-rules-committee-fraud-prevention-senate-ice-70b
+    category: politics
+    headline_en: "House Rules Committee Convenes to Advance Fraud Prevention Bills; Senate $70B ICE Funding Package Moves to House as Congress Enters Midterm Season"
+    lead_url: "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+    body_source: full
+    corroborated_by:
+      - "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund"
+    locked_urls:
+      - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+      - "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund"
+    hard_facts:
+      - claim: House Rules Committee meeting time
+        kind: temporal
+        value: "4:00 p.m. ET on Monday, June 8, 2026"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "The House Committee on Rules convened at 4:00 p.m. ET on Monday, June 8, 2026"
+      - claim: House Rules Committee meeting location
+        kind: named_institution
+        value: "H-313 at the U.S. Capitol"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "in H-313 at the U.S. Capitol"
+      - claim: Named product — Fraud Prevention and Accountability Act bill number
+        kind: named_product
+        value: "H.R. 8312"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "the Fraud Prevention and Accountability Act (H.R. 8312)"
+      - claim: Named product — Stopping Fraudulent Payments Act bill number
+        kind: named_product
+        value: "H.R. 8464"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "the Stopping Fraudulent Payments Act (H.R. 8464)"
+      - claim: Named product — House Resolution condemning fraud actors
+        kind: named_product
+        value: "H. Res. 1335"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "H. Res. 1335 condemning fraud actors"
+      - claim: Senate immigration bill total funding
+        kind: numerical_with_unit
+        value: "$70 billion"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "The House also awaited the $70 billion immigration enforcement funding bill"
+      - claim: Senate vote date for immigration bill
+        kind: temporal
+        value: "June 5, 2026"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "passed by the Senate early on June 5, 2026"
+      - claim: Senate vote result
+        kind: numerical
+        value: "52-47"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "in a 52-47 vote"
+      - claim: Named person — Lisa Murkowski as crossover vote
+        kind: named_person
+        value: "Lisa Murkowski"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "with only Alaska Senator Lisa Murkowski crossing party lines"
+      - claim: Anti-weaponization fund amount
+        kind: numerical_with_unit
+        value: "$1.8 billion"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "limits on the $1.8 billion \"anti-weaponization\" fund"
+      - claim: Named person — Senate Majority Leader John Thune
+        kind: named_person
+        value: "John Thune"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "Senate Majority Leader John Thune joined Democrats in criticizing the fund"
+      - claim: House members not seeking re-election
+        kind: numerical
+        value: "58"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "58 House members and two non-voting delegates"
+      - claim: Non-voting delegates not seeking re-election
+        kind: numerical
+        value: "two"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "58 House members and two non-voting delegates"
+      - claim: Democrats not seeking re-election
+        kind: numerical
+        value: "24"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "24 Democrats and 36 Republicans"
+      - claim: Republicans not seeking re-election
+        kind: numerical
+        value: "36"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "24 Democrats and 36 Republicans"
+      - claim: Total House seats contested November 2026
+        kind: numerical
+        value: "435"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "all 435 House seats and 35 Senate seats will be contested"
+      - claim: Total Senate seats contested November 2026
+        kind: numerical
+        value: "35"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "all 435 House seats and 35 Senate seats will be contested"
+      - claim: Named institution — Immigration and Customs Enforcement
+        kind: named_institution
+        value: "Immigration and Customs Enforcement"
+        source_urls:
+          - "https://rules.house.gov/media/announcement/meeting-announcement-june-8-2026"
+        verbatim_excerpt: "three-year funding for Immigration and Customs Enforcement and Border Patrol"
+    quotes: []
+
+  - story_id: trump-pulte-acting-dni-replacing-gabbard
+    category: politics
+    headline_en: "Trump Names Housing Official Bill Pulte Acting Director of National Intelligence, Replacing Tulsi Gabbard; Senate Republican Leader Criticises Appointment"
+    lead_url: "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+    body_source: full
+    corroborated_by:
+      - "https://www.nbcnews.com/politics/national-security/trump-william-pulte-acting-director-national-intelligence-tulsi-gabbar-rcna348036"
+      - "https://www.cnn.com/2026/06/05/politics/pulte-intelligence-chief-security-clearance"
+    locked_urls:
+      - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+      - "https://www.nbcnews.com/politics/national-security/trump-william-pulte-acting-director-national-intelligence-tulsi-gabbar-rcna348036"
+      - "https://www.cnn.com/2026/06/05/politics/pulte-intelligence-chief-security-clearance"
+    hard_facts:
+      - claim: Appointment date
+        kind: temporal
+        value: "June 2, 2026"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "President Donald Trump on June 2, 2026 named William J. \"Bill\" Pulte"
+      - claim: Named person — William J. Pulte (Bill Pulte)
+        kind: named_person
+        value: "William J. \"Bill\" Pulte"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "William J. \"Bill\" Pulte, director of the Federal Housing Finance Agency"
+      - claim: Named institution — Federal Housing Finance Agency
+        kind: named_institution
+        value: "Federal Housing Finance Agency"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "director of the Federal Housing Finance Agency and chairman of Fannie Mae and Freddie Mac"
+      - claim: Named institution — Fannie Mae
+        kind: named_institution
+        value: "Fannie Mae"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "chairman of Fannie Mae and Freddie Mac"
+      - claim: Named institution — Freddie Mac
+        kind: named_institution
+        value: "Freddie Mac"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "chairman of Fannie Mae and Freddie Mac"
+      - claim: Named person — Tulsi Gabbard
+        kind: named_person
+        value: "Tulsi Gabbard"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "replacing Tulsi Gabbard, who announced her resignation effective June 30, 2026"
+      - claim: Gabbard resignation effective date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "resignation effective June 30, 2026"
+      - claim: Named institution — Office of the Director of National Intelligence
+        kind: named_institution
+        value: "Office of the Director of National Intelligence"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "Trump directed Pulte to \"start the process\" of shrinking the Office of the Director of National Intelligence"
+      - claim: Named institution — Wall Street Journal
+        kind: named_institution
+        value: "Wall Street Journal"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "according to reporting citing a Wall Street Journal interview"
+      - claim: Named person — Senate Majority Leader John Thune
+        kind: named_person
+        value: "John Thune"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "Senate Majority Leader John Thune stated"
+      - claim: Lawmakers endorsing Pulte appointment
+        kind: numerical
+        value: "over 50"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "citing endorsements from over 50 lawmakers"
+      - claim: Named institution — CBS News
+        kind: named_institution
+        value: "CBS News"
+        source_urls:
+          - "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/"
+        verbatim_excerpt: "CBS News reported Trump's broader goal is to reduce the size of the U.S. intelligence community"
+    quotes:
+      - speaker_name: John Thune
+        speaker_title: Senate Majority Leader (R-SD)
+        verbatim_en: "We don't need a weaponized DNI, we need professionals there."
+        source_url: "https://www.nbcnews.com/politics/national-security/trump-william-pulte-acting-director-national-intelligence-tulsi-gabbar-rcna348036"
+        context: Thune's public rebuke of Trump's appointment of Pulte as Acting DNI
+
+  - story_id: us-semiconductor-stocks-marvell-micron-ai-chip-losses
+    category: tech
+    headline_en: "U.S. Semiconductor Stocks Extend Losses Into Monday; Marvell Down 17%, Micron Down 13% as AI Chip Sector Suffers Worst Week Since 2020"
+    lead_url: "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+    body_source: full
+    corroborated_by:
+      - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-08-2026"
+      - "https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html"
+    locked_urls:
+      - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+      - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-08-2026"
+      - "https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html"
+    hard_facts:
+      - claim: Marvell Technology (MRVL) decline June 8
+        kind: numerical_with_unit
+        value: "down 16.74%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Marvell Technology (MRVL) was down 16.74%"
+      - claim: Micron Technology (MU) decline June 8
+        kind: numerical_with_unit
+        value: "off 13.25%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Micron Technology (MU) was off 13.25%"
+      - claim: iShares Semiconductor ETF decline Friday June 5
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "the iShares Semiconductor ETF had dropped 10%"
+      - claim: iShares Semiconductor ETF worst single-day performance date
+        kind: temporal
+        value: "March 2020"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "its worst single-day performance since March 2020"
+      - claim: Market cap wiped from semiconductor sector
+        kind: numerical_with_unit
+        value: "approximately $1 trillion"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "wiping approximately $1 trillion in combined market value from the sector"
+      - claim: Named institution — Taiwan Semiconductor Manufacturing
+        kind: named_institution
+        value: "Taiwan Semiconductor Manufacturing"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Taiwan Semiconductor Manufacturing, Broadcom, and Micron each lost more than $100 billion"
+      - claim: Market cap loss per company (TSMC, Broadcom, Micron)
+        kind: numerical_with_unit
+        value: "more than $100 billion"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "Taiwan Semiconductor Manufacturing, Broadcom, and Micron each lost more than $100 billion in market capitalization"
+      - claim: Named institution — Broadcom (catalyst)
+        kind: named_institution
+        value: "Broadcom"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "The catalyst was Broadcom's failure to raise its AI chip outlook following Wednesday quarterly earnings"
+      - claim: May nonfarm payrolls catalyst
+        kind: numerical_with_unit
+        value: "172,000 payrolls versus 85,000 forecast"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "The stronger-than-expected May jobs report — 172,000 payrolls versus 85,000 forecast"
+      - claim: 10-year Treasury yield above threshold
+        kind: numerical_with_unit
+        value: "above 4.53%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "drove 10-year Treasury yields above 4.53%"
+      - claim: FedEx Freight (FDXF) gain June 8
+        kind: numerical_with_unit
+        value: "rising 6.42%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        verbatim_excerpt: "FedEx Freight (FDXF) was among Monday's outperformers, rising 6.42%"
+    quotes:
+      - speaker_name: Simply Wall St analyst
+        speaker_title: Analyst, Simply Wall St
+        verbatim_en: "The key question now is whether this mix of solid hiring and firm wages keeps pressure on interest rate sensitive areas, such as growth stocks and smaller companies, or instead supports more defensive sectors, such as utilities."
+        source_url: "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        context: Comment cited in Yahoo Finance June 8 article on jobs data and semiconductor market impact
+
+  - story_id: trump-medicaid-work-requirements-75m-coverage-losses
+    category: society
+    headline_en: "Bloomberg: Trump Administration's Harsh Medicaid Work-Requirement Rules Threaten Coverage for Millions Beyond Projected 7.5 Million Losses"
+    lead_url: "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+    body_source: paywall-stub
+    corroborated_by:
+      - "https://www.americanprogress.org/article/the-truth-about-the-one-big-beautiful-bill-acts-cuts-to-medicaid-and-medicare/"
+      - "https://www.kff.org/medicaid/medicaid-what-to-watch-in-2026/"
+      - "https://www.marketplace.org/story/2026/06/02/what-can-we-expect-as-medicaid-cuts-phase-in/"
+    locked_urls:
+      - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+      - "https://www.americanprogress.org/article/the-truth-about-the-one-big-beautiful-bill-acts-cuts-to-medicaid-and-medicare/"
+      - "https://www.kff.org/medicaid/medicaid-what-to-watch-in-2026/"
+      - "https://www.marketplace.org/story/2026/06/02/what-can-we-expect-as-medicaid-cuts-phase-in/"
+    hard_facts:
+      - claim: Named person — Lisa Jarvis (Bloomberg Opinion columnist)
+        kind: named_person
+        value: "Lisa Jarvis"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "Bloomberg Opinion columnist Lisa Jarvis reported on June 8, 2026"
+      - claim: Named product — One Big Beautiful Bill Act
+        kind: named_product
+        value: "One Big Beautiful Bill Act"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "Trump's \"One Big Beautiful Bill Act\" (signed July 4, 2025)"
+      - claim: Bill signing date
+        kind: temporal
+        value: "July 4, 2025"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "signed July 4, 2025"
+      - claim: Projected Americans to lose Medicaid coverage
+        kind: numerical_with_unit
+        value: "7.5 million"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "an estimated 7.5 million Americans were projected to lose coverage over time"
+      - claim: Administration rule implementing work requirements date
+        kind: temporal
+        value: "June 1, 2026"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "The June 1, 2026 administration rule implementing work requirements"
+      - claim: CBO estimate — gross federal Medicaid and CHIP spending reduction
+        kind: numerical_with_unit
+        value: "$1.02 trillion"
+        source_urls:
+          - "https://www.americanprogress.org/article/the-truth-about-the-one-big-beautiful-bill-acts-cuts-to-medicaid-and-medicare/"
+        verbatim_excerpt: "The Congressional Budget Office estimates the bill reduces gross federal Medicaid and CHIP spending by $1.02 trillion over 2025–2034"
+      - claim: CBO estimate time period
+        kind: temporal
+        value: "2025–2034"
+        source_urls:
+          - "https://www.americanprogress.org/article/the-truth-about-the-one-big-beautiful-bill-acts-cuts-to-medicaid-and-medicare/"
+        verbatim_excerpt: "over 2025–2034"
+      - claim: Work requirement hours per month
+        kind: numerical_with_unit
+        value: "80 hours per month"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "most able-bodied adults to demonstrate 80 hours per month of work, community service, or school enrollment"
+      - claim: Eligibility redetermination frequency change
+        kind: temporal
+        value: "every six months rather than annually"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "States must now conduct eligibility redeterminations every six months rather than annually"
+      - claim: Federal matching funds reduction over next decade
+        kind: numerical_with_unit
+        value: "$900 billion"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "a projected $900 billion reduction in federal matching funds over the next decade"
+      - claim: Named institution — S&P Global Ratings assessment
+        kind: named_institution
+        value: "S&P Global Ratings"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "S&P Global Ratings stated the cuts could place \"significant pressure\" on state budgets"
+      - claim: Share of Americans affected by chronic diseases
+        kind: numerical_with_unit
+        value: "75%"
+        source_urls:
+          - "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        verbatim_excerpt: "Some 75% of Americans are affected by chronic diseases"
+      - claim: Named institution — Congressional Budget Office
+        kind: named_institution
+        value: "Congressional Budget Office"
+        source_urls:
+          - "https://www.americanprogress.org/article/the-truth-about-the-one-big-beautiful-bill-acts-cuts-to-medicaid-and-medicare/"
+        verbatim_excerpt: "The Congressional Budget Office estimates the bill reduces gross federal Medicaid and CHIP spending"
+    quotes:
+      - speaker_name: Lisa Jarvis
+        speaker_title: Opinion Columnist, Bloomberg Opinion
+        verbatim_en: "The Trump administration is taking a harsher approach to implementing that policy than anticipated — or required by law."
+        source_url: "https://www.bloomberg.com/opinion/articles/2026-06-08/trump-s-medicaid-cuts-could-hurt-the-whole-healthcare-system"
+        context: Bloomberg opinion piece assessing implementation of Medicaid work requirements
+
+  - story_id: ohio-old-west-end-festival-shooting-manhunt-12-victims
+    category: society
+    headline_en: "Manhunt Enters Third Day in Ohio Festival Shooting; 12 Victims in Stable Condition, No Arrests in Toledo Old West End Attack"
+    lead_url: "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+    body_source: full
+    corroborated_by:
+      - "https://www.cnn.com/2026/06/06/us/old-west-end-festival-toledo-ohio-shooting"
+      - "https://www.npr.org/2026/06/07/nx-s1-5849137/12-people-shot-ohio-festival"
+      - "https://abcnews.com/US/multiple-people-shot-outdoor-festival-ohio-police/story?id=133654043"
+    locked_urls:
+      - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+      - "https://www.cnn.com/2026/06/06/us/old-west-end-festival-toledo-ohio-shooting"
+      - "https://www.npr.org/2026/06/07/nx-s1-5849137/12-people-shot-ohio-festival"
+      - "https://abcnews.com/US/multiple-people-shot-outdoor-festival-ohio-police/story?id=133654043"
+    hard_facts:
+      - claim: Shooting date
+        kind: temporal
+        value: "Saturday June 6"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "opened fire near the Old West End Festival in Toledo, Ohio on Saturday June 6"
+      - claim: Number of victims shot
+        kind: numerical
+        value: "12"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "wounding 12 people"
+      - claim: Victims taken to Bellevue Hospital
+        kind: numerical
+        value: "five"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "five were taken to Bellevue Hospital"
+      - claim: Named institution — Bellevue Hospital
+        kind: named_institution
+        value: "Bellevue Hospital"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "five were taken to Bellevue Hospital"
+      - claim: Festival cancelled date
+        kind: temporal
+        value: "Sunday June 7"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "The remainder of the Old West End Festival was cancelled on Sunday June 7"
+      - claim: Total U.S. shootings in 2026 to date
+        kind: numerical
+        value: "170"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "one of 170 shootings recorded in the United States in 2026 to date"
+      - claim: People killed in 2026 shootings to date
+        kind: numerical
+        value: "175"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "175 people had been killed"
+      - claim: People wounded in 2026 shootings to date
+        kind: numerical
+        value: "695"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "695 wounded"
+      - claim: Named institution — Gun Violence Archive
+        kind: named_institution
+        value: "Gun Violence Archive"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "according to Gun Violence Archive data cited in news coverage"
+      - claim: FIFA World Cup 2026 opening date
+        kind: temporal
+        value: "June 11"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+        verbatim_excerpt: "the FIFA World Cup 2026, which opens June 11"
+    quotes: []
+
+  - story_id: world-cup-2026-security-visa-metlife-stadium
+    category: society
+    headline_en: "World Cup 2026 Security and Visa Complexities on Final Countdown: MetLife Stadium Enforces TSA-Style Screening; Fans From 39 Travel-Banned Countries Barred"
+    lead_url: "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+    body_source: full
+    corroborated_by:
+      - "https://www.cfr.org/articles/the-u-s-is-co-hosting-the-world-cup-but-much-of-the-world-cant-attend"
+      - "https://www.americanimmigrationcouncil.org/blog/world-cup-travel-bans-ice-iran-50-days/"
+    locked_urls:
+      - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+      - "https://www.cfr.org/articles/the-u-s-is-co-hosting-the-world-cup-but-much-of-the-world-cant-attend"
+      - "https://www.americanimmigrationcouncil.org/blog/world-cup-travel-bans-ice-iran-50-days/"
+    hard_facts:
+      - claim: FIFA World Cup 2026 opening date
+        kind: temporal
+        value: "June 11, 2026"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "the 2026 FIFA World Cup opening on June 11, 2026"
+      - claim: MetLife Stadium matches count
+        kind: numerical
+        value: "eight matches"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "MetLife Stadium in East Rutherford, New Jersey, which will host eight matches"
+      - claim: World Cup final date at MetLife
+        kind: temporal
+        value: "July 19"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "including the July 19 final"
+      - claim: Named institution — MetLife Stadium
+        kind: named_institution
+        value: "MetLife Stadium"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "MetLife Stadium in East Rutherford, New Jersey"
+      - claim: Fan arrival time requirement
+        kind: temporal
+        value: "at least two hours before matches"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "fans must arrive at least two hours before matches for TSA-style screening"
+      - claim: Number of agencies coordinating security
+        kind: numerical_with_unit
+        value: "More than 400"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "More than 400 local, state, and federal agencies are coordinating on match-day security"
+      - claim: Number of travel-banned countries
+        kind: numerical
+        value: "39"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "bars citizens of 39 countries"
+      - claim: World Cup qualifying nations subject to full travel ban
+        kind: numerical
+        value: "four"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "four World Cup qualifying nations (Haiti, Iran, Ivory Coast, and Senegal)"
+      - claim: Travel ban reinstated date
+        kind: temporal
+        value: "June 2025"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "The Trump administration's travel ban — reinstated in June 2025 and expanded in December 2025"
+      - claim: Travel ban expanded date
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "reinstated in June 2025 and expanded in December 2025"
+      - claim: Qualifying nations subject to visa bond
+        kind: numerical
+        value: "five"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "An additional five qualifying nations' fans"
+      - claim: Visa bond amount
+        kind: numerical_with_unit
+        value: "up to $15,000"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "a visa bond of up to $15,000 to secure a B-1/B-2 tourist visa"
+      - claim: Named product — FIFA Priority Appointment Scheduling System
+        kind: named_product
+        value: "FIFA PASS"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/world-cup-transportation-preparations-nyc/"
+        verbatim_excerpt: "The U.S. State Department launched a FIFA Priority Appointment Scheduling System (FIFA PASS)"
+    quotes: []
+
+  - story_id: spacex-ipo-roadshow-2-trillion-valuation
+    category: ipo_ma
+    headline_en: "SpaceX IPO Roadshow Opens This Week Targeting Up to $2 Trillion Valuation — Largest Public Offering in History Begins Final Investor Marketing"
+    lead_url: "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+    body_source: paywall-stub
+    corroborated_by:
+      - "https://finance.yahoo.com/markets/stocks/articles/june-8-could-mark-beginning-130000277.html"
+      - "https://www.insiderfinance.io/news/spacex-ipo-prospectus-nears-ahead-of-june-roadshow"
+      - "https://capital.com/en-int/learn/ipo/spacex-ipo"
+    locked_urls:
+      - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+      - "https://finance.yahoo.com/markets/stocks/articles/june-8-could-mark-beginning-130000277.html"
+      - "https://www.insiderfinance.io/news/spacex-ipo-prospectus-nears-ahead-of-june-roadshow"
+      - "https://capital.com/en-int/learn/ipo/spacex-ipo"
+    hard_facts:
+      - claim: SpaceX IPO roadshow start week
+        kind: temporal
+        value: "the week of June 8, 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "SpaceX's investor roadshow opened the week of June 8, 2026"
+      - claim: SpaceX IPO target price per share
+        kind: numerical_with_unit
+        value: "$135 per share"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "targeting a fixed IPO price of $135 per share"
+      - claim: SpaceX valuation range low
+        kind: numerical_with_unit
+        value: "$1.75 trillion"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "a valuation of between $1.75 trillion and $2 trillion"
+      - claim: SpaceX valuation range high
+        kind: numerical_with_unit
+        value: "$2 trillion"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "a valuation of between $1.75 trillion and $2 trillion"
+      - claim: Target fundraise
+        kind: numerical_with_unit
+        value: "$75 billion"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "At the target fundraise of $75 billion"
+      - claim: Previous record for single public offering
+        kind: numerical_with_unit
+        value: "$25.6 billion"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "the previous record of $25.6 billion raised in a single public offering"
+      - claim: Number of investment banks in syndicate
+        kind: numerical
+        value: "more than 21"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "A syndicate of more than 21 investment banks is supporting the transaction"
+      - claim: Named product — SpaceX Nasdaq ticker
+        kind: named_product
+        value: "SPCX"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "SpaceX plans to list on the Nasdaq under the ticker symbol SPCX"
+      - claim: IPO pricing date
+        kind: temporal
+        value: "June 11"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "pricing expected after market close on June 11"
+      - claim: First day of SpaceX trading
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "the first day of trading on June 12, 2026"
+      - claim: Retail investor event participants
+        kind: numerical_with_unit
+        value: "approximately 1,500"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "hosting a dedicated retail investor event for approximately 1,500 participants"
+      - claim: Starlink 2025 revenue
+        kind: numerical_with_unit
+        value: "$11.4 billion"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "Starlink satellite internet subsidiary generated $11.4 billion in revenue in 2025"
+      - claim: Starlink share of SpaceX revenue 2025
+        kind: numerical_with_unit
+        value: "61%"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "accounting for 61% of total SpaceX revenue"
+      - claim: Starlink share of SpaceX revenue Q1 2026
+        kind: numerical_with_unit
+        value: "69%"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "rising to 69% in Q1 2026"
+      - claim: Starlink subscribers
+        kind: numerical_with_unit
+        value: "10.3 million subscribers"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "10.3 million subscribers across 155 countries"
+      - claim: Starlink countries covered
+        kind: numerical
+        value: "155 countries"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "10.3 million subscribers across 155 countries"
+      - claim: Named person — Elon Musk
+        kind: named_person
+        value: "Elon Musk"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "The company, led by Chief Executive Elon Musk"
+      - claim: Named institution — Anthropic S-1 filing date
+        kind: temporal
+        value: "June 1, 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "Anthropic, the AI safety company, filed a confidential S-1 registration statement with the SEC on June 1, 2026"
+      - claim: Named institution — Anthropic
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "Anthropic, the AI safety company"
+      - claim: Anthropic Series H financing
+        kind: numerical_with_unit
+        value: "$65 billion"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "following a $65 billion Series H financing"
+      - claim: Anthropic valuation from Series H
+        kind: numerical_with_unit
+        value: "$965 billion"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html"
+        verbatim_excerpt: "valued the company at $965 billion"
+    quotes: []
+
+  - story_id: campbells-company-8k-sec-filing-june-8
+    category: ipo_ma
+    headline_en: "Campbell's Company Files 8-K with SEC on June 8, 2026"
+    lead_url: "https://www.sec.gov/Archives/edgar/data/0000016732/000001673226000010/cpb-20260608.htm"
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - "https://www.sec.gov/Archives/edgar/data/0000016732/000001673226000010/cpb-20260608.htm"
+    hard_facts:
+      - claim: Filing date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0000016732/000001673226000010/cpb-20260608.htm"
+        verbatim_excerpt: "The Campbell's Company (NYSE: CPB) filed an 8-K current report with the SEC on June 8, 2026"
+      - claim: Named institution — Campbell's Company
+        kind: named_institution
+        value: "The Campbell's Company"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0000016732/000001673226000010/cpb-20260608.htm"
+        verbatim_excerpt: "The Campbell's Company (NYSE: CPB)"
+      - claim: Named product — Campbell's NYSE ticker
+        kind: named_product
+        value: "CPB"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0000016732/000001673226000010/cpb-20260608.htm"
+        verbatim_excerpt: "NYSE: CPB"
+      - claim: Named institution — SEC EDGAR
+        kind: named_institution
+        value: "SEC"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0000016732/000001673226000010/cpb-20260608.htm"
+        verbatim_excerpt: "filed an 8-K current report with the SEC on June 8, 2026, per EDGAR records"
+    quotes: []
+
+  - story_id: seaport-therapeutics-astronova-8k-sec-june-8
+    category: ipo_ma
+    headline_en: "Seaport Therapeutics and AstroNova File 8-K Reports with SEC on June 8, 2026"
+    lead_url: "https://www.sec.gov/Archives/edgar/data/0002042347/000119312526260671/sptx-20260608.htm"
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - "https://www.sec.gov/Archives/edgar/data/0002042347/000119312526260671/sptx-20260608.htm"
+    hard_facts:
+      - claim: Seaport Therapeutics filing date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0002042347/000119312526260671/sptx-20260608.htm"
+        verbatim_excerpt: "Seaport Therapeutics, Inc. (SPTX) and AstroNova, Inc. (ALOT) both filed 8-K current reports with the U.S. Securities and Exchange Commission on June 8, 2026"
+      - claim: Named institution — Seaport Therapeutics
+        kind: named_institution
+        value: "Seaport Therapeutics, Inc."
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0002042347/000119312526260671/sptx-20260608.htm"
+        verbatim_excerpt: "Seaport Therapeutics, Inc. (SPTX)"
+      - claim: Named product — Seaport Therapeutics ticker
+        kind: named_product
+        value: "SPTX"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0002042347/000119312526260671/sptx-20260608.htm"
+        verbatim_excerpt: "Seaport Therapeutics, Inc. (SPTX)"
+      - claim: Named institution — AstroNova
+        kind: named_institution
+        value: "AstroNova, Inc."
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0002042347/000119312526260671/sptx-20260608.htm"
+        verbatim_excerpt: "AstroNova, Inc. (ALOT)"
+      - claim: Named product — AstroNova ticker
+        kind: named_product
+        value: "ALOT"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0002042347/000119312526260671/sptx-20260608.htm"
+        verbatim_excerpt: "AstroNova, Inc. (ALOT)"
+    quotes: []
+
+  - story_id: nba-finals-game-3-trump-msg-security
+    category: other
+    headline_en: "NBA Finals Game 3 at MSG: Trump Attends Knicks vs. Spurs, Triggering Enhanced Security, Watch Party Cancellations in New York"
+    lead_url: "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+    body_source: full
+    corroborated_by:
+      - "https://abc7ny.com/post/no-msg-watch-party-enhanced-security-measures-knicks-fans-trump-attending-game-3-nba-finals/19252528/"
+      - "https://gothamist.com/news/knicks-game-3-guidance-arrive-early-and-without-a-bag-at-msg"
+    locked_urls:
+      - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+      - "https://abc7ny.com/post/no-msg-watch-party-enhanced-security-measures-knicks-fans-trump-attending-game-3-nba-finals/19252528/"
+      - "https://gothamist.com/news/knicks-game-3-guidance-arrive-early-and-without-a-bag-at-msg"
+    hard_facts:
+      - claim: NBA Finals Game 3 date
+        kind: temporal
+        value: "Monday, June 8, 2026"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "President Donald Trump attended Game 3 of the 2026 NBA Finals at Madison Square Garden on the evening of Monday, June 8, 2026"
+      - claim: Named institution — Madison Square Garden
+        kind: named_institution
+        value: "Madison Square Garden"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "Game 3 of the 2026 NBA Finals at Madison Square Garden"
+      - claim: Knicks series lead at Game 3
+        kind: numerical
+        value: "2-0"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "The New York Knicks entered the game with a 2-0 series lead over the San Antonio Spurs"
+      - claim: Named institution — San Antonio Spurs
+        kind: named_institution
+        value: "San Antonio Spurs"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "a 2-0 series lead over the San Antonio Spurs"
+      - claim: Game 3 tip-off time
+        kind: temporal
+        value: "8:30 PM ET"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "Game 3 tipping off at 8:30 PM ET"
+      - claim: Named person — Donald Trump
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "President Donald Trump attended Game 3"
+      - claim: Named institution — NYPD and U.S. Secret Service
+        kind: named_institution
+        value: "NYPD, U.S. Secret Service"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "The NYPD, in coordination with the U.S. Secret Service, cancelled planned outdoor watch parties"
+      - claim: Alternative watch party location added
+        kind: named_institution
+        value: "Bryant Park"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "the city added a Bryant Park watch party as an alternative"
+      - claim: Fan arrival time requirement
+        kind: temporal
+        value: "at least two hours before tipoff"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "advised fans to arrive at least two hours before tipoff"
+      - claim: Penn Station stabbing victims count
+        kind: numerical
+        value: "six"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "six people were stabbed in a separate random attack on the evening of June 7"
+      - claim: Penn Station stabbing date
+        kind: temporal
+        value: "June 7"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "a separate random attack on the evening of June 7"
+      - claim: FIFA World Cup 2026 NY-area matches start date
+        kind: temporal
+        value: "June 13"
+        source_urls:
+          - "https://www.cbsnews.com/newyork/news/knicks-watch-party-msg-canceled-nypd-trump/"
+        verbatim_excerpt: "hosting several FIFA World Cup 2026 matches beginning June 13 at MetLife Stadium"
+    quotes: []
