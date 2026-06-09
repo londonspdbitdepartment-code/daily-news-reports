@@ -1,0 +1,835 @@
+version: 1
+generated_at: "2026-06-09T12:00:00Z"
+country: United Kingdom
+date: "2026-06-09"
+total_stories: 7
+stories:
+  - story_id: cbi-slower-growth-higher-unemployment-iran-war
+    category: econ
+    headline_en: UK employers face slower growth, higher unemployment as Iran war adds pressure — CBI forecast
+    lead_url: https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+    body_source: full
+    corroborated_by:
+      - https://www.ibtimes.co.uk/uk-unemployment-highest-level-decade-cbi-warning-1801560
+      - https://www.globalbankingandfinance.com/uk-employers-warns-slower-growth-higher-unemployment/
+    locked_urls:
+      - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+      - https://www.ibtimes.co.uk/uk-unemployment-highest-level-decade-cbi-warning-1801560
+      - https://www.globalbankingandfinance.com/uk-employers-warns-slower-growth-higher-unemployment/
+    hard_facts:
+      - claim: CBI forecast UK GDP growth 2026
+        kind: numerical_with_unit
+        value: "1.1%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "The CBI now projects UK GDP growth of 1.1% in 2026"
+      - claim: CBI forecast UK GDP growth 2027
+        kind: numerical_with_unit
+        value: "0.9%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "and 0.9% in 2027"
+      - claim: GDP growth 2026 reduction vs December forecast
+        kind: numerical_with_unit
+        value: "0.2 percentage points"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "reductions of 0.2 and 0.6 percentage points respectively from its December forecasts"
+      - claim: GDP growth 2027 reduction vs December forecast
+        kind: numerical_with_unit
+        value: "0.6 percentage points"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "reductions of 0.2 and 0.6 percentage points respectively from its December forecasts"
+      - claim: CBI forecast peak unemployment in people
+        kind: numerical_with_unit
+        value: "2.0 million people"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "Unemployment is forecast to peak at 2.0 million people"
+      - claim: CBI forecast peak unemployment rate
+        kind: numerical_with_unit
+        value: "5.5%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "representing 5.5% of the workforce"
+      - claim: unemployment highest level since
+        kind: temporal
+        value: mid-2015
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "the highest level since mid-2015"
+      - claim: previous CBI unemployment forecast
+        kind: numerical_with_unit
+        value: "5.0%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "(compared with a previous forecast of 5.0%)"
+      - claim: CBI forecast CPI inflation Q1 2027
+        kind: numerical_with_unit
+        value: "3.7%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "Consumer price inflation is expected to reach 3.7% in Q1 2027"
+      - claim: CPI inflation April 2026
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "up from 2.8% in April 2026"
+      - claim: Bank of England expected interest rate through 2026 and 2027
+        kind: numerical_with_unit
+        value: "3.75%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "The Bank of England is expected to hold interest rates at 3.75% through 2026 and 2027"
+      - claim: KPMG/REC jobs index for permanent placements
+        kind: numerical_with_unit
+        value: "44.1"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "KPMG and the Recruitment and Employment Confederation jobs index for permanent placements dropped to 44.1"
+      - claim: KPMG/REC jobs index prior month April
+        kind: numerical_with_unit
+        value: "47.5"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "dropped to 44.1 from 47.5 in April"
+      - claim: consecutive months of decline in KPMG/REC index
+        kind: numerical
+        value: "44th"
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "44th consecutive month of decline"
+      - claim: CBI named institution
+        kind: named_institution
+        value: Confederation of British Industry (CBI)
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "The Confederation of British Industry (CBI) cut its forecast"
+      - claim: Bank of England named institution
+        kind: named_institution
+        value: Bank of England
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "The Bank of England is expected to hold interest rates at 3.75%"
+      - claim: KPMG named institution
+        kind: named_institution
+        value: KPMG
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "KPMG and the Recruitment and Employment Confederation"
+      - claim: Recruitment and Employment Confederation named institution
+        kind: named_institution
+        value: Recruitment and Employment Confederation
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "KPMG and the Recruitment and Employment Confederation jobs index"
+      - claim: CBI Chief Economist
+        kind: named_person
+        value: Louise Hellem
+        source_urls:
+          - https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        verbatim_excerpt: "CBI Chief Economist Louise Hellem said"
+    quotes:
+      - speaker_name: Louise Hellem
+        speaker_title: CBI Chief Economist
+        verbatim_en: "What's happening around the world is compounding the UK's low-growth story. Weak momentum throughout 2025 has not been arrested by the first months of this year."
+        source_url: https://www.investing.com/news/economy-news/uk-employers-warns-of-slower-growth-higher-unemployment-4731841
+        context: CBI forecast release 2026-06-09
+
+  - story_id: bloomberg-uk-brexit-10yr-eu-options
+    category: econ
+    headline_en: How the UK's options for rebuilding ties with Europe stack up — Bloomberg Economics 10-year Brexit assessment
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.bloomberg.com/news/features/2026-06-09/what-rolling-back-brexit-vote-would-mean-for-the-uk-economy
+      - https://www.bloomberg.com/news/articles/2026-06-08/new-referendum-would-flip-brexit-result-10-years-on-poll-finds
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+      - https://www.bloomberg.com/news/features/2026-06-09/what-rolling-back-brexit-vote-would-mean-for-the-uk-economy
+      - https://www.bloomberg.com/news/articles/2026-06-08/new-referendum-would-flip-brexit-result-10-years-on-poll-finds
+    hard_facts:
+      - claim: Bloomberg Economics estimate of forgone GDP from Brexit (lower bound)
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "Bloomberg Economics estimates leaving the EU has cost the UK 2% to 4% of forgone GDP"
+      - claim: Bloomberg Economics estimate of forgone GDP from Brexit (upper bound)
+        kind: numerical_with_unit
+        value: "4%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "Bloomberg Economics estimates leaving the EU has cost the UK 2% to 4% of forgone GDP"
+      - claim: BoE estimate of forgone GDP from Brexit
+        kind: numerical_with_unit
+        value: "3.5%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "below BoE's 3.5% estimate"
+      - claim: OBR estimate of forgone GDP from Brexit
+        kind: numerical_with_unit
+        value: "4%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "and OBR's 4%"
+      - claim: share of lost output recoverable via improving EU trade ties
+        kind: numerical_with_unit
+        value: "Almost half"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "Almost half of lost output could potentially be recovered via improving EU trade ties"
+      - claim: max output recovery short of complete reversal
+        kind: numerical_with_unit
+        value: "50%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "None of the options short of complete reversal — SPS agreement, single-market goods participation, customs union — would restore more than 50% of output lost since 2016"
+      - claim: Ipsos survey sample size
+        kind: numerical
+        value: "1,137"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "An Ipsos survey of 1,137 British adults"
+      - claim: Ipsos survey fieldwork dates
+        kind: temporal
+        value: May 14–20, 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "(fieldwork May 14–20, 2026)"
+      - claim: share supporting rejoining EU
+        kind: numerical_with_unit
+        value: "52%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "found 52% support rejoining the EU"
+      - claim: Bloomberg Economics named institution
+        kind: named_institution
+        value: Bloomberg Economics
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "Bloomberg Economics estimates leaving the EU has cost the UK"
+      - claim: BoE named institution
+        kind: named_institution
+        value: BoE
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "below BoE's 3.5% estimate"
+      - claim: OBR named institution
+        kind: named_institution
+        value: OBR
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "and OBR's 4%"
+      - claim: Ipsos named institution
+        kind: named_institution
+        value: Ipsos
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up
+        verbatim_excerpt: "An Ipsos survey of 1,137 British adults"
+    quotes: []
+
+  - story_id: starmer-social-media-ban-under-16s
+    category: politics
+    headline_en: Starmer to announce social media ban for children under 16 within days ahead of Makerfield by-election
+    lead_url: https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-09/uk-s-starmer-to-announce-under-16s-social-media-ban-within-days
+      - https://www.ladbible.com/news/uk-news/social-media-ban-keir-starmer-apple-google-technology-179414-20260609
+    locked_urls:
+      - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+      - https://www.bloomberg.com/news/articles/2026-06-09/uk-s-starmer-to-announce-under-16s-social-media-ban-within-days
+      - https://www.ladbible.com/news/uk-news/social-media-ban-keir-starmer-apple-google-technology-179414-20260609
+    hard_facts:
+      - claim: parental support for action in national consultation
+        kind: numerical_with_unit
+        value: "9 in 10 parents"
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "national public consultation in which 9 in 10 parents called for action"
+      - claim: Makerfield by-election date
+        kind: temporal
+        value: June 18
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "Makerfield by-election June 18"
+      - claim: tech companies compliance deadline
+        kind: temporal
+        value: three months
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "Tech companies given three months to block child exploitation material"
+      - claim: share of UK children aged 13-15 with active social media profiles
+        kind: numerical_with_unit
+        value: "~95%"
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "Per Ofcom, ~95% of UK children aged 13–15 have active social media profiles"
+      - claim: Australia blanket ban effective date
+        kind: temporal
+        value: December 2025
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "Australia's blanket ban came into force December 2025"
+      - claim: Australia fines for non-compliance
+        kind: numerical_with_unit
+        value: "A$49.5m"
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "with fines up to A$49.5m"
+      - claim: PM Keir Starmer named person
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "PM Keir Starmer preparing to announce within days a ban on social media for under-16s"
+      - claim: Technology Secretary named person
+        kind: named_person
+        value: Liz Kendall
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "Technology Secretary Liz Kendall told Sky News"
+      - claim: Children's Commissioner named person
+        kind: named_person
+        value: Dame Rachel de Souza
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "Children's Commissioner Dame Rachel de Souza suggested extending to 16–17 year-olds"
+      - claim: Ofcom named institution
+        kind: named_institution
+        value: Ofcom
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "Per Ofcom, ~95% of UK children aged 13–15"
+      - claim: Sky News named institution
+        kind: named_institution
+        value: Sky News
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "Technology Secretary Liz Kendall told Sky News"
+      - claim: TikTok named product
+        kind: named_product
+        value: TikTok
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "covering TikTok, YouTube, Instagram, Facebook, X"
+      - claim: YouTube named product
+        kind: named_product
+        value: YouTube
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "covering TikTok, YouTube, Instagram, Facebook, X"
+      - claim: Instagram named product
+        kind: named_product
+        value: Instagram
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "covering TikTok, YouTube, Instagram, Facebook, X"
+      - claim: Facebook named product
+        kind: named_product
+        value: Facebook
+        source_urls:
+          - https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        verbatim_excerpt: "covering TikTok, YouTube, Instagram, Facebook, X"
+    quotes:
+      - speaker_name: Liz Kendall
+        speaker_title: Technology Secretary
+        verbatim_en: "A ban is on the table."
+        source_url: https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        context: interview with Sky News 2026-06-09
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister
+        verbatim_en: "Tech should adapt to the needs of society, not the other way around."
+        source_url: https://www.newsx.com/world/uk-pm-keir-starmer-to-announce-social-media-ban-for-children-under-16-heres-why-232253/
+        context: statement on social media ban announcement
+
+  - story_id: starmer-london-tech-week-ai-investment
+    category: tech
+    headline_en: "Starmer opens London Tech Week with AI investment push: AMD £2bn, Nebius £1.7bn, government £400m compute strategy"
+    lead_url: https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+    body_source: full
+    corroborated_by:
+      - https://businesscloud.co.uk/news/multi-billion-pound-uk-tech-boost-announced-at-london-tech-week/
+      - https://thenextweb.com/news/london-tech-week-2026-uk-ai-investment-amd-nebius
+    locked_urls:
+      - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+      - https://businesscloud.co.uk/news/multi-billion-pound-uk-tech-boost-announced-at-london-tech-week/
+      - https://thenextweb.com/news/london-tech-week-2026-uk-ai-investment-amd-nebius
+    hard_facts:
+      - claim: AMD UK investment over five years
+        kind: numerical_with_unit
+        value: "£2bn"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "AMD announced £2bn UK investment over five years"
+      - claim: AMD investment duration
+        kind: temporal
+        value: five years
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "AMD announced £2bn UK investment over five years"
+      - claim: Nebius AI capacity commitment
+        kind: numerical_with_unit
+        value: "~£1.7bn"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "Nebius committed ~£1.7bn for AI capacity expansion"
+      - claim: Nebius new NVIDIA infrastructure deployments
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "three new NVIDIA infrastructure deployments targeting 65 MW capacity by 2027"
+      - claim: Nebius target capacity
+        kind: numerical_with_unit
+        value: "65 MW"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "targeting 65 MW capacity by 2027"
+      - claim: Nebius target capacity year
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "targeting 65 MW capacity by 2027"
+      - claim: UK government specialist AI compute funding
+        kind: numerical_with_unit
+        value: "£400m"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "UK government announced £400m for specialist AI compute"
+      - claim: Mayor of London AI support for SMEs
+        kind: numerical_with_unit
+        value: "£12m"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "Mayor of London announced £12m AI support package for SMEs"
+      - claim: Jobcentre in Your Pocket beta testing volunteers
+        kind: numerical_with_unit
+        value: "10,000 volunteers"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "beta testing 10,000 volunteers in West Midlands next month"
+      - claim: Jobcentre in Your Pocket national rollout date
+        kind: temporal
+        value: March 2027
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "national rollout March 2027"
+      - claim: UK technology sector value 2026
+        kind: numerical_with_unit
+        value: "£1.2 trillion"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "Tech Nation valued UK technology sector at £1.2 trillion in 2026"
+      - claim: UK AI startups VC raised H1 2026
+        kind: numerical_with_unit
+        value: ">£8.2bn"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "UK AI startups raised >£8.2bn VC H1 2026"
+      - claim: share of European technology investment raised by UK AI startups
+        kind: numerical_with_unit
+        value: "~half"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "(~half of all European technology investment)"
+      - claim: European IT spending growth forecast 2026
+        kind: numerical_with_unit
+        value: "8.2%"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "European IT spending forecast to grow 8.2% in 2026"
+      - claim: European IT spending total 2026
+        kind: numerical_with_unit
+        value: "USD $1.3 trillion"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "reaching USD $1.3 trillion"
+      - claim: London Tech Week iteration
+        kind: numerical
+        value: "13th"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "13th iteration of London Tech Week"
+      - claim: number of countries represented at London Tech Week
+        kind: numerical
+        value: "130"
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "leaders from 130 countries"
+      - claim: AMD named institution
+        kind: named_institution
+        value: AMD
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "AMD announced £2bn UK investment over five years"
+      - claim: Cambridge University named institution
+        kind: named_institution
+        value: Cambridge University
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "(HPC, partnered with Cambridge University and Imperial College London)"
+      - claim: Imperial College London named institution
+        kind: named_institution
+        value: Imperial College London
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "(HPC, partnered with Cambridge University and Imperial College London)"
+      - claim: Nebius named institution
+        kind: named_institution
+        value: Nebius
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "Nebius committed ~£1.7bn for AI capacity expansion"
+      - claim: NVIDIA named institution
+        kind: named_institution
+        value: NVIDIA
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "three new NVIDIA infrastructure deployments"
+      - claim: Microsoft Azure named product
+        kind: named_product
+        value: Microsoft Azure
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "AI tool \"Jobcentre in Your Pocket\" built on Microsoft Azure"
+      - claim: Tech Nation named institution
+        kind: named_institution
+        value: Tech Nation
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "Tech Nation valued UK technology sector at £1.2 trillion"
+      - claim: Founders Forum Group CEO named person
+        kind: named_person
+        value: Carolyn Dawson
+        source_urls:
+          - https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        verbatim_excerpt: "Carolyn Dawson, CEO Founders Forum Group"
+    quotes:
+      - speaker_name: Carolyn Dawson
+        speaker_title: CEO, Founders Forum Group
+        verbatim_en: "This is the most important London Tech Week we've ever hosted."
+        source_url: https://itbrief.co.uk/story/starmer-opens-london-tech-week-with-ai-investment-push
+        context: London Tech Week 2026 opening
+
+  - story_id: uk-reviewing-palantir-nhs-330m-contract
+    category: society
+    headline_en: UK reviewing Palantir's £330m NHS contract amid parliamentary pressure to trigger break clause
+    lead_url: https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+    body_source: full
+    corroborated_by:
+      - https://www.thestar.com.my/tech/tech-news/2026/06/09/uk-reviewing-palantir039s-nhs-contract-amid-pressure-to-use-break-clause
+    locked_urls:
+      - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+      - https://www.thestar.com.my/tech/tech-news/2026/06/09/uk-reviewing-palantir039s-nhs-contract-amid-pressure-to-use-break-clause
+    hard_facts:
+      - claim: Palantir NHS contract value
+        kind: numerical_with_unit
+        value: "£330m"
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "Contract worth £330m ($441m)"
+      - claim: Palantir NHS contract value in USD
+        kind: numerical_with_unit
+        value: "$441m"
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "Contract worth £330m ($441m)"
+      - claim: year NHS contract awarded to Palantir
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "awarded 2023 to build data-sharing/analytics platform"
+      - claim: Palantir NHS contract expiry
+        kind: temporal
+        value: early 2027
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "Contract expires early 2027"
+      - claim: Metropolitan Police Palantir contract blocked by London Mayor
+        kind: numerical_with_unit
+        value: "£50m"
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "London Mayor Sadiq Khan separately blocked a £50m Metropolitan Police contract with Palantir"
+      - claim: maximum extension under break clause
+        kind: temporal
+        value: up to seven years
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "Break clause allows extension up to seven years or termination"
+      - claim: Palantir Technologies named institution
+        kind: named_institution
+        value: Palantir Technologies
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "Britain conducting a full review of NHS contract with Palantir Technologies"
+      - claim: Technology Minister named person
+        kind: named_person
+        value: Liz Kendall
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "Technology Minister Liz Kendall"
+      - claim: Palantir co-founder named person
+        kind: named_person
+        value: Peter Thiel
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "political views of Palantir co-founder Peter Thiel"
+      - claim: London Mayor named person
+        kind: named_person
+        value: Sadiq Khan
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "London Mayor Sadiq Khan separately blocked a £50m Metropolitan Police contract with Palantir"
+      - claim: NHS named institution
+        kind: named_institution
+        value: NHS
+        source_urls:
+          - https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        verbatim_excerpt: "Britain conducting a full review of NHS contract with Palantir Technologies"
+    quotes:
+      - speaker_name: Liz Kendall
+        speaker_title: Technology Minister
+        verbatim_en: "The current health secretary is reviewing every single aspect of that contract to make sure we get the right deal for Britain."
+        source_url: https://finance.yahoo.com/news/uk-reviewing-palantirs-nhs-contract-091543268.html
+        context: statement on Palantir NHS contract review 2026-06-09
+
+  - story_id: gsk-acquires-nuvalent-10-6-billion
+    category: ipo_ma
+    headline_en: GSK acquires US cancer biotech Nuvalent for $10.6 billion
+    lead_url: https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-09/gsk-to-buy-nuvalent-for-10-6-billion-to-expand-in-cancer-drugs
+      - https://www.cnbc.com/2026/06/09/gsk-in-talks-to-acquire-nuvalent-for-more-than-9-billion.html
+      - https://www.rte.ie/news/business/2026/0609/1577475-gsk-agrees-nuvalent-deal/
+    locked_urls:
+      - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+      - https://www.bloomberg.com/news/articles/2026-06-09/gsk-to-buy-nuvalent-for-10-6-billion-to-expand-in-cancer-drugs
+      - https://www.cnbc.com/2026/06/09/gsk-in-talks-to-acquire-nuvalent-for-more-than-9-billion.html
+      - https://www.rte.ie/news/business/2026/0609/1577475-gsk-agrees-nuvalent-deal/
+    hard_facts:
+      - claim: GSK acquisition of Nuvalent total value
+        kind: numerical_with_unit
+        value: "~$10.6bn"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+          - https://www.bloomberg.com/news/articles/2026-06-09/gsk-to-buy-nuvalent-for-10-6-billion-to-expand-in-cancer-drugs
+        verbatim_excerpt: "an all-cash transaction valued at ~$10.6bn"
+      - claim: price per share
+        kind: numerical_with_unit
+        value: "$124 per share"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "$124 per share"
+      - claim: premium over last closing price
+        kind: numerical_with_unit
+        value: "40%"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "40% premium over last closing price"
+      - claim: net aggregate investment net of cash acquired
+        kind: numerical_with_unit
+        value: "~$9.4bn"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "Net of cash acquired, aggregate investment ~$9.4bn"
+      - claim: expected deal close
+        kind: temporal
+        value: Q3 2026
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "Expected close Q3 2026"
+      - claim: GSK oncology portfolio 2025 sales
+        kind: numerical_with_unit
+        value: "~£2bn"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "GSK oncology portfolio generated ~£2bn in 2025 sales"
+      - claim: GSK oncology portfolio YoY growth
+        kind: numerical_with_unit
+        value: "43% YoY growth"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "43% YoY growth"
+      - claim: GSK oncology as share of total revenue
+        kind: numerical_with_unit
+        value: "~6%"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "~6% of total revenue"
+      - claim: deal expected accretive to sales and core operating profit
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "Deal expected accretive to sales and core operating profit 2027"
+      - claim: deal expected accretive to core EPS
+        kind: temporal
+        value: "2029"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "core EPS 2029"
+      - claim: FDA review target decision for zidesamtinib
+        kind: temporal
+        value: September 2026
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "both under FDA review, target decision dates September and November 2026"
+      - claim: FDA review target decision for neladalkib
+        kind: temporal
+        value: November 2026
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "target decision dates September and November 2026"
+      - claim: Nuvalent lead drug targeting ROS1
+        kind: named_product
+        value: zidesamtinib (NVL-520)
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "zidesamtinib (NVL-520) targeting ROS1"
+      - claim: Nuvalent drug targeting ALK
+        kind: named_product
+        value: neladalkib (NVL-655)
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "neladalkib (NVL-655) targeting ALK"
+      - claim: third Nuvalent asset targets
+        kind: named_product
+        value: NVL-330
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "Third asset NVL-330 targets MET exon 14 skipping mutations"
+      - claim: GSK named institution
+        kind: named_institution
+        value: GSK
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+          - https://www.bloomberg.com/news/articles/2026-06-09/gsk-to-buy-nuvalent-for-10-6-billion-to-expand-in-cancer-drugs
+        verbatim_excerpt: "UK pharma giant GSK agreed Tuesday to acquire Nuvalent Inc."
+      - claim: Nuvalent named institution
+        kind: named_institution
+        value: Nuvalent Inc.
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+          - https://www.bloomberg.com/news/articles/2026-06-09/gsk-to-buy-nuvalent-for-10-6-billion-to-expand-in-cancer-drugs
+        verbatim_excerpt: "UK pharma giant GSK agreed Tuesday to acquire Nuvalent Inc."
+      - claim: Novartis named in context of prior large GSK deal
+        kind: named_institution
+        value: Novartis
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "Largest GSK acquisition in recent years (trailing only 2014 Novartis asset swap)"
+      - claim: prior large GSK deal year
+        kind: temporal
+        value: "2014"
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "trailing only 2014 Novartis asset swap"
+      - claim: CEO named person
+        kind: named_person
+        value: Luke Miels
+        source_urls:
+          - https://ca.finance.yahoo.com/news/uks-gsk-buy-us-based-060827950.html
+        verbatim_excerpt: "CEO Luke Miels signals strategic pivot toward oncology"
+    quotes: []
+
+  - story_id: npr-u-ok-uk-youth-unemployment-debt
+    category: other
+    headline_en: "NPR \"U OK, UK?\" — The Indicator examines UK youth unemployment, political instability, and debt costs"
+    lead_url: https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+    hard_facts:
+      - claim: UK youth unemployment rate 16-24 year-olds Q1 2026
+        kind: numerical_with_unit
+        value: "16.2%"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "Youth unemployment 16–24 year-olds reached 16.2% Q1 2026"
+      - claim: youth unemployment descriptor
+        kind: temporal
+        value: Q1 2026
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "Youth unemployment 16–24 year-olds reached 16.2% Q1 2026 (decade high, highest of any age group)"
+      - claim: NEET count
+        kind: numerical_with_unit
+        value: "971,000"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "NEET (Not in Education, Employment, or Training) reached 971,000 (decade high)"
+      - claim: Alan Milburn interim report publication date
+        kind: temporal
+        value: 28 May 2026
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "Alan Milburn interim report on youth economic inactivity published 28 May 2026"
+      - claim: BoE Governor Bloomberg interview date
+        kind: temporal
+        value: June 2
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "BoE Governor Andrew Bailey warned in June 2 Bloomberg interview"
+      - claim: payrolled employees change March 2025 to March 2026
+        kind: numerical_with_unit
+        value: "-104,000 (0.3%)"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "ONS: payrolled employees fell by 104,000 (0.3%) March 2025 to March 2026"
+      - claim: early April 2026 payrolled employees estimate YoY
+        kind: numerical_with_unit
+        value: "-210,000 (0.7%)"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "early April 2026 estimate further -210,000 (0.7%) YoY"
+      - claim: vacancies level
+        kind: numerical_with_unit
+        value: "705,000"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "Vacancies fell to 705,000"
+      - claim: vacancies lowest since
+        kind: temporal
+        value: Feb–Apr 2021
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "(lowest since Feb–Apr 2021)"
+      - claim: NPR programme named institution
+        kind: named_institution
+        value: NPR
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "NPR's \"The Indicator from Planet Money\""
+      - claim: ONS named institution
+        kind: named_institution
+        value: ONS
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "ONS: payrolled employees fell by 104,000"
+      - claim: BoE Governor named person
+        kind: named_person
+        value: Andrew Bailey
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "BoE Governor Andrew Bailey warned in June 2 Bloomberg interview"
+      - claim: Alan Milburn named person
+        kind: named_person
+        value: Alan Milburn
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        verbatim_excerpt: "Alan Milburn interim report on youth economic inactivity published 28 May 2026"
+    quotes:
+      - speaker_name: Andrew Bailey
+        speaker_title: BoE Governor
+        verbatim_en: "toxic"
+        source_url: https://www.npr.org/2026/06/09/nx-s1-5850410/u-ok-uk
+        context: June 2 Bloomberg interview describing UK economy's combination of aging population and rising youth unemployment
