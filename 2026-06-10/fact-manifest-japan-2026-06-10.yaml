@@ -1,0 +1,580 @@
+version: 1
+generated_at: "2026-06-10T00:00:00Z"
+country: Japan
+date: "2026-06-10"
+total_stories: 8
+stories:
+  - story_id: boj-cgpi-may-wholesale-inflation-6-3-pct
+    category: econ
+    headline_en: BOJ releases May Corporate Goods Price Index; wholesale inflation surges 6.3% year-on-year
+    lead_url: https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+    body_source: full
+    corroborated_by:
+      - https://ca.investing.com/news/economy-news/japans-wholesale-inflation-spikes-on-energy-shock-bolsters-case-for-june-rate-hike-4640912
+    locked_urls:
+      - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+      - https://ca.investing.com/news/economy-news/japans-wholesale-inflation-spikes-on-energy-shock-bolsters-case-for-june-rate-hike-4640912
+    hard_facts:
+      - claim: CGPI release date
+        kind: temporal
+        value: "June 10"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+        verbatim_excerpt: "The Bank of Japan released the Corporate Goods Price Index (CGPI) for May 2026 on June 10."
+      - claim: CGPI reporting month
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+        verbatim_excerpt: "The Bank of Japan released the Corporate Goods Price Index (CGPI) for May 2026 on June 10."
+      - claim: Japan corporate goods price YoY change May 2026
+        kind: numerical_with_unit
+        value: "6.3%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+          - https://ca.investing.com/news/economy-news/japans-wholesale-inflation-spikes-on-energy-shock-bolsters-case-for-june-rate-hike-4640912
+        verbatim_excerpt: "Japan's corporate goods prices rose 6.3% year-on-year in May 2026"
+      - claim: CGPI pace description
+        kind: temporal
+        value: "fastest pace in over three years"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+        verbatim_excerpt: "the fastest pace in over three years"
+      - claim: CGPI YoY change April 2026
+        kind: numerical_with_unit
+        value: "4.9%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+        verbatim_excerpt: "sharply accelerating from April's 4.9% reading"
+      - claim: CGPI month-over-month change May 2026
+        kind: numerical_with_unit
+        value: "0.9%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+        verbatim_excerpt: "On a month-over-month basis prices rose 0.9%."
+      - claim: Releasing institution
+        kind: named_institution
+        value: "Bank of Japan"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+        verbatim_excerpt: "The Bank of Japan released the Corporate Goods Price Index (CGPI) for May 2026 on June 10."
+      - claim: Named product index
+        kind: named_product
+        value: "Corporate Goods Price Index (CGPI)"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+        verbatim_excerpt: "The Bank of Japan released the Corporate Goods Price Index (CGPI) for May 2026 on June 10."
+      - claim: Named conflict driving energy price increase
+        kind: named_institution
+        value: "Iran conflict"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/pi/cgpi_release/index.htm
+        verbatim_excerpt: "the Iran conflict disrupting energy markets and introducing a persistent geopolitical risk premium into oil pricing"
+    quotes: []
+
+  - story_id: nikkei-225-falls-1-89-pct-64179-softbank
+    category: econ
+    headline_en: Nikkei 225 falls 1.89% to 64,179 on SoftBank slump
+    lead_url: https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+    body_source: full
+    corroborated_by:
+      - https://tradingeconomics.com/japan/stock-market
+      - https://www.bbntimes.com/financial/nikkei-225-tokyo-s-benchmark-index-falls-1-36-as-asia-wide-risk-aversion-intensifies
+    locked_urls:
+      - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+      - https://tradingeconomics.com/japan/stock-market
+      - https://www.bbntimes.com/financial/nikkei-225-tokyo-s-benchmark-index-falls-1-36-as-asia-wide-risk-aversion-intensifies
+    hard_facts:
+      - claim: Nikkei 225 percentage decline June 10 2026
+        kind: numerical_with_unit
+        value: "1.89%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Nikkei 225 fell 1.89% to close at 64,179.22 points on June 10, 2026."
+      - claim: Nikkei 225 closing value June 10 2026
+        kind: numerical_with_unit
+        value: "64,179.22 points"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Nikkei 225 fell 1.89% to close at 64,179.22 points on June 10, 2026."
+      - claim: Nikkei 225 closing date
+        kind: temporal
+        value: "June 10, 2026"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Nikkei 225 fell 1.89% to close at 64,179.22 points on June 10, 2026."
+      - claim: TOPIX percentage decline
+        kind: numerical_with_unit
+        value: "1.25%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "TOPIX declined 1.25%."
+      - claim: SoftBank Group stock percentage decline
+        kind: numerical_with_unit
+        value: "8.33%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "SoftBank Group dropped 8.33% on reports that negotiations for a $6 billion margin loan for OpenAI had stalled."
+      - claim: SoftBank-OpenAI margin loan amount
+        kind: numerical_with_unit
+        value: "$6 billion"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "negotiations for a $6 billion margin loan for OpenAI had stalled"
+      - claim: SoftBank Group named institution
+        kind: named_institution
+        value: "SoftBank Group"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "SoftBank Group dropped 8.33% on reports that negotiations for a $6 billion margin loan for OpenAI had stalled."
+      - claim: OpenAI named institution
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "negotiations for a $6 billion margin loan for OpenAI had stalled"
+      - claim: US action against Iran
+        kind: named_institution
+        value: "Iran"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "US launched \"self-defense strikes\" against Iran following Iranian attack on US helicopter."
+      - claim: Japan CGPI YoY May (cross-reference)
+        kind: numerical_with_unit
+        value: "6.3% YoY"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Japan's CGPI rose 6.3% YoY in May."
+      - claim: Anticipated US May CPI YoY
+        kind: numerical_with_unit
+        value: "4.2% YoY"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Anticipation of US May CPI 4.2% YoY."
+      - claim: Kioxia stock percentage decline
+        kind: numerical_with_unit
+        value: "7.78%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Kioxia fell 7.78%"
+      - claim: Kioxia named institution
+        kind: named_institution
+        value: "Kioxia"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Kioxia fell 7.78%"
+      - claim: Taiyo Yuden stock percentage decline
+        kind: numerical_with_unit
+        value: "12.91%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Taiyo Yuden dropped 12.91%"
+      - claim: Taiyo Yuden named institution
+        kind: named_institution
+        value: "Taiyo Yuden"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Taiyo Yuden dropped 12.91%"
+      - claim: Tokyo Electron stock percentage rise
+        kind: numerical_with_unit
+        value: "3.19%"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Tokyo Electron rose 3.19%."
+      - claim: Tokyo Electron named institution
+        kind: named_institution
+        value: "Tokyo Electron"
+        source_urls:
+          - https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        verbatim_excerpt: "Tokyo Electron rose 3.19%."
+    quotes:
+      - speaker_name: "US"
+        speaker_title: "United States government"
+        verbatim_en: "self-defense strikes"
+        source_url: https://www.tradingkey.com/analysis/stocks/more/261957743-samsung-skhynix-japan-hbm-kospi-tradingkey
+        context: "US military action against Iran, June 10 2026"
+
+  - story_id: japan-naphtha-crisis-cost-crisis-toto-resumes
+    category: econ
+    headline_en: Japan naphtha crisis transitions from supply shock to cost crisis; TOTO resumes full orders
+    lead_url: https://newsonjapan.com/article/149594.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149594.php
+    hard_facts:
+      - claim: TOTO full order resumption date
+        kind: temporal
+        value: "June 9"
+        source_urls:
+          - https://newsonjapan.com/article/149594.php
+        verbatim_excerpt: "TOTO, Kitakyushu-based housing equipment manufacturer, resumed full orders for unit baths and related products on June 9 after securing stable outlook for raw material supplies disrupted by closure of Strait of Hormuz."
+      - claim: TOTO named institution
+        kind: named_institution
+        value: "TOTO"
+        source_urls:
+          - https://newsonjapan.com/article/149594.php
+        verbatim_excerpt: "TOTO, Kitakyushu-based housing equipment manufacturer, resumed full orders for unit baths and related products on June 9"
+      - claim: TOTO location
+        kind: named_institution
+        value: "Kitakyushu"
+        source_urls:
+          - https://newsonjapan.com/article/149594.php
+        verbatim_excerpt: "TOTO, Kitakyushu-based housing equipment manufacturer"
+      - claim: Strait of Hormuz named product/location
+        kind: named_product
+        value: "Strait of Hormuz"
+        source_urls:
+          - https://newsonjapan.com/article/149594.php
+        verbatim_excerpt: "disrupted by closure of Strait of Hormuz"
+      - claim: Food tray supply months remaining
+        kind: numerical_with_unit
+        value: "3.6 months"
+        source_urls:
+          - https://newsonjapan.com/article/149594.php
+        verbatim_excerpt: "Food trays at 3.6 months' supply"
+      - claim: Thinner supply months remaining
+        kind: numerical_with_unit
+        value: "two months"
+        source_urls:
+          - https://newsonjapan.com/article/149594.php
+        verbatim_excerpt: "thinners at two months'"
+      - claim: Panama Canal named product/location
+        kind: named_product
+        value: "Panama Canal"
+        source_urls:
+          - https://newsonjapan.com/article/149594.php
+        verbatim_excerpt: "US crude requires more expensive Panama Canal or Alaskan routes."
+    quotes: []
+
+  - story_id: japan-malaysia-maritime-defense-energy-summit
+    category: politics
+    headline_en: Japan and Malaysia agree on maritime defense cooperation, energy security at summit
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-10/japan-and-malaysia-agree-on-deeper-maritime-defense-cooperation
+    body_source: full
+    corroborated_by:
+      - https://www.malaymail.com/news/malaysia/2026/06/10/in-tokyo-anwar-pitches-malaysia-japan-alliance-for-chips-ai-and-clean-energy/223236
+      - https://www.thestar.com.my/news/nation/2026/06/10/anwar-ibrahim-accorded-official-welcome-at-takaichi039s-office
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-10/japan-and-malaysia-agree-on-deeper-maritime-defense-cooperation
+      - https://www.malaymail.com/news/malaysia/2026/06/10/in-tokyo-anwar-pitches-malaysia-japan-alliance-for-chips-ai-and-clean-energy/223236
+      - https://www.thestar.com.my/news/nation/2026/06/10/anwar-ibrahim-accorded-official-welcome-at-takaichi039s-office
+    hard_facts:
+      - claim: Japan PM identity
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-10/japan-and-malaysia-agree-on-deeper-maritime-defense-cooperation
+        verbatim_excerpt: "Japanese PM Sanae Takaichi and Malaysian PM Anwar Ibrahim met in Tokyo on June 10, 2026"
+      - claim: Malaysia PM identity
+        kind: named_person
+        value: "Anwar Ibrahim"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-10/japan-and-malaysia-agree-on-deeper-maritime-defense-cooperation
+          - https://www.malaymail.com/news/malaysia/2026/06/10/in-tokyo-anwar-pitches-malaysia-japan-alliance-for-chips-ai-and-clean-energy/223236
+          - https://www.thestar.com.my/news/nation/2026/06/10/anwar-ibrahim-accorded-official-welcome-at-takaichi039s-office
+        verbatim_excerpt: "Japanese PM Sanae Takaichi and Malaysian PM Anwar Ibrahim met in Tokyo on June 10, 2026"
+      - claim: Summit location
+        kind: named_institution
+        value: "Tokyo"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-10/japan-and-malaysia-agree-on-deeper-maritime-defense-cooperation
+        verbatim_excerpt: "met in Tokyo on June 10, 2026"
+      - claim: Summit date
+        kind: temporal
+        value: "June 10, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-10/japan-and-malaysia-agree-on-deeper-maritime-defense-cooperation
+        verbatim_excerpt: "met in Tokyo on June 10, 2026"
+      - claim: South China Sea territorial claims reference
+        kind: named_institution
+        value: "China"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-10/japan-and-malaysia-agree-on-deeper-maritime-defense-cooperation
+        verbatim_excerpt: "maritime security amid China's claims in South China Sea"
+    quotes:
+      - speaker_name: "Anwar Ibrahim"
+        speaker_title: "Prime Minister of Malaysia"
+        verbatim_en: "Malaysia and Japan can make meaningful contribution to strengthening regional supply chains particularly in semiconductors, with Malaysia's strengths in assembly, testing and advanced packaging complementing Japan's leadership in materials, equipment and advanced manufacturing."
+        source_url: https://www.malaymail.com/news/malaysia/2026/06/10/in-tokyo-anwar-pitches-malaysia-japan-alliance-for-chips-ai-and-clean-energy/223236
+        context: "Japan-Malaysia summit in Tokyo, June 10 2026"
+
+  - story_id: ldp-bill-criminalise-japanese-flag-desecration
+    category: politics
+    headline_en: LDP internal committee approves bill to criminalise Japanese national flag desecration
+    lead_url: https://japantoday.com/category/politics/ruling-party-oks-bill-outlawing-japanese-flag-desecration
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/ruling-party-oks-bill-outlawing-japanese-flag-desecration
+    hard_facts:
+      - claim: LDP bill approval date
+        kind: temporal
+        value: "June 10, 2026"
+        source_urls:
+          - https://japantoday.com/category/politics/ruling-party-oks-bill-outlawing-japanese-flag-desecration
+        verbatim_excerpt: "Ruling Liberal Democratic Party approved on June 10, 2026 a proposed bill that would outlaw desecration of Japan's national flag"
+      - claim: LDP named institution
+        kind: named_institution
+        value: "Liberal Democratic Party"
+        source_urls:
+          - https://japantoday.com/category/politics/ruling-party-oks-bill-outlawing-japanese-flag-desecration
+        verbatim_excerpt: "Ruling Liberal Democratic Party approved on June 10, 2026 a proposed bill that would outlaw desecration of Japan's national flag"
+      - claim: Target Diet session end
+        kind: temporal
+        value: "mid-July"
+        source_urls:
+          - https://japantoday.com/category/politics/ruling-party-oks-bill-outlawing-japanese-flag-desecration
+        verbatim_excerpt: "targeting passage in current Diet session through mid-July"
+      - claim: PM who listed bill as priority
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://japantoday.com/category/politics/ruling-party-oks-bill-outlawing-japanese-flag-desecration
+        verbatim_excerpt: "Lawmaker-drafted bill is one of PM Sanae Takaichi's top legislative priorities."
+    quotes: []
+
+  - story_id: us-japan-extended-deterrence-dialogue-june-2026
+    category: politics
+    headline_en: US-Japan Extended Deterrence Dialogue joint statement published
+    lead_url: https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+    body_source: full
+    corroborated_by:
+      - https://www.jewishdispatch.com/post/joint-statement-on-the-june-2026-u-s-japan-extended-deterrence-dialogue
+      - https://www.mofa.go.jp/press/release/press4e_003137.html
+    locked_urls:
+      - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+      - https://www.jewishdispatch.com/post/joint-statement-on-the-june-2026-u-s-japan-extended-deterrence-dialogue
+      - https://www.mofa.go.jp/press/release/press4e_003137.html
+    hard_facts:
+      - claim: Joint statement publication date
+        kind: temporal
+        value: "June 10, 2026"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "US and Japan published joint statement of their Extended Deterrence Dialogue on June 10, 2026."
+      - claim: Dialogue held dates
+        kind: temporal
+        value: "June 8-9, 2026"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "Dialogue held June 8-9, 2026 in Tokyo"
+      - claim: Dialogue location
+        kind: named_institution
+        value: "Tokyo"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "Dialogue held June 8-9, 2026 in Tokyo"
+      - claim: US co-chairing institutions
+        kind: named_institution
+        value: "US Departments of State and Defense"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "co-chaired by US Departments of State and Defense, and Japanese Ministries of Foreign Affairs and Defense"
+      - claim: Japan co-chairing institutions
+        kind: named_institution
+        value: "Japanese Ministries of Foreign Affairs and Defense"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "co-chaired by US Departments of State and Defense, and Japanese Ministries of Foreign Affairs and Defense"
+      - claim: North Korea reference
+        kind: named_institution
+        value: "North Korea"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "Rejected Russia's position that North Korea's nuclear program was a settled matter."
+      - claim: Russia reference
+        kind: named_institution
+        value: "Russia"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "Rejected Russia's position that North Korea's nuclear program was a settled matter."
+      - claim: China reference in multilateral talks
+        kind: named_institution
+        value: "China"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "Japan encouraged US pursuit of multilateral strategic stability talks to reduce nuclear risks with China and Russia."
+      - claim: JMSDF base visited
+        kind: named_institution
+        value: "JMSDF Yokosuka Base"
+        source_urls:
+          - https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        verbatim_excerpt: "Participants visited JMSDF Yokosuka Base."
+    quotes:
+      - speaker_name: "US"
+        speaker_title: "United States government"
+        verbatim_en: "using the full range of US defense capabilities, including nuclear."
+        source_url: https://www.miragenews.com/us-japan-dialogue-on-extended-deterrence-june-1689455/
+        context: "US reaffirmation of commitment to defend Japan, Extended Deterrence Dialogue June 8-9 2026"
+
+  - story_id: japan-health-ministry-sleep-disorder-specialty
+    category: society
+    headline_en: Japan health ministry revises regulations to formalise "sleep disorder" as medical specialty
+    lead_url: https://newsonjapan.com/article/149596.php
+    body_source: full
+    corroborated_by:
+      - https://www2.merxwire.com/29803/japan-tackles-sleep-crisis-with-new-sleep-disorder-categories/
+    locked_urls:
+      - https://newsonjapan.com/article/149596.php
+      - https://www2.merxwire.com/29803/japan-tackles-sleep-crisis-with-new-sleep-disorder-categories/
+    hard_facts:
+      - claim: Regulation revision publication date
+        kind: temporal
+        value: "June 10, 2026"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+        verbatim_excerpt: "published June 10, 2026"
+      - claim: Japanese average nightly sleep duration
+        kind: numerical_with_unit
+        value: "7 hours 42 minutes"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+          - https://www2.merxwire.com/29803/japan-tackles-sleep-crisis-with-new-sleep-disorder-categories/
+        verbatim_excerpt: "Japanese citizens average 7 hours 42 minutes of sleep nightly"
+      - claim: OECD nations surveyed count
+        kind: numerical_with_unit
+        value: "35 OECD nations"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+        verbatim_excerpt: "lowest among 35 OECD nations surveyed"
+      - claim: Population with sleep disorders
+        kind: numerical_with_unit
+        value: "8.65 million"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+          - https://www2.merxwire.com/29803/japan-tackles-sleep-crisis-with-new-sleep-disorder-categories/
+        verbatim_excerpt: "Approximately 8.65 million people experience sleep disorders."
+      - claim: Percentage with sleep concerns who consulted physicians
+        kind: numerical_with_unit
+        value: "14%"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+        verbatim_excerpt: "Only 14% of those with sleep concerns consulted physicians despite 58% reporting sleep-related issues."
+      - claim: Percentage reporting sleep-related issues
+        kind: numerical_with_unit
+        value: "58%"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+        verbatim_excerpt: "despite 58% reporting sleep-related issues"
+      - claim: Hospital launching sleep disorder department
+        kind: named_institution
+        value: "Moiwa Tokushukai Hospital"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+        verbatim_excerpt: "Moiwa Tokushukai Hospital in Sapporo launching dedicated Sleep Disorder Cardiovascular Medicine Department."
+      - claim: Hospital location
+        kind: named_institution
+        value: "Sapporo"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+        verbatim_excerpt: "Moiwa Tokushukai Hospital in Sapporo launching dedicated Sleep Disorder Cardiovascular Medicine Department."
+      - claim: New department name
+        kind: named_product
+        value: "Sleep Disorder Cardiovascular Medicine Department"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+        verbatim_excerpt: "Moiwa Tokushukai Hospital in Sapporo launching dedicated Sleep Disorder Cardiovascular Medicine Department."
+      - claim: Working-age adults reporting inadequate sleep recovery
+        kind: numerical_with_unit
+        value: "27%"
+        source_urls:
+          - https://newsonjapan.com/article/149596.php
+        verbatim_excerpt: "About 27% of working-age adults report sleep provides inadequate recovery."
+    quotes: []
+
+  - story_id: petronas-jera-20-year-lng-supply-agreement
+    category: other
+    headline_en: PETRONAS and JERA sign 20-year LNG supply agreement
+    lead_url: https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+    body_source: full
+    corroborated_by:
+      - https://www.thestar.com.my/business/business-news/2026/06/10/petronas-jera-sign-20-year-lng-supply-deal-from-2028
+      - https://www.bangkokpost.com/business/general/3268855/malaysias-petronas-signs-20year-lng-supply-deal-with-japans-jera
+      - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+    locked_urls:
+      - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+      - https://www.thestar.com.my/business/business-news/2026/06/10/petronas-jera-sign-20-year-lng-supply-deal-from-2028
+      - https://www.bangkokpost.com/business/general/3268855/malaysias-petronas-signs-20year-lng-supply-deal-with-japans-jera
+      - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+    hard_facts:
+      - claim: Agreement signing date
+        kind: temporal
+        value: "June 10, 2026"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+          - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+        verbatim_excerpt: "PETRONAS and JERA Co Inc. signed new long-term LNG supply agreement on June 10, 2026 during Japan-Malaysia summit."
+      - claim: PETRONAS named institution
+        kind: named_institution
+        value: "PETRONAS"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+          - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+        verbatim_excerpt: "PETRONAS and JERA Co Inc. signed new long-term LNG supply agreement on June 10, 2026"
+      - claim: JERA named institution
+        kind: named_institution
+        value: "JERA Co Inc."
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+          - https://www.thestar.com.my/business/business-news/2026/06/10/petronas-jera-sign-20-year-lng-supply-deal-from-2028
+          - https://www.bangkokpost.com/business/general/3268855/malaysias-petronas-signs-20year-lng-supply-deal-with-japans-jera
+          - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+        verbatim_excerpt: "PETRONAS and JERA Co Inc. signed new long-term LNG supply agreement on June 10, 2026"
+      - claim: LNG supply volume per annum
+        kind: numerical_with_unit
+        value: "2 million tonnes of LNG per annum (MTPA)"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+          - https://www.thestar.com.my/business/business-news/2026/06/10/petronas-jera-sign-20-year-lng-supply-deal-from-2028
+          - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+        verbatim_excerpt: "PETRONAS will supply 2 million tonnes of LNG per annum (MTPA) to JERA over 20 years beginning in 2028."
+      - claim: Agreement duration
+        kind: numerical_with_unit
+        value: "20 years"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+          - https://www.thestar.com.my/business/business-news/2026/06/10/petronas-jera-sign-20-year-lng-supply-deal-from-2028
+          - https://www.bangkokpost.com/business/general/3268855/malaysias-petronas-signs-20year-lng-supply-deal-with-japans-jera
+          - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+        verbatim_excerpt: "over 20 years beginning in 2028"
+      - claim: Supply commencement year
+        kind: temporal
+        value: "2028"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+          - https://www.thestar.com.my/business/business-news/2026/06/10/petronas-jera-sign-20-year-lng-supply-deal-from-2028
+          - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+        verbatim_excerpt: "over 20 years beginning in 2028"
+      - claim: JERA description
+        kind: named_institution
+        value: "Japan's largest power generation company"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+        verbatim_excerpt: "JERA is Japan's largest power generation company."
+      - claim: LNG carrier capacity
+        kind: numerical_with_unit
+        value: "174,000-cubic-meter"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+          - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+        verbatim_excerpt: "PETRONAS' new generation of 174,000-cubic-meter LNG carriers designed to comply with IMO enhanced emissions standards."
+      - claim: IMO named institution
+        kind: named_institution
+        value: "IMO"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+          - https://www.petronas.com/media/media-releases/petronas-inks-agreement-lng-supply-jera
+        verbatim_excerpt: "designed to comply with IMO enhanced emissions standards"
+      - claim: Year of first Malaysia-Japan LNG shipment
+        kind: temporal
+        value: "1983"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+        verbatim_excerpt: "Relationship dates to 1983 when Malaysia shipped first LNG cargo to Japan."
+    quotes:
+      - speaker_name: "Anwar Ibrahim"
+        speaker_title: "Prime Minister of Malaysia"
+        verbatim_en: "remarkable feat."
+        source_url: https://www.freemalaysiatoday.com/category/nation/2026/06/10/petronas-inks-20-year-lng-supply-deal-with-japan-power-generation-giant
+        context: "Japan-Malaysia summit in Tokyo, June 10 2026, on PETRONAS-JERA LNG deal signing"
