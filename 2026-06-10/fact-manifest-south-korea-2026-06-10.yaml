@@ -1,0 +1,951 @@
+version: 1
+generated_at: "2026-06-10T00:00:00Z"
+country: South Korea
+date: "2026-06-10"
+total_stories: 9
+stories:
+  - story_id: sk-joint-fx-bank-inspection-won-17yr-low
+    category: econ
+    headline_en: South Korea Launches First Joint FX Bank Inspection in 14 Years as Won Tests 17-Year Low
+    lead_url: https://www.koreaherald.com/article/10768520
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-10/south-korea-launches-inspection-of-fx-banks-after-won-slide
+    locked_urls:
+      - https://www.koreaherald.com/article/10768520
+      - https://www.bloomberg.com/news/articles/2026-06-10/south-korea-launches-inspection-of-fx-banks-after-won-slide
+    hard_facts:
+      - claim: years since last joint FX bank inspection
+        kind: numerical_with_unit
+        value: "14 years"
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "the first joint foreign exchange bank inspection in 14 years"
+      - claim: won-dollar rate in offshore NDF markets
+        kind: numerical_with_unit
+        value: "1,560 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "the won-dollar rate jumped to 1,560 won in offshore non-deliverable forward markets"
+      - claim: currency weakness reference crisis year
+        kind: temporal
+        value: "2009"
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "the currency's weakest level since the 2009 global financial crisis"
+      - claim: duration won-dollar above 1,500 won
+        kind: temporal
+        value: "nearly a month"
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "The won-dollar exchange rate had remained above 1,500 won for nearly a month"
+      - claim: won-dollar level recently
+        kind: numerical_with_unit
+        value: "1,550 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "the Korean currency recently weakening beyond 1,550 won"
+      - claim: foreign investors' stock sales
+        kind: numerical_with_unit
+        value: "approximately 80 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "foreign investors' sustained stock sales — approximately 80 trillion won over three weeks"
+      - claim: duration of foreign investor stock sales
+        kind: temporal
+        value: "three weeks"
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "approximately 80 trillion won over three weeks"
+      - claim: emergency market meeting day
+        kind: temporal
+        value: "Sunday"
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "an emergency market meeting held Sunday"
+      - claim: Bank of Korea (institution)
+        kind: named_institution
+        value: Bank of Korea
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "The Bank of Korea and the Financial Supervisory Service said the scrutiny"
+      - claim: Financial Supervisory Service (institution)
+        kind: named_institution
+        value: Financial Supervisory Service
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "The Bank of Korea and the Financial Supervisory Service said the scrutiny"
+      - claim: Deputy Prime Minister name
+        kind: named_person
+        value: Koo Yun-cheol
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "Deputy Prime Minister Koo Yun-cheol stated the government"
+      - claim: Bank of Korea Governor name
+        kind: named_person
+        value: Shin Hyun-song
+        source_urls:
+          - https://www.koreaherald.com/article/10768520
+        verbatim_excerpt: "Bank of Korea Governor Shin Hyun-song described the link between offshore trading and domestic markets"
+    quotes:
+      - speaker_name: Koo Yun-cheol
+        speaker_title: Deputy Prime Minister, South Korea
+        verbatim_en: "will not tolerate excessive volatility and one-way herd behavior."
+        source_url: https://www.koreaherald.com/article/10768520
+        context: statement on FX market volatility during inspection announcement
+      - speaker_name: Shin Hyun-song
+        speaker_title: Governor, Bank of Korea
+        verbatim_en: "the tail wags the dog"
+        source_url: https://www.koreaherald.com/article/10768520
+        context: describing offshore NDF market driving domestic spot market weakness
+
+  - story_id: sk-clears-1-5b-spacex-ipo-dollar-demand
+    category: econ
+    headline_en: South Korea Clears $1.5 Billion SpaceX-IPO-Linked Dollar Demand, Relieving Won Pressure
+    lead_url: https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+    body_source: full
+    corroborated_by:
+      - https://www.investing.com/news/stock-market-news/exclusivedollar-demand-estimated-at-15-billion-cleared-in-south-korea-source-4734328
+    locked_urls:
+      - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+      - https://www.investing.com/news/stock-market-news/exclusivedollar-demand-estimated-at-15-billion-cleared-in-south-korea-source-4734328
+    hard_facts:
+      - claim: FX conversion demand resolved
+        kind: numerical_with_unit
+        value: "approximately $1.5 billion"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "South Korea has resolved approximately $1.5 billion in foreign exchange conversion demand tied to SpaceX's initial public offering"
+      - claim: SpaceX IPO total investor demand
+        kind: numerical_with_unit
+        value: "exceeding $250 billion"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "The enormous investor appetite for SpaceX's offering — exceeding $250 billion in total demand"
+      - claim: SpaceX IPO fundraising target
+        kind: numerical_with_unit
+        value: "$75 billion"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "against a $75 billion fundraising target"
+      - claim: South Korea's current-account surplus in April
+        kind: numerical_with_unit
+        value: "$28.3 billion"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "South Korea's substantial current-account surplus of $28.3 billion in April"
+      - claim: dollar-won spot market daily turnover
+        kind: numerical_with_unit
+        value: "approximately $14 billion"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "which processes approximately $14 billion in daily turnover"
+      - claim: IPO pricing date
+        kind: temporal
+        value: "Thursday, June 10"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "The IPO pricing was scheduled for Thursday, June 10"
+      - claim: won rate after demand cleared
+        kind: numerical_with_unit
+        value: "1,524.1 per dollar"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "the won subsequently strengthened, trading at 1,524.1 per dollar"
+      - claim: years since last joint FX bank inspection (contextual)
+        kind: numerical_with_unit
+        value: "14 years"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "the first coordinated effort in 14 years"
+      - claim: Bank of Korea (institution, contextual)
+        kind: named_institution
+        value: Bank of Korea
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "joint inspections of major FX banks announced the same day by the Bank of Korea and Financial Supervisory Service"
+      - claim: Financial Supervisory Service (institution, contextual)
+        kind: named_institution
+        value: Financial Supervisory Service
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "the Bank of Korea and Financial Supervisory Service"
+      - claim: SpaceX (named institution / issuer)
+        kind: named_institution
+        value: SpaceX
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "foreign exchange conversion demand tied to SpaceX's initial public offering"
+      - claim: volume range cited by source
+        kind: numerical_with_unit
+        value: "$1.2 billion to $1.5 billion"
+        source_urls:
+          - https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        verbatim_excerpt: "The volume itself sits around $1.2 billion to $1.5 billion."
+    quotes:
+      - speaker_name: unnamed market source
+        speaker_title: market source familiar with dollar-won onshore market transactions
+        verbatim_en: "The volume itself sits around $1.2 billion to $1.5 billion. However, the process has been split and is nearly complete, so there won't be downward pressure on the won."
+        source_url: https://www.globalbankingandfinance.com/exclusive-dollar-demand-estimated-1-5-billion-cleared-south/
+        context: commentary on SpaceX IPO-linked dollar conversion demand clearance
+
+  - story_id: eu-sk-digital-trade-agreement-11th-summit
+    category: politics
+    headline_en: EU and South Korea Sign Digital Trade Agreement, Launch Competitiveness Alliance at 11th Summit
+    lead_url: https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+    body_source: full
+    corroborated_by:
+      - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+      - https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/10/
+    locked_urls:
+      - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+      - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+      - https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/10/
+    hard_facts:
+      - claim: summit number
+        kind: numerical
+        value: "11th"
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "The 11th EU-Republic of Korea summit convened in Brussels on June 10, 2026"
+      - claim: summit date and location
+        kind: temporal
+        value: "June 10, 2026"
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "convened in Brussels on June 10, 2026"
+      - claim: South Korean President name
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "South Korean President Lee Jae Myung meeting EU Council President António Costa"
+      - claim: EU Council President name
+        kind: named_person
+        value: António Costa
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "EU Council President António Costa and European Commission President Ursula von der Leyen"
+      - claim: European Commission President name
+        kind: named_person
+        value: Ursula von der Leyen
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "European Commission President Ursula von der Leyen"
+      - claim: Digital Trade Agreement (named product/agreement)
+        kind: named_product
+        value: Digital Trade Agreement (DTA)
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "concluded negotiations on a Digital Trade Agreement (DTA)"
+      - claim: year of existing bilateral free trade agreement
+        kind: temporal
+        value: "2011"
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "complementing the 2011 bilateral free trade agreement"
+      - claim: competitiveness alliance name
+        kind: named_product
+        value: EU-Republic of Korea Competitiveness Alliance
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "launched an EU-Republic of Korea Competitiveness Alliance"
+      - claim: Chinese President name
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "European officials expressed concern about Chinese President Xi Jinping's visit to North Korea"
+      - claim: year of 2024 security and defense partnership
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "deepening operational cooperation under the 2024 security and defense partnership"
+      - claim: European External Action Service (institution)
+        kind: named_institution
+        value: European External Action Service
+        source_urls:
+          - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        verbatim_excerpt: "The 11th EU-Republic of Korea summit convened in Brussels"
+    quotes:
+      - speaker_name: unnamed European officials
+        speaker_title: European Union officials (unattributed)
+        verbatim_en: "counts on the fact that China will be encouraging the DPRK to comply with its international obligations."
+        source_url: https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+        context: EU-South Korea summit statement on Xi Jinping visit to North Korea
+
+  - story_id: china-nk-summit-beijing-denuclearisation-experts
+    category: politics
+    headline_en: China-North Korea Summit Shows Beijing Prioritising Strategic Alignment Over Denuclearisation, Experts Warn
+    lead_url: https://www.koreaherald.com/article/10767883
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10767799
+      - https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea
+    locked_urls:
+      - https://www.koreaherald.com/article/10767883
+      - https://www.koreaherald.com/article/10767799
+      - https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea
+    hard_facts:
+      - claim: Xi Jinping visit to North Korea dates
+        kind: temporal
+        value: "June 8-9, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10767883
+        verbatim_excerpt: "Chinese President Xi Jinping visited North Korea on June 8-9, 2026"
+      - claim: years since Xi's last Pyongyang visit
+        kind: temporal
+        value: "since 2019"
+        source_urls:
+          - https://www.koreaherald.com/article/10767883
+        verbatim_excerpt: "his first trip to Pyongyang since 2019"
+      - claim: Chinese President name
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.koreaherald.com/article/10767883
+        verbatim_excerpt: "Chinese President Xi Jinping visited North Korea"
+      - claim: North Korean leader name
+        kind: named_person
+        value: Kim Jong-un
+        source_urls:
+          - https://www.koreaherald.com/article/10767883
+        verbatim_excerpt: "strengthening strategic alignment with North Korean leader Kim Jong-un"
+      - claim: KCNA (institution)
+        kind: named_institution
+        value: Korean Central News Agency (KCNA)
+        source_urls:
+          - https://www.koreaherald.com/article/10767883
+        verbatim_excerpt: "according to North Korea's Korean Central News Agency (KCNA)"
+      - claim: Xi letter description to Kim
+        kind: named_product
+        value: "fruitful"
+        source_urls:
+          - https://www.koreaherald.com/article/10767883
+        verbatim_excerpt: "Xi subsequently sent a letter to Kim thanking him for a \"fruitful\" summit"
+      - claim: Ellen Kim's institution
+        kind: named_institution
+        value: Korea Economic Institute
+        source_urls:
+          - https://www.koreaherald.com/article/10767883
+        verbatim_excerpt: "Ellen Kim (Korea Economic Institute)"
+      - claim: Ellen Kim (analyst)
+        kind: named_person
+        value: Ellen Kim
+        source_urls:
+          - https://www.koreaherald.com/article/10767883
+        verbatim_excerpt: "Ellen Kim (Korea Economic Institute)"
+    quotes:
+      - speaker_name: Ellen Kim
+        speaker_title: analyst, Korea Economic Institute
+        verbatim_en: "Kim was seeking China's endorsement of North Korea as a nuclear weapons state, and he got it through China's silence."
+        source_url: https://www.koreaherald.com/article/10767883
+        context: analyst commentary on Xi-Kim summit outcome
+      - speaker_name: Ellen Kim
+        speaker_title: analyst, Korea Economic Institute
+        verbatim_en: "China's silence on North Korea's denuclearization will inadvertently push South Korea to reassess China's strategic value as a partner."
+        source_url: https://www.koreaherald.com/article/10767883
+        context: analyst commentary on geopolitical implications of Xi-Kim summit
+
+  - story_id: ppp-elects-jeong-jeom-sig-floor-leader
+    category: politics
+    headline_en: South Korea's People Power Party Elects Three-Term Lawmaker Jeong Jeom-sig as New Floor Leader
+    lead_url: https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+    hard_facts:
+      - claim: People Power Party (institution)
+        kind: named_institution
+        value: People Power Party
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "The People Power Party, South Korea's primary opposition faction, selected Jeong Jeom-sig as its new parliamentary floor leader"
+      - claim: new floor leader name
+        kind: named_person
+        value: Jeong Jeom-sig
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "selected Jeong Jeom-sig as its new parliamentary floor leader"
+      - claim: Jeong's representative terms
+        kind: numerical
+        value: "three-term"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "The three-term representative from South Gyeongsang Province"
+      - claim: Jeong's province
+        kind: named_institution
+        value: South Gyeongsang Province
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "The three-term representative from South Gyeongsang Province"
+      - claim: votes secured by Jeong in runoff
+        kind: numerical
+        value: "55 votes"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "secured 55 votes in a runoff ballot"
+      - claim: runner-up candidate Kim Do-eup terms
+        kind: named_person
+        value: Kim Do-eup
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "narrowly defeating four-term lawmaker Kim Do-eup"
+      - claim: runner-up candidate Sung Il-jong terms
+        kind: named_person
+        value: Sung Il-jong
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "and three-term legislator Sung Il-jong"
+      - claim: predecessor floor leader name
+        kind: named_person
+        value: Song Eon-seog
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "Jeong's election followed the resignation of his predecessor, Rep. Song Eon-seog"
+      - claim: predecessor resigned day
+        kind: temporal
+        value: "Friday"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "who stepped down Friday"
+      - claim: PPP party leader name
+        kind: named_person
+        value: Jang Dong-hyeok
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "mounting internal pressure for party leader Jang Dong-hyeok to resign"
+      - claim: June 3 local elections date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "the party's disappointing showing in June 3 local elections"
+      - claim: mayoral/gubernatorial seats won by PPP
+        kind: numerical
+        value: "four"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "the faction won only four of sixteen contested mayoral and gubernatorial positions nationally"
+      - claim: total mayoral/gubernatorial seats contested
+        kind: numerical
+        value: "sixteen"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "only four of sixteen contested mayoral and gubernatorial positions nationally"
+      - claim: Seoul candidate Oh Se-hoon name
+        kind: named_person
+        value: Oh Se-hoon
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "retaining control of Seoul with candidate Oh Se-hoon's victory"
+      - claim: former President name
+        kind: named_person
+        value: Yoon Suk Yeol
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "fallout related to former President Yoon Suk Yeol's unsuccessful martial law declaration in late 2024"
+      - claim: martial law declaration timing
+        kind: temporal
+        value: "late 2024"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260610/main-opposition-party-elects-rep-jeong-jeom-sig-as-new-floor-leader
+        verbatim_excerpt: "former President Yoon Suk Yeol's unsuccessful martial law declaration in late 2024"
+    quotes: []
+
+  - story_id: skt-ntt-chunghwa-500m-ai-investment-fund
+    category: tech
+    headline_en: SK Telecom, Japan's NTT, and Taiwan's Chunghwa Telecom Launch $500 Million AI Investment Fund
+    lead_url: https://www.koreaherald.com/article/10768422
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10768422
+    hard_facts:
+      - claim: fund size
+        kind: numerical_with_unit
+        value: "$500 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "plans to establish a $500 million artificial intelligence investment fund"
+      - claim: SK Telecom (institution)
+        kind: named_institution
+        value: SK Telecom
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "South Korea's SK Telecom, Japan's NTT, and Taiwan's Chunghwa Telecom"
+      - claim: NTT (institution)
+        kind: named_institution
+        value: NTT
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "Japan's NTT"
+      - claim: Chunghwa Telecom (institution)
+        kind: named_institution
+        value: Chunghwa Telecom
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "Taiwan's Chunghwa Telecom"
+      - claim: fund official name
+        kind: named_product
+        value: Innovative Optical and Wireless Network AI Fund
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "The fund, officially named the Innovative Optical and Wireless Network AI Fund"
+      - claim: fund manager name
+        kind: named_institution
+        value: Catalight Capital
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "will be administered by Catalight Capital, a newly created management firm operating from Silicon Valley and East Asia locations"
+      - claim: number of international companies expressing investor interest
+        kind: numerical
+        value: "approximately 20"
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "approximately 20 international companies expressing investor interest"
+      - claim: Sony (institution, potential investor)
+        kind: named_institution
+        value: Sony
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "including Sony and Toshiba"
+      - claim: Toshiba (institution, potential investor)
+        kind: named_institution
+        value: Toshiba
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "including Sony and Toshiba"
+      - claim: SK hynix (institution, preparing to participate)
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "SK hynix is also preparing to participate"
+      - claim: anticipated fund launch month
+        kind: temporal
+        value: "June"
+        source_urls:
+          - https://www.koreaherald.com/article/10768422
+        verbatim_excerpt: "Officials anticipate launching the fund by June following the initial fundraising closure"
+    quotes: []
+
+  - story_id: seoul-vote-center-blockade-6th-day-democracy
+    category: society
+    headline_en: Protesters Maintain 6th Day of Blockade at Seoul Vote-Counting Center; Students Stage June 10 Democracy Demonstrations
+    lead_url: https://www.koreaherald.com/article/10768514
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10768446
+      - https://www.bloomberg.com/news/articles/2026-06-10/young-koreans-demand-answers-on-ballot-shortage-as-probe-begins
+    locked_urls:
+      - https://www.koreaherald.com/article/10768514
+      - https://www.koreaherald.com/article/10768446
+      - https://www.bloomberg.com/news/articles/2026-06-10/young-koreans-demand-answers-on-ballot-shortage-as-probe-begins
+    hard_facts:
+      - claim: consecutive days of occupation
+        kind: numerical
+        value: "sixth"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "maintained their occupation of the Olympic Handball Gymnasium in Jamsil, southern Seoul, for a sixth consecutive day on Wednesday, June 10"
+      - claim: protest date
+        kind: temporal
+        value: "Wednesday, June 10"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "for a sixth consecutive day on Wednesday, June 10"
+      - claim: venue name
+        kind: named_institution
+        value: Olympic Handball Gymnasium
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "occupation of the Olympic Handball Gymnasium in Jamsil, southern Seoul"
+      - claim: election date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "South Korea's June 3 local election results"
+      - claim: polling stations affected by ballot shortage
+        kind: numerical
+        value: "91"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "The ballot shortages affected 91 polling stations nationwide"
+      - claim: total ballots short
+        kind: numerical
+        value: "7,194"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "totaling 7,194 ballots short as of Wednesday"
+      - claim: NEC minimum ballot preparation rate (original)
+        kind: numerical_with_unit
+        value: "60 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "the NEC reduced the minimum ballot preparation rate from 60 percent to 50 percent"
+      - claim: NEC minimum ballot preparation rate (reduced)
+        kind: numerical_with_unit
+        value: "50 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "reduced the minimum ballot preparation rate from 60 percent to 50 percent without a formal committee review"
+      - claim: staff members who signed off rate reduction
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "the decision was signed off by two staff members acting on behalf of the official with final approval authority"
+      - claim: NEC Chairman name (resigned)
+        kind: named_person
+        value: Rho Tae-ak
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "NEC Chairman Rho Tae-ak resigned following the initial controversy"
+      - claim: NEC Secretary General name (resigned)
+        kind: named_person
+        value: Heo Chul-hoon
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "Secretary General Heo Chul-hoon also stepped down June 5"
+      - claim: Secretary General resignation date
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "Secretary General Heo Chul-hoon also stepped down June 5"
+      - claim: President order for investigation
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "President Lee Jae Myung ordered a joint investigation by prosecutors and police"
+      - claim: number of universities staging protests
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "Students from 12 universities"
+      - claim: Seoul National University (institution)
+        kind: named_institution
+        value: Seoul National
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "including Seoul National, Yonsei, and Korea University"
+      - claim: Yonsei University (institution)
+        kind: named_institution
+        value: Yonsei
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "including Seoul National, Yonsei, and Korea University"
+      - claim: Korea University (institution)
+        kind: named_institution
+        value: Korea University
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "including Seoul National, Yonsei, and Korea University"
+      - claim: student protest time
+        kind: temporal
+        value: "6 p.m."
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "staged simultaneous protests on their campuses at 6 p.m."
+      - claim: anniversary of June 10 Democratic Uprising
+        kind: temporal
+        value: "June 10 Democratic Uprising of 1987"
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "to coincide with the anniversary of South Korea's June 10 Democratic Uprising of 1987"
+      - claim: NEC (institution)
+        kind: named_institution
+        value: NEC
+        source_urls:
+          - https://www.koreaherald.com/article/10768514
+        verbatim_excerpt: "the NEC reduced the minimum ballot preparation rate"
+    quotes: []
+
+  - story_id: sk-seniors-70-plus-workforce-2m-first-time
+    category: society
+    headline_en: "South Korea's Workforce of Seniors Aged 70 and Older Surpasses 2 Million for First Time, Driven by Aging and Poverty"
+    lead_url: https://www.koreaherald.com/article/10768238
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10768238
+    hard_facts:
+      - claim: employed seniors aged 70+ in 2025
+        kind: numerical_with_unit
+        value: "2.16 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "South Korea's workforce of seniors aged 70 and above reached 2.16 million in 2025"
+      - claim: annual increase rate for seniors 70+
+        kind: numerical_with_unit
+        value: "9.2 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "representing a 9.2 percent annual increase"
+      - claim: seniors 70+ share of total workforce
+        kind: numerical_with_unit
+        value: "7.1 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "These workers comprise 7.1 percent of the nation's total 28.209 million employed population"
+      - claim: total employed population
+        kind: numerical_with_unit
+        value: "28.209 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "the nation's total 28.209 million employed population"
+      - claim: year data collection started
+        kind: temporal
+        value: "2018"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "Since data collection began in 2018"
+      - claim: employed seniors 70+ when data collection began (2018)
+        kind: numerical_with_unit
+        value: "1.21 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "when 1.21 million seniors were employed in this age group"
+      - claim: year seniors 70+ exceeded 1.5 million
+        kind: temporal
+        value: "2021"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "the workforce exceeded 1.5 million in 2021"
+      - claim: annual growth rate in recent years for seniors 70+
+        kind: numerical_with_unit
+        value: "7-9 percent annually"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "has grown 7-9 percent annually since then"
+      - claim: male employment in seniors 70+ (2025)
+        kind: numerical_with_unit
+        value: "1.11 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "Male employment in this age group rose 9.6 percent to 1.11 million"
+      - claim: male employment growth rate seniors 70+
+        kind: numerical_with_unit
+        value: "9.6 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "Male employment in this age group rose 9.6 percent to 1.11 million"
+      - claim: female employment in seniors 70+ (2025)
+        kind: numerical_with_unit
+        value: "1.04 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "while female employment increased 8.7 percent to 1.04 million"
+      - claim: female employment growth rate seniors 70+
+        kind: numerical_with_unit
+        value: "8.7 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "female employment increased 8.7 percent to 1.04 million"
+      - claim: employed workers aged 60+ (2025)
+        kind: numerical_with_unit
+        value: "6.83 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "those aged 60-plus reaching 6.83 million"
+      - claim: growth rate for workers aged 60+
+        kind: numerical_with_unit
+        value: "5.3 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "those aged 60-plus reaching 6.83 million (5.3 percent growth)"
+      - claim: employed workers in their 50s (2025)
+        kind: numerical_with_unit
+        value: "6.67 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "while those in their 50s declined 0.4 percent to 6.67 million"
+      - claim: change in 50s workers
+        kind: numerical_with_unit
+        value: "0.4 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "those in their 50s declined 0.4 percent to 6.67 million"
+      - claim: population aged 70+ in 2018
+        kind: numerical_with_unit
+        value: "5.02 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "The population aged 70 and older expanded significantly from 5.02 million in 2018"
+      - claim: population aged 70+ in 2025
+        kind: numerical_with_unit
+        value: "6.82 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "to 6.82 million in 2025"
+      - claim: population aged 70+ growth from 2018 to 2025
+        kind: numerical_with_unit
+        value: "36 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "a 36 percent increase"
+      - claim: data source institution
+        kind: named_institution
+        value: Ministry of Data and Statistics
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "The data comes from the Ministry of Data and Statistics"
+      - claim: South Korea senior poverty rate (66+)
+        kind: numerical_with_unit
+        value: "39.7 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "South Korea's senior poverty rate among Koreans 66 and older stands at 39.7 percent"
+      - claim: OECD average senior poverty rate
+        kind: numerical_with_unit
+        value: "14.8 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "more than double the 14.8 percent average"
+      - claim: Chung Soon-dool name and institution
+        kind: named_person
+        value: Chung Soon-dool
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "Chung Soon-dool (Ewha Womans University)"
+      - claim: Ewha Womans University (institution)
+        kind: named_institution
+        value: Ewha Womans University
+        source_urls:
+          - https://www.koreaherald.com/article/10768238
+        verbatim_excerpt: "Chung Soon-dool (Ewha Womans University)"
+    quotes:
+      - speaker_name: Chung Soon-dool
+        speaker_title: professor, Ewha Womans University
+        verbatim_en: "Seniors today are much healthier than those of previous generations...But Korea still ranks first among OECD countries, meaning many older adults cannot afford to stop working."
+        source_url: https://www.koreaherald.com/article/10768238
+        context: commentary on senior labor force growth and poverty-driven employment
+      - speaker_name: Chung Soon-dool
+        speaker_title: professor, Ewha Womans University
+        verbatim_en: "The basic pension should be more focused on low-income seniors, and employment opportunities for older adults should be expanded further."
+        source_url: https://www.koreaherald.com/article/10768238
+        context: policy recommendation on senior poverty and employment
+
+  - story_id: kkr-sk-group-renewable-energy-1-3b-jv
+    category: ipo_ma
+    headline_en: KKR Set to Acquire SK Group's Renewable Energy Assets in $1.3 Billion Deal, Creating Joint Venture
+    lead_url: https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+    hard_facts:
+      - claim: deal value
+        kind: numerical_with_unit
+        value: "approximately $1.3 billion"
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+        verbatim_excerpt: "a transaction valued at approximately $1.3 billion"
+      - claim: KKR (institution)
+        kind: named_institution
+        value: "KKR & Co."
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+        verbatim_excerpt: "KKR & Co. is finalizing an agreement to acquire renewable energy assets from SK Group"
+      - claim: SK Group (institution)
+        kind: named_institution
+        value: SK Group
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+        verbatim_excerpt: "acquire renewable energy assets from SK Group"
+      - claim: SK Eternix (named product/company)
+        kind: named_institution
+        value: SK Eternix
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+        verbatim_excerpt: "Shares of SK Eternix reached their daily trading limit following the announcement"
+      - claim: SK Discovery (institution)
+        kind: named_institution
+        value: SK Discovery
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+        verbatim_excerpt: "SK Discovery and Hahn & Co., identified as the two largest shareholders in SK Eternix"
+      - claim: Hahn and Co (institution)
+        kind: named_institution
+        value: "Hahn & Co."
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+        verbatim_excerpt: "SK Discovery and Hahn & Co., identified as the two largest shareholders in SK Eternix"
+      - claim: SK Innovation (institution, contextual)
+        kind: named_institution
+        value: SK Innovation
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+        verbatim_excerpt: "prior discussions about selling the Korea Pipeline Corporation stake held by SK Innovation"
+      - claim: Korea Pipeline Corporation (institution, contextual)
+        kind: named_institution
+        value: Korea Pipeline Corporation
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100004
+        verbatim_excerpt: "prior discussions about selling the Korea Pipeline Corporation stake held by SK Innovation"
+    quotes: []
+
+  - story_id: carlyle-abandons-igis-asset-mgmt-bid
+    category: ipo_ma
+    headline_en: Carlyle Group Abandons Bid to Acquire IGIS Asset Management Over Valuation Disagreement
+    lead_url: https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+    hard_facts:
+      - claim: Carlyle Group (institution)
+        kind: named_institution
+        value: The Carlyle Group
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+        verbatim_excerpt: "The Carlyle Group has decided to abandon its pursuit of acquiring IGIS Asset Management"
+      - claim: IGIS Asset Management (institution)
+        kind: named_institution
+        value: IGIS Asset Management
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+        verbatim_excerpt: "acquiring IGIS Asset Management, South Korea's largest real estate asset manager"
+      - claim: Hillhouse Investment Management (institution, prior bidder)
+        kind: named_institution
+        value: Hillhouse Investment Management
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+        verbatim_excerpt: "previously been in discussions with Hillhouse Investment Management"
+      - claim: Hillhouse deal valuation
+        kind: numerical_with_unit
+        value: "approximately $750 million"
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+        verbatim_excerpt: "reportedly named preferred buyer in a deal valued at approximately $750 million"
+      - claim: National Pension Service (institution)
+        kind: named_institution
+        value: National Pension Service
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+        verbatim_excerpt: "South Korea's National Pension Service moving to withdraw committed funds"
+      - claim: projected South Korea M&A market value in 2026
+        kind: numerical_with_unit
+        value: "$70 billion"
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+        verbatim_excerpt: "the overall deal value projected to approach $70 billion according to Deloitte estimates"
+      - claim: Deloitte (institution, source of estimate)
+        kind: named_institution
+        value: Deloitte
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+        verbatim_excerpt: "according to Deloitte estimates"
+      - claim: reference year for M&A activity
+        kind: temporal
+        value: "2026"
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606100003
+        verbatim_excerpt: "South Korea's M&A market has been active in 2026"
+    quotes: []
