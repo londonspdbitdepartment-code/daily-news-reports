@@ -1,0 +1,1707 @@
+version: 1
+generated_at: 2026-06-10T00:00:00Z
+country: Europe
+date: 2026-06-10
+total_stories: 15
+stories:
+  - story_id: ecb-governing-council-monetary-policy-meeting-june-2026
+    category: econ
+    headline_en: ECB Governing Council Opens Two-Day Monetary Policy Meeting
+    lead_url: https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+    body_source: full
+    corroborated_by:
+      - https://www.fxstreet.com/analysis/ecb-preview-and-so-the-hiking-begins-202606040413
+      - https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+      - https://ecb-watch.eu/
+    locked_urls:
+      - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+      - https://www.fxstreet.com/analysis/ecb-preview-and-so-the-hiking-begins-202606040413
+      - https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+      - https://ecb-watch.eu/
+    hard_facts:
+      - claim: ECB Governing Council Day 1 meeting date
+        kind: temporal
+        value: June 10, 2026
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: The ECB Governing Council opened Day 1 of its two-day monetary policy meeting on June 10, 2026 in Frankfurt.
+      - claim: ECB meeting location
+        kind: named_institution
+        value: Frankfurt
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: opened Day 1 of its two-day monetary policy meeting on June 10, 2026 in Frankfurt
+      - claim: ECB rate decision and press conference date
+        kind: temporal
+        value: June 11
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: The rate decision and press conference are scheduled for June 11.
+      - claim: Probability of 25bp ECB rate hike priced by derivatives
+        kind: numerical
+        value: 99.6–100%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: derivatives and prediction markets priced a 99.6–100% probability of a 25 basis-point increase
+      - claim: ECB expected rate hike magnitude
+        kind: numerical_with_unit
+        value: 25 basis-point
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: a 99.6–100% probability of a 25 basis-point increase in the ECB deposit facility rate
+      - claim: Current ECB deposit facility rate
+        kind: numerical_with_unit
+        value: 2.00%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: from 2.00% to 2.25%
+      - claim: Expected ECB deposit facility rate after hike
+        kind: numerical_with_unit
+        value: 2.25%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: from 2.00% to 2.25%
+      - claim: Eurozone headline CPI year-on-year in May 2026
+        kind: numerical_with_unit
+        value: 3.2%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: eurozone headline CPI reached 3.2% year-on-year in May 2026
+      - claim: Eurozone headline CPI year-on-year in April 2026
+        kind: numerical_with_unit
+        value: 3.0%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: up from 3.0% in April
+      - claim: Last time eurozone CPI was this high before May 2026
+        kind: temporal
+        value: September 2023
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: the highest since September 2023
+      - claim: Energy costs year-on-year change May 2026
+        kind: numerical_with_unit
+        value: 10.9%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: energy costs surging 10.9%, the steepest since February 2023
+      - claim: Last time energy costs were this high before May 2026
+        kind: temporal
+        value: February 2023
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: the steepest since February 2023
+      - claim: Core CPI (ex-energy, food) May 2026
+        kind: numerical_with_unit
+        value: 2.5%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: Core CPI (ex-energy, food) rose to 2.5% from 2.2%
+      - claim: Core CPI (ex-energy, food) April 2026
+        kind: numerical_with_unit
+        value: 2.2%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: Core CPI (ex-energy, food) rose to 2.5% from 2.2%
+      - claim: Services inflation May 2026
+        kind: numerical_with_unit
+        value: 3.5%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: services inflation accelerated to 3.5% from 3.0%
+      - claim: Services inflation April 2026
+        kind: numerical_with_unit
+        value: 3.0%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: services inflation accelerated to 3.5% from 3.0%
+      - claim: Three-month annualised headline CPI
+        kind: numerical_with_unit
+        value: 9.6%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: three-month annualised headline was 9.6%
+      - claim: Three-month annualised core CPI
+        kind: numerical_with_unit
+        value: 8.0%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: three-month annualised headline was 9.6% and core 8.0%
+      - claim: Q1 2026 eurozone GDP quarter-on-quarter growth
+        kind: numerical_with_unit
+        value: −0.2%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: Q1 2026 eurozone GDP contracted 0.2% quarter-on-quarter
+      - claim: ECB June 2026 staff inflation projection (revised)
+        kind: numerical_with_unit
+        value: ~3.0%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: 2026 inflation revised to ~3.0% (from 2.6% in March)
+      - claim: ECB March 2026 staff inflation projection
+        kind: numerical_with_unit
+        value: 2.6%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: 2026 inflation revised to ~3.0% (from 2.6% in March)
+      - claim: ECB June 2026 staff GDP projection (revised)
+        kind: numerical_with_unit
+        value: ~0.6%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: 2026 GDP cut to ~0.6% (from 0.9%)
+      - claim: ECB March 2026 staff GDP projection
+        kind: numerical_with_unit
+        value: 0.9%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: 2026 GDP cut to ~0.6% (from 0.9%)
+      - claim: ECB last hold decision date
+        kind: temporal
+        value: April 30, 2026
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: The ECB held at 2.00% on April 30, 2026
+      - claim: Market-priced peak ECB rate in current cycle
+        kind: numerical_with_unit
+        value: 2.75%
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: potentially reaching 2.75% by late 2026
+      - claim: Named analyst institution — ING
+        kind: named_institution
+        value: ING
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: ING analysts described the outcome as "a done deal"
+      - claim: Named analyst institution — UniCredit
+        kind: named_institution
+        value: UniCredit
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: UniCredit anticipated the 25bp increase
+      - claim: Named person — ECB President
+        kind: named_person
+        value: Christine Lagarde
+        source_urls:
+          - https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        verbatim_excerpt: ECB President Christine Lagarde "likely providing minimal forward guidance."
+    quotes:
+      - speaker_name: ING analysts
+        speaker_title: Analysts, ING
+        verbatim_en: a done deal
+        source_url: https://features.financialjuice.com/2026/06/09/ecb-interest-rate-prep-20/
+        context: ING characterising the near-certain June 11 ECB rate hike outcome
+      - speaker_name: FXStreet (citing GC members)
+        speaker_title: GC Members cited by FXStreet
+        verbatim_en: We can no longer look through this shock. The risk of deanchoring inflation expectations is rising.
+        source_url: https://www.fxstreet.com/analysis/ecb-preview-and-so-the-hiking-begins-202606040413
+        context: ECB Governing Council members signalling support for June hike from both hawkish and dovish sides
+
+  - story_id: spain-housing-affordability-crisis-2026
+    category: econ
+    headline_en: Spain Housing Affordability Hits Historic Crisis
+    lead_url: https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+    hard_facts:
+      - claim: Study publication date and time
+        kind: temporal
+        value: June 10, 2026 at 11:38 GMT+2
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Published June 10, 2026 at 11:38 GMT+2 (updated 11:51 GMT+2).
+      - claim: Study publication update time
+        kind: temporal
+        value: 11:51 GMT+2
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Published June 10, 2026 at 11:38 GMT+2 (updated 11:51 GMT+2).
+      - claim: Joint study authors
+        kind: named_institution
+        value: Fotocasa and InfoJobs
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: A joint study by Fotocasa and InfoJobs found
+      - claim: Years of salary needed to buy 80sqm home in Spain in 2025
+        kind: numerical_with_unit
+        value: 8.4 full years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: in 2025 a Spanish worker needed 8.4 full years of gross salary to purchase an 80-square-metre second-hand home
+      - claim: Home size used in study measurement
+        kind: numerical_with_unit
+        value: 80-square-metre
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: to purchase an 80-square-metre second-hand home
+      - claim: Years of salary needed to buy 80sqm home in Spain in 2024
+        kind: numerical_with_unit
+        value: 7.1 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: up from 7.1 years in 2024, a deterioration of 16 months in one year
+      - claim: Deterioration in affordability in one year
+        kind: numerical_with_unit
+        value: 16 months
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: a deterioration of 16 months in one year
+      - claim: Second-hand housing price increase in 2025
+        kind: numerical_with_unit
+        value: 20.5%
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Second-hand housing prices rose 20.5% in 2025
+      - claim: Average second-hand housing price per sqm in Spain 2025
+        kind: numerical_with_unit
+        value: €2,879 per square metre
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: reaching an average of €2,879 per square metre
+      - claim: Advertised wage growth in Spain in 2025
+        kind: numerical_with_unit
+        value: 1%
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Advertised wages grew by only 1% in the same period
+      - claim: Salary years needed to buy home in Balearic Islands
+        kind: numerical_with_unit
+        value: 15.1 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Balearic Islands 15.1 years
+      - claim: Salary years needed to buy home in Madrid
+        kind: numerical_with_unit
+        value: 15 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Madrid 15 years (34-month deterioration in 2025)
+      - claim: Madrid affordability deterioration in 2025
+        kind: numerical_with_unit
+        value: 34-month
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Madrid 15 years (34-month deterioration in 2025)
+      - claim: Salary years needed to buy home in Málaga
+        kind: numerical_with_unit
+        value: 12.9 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Málaga 12.9 years
+      - claim: Salary years needed to buy home in Guipuzcoa
+        kind: numerical_with_unit
+        value: 11.7 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Guipuzcoa 11.7 years
+      - claim: Salary years needed to buy home in Santa Cruz de Tenerife
+        kind: numerical_with_unit
+        value: 11.3 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Santa Cruz de Tenerife 11.3 years
+      - claim: Salary years needed to buy home in Barcelona
+        kind: numerical_with_unit
+        value: 10.2 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Barcelona 10.2 years
+      - claim: Number of provinces where purchase requires fewer than 5 years' salary
+        kind: numerical
+        value: 17
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Only 17 of Spain's 52 provinces allow a home purchase with fewer than 5 years' salary
+      - claim: Total number of provinces in Spain
+        kind: numerical
+        value: 52
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Only 17 of Spain's 52 provinces
+      - claim: Most affordable province (Jaén) years of salary
+        kind: numerical_with_unit
+        value: 3 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Most affordable: Jaén at 3 years
+      - claim: Named person — Fotocasa Research Head
+        kind: named_person
+        value: María Matos
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: María Matos, Head of Research at Fotocasa
+      - claim: Named person — InfoJobs Director
+        kind: named_person
+        value: Mónica Pérez
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: Mónica Pérez, Director of InfoJobs
+    quotes:
+      - speaker_name: María Matos
+        speaker_title: Head of Research, Fotocasa
+        verbatim_en: Spain is going through the worst housing affordability crisis in its history.
+        source_url: https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        context: Commenting on the joint Fotocasa/InfoJobs 2025 housing affordability study released June 10, 2026
+      - speaker_name: Mónica Pérez
+        speaker_title: Director, InfoJobs
+        verbatim_en: The 1% increase recorded in 2025 falls far short of the rise in house prices.
+        source_url: https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        context: Commenting on wage growth vs. housing price growth disparity in Spain in 2025
+
+  - story_id: eurozone-bond-yield-3-43-cpi-3-2-june-2026
+    category: econ
+    headline_en: "Eurozone 10-Year Bond Yield at 3.43%, May CPI at 3.2%"
+    lead_url: https://tradingeconomics.com/euro-area/government-bond-yield
+    body_source: full
+    corroborated_by:
+      - https://data.ecb.europa.eu/data/datasets/YC
+      - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html
+    locked_urls:
+      - https://tradingeconomics.com/euro-area/government-bond-yield
+      - https://data.ecb.europa.eu/data/datasets/YC
+      - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html
+    hard_facts:
+      - claim: Euro area AAA 10-year government bond yield
+        kind: numerical_with_unit
+        value: 3.43%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Euro area AAA 10-year government bond yields stood at 3.43% as of June 8–10, 2026
+      - claim: 10-year yield change from prior session
+        kind: numerical_with_unit
+        value: 0.01 percentage points
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: up 0.01 percentage points from the prior session
+      - claim: 10-year yield change over prior month
+        kind: numerical_with_unit
+        value: 0.07pp
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: 0.07pp over the prior month
+      - claim: 10-year yield change year-on-year
+        kind: numerical_with_unit
+        value: 0.35pp
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: 0.35pp year-on-year
+      - claim: Probability of 25bp ECB deposit rate hike to 2.25%
+        kind: numerical
+        value: 99.6–100%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: 99.6–100% probability of a 25bp deposit rate hike to 2.25% priced in across derivatives markets
+      - claim: Eurozone headline CPI year-on-year May 2026
+        kind: numerical_with_unit
+        value: 3.2%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: eurozone headline CPI was 3.2% year-on-year in May 2026
+      - claim: Last time CPI was this high before May 2026
+        kind: temporal
+        value: September 2023
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: highest since September 2023
+      - claim: Eurozone headline CPI year-on-year April 2026
+        kind: numerical_with_unit
+        value: 3.0%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: up from 3.0% in April
+      - claim: Energy costs year-on-year May 2026
+        kind: numerical_with_unit
+        value: 10.9%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Energy costs surged 10.9%
+      - claim: Last time energy costs surged this much
+        kind: temporal
+        value: February 2023
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: steepest since February 2023
+      - claim: Core CPI (ex-energy, food) May 2026
+        kind: numerical_with_unit
+        value: 2.5%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Core CPI (ex-energy, food) rose to 2.5% from 2.2%
+      - claim: Core CPI (ex-energy, food) April 2026
+        kind: numerical_with_unit
+        value: 2.2%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Core CPI (ex-energy, food) rose to 2.5% from 2.2%
+      - claim: Services inflation May 2026
+        kind: numerical_with_unit
+        value: 3.5%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Services inflation: 3.5% from 3.0%
+      - claim: Services inflation April 2026
+        kind: numerical_with_unit
+        value: 3.0%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Services inflation: 3.5% from 3.0%
+      - claim: Non-energy industrial goods inflation May 2026
+        kind: numerical_with_unit
+        value: 0.9%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Non-energy industrial goods: 0.9% from 0.8%
+      - claim: Non-energy industrial goods inflation April 2026
+        kind: numerical_with_unit
+        value: 0.8%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Non-energy industrial goods: 0.9% from 0.8%
+      - claim: Food, alcohol, tobacco inflation May 2026
+        kind: numerical_with_unit
+        value: 2.0%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Food, alcohol, tobacco: 2.0% from 2.4%
+      - claim: Food, alcohol, tobacco inflation April 2026
+        kind: numerical_with_unit
+        value: 2.4%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Food, alcohol, tobacco: 2.0% from 2.4%
+      - claim: Q1 2026 eurozone GDP quarter-on-quarter
+        kind: numerical_with_unit
+        value: −0.2%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Q1 2026 eurozone GDP: −0.2% quarter-on-quarter
+      - claim: Q1 2026 eurozone GDP year-on-year
+        kind: numerical_with_unit
+        value: +1.0%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: Q1 2026 eurozone GDP: −0.2% quarter-on-quarter; +1.0% year-on-year
+      - claim: EU unemployment April 2026
+        kind: numerical_with_unit
+        value: 6.0%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: EU unemployment: 6.0% in April 2026
+      - claim: EC Spring 2026 forecast publication date
+        kind: temporal
+        value: May 21
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: European Commission Spring 2026 forecast (published May 21)
+      - claim: EC Spring 2026 EU inflation forecast
+        kind: numerical_with_unit
+        value: 3.1%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: EU 2026 inflation 3.1% (+1.0pp revision)
+      - claim: EC Spring 2026 EU inflation forecast revision
+        kind: numerical_with_unit
+        value: +1.0pp
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: EU 2026 inflation 3.1% (+1.0pp revision)
+      - claim: EC Spring 2026 EU GDP forecast
+        kind: numerical_with_unit
+        value: 1.1%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: EU 2026 GDP 1.1% (−0.3pp revision)
+      - claim: EC Spring 2026 EU GDP forecast revision
+        kind: numerical_with_unit
+        value: −0.3pp
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: EU 2026 GDP 1.1% (−0.3pp revision)
+      - claim: EU member state budgetary support against energy shock
+        kind: numerical_with_unit
+        value: €14.5 billion
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: EU member states committed €14.5 billion (0.07% of EU GDP)
+      - claim: EU budgetary support as share of GDP
+        kind: numerical_with_unit
+        value: 0.07%
+        source_urls:
+          - https://tradingeconomics.com/euro-area/government-bond-yield
+        verbatim_excerpt: €14.5 billion (0.07% of EU GDP)
+      - claim: ECB deposit rate held since
+        kind: temporal
+        value: April 30, 2026
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html
+        verbatim_excerpt: ECB deposit rate held at 2.00% since April 30, 2026 decision
+    quotes: []
+
+  - story_id: 11th-eu-south-korea-summit-brussels-2026
+    category: politics
+    headline_en: 11th EU–South Korea Summit in Brussels
+    lead_url: https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+    body_source: full
+    corroborated_by:
+      - https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/10/
+      - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+      - https://www.brusselstimes.com/2174915/brussels-summit-set-to-highlight-eu-south-koreas-growing-trade-security-links
+    locked_urls:
+      - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+      - https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/10/
+      - https://www.eeas.europa.eu/eeas/eu-republic-korea-summit-working-together-promote-peace-security-and-stability_en
+      - https://www.brusselstimes.com/2174915/brussels-summit-set-to-highlight-eu-south-koreas-growing-trade-security-links
+    hard_facts:
+      - claim: Summit number and date
+        kind: temporal
+        value: June 10, 2026
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: The 11th EU–Republic of Korea summit convened in Brussels on June 10, 2026.
+      - claim: Named person — European Council President
+        kind: named_person
+        value: António Costa
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: European Council President António Costa
+      - claim: Named person — European Commission President
+        kind: named_person
+        value: Ursula von der Leyen
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: European Commission President Ursula von der Leyen
+      - claim: Named person — Republic of Korea President
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: Republic of Korea: President Lee Jae Myung
+      - claim: Summit arrival time
+        kind: temporal
+        value: 14:00
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: arrival 14:00, plenary 14:15
+      - claim: Summit plenary start time
+        kind: temporal
+        value: 14:15
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: plenary 14:15
+      - claim: Summit restricted session time
+        kind: temporal
+        value: 15:30
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: restricted session 15:30
+      - claim: Summit signing ceremony time
+        kind: temporal
+        value: 16:15
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: signing ceremony 16:15
+      - claim: Summit public statements time
+        kind: temporal
+        value: ~16:40
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: public statements ~16:40
+      - claim: Named product — EU–South Korea Digital Trade Agreement finalisation date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: EU–South Korea Digital Trade Agreement (DTA), finalised in April 2026
+      - claim: Named institution — EU Commission authorisation for Competitiveness Alliance
+        kind: temporal
+        value: June 3
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: EU member states authorised the Commission on June 3 to negotiate this instrument
+      - claim: Named partnership — EU–Korea Security and Defence Partnership date
+        kind: temporal
+        value: November 2024
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: building on the November 2024 EU–Korea Security and Defence Partnership
+      - claim: 2025 bilateral goods trade total
+        kind: numerical_with_unit
+        value: €124 billion
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: 2025 bilateral goods trade: €124 billion total
+      - claim: EU exports to South Korea in 2025
+        kind: numerical_with_unit
+        value: €54.5bn
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: EU exports to Korea €54.5bn
+      - claim: EU imports from South Korea in 2025
+        kind: numerical_with_unit
+        value: €69.7bn
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: imports from Korea €69.7bn
+      - claim: South Korea rank as EU trading partner
+        kind: numerical
+        value: 3rd-largest
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: South Korea: EU's 3rd-largest trading partner
+      - claim: South Korea share of total trade accounted by EU
+        kind: numerical_with_unit
+        value: 10%
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: (10% of Korea's total trade)
+      - claim: EU rank as South Korea's trading partner
+        kind: numerical
+        value: 8th
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: EU: South Korea's 8th
+    quotes: []
+
+  - story_id: hrw-condemns-eu-migration-asylum-pact-june-2026
+    category: politics
+    headline_en: Human Rights Watch Condemns EU Migration and Asylum Pact
+    lead_url: https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+    body_source: full
+    corroborated_by:
+      - https://www.hrw.org/news/2026/06/10/questions-and-answers-the-eu-pact-on-migration-and-asylum
+      - https://home-affairs.ec.europa.eu/news/commission-reports-progress-implementing-pact-migration-and-asylum-2026-05-08_en
+      - https://www.euronews.com/my-europe/2026/06/09/can-the-new-pact-meet-the-eus-ambition-to-reduce-illegal-migration
+    locked_urls:
+      - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+      - https://www.hrw.org/news/2026/06/10/questions-and-answers-the-eu-pact-on-migration-and-asylum
+      - https://home-affairs.ec.europa.eu/news/commission-reports-progress-implementing-pact-migration-and-asylum-2026-05-08_en
+      - https://www.euronews.com/my-europe/2026/06/09/can-the-new-pact-meet-the-eus-ambition-to-reduce-illegal-migration
+    hard_facts:
+      - claim: HRW statement publication date and time
+        kind: temporal
+        value: June 10, 2026 at 12:01 AM EDT
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: Human Rights Watch published a statement June 10, 2026 at 12:01 AM EDT
+      - claim: EU Pact on Migration and Asylum full application date
+        kind: temporal
+        value: June 12, 2026
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: two days before the EU Pact on Migration and Asylum entered full application on June 12, 2026
+      - claim: Named person — HRW statement author
+        kind: named_person
+        value: Judith Sunderland
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: Judith Sunderland, HRW Senior Refugee and Migrant Rights Advisor
+      - claim: Pact adoption year
+        kind: temporal
+        value: 2024
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: The Pact, adopted in 2024
+      - claim: Number of binding legislative acts in the Pact
+        kind: numerical
+        value: 10
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: consists of 10 binding legislative acts
+      - claim: Number of EU member states fully on track for Eurodac connection as of mid-April 2026
+        kind: numerical
+        value: 11
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: only 11 of 27 EU member states fully on track to connect to the new Eurodac biometric database
+      - claim: Total EU member states
+        kind: numerical
+        value: 27
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: only 11 of 27 EU member states
+      - claim: Named institutions — member states not providing free legal counselling
+        kind: named_institution
+        value: Cyprus, Greece, Hungary, Estonia, Latvia, Italy
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: Cyprus, Greece, Hungary, Estonia, Latvia, Italy — had not provided free legal counselling at administrative stage
+      - claim: Named institutions — member states not concluding fundamental rights monitoring
+        kind: named_institution
+        value: Belgium, Hungary, Italy, Malta
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: Belgium, Hungary, Italy, Malta — had not concluded fundamental rights monitoring mechanism arrangements
+      - claim: 2025 first-time asylum applications in EU
+        kind: numerical
+        value: 669,400
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: 2025 figures: 669,400 first-time asylum applications
+      - claim: Irregular entries via Frontex 2025
+        kind: numerical
+        value: 178,000
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: 178,000 irregular entries (Frontex)
+      - claim: Approximate deportation rate 2025
+        kind: numerical_with_unit
+        value: ~28–29%
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: ~28–29% deportation rate
+      - claim: Departure orders per quarter
+        kind: numerical
+        value: 117,500
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: 117,500 departure orders/quarter
+      - claim: Actual returns per quarter
+        kind: numerical
+        value: ~33,860
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: ~33,860 actual returns/quarter
+      - claim: EUAA personnel deployed
+        kind: numerical
+        value: 1,300
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: 1,300 EUAA personnel deployed across 12 member states
+      - claim: Number of member states with EUAA deployment
+        kind: numerical
+        value: 12
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: 1,300 EUAA personnel deployed across 12 member states
+      - claim: Named person — Commissioner citing positive pact framing
+        kind: named_person
+        value: Magnus Brunner
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: Commissioner Magnus Brunner stated the pact "demonstrates we are getting our European house in order."
+      - claim: Education access guarantee timeline for children
+        kind: temporal
+        value: two months
+        source_urls:
+          - https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        verbatim_excerpt: education access guaranteed within two months
+    quotes:
+      - speaker_name: Judith Sunderland
+        speaker_title: Senior Refugee and Migrant Rights Advisor, Human Rights Watch
+        verbatim_en: The new EU asylum pact slams the door in the face of people who deserve to be treated with dignity.
+        source_url: https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        context: HRW statement published June 10, 2026, two days before the EU Pact on Migration and Asylum entered full effect
+      - speaker_name: Magnus Brunner
+        speaker_title: Commissioner, European Commission
+        verbatim_en: demonstrates we are getting our European house in order.
+        source_url: https://www.hrw.org/news/2026/06/10/eu-harmful-migration-asylum-pact-in-full-effect
+        context: Commissioner Brunner's framing of the Migration and Asylum Pact ahead of full application
+
+  - story_id: ees-biometric-border-chaos-frontex-warning-2026
+    category: politics
+    headline_en: "EES Biometric Border Chaos: Frontex Deputy Director Warns System May Take Two Years to Stabilise"
+    lead_url: https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+    body_source: full
+    corroborated_by:
+      - https://www.gbnews.com/news/british-holidaymakers-warned-airport-chaos-ees
+      - https://www.biometricupdate.com/202605/ees-troubles-ignite-speculation-of-further-suspensions
+    locked_urls:
+      - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+      - https://www.gbnews.com/news/british-holidaymakers-warned-airport-chaos-ees
+      - https://www.biometricupdate.com/202605/ees-troubles-ignite-speculation-of-further-suspensions
+    hard_facts:
+      - claim: Named person — Frontex Deputy Executive Director
+        kind: named_person
+        value: Uku Särekanno
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: Uku Särekanno, Deputy Executive Director at Frontex
+      - claim: Named institution — EES managing body
+        kind: named_institution
+        value: Frontex
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: Uku Särekanno, Deputy Executive Director at Frontex
+      - claim: EES stabilisation timeline estimate
+        kind: numerical_with_unit
+        value: one or two years
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: "We expect the situation will stabilise in one or two years"
+      - claim: EES full live date
+        kind: temporal
+        value: mid-April 2026
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: The EU Entry/Exit System went fully live mid-April 2026
+      - claim: Number of Schengen states covered by EES
+        kind: numerical
+        value: 29
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: across all 29 Schengen states
+      - claim: Maximum stay for non-EU short-stay visitors tracked by EES
+        kind: numerical_with_unit
+        value: 90 days per 180-day period
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: entering for short stays (up to 90 days per 180-day period)
+      - claim: Named locations with persistent queues since mid-April
+        kind: named_institution
+        value: Spain, Portugal, and France
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: lengthy queues have persisted at Spain, Portugal, and France
+      - claim: Named incident location — Milan Linate
+        kind: named_institution
+        value: Milan Linate
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: A prior incident at Milan Linate
+      - claim: Passengers boarded vs. total booked at Milan Linate incident
+        kind: numerical
+        value: 34 of 156
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: 34 of 156 booked passengers board a Manchester Easyjet flight
+      - claim: Named institution — aviation industry body ABTA
+        kind: named_institution
+        value: ABTA
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: Mark Tanzer, ABTA Chief Executive
+      - claim: Named person — ABTA Chief Executive
+        kind: named_person
+        value: Mark Tanzer
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: Mark Tanzer, ABTA Chief Executive
+      - claim: Named institution — Airlines UK
+        kind: named_institution
+        value: Airlines UK
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: Tim Alderslade, Airlines UK Chief Executive
+      - claim: Named person — Airlines UK Chief Executive
+        kind: named_person
+        value: Tim Alderslade
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        verbatim_excerpt: Tim Alderslade, Airlines UK Chief Executive
+    quotes:
+      - speaker_name: Uku Särekanno
+        speaker_title: Deputy Executive Director, Frontex
+        verbatim_en: We expect the situation will stabilise in one or two years because the most challenging part is the first enrolment.
+        source_url: https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        context: Commenting on EES rollout disruptions affecting airport queues across Schengen states since mid-April 2026
+      - speaker_name: Uku Särekanno
+        speaker_title: Deputy Executive Director, Frontex
+        verbatim_en: We're putting in a lot of effort to ensure practices are harmonised.
+        source_url: https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        context: Addressing national implementation inconsistencies compounding EES queue disruptions
+      - speaker_name: Mark Tanzer
+        speaker_title: Chief Executive, ABTA
+        verbatim_en: very painful.
+        source_url: https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        context: ABTA assessment of EES rollout disruption to travel industry
+      - speaker_name: Tim Alderslade
+        speaker_title: Chief Executive, Airlines UK
+        verbatim_en: I think we've got some work to do.
+        source_url: https://www.euronews.com/travel/2026/06/10/europes-chaotic-entryexit-system-could-take-up-to-two-years-to-stabilise-eu-official-warns
+        context: Airlines UK Chief Executive on the EES rollout challenges facing the aviation industry
+
+  - story_id: ec-final-code-practice-ai-generated-content-labelling-2026
+    category: tech
+    headline_en: European Commission Publishes Final Code of Practice on Labelling AI-Generated Content
+    lead_url: https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+    body_source: full
+    corroborated_by:
+      - https://www.techpolicy.press/what-the-eus-new-ai-code-of-practice-means-for-labeling-deepfakes/
+      - https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-eu-ai-act-s-draft-code-of-practice-on-marking-and-labelling-of-ai-generated-content-what-providers-and-deployers-need-to-know/
+      - https://www.jonesday.com/en/insights/2026/01/european-commission-publishes-draft-code-of-practice-on-ai-labelling-and-transparency
+    locked_urls:
+      - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+      - https://www.techpolicy.press/what-the-eus-new-ai-code-of-practice-means-for-labeling-deepfakes/
+      - https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-eu-ai-act-s-draft-code-of-practice-on-marking-and-labelling-of-ai-generated-content-what-providers-and-deployers-need-to-know/
+      - https://www.jonesday.com/en/insights/2026/01/european-commission-publishes-draft-code-of-practice-on-ai-labelling-and-transparency
+    hard_facts:
+      - claim: Final Code of Practice publication date
+        kind: temporal
+        value: June 10, 2026
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: The European Commission published the final Code of Practice on the marking and labelling of AI-generated content on June 10, 2026.
+      - claim: Named product — EU AI Act article implementing Code
+        kind: named_product
+        value: Article 50
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: The Code implements Article 50 of the EU AI Act
+      - claim: EU AI Act entry into force date
+        kind: temporal
+        value: August 1, 2024
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: EU AI Act (entered into force August 1, 2024
+      - claim: EU AI Act transparency provisions applicability date
+        kind: temporal
+        value: August 2, 2026
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: transparency provisions applicable from August 2, 2026
+      - claim: First draft Code publication date
+        kind: temporal
+        value: December 17, 2025
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: first draft published December 17, 2025
+      - claim: First draft feedback deadline
+        kind: temporal
+        value: January 23, 2026
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: feedback deadline January 23, 2026
+      - claim: Second draft Code publication date
+        kind: temporal
+        value: mid-March 2026
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: second draft mid-March 2026
+      - claim: Workshop / survey collection period
+        kind: temporal
+        value: January 2026
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: via EU survey and workshops in January 2026
+      - claim: Named institution — reviewing the Code alongside Commission
+        kind: named_institution
+        value: AI Board
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+        verbatim_excerpt: "The code, published on 10 June 2026, is currently being assessed by the Commission and the AI Board."
+    quotes: []
+
+  - story_id: eu-telecoms-council-business-wallets-digital-networks-act-2026
+    category: tech
+    headline_en: EU Telecoms Ministers Adopt Business Wallets General Approach; Progress Reported on Digital Networks Act and Cybersecurity Act 2
+    lead_url: https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+    body_source: full
+    corroborated_by:
+      - https://www.consilium.europa.eu/en/meetings/tte/2026/06/09/
+      - https://idtechwire.com/eu-telecom-ministers-take-up-european-business-wallets/
+    locked_urls:
+      - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+      - https://www.consilium.europa.eu/en/meetings/tte/2026/06/09/
+      - https://idtechwire.com/eu-telecom-ministers-take-up-european-business-wallets/
+    hard_facts:
+      - claim: TTE Telecom Council meeting date
+        kind: temporal
+        value: June 9, 2026
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: results of the EU Telecommunications Council meeting held June 9, 2026
+      - claim: TTE Telecom Council meeting location
+        kind: named_institution
+        value: Luxembourg
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: held June 9, 2026 in Luxembourg
+      - claim: Council Presidency during meeting
+        kind: named_institution
+        value: Cyprus Presidency
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: held June 9, 2026 in Luxembourg (Cyprus Presidency)
+      - claim: Named product — European Business Wallets framework
+        kind: named_product
+        value: eIDAS2
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: digital business wallets built on the eIDAS2 framework
+      - claim: Number of existing acts to be consolidated by Digital Networks Act
+        kind: numerical
+        value: four
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: The DNA would consolidate four existing acts
+      - claim: Named product — acts consolidated into Digital Networks Act
+        kind: named_product
+        value: European Electronic Communications Code
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: European Electronic Communications Code, BEREC Regulation, Radio Spectrum Policy Program, core parts of Open Internet Regulation and ePrivacy Directive
+      - claim: Named product — BEREC Regulation
+        kind: named_product
+        value: BEREC Regulation
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: BEREC Regulation, Radio Spectrum Policy Program
+      - claim: Named institution — ENISA operational role
+        kind: named_institution
+        value: ENISA
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: strengthening ENISA's operational role and streamlining certification frameworks
+      - claim: Named product — policy roadmap
+        kind: named_product
+        value: One Europe, One Market
+        source_urls:
+          - https://ieu-monitoring.com/editorial/main-results-of-the-eu-telecommunications-council-on-9-june-2026/1243080
+        verbatim_excerpt: Both the DNA and Cybersecurity Act 2 are part of the "One Europe, One Market" roadmap
+    quotes: []
+
+  - story_id: eu-south-korea-digital-trade-agreement-signed-2026
+    category: tech
+    headline_en: "EU–South Korea Digital Trade Agreement Signed at Summit; First Binding Digital Trade Rules on Data Flows, E-Contracts Established"
+    lead_url: https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+    body_source: full
+    corroborated_by:
+      - https://policy.trade.ec.europa.eu/news/eu-and-south-korea-strengthen-trade-and-technology-cooperation-2026-04-17_en
+      - https://www.telefonica.com/en/communication-room/blog/eu-south-korea-digital-trade-agreement/
+    locked_urls:
+      - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+      - https://policy.trade.ec.europa.eu/news/eu-and-south-korea-strengthen-trade-and-technology-cooperation-2026-04-17_en
+      - https://www.telefonica.com/en/communication-room/blog/eu-south-korea-digital-trade-agreement/
+    hard_facts:
+      - claim: DTA signing date and location
+        kind: temporal
+        value: June 10, 2026
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: The EU–South Korea Digital Trade Agreement (DTA) was signed at the 11th EU–South Korea summit in Brussels on June 10, 2026.
+      - claim: DTA finalisation date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: The agreement had been finalised in April 2026
+      - claim: Named product — EU–South Korea FTA entry into force date
+        kind: temporal
+        value: December 2015
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: the EU–South Korea FTA (in force December 2015)
+      - claim: Named product — 2024 Security and Defence Partnership
+        kind: temporal
+        value: 2024
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: the 2024 Security and Defence Partnership
+      - claim: EU–Korea April 2026 cooperation framework
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://policy.trade.ec.europa.eu/news/eu-and-south-korea-strengthen-trade-and-technology-cooperation-2026-04-17_en
+        verbatim_excerpt: the April 2026 EU–Korea trade and technology cooperation framework
+      - claim: 2025 bilateral goods trade total
+        kind: numerical_with_unit
+        value: €124 billion
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13884/20/during-11th-bilateral-summit-eu-and-south-korea-aim-to-strengthen-security-partnership-and-modernise-free-trade-agreement
+        verbatim_excerpt: The Korean–EU bilateral goods trade in 2025 totalled €124 billion
+    quotes: []
+
+  - story_id: pope-leo-xiv-sagrada-familia-tower-inauguration-2026
+    category: society
+    headline_en: Pope Leo XIV Inaugurates Tower of Jesus Christ at Sagrada Família in Barcelona
+    lead_url: https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/world/spain/pope-leo-barcelona-spain-sagrada-familia-cathedral-basilica-rcna349049
+      - https://www.france24.com/en/pope-leo-to-bless-newly-completed-sagrada-familia-tower-in-barcelona
+      - https://www.ilmessaggero.it/en/unity_in_diversity_pope_leo_xiv_in_barcelona-9582559.html
+      - https://sagradafamilia2026.org/en/event/inauguracio-torre-de-jesuscrist/
+      - https://en.wikipedia.org/wiki/2026_visit_by_Pope_Leo_XIV_to_Spain
+    locked_urls:
+      - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+      - https://www.nbcnews.com/world/spain/pope-leo-barcelona-spain-sagrada-familia-cathedral-basilica-rcna349049
+      - https://www.france24.com/en/pope-leo-to-bless-newly-completed-sagrada-familia-tower-in-barcelona
+      - https://www.ilmessaggero.it/en/unity_in_diversity_pope_leo_xiv_in_barcelona-9582559.html
+      - https://sagradafamilia2026.org/en/event/inauguracio-torre-de-jesuscrist/
+      - https://en.wikipedia.org/wiki/2026_visit_by_Pope_Leo_XIV_to_Spain
+    hard_facts:
+      - claim: Named person — Pope Leo XIV
+        kind: named_person
+        value: Pope Leo XIV
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: Pope Leo XIV officiated the blessing and inauguration of the Tower of Jesus Christ
+      - claim: Inauguration event date
+        kind: temporal
+        value: June 10, 2026
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: Pope Leo XIV officiated the blessing and inauguration of the Tower of Jesus Christ at the Basílica de la Sagrada Família in Barcelona on June 10, 2026
+      - claim: 100th anniversary of Gaudí's death
+        kind: temporal
+        value: June 10, 1926
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: chosen to coincide exactly with the 100th anniversary of architect Antoni Gaudí's death on June 10, 1926
+      - claim: Tower of Jesus Christ height
+        kind: numerical_with_unit
+        value: 172.5 metres (566 feet)
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: The Tower of Jesus Christ, the central spire of the Sagrada Família, reaches 172.5 metres (566 feet)
+      - claim: Summit cross height
+        kind: numerical_with_unit
+        value: 17 metres tall
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: The summit cross measures 17 metres tall and 13.5 metres wide
+      - claim: Summit cross width
+        kind: numerical_with_unit
+        value: 13.5 metres wide
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: 17 metres tall and 13.5 metres wide
+      - claim: Summit cross weight
+        kind: numerical_with_unit
+        value: approximately 100 tonnes
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: weighing approximately 100 tonnes
+      - claim: Number of components of the Lamb of God sculpture
+        kind: numerical
+        value: seven
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: with seven joined components
+      - claim: Named person — Lamb of God sculpture artist
+        kind: named_person
+        value: Andrea Mastrovito
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: a sculpture of the Lamb of God by Italian artist Andrea Mastrovito
+      - claim: Pope Leo XIV election date
+        kind: temporal
+        value: May 2025
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: Pope Leo XIV, elected May 2025
+      - claim: Montjuïc hill elevation
+        kind: numerical_with_unit
+        value: 177-metre
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: remaining 4.5 metres below Montjuïc hill's 177-metre elevation
+      - claim: Tower height difference below Montjuïc
+        kind: numerical_with_unit
+        value: 4.5 metres
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: remaining 4.5 metres below Montjuïc hill's 177-metre elevation
+      - claim: Sagrada Família construction start year
+        kind: temporal
+        value: 1882
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: The Sagrada Família was begun in 1882
+      - claim: Sagrada Família full completion target year
+        kind: temporal
+        value: 2035
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: full completion targets 2035
+      - claim: Pope Leo XIV apostolic journey dates
+        kind: temporal
+        value: June 6–12, 2026
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: Pope Leo XIV's apostolic journey to Spain ran June 6–12, 2026
+      - claim: Named institution — prison visited on June 10
+        kind: named_institution
+        value: Brians 1
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: morning visit to 'Brians 1' penitentiary centre
+      - claim: Named institution — abbey visited before Mass
+        kind: named_institution
+        value: Santa Maria de Montserrat Abbey
+        source_urls:
+          - https://www.vatican.va/content/leo-xiv/en/travels/2026/documents/spagna-6-12giugno2026.html
+        verbatim_excerpt: Holy Rosary prayers at the Santa Maria de Montserrat Abbey
+    quotes: []
+
+  - story_id: germany-nationwide-doctors-strike-june-2026
+    category: society
+    headline_en: Germany Nationwide Doctors' Strike on June 10
+    lead_url: https://striketracker.app/strikes-in-germany
+    body_source: full
+    corroborated_by:
+      - https://www.euronews.com/health/2026/05/29/uk-spain-germany-why-are-doctors-across-europe-going-on-more-strikes
+    locked_urls:
+      - https://striketracker.app/strikes-in-germany
+      - https://www.euronews.com/health/2026/05/29/uk-spain-germany-why-are-doctors-across-europe-going-on-more-strikes
+    hard_facts:
+      - claim: Strike date
+        kind: temporal
+        value: June 10, 2026
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: Doctors' and psychotherapists' practices across Germany closed for a full day on June 10, 2026
+      - claim: Named institution — organising body 1
+        kind: named_institution
+        value: MEDI GENO
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: The action was organised by MEDI GENO (an outpatient physicians' association)
+      - claim: Named institution — organising body 2 (joining)
+        kind: named_institution
+        value: BDI
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: was joined by BDI (the Federation of German Internists)
+      - claim: Strike severity classification
+        kind: named_institution
+        value: Major
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: Strike Tracker listing classifying the action as "Major"
+      - claim: Primary wage demand
+        kind: numerical_with_unit
+        value: 8%
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: The primary wage demand is an 8% salary increase over a 12-month period
+      - claim: Wage demand period
+        kind: numerical_with_unit
+        value: 12-month period
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: an 8% salary increase over a 12-month period
+      - claim: Named institution — Marburger Bund
+        kind: named_institution
+        value: Marburger Bund
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: The Marburger Bund — the union representing German university hospital doctors
+      - claim: Date of stalled Marburger Bund talks
+        kind: temporal
+        value: late May 2026
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: stalled after the second round of talks in late May 2026
+      - claim: Third round of Marburger Bund talks scheduled
+        kind: temporal
+        value: early June
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: a third round was scheduled for early June
+      - claim: Named country — Portugal healthcare strike
+        kind: named_institution
+        value: Portugal
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: In Portugal, healthcare workers announced a full-year strike for 2026.
+      - claim: Portugal healthcare strike duration
+        kind: temporal
+        value: full-year strike for 2026
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: In Portugal, healthcare workers announced a full-year strike for 2026.
+      - claim: Number of Spanish medical unions rejecting Health Ministry framework
+        kind: numerical
+        value: six
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: six major medical unions — CESM, SMA, Metges de Catalunya, AMYTS, SME, O'MEGA — rejected the Health Ministry's Framework Statute
+      - claim: Named Spanish medical unions
+        kind: named_institution
+        value: CESM, SMA, Metges de Catalunya, AMYTS, SME, O'MEGA
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: six major medical unions — CESM, SMA, Metges de Catalunya, AMYTS, SME, O'MEGA
+      - claim: Spanish nationwide rally date
+        kind: temporal
+        value: June 15
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: calling a nationwide rally for June 15 at 12:00 at the Health Ministry
+      - claim: Spanish nationwide rally time
+        kind: temporal
+        value: 12:00
+        source_urls:
+          - https://striketracker.app/strikes-in-germany
+        verbatim_excerpt: calling a nationwide rally for June 15 at 12:00 at the Health Ministry
+    quotes: []
+
+  - story_id: installatørgruppen-nasdaq-copenhagen-ipo-2026
+    category: ipo_ma
+    headline_en: "InstallatørGruppen A/S Sets DKK 15.00 Offer Price for Nasdaq Copenhagen IPO"
+    lead_url: https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+    body_source: full
+    corroborated_by:
+      - https://www.globenewswire.com/news-release/2026/06/03/3305786/0/en/Regulatory-release-no-1-2026-Publication-of-Offering-Circular-and-offer-price-for-the-Initial-Public-Offering-and-admission-of-the-shares-of-Installat%C3%B8rGruppen-A-S-to-trading-on-Na.html
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41T01Q:0-installat-rgruppen-intends-to-pursue-ipo-on-nasdaq-copenhagen/
+      - https://www.ipox.com/ipo-calendar/installatrgruppen
+    locked_urls:
+      - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+      - https://www.globenewswire.com/news-release/2026/06/03/3305786/0/en/Regulatory-release-no-1-2026-Publication-of-Offering-Circular-and-offer-price-for-the-Initial-Public-Offering-and-admission-of-the-shares-of-Installat%C3%B8rGruppen-A-S-to-trading-on-Na.html
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_FWN41T01Q:0-installat-rgruppen-intends-to-pursue-ipo-on-nasdaq-copenhagen/
+      - https://www.ipox.com/ipo-calendar/installatrgruppen
+    hard_facts:
+      - claim: IPO offer price
+        kind: numerical_with_unit
+        value: DKK 15.00
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: set an offer price of DKK 15.00 per share for its initial public offering on Nasdaq Copenhagen
+      - claim: Expected listing date
+        kind: temporal
+        value: June 11, 2026
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: with expected admission to trading on June 11, 2026
+      - claim: Implied market capitalisation in DKK
+        kind: numerical_with_unit
+        value: DKK 4.5 billion
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: the implied market capitalisation is DKK 4.5 billion
+      - claim: Implied market capitalisation in USD
+        kind: numerical_with_unit
+        value: approximately $698 million
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: DKK 4.5 billion (approximately $698 million)
+      - claim: Number of existing shares in offering
+        kind: numerical
+        value: 70.0 million
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: The offering comprises 70.0 million existing shares
+      - claim: Number of minority shareholders selling
+        kind: numerical
+        value: approximately 300
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: approximately 300 minority shareholders
+      - claim: Total offering proceeds in DKK
+        kind: numerical_with_unit
+        value: DKK 1.05 billion
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: Total offering proceeds: DKK 1.05 billion
+      - claim: Total offering proceeds in USD
+        kind: numerical_with_unit
+        value: ~$163 million
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: Total offering proceeds: DKK 1.05 billion (~$163 million)
+      - claim: Overallotment option percentage
+        kind: numerical_with_unit
+        value: 15%
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: A 15% overallotment option
+      - claim: Overallotment option additional shares
+        kind: numerical
+        value: up to 10.5 million
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: up to 10.5 million additional shares
+      - claim: Potential total offering with overallotment in DKK
+        kind: numerical_with_unit
+        value: DKK 1.2 billion
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: potentially increasing total offering to DKK 1.2 billion
+      - claim: Company founding year
+        kind: temporal
+        value: early 2023
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: InstallatørGruppen was founded in early 2023
+      - claim: Named person — company co-founder 1
+        kind: named_person
+        value: Niels Eldrup Meidahl
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: founded in early 2023 by Niels Eldrup Meidahl and Peter Frandsen
+      - claim: Named person — company co-founder 2
+        kind: named_person
+        value: Peter Frandsen
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: Niels Eldrup Meidahl and Peter Frandsen through acquisition of 11 Danish technical installation companies
+      - claim: Initial acquisition count at founding
+        kind: numerical
+        value: 11
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: acquisition of 11 Danish technical installation companies
+      - claim: Total acquisitions completed since founding
+        kind: numerical
+        value: more than 45
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: since then it has completed more than 45 acquisitions
+      - claim: Geographic markets — Denmark and Switzerland
+        kind: named_institution
+        value: Denmark and Switzerland
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: expanded across Denmark and Switzerland
+      - claim: Named institution — PE sponsor
+        kind: named_institution
+        value: FSN Capital
+        source_urls:
+          - https://www.caproasia.com/2026/06/10/denmark-technical-installation-company-installatorgruppen-denmark-nasdaq-copenhagen-ipo-to-raise-163-million-at-698-million-valuation-with-expected-ipo-listing-on-11th-june-2026-founded-in-2023-by/
+        verbatim_excerpt: Selling shareholders: FSN Capital-related funds
+      - claim: Regulatory release number
+        kind: named_product
+        value: Regulatory Release No. 1 - 2026
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/03/3305786/0/en/Regulatory-release-no-1-2026-Publication-of-Offering-Circular-and-offer-price-for-the-Initial-Public-Offering-and-admission-of-the-shares-of-Installat%C3%B8rGruppen-A-S-to-trading-on-Na.html
+        verbatim_excerpt: Regulatory Release No. 1 - 2026
+      - claim: Offering circular publication date
+        kind: temporal
+        value: June 3, 2026
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/03/3305786/0/en/Regulatory-release-no-1-2026-Publication-of-Offering-Circular-and-offer-price-for-the-Initial-Public-Offering-and-admission-of-the-shares-of-Installat%C3%B8rGruppen-A-S-to-trading-on-Na.html
+        verbatim_excerpt: was published June 3, 2026 via GlobeNewswire
+    quotes: []
+
+  - story_id: fifa-world-cup-2026-opens-june-11-europe-preview
+    category: other
+    headline_en: 2026 FIFA World Cup Opens June 11 in North America — European Teams Preview
+    lead_url: https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/10/nx-s1-5851660/world-cup-2026-soccer-where-to-watch-preview-facts
+      - https://www.euronews.com/2026/05/30/the-euronews-guide-to-the-2026-world-cup-groups-fixtures-and-european-kick-off-times
+      - https://www.aljazeera.com/sports/2026/6/8/which-european-nation-has-the-best-chance-to-win-world-cup-2026
+    locked_urls:
+      - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+      - https://www.npr.org/2026/06/10/nx-s1-5851660/world-cup-2026-soccer-where-to-watch-preview-facts
+      - https://www.euronews.com/2026/05/30/the-euronews-guide-to-the-2026-world-cup-groups-fixtures-and-european-kick-off-times
+      - https://www.aljazeera.com/sports/2026/6/8/which-european-nation-has-the-best-chance-to-win-world-cup-2026
+    hard_facts:
+      - claim: ESPN live blog publication date and time
+        kind: temporal
+        value: June 10, 2026 at 08:01 AM ET
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: Published June 10, 2026 at 08:01 AM ET
+      - claim: Tournament total number of teams
+        kind: numerical
+        value: 48 teams
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: largest in history at 48 teams playing 104 matches
+      - claim: Tournament total number of matches
+        kind: numerical
+        value: 104 matches
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: largest in history at 48 teams playing 104 matches
+      - claim: Tournament official opening date
+        kind: temporal
+        value: June 11, 2026
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: officially opens June 11, 2026
+      - claim: First match and location
+        kind: named_institution
+        value: Mexico vs. South Africa in Mexico City
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: first match: Mexico vs. South Africa in Mexico City
+      - claim: Tournament final date and location
+        kind: temporal
+        value: July 19, 2026 in New York/New Jersey
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: The final is scheduled for July 19, 2026 in New York/New Jersey
+      - claim: Number of UEFA member nations competing
+        kind: numerical
+        value: 16
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: 16 UEFA qualifiers
+      - claim: Spain favourites odds
+        kind: numerical_with_unit
+        value: +475
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: Spain (odds-on favourite at +475
+      - claim: Named person — Spain key player
+        kind: named_person
+        value: Lamine Yamal
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: reigning UEFA Euro 2024 champion with Lamine Yamal
+      - claim: Named person — France key player
+        kind: named_person
+        value: Kylian Mbappé
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: France (runners-up in 2022 with Kylian Mbappé
+      - claim: France World Cup goals in last final
+        kind: numerical
+        value: three
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: three World Cup goals in last final
+      - claim: Named person — Netherlands coach
+        kind: named_person
+        value: Ronald Koeman
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: Netherlands (coach Ronald Koeman
+      - claim: Named person — Germany key player 1
+        kind: named_person
+        value: Florian Wirtz
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: Florian Wirtz and Jamal Musiala as key players
+      - claim: Named person — Germany key player 2
+        kind: named_person
+        value: Jamal Musiala
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: Florian Wirtz and Jamal Musiala as key players
+      - claim: England first match date and opponent
+        kind: temporal
+        value: June 17
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: England first plays June 17 vs. Croatia
+      - claim: Italy qualification status
+        kind: named_institution
+        value: Italy failed to qualify for the third consecutive time
+        source_urls:
+          - https://www.espn.com/soccer/story/_/id/49016738/world-cup-2026-today-blog-10-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi-scores
+        verbatim_excerpt: Italy failed to qualify for the third consecutive time
+    quotes:
+      - speaker_name: Ronald Koeman
+        speaker_title: Head Coach, Netherlands national football team
+        verbatim_en: Our goal is to win the World Cup.
+        source_url: https://www.aljazeera.com/sports/2026/6/8/which-european-nation-has-the-best-chance-to-win-world-cup-2026
+        context: Netherlands coach statement on team's ambition for 2026 FIFA World Cup
+
+  - story_id: dut-conference-2026-brussels-urban-transitions
+    category: other
+    headline_en: Driving Urban Transitions Conference 2026 Opens in Brussels
+    lead_url: https://dutpartnership.eu/events/dut-conference-2026
+    body_source: full
+    corroborated_by:
+      - https://errin.eu/events/driving-urban-transitions-conference-2026
+      - https://living-in.eu/events/dut-conference-2026-promise-proof
+      - https://www.polisnetwork.eu/event/dut-conference-2026/
+    locked_urls:
+      - https://dutpartnership.eu/events/dut-conference-2026
+      - https://errin.eu/events/driving-urban-transitions-conference-2026
+      - https://living-in.eu/events/dut-conference-2026-promise-proof
+      - https://www.polisnetwork.eu/event/dut-conference-2026/
+    hard_facts:
+      - claim: Conference date
+        kind: temporal
+        value: June 10, 2026
+        source_urls:
+          - https://dutpartnership.eu/events/dut-conference-2026
+        verbatim_excerpt: The Driving Urban Transitions (DUT) Conference 2026 was held on June 10, 2026
+      - claim: Conference start time
+        kind: temporal
+        value: 08:30 CEST
+        source_urls:
+          - https://dutpartnership.eu/events/dut-conference-2026
+        verbatim_excerpt: from 08:30 to 17:45 CEST
+      - claim: Conference end time
+        kind: temporal
+        value: 17:45 CEST
+        source_urls:
+          - https://dutpartnership.eu/events/dut-conference-2026
+        verbatim_excerpt: from 08:30 to 17:45 CEST
+      - claim: Conference venue address
+        kind: named_institution
+        value: La Tricoterie, Rue Theodore Verhaegen 158, 1060 Brussels, Belgium
+        source_urls:
+          - https://dutpartnership.eu/events/dut-conference-2026
+        verbatim_excerpt: at La Tricoterie, Rue Theodore Verhaegen 158, 1060 Brussels, Belgium
+      - claim: Number of on-site participants
+        kind: numerical
+        value: approximately 250
+        source_urls:
+          - https://dutpartnership.eu/events/dut-conference-2026
+        verbatim_excerpt: The conference attracted approximately 250 on-site participants
+      - claim: Fully booked notice date
+        kind: temporal
+        value: May 7, 2026
+        source_urls:
+          - https://dutpartnership.eu/events/dut-conference-2026
+        verbatim_excerpt: "fully booked" for on-site participation as of May 7, 2026
+      - claim: DUT Partnership strategic direction horizon
+        kind: temporal
+        value: 2033
+        source_urls:
+          - https://dutpartnership.eu/events/dut-conference-2026
+        verbatim_excerpt: DUT Partnership's flagship activities and strategic direction towards 2033
+      - claim: European Sustainable Energy Week dates
+        kind: temporal
+        value: June 9–11, 2026
+        source_urls:
+          - https://dutpartnership.eu/events/dut-conference-2026
+        verbatim_excerpt: European Sustainable Energy Week (June 9–11, 2026) in Brussels
+    quotes: []
+
+  - story_id: ec-housing-task-force-workshop-municipal-housing-2026
+    category: other
+    headline_en: European Commission Housing Task Force Holds Workshop on Municipal Housing Ecosystem
+    lead_url: https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/
+    body_source: full
+    corroborated_by:
+      - https://home-affairs.ec.europa.eu/news/commission-reports-progress-implementing-pact-migration-and-asylum-2026-05-08_en
+    locked_urls:
+      - https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/
+      - https://home-affairs.ec.europa.eu/news/commission-reports-progress-implementing-pact-migration-and-asylum-2026-05-08_en
+    hard_facts:
+      - claim: Workshop date
+        kind: temporal
+        value: June 10, 2026
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/
+        verbatim_excerpt: The European Commission's Housing Task Force organised a workshop on June 10, 2026
+      - claim: Consilium forward look document publication date
+        kind: temporal
+        value: May 29, 2026
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/
+        verbatim_excerpt: Consilium forward look document (published May 29, 2026)
+      - claim: Spain years of salary needed to buy 80sqm home (contextual data point)
+        kind: numerical_with_unit
+        value: 8.4 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: in Spain alone, a worker needs 8.4 years of full gross salary to purchase an 80sqm home
+      - claim: Madrid years of salary needed to buy home (contextual)
+        kind: numerical_with_unit
+        value: 15 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/10/buying-a-home-in-spain-now-requires-over-8-years-of-full-salary
+        verbatim_excerpt: while Madrid requires 15 years
+      - claim: Named person — Commissioner for Energy and Housing
+        kind: named_person
+        value: Dan Jørgensen
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/
+        verbatim_excerpt: Commissioner for Energy and Housing Dan Jørgensen
+      - claim: Housing Task Force establishment date
+        kind: temporal
+        value: early 2025
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/
+        verbatim_excerpt: The Commission Housing Task Force was established in early 2025
+      - claim: Named product — EU financing mechanism mentioned
+        kind: named_product
+        value: InvestEU
+        source_urls:
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/05/forward-look-2026/
+        verbatim_excerpt: financing mechanisms including InvestEU guarantees
+    quotes: []

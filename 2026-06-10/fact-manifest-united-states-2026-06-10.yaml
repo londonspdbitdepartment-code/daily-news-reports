@@ -1,0 +1,1297 @@
+---
+manifest_meta:
+  country: United States
+  date: 2026-06-10
+  lang: zh
+  pipeline_stage: fact-extractor
+  story_count: 15
+  categories_present: [econ, politics, tech, society, ipo_ma]
+  category_gap: other
+
+stories:
+
+  - story_id: econ-1
+    category: econ
+    headline_en: "US Stock Futures Tumble as Iran Strikes Lift Oil, Markets Brace for CPI Release"
+    lead_url: "https://www.investing.com"
+    body_source: full
+    corroborated_by:
+      - url: "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081203953.html"
+        outlet: Yahoo Finance
+      - url: "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        outlet: TheStreet
+      - url: "https://www.benzinga.com/markets/prediction-markets/26/06/53108294/sp500-june-10-open-up-or-down-polymarket-cpi-inflation-iran-strikes"
+        outlet: Benzinga
+    locked_urls:
+      - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081203953.html"
+      - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+      - "https://www.benzinga.com/markets/prediction-markets/26/06/53108294/sp500-june-10-open-up-or-down-polymarket-cpi-inflation-iran-strikes"
+    hard_facts:
+      - claim: Dow futures fell 411 points (−0.8%) as of approximately 07:54 ET on June 10, 2026
+        kind: number
+        value: "-411 points / -0.8%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "Dow futures were down 411 points (−0.8%)"
+      - claim: S&P 500 futures declined 70 points (−1.0%) as of approximately 07:54 ET
+        kind: number
+        value: "-70 points / -1.0%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "S&P 500 futures had declined 70 points (−1.0%)"
+      - claim: Nasdaq 100 futures shed 444 points (−1.5%) as of approximately 07:54 ET
+        kind: number
+        value: "-444 points / -1.5%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "Nasdaq 100 futures had shed 444 points (−1.5%)"
+      - claim: S&P 500 previous close at 7,386.65
+        kind: number
+        value: "7,386.65"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "The S&P 500 had closed its previous session at 7,386.65"
+      - claim: Nasdaq Composite previous close at 25,678.82
+        kind: number
+        value: "25,678.82"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "the Nasdaq Composite at 25,678.82"
+      - claim: Dow Jones Industrial Average previous close at 50,872.11
+        kind: number
+        value: "50,872.11"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "the Dow Jones Industrial Average at 50,872.11"
+      - claim: WTI crude oil rose 1.77% to $89.76 per barrel
+        kind: number
+        value: "$89.76 / +1.77%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081203953.html"
+        verbatim_excerpt: "West Texas Intermediate crude oil rose 1.77% to $89.76 per barrel"
+      - claim: Brent crude climbed 1.54% to $92.86 per barrel
+        kind: number
+        value: "$92.86 / +1.54%"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081203953.html"
+        verbatim_excerpt: "Brent crude climbed 1.54% to $92.86 per barrel"
+      - claim: 10-year US Treasury yield at 4.534%
+        kind: number
+        value: "4.534%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "The 10-year US Treasury yield stood at 4.534%"
+      - claim: 30-year Treasury yield above 5% at 5.018%
+        kind: number
+        value: "5.018%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "the 30-year Treasury yield held above 5% at 5.018%"
+      - claim: Gold fell 2.91% to $4,161.72
+        kind: number
+        value: "$4,161.72 / -2.91%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        verbatim_excerpt: "Gold, meanwhile, fell 2.91% to $4,161.72"
+      - claim: BLS scheduled May 2026 CPI release for 8:30 a.m. ET on June 10, 2026
+        kind: date
+        value: "2026-06-10 08:30 ET"
+        source_urls:
+          - "https://www.bls.gov/schedule/news_release/cpi.htm"
+        verbatim_excerpt: "Bureau of Labor Statistics was scheduled to release the May 2026 Consumer Price Index at 8:30 a.m. ET"
+      - claim: Wall Street consensus CPI forecast 4.2% YoY headline for May 2026
+        kind: number
+        value: "4.2% YoY"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "Wall Street consensus expecting a year-over-year headline reading of 4.2%"
+      - claim: April 2026 CPI was 3.8% YoY
+        kind: number
+        value: "3.8% YoY"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "up from 3.8% in April"
+      - claim: Federal Reserve current target range at 3.50%–3.75%
+        kind: number
+        value: "3.50%–3.75%"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "holding rates at their current 3.50%–3.75% target range"
+      - claim: Polymarket implied only 22% probability S&P 500 would open higher on June 10
+        kind: number
+        value: "22%"
+        source_urls:
+          - "https://www.benzinga.com/markets/prediction-markets/26/06/53108294/sp500-june-10-open-up-or-down-polymarket-cpi-inflation-iran-strikes"
+        verbatim_excerpt: "The Polymarket prediction contract implied only a 22% probability that the S&P 500 would open higher on June 10"
+      - claim: Nasdaq declined 4% on June 4, its worst single day since April 2025
+        kind: number
+        value: "-4% on 2026-06-04"
+        source_urls:
+          - "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081203953.html"
+        verbatim_excerpt: "The Nasdaq had already declined 4% on June 4 — its worst single day since April 2025"
+      - claim: Broadcom AI chip guidance disappointment triggered semiconductor selloff
+        kind: event
+        value: "Broadcom guidance miss, 2026-06-04"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "after Broadcom's AI chip guidance disappointment triggered a broad semiconductor selloff"
+    quotes:
+      - speaker_name: Vital Knowledge analysts
+        speaker_title: Analysts
+        verbatim_en: "As far as the [benchmark S&P 500] is concerned, Iran is an afterthought — far more important is the carnage in tech."
+        source_url: "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        context: Commentary on the relative drivers of US equity market decline on June 10, 2026
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "The United States must, of necessity, respond to this attack."
+        source_url: "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        context: Trump social media post warning Iran following helicopter incident
+
+  - story_id: econ-2
+    category: econ
+    headline_en: "May 2026 CPI Forecast: Inflation Expected to Hit 4.2%, Highest Since April 2023, as BLS Release Drops"
+    lead_url: "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        outlet: CBS News
+      - url: "https://www.bls.gov/schedule/news_release/cpi.htm"
+        outlet: BLS (official)
+      - url: "https://www.kiplinger.com/investing/economy/cpi-report-may-2026-what-to-expect"
+        outlet: Kiplinger
+      - url: "https://www.indexbox.io/blog/us-inflation-expected-to-hit-highest-rate-in-over-three-years-in-may-2026/"
+        outlet: IndexBox
+    locked_urls:
+      - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+      - "https://www.bls.gov/schedule/news_release/cpi.htm"
+      - "https://www.kiplinger.com/investing/economy/cpi-report-may-2026-what-to-expect"
+      - "https://www.indexbox.io/blog/us-inflation-expected-to-hit-highest-rate-in-over-three-years-in-may-2026/"
+    hard_facts:
+      - claim: BLS scheduled May 2026 CPI release for June 10, 2026 at 8:30 a.m. Eastern Time
+        kind: date
+        value: "2026-06-10 08:30 ET"
+        source_urls:
+          - "https://www.bls.gov/schedule/news_release/cpi.htm"
+        verbatim_excerpt: "scheduled to release the Consumer Price Index for May 2026 on June 10, 2026 at 8:30 a.m. Eastern Time"
+      - claim: FactSet economist consensus forecasted headline CPI at 4.2% YoY for May 2026
+        kind: number
+        value: "4.2% YoY"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "Economist consensus compiled by FactSet expected the headline CPI to rise 4.2% year-over-year"
+      - claim: 4.2% would be the largest YoY increase since April 2023 and first reading above 4% in three years
+        kind: number
+        value: ">4% since April 2023"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "would constitute the largest year-over-year increase since April 2023 and the first reading above 4% in three years"
+      - claim: Core CPI forecast at 2.9% YoY for May 2026, up from 2.8% in April
+        kind: number
+        value: "2.9% YoY core"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "Core CPI was forecast at 2.9% year-over-year, up from 2.8% in April"
+      - claim: Monthly headline CPI expected to rise 0.5% MoM for May 2026
+        kind: number
+        value: "+0.5% MoM"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "headline CPI was expected to rise 0.5% from April to May"
+      - claim: Monthly core CPI expected to rise 0.3% MoM for May 2026
+        kind: number
+        value: "+0.3% MoM core"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "core CPI 0.3% month-over-month"
+      - claim: April 2026 CPI rose 0.6% MoM and 3.8% annually, highest since May 2023
+        kind: number
+        value: "+0.6% MoM; 3.8% YoY (April 2026)"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "The April 2026 CPI rose 0.6% on a monthly basis and 3.8% annually — the highest since May 2023"
+      - claim: Energy prices jumped 3.8% in April 2026, accounting for more than 40% of headline gain
+        kind: number
+        value: "+3.8% energy; >40% of headline"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "Energy prices jumped 3.8% in April, accounting for more than 40% of the headline gain"
+      - claim: Fed held rates at 3.50%–3.75% through three consecutive meetings
+        kind: number
+        value: "3.50%–3.75%; 3 meetings"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "The Federal Reserve has held rates at 3.50%–3.75% through three consecutive meetings"
+      - claim: 10-year Treasury yield traded around 4.54–4.57%
+        kind: number
+        value: "4.54–4.57%"
+        source_urls:
+          - "https://www.kiplinger.com/investing/economy/cpi-report-may-2026-what-to-expect"
+        verbatim_excerpt: "The 10-year Treasury yield traded around 4.54–4.57%"
+      - claim: Markets pricing approximately 70% probability of a quarter-point rate hike by December 2026
+        kind: number
+        value: "~70% probability; +25bp by Dec 2026"
+        source_urls:
+          - "https://www.kiplinger.com/investing/economy/cpi-report-may-2026-what-to-expect"
+        verbatim_excerpt: "markets pricing approximately a 70% probability of a quarter-point rate hike by December 2026"
+      - claim: Mark Zandi is Chief Economist at Moody's Analytics
+        kind: person
+        value: "Mark Zandi, Chief Economist, Moody's Analytics"
+        source_urls:
+          - "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        verbatim_excerpt: "Mark Zandi, Chief Economist at Moody's Analytics"
+    quotes:
+      - speaker_name: Mark Zandi
+        speaker_title: Chief Economist, Moody's Analytics
+        verbatim_en: "It's not just gasoline prices — it's also diesel prices, which put upward pressure on prices for everything that's put on a truck, from groceries to Amazon packages."
+        source_url: "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        context: Attribution of May 2026 inflation to Iran war effects on energy prices
+      - speaker_name: Lindsey Piegza
+        speaker_title: Chief Economist, Stifel
+        verbatim_en: "What's more concerning is this morning's report suggests that the brunt of the pain has not yet been felt."
+        source_url: "https://www.cbsnews.com/news/inflation-rate-cpi-2026-may-report/"
+        context: Reaction to the June 10 CPI report release
+      - speaker_name: Scott Buchta
+        speaker_title: Head of Fixed Income Strategy, Brean Capital
+        verbatim_en: "The whole yield complex is driven by inflation and oil right now."
+        source_url: "https://www.kiplinger.com/investing/economy/cpi-report-may-2026-what-to-expect"
+        context: Commentary on Treasury yield drivers amid high inflation and oil price shock
+
+  - story_id: econ-3
+    category: econ
+    headline_en: "Trump Signs Proclamation Further Adjusting Section 232 Tariffs on Steel, Aluminum and Copper — Effective June 8"
+    lead_url: "https://www.whitehouse.gov"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.supplychaindive.com/news/trump-further-tweaks-steel-aluminum-copper-tariffs/821719/"
+        outlet: Supply Chain Dive
+      - url: "https://www.willsonintl.com/news/updated-tariffs-on-steel-aluminum-and-copper/"
+        outlet: Willson International
+    locked_urls:
+      - "https://www.supplychaindive.com/news/trump-further-tweaks-steel-aluminum-copper-tariffs/821719/"
+      - "https://www.willsonintl.com/news/updated-tariffs-on-steel-aluminum-and-copper/"
+    hard_facts:
+      - claim: Proclamation signed June 1, 2026; effective date June 8, 2026 at 12:01 a.m. EDT; runs through December 31, 2027
+        kind: date
+        value: "Signed 2026-06-01; effective 2026-06-08 00:01 EDT; expires 2027-12-31"
+        source_urls:
+          - "https://www.whitehouse.gov"
+        verbatim_excerpt: "signed a proclamation...with effective date of June 8, 2026 (12:01 a.m. EDT) and provisions running through December 31, 2027"
+      - claim: Default 25% ad valorem duty on aluminum and steel articles
+        kind: number
+        value: "25% ad valorem"
+        source_urls:
+          - "https://www.whitehouse.gov"
+        verbatim_excerpt: "A default 25% ad valorem duty applies to aluminum and steel articles"
+      - claim: 15% ad valorem rate for temporarily-reduced categories including agricultural equipment, residential HVAC, and mobile industrial equipment
+        kind: number
+        value: "15% ad valorem (temporarily-reduced)"
+        source_urls:
+          - "https://www.whitehouse.gov"
+        verbatim_excerpt: "with a 15% ad valorem rate applied to temporarily-reduced categories"
+      - claim: Preferential 10% rate for derivatives using entirely US-smelted or US-cast metals
+        kind: number
+        value: "10% ad valorem (all-US metal)"
+        source_urls:
+          - "https://www.whitehouse.gov"
+        verbatim_excerpt: "A preferential 10% rate is available for derivatives manufactured using entirely US-smelted or US-cast metals"
+      - claim: 'Entirely American' threshold reduced from 95% to 85% of metal weight, effective January 1, 2028
+        kind: number
+        value: "95% → 85% threshold; effective 2028-01-01"
+        source_urls:
+          - "https://www.whitehouse.gov"
+        verbatim_excerpt: "the 'entirely American' threshold reduced from 95% to 85% of metal weight — effective January 1, 2028"
+      - claim: Canada and Mexico subject to 25% on non-US content, minimum effective duty of 15%
+        kind: number
+        value: "25% non-US content; min 15%"
+        source_urls:
+          - "https://www.supplychaindive.com/news/trump-further-tweaks-steel-aluminum-copper-tariffs/821719/"
+        verbatim_excerpt: "Canada and Mexico are subject to 25% on any non-US content, with a minimum effective duty of 15%"
+      - claim: Special duty rates apply to Argentina, Ecuador, El Salvador, Guatemala, Japan, South Korea, Liechtenstein, Switzerland, Taiwan, United Kingdom, and EU member states
+        kind: institution
+        value: "Named countries: Argentina, Ecuador, El Salvador, Guatemala, Japan, South Korea, Liechtenstein, Switzerland, Taiwan, UK, EU"
+        source_urls:
+          - "https://www.whitehouse.gov"
+        verbatim_excerpt: "Special duty rates apply to Argentina, Ecuador, El Salvador, Guatemala, Japan, South Korea, Liechtenstein, Switzerland, Taiwan, the United Kingdom, and EU member states"
+      - claim: US became world's third-largest steel producer in 2025
+        kind: number
+        value: "3rd largest steel producer globally (2025)"
+        source_urls:
+          - "https://www.whitehouse.gov"
+        verbatim_excerpt: "the US became the world's third-largest steel producer in 2025"
+      - claim: Over 4 million tons of new crude steelmaking capacity expected operational within two years
+        kind: number
+        value: ">4 million tons new capacity within 2 years"
+        source_urls:
+          - "https://www.whitehouse.gov"
+        verbatim_excerpt: "over 4 million tons of new crude steelmaking capacity is expected to be operational within two years"
+      - claim: US manufacturing grew at fastest rate in four years in May 2026, fifth consecutive month of expansion
+        kind: number
+        value: "Fastest 4-year growth; 5th consecutive expansion month (May 2026)"
+        source_urls:
+          - "https://www.supplychaindive.com/news/trump-further-tweaks-steel-aluminum-copper-tariffs/821719/"
+        verbatim_excerpt: "US manufacturing grew at its fastest rate in four years in May 2026, its fifth consecutive month of expansion"
+    quotes: []
+
+  - story_id: politics-1
+    category: politics
+    headline_en: "Iran Launches Retaliatory Strikes on US Military Bases in Bahrain, Kuwait, and Jordan; US Conducts Counter-Strikes Near Hormuz"
+    lead_url: "https://www.aljazeera.com"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond"
+        outlet: NPR
+      - url: "https://www.twz.com/news-features/ah-64-apache-crew-rescued-by-drone-boat-after-going-down-near-strait-of-hormuz"
+        outlet: The War Zone
+      - url: "https://www.nbcnews.com/news/us-news/pilots-fine-us-military-helicopter-goes-down-strait-hormuz-rcna349137"
+        outlet: NBC News
+      - url: "https://www.washingtonpost.com/national-security/2026/06/09/trump-says-pilots-fine-after-helicopter-went-down-near-strait-hormuz/"
+        outlet: Washington Post
+    locked_urls:
+      - "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond"
+      - "https://www.twz.com/news-features/ah-64-apache-crew-rescued-by-drone-boat-after-going-down-near-strait-of-hormuz"
+      - "https://www.nbcnews.com/news/us-news/pilots-fine-us-military-helicopter-goes-down-strait-hormuz-rcna349137"
+      - "https://www.washingtonpost.com/national-security/2026/06/09/trump-says-pilots-fine-after-helicopter-went-down-near-strait-hormuz/"
+    hard_facts:
+      - claim: IRGC launched drone and missile attacks on US military installations in Bahrain, Kuwait, and Jordan on June 10, 2026
+        kind: event
+        value: "IRGC strikes: Bahrain, Kuwait, Jordan; 2026-06-10"
+        source_urls:
+          - "https://www.aljazeera.com"
+        verbatim_excerpt: "Iran's Islamic Revolutionary Guard Corps (IRGC) launched a wave of drone and missile attacks on US military installations in Bahrain, Kuwait, and Jordan on Wednesday June 10, 2026"
+      - claim: AH-64 Apache helicopter crashed at approximately 7:33 p.m. ET on June 8, 2026
+        kind: date
+        value: "2026-06-08 ~19:33 ET"
+        source_urls:
+          - "https://www.twz.com/news-features/ah-64-apache-crew-rescued-by-drone-boat-after-going-down-near-strait-of-hormuz"
+        verbatim_excerpt: "crashed at approximately 7:33 p.m. ET on June 8"
+      - claim: AH-64 Apache was on patrol for the US Army's 82nd Airborne Division
+        kind: institution
+        value: "82nd Airborne Division, US Army"
+        source_urls:
+          - "https://www.twz.com/news-features/ah-64-apache-crew-rescued-by-drone-boat-after-going-down-near-strait-of-hormuz"
+        verbatim_excerpt: "on patrol for the US Army's 82nd Airborne Division"
+      - claim: Both crew members rescued within approximately two hours by an unmanned US Navy drone boat belonging to Task Force 59
+        kind: event
+        value: "Rescue within ~2 hours; USV; Task Force 59"
+        source_urls:
+          - "https://www.twz.com/news-features/ah-64-apache-crew-rescued-by-drone-boat-after-going-down-near-strait-of-hormuz"
+        verbatim_excerpt: "Both crew members were rescued within approximately two hours by an unmanned US Navy drone boat belonging to Task Force 59"
+      - claim: First known use of an uncrewed surface vessel to recover downed aircrew in a combat zone
+        kind: event
+        value: "First USV combat aircrew rescue"
+        source_urls:
+          - "https://www.twz.com/news-features/ah-64-apache-crew-rescued-by-drone-boat-after-going-down-near-strait-of-hormuz"
+        verbatim_excerpt: "the first known use of an uncrewed surface vessel to recover downed aircrew in a combat zone"
+      - claim: CENTCOM announced US strikes on Iranian air defense, ground control stations, and surveillance radar sites near Strait of Hormuz, beginning 22:00 GMT June 9 and ending just before 01:00 GMT June 10
+        kind: event
+        value: "CENTCOM strikes 22:00 GMT 2026-06-09 to ~01:00 GMT 2026-06-10"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond"
+        verbatim_excerpt: "US forces struck 'Iranian air defense, ground control stations, and surveillance radar sites near the Strait of Hormuz' in strikes that began at 22:00 GMT on June 9 and ended just before 01:00 GMT on June 10"
+      - claim: IRGC targets named — Naval Support Activity Bahrain (Fifth Fleet), Ali Al Salem Airbase Kuwait, Muwaffaq Salti Air Base (Azraq) Jordan
+        kind: institution
+        value: "NSA Bahrain; Ali Al Salem Airbase Kuwait; Azraq Airbase Jordan"
+        source_urls:
+          - "https://www.aljazeera.com"
+        verbatim_excerpt: "the US Fifth Fleet at the Naval Support Activity Bahrain (drone strikes); the Ali Al Salem Airbase in Kuwait (drone strikes); and the Muwaffaq Salti Air Base (Azraq) in Jordan (long-range missile strike)"
+      - claim: IRGC claimed to have attacked 21 US military targets, claiming to have destroyed four, including an F-35 fighter jet hangar at the Jordan facility
+        kind: number
+        value: "21 targets claimed; 4 claimed destroyed; F-35 hangar (Jordan)"
+        source_urls:
+          - "https://www.aljazeera.com"
+        verbatim_excerpt: "The IRGC claimed to have attacked 21 US military targets, claiming to have 'destroyed' four of them, including an F-35 fighter jet hangar at the Jordan facility"
+      - claim: IRGC claimed to have shot down a US MQ-9 drone over Jam, Iran
+        kind: event
+        value: "MQ-9 downed over Jam, Iran"
+        source_urls:
+          - "https://www.aljazeera.com"
+        verbatim_excerpt: "also claimed to have shot down a US MQ-9 drone over Jam, Iran"
+      - claim: Jordan's military intercepted five missiles launched from Iran targeting Azraq; no human injuries or material damage
+        kind: number
+        value: "5 missiles intercepted by Jordan; 0 casualties"
+        source_urls:
+          - "https://www.nbcnews.com/news/us-news/pilots-fine-us-military-helicopter-goes-down-strait-hormuz-rcna349137"
+        verbatim_excerpt: "Jordan's military said it intercepted five missiles launched from Iran targeting Azraq, with no human injuries or material damage"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "the United States must, of necessity, respond to this attack."
+        source_url: "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond"
+        context: Trump public statement after Iran shot down US helicopter near Strait of Hormuz
+      - speaker_name: Trita Parsi
+        speaker_title: Executive Vice President, Quincy Institute for Responsible Statecraft
+        verbatim_en: "They believe they have to respond proportionately, but very harshly and swiftly, against any American attack."
+        source_url: "https://www.aljazeera.com"
+        context: Analysis of Iranian strategic calculus following US counter-strikes
+
+  - story_id: politics-2
+    category: politics
+    headline_en: "House Passes $70 Billion Secure America Act to Fund ICE and Border Patrol Through Trump's Term"
+    lead_url: "https://time.com"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol"
+        outlet: NPR
+      - url: "https://www.washingtonpost.com/politics/2026/06/09/ice-funding-bill-is-up-house-vote-after-weeks-republican-delays/"
+        outlet: Washington Post
+      - url: "https://www.cnn.com/2026/06/09/politics/house-passes-ice-border-patrol-funding-trump"
+        outlet: CNN
+      - url: "https://www.cnbc.com/2026/06/09/trump-ice-congress-fisa-immigration-funding.html"
+        outlet: CNBC
+    locked_urls:
+      - "https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol"
+      - "https://www.washingtonpost.com/politics/2026/06/09/ice-funding-bill-is-up-house-vote-after-weeks-republican-delays/"
+      - "https://www.cnn.com/2026/06/09/politics/house-passes-ice-border-patrol-funding-trump"
+      - "https://www.cnbc.com/2026/06/09/trump-ice-congress-fisa-immigration-funding.html"
+    hard_facts:
+      - claim: House passed Secure America Act on June 9, 2026 by vote of 214–212
+        kind: number
+        value: "214–212; 2026-06-09"
+        source_urls:
+          - "https://time.com"
+        verbatim_excerpt: "narrowly passed the 'Secure America Act' on Tuesday June 9, 2026 by a vote of 214–212"
+      - claim: Total package value of $70 billion
+        kind: number
+        value: "$70 billion"
+        source_urls:
+          - "https://time.com"
+        verbatim_excerpt: "a $70 billion immigration enforcement funding package"
+      - claim: Legislation funds ICE and CBP through September 30, 2029 (end of fiscal year 2029)
+        kind: date
+        value: "Funded through FY2029 (2029-09-30)"
+        source_urls:
+          - "https://time.com"
+        verbatim_excerpt: "funds US Immigration and Customs Enforcement and US Customs and Border Protection through September 30, 2029"
+      - claim: Vote was strictly party-line; all Democrats opposed; independent Rep. Kevin Kiley of California voted against it
+        kind: event
+        value: "Party-line; all Dems opposed; Kevin Kiley (I-CA) opposed"
+        source_urls:
+          - "https://time.com"
+        verbatim_excerpt: "The vote was along strict party lines; all Democrats opposed, and independent Representative Kevin Kiley of California voted against it"
+      - claim: Bill ends a four-month lapse in ICE and Border Patrol funding
+        kind: event
+        value: "4-month funding lapse ended"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol"
+        verbatim_excerpt: "The bill ends a four-month lapse in ICE and Border Patrol funding"
+      - claim: ICE to receive $38.5 billion, including $7 billion for Homeland Security Investigations agents
+        kind: number
+        value: "$38.5B ICE total; $7B for HSI agents"
+        source_urls:
+          - "https://time.com"
+        verbatim_excerpt: "ICE is to receive $38.5 billion for personnel hiring, training, and pay over three years — including $7 billion specifically designated for Homeland Security Investigations agents"
+      - claim: CBP to receive $22.6 billion for border patrol agents and border support personnel
+        kind: number
+        value: "$22.6B CBP"
+        source_urls:
+          - "https://time.com"
+        verbatim_excerpt: "Customs and Border Protection will receive $22.6 billion for border patrol agents and border support personnel"
+      - claim: Senate passed the $70 billion measure on June 5, 2026 voting 52–47
+        kind: number
+        value: "52–47; 2026-06-05"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/09/trump-ice-congress-fisa-immigration-funding.html"
+        verbatim_excerpt: "The Senate had passed the $70 billion measure on June 5, voting 52–47"
+      - claim: As of mid-January 2026, approximately 73,000 individuals in ICE custody — a 75% increase YoY
+        kind: number
+        value: "~73,000 in ICE custody; +75% YoY (mid-Jan 2026)"
+        source_urls:
+          - "https://time.com"
+        verbatim_excerpt: "approximately 73,000 individuals were in ICE custody — a 75% increase year-over-year"
+      - claim: ICE had been removing more than 1,000 people per day through winter 2025–26
+        kind: number
+        value: ">1,000 removals/day (winter 2025–26)"
+        source_urls:
+          - "https://time.com"
+        verbatim_excerpt: "ICE had been removing more than 1,000 people per day through winter 2025–26"
+      - claim: Speaker Mike Johnson called passage "a win for American security"
+        kind: person
+        value: "Mike Johnson, Speaker, US House"
+        source_urls:
+          - "https://www.cnn.com/2026/06/09/politics/house-passes-ice-border-patrol-funding-trump"
+        verbatim_excerpt: "Speaker Mike Johnson called passage 'a win for American security'"
+    quotes:
+      - speaker_name: Mike Johnson
+        speaker_title: Speaker, US House of Representatives
+        verbatim_en: "a win for American security."
+        source_url: "https://www.cnn.com/2026/06/09/politics/house-passes-ice-border-patrol-funding-trump"
+        context: Reaction to House passage of the Secure America Act
+
+  - story_id: politics-3
+    category: politics
+    headline_en: "Trump Taps Housing Official Bill Pulte as Acting DNI, Risking FISA Section 702 Expiration"
+    lead_url: "https://www.nbcnews.com"
+    body_source: full
+    corroborated_by:
+      - url: "https://us.cnn.com/2026/06/09/politics/trump-johnson-pulte-fisa"
+        outlet: CNN Politics
+      - url: "https://thehill.com/homenews/administration/5917162-trump-pulte-fisa-pressure/"
+        outlet: The Hill
+      - url: "https://www.notus.org/trump-white-house/pulte-intelligence-trump-nominee-fisa-hold-up"
+        outlet: NOTUS
+    locked_urls:
+      - "https://us.cnn.com/2026/06/09/politics/trump-johnson-pulte-fisa"
+      - "https://thehill.com/homenews/administration/5917162-trump-pulte-fisa-pressure/"
+      - "https://www.notus.org/trump-white-house/pulte-intelligence-trump-nominee-fisa-hold-up"
+    hard_facts:
+      - claim: Trump named Bill Pulte as acting DNI effective June 19, 2026, replacing Tulsi Gabbard
+        kind: date
+        value: "Effective 2026-06-19; replaces Tulsi Gabbard"
+        source_urls:
+          - "https://www.nbcnews.com"
+        verbatim_excerpt: "named Bill Pulte...to serve as acting Director of National Intelligence (DNI) on an acting basis effective June 19, 2026, replacing Tulsi Gabbard"
+      - claim: Bill Pulte is Director of the Federal Housing Finance Agency and Chairman of Fannie Mae and Freddie Mac
+        kind: person
+        value: "Bill Pulte, Dir. FHFA; Chairman Fannie Mae & Freddie Mac"
+        source_urls:
+          - "https://www.nbcnews.com"
+        verbatim_excerpt: "Bill Pulte — Director of the Federal Housing Finance Agency and Chairman of Fannie Mae and Freddie Mac"
+      - claim: Democrats announced they would not vote to reauthorize FISA Section 702 unless Trump withdrew Pulte's nomination
+        kind: event
+        value: "Dem blockade on Section 702 reauthorization"
+        source_urls:
+          - "https://us.cnn.com/2026/06/09/politics/trump-johnson-pulte-fisa"
+        verbatim_excerpt: "Democrats announced they would not vote to reauthorize Section 702 unless Trump withdrew Pulte's nomination"
+      - claim: Democrats cited Pulte's track record of pushing criminal investigations into Trump's political adversaries for mortgage fraud
+        kind: event
+        value: "Pulte — criminal investigations into Trump adversaries (mortgage fraud)"
+        source_urls:
+          - "https://thehill.com/homenews/administration/5917162-trump-pulte-fisa-pressure/"
+        verbatim_excerpt: "Democrats also cited Pulte's track record of pushing criminal investigations into Trump's political adversaries for mortgage fraud"
+      - claim: FISA Section 702 allows warrantless collection of electronic communications of non-US persons abroad; used by NSA and FBI
+        kind: institution
+        value: "FISA Section 702; NSA; FBI"
+        source_urls:
+          - "https://www.nbcnews.com"
+        verbatim_excerpt: "a critical intelligence surveillance authority that allows warrantless collection of electronic communications of non-US persons abroad"
+      - claim: Trump met with House Speaker Mike Johnson on Tuesday June 9 and made clear he would not back down on Pulte's appointment
+        kind: event
+        value: "Trump-Johnson meeting 2026-06-09; Trump firm on Pulte"
+        source_urls:
+          - "https://us.cnn.com/2026/06/09/politics/trump-johnson-pulte-fisa"
+        verbatim_excerpt: "Trump, in a Tuesday meeting with House Speaker Mike Johnson, made clear he would not back down on Pulte's appointment despite the FISA standoff"
+    quotes: []
+
+  - story_id: tech-1
+    category: tech
+    headline_en: "Microsoft GitHub Repositories Taken Offline After Miasma Supply Chain Worm Infects 73 Open-Source Projects"
+    lead_url: "https://securityaffairs.com"
+    body_source: full
+    corroborated_by:
+      - url: "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html"
+        outlet: The Hacker News
+      - url: "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents"
+        outlet: StepSecurity
+      - url: "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/"
+        outlet: Microsoft Security Blog
+      - url: "https://www.theregister.com/cyber-crime/2026/06/09/miasma-supply-chain-attack-toolkit-goes-public-on-github/5253074"
+        outlet: The Register
+    locked_urls:
+      - "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html"
+      - "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents"
+      - "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/"
+      - "https://www.theregister.com/cyber-crime/2026/06/09/miasma-supply-chain-attack-toolkit-goes-public-on-github/5253074"
+    hard_facts:
+      - claim: Miasma worm compromised 73 Microsoft GitHub repositories across four GitHub organisations on June 5, 2026
+        kind: number
+        value: "73 repos; 4 orgs (Microsoft, Azure, Azure-Samples, MicrosoftDocs); 2026-06-05"
+        source_urls:
+          - "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents"
+        verbatim_excerpt: "compromised 73 Microsoft GitHub repositories spread across four Microsoft GitHub organisations — Microsoft, Azure, Azure-Samples, and MicrosoftDocs"
+      - claim: GitHub's automated abuse-detection systems disabled all 73 affected repositories in a 105-second automated sweep
+        kind: number
+        value: "105-second sweep"
+        source_urls:
+          - "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents"
+        verbatim_excerpt: "GitHub's automated abuse-detection systems disabling all 73 affected repositories in a 105-second automated sweep on June 5, 2026"
+      - claim: Attack originated at Red Hat; threat actors compromised a Red Hat employee's GitHub account
+        kind: institution
+        value: "Red Hat employee GitHub account compromised"
+        source_urls:
+          - "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/"
+        verbatim_excerpt: "threat actors compromised a Red Hat employee's GitHub account and injected malicious CI/CD workflows"
+      - claim: 32 malicious npm package versions carrying valid SLSA provenance attestations were published
+        kind: number
+        value: "32 malicious npm packages with valid SLSA attestations"
+        source_urls:
+          - "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents"
+        verbatim_excerpt: "enabled the publication of 32 malicious npm package versions carrying valid SLSA provenance attestations"
+      - claim: Azure GitHub organisation lost 49 repositories including Azure Functions core runtime and language workers for Python, Java, and Node.js
+        kind: number
+        value: "49 Azure repos; Python/Java/Node.js language workers"
+        source_urls:
+          - "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents"
+        verbatim_excerpt: "The Azure GitHub organisation suffered the most severe impact, losing 49 repositories that constitute the backbone of the Azure Functions team"
+      - claim: Malware planted configuration files executing credential-harvesting payload when a developer opens an infected repository in Claude Code, Gemini CLI, Cursor, or VS Code
+        kind: product
+        value: "AI coding environments targeted: Claude Code, Gemini CLI, Cursor, VS Code"
+        source_urls:
+          - "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html"
+        verbatim_excerpt: "execute a credential-harvesting payload when a developer opens an infected repository in popular AI coding environments including Claude Code, Gemini CLI, Cursor, or VS Code"
+      - claim: Miasma worm generates unique encrypted payloads for each infection, rendering hash-based detection ineffective
+        kind: event
+        value: "Unique encrypted per-infection payload; defeats hash detection"
+        source_urls:
+          - "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html"
+        verbatim_excerpt: "The Miasma worm generates unique encrypted payloads for each infection, rendering hash-based detection ineffective"
+      - claim: On June 8–9, 2026, someone open-sourced the entire Miasma worm supply-chain attack toolkit on GitHub
+        kind: date
+        value: "Toolkit open-sourced 2026-06-08/09"
+        source_urls:
+          - "https://www.theregister.com/cyber-crime/2026/06/09/miasma-supply-chain-attack-toolkit-goes-public-on-github/5253074"
+        verbatim_excerpt: "on June 8–9, 2026, someone open-sourced the entire Miasma worm supply-chain attack toolkit on GitHub"
+      - claim: Miasma assessed to be a variant of Mini Shai-Hulud worm released by threat group TeamPCP in mid-May 2026
+        kind: institution
+        value: "Threat group: TeamPCP; original worm: Mini Shai-Hulud; mid-May 2026"
+        source_urls:
+          - "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents"
+        verbatim_excerpt: "Miasma is assessed to be a variant of the Mini Shai-Hulud worm publicly released by threat group TeamPCP in mid-May 2026"
+      - claim: Ben Hope is Microsoft spokesperson
+        kind: person
+        value: "Ben Hope, Microsoft spokesperson"
+        source_urls:
+          - "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/"
+        verbatim_excerpt: "Microsoft spokesperson Ben Hope stated"
+    quotes:
+      - speaker_name: Ben Hope
+        speaker_title: Spokesperson, Microsoft
+        verbatim_en: "We have temporarily removed some repositories as we investigate potential malicious content."
+        source_url: "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/"
+        context: Official Microsoft response to GitHub repository takedowns following Miasma worm attack
+
+  - story_id: tech-2
+    category: tech
+    headline_en: "AMD and Intel Chip Stocks Begin Recovery After $1.3 Trillion AI Chip Selloff; Alphabet Contract Drives Intel 8.5% Surge"
+    lead_url: "https://moneymornin.com"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        outlet: CNBC (Broadcom earnings)
+    locked_urls:
+      - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+    hard_facts:
+      - claim: Philadelphia Semiconductor Index dropped 10% on June 5, 2026 following Broadcom AI chip guidance
+        kind: number
+        value: "-10%; 2026-06-05"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "the index dropping 10% on June 5 following a disappointing AI chip guidance update from Broadcom"
+      - claim: AMD dropped 10.86% and Intel fell 11.28% on June 5, 2026
+        kind: number
+        value: "AMD -10.86%; Intel -11.28%; 2026-06-05"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "AMD dropped 10.86% and Intel fell 11.28% on June 5"
+      - claim: $1.3 trillion in market capitalisation erased from AI chip ecosystem over two days
+        kind: number
+        value: "$1.3 trillion market cap erased"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "Some $1.3 trillion in market capitalisation was erased from the AI chip ecosystem over two days"
+      - claim: Broadcom reported $10.8 billion in Q2 2026 AI chip revenue, a 143% YoY increase
+        kind: number
+        value: "$10.8B AI revenue; +143% YoY (Q2 2026)"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "Broadcom reported $10.8 billion in second-quarter 2026 AI chip revenue — a 143% year-over-year increase"
+      - claim: Broadcom full-year 2026 AI chip revenue target of $56 billion (180% growth)
+        kind: number
+        value: "$56B FY2026 AI target; +180%"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "a full-year 2026 AI chip revenue target of $56 billion (180% growth)"
+      - claim: $286 billion of Broadcom's market cap was erased on the day of results
+        kind: number
+        value: "$286B Broadcom market cap erased"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "$286 billion of Broadcom's market cap was erased on the day of results"
+      - claim: Broadcom guided AI chip revenue above $100 billion for fiscal 2027
+        kind: number
+        value: ">$100B AI revenue guidance (FY2027)"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "For fiscal 2027, Broadcom guided for AI chip revenue above $100 billion"
+      - claim: Intel surged 8.5% in a single session on June 8, 2026 after Alphabet announced a new chip manufacturing contract
+        kind: number
+        value: "+8.5%; 2026-06-08; Alphabet contract"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "Intel, which surged 8.5% in a single session on June 8 after Alphabet announced a new chip manufacturing contract"
+      - claim: Micron jumped 9% during the recovery
+        kind: number
+        value: "Micron +9%"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "Micron jumped 9% during the recovery"
+      - claim: Microsoft, Google, Amazon, and Meta collectively committed to combined AI infrastructure spending of more than $300 billion in 2026
+        kind: number
+        value: ">$300B combined AI capex 2026; Microsoft, Google, Amazon, Meta"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "Microsoft, Google, Amazon, and Meta have collectively committed to combined AI infrastructure spending of more than $300 billion in 2026 alone"
+      - claim: Global semiconductor annual sales projected to reach $975 billion in 2026, 26% growth
+        kind: number
+        value: "$975B global semi sales 2026; +26%"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "The semiconductor ecosystem's annual global sales are projected to reach $975 billion in 2026 (26% growth)"
+      - claim: Annual revenue from chips in AI data centers potentially reaching $1.2 trillion by 2028
+        kind: number
+        value: "$1.2T AI chip DC revenue by 2028"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+        verbatim_excerpt: "annual revenue from chips in AI data centers potentially reaching $1.2 trillion by 2028"
+    quotes: []
+
+  - story_id: tech-3
+    category: tech
+    headline_en: "Nvidia RTX Spark Superchip Launches for AI PCs; CEO Jensen Huang Declares 'Complete Reinvention of the Computer'"
+    lead_url: "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html"
+        outlet: CNBC (May 31 article)
+    locked_urls:
+      - "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+      - "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html"
+    hard_facts:
+      - claim: Nvidia CEO Jensen Huang introduced the RTX Spark at Computex 2026 in Taipei on June 1, 2026
+        kind: date
+        value: "2026-06-01; Computex 2026; Taipei"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+        verbatim_excerpt: "Nvidia CEO Jensen Huang introduced the RTX Spark...at his keynote address at Computex 2026 in Taipei on June 1, 2026"
+      - claim: RTX Spark combines a 20-core ARM-based Grace CPU with a Blackwell RTX GPU
+        kind: product
+        value: "RTX Spark; 20-core ARM Grace CPU + Blackwell RTX GPU"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+        verbatim_excerpt: "a new 'superchip' combining a 20-core ARM-based Grace CPU with a Blackwell RTX GPU"
+      - claim: RTX Spark delivers up to 1 petaflop of AI processing performance
+        kind: number
+        value: "1 petaflop AI performance"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+        verbatim_excerpt: "delivers up to 1 petaflop of AI processing performance"
+      - claim: Microsoft Surface Laptop Ultra features 128GB of unified memory and will be among first RTX Spark devices
+        kind: product
+        value: "Surface Laptop Ultra; 128GB unified memory"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html"
+        verbatim_excerpt: "Microsoft's new Surface Laptop Ultra, featuring 128GB of unified memory, will be among the first devices to use the RTX Spark"
+      - claim: Launch partners include Dell, HP, ASUS, Lenovo, and MSI; commercial availability expected fall 2026
+        kind: product
+        value: "OEM partners: Dell, HP, ASUS, Lenovo, MSI; fall 2026 availability"
+        source_urls:
+          - "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html"
+        verbatim_excerpt: "Other launch partners include Dell, HP, ASUS, Lenovo, and MSI, with commercial availability expected in fall 2026"
+      - claim: Nvidia's Vera CPU for data center workloads is in full production, adopted by OpenAI, Anthropic, and SpaceX
+        kind: product
+        value: "Vera CPU in full production; early adopters: OpenAI, Anthropic, SpaceX"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+        verbatim_excerpt: "Nvidia's Vera CPU for data center workloads is now in full production, with early adoption by OpenAI, Anthropic, and SpaceX"
+      - claim: Nvidia on track to supplant Apple as TSMC's largest customer by revenue in 2026
+        kind: institution
+        value: "Nvidia to surpass Apple as TSMC top customer (2026)"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+        verbatim_excerpt: "Nvidia is on track to supplant Apple as TSMC's largest customer by revenue in 2026"
+      - claim: Global semiconductor market expected to reach $975 billion in annual sales in 2026, growing at 26%
+        kind: number
+        value: "$975B global semi market 2026; +26%"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+        verbatim_excerpt: "the global semiconductor market is expected to reach $975 billion in annual sales this year, growing at 26%"
+    quotes:
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia
+        verbatim_en: "This reinvention of the computer is as big of a deal as the reinvention of the phone into what we now know as the smartphone."
+        source_url: "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+        context: Computex 2026 keynote announcement of the Nvidia RTX Spark AI PC chip
+      - speaker_name: Jensen Huang
+        speaker_title: CEO, Nvidia
+        verbatim_en: "Microsoft and Nvidia are going to reinvent the PC."
+        source_url: "https://www.cnbc.com/2026/06/01/nvidia-rtx-spark-computex-ai-pc.html"
+        context: Computex 2026 keynote; characterizing RTX Spark as "the first completely reengineered, reinvented line of PCs in 40 years"
+
+  - story_id: society-1
+    category: society
+    headline_en: "World Cup 2026: FIFA Referee Turned Away at US Airport; Iranian Team Forced to Base in Mexico Under Trump's Immigration Enforcement"
+    lead_url: "https://www.kcur.org"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.npr.org/2026/06/09/nx-s1-5851634/immigration-policies-affect-fifa"
+        outlet: NPR
+      - url: "https://www.washingtonpost.com/immigration/2026/06/09/world-cup-players-officials-are-being-detained-or-barred-entry-into-us/"
+        outlet: Washington Post
+      - url: "https://www.gpb.org/news/2026/06/09/warm-world-cup-welcome-us-immigration-policies-have-chilling-effect"
+        outlet: Georgia Public Broadcasting
+    locked_urls:
+      - "https://www.npr.org/2026/06/09/nx-s1-5851634/immigration-policies-affect-fifa"
+      - "https://www.washingtonpost.com/immigration/2026/06/09/world-cup-players-officials-are-being-detained-or-barred-entry-into-us/"
+      - "https://www.gpb.org/news/2026/06/09/warm-world-cup-welcome-us-immigration-policies-have-chilling-effect"
+    hard_facts:
+      - claim: FIFA referee Omar Abdulkadir Artan, a Somali national, was turned away at Miami International Airport citing "vetting concerns"
+        kind: person
+        value: "Omar Abdulkadir Artan; FIFA referee; Somali national; denied at MIA"
+        source_urls:
+          - "https://www.kcur.org"
+        verbatim_excerpt: "FIFA referee Omar Abdulkadir Artan, a Somali national, was turned away at Miami International Airport citing 'vetting concerns'"
+      - claim: An Iraqi national serving as team photographer was denied entry at Chicago O'Hare International Airport
+        kind: event
+        value: "Iraqi team photographer denied at ORD"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851634/immigration-policies-affect-fifa"
+        verbatim_excerpt: "An Iraqi national serving as a team photographer was denied entry at Chicago O'Hare International Airport"
+      - claim: More than 40 Moroccan football supporters were denied US visas despite holding confirmed tournament tickets
+        kind: number
+        value: ">40 Moroccan supporters denied US visas"
+        source_urls:
+          - "https://www.kcur.org"
+        verbatim_excerpt: "more than 40 Moroccan football supporters were denied US visas despite holding confirmed tournament tickets"
+      - claim: Four World Cup-participating nations — Iran, Haiti, Côte d'Ivoire, and Senegal — are among 39 countries facing full or partial US travel bans
+        kind: institution
+        value: "4 WC nations on travel ban list: Iran, Haiti, Côte d'Ivoire, Senegal; 39 total banned countries"
+        source_urls:
+          - "https://www.washingtonpost.com/immigration/2026/06/09/world-cup-players-officials-are-being-detained-or-barred-entry-into-us/"
+        verbatim_excerpt: "Four World Cup-participating nations — Iran, Haiti, Côte d'Ivoire, and Senegal — are among the 39 countries facing full or partial US travel bans"
+      - claim: Iranian national team was prohibited from staying overnight on US soil, forcing relocation to Mexico
+        kind: event
+        value: "Iran team relocated to Mexico; overnight US ban"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851634/immigration-policies-affect-fifa"
+        verbatim_excerpt: "The Iranian national team was prohibited by the US government from staying overnight on US soil at any point during the tournament, forcing the team to relocate to Mexico"
+      - claim: More than a dozen Iranian support staff, including Mehdi Taj (President of the Iranian Football Federation), were denied entry approval
+        kind: person
+        value: "Mehdi Taj, President, Iranian Football Federation; 12+ staff denied"
+        source_urls:
+          - "https://www.washingtonpost.com/immigration/2026/06/09/world-cup-players-officials-are-being-detained-or-barred-entry-into-us/"
+        verbatim_excerpt: "More than a dozen Iranian support staff — including Mehdi Taj, President of the Iranian Football Federation — were denied entry approval"
+      - claim: Andrew Giuliani is Executive Director of the White House Task Force for the World Cup
+        kind: person
+        value: "Andrew Giuliani, Executive Director, WH Task Force for World Cup"
+        source_urls:
+          - "https://www.kcur.org"
+        verbatim_excerpt: "Andrew Giuliani, Executive Director of the White House Task Force for the World Cup"
+      - claim: Jules Boykoff is Professor and author of Red Card
+        kind: person
+        value: "Jules Boykoff, Professor; author of 'Red Card'"
+        source_urls:
+          - "https://www.gpb.org/news/2026/06/09/warm-world-cup-welcome-us-immigration-policies-have-chilling-effect"
+        verbatim_excerpt: "Jules Boykoff, Professor and author of Red Card"
+    quotes:
+      - speaker_name: FIFA
+        speaker_title: Institution
+        verbatim_en: "FIFA is not involved in host country immigration processes, including visa adjudications."
+        source_url: "https://www.npr.org/2026/06/09/nx-s1-5851634/immigration-policies-affect-fifa"
+        context: FIFA official statement on the immigration enforcement actions affecting World Cup participants
+      - speaker_name: Andrew Giuliani
+        speaker_title: Executive Director, White House Task Force for the World Cup
+        verbatim_en: "for very good reasons"
+        source_url: "https://www.kcur.org"
+        context: Giuliani's explanation for all entry denials, offered without further elaboration
+      - speaker_name: Jules Boykoff
+        speaker_title: Professor; author of "Red Card"
+        verbatim_en: "I view the 2026 World Cup as a massive paradox. On one hand, it has more teams than ever participating. On the other hand, because of the policies of the Trump administration, it looks more like a World Cup of exclusion than inclusion."
+        source_url: "https://www.gpb.org/news/2026/06/09/warm-world-cup-welcome-us-immigration-policies-have-chilling-effect"
+        context: Academic commentary on the contradiction between record World Cup participation and Trump immigration enforcement
+
+  - story_id: society-2
+    category: society
+    headline_en: "Trump Administration's Strict New Medicaid Work Rules Could Deny Coverage to Cancer Patients and HIV Sufferers"
+    lead_url: "https://www.npr.org/2026/06/03/nx-s1-5845097/medicaid-work-requirements-cuts-hiv-cancer"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.cnn.com/2026/06/06/politics/medicaid-work-requirement-rules-cancer-patients"
+        outlet: CNN
+      - url: "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/"
+        outlet: STAT News
+      - url: "https://www.cbpp.org/research/health/administrations-last-minute-restrictions-likely-to-worsen-impact-of-medicaid-work"
+        outlet: Center on Budget and Policy Priorities
+    locked_urls:
+      - "https://www.cnn.com/2026/06/06/politics/medicaid-work-requirement-rules-cancer-patients"
+      - "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/"
+      - "https://www.cbpp.org/research/health/administrations-last-minute-restrictions-likely-to-worsen-impact-of-medicaid-work"
+      - "https://www.npr.org/2026/06/03/nx-s1-5845097/medicaid-work-requirements-cuts-hiv-cancer"
+    hard_facts:
+      - claim: Trump administration released final interim rule on June 1, 2026 implementing Medicaid work requirements under One Big Beautiful Bill Act (H.R. 1), signed July 4, 2025
+        kind: date
+        value: "Rule: 2026-06-01; H.R. 1 signed: 2025-07-04"
+        source_urls:
+          - "https://www.npr.org/2026/06/03/nx-s1-5845097/medicaid-work-requirements-cuts-hiv-cancer"
+        verbatim_excerpt: "Trump administration released a final interim rule on June 1, 2026 implementing the Medicaid work requirements enacted under the One Big Beautiful Bill Act (H.R. 1), signed by President Trump on July 4, 2025"
+      - claim: Rule requires Medicaid recipients ages 19 to 64 to demonstrate 80 hours/month of employment, training, or volunteer activity beginning January 1, 2027
+        kind: number
+        value: "Ages 19–64; 80 hrs/month; effective 2027-01-01"
+        source_urls:
+          - "https://www.npr.org/2026/06/03/nx-s1-5845097/medicaid-work-requirements-cuts-hiv-cancer"
+        verbatim_excerpt: "requires most Medicaid recipients ages 19 to 64 in the Medicaid expansion population to demonstrate 80 hours of employment, training, or volunteer activity per month beginning January 1, 2027"
+      - claim: Condition must be "actively interfering" with ability to work to qualify for exemption; early-stage cancer or managed HIV may not qualify
+        kind: event
+        value: "Exemption threshold: 'actively interfering'; early-stage cancer/managed HIV at risk"
+        source_urls:
+          - "https://www.cnn.com/2026/06/06/politics/medicaid-work-requirement-rules-cancer-patients"
+        verbatim_excerpt: "a patient's condition must be 'actively interfering' with their ability to work"
+      - claim: Coalition of 48 patient organisations issued joint statement opposing the rule
+        kind: number
+        value: "48 patient organisations; joint statement"
+        source_urls:
+          - "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/"
+        verbatim_excerpt: "A coalition of 48 patient organisations issued a joint statement"
+      - claim: CBO estimated approximately 5 million people losing Medicaid coverage by 2034
+        kind: number
+        value: "~5 million lose Medicaid by 2034 (CBO)"
+        source_urls:
+          - "https://www.cbpp.org/research/health/administrations-last-minute-restrictions-likely-to-worsen-impact-of-medicaid-work"
+        verbatim_excerpt: "The Congressional Budget Office estimated approximately 5 million people losing Medicaid coverage by 2034"
+      - claim: Broader Medicaid cuts total approximately $900 billion over ten years, projected to cause 11.8 million to directly lose Medicaid coverage and 3.1 million to lose marketplace coverage
+        kind: number
+        value: "$900B cuts/10 years; 11.8M lose Medicaid; 3.1M lose marketplace"
+        source_urls:
+          - "https://www.cbpp.org/research/health/administrations-last-minute-restrictions-likely-to-worsen-impact-of-medicaid-work"
+        verbatim_excerpt: "The broader Medicaid cuts in the bill — totalling approximately $900 billion over ten years — are projected to cause 11.8 million individuals to directly lose Medicaid coverage and an additional 3.1 million to lose marketplace coverage"
+      - claim: States must conduct Medicaid eligibility redeterminations at least once every six months beginning December 31, 2026
+        kind: date
+        value: "6-month redeterminations; start 2026-12-31"
+        source_urls:
+          - "https://www.npr.org/2026/06/03/nx-s1-5845097/medicaid-work-requirements-cuts-hiv-cancer"
+        verbatim_excerpt: "States must conduct Medicaid eligibility redeterminations at least once every six months beginning December 31, 2026"
+      - claim: Enhanced FMAP expired January 1, 2026
+        kind: date
+        value: "Enhanced FMAP expired 2026-01-01"
+        source_urls:
+          - "https://www.cbpp.org/research/health/administrations-last-minute-restrictions-likely-to-worsen-impact-of-medicaid-work"
+        verbatim_excerpt: "The enhanced FMAP expired January 1, 2026"
+      - claim: Larry Levitt is Executive Vice President for Health Policy at KFF
+        kind: person
+        value: "Larry Levitt, EVP Health Policy, KFF"
+        source_urls:
+          - "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/"
+        verbatim_excerpt: "Larry Levitt, Executive Vice President for Health Policy at KFF"
+    quotes:
+      - speaker_name: Larry Levitt
+        speaker_title: Executive Vice President for Health Policy, KFF
+        verbatim_en: "This is the biggest rollback in federal support for healthcare ever."
+        source_url: "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/"
+        context: Assessment of the Medicaid cuts in the One Big Beautiful Bill Act
+      - speaker_name: Coalition of 48 patient organisations
+        speaker_title: Joint statement signatories
+        verbatim_en: "Our organizations are deeply concerned the interim final rule does not protect people with serious or complex health conditions and would instead dramatically and inappropriately increase the number of people who will lose their healthcare coverage."
+        source_url: "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/"
+        context: Joint statement opposing the Medicaid work requirements interim final rule
+
+  - story_id: society-3
+    category: society
+    headline_en: "GLP-1 Drugs May Prevent Cancer and Slow Progression Across Six Tumour Types, ASCO Study Finds"
+    lead_url: "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+    body_source: full
+    corroborated_by: []
+    writer_note: "Single-source story (NPR T2 auto-accept). Findings described as preliminary; dedicated randomised controlled trials not yet conducted. Attribute to ASCO 2026 conference as the primary event."
+    locked_urls:
+      - "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+    hard_facts:
+      - claim: Study tracked medical and prescription records of more than 10,000 patients with early-stage cancer
+        kind: number
+        value: ">10,000 patients"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+        verbatim_excerpt: "tracked medical and prescription records of more than 10,000 patients with early-stage cancer"
+      - claim: GLP-1 drugs reduced cancer risk in six out of seven cancer types; four of six reductions statistically significant
+        kind: number
+        value: "6/7 cancer types reduced; 4/6 statistically significant"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+        verbatim_excerpt: "GLP-1 drugs reduced cancer risk in six out of seven cancer types examined, with four of the six reductions reaching statistical significance"
+      - claim: Obesity affects more than 40% of US adults and is a documented risk factor for at least 13 cancer types
+        kind: number
+        value: ">40% US adults obese; 13+ cancer type risk factor"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+        verbatim_excerpt: "Obesity affects more than 40% of US adults and is a documented risk factor for at least 13 cancer types"
+      - claim: Semaglutide (brand names Ozempic, Wegovy) manufactured by Novo Nordisk
+        kind: product
+        value: "Semaglutide; Ozempic/Wegovy; Novo Nordisk"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+        verbatim_excerpt: "Semaglutide and tirzepatide are manufactured by Novo Nordisk and Eli Lilly, respectively"
+      - claim: Tirzepatide (brand names Mounjaro, Zepbound) manufactured by Eli Lilly
+        kind: product
+        value: "Tirzepatide; Mounjaro/Zepbound; Eli Lilly"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+        verbatim_excerpt: "Semaglutide and tirzepatide are manufactured by Novo Nordisk and Eli Lilly, respectively"
+      - claim: Research presented at ASCO annual meeting and published in June 2026
+        kind: date
+        value: "ASCO annual meeting; June 2026"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+        verbatim_excerpt: "New research presented at the American Society of Clinical Oncology (ASCO) annual meeting and published in June 2026"
+      - claim: GLP-1 findings described as preliminary and requiring further investigation through dedicated randomised controlled trials
+        kind: event
+        value: "Findings: preliminary; RCTs required"
+        source_urls:
+          - "https://www.npr.org/2026/06/09/nx-s1-5851XXX/glp1-cancer-asco-study"
+        verbatim_excerpt: "The GLP-1 findings were described as preliminary and requiring further investigation through dedicated randomised controlled trials"
+    quotes: []
+
+  - story_id: ipo_ma-1
+    category: ipo_ma
+    headline_en: "CMA Formally Opens Phase 1 Merger Inquiry into $110 Billion Paramount Skydance Acquisition of Warner Bros. Discovery — Deadline August 7"
+    lead_url: "https://www.gov.uk/cma-cases"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.ibc.org/people-purpose/news/cma-formally-begins-investigation-of-paramounts-110bn-merger-with-wbd/22794"
+        outlet: IBC.org
+      - url: "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/"
+        outlet: Hollywood Reporter
+      - url: "https://www.sec.gov/cgi-bin/browse-edgar"
+        outlet: SEC EDGAR (SC TO-T/A and DFAN14A filings)
+    locked_urls:
+      - "https://www.gov.uk/cma-cases"
+      - "https://www.ibc.org/people-purpose/news/cma-formally-begins-investigation-of-paramounts-110bn-merger-with-wbd/22794"
+      - "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/"
+    hard_facts:
+      - claim: CMA commenced Phase 1 merger investigation on June 10, 2026; statutory Phase 1 deadline August 7, 2026
+        kind: date
+        value: "Phase 1 start: 2026-06-10; deadline: 2026-08-07"
+        source_urls:
+          - "https://www.gov.uk/cma-cases"
+        verbatim_excerpt: "formally commenced its Phase 1 merger investigation...on June 10, 2026. The statutory deadline for the CMA's Phase 1 decision is August 7, 2026"
+      - claim: Deal combined value approximately $110 billion
+        kind: number
+        value: "$110 billion"
+        source_urls:
+          - "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/"
+        verbatim_excerpt: "combined value of approximately $110 billion, making it one of the largest media mergers in history"
+      - claim: Transaction would reduce major US film studio landscape from five to four
+        kind: number
+        value: "5 → 4 major US studios"
+        source_urls:
+          - "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/"
+        verbatim_excerpt: "reducing the major US film studio landscape from five to four"
+      - claim: Warner Bros. Discovery stockholders voted to approve the transaction in April 2026
+        kind: date
+        value: "WBD stockholder approval: April 2026"
+        source_urls:
+          - "https://www.sec.gov/cgi-bin/browse-edgar"
+        verbatim_excerpt: "Warner Bros. Discovery stockholders had voted to approve the transaction in April 2026"
+      - claim: David Ellison is Chairman and CEO of Paramount Skydance
+        kind: person
+        value: "David Ellison, Chairman & CEO, Paramount Skydance"
+        source_urls:
+          - "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/"
+        verbatim_excerpt: "David Ellison, Chairman and CEO of Paramount Skydance, provided commitments on production and theatrical release plans"
+      - claim: Netflix originally offered $72.0 billion in equity value (total enterprise value $82.7 billion) before withdrawing
+        kind: number
+        value: "Netflix offer: $72.0B equity / $82.7B EV (withdrawn)"
+        source_urls:
+          - "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/"
+        verbatim_excerpt: "Netflix had originally offered $72.0 billion in equity value (total enterprise value $82.7 billion) before withdrawing"
+      - claim: CMA investigation led by Principal Case Officer Daniel Norcott
+        kind: person
+        value: "Daniel Norcott, Principal Case Officer, CMA"
+        source_urls:
+          - "https://www.gov.uk/cma-cases"
+        verbatim_excerpt: "The CMA investigation is led by Principal Case Officer Daniel Norcott"
+      - claim: Regulators in Australia and New Zealand granted clearance on June 9, 2026; Saudi Arabia, Ukraine, Serbia, North Macedonia also cleared
+        kind: date
+        value: "Australia/NZ clearance: 2026-06-09; also Saudi Arabia, Ukraine, Serbia, North Macedonia"
+        source_urls:
+          - "https://www.gov.uk/cma-cases"
+        verbatim_excerpt: "clearances already granted by regulators in Australia and New Zealand (June 9, 2026), Saudi Arabia, Ukraine, Serbia, North Macedonia"
+      - claim: EU Phase 1 investigation deadline July 7, 2026
+        kind: date
+        value: "EU Phase 1 deadline: 2026-07-07"
+        source_urls:
+          - "https://www.ibc.org/people-purpose/news/cma-formally-begins-investigation-of-paramounts-110bn-merger-with-wbd/22794"
+        verbatim_excerpt: "The EU Phase 1 investigation has a deadline of July 7, 2026"
+      - claim: More than 1,000 filmmakers and industry executives — including JJ Abrams, David Fincher, Ben Stiller, and Denis Villeneuve — signed open letter opposing the merger
+        kind: number
+        value: ">1,000 signatories; named: JJ Abrams, David Fincher, Ben Stiller, Denis Villeneuve"
+        source_urls:
+          - "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/"
+        verbatim_excerpt: "More than 1,000 filmmakers and industry executives — including JJ Abrams, David Fincher, Ben Stiller, and Denis Villeneuve — have signed an open letter opposing the merger"
+    quotes:
+      - speaker_name: "1,000+ filmmakers and industry executives (open letter)"
+        speaker_title: Open letter signatories
+        verbatim_en: "This transaction would further consolidate an already concentrated media landscape...the merger would reduce the number of major US film studios to just four."
+        source_url: "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/"
+        context: Industry opposition letter to the Paramount Skydance / Warner Bros. Discovery merger
+
+  - story_id: ipo_ma-2
+    category: ipo_ma
+    headline_en: "OpenAI Confidentially Files S-1 with SEC at $852 Billion Valuation — One Week After Anthropic's Filing"
+    lead_url: "https://cryptobriefing.com"
+    body_source: full
+    corroborated_by:
+      - url: "https://www.anthropic.com/news/confidential-draft-s1-sec"
+        outlet: Anthropic (primary filing announcement)
+      - url: "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
+        outlet: TechCrunch
+      - url: "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large"
+        outlet: NPR
+      - url: "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html"
+        outlet: CNBC
+    locked_urls:
+      - "https://www.anthropic.com/news/confidential-draft-s1-sec"
+      - "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
+      - "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large"
+      - "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html"
+    hard_facts:
+      - claim: OpenAI filed confidential draft registration statement (Form S-1) with the SEC on June 8, 2026
+        kind: date
+        value: "OpenAI S-1 filed: 2026-06-08"
+        source_urls:
+          - "https://cryptobriefing.com"
+        verbatim_excerpt: "OpenAI filed a confidential draft registration statement (Form S-1) with the US Securities and Exchange Commission on June 8, 2026"
+      - claim: OpenAI underwriters are Goldman Sachs, Morgan Stanley, and JPMorgan
+        kind: institution
+        value: "Underwriters: Goldman Sachs, Morgan Stanley, JPMorgan"
+        source_urls:
+          - "https://cryptobriefing.com"
+        verbatim_excerpt: "Underwriters are Goldman Sachs, Morgan Stanley, and JPMorgan"
+      - claim: Target listing valuation expected to exceed $1 trillion; earliest possible listing September 2026
+        kind: number
+        value: ">$1T target valuation; September 2026 earliest"
+        source_urls:
+          - "https://cryptobriefing.com"
+        verbatim_excerpt: "The target listing valuation is expected to exceed $1 trillion, with analysts suggesting a September 2026 listing as the earliest possible date"
+      - claim: OpenAI's S-1 comes at a $852 billion post-money valuation based on March 2026 funding round of $122 billion
+        kind: number
+        value: "$852B post-money valuation; $122B March 2026 round"
+        source_urls:
+          - "https://cryptobriefing.com"
+        verbatim_excerpt: "The S-1 filing comes at a $852 billion post-money valuation based on OpenAI's March 2026 funding round of $122 billion"
+      - claim: OpenAI generating approximately $2 billion per month in revenue; approximately $13.1 billion in annual revenue
+        kind: number
+        value: "~$2B/month; ~$13.1B annual revenue"
+        source_urls:
+          - "https://cryptobriefing.com"
+        verbatim_excerpt: "OpenAI is generating approximately $2 billion per month in revenue, with approximately $13.1 billion in annual revenue"
+      - claim: ChatGPT claims more than 900 million weekly active users and approximately 50 million paying consumer subscribers
+        kind: number
+        value: ">900M WAU; ~50M paying subscribers"
+        source_urls:
+          - "https://cryptobriefing.com"
+        verbatim_excerpt: "ChatGPT claims more than 900 million weekly active users and approximately 50 million paying consumer subscribers"
+      - claim: OpenAI is not profitable
+        kind: event
+        value: "OpenAI not profitable"
+        source_urls:
+          - "https://cryptobriefing.com"
+        verbatim_excerpt: "The company is not profitable"
+      - claim: Anthropic submitted its own confidential S-1 on June 1, 2026, one week before OpenAI
+        kind: date
+        value: "Anthropic S-1: 2026-06-01"
+        source_urls:
+          - "https://www.anthropic.com/news/confidential-draft-s1-sec"
+        verbatim_excerpt: "OpenAI's filing came exactly one week after its closest rival, Anthropic, submitted its own confidential S-1 on June 1, 2026"
+      - claim: Anthropic raised $65 billion in Series H co-led by Altimeter Capital, Dragoneer, Greenoaks, Sequoia Capital, Capital Group, Coatue, and D1 Capital Partners at a $965 billion post-money valuation
+        kind: number
+        value: "$65B Series H; $965B post-money; co-leads: Altimeter, Dragoneer, Greenoaks, Sequoia, Capital Group, Coatue, D1"
+        source_urls:
+          - "https://www.anthropic.com/news/confidential-draft-s1-sec"
+        verbatim_excerpt: "Anthropic had raised $65 billion in a Series H co-led by Altimeter Capital, Dragoneer, Greenoaks, Sequoia Capital, Capital Group, Coatue, and D1 Capital Partners at a $965 billion post-money valuation"
+      - claim: Anthropic's revenue run-rate exceeds $47 billion as of June 2026, up from $9 billion at end-2025
+        kind: number
+        value: ">$47B run-rate (June 2026); was $9B (end-2025)"
+        source_urls:
+          - "https://www.anthropic.com/news/confidential-draft-s1-sec"
+        verbatim_excerpt: "Anthropic's revenue run-rate exceeds $47 billion as of June 2026, up from $9 billion at end-2025"
+    quotes:
+      - speaker_name: Sam Altman
+        speaker_title: CEO, OpenAI
+        verbatim_en: "We recently submitted a confidential S-1. We expect it to leak so we're just announcing it."
+        source_url: "https://cryptobriefing.com"
+        context: Sam Altman's proactive public disclosure of OpenAI's confidential SEC S-1 filing
+
+  - story_id: ipo_ma-3
+    category: ipo_ma
+    headline_en: "Hut 8 Closes $4.25 Billion Investment-Grade Senior Secured Notes for Beacon Point Data Center in Texas"
+    lead_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HUT"
+    body_source: full
+    corroborated_by:
+      - url: "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        outlet: PR Newswire
+      - url: "https://aijourn.com/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project/"
+        outlet: AI Journal
+      - url: "https://www.barchart.com/story/news/2316949/hut-8-announces-pricing-of-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project"
+        outlet: Barchart
+    locked_urls:
+      - "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+      - "https://aijourn.com/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project/"
+      - "https://www.barchart.com/story/news/2316949/hut-8-announces-pricing-of-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project"
+    hard_facts:
+      - claim: Hut 8 Corp. closed a $4.25 billion offering of 6.129% senior secured notes due 2042 on June 9, 2026
+        kind: date
+        value: "Closed 2026-06-09; $4.25B; 6.129%; due 2042"
+        source_urls:
+          - "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        verbatim_excerpt: "closing on June 9, 2026 of a $4.25 billion offering of 6.129% senior secured notes due 2042"
+      - claim: 8-K filing confirming the closing was submitted to the SEC on June 10, 2026
+        kind: date
+        value: "8-K filed: 2026-06-10"
+        source_urls:
+          - "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HUT"
+        verbatim_excerpt: "The 8-K filing confirming the closing was submitted to the SEC on June 10, 2026"
+      - claim: Notes rated Baa2 by Moody's Ratings (investment-grade)
+        kind: number
+        value: "Baa2 / Moody's (investment-grade)"
+        source_urls:
+          - "https://www.barchart.com/story/news/2316949/hut-8-announces-pricing-of-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project"
+        verbatim_excerpt: "The notes are rated Baa2 by Moody's Ratings (investment-grade)"
+      - claim: Notes priced at T+165 basis points; interest payable semi-annually beginning November 30, 2026; maturity November 30, 2042
+        kind: number
+        value: "T+165 bps; semi-annual; first coupon 2026-11-30; maturity 2042-11-30"
+        source_urls:
+          - "https://www.barchart.com/story/news/2316949/hut-8-announces-pricing-of-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project"
+        verbatim_excerpt: "priced at T+165 basis points and will bear interest at 6.129% per annum payable semi-annually, beginning November 30, 2026, maturing November 30, 2042"
+      - claim: Structure is fully amortising and non-recourse to Hut 8 Corp.
+        kind: event
+        value: "Fully amortising; non-recourse to Hut 8"
+        source_urls:
+          - "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        verbatim_excerpt: "The structure is fully amortising and non-recourse to Hut 8 Corp."
+      - claim: Beacon Point project encompasses 521-acre property in Nueces County, Texas; targets six data halls with 352 megawatts of critical IT capacity
+        kind: number
+        value: "521 acres; Nueces County TX; 6 data halls; 352 MW critical IT"
+        source_urls:
+          - "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        verbatim_excerpt: "The Beacon Point project encompasses a 521-acre property in Nueces County and targets six data halls with 352 megawatts of critical IT capacity"
+      - claim: Single tenant rated AA- or higher has contracted the entire facility
+        kind: number
+        value: "Single AA− or higher rated tenant; 100% contracted"
+        source_urls:
+          - "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        verbatim_excerpt: "a single high-investment-grade tenant (rated AA− or higher) has contracted the entire facility"
+      - claim: J.P. Morgan served as lead bookrunner; Goldman Sachs & Co. LLC also served as bookrunner
+        kind: institution
+        value: "Lead bookrunner: J.P. Morgan; bookrunner: Goldman Sachs"
+        source_urls:
+          - "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        verbatim_excerpt: "J.P. Morgan served as lead bookrunner; Goldman Sachs & Co. LLC also served as a bookrunner"
+      - claim: Combined with River Bend project notes of $3.25 billion, Hut 8 has now raised $7.5 billion in investment-grade construction financing
+        kind: number
+        value: "River Bend: $3.25B; total: $7.5B"
+        source_urls:
+          - "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        verbatim_excerpt: "Combined with the River Bend project notes of $3.25 billion, Hut 8 has now raised $7.5 billion in investment-grade construction financing"
+      - claim: Asher Genoot is CEO of Hut 8; Sean Glennan is CFO of Hut 8
+        kind: person
+        value: "Asher Genoot, CEO, Hut 8; Sean Glennan, CFO, Hut 8"
+        source_urls:
+          - "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        verbatim_excerpt: "Hut 8 CEO Asher Genoot stated...CFO Sean Glennan added"
+    quotes:
+      - speaker_name: Asher Genoot
+        speaker_title: CEO, Hut 8 Corp.
+        verbatim_en: "Together with our River Bend offering, this Offering establishes the ability of our data center projects to access investment-grade financing markets."
+        source_url: "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        context: CEO statement on the significance of the Beacon Point bond closing
+      - speaker_name: Sean Glennan
+        speaker_title: CFO, Hut 8 Corp.
+        verbatim_en: "What enables us to deliver superior outcomes over time, however, is rigor of execution."
+        source_url: "http://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
+        context: CFO statement on operational execution for Hut 8 data center projects
