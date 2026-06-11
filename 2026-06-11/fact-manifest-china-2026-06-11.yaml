@@ -1,0 +1,414 @@
+version: 1
+generated_at: "2026-06-11T00:00:00Z"
+country: China
+date: "2026-06-11"
+total_stories: 4
+stories:
+  - story_id: openai-bans-china-linked-chatgpt-accounts
+    category: china_nexus
+    headline_en: OpenAI Bans China-Linked ChatGPT Accounts Used in Covert Influence Campaign Against U.S. AI Data Centers and Tariff Debates
+    lead_url: https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+    body_source: full
+    corroborated_by:
+      - https://www.engadget.com/2191966/openai-china-influence-campaigns-against-data-centers-report/
+      - https://asia.nikkei.com/business/technology/openai-says-china-fomenting-dissent-over-tariffs-data-centers
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+      - https://www.engadget.com/2191966/openai-china-influence-campaigns-against-data-centers-report/
+      - https://asia.nikkei.com/business/technology/openai-says-china-fomenting-dissent-over-tariffs-data-centers
+    hard_facts:
+      - claim: OpenAI threat report publication date
+        kind: temporal
+        value: June 11, 2026
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        verbatim_excerpt: "OpenAI published a threat report on June 11, 2026, disclosing that it had banned two clusters of ChatGPT accounts"
+      - claim: number of ChatGPT account clusters banned
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        verbatim_excerpt: "it had banned two clusters of ChatGPT accounts likely based in China"
+      - claim: first cluster label
+        kind: named_product
+        value: "Data Center Bandwagon"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        verbatim_excerpt: "The first cluster, labelled \"Data Center Bandwagon,\" used ChatGPT to generate English-language social media posts and comic strips"
+      - claim: second cluster label
+        kind: named_product
+        value: "Tech and Tariffs"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        verbatim_excerpt: "The second cluster, labelled \"Tech and Tariffs,\" generated posts and political cartoons criticising U.S. tariff and technology-dominance policies"
+      - claim: global electricity consumption share by data centers in 2024
+        kind: numerical_with_unit
+        value: "1.5 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        verbatim_excerpt: "The International Energy Agency noted data centers consumed 1.5 percent of global electricity in 2024"
+      - claim: annual data center electricity growth rate over five years
+        kind: numerical_with_unit
+        value: "12 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        verbatim_excerpt: "growing 12 percent annually over five years"
+      - claim: named institution reporting data center electricity usage
+        kind: named_institution
+        value: International Energy Agency
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        verbatim_excerpt: "The International Energy Agency noted data centers consumed 1.5 percent of global electricity in 2024"
+      - claim: named institution banned accounts
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        verbatim_excerpt: "OpenAI published a threat report on June 11, 2026, disclosing that it had banned two clusters of ChatGPT accounts"
+    quotes:
+      - speaker_name: OpenAI
+        speaker_title: Organization statement
+        verbatim_en: "Foreign influence operations have long sought to latch onto existing local issues and sincerely held beliefs."
+        source_url: https://www.aljazeera.com/economy/2026/6/11/openai-says-china-based-actors-stoking-opposition-to-ai-data-centres
+        context: OpenAI threat report released June 11, 2026
+
+  - story_id: taiwan-fires-himars-taiwan-strait-westward
+    category: china_nexus
+    headline_en: Taiwan Fires HIMARS Into Taiwan Strait in First Westward Live-Fire Demonstration
+    lead_url: https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+    hard_facts:
+      - claim: date of HIMARS live-fire demonstration
+        kind: temporal
+        value: June 11, 2026
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "Taiwan's military conducted its first live-fire demonstration of HIMARS (High Mobility Artillery Rocket Systems) into the Taiwan Strait on June 11, 2026"
+      - claim: named product used in exercise
+        kind: named_product
+        value: "HIMARS (High Mobility Artillery Rocket Systems)"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "Taiwan's military conducted its first live-fire demonstration of HIMARS (High Mobility Artillery Rocket Systems) into the Taiwan Strait on June 11, 2026"
+      - claim: HIMARS maximum operational range
+        kind: numerical_with_unit
+        value: "190 miles"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "The HIMARS system has a maximum operational range of 190 miles"
+      - claim: number of additional HIMARS systems in U.S. sale announcement
+        kind: numerical
+        value: "82"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "A U.S. announcement in December to sell 82 additional HIMARS systems to Taiwan"
+      - claim: date of U.S. HIMARS sale announcement placed on hold
+        kind: temporal
+        value: December
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "A U.S. announcement in December to sell 82 additional HIMARS systems to Taiwan appeared to be placed on hold"
+      - claim: date of Trump-Xi meeting in Beijing
+        kind: temporal
+        value: May 2026
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "after President Donald Trump met Chinese leader Xi Jinping in Beijing in May 2026"
+      - claim: named person — Taiwan Army sergeant quoted
+        kind: named_person
+        value: Wang Ming-hui
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "Army Sgt. Wang Ming-hui stated"
+      - claim: named person — Taiwan company commander quoted
+        kind: named_person
+        value: Ko Ming-pin
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "Company Commander Ko Ming-pin said"
+      - claim: named person — U.S. President referenced
+        kind: named_person
+        value: Donald Trump
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "after President Donald Trump met Chinese leader Xi Jinping in Beijing in May 2026"
+      - claim: named person — Chinese leader referenced
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "after President Donald Trump met Chinese leader Xi Jinping in Beijing in May 2026"
+      - claim: named province potentially within HIMARS range
+        kind: named_institution
+        value: Fujian Province
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        verbatim_excerpt: "theoretically enabling strikes against targets along the coast of China's Fujian Province"
+    quotes:
+      - speaker_name: Wang Ming-hui
+        speaker_title: Army Sergeant, Taiwan military
+        verbatim_en: "Due to the current enemy threat, we will continue HIMARS training with unwavering determination to protect Taiwan as the nation's strongest force."
+        source_url: https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        context: June 11, 2026 live-fire demonstration statement
+      - speaker_name: Ko Ming-pin
+        speaker_title: Company Commander, Taiwan military
+        verbatim_en: "Our HIMARS demonstrated the solid combat capabilities of the unit and successfully completed this training."
+        source_url: https://www.stripes.com/theaters/asia_pacific/2026-06-11/taiwan-strait-himars-test-china-21932829.html
+        context: June 11, 2026 live-fire demonstration statement
+
+  - story_id: china-north-korea-summit-kim-signals-confrontation
+    category: politics
+    headline_en: China and North Korea Cement Post-Summit Alliance as Kim Signals Confrontational Posture Toward U.S.
+    lead_url: https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+    body_source: full
+    corroborated_by:
+      - https://www.taipeitimes.com/News/world/archives/2026/06/11/2003858918
+      - https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties
+    locked_urls:
+      - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+      - https://www.taipeitimes.com/News/world/archives/2026/06/11/2003858918
+      - https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties
+    hard_facts:
+      - claim: date Xi Jinping concluded Pyongyang summit
+        kind: temporal
+        value: June 9, 2026
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "Chinese President Xi Jinping concluded a two-day summit in Pyongyang on June 9, 2026"
+      - claim: duration of Xi's Pyongyang summit
+        kind: temporal
+        value: two-day
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "Xi Jinping concluded a two-day summit in Pyongyang on June 9, 2026"
+      - claim: years since Xi's previous North Korea visit
+        kind: temporal
+        value: seven years
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "Xi's visit was his first to North Korea in seven years"
+      - claim: Xi's first international trip of 2026
+        kind: temporal
+        value: first international trip of 2026
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "his first international trip of 2026"
+      - claim: date Kim and Xi adopted bilateral blueprint
+        kind: temporal
+        value: June 11, 2026
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "On June 11, 2026, Kim Jong Un and Xi adopted a \"far-reaching blueprint\" for bilateral ties"
+      - claim: year North Korea changed course on U.S. engagement
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "North Korea has \"dramatically changed course\" since 2023"
+      - claim: date South Korea and EU statement on North Korea nuclear status
+        kind: temporal
+        value: June 11
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "South Korea and the EU on June 11 stated North Korea will \"never\" be recognized as a nuclear-weapon state"
+      - claim: named person — Chinese President
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "Chinese President Xi Jinping concluded a two-day summit in Pyongyang on June 9, 2026"
+      - claim: named person — North Korean leader
+        kind: named_person
+        value: Kim Jong Un
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "On June 11, 2026, Kim Jong Un and Xi adopted a \"far-reaching blueprint\" for bilateral ties"
+      - claim: named person — former State Department analyst
+        kind: named_person
+        value: Bob Carlin
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "Former State Department analyst Bob Carlin said North Korea has \"dramatically changed course\" since 2023"
+      - claim: named institution — South Korea statement
+        kind: named_institution
+        value: South Korea
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "South Korea and the EU on June 11 stated North Korea will \"never\" be recognized as a nuclear-weapon state"
+      - claim: named institution — EU statement
+        kind: named_institution
+        value: EU
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "South Korea and the EU on June 11 stated North Korea will \"never\" be recognized as a nuclear-weapon state"
+      - claim: named institution — State Department (Carlin affiliation)
+        kind: named_institution
+        value: State Department
+        source_urls:
+          - https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        verbatim_excerpt: "Former State Department analyst Bob Carlin said"
+    quotes:
+      - speaker_name: Xi Jinping
+        speaker_title: Chinese President
+        verbatim_en: "a new historical starting point"
+        source_url: https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        context: Pyongyang summit concluding statement, June 9, 2026
+      - speaker_name: Kim Jong Un
+        speaker_title: North Korean leader
+        verbatim_en: "far-reaching blueprint"
+        source_url: https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        context: June 11, 2026 bilateral agreement adoption
+      - speaker_name: Kim Jong Un
+        speaker_title: North Korean leader
+        verbatim_en: "into a model of the most powerful and strategic relations"
+        source_url: https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        context: June 11, 2026 bilateral blueprint commitment
+      - speaker_name: Bob Carlin
+        speaker_title: Former State Department analyst
+        verbatim_en: "dramatically changed course"
+        source_url: https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        context: commentary on North Korea's posture since 2023
+      - speaker_name: Bob Carlin
+        speaker_title: Former State Department analyst
+        verbatim_en: "need[s] to know what he's up to"
+        source_url: https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/
+        context: commentary on China's need to counsel North Korea restraint
+
+  - story_id: hong-kong-charges-seven-wang-fuk-court-fire
+    category: society
+    headline_en: Hong Kong Charges Seven Individuals and Two Companies with Manslaughter Over 2025 Wang Fuk Court Fire That Killed 168
+    lead_url: https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+    body_source: full
+    corroborated_by:
+      - https://www.washingtonpost.com/world/2026/06/10/hong-kong-fire-charges-manslaughter/97cd962a-649b-11f1-bdd4-805ebb99a693_story.html
+      - https://hongkongfp.com/2026/06/10/fuelled-by-greed-hong-kong-charges-7-people-2-firms-over-deadly-wang-fuk-court-fire/
+      - https://asia.nikkei.com/economy/fires/manslaughter-other-charges-filed-over-hong-kong-s-wang-fuk-court-fire
+    locked_urls:
+      - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+      - https://www.washingtonpost.com/world/2026/06/10/hong-kong-fire-charges-manslaughter/97cd962a-649b-11f1-bdd4-805ebb99a693_story.html
+      - https://hongkongfp.com/2026/06/10/fuelled-by-greed-hong-kong-charges-7-people-2-firms-over-deadly-wang-fuk-court-fire/
+      - https://asia.nikkei.com/economy/fires/manslaughter-other-charges-filed-over-hong-kong-s-wang-fuk-court-fire
+    hard_facts:
+      - claim: date manslaughter charges filed
+        kind: temporal
+        value: June 11, 2026
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Hong Kong authorities filed manslaughter charges on June 11, 2026 at West Kowloon Law Courts Building"
+      - claim: number of individuals charged
+        kind: numerical
+        value: "seven"
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "against seven individuals and two companies in connection with the November 26, 2025 fire"
+      - claim: number of companies charged
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "against seven individuals and two companies in connection with the November 26, 2025 fire"
+      - claim: date of Wang Fuk Court fire
+        kind: temporal
+        value: November 26, 2025
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "in connection with the November 26, 2025 fire at Wang Fuk Court residential estate"
+      - claim: death toll from fire
+        kind: numerical_with_unit
+        value: "168"
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "which killed 168 people"
+      - claim: renovation contract value
+        kind: numerical_with_unit
+        value: "HK$330 million"
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Prestige Construction & Engineering (main contractor for the HK$330 million renovation)"
+      - claim: total number of charges filed
+        kind: numerical_with_unit
+        value: "25 charges"
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Defendants face 25 charges including manslaughter, conspiracy to defraud, money laundering, attempting to pervert the course of public justice, and tax evasion"
+      - claim: number of high-rise blocks engulfed in fire
+        kind: numerical_with_unit
+        value: "seven of eight high-rise blocks"
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "The November 2025 fire engulfed seven of eight high-rise blocks at Wang Fuk Court"
+      - claim: case adjournment date
+        kind: temporal
+        value: September 2, 2026
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Cases adjourned to September 2, 2026"
+      - claim: named institution — main contractor charged
+        kind: named_institution
+        value: Prestige Construction & Engineering
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Prestige Construction & Engineering (main contractor for the HK$330 million renovation)"
+      - claim: named institution — consultancy charged
+        kind: named_institution
+        value: Will Power Architects Company
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Will Power Architects Company (consultancy)"
+      - claim: named institution — investigating body
+        kind: named_institution
+        value: ICAC
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "ICAC investigators alleged the defendants rigged the tendering process"
+      - claim: named institution — venue of charges
+        kind: named_institution
+        value: West Kowloon Law Courts Building
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Hong Kong authorities filed manslaughter charges on June 11, 2026 at West Kowloon Law Courts Building"
+      - claim: named person — Will Power director charged
+        kind: named_person
+        value: Wong Hap-yin
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Individuals facing charges include Will Power director Wong Hap-yin"
+      - claim: named person — registered inspector charged
+        kind: named_person
+        value: Wilson Ng
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "registered inspector Wilson Ng"
+      - claim: named person — Prestige Construction director charged
+        kind: named_person
+        value: Ho Kin-yip
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Prestige Construction director Ho Kin-yip"
+      - claim: named person — ICAC Principal Investigator
+        kind: named_person
+        value: Hazel Law
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "ICAC Principal Investigator Hazel Law and Senior Superintendent Basil Tang at June 11 press conference"
+      - claim: named person — ICAC Senior Superintendent
+        kind: named_person
+        value: Basil Tang
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "ICAC Principal Investigator Hazel Law and Senior Superintendent Basil Tang at June 11 press conference"
+      - claim: fire location — district
+        kind: named_institution
+        value: Tai Po district
+        source_urls:
+          - https://www.gmanetwork.com/news/topstories/world/991045/hong-kong-charges-deadliest-fire-in-decades/story/
+        verbatim_excerpt: "Wang Fuk Court residential estate in Tai Po district"
+    quotes:
+      - speaker_name: Police (unnamed spokesperson)
+        speaker_title: Hong Kong Police
+        verbatim_en: "fuelled by greed"
+        source_url: https://hongkongfp.com/2026/06/10/fuelled-by-greed-hong-kong-charges-7-people-2-firms-over-deadly-wang-fuk-court-fire/
+        context: June 11, 2026 press conference describing the case
