@@ -1,0 +1,1465 @@
+---
+country: United States
+date: 2026-06-11
+lang: zh
+generated_by: Pipeline-C Fact Extraction Agent
+
+stories:
+
+  - story_id: 1
+    category: econ
+    headline: "US Markets Rebound — TheStreet"
+    body_source: full
+    locked_urls:
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - https://tradingeconomics.com/united-states/government-bond-yield
+      - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - https://www.cnbc.com/2026/06/11/gold-rebounds-from-six-month-low-on-short-covering-ppi-data-in-focus.html
+    hard_facts:
+      - kind: temporal
+        value: "Thursday, June 11, 2026"
+        verbatim_excerpt: "U.S. equity futures rose sharply on Thursday, June 11, 2026"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_institution
+        value: "U.S. Central Command"
+        verbatim_excerpt: "U.S. Central Command announced it had completed a fresh round of precision strikes on Iranian military targets"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_product
+        value: "Dow Jones Industrial Average futures"
+        verbatim_excerpt: "Dow Jones Industrial Average futures gained approximately 0.8%"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "approximately 0.8%"
+        verbatim_excerpt: "Dow Jones Industrial Average futures gained approximately 0.8%"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_product
+        value: "S&P 500 futures"
+        verbatim_excerpt: "S&P 500 futures climbed 0.8%"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "0.8%"
+        verbatim_excerpt: "S&P 500 futures climbed 0.8%"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_product
+        value: "Nasdaq 100 futures"
+        verbatim_excerpt: "Nasdaq 100 futures rose more than 1%"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "more than 1%"
+        verbatim_excerpt: "Nasdaq 100 futures rose more than 1%"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "900 points"
+        verbatim_excerpt: "the Dow plunged 900 points on June 10"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: temporal
+        value: "June 10"
+        verbatim_excerpt: "the Dow plunged 900 points on June 10"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_product
+        value: "West Texas Intermediate crude"
+        verbatim_excerpt: "West Texas Intermediate crude slipping 0.87% to $89.25 per barrel"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "0.87%"
+        verbatim_excerpt: "West Texas Intermediate crude slipping 0.87% to $89.25 per barrel"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "$89.25 per barrel"
+        verbatim_excerpt: "West Texas Intermediate crude slipping 0.87% to $89.25 per barrel"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_product
+        value: "Brent crude"
+        verbatim_excerpt: "Brent crude declining 1.13% to $92.05 per barrel"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "1.13%"
+        verbatim_excerpt: "Brent crude declining 1.13% to $92.05 per barrel"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "$92.05 per barrel"
+        verbatim_excerpt: "Brent crude declining 1.13% to $92.05 per barrel"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_product
+        value: "Gold futures"
+        verbatim_excerpt: "Gold futures slipped 0.51% to $4,112.10 per ounce"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+          - https://www.cnbc.com/2026/06/11/gold-rebounds-from-six-month-low-on-short-covering-ppi-data-in-focus.html
+      - kind: numerical_with_unit
+        value: "0.51%"
+        verbatim_excerpt: "Gold futures slipped 0.51% to $4,112.10 per ounce"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "$4,112.10 per ounce"
+        verbatim_excerpt: "Gold futures slipped 0.51% to $4,112.10 per ounce"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_product
+        value: "silver futures"
+        verbatim_excerpt: "silver futures fell 0.96% to $64.12 per ounce"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "0.96%"
+        verbatim_excerpt: "silver futures fell 0.96% to $64.12 per ounce"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "$64.12 per ounce"
+        verbatim_excerpt: "silver futures fell 0.96% to $64.12 per ounce"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "4.53%"
+        verbatim_excerpt: "The 10-year U.S. Treasury yield eased to 4.53%"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+          - https://tradingeconomics.com/united-states/government-bond-yield
+      - kind: numerical_with_unit
+        value: "3 basis points"
+        verbatim_excerpt: "down 3 basis points from the prior session"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: temporal
+        value: "8:30 a.m. ET"
+        verbatim_excerpt: "scheduled 8:30 a.m. ET release of the May Producer Price Index (PPI)"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: named_product
+        value: "May Producer Price Index (PPI)"
+        verbatim_excerpt: "scheduled 8:30 a.m. ET release of the May Producer Price Index (PPI)"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "4.2%"
+        verbatim_excerpt: "annual consumer inflation accelerated to 4.2%, a three-year high"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: named_institution
+        value: "Oracle"
+        verbatim_excerpt: "Oracle shares fell about 9% in pre-market trading"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "about 9%"
+        verbatim_excerpt: "Oracle shares fell about 9% in pre-market trading"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "$19.2 billion"
+        verbatim_excerpt: "reported record fourth-quarter revenues of $19.2 billion"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "$55.7 billion"
+        verbatim_excerpt: "capital expenditure for the full fiscal year of $55.7 billion"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "$50 billion"
+        verbatim_excerpt: "surpassing prior guidance of $50 billion"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+      - kind: numerical_with_unit
+        value: "$70 billion"
+        verbatim_excerpt: "signaling a $70 billion capex plan for FY2027"
+        source_urls:
+          - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026
+    quotes: []
+
+  - story_id: 2
+    category: econ
+    headline: "US Iran-War Energy Shock — Business Upturn"
+    body_source: full
+    locked_urls:
+      - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html
+      - https://www.bls.gov/news.release/cpi.htm
+    hard_facts:
+      - kind: temporal
+        value: "June 11, 2026, at 10:44 a.m. IST"
+        verbatim_excerpt: "A Business Upturn commodity report published June 11, 2026, at 10:44 a.m. IST"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "$94–$95 range"
+        verbatim_excerpt: "Brent crude was trading in the $94–$95 range globally"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: named_product
+        value: "Brent crude"
+        verbatim_excerpt: "Brent crude was trading in the $94–$95 range globally"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: named_product
+        value: "WTI"
+        verbatim_excerpt: "WTI hovered around $91–$92"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "$91–$92"
+        verbatim_excerpt: "WTI hovered around $91–$92"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "approximately 0.50%"
+        verbatim_excerpt: "Crude gained approximately 0.50% intra-day"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: named_product
+        value: "MCX market"
+        verbatim_excerpt: "Gold fell 0.45% in India's MCX market"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "0.45%"
+        verbatim_excerpt: "Gold fell 0.45% in India's MCX market"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "₹1,47,349 per 10 grams"
+        verbatim_excerpt: "declining to ₹1,47,349 per 10 grams"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "0.5% month-on-month"
+        verbatim_excerpt: "headline inflation rising 0.5% month-on-month and 4.2% year-on-year"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+          - https://www.bls.gov/news.release/cpi.htm
+      - kind: numerical_with_unit
+        value: "4.2% year-on-year"
+        verbatim_excerpt: "headline inflation rising 0.5% month-on-month and 4.2% year-on-year"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+          - https://www.bls.gov/news.release/cpi.htm
+      - kind: temporal
+        value: "May 2026"
+        verbatim_excerpt: "The U.S. Consumer Price Index for May 2026"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+          - https://www.bls.gov/news.release/cpi.htm
+      - kind: temporal
+        value: "April 2023"
+        verbatim_excerpt: "the highest reading since April 2023"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "more than 60%"
+        verbatim_excerpt: "Energy costs … accounted for more than 60% of the monthly CPI increase"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "$447"
+        verbatim_excerpt: "The average U.S. household had spent an additional $447 in fuel-related costs since the Iran war began"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: temporal
+        value: "February 28"
+        verbatim_excerpt: "since the Iran war began February 28"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "approximately $4.28 per gallon"
+        verbatim_excerpt: "Gas prices at U.S. pumps stood at approximately $4.28 per gallon"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "42% year-on-year"
+        verbatim_excerpt: "up 42% year-on-year"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "$5.77 per gallon"
+        verbatim_excerpt: "summer 2026 prices could reach $5.77 per gallon"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "0.26%"
+        verbatim_excerpt: "Copper fell 0.26% to ₹1,310.20"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "₹1,310.20"
+        verbatim_excerpt: "Copper fell 0.26% to ₹1,310.20"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: numerical_with_unit
+        value: "0.11%"
+        verbatim_excerpt: "aluminum edged up 0.11%"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+      - kind: named_institution
+        value: "Strait of Hormuz"
+        verbatim_excerpt: "the downing of an American Apache helicopter near the Strait of Hormuz"
+        source_urls:
+          - https://www.businessupturn.com/sectors/commodities/mcx-commodities-on-june-11-crude-rises-0-50-on-iran-escalation-as-gold-silver-slip-on-hot-us-inflation-data
+    quotes: []
+
+  - story_id: 3
+    category: politics
+    headline: "US Embassies Evacuations / Iran Strikes — CBS"
+    body_source: full
+    locked_urls:
+      - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - https://news-pravda.com/world/2026/06/11/2367191.html
+      - https://www.rferl.org
+      - https://www.timesofisrael.com
+    hard_facts:
+      - kind: temporal
+        value: "June 11, 2026"
+        verbatim_excerpt: "On June 11, 2026, U.S. Central Command announced"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_institution
+        value: "U.S. Central Command"
+        verbatim_excerpt: "U.S. Central Command announced it had completed a second round of precision airstrikes"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: numerical
+        value: "49"
+        verbatim_excerpt: "Approximately 49 Tomahawk cruise missiles struck targets"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_product
+        value: "Tomahawk cruise missiles"
+        verbatim_excerpt: "Approximately 49 Tomahawk cruise missiles struck targets"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: numerical_with_unit
+        value: "40 miles from Tehran"
+        verbatim_excerpt: "targets as close as 40 miles from Tehran"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_institution
+        value: "Iran's Islamic Revolutionary Guards Corps"
+        verbatim_excerpt: "Iran's Islamic Revolutionary Guards Corps launched two waves of retaliatory strikes"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: numerical
+        value: "18"
+        verbatim_excerpt: "hitting 18 targets including Ali Al Salem and Ahmed Al Jaber air bases"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_institution
+        value: "Ali Al Salem"
+        verbatim_excerpt: "hitting 18 targets including Ali Al Salem and Ahmed Al Jaber air bases"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_institution
+        value: "Ahmed Al Jaber air bases"
+        verbatim_excerpt: "hitting 18 targets including Ali Al Salem and Ahmed Al Jaber air bases"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: numerical
+        value: "approximately 20"
+        verbatim_excerpt: "Jordan intercepted approximately 20 Iranian ballistic missiles"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_institution
+        value: "Al-Azraq Air Base"
+        verbatim_excerpt: "aimed at Al-Azraq Air Base"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_product
+        value: "oil tanker Settebello"
+        verbatim_excerpt: "U.S. targeted the oil tanker Settebello for allegedly violating the American blockade"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: numerical
+        value: "Three"
+        verbatim_excerpt: "Three Indian mariners were confirmed killed"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_person
+        value: "Pete Hegseth"
+        verbatim_excerpt: "Defense Secretary Pete Hegseth stated"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: named_person
+        value: "Trump"
+        verbatim_excerpt: "President Trump had declared on June 10 that Iran had 'taken too long to negotiate a deal'"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+      - kind: temporal
+        value: "June 10"
+        verbatim_excerpt: "President Trump had declared on June 10"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+    quotes:
+      - verbatim_en: "If we need to negotiate with bombs, we'll negotiate with bombs."
+        speaker_name: Pete Hegseth
+        speaker_title: Defense Secretary
+        context: Statement regarding U.S. military strikes on Iran
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+
+  - story_id: 4
+    category: politics
+    headline: "Senate Armed Services / SAVE Act / S. 645 / S. 1157"
+    body_source: full
+    locked_urls:
+      - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - https://www.govtrack.us
+      - https://www.npr.org
+    hard_facts:
+      - kind: temporal
+        value: "June 11, 2026"
+        verbatim_excerpt: "On June 11, 2026, the U.S. Senate Committee on Armed Services convened"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: temporal
+        value: "9:00 a.m. EDT"
+        verbatim_excerpt: "the U.S. Senate Committee on Armed Services convened at 9:00 a.m. EDT"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_institution
+        value: "U.S. Senate Committee on Armed Services"
+        verbatim_excerpt: "the U.S. Senate Committee on Armed Services convened at 9:00 a.m. EDT"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: temporal
+        value: "10:00 a.m. EDT"
+        verbatim_excerpt: "the Senate Committee on Banking, Housing, and Urban Affairs held a session at 10:00 a.m. EDT"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_institution
+        value: "Senate Committee on Banking, Housing, and Urban Affairs"
+        verbatim_excerpt: "the Senate Committee on Banking, Housing, and Urban Affairs held a session at 10:00 a.m. EDT"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_product
+        value: "S. 645"
+        verbatim_excerpt: "the full Senate also passed S. 645"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_institution
+        value: "North Platte Canteen"
+        verbatim_excerpt: "volunteered at the North Platte Canteen in Nebraska during World War II"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_product
+        value: "S. 1157"
+        verbatim_excerpt: "S. 1157, the Women and Lung Cancer Research and Preventive Services Act"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_product
+        value: "Women and Lung Cancer Research and Preventive Services Act"
+        verbatim_excerpt: "S. 1157, the Women and Lung Cancer Research and Preventive Services Act"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_institution
+        value: "HHS"
+        verbatim_excerpt: "directing the Secretary of HHS to evaluate research on lung cancer"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_product
+        value: "S. Res. 757"
+        verbatim_excerpt: "the Senate also agreed to S. Res. 757"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_product
+        value: "SAVE America Act"
+        verbatim_excerpt: "advance the SAVE America Act — a voting overhaul measure"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_person
+        value: "John Thune"
+        verbatim_excerpt: "Senate Majority Leader John Thune faced ongoing pressure"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_institution
+        value: "DHS"
+        verbatim_excerpt: "mandate DHS verification of voter rolls"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: temporal
+        value: "June 4"
+        verbatim_excerpt: "The SAVE Act failed a Senate cloture vote on June 4"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: numerical
+        value: "60"
+        verbatim_excerpt: "it could not secure 60 votes"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+      - kind: named_person
+        value: "Mike Lee"
+        verbatim_excerpt: "Sen. Mike Lee (R-UT) continued to push for a 'talking filibuster' alternative"
+        source_urls:
+          - https://www.congress.gov/bills-with-chamber-action/browse-by-date
+    quotes: []
+
+  - story_id: 5
+    category: tech
+    headline: "Oracle Q4 FY2026 Earnings — Saxo"
+    body_source: full
+    locked_urls:
+      - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - https://www.tradingkey.com
+      - https://www.cnbc.com
+    hard_facts:
+      - kind: temporal
+        value: "June 10, 2026"
+        verbatim_excerpt: "Oracle released its fourth-quarter fiscal year 2026 earnings after market close on June 10, 2026"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: temporal
+        value: "June 11"
+        verbatim_excerpt: "full investor reaction occurring on June 11"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: named_institution
+        value: "Oracle"
+        verbatim_excerpt: "Oracle released its fourth-quarter fiscal year 2026 earnings"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "$19.2 billion"
+        verbatim_excerpt: "Total revenue reached a record $19.2 billion"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "21%"
+        verbatim_excerpt: "representing 21% year-over-year growth"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "$19.1 billion"
+        verbatim_excerpt: "exceeding consensus estimates of $19.1 billion"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: named_product
+        value: "OCI"
+        verbatim_excerpt: "The company's cloud infrastructure segment (OCI) showed the most dramatic momentum"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "93% year-on-year"
+        verbatim_excerpt: "with revenue climbing 93% year-on-year to $5.8 billion"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "$5.8 billion"
+        verbatim_excerpt: "with revenue climbing 93% year-on-year to $5.8 billion"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "$638 billion"
+        verbatim_excerpt: "Remaining performance obligations … reached $638 billion"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: named_institution
+        value: "OpenAI"
+        verbatim_excerpt: "deep commitments from AI workload customers including OpenAI"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "approximately 9.4%"
+        verbatim_excerpt: "Oracle shares fell approximately 9.4% in pre-market trading on June 11"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "approximately $16.5 billion"
+        verbatim_excerpt: "Oracle spent approximately $16.5 billion on capital projects during Q4 alone"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "$55.7 billion"
+        verbatim_excerpt: "bringing full-year fiscal 2026 capex to $55.7 billion"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "$50 billion"
+        verbatim_excerpt: "exceeding previous guidance of $50 billion"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+      - kind: numerical_with_unit
+        value: "approximately $70 billion"
+        verbatim_excerpt: "guided for approximately $70 billion in net capital expenditure in fiscal year 2027"
+        source_urls:
+          - https://www.home.saxo/content/articles/equities/oracle-earnings-11062026
+    quotes: []
+
+  - story_id: 6
+    category: tech
+    headline: "OpenAI Token-Price Cuts — CNBC"
+    body_source: paywall-stub
+    locked_urls:
+      - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - https://www.pymnts.com
+      - https://www.wsj.com
+    hard_facts:
+      - kind: temporal
+        value: "June 11, 2026"
+        verbatim_excerpt: "The Wall Street Journal reported on June 11, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: named_institution
+        value: "Wall Street Journal"
+        verbatim_excerpt: "The Wall Street Journal reported on June 11, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: named_institution
+        value: "OpenAI"
+        verbatim_excerpt: "OpenAI is considering sweeping cuts to what it charges for AI tokens"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: named_institution
+        value: "Anthropic"
+        verbatim_excerpt: "in anticipation of similar reductions expected from Anthropic"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: named_product
+        value: "Claude Code"
+        verbatim_excerpt: "Anthropic's coding tool Claude Code caught fire among software engineers"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: numerical_with_unit
+        value: "$65 billion Series H"
+        verbatim_excerpt: "closing a $65 billion Series H at a $965 billion valuation"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: numerical_with_unit
+        value: "$965 billion valuation"
+        verbatim_excerpt: "closing a $65 billion Series H at a $965 billion valuation on May 28"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: temporal
+        value: "May 28"
+        verbatim_excerpt: "closing a $65 billion Series H at a $965 billion valuation on May 28"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: numerical_with_unit
+        value: "$852 billion"
+        verbatim_excerpt: "OpenAI, valued at $852 billion in March 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: temporal
+        value: "March 2026"
+        verbatim_excerpt: "OpenAI, valued at $852 billion in March 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: temporal
+        value: "June 8"
+        verbatim_excerpt: "confidentially filed for an IPO with the SEC on June 8"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: named_institution
+        value: "SEC"
+        verbatim_excerpt: "confidentially filed for an IPO with the SEC on June 8"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: named_institution
+        value: "Goldman Sachs"
+        verbatim_excerpt: "tapping Goldman Sachs and Morgan Stanley for a potential public listing"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: named_institution
+        value: "Morgan Stanley"
+        verbatim_excerpt: "tapping Goldman Sachs and Morgan Stanley for a potential public listing"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+      - kind: temporal
+        value: "between September and November 2026"
+        verbatim_excerpt: "a potential public listing between September and November 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html
+    quotes: []
+
+  - story_id: 7
+    category: tech
+    headline: "Razer CEO SpaceX/IPO/ETF — CNBC"
+    body_source: paywall-stub
+    locked_urls:
+      - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - https://www.coindesk.com
+    hard_facts:
+      - kind: named_person
+        value: "Min-Liang Tan"
+        verbatim_excerpt: "Razer CEO Min-Liang Tan spoke at Singapore's SuperAI convention on June 11, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: named_institution
+        value: "Razer"
+        verbatim_excerpt: "Razer CEO Min-Liang Tan spoke at Singapore's SuperAI convention"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: temporal
+        value: "June 11, 2026"
+        verbatim_excerpt: "spoke at Singapore's SuperAI convention on June 11, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: named_institution
+        value: "SuperAI convention"
+        verbatim_excerpt: "Singapore's SuperAI convention"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: named_institution
+        value: "SpaceX"
+        verbatim_excerpt: "blockbuster public offerings from AI companies including SpaceX, OpenAI, and Anthropic"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: numerical_with_unit
+        value: "over $600 million"
+        verbatim_excerpt: "Razer had invested over $600 million in AI development as of February 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: temporal
+        value: "February 2026"
+        verbatim_excerpt: "Razer had invested over $600 million in AI development as of February 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: numerical_with_unit
+        value: "$190 billion"
+        verbatim_excerpt: "assets under management in leveraged ETFs had exceeded $190 billion as of mid-May"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: temporal
+        value: "mid-May"
+        verbatim_excerpt: "had exceeded $190 billion as of mid-May"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: numerical_with_unit
+        value: "approximately 27%"
+        verbatim_excerpt: "approximately 27% of ETFs launched over the past year being leveraged products"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: named_institution
+        value: "REX Shares"
+        verbatim_excerpt: "REX Shares and Tuttle Capital Management had filed for 2x leveraged ETFs"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: named_institution
+        value: "Tuttle Capital Management"
+        verbatim_excerpt: "REX Shares and Tuttle Capital Management had filed for 2x leveraged ETFs"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: named_product
+        value: "SPCX"
+        verbatim_excerpt: "2x leveraged ETFs tied to SpaceX (SPCX)"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: numerical_with_unit
+        value: "$135 per share"
+        verbatim_excerpt: "SpaceX set its final IPO price at $135 per share on June 11"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: numerical_with_unit
+        value: "$75 billion"
+        verbatim_excerpt: "targeting $75 billion in proceeds"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: numerical_with_unit
+        value: "$1.75 trillion valuation"
+        verbatim_excerpt: "at a $1.75 trillion valuation — the largest IPO in history"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+    quotes:
+      - verbatim_en: "AI mega-listings are 'just the start.'"
+        speaker_name: Min-Liang Tan
+        speaker_title: "CEO, Razer"
+        context: "Statement at Singapore's SuperAI convention on June 11, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+
+  - story_id: 8
+    category: society
+    headline: "Prime Healthcare Nurses Strike"
+    body_source: full
+    locked_urls:
+      - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - https://chicagodefender.com
+      - https://www.wbez.org
+    hard_facts:
+      - kind: temporal
+        value: "June 11, 2026"
+        verbatim_excerpt: "On June 11, 2026, registered nurses at three Prime Healthcare-owned hospitals simultaneously held one-day strikes"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: named_institution
+        value: "Prime Healthcare"
+        verbatim_excerpt: "registered nurses at three Prime Healthcare-owned hospitals"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: named_institution
+        value: "Saint Mary of Nazareth Hospital"
+        verbatim_excerpt: "At Saint Mary of Nazareth Hospital in Chicago"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: numerical
+        value: "approximately 400"
+        verbatim_excerpt: "approximately 400 nurses represented by the National Nurses Organizing Committee"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: named_institution
+        value: "National Nurses Organizing Committee/National Nurses United (NNOC/NNU)"
+        verbatim_excerpt: "nurses represented by the National Nurses Organizing Committee/National Nurses United (NNOC/NNU)"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: temporal
+        value: "6:45 a.m."
+        verbatim_excerpt: "struck from 6:45 a.m. to 6:45 a.m. the following morning"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: temporal
+        value: "8:30 a.m."
+        verbatim_excerpt: "with a rally at 8:30 a.m. at 2233 W Division St"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: named_institution
+        value: "National Labor Relations Board"
+        verbatim_excerpt: "filed for a certified union election with the National Labor Relations Board on May 20"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: temporal
+        value: "May 20"
+        verbatim_excerpt: "filed for a certified union election with the National Labor Relations Board on May 20"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: numerical
+        value: "six"
+        verbatim_excerpt: "management fired six nurses in the weeks following the election filing"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: named_institution
+        value: "Shasta Regional Medical Center"
+        verbatim_excerpt: "At Shasta Regional Medical Center in Redding, California"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: numerical
+        value: "approximately 600"
+        verbatim_excerpt: "approximately 600 nurses and caregivers"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: named_institution
+        value: "California Nurses Association/Caregivers and Healthcare Employees Union (CNA/CHEU)"
+        verbatim_excerpt: "nurses and caregivers represented by California Nurses Association/Caregivers and Healthcare Employees Union (CNA/CHEU)"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: temporal
+        value: "12–2 p.m."
+        verbatim_excerpt: "informational picket from 12–2 p.m. at 1100 Butte St"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: named_institution
+        value: "Saint Mary's Regional Medical Center"
+        verbatim_excerpt: "A companion picket was held by nurses at Saint Mary's Regional Medical Center in Reno, Nevada"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+      - kind: named_person
+        value: "Maria Russ"
+        verbatim_excerpt: "Maria Russ, RN, Saint Mary of Nazareth Hospital"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+    quotes:
+      - verbatim_en: "We're unionizing to have a voice at our hospital. Unfortunately, Prime seems eager to try to silence us."
+        speaker_name: Maria Russ
+        speaker_title: "RN, Saint Mary of Nazareth Hospital"
+        context: "Statement on nurses' strike against Prime Healthcare"
+        source_urls:
+          - https://www.nationalnursesunited.org/press/chicago-nurses-ready-for-one-day-strike-at-prime-saint-mary-of-nazareth-hospital
+
+  - story_id: 9
+    category: society
+    headline: "2026 FIFA World Cup Opens — CBS"
+    body_source: full
+    locked_urls:
+      - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - https://www.aljazeera.com/amp/news/2026/6/11/world-cup-day-1-schedule-predictions-opening-ceremony-and-what-to-watch
+    hard_facts:
+      - kind: temporal
+        value: "Thursday, June 11, 2026"
+        verbatim_excerpt: "The 2026 FIFA World Cup officially commenced on Thursday, June 11, 2026"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: named_product
+        value: "2026 FIFA World Cup"
+        verbatim_excerpt: "The 2026 FIFA World Cup officially commenced on Thursday, June 11, 2026"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: numerical
+        value: "48"
+        verbatim_excerpt: "48 national teams competed across three co-host nations"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: named_institution
+        value: "Mexico City Stadium (Estadio Banorte)"
+        verbatim_excerpt: "The opening ceremony took place at Mexico City Stadium (Estadio Banorte)"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: temporal
+        value: "11:00 a.m. local time"
+        verbatim_excerpt: "at 11:00 a.m. local time"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: named_person
+        value: "Shakira"
+        verbatim_excerpt: "featuring Shakira and Nigeria's Burna Boy unveiling the official tournament song"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: named_person
+        value: "Burna Boy"
+        verbatim_excerpt: "featuring Shakira and Nigeria's Burna Boy unveiling the official tournament song"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: named_product
+        value: "Dai Dai"
+        verbatim_excerpt: "unveiling the official tournament song \"Dai Dai\""
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: named_institution
+        value: "Estadio Azteca"
+        verbatim_excerpt: "Mexico face South Africa at the iconic Estadio Azteca"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: temporal
+        value: "1:00 p.m. local time"
+        verbatim_excerpt: "at 1:00 p.m. local time"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: temporal
+        value: "2010"
+        verbatim_excerpt: "replicating the exact pairing from the 2010 World Cup opener"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: temporal
+        value: "June 12"
+        verbatim_excerpt: "The U.S. team opens play on June 12"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: named_institution
+        value: "SoFi Stadium"
+        verbatim_excerpt: "at SoFi Stadium in Inglewood, California"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: temporal
+        value: "July 19"
+        verbatim_excerpt: "The tournament runs through July 19"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: temporal
+        value: "June 6"
+        verbatim_excerpt: "Iran, whose squad had faced visa delays before ultimately departing for Mexico on June 6"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: named_institution
+        value: "American Hotel and Lodging Association"
+        verbatim_excerpt: "An American Hotel and Lodging Association survey found 80% of U.S. host-city hotels"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - kind: numerical_with_unit
+        value: "80%"
+        verbatim_excerpt: "80% of U.S. host-city hotels were running below pre-tournament booking forecasts"
+        source_urls:
+          - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+    quotes: []
+
+  - story_id: 10
+    category: ipo_ma
+    headline: "SpaceX IPO Pricing $135 / $75B / $1.75T — NPR"
+    body_source: full
+    locked_urls:
+      - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - https://www.tradingkey.com/analysis/stocks/us-stocks/261957856-spacex-ipo-at-135-what-the-s-1-financials-actually-say-tradingkey
+      - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+    hard_facts:
+      - kind: named_institution
+        value: "SpaceX"
+        verbatim_excerpt: "SpaceX (ticker: SPCX) set its final IPO price at $135 per share on June 11, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_product
+        value: "SPCX"
+        verbatim_excerpt: "SpaceX (ticker: SPCX)"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "$135 per share"
+        verbatim_excerpt: "set its final IPO price at $135 per share"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.tradingkey.com/analysis/stocks/us-stocks/261957856-spacex-ipo-at-135-what-the-s-1-financials-actually-say-tradingkey
+      - kind: temporal
+        value: "June 11, 2026"
+        verbatim_excerpt: "set its final IPO price at $135 per share on June 11, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical
+        value: "555.6 million shares"
+        verbatim_excerpt: "targeting 555.6 million shares"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "$75 billion"
+        verbatim_excerpt: "a $75 billion fundraise"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.tradingkey.com/analysis/stocks/us-stocks/261957856-spacex-ipo-at-135-what-the-s-1-financials-actually-say-tradingkey
+      - kind: numerical_with_unit
+        value: "$1.75 trillion"
+        verbatim_excerpt: "a $1.75 trillion implied valuation"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.tradingkey.com/analysis/stocks/us-stocks/261957856-spacex-ipo-at-135-what-the-s-1-financials-actually-say-tradingkey
+      - kind: temporal
+        value: "June 12"
+        verbatim_excerpt: "Trading on Nasdaq was scheduled to begin June 12"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "Nasdaq"
+        verbatim_excerpt: "Trading on Nasdaq was scheduled to begin June 12"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "$29 billion"
+        verbatim_excerpt: "surpass Saudi Aramco's $29 billion 2019 listing"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "Saudi Aramco"
+        verbatim_excerpt: "Saudi Aramco's $29 billion 2019 listing"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: temporal
+        value: "2019"
+        verbatim_excerpt: "Saudi Aramco's $29 billion 2019 listing"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "$250 billion"
+        verbatim_excerpt: "Investor demand had reportedly reached $250 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "approximately 3.5 to 4 times oversubscribed"
+        verbatim_excerpt: "approximately 3.5 to 4 times oversubscribed"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "Thirty percent"
+        verbatim_excerpt: "Thirty percent of shares were reserved for retail investors"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "Goldman Sachs"
+        verbatim_excerpt: "Lead banks were Goldman Sachs, Morgan Stanley, Bank of America, Citigroup, and JPMorgan Chase"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "Morgan Stanley"
+        verbatim_excerpt: "Lead banks were Goldman Sachs, Morgan Stanley, Bank of America, Citigroup, and JPMorgan Chase"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "Bank of America"
+        verbatim_excerpt: "Lead banks were Goldman Sachs, Morgan Stanley, Bank of America, Citigroup, and JPMorgan Chase"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "Citigroup"
+        verbatim_excerpt: "Lead banks were Goldman Sachs, Morgan Stanley, Bank of America, Citigroup, and JPMorgan Chase"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "JPMorgan Chase"
+        verbatim_excerpt: "Lead banks were Goldman Sachs, Morgan Stanley, Bank of America, Citigroup, and JPMorgan Chase"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_product
+        value: "Starlink"
+        verbatim_excerpt: "SpaceX's S-1 disclosed three business segments: Starlink (satellite internet)"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: named_product
+        value: "xAI"
+        verbatim_excerpt: "AI (xAI operations)"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: numerical_with_unit
+        value: "$18.674 billion"
+        verbatim_excerpt: "In 2025, total revenue was $18.674 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: temporal
+        value: "2025"
+        verbatim_excerpt: "In 2025, total revenue was $18.674 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "$4.937 billion"
+        verbatim_excerpt: "against a net loss of $4.937 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: numerical_with_unit
+        value: "$41.3 billion"
+        verbatim_excerpt: "with accumulated losses of $41.3 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: numerical_with_unit
+        value: "$11.387 billion"
+        verbatim_excerpt: "The Starlink segment generated $11.387 billion in 2025 revenue"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: numerical_with_unit
+        value: "63% EBITDA margin"
+        verbatim_excerpt: "at a 63% EBITDA margin"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical
+        value: "4.5 million"
+        verbatim_excerpt: "growing subscriber base from 4.5 million to 10.3 million"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical
+        value: "10.3 million"
+        verbatim_excerpt: "growing subscriber base from 4.5 million to 10.3 million by early 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: temporal
+        value: "early 2026"
+        verbatim_excerpt: "to 10.3 million by early 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "$3.201 billion"
+        verbatim_excerpt: "The AI segment (xAI) recorded $3.201 billion in 2025 revenue"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: numerical_with_unit
+        value: "$6.355 billion"
+        verbatim_excerpt: "an operating loss of $6.355 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: numerical_with_unit
+        value: "$12.7 billion"
+        verbatim_excerpt: "with capital expenditure of $12.7 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: numerical_with_unit
+        value: "76%"
+        verbatim_excerpt: "consuming 76% of all SpaceX capex in Q1 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical
+        value: "8,285 bitcoin"
+        verbatim_excerpt: "SpaceX holds 8,285 bitcoin"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=S-1
+      - kind: numerical_with_unit
+        value: "approximately $656 million"
+        verbatim_excerpt: "8,285 bitcoin worth approximately $656 million"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "over $15 billion"
+        verbatim_excerpt: "The company had spent over $15 billion on Starship development through 2025"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_product
+        value: "Starship"
+        verbatim_excerpt: "spent over $15 billion on Starship development through 2025"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "MSCI"
+        verbatim_excerpt: "MSCI confirmed early index inclusion for SpaceX"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "$22–$27 billion"
+        verbatim_excerpt: "creating estimated $22–$27 billion in forced passive buying"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: numerical
+        value: "15 trading days"
+        verbatim_excerpt: "within the first 15 trading days"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: named_institution
+        value: "Morningstar"
+        verbatim_excerpt: "Morningstar estimated fair value at $600–800 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - kind: numerical_with_unit
+        value: "$600–800 billion"
+        verbatim_excerpt: "Morningstar estimated fair value at $600–800 billion"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+    quotes:
+      - verbatim_en: "SpaceX is poised for blastoff with an IPO likely to break records."
+        speaker_name: NPR
+        speaker_title: "NPR headline, June 11, 2026"
+        context: "NPR headline describing the SpaceX IPO"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+
+  - story_id: 11
+    category: ipo_ma
+    headline: "Leveraged ETFs $190B AUM — Axios"
+    body_source: paywall-stub
+    locked_urls:
+      - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - https://www.ainvest.com
+      - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+    hard_facts:
+      - kind: temporal
+        value: "June 11, 2026"
+        verbatim_excerpt: "An Axios article dated June 11, 2026"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: numerical_with_unit
+        value: "$190 billion"
+        verbatim_excerpt: "assets under management in leveraged ETFs tracking pre-IPO companies had exceeded $190 billion"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: numerical_with_unit
+        value: "approximately 27%"
+        verbatim_excerpt: "approximately 27% of all ETFs launched over the past year being leveraged products"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+          - https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html
+      - kind: named_institution
+        value: "REX Shares"
+        verbatim_excerpt: "REX Shares and Tuttle Capital Management had already filed with the SEC"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: named_institution
+        value: "Tuttle Capital Management"
+        verbatim_excerpt: "REX Shares and Tuttle Capital Management had already filed with the SEC"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: named_institution
+        value: "SEC"
+        verbatim_excerpt: "had already filed with the SEC for 2x leveraged ETFs"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: named_product
+        value: "SPCX"
+        verbatim_excerpt: "2x leveraged ETFs tied to SpaceX (SPCX)"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: numerical_with_unit
+        value: "approximately $22 billion"
+        verbatim_excerpt: "SpaceX planned to reserve approximately $22 billion (30%) of the $75 billion offering"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: numerical_with_unit
+        value: "30%"
+        verbatim_excerpt: "approximately $22 billion (30%) of the $75 billion offering for retail investors"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: numerical_with_unit
+        value: "$75 billion"
+        verbatim_excerpt: "30%) of the $75 billion offering for retail investors"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: named_institution
+        value: "MSCI"
+        verbatim_excerpt: "The MSCI early-inclusion rule for SpaceX in Global Standard Indexes"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: numerical_with_unit
+        value: "$22–$27 billion"
+        verbatim_excerpt: "expected to drive $22–$27 billion in passive fund purchases"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+      - kind: numerical
+        value: "15 trading days"
+        verbatim_excerpt: "within 15 trading days of debut"
+        source_urls:
+          - https://www.axios.com/2026/06/11/spacex-ipo-etf-leverage
+    quotes: []
+
+  - story_id: 12
+    category: other
+    headline: "State Dept Rubio/UFC Dana White MOU"
+    body_source: full
+    locked_urls:
+      - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/
+    hard_facts:
+      - kind: temporal
+        value: "June 11, 2026"
+        verbatim_excerpt: "The U.S. Department of State public schedule for June 11, 2026"
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: named_person
+        value: "Marco Rubio"
+        verbatim_excerpt: "Secretary Marco Rubio participating in a Memorandum of Understanding Signing Ceremony"
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: named_person
+        value: "Dana White"
+        verbatim_excerpt: "Ultimate Fighting Championship (UFC) President and CEO Dana White"
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: named_institution
+        value: "Ultimate Fighting Championship (UFC)"
+        verbatim_excerpt: "Ultimate Fighting Championship (UFC) President and CEO Dana White"
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: temporal
+        value: "2:00 p.m."
+        verbatim_excerpt: "at the Department of State at 2:00 p.m."
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: named_institution
+        value: "Department of State"
+        verbatim_excerpt: "at the Department of State at 2:00 p.m."
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: named_person
+        value: "DiNanno"
+        verbatim_excerpt: "Under Secretary of State DiNanno was on travel to Poland, Czechia, and France"
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: temporal
+        value: "June 10–17"
+        verbatim_excerpt: "on travel to Poland, Czechia, and France from June 10–17"
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: named_person
+        value: "Landau"
+        verbatim_excerpt: "Deputy Secretary Landau was on travel to Singapore, Vietnam, and Indonesia"
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+      - kind: temporal
+        value: "June 6–13"
+        verbatim_excerpt: "on travel to Singapore, Vietnam, and Indonesia from June 6–13"
+        source_urls:
+          - https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-11-2026/
+    quotes: []
+
+  - story_id: 13
+    category: other
+    headline: "SCOTUS Opinion Day June 11"
+    body_source: full
+    locked_urls:
+      - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - https://www.scotusblog.com
+      - https://www.cbsnews.com
+    hard_facts:
+      - kind: temporal
+        value: "Thursday, June 11, 2026"
+        verbatim_excerpt: "The Supreme Court was scheduled to issue opinions on Thursday, June 11, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_institution
+        value: "Supreme Court"
+        verbatim_excerpt: "The Supreme Court was scheduled to issue opinions on Thursday, June 11, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_institution
+        value: "SCOTUSblog"
+        verbatim_excerpt: "SCOTUSblog planning to live-blog from 9:30 a.m. EDT"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+          - https://www.scotusblog.com
+      - kind: temporal
+        value: "9:30 a.m. EDT"
+        verbatim_excerpt: "SCOTUSblog planning to live-blog from 9:30 a.m. EDT"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: temporal
+        value: "June 9"
+        verbatim_excerpt: "As of June 9, the court had 23 cases still to be decided"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: numerical
+        value: "23"
+        verbatim_excerpt: "the court had 23 cases still to be decided"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_product
+        value: "Trump v. Barbara"
+        verbatim_excerpt: "Pending consequential cases included Trump v. Barbara (birthright citizenship executive order)"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_product
+        value: "Trump v. Slaughter"
+        verbatim_excerpt: "Trump v. Slaughter (FTC commissioner removal protections)"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_institution
+        value: "FTC"
+        verbatim_excerpt: "Trump v. Slaughter (FTC commissioner removal protections)"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_product
+        value: "Trump v. Cook"
+        verbatim_excerpt: "Trump v. Cook (Federal Reserve Board member removal)"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_institution
+        value: "Federal Reserve Board"
+        verbatim_excerpt: "Trump v. Cook (Federal Reserve Board member removal, testing the independence of the Fed)"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_product
+        value: "Watson v. Republican National Committee"
+        verbatim_excerpt: "Watson v. Republican National Committee (mail-in ballot counting rules)"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_product
+        value: "Little v. Hecox"
+        verbatim_excerpt: "two transgender athletes cases — Little v. Hecox and West Virginia v. B.P.J."
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: named_product
+        value: "West Virginia v. B.P.J."
+        verbatim_excerpt: "Little v. Hecox and West Virginia v. B.P.J."
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: temporal
+        value: "April 1, 2026"
+        verbatim_excerpt: "during April 1, 2026 oral arguments"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+      - kind: temporal
+        value: "January 2025"
+        verbatim_excerpt: "had been blocked by lower courts since January 2025"
+        source_urls:
+          - https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026
+    quotes: []
