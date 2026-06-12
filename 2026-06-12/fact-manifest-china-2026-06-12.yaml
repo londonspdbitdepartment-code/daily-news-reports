@@ -1,0 +1,781 @@
+version: 1
+generated_at: "2026-06-12T12:00:00Z"
+country: China
+date: "2026-06-12"
+total_stories: 10
+stories:
+
+  - story_id: china-big-banks-cut-interbank-lending
+    category: econ
+    headline_en: "China's Central Bank Directs Big Banks to Cut Interbank Lending to Correct Cash-Glut Pricing"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+    hard_facts:
+      - claim: PBOC window guidance directive to reduce interbank lending
+        kind: named_institution
+        value: People's Bank of China
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+        verbatim_excerpt: "The People's Bank of China recently instructed financial institutions — including policy banks — to strictly control their net lending to other banks."
+      - claim: Named bank affected — ICBC
+        kind: named_institution
+        value: Industrial and Commercial Bank of China
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+        verbatim_excerpt: "Banks affected include the Industrial and Commercial Bank of China, China Construction Bank, and Bank of China"
+      - claim: Named bank affected — CCB
+        kind: named_institution
+        value: China Construction Bank
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+        verbatim_excerpt: "Banks affected include the Industrial and Commercial Bank of China, China Construction Bank, and Bank of China"
+      - claim: Named bank affected — BOC
+        kind: named_institution
+        value: Bank of China
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+        verbatim_excerpt: "Banks affected include the Industrial and Commercial Bank of China, China Construction Bank, and Bank of China"
+      - claim: Duration banks were net borrowers of short-term funds
+        kind: temporal
+        value: first time in seven months
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+        verbatim_excerpt: "Banks turned net borrowers of short-term funds for the first time in seven months."
+      - claim: China benchmark one-year Loan Prime Rate
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+        verbatim_excerpt: "China's benchmark one-year Loan Prime Rate (LPR) was held at 3.0% in May 2026"
+      - claim: LPR unchanged for consecutive months
+        kind: temporal
+        value: 12th straight month
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+        verbatim_excerpt: "unchanged for a 12th straight month"
+      - claim: LPR hold date
+        kind: temporal
+        value: May 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/china-asks-big-banks-to-curb-interbank-lending-to-ease-cash-glut
+        verbatim_excerpt: "China's benchmark one-year Loan Prime Rate (LPR) was held at 3.0% in May 2026"
+    quotes: []
+
+  - story_id: philippine-defence-chief-defiant-china-sanctions
+    category: politics
+    headline_en: "Philippine Defence Chief Teodoro Defiant After China Sanctions"
+    lead_url: https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-11/china-sanctions-philippine-defense-chief-teodoro-over-remarks
+      - https://www.washingtonpost.com/world/2026/06/11/philippines-china-defense-secretary-gilberto-teodoro-jr/620f700a-65f7-11f1-bdd4-805ebb99a693_story.html
+    locked_urls:
+      - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+      - https://www.bloomberg.com/news/articles/2026-06-11/china-sanctions-philippine-defense-chief-teodoro-over-remarks
+      - https://www.washingtonpost.com/world/2026/06/11/philippines-china-defense-secretary-gilberto-teodoro-jr/620f700a-65f7-11f1-bdd4-805ebb99a693_story.html
+    hard_facts:
+      - claim: Philippines Defence Secretary sanctioned by China
+        kind: named_person
+        value: Gilberto Teodoro
+        source_urls:
+          - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+          - https://www.bloomberg.com/news/articles/2026-06-11/china-sanctions-philippine-defense-chief-teodoro-over-remarks
+          - https://www.washingtonpost.com/world/2026/06/11/philippines-china-defense-secretary-gilberto-teodoro-jr/620f700a-65f7-11f1-bdd4-805ebb99a693_story.html
+        verbatim_excerpt: "China imposed sanctions on Philippine Defence Secretary Gilberto Teodoro, his spouse, and child on Thursday June 11, 2026"
+      - claim: Sanctions announcement date
+        kind: temporal
+        value: Thursday June 11, 2026
+        source_urls:
+          - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        verbatim_excerpt: "China imposed sanctions on Philippine Defence Secretary Gilberto Teodoro, his spouse, and child on Thursday June 11, 2026"
+      - claim: Sanctions scope — territories banned
+        kind: named_institution
+        value: "mainland China, Hong Kong, and Macau"
+        source_urls:
+          - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        verbatim_excerpt: "banning them from entering mainland China, Hong Kong, and Macau"
+      - claim: Teodoro defiance statement date
+        kind: temporal
+        value: June 12
+        source_urls:
+          - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        verbatim_excerpt: "Teodoro on June 12 stated"
+      - claim: Shangri-La Dialogue venue and date
+        kind: temporal
+        value: May 31, 2026
+        source_urls:
+          - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        verbatim_excerpt: "At the Shangri-La Dialogue in Singapore on May 31, 2026"
+      - claim: Shangri-La Dialogue location
+        kind: named_institution
+        value: Shangri-La Dialogue in Singapore
+        source_urls:
+          - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        verbatim_excerpt: "At the Shangri-La Dialogue in Singapore on May 31, 2026"
+      - claim: International arbitration ruling year
+        kind: temporal
+        value: "2016"
+        source_urls:
+          - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        verbatim_excerpt: "2016 international arbitration ruling invalidated China's broad South China Sea claims"
+      - claim: Manila government body response
+        kind: named_institution
+        value: Manila's Department of Foreign Affairs
+        source_urls:
+          - https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        verbatim_excerpt: "Manila's Department of Foreign Affairs characterized the sanctions as \"an unfriendly act that further complicates bilateral relations\""
+    quotes:
+      - speaker_name: Gilberto Teodoro
+        speaker_title: Philippine Defence Secretary
+        verbatim_en: "Their own countrymen and the others under their control suffer far worse. I will just keep doing my duty and uphold our nation in the face of the wickedness they are committing here and even in our seas."
+        source_url: https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        context: June 12 public statement following China sanctions
+      - speaker_name: Gilberto Teodoro
+        speaker_title: Philippine Defence Secretary
+        verbatim_en: "will not sacrifice our territorial integrity and sovereignty."
+        source_url: https://hongkongfp.com/2026/06/12/speaking-truth-philippine-defence-chief-defiant-after-china-sanctions/
+        context: Shangri-La Dialogue, Singapore, May 31, 2026
+
+  - story_id: dreame-technology-government-scrutiny
+    category: tech
+    headline_en: "China's Dreame Technology Under Government Scrutiny"
+    lead_url: https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+    hard_facts:
+      - claim: Jiangsu province government order on Dreame financial disclosure
+        kind: named_institution
+        value: Jiangsu province
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "A city government in Jiangsu province ordered companies to disclose their financial ties to robot vacuum maker Dreame Technology."
+      - claim: China private fund industry AUM
+        kind: numerical_with_unit
+        value: 23 trillion yuan ($3.4 trillion)
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "China's State Council issued sweeping rules to tighten oversight of the country's 23 trillion yuan ($3.4 trillion) private fund industry."
+      - claim: State Council oversight rule issuer
+        kind: named_institution
+        value: China's State Council
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "China's State Council issued sweeping rules to tighten oversight of the country's 23 trillion yuan ($3.4 trillion) private fund industry."
+      - claim: Dreame market position for robotic vacuums
+        kind: temporal
+        value: Q1 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "Dreame became the world's largest robotic vacuum maker by sales in Q1 2026 (per IDC)"
+      - claim: Market data provider for Dreame ranking
+        kind: named_institution
+        value: IDC
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "Dreame became the world's largest robotic vacuum maker by sales in Q1 2026 (per IDC)"
+      - claim: Dreame founding year
+        kind: temporal
+        value: "2017"
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "since its 2017 founding"
+      - claim: Number of Dreame affiliated enterprises
+        kind: numerical
+        value: "nearly a thousand"
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "spawning nearly a thousand affiliated enterprises"
+      - claim: Dreame venture capital fund name
+        kind: named_product
+        value: Sky Factory Venture Capital Fund
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "Dreame's Sky Factory Venture Capital Fund manages 41.6 billion yuan in assets"
+      - claim: Dreame Sky Factory fund AUM
+        kind: numerical_with_unit
+        value: 41.6 billion yuan
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "Dreame's Sky Factory Venture Capital Fund manages 41.6 billion yuan in assets"
+      - claim: Share of fund drawn from local government industry funds
+        kind: numerical_with_unit
+        value: "roughly 80%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "roughly 80% drawn from local government industry funds in Suzhou, Xiamen, and other cities"
+      - claim: Cities providing local government funds
+        kind: named_institution
+        value: "Suzhou, Xiamen"
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "roughly 80% drawn from local government industry funds in Suzhou, Xiamen, and other cities"
+      - claim: Dreame founder identity
+        kind: named_person
+        value: Yu Hao
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html
+        verbatim_excerpt: "Founder Yu Hao's Weibo account was suspended."
+    quotes: []
+
+  - story_id: inner-mongolia-coal-to-chemicals-expansion
+    category: society
+    headline_en: "China's Inner Mongolia Expands Coal-to-Chemicals Industry"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+    hard_facts:
+      - claim: Company that started China's latest coal-to-chemicals plant
+        kind: named_institution
+        value: Baofeng Energy
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "Baofeng Energy in June started China's latest coal-to-chemicals plant in Ordos, Inner Mongolia."
+      - claim: Location of new coal-to-chemicals plant
+        kind: named_institution
+        value: Ordos, Inner Mongolia
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "Baofeng Energy in June started China's latest coal-to-chemicals plant in Ordos, Inner Mongolia."
+      - claim: Plant start date
+        kind: temporal
+        value: June
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "Baofeng Energy in June started China's latest coal-to-chemicals plant in Ordos, Inner Mongolia."
+      - claim: Annual coal consumption by coal-to-chemicals sector
+        kind: numerical_with_unit
+        value: 380 million tons
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "China's coal-to-chemicals sector consumes 380 million tons of coal annually."
+      - claim: Coal-to-chemicals equity surge period
+        kind: temporal
+        value: "late February and mid-March 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "Coal-to-chemicals equities surged approximately 30% between late February and mid-March 2026."
+      - claim: Coal-to-chemicals equity surge magnitude
+        kind: numerical_with_unit
+        value: approximately 30%
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "Coal-to-chemicals equities surged approximately 30% between late February and mid-March 2026."
+      - claim: China carbon peak target deadline
+        kind: temporal
+        value: before 2030
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "China's commitments: carbon peaking before 2030, carbon neutrality by 2060."
+      - claim: China carbon neutrality target deadline
+        kind: temporal
+        value: "2060"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "China's commitments: carbon peaking before 2030, carbon neutrality by 2060."
+      - claim: 15th Five-Year Plan period
+        kind: temporal
+        value: 2026-2030
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "15th Five-Year Plan (2026-2030) calls for \"promoting the peaking of coal and oil consumption\""
+      - claim: CO2 emissions per GDP targeted reduction (15th FYP)
+        kind: numerical_with_unit
+        value: 17%
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "CO2 emissions per unit of GDP targeted to fall 17% from 2026 to 2030"
+      - claim: CO2 target in prior five-year period
+        kind: numerical_with_unit
+        value: 18%
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/chinese-region-promotes-coal-chemicals-as-energy-security-fix
+        verbatim_excerpt: "lower than the 18% target in the previous five-year period"
+    quotes: []
+
+  - story_id: iranian-oil-trade-china-under-strain
+    category: china_nexus
+    headline_en: "Iranian Oil Trade with China Under Strain"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html
+      - https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+      - https://www.cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html
+      - https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil
+    hard_facts:
+      - claim: US Treasury sanction target — named refinery
+        kind: named_institution
+        value: Hengli Petrochemical (Dalian) Refinery
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+          - https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil
+        verbatim_excerpt: "The US Treasury Department previously targeted Hengli Petrochemical (Dalian) Refinery, China's second-largest teapot"
+      - claim: Hengli ranking among Chinese teapot refiners
+        kind: numerical
+        value: second-largest teapot
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+        verbatim_excerpt: "Hengli Petrochemical (Dalian) Refinery, China's second-largest teapot"
+      - claim: US Treasury sanctions expanded to port terminal operators location
+        kind: named_institution
+        value: Shandong Province
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+        verbatim_excerpt: "expanded sanctions to port terminal operators in Shandong Province"
+      - claim: US-Israel-Iran conflict start date
+        kind: temporal
+        value: February 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+          - https://www.cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html
+        verbatim_excerpt: "The US-Israel-Iran conflict erupted in February 2026 and effectively closed the Strait of Hormuz."
+      - claim: Strait of Hormuz status
+        kind: named_institution
+        value: Strait of Hormuz
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+          - https://www.cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html
+        verbatim_excerpt: "The US-Israel-Iran conflict erupted in February 2026 and effectively closed the Strait of Hormuz."
+      - claim: China share of Iranian oil exports
+        kind: numerical_with_unit
+        value: approximately 90%
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+        verbatim_excerpt: "China purchases approximately 90% of Iran's oil exports."
+      - claim: Iranian crude relabeling practice
+        kind: named_product
+        value: "Malaysian blend"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/iran-s-oil-lifeline-faces-biggest-test-yet-as-china-steps-back
+        verbatim_excerpt: "Iranian crude is typically blended and relabeled as \"Malaysian blend\"."
+    quotes: []
+
+  - story_id: beijing-forces-meta-dismantle-manus-ai
+    category: china_nexus
+    headline_en: "Beijing Forces Meta to Dismantle $2 Billion Manus AI Acquisition"
+    lead_url: https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-11/meta-severs-manus-data-access-after-china-orders-buyout-unwound
+      - https://finance.yahoo.com/sectors/technology/articles/meta-starts-unwinding-manus-deal-075815575.html
+      - https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/
+    locked_urls:
+      - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+      - https://www.bloomberg.com/news/articles/2026-06-11/meta-severs-manus-data-access-after-china-orders-buyout-unwound
+      - https://finance.yahoo.com/sectors/technology/articles/meta-starts-unwinding-manus-deal-075815575.html
+      - https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/
+    hard_facts:
+      - claim: Meta acquisition value for Manus
+        kind: numerical_with_unit
+        value: $2 billion
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+          - https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/
+        verbatim_excerpt: "Meta Platforms has begun dismantling its $2 billion acquisition of Manus."
+      - claim: Chinese authority ordering deal reversal
+        kind: named_institution
+        value: China's National Development and Reform Commission (NDRC)
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+          - https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/
+        verbatim_excerpt: "China's National Development and Reform Commission (NDRC) ordered the deal reversed in April 2026 under the foreign investment security review mechanism."
+      - claim: NDRC order date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+          - https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/
+        verbatim_excerpt: "China's National Development and Reform Commission (NDRC) ordered the deal reversed in April 2026"
+      - claim: Manus HQ relocation date
+        kind: temporal
+        value: mid-2025
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Manus moved its headquarters from Beijing to Singapore in mid-2025."
+      - claim: Manus new HQ location
+        kind: named_institution
+        value: Singapore
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Manus moved its headquarters from Beijing to Singapore in mid-2025."
+      - claim: Manus co-founder summoned for questioning date
+        kind: temporal
+        value: March 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "summoned them for questioning in March 2026"
+      - claim: Manus co-founder — Xiao Hong
+        kind: named_person
+        value: Xiao Hong
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Chinese authorities restricted co-founders Xiao Hong, Ji Yichao, and Zhang Tao from leaving China"
+      - claim: Manus co-founder — Ji Yichao
+        kind: named_person
+        value: Ji Yichao
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Chinese authorities restricted co-founders Xiao Hong, Ji Yichao, and Zhang Tao from leaving China"
+      - claim: Manus co-founder — Zhang Tao
+        kind: named_person
+        value: Zhang Tao
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Chinese authorities restricted co-founders Xiao Hong, Ji Yichao, and Zhang Tao from leaving China"
+      - claim: Manus founders buyback fundraising target
+        kind: numerical_with_unit
+        value: approximately $1 billion
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Manus's founders are attempting to raise approximately $1 billion to fund a buyback."
+      - claim: New China outbound investment regulation effective date
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "New framework taking effect July 1, 2026 — China's Regulation on Outbound Investment (State Council Order, June 1, 2026)"
+      - claim: China outbound investment regulation issuer
+        kind: named_institution
+        value: State Council Order, June 1, 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "China's Regulation on Outbound Investment (State Council Order, June 1, 2026)"
+      - claim: AI startups instructed to reject US investment — Moonshot AI
+        kind: named_institution
+        value: Moonshot AI
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Chinese regulators have also instructed AI startups including Moonshot AI, StepFun, and ByteDance to reject US investment"
+      - claim: AI startups instructed to reject US investment — StepFun
+        kind: named_institution
+        value: StepFun
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Chinese regulators have also instructed AI startups including Moonshot AI, StepFun, and ByteDance to reject US investment"
+      - claim: AI startups instructed to reject US investment — ByteDance
+        kind: named_institution
+        value: ByteDance
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "Chinese regulators have also instructed AI startups including Moonshot AI, StepFun, and ByteDance to reject US investment"
+      - claim: Law firm issuing quote
+        kind: named_institution
+        value: O'Melveny & Myers
+        source_urls:
+          - https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        verbatim_excerpt: "(O'Melveny & Myers)"
+    quotes:
+      - speaker_name: O'Melveny & Myers
+        speaker_title: Law firm
+        verbatim_en: "Chinese-origin AI now carries a kind of reversibility risk that no clever deal structure can price out."
+        source_url: https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html
+        context: Commentary on Meta-Manus deal unwind, June 2026
+
+  - story_id: engineai-confidential-hong-kong-ipo-filing
+    category: ipo_ma
+    headline_en: "EngineAI Confidentially Files for Hong Kong IPO"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.thestandard.com.hk/finance/article/334497/Chinas-EngineAI-and-Dreame-Technology-eye-Hong-Kong-IPOs-Bloomberg-reports
+      - https://www.valuethemarkets.com/cryptocurrency/news/engineai-files-for-ipo-in-hong-kong-amid-rapid-growth-in-robotics-sector
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+      - https://www.thestandard.com.hk/finance/article/334497/Chinas-EngineAI-and-Dreame-Technology-eye-Hong-Kong-IPOs-Bloomberg-reports
+      - https://www.valuethemarkets.com/cryptocurrency/news/engineai-files-for-ipo-in-hong-kong-amid-rapid-growth-in-robotics-sector
+    hard_facts:
+      - claim: EngineAI founding year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "Chinese humanoid robotics startup EngineAI, founded in 2023 and based in Shenzhen"
+      - claim: EngineAI headquarters location
+        kind: named_institution
+        value: Shenzhen
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "Chinese humanoid robotics startup EngineAI, founded in 2023 and based in Shenzhen"
+      - claim: EngineAI IPO underwriters
+        kind: named_institution
+        value: "CICC and CITIC Securities"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "Working with CICC and CITIC Securities."
+      - claim: EngineAI Series B fundraise amount
+        kind: numerical_with_unit
+        value: 200 million yuan ($27.9 million)
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "EngineAI raised 200 million yuan ($27.9 million) in Series B in April 2026"
+      - claim: EngineAI Series B date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "EngineAI raised 200 million yuan ($27.9 million) in Series B in April 2026"
+      - claim: EngineAI post-Series B valuation
+        kind: numerical_with_unit
+        value: more than 10 billion yuan ($1.5 billion)
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "valuing it at more than 10 billion yuan ($1.5 billion)"
+      - claim: Lead investor in Series B — Henan CICC Huirong
+        kind: named_institution
+        value: Henan CICC Huirong Fund Management
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "Lead investors: Henan CICC Huirong Fund Management and Luxshare-ICT."
+      - claim: Lead investor in Series B — Luxshare-ICT
+        kind: named_institution
+        value: Luxshare-ICT
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "Lead investors: Henan CICC Huirong Fund Management and Luxshare-ICT."
+      - claim: Hong Kong Q1 2026 IPO funds raised
+        kind: numerical_with_unit
+        value: HK$109.9 billion
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "Hong Kong topped global IPO rankings in Q1 2026 with HK$109.9 billion raised across 40 listings."
+      - claim: Hong Kong Q1 2026 IPO listing count
+        kind: numerical
+        value: "40"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "HK$109.9 billion raised across 40 listings"
+      - claim: Share of Chinese AI IPO companies choosing Hong Kong
+        kind: numerical_with_unit
+        value: "More than 85%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "More than 85% of Chinese AI-related IPO companies chose Hong Kong."
+      - claim: Other robotics firm — Unitree Robotics
+        kind: named_institution
+        value: Unitree Robotics
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "Other robotics firms: Unitree Robotics and PaXini Tech."
+      - claim: Other robotics firm — PaXini Tech
+        kind: named_institution
+        value: PaXini Tech
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo
+        verbatim_excerpt: "Other robotics firms: Unitree Robotics and PaXini Tech."
+    quotes: []
+
+  - story_id: alibaba-bids-1-5b-grocery-firm-pupu
+    category: ipo_ma
+    headline_en: "Alibaba Bids $1.5 Billion for Chinese Grocery Firm Pupu"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+    hard_facts:
+      - claim: Alibaba bid for Pupu
+        kind: named_institution
+        value: Alibaba Group Holding Ltd.
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "Alibaba Group Holding Ltd. is offering $1.5 billion to buy Chinese grocery delivery firm Pupu."
+      - claim: Alibaba bid value for Pupu
+        kind: numerical_with_unit
+        value: $1.5 billion
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "Alibaba Group Holding Ltd. is offering $1.5 billion to buy Chinese grocery delivery firm Pupu."
+      - claim: Sun Art earlier bid for Pupu
+        kind: numerical_with_unit
+        value: $600 million
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "More than double an earlier bid from Sun Art Retail (now backed by DCP Capital) at $600 million."
+      - claim: Sun Art Retail backer
+        kind: named_institution
+        value: DCP Capital
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "Sun Art Retail (now backed by DCP Capital)"
+      - claim: Pupu headquarters province
+        kind: named_institution
+        value: Fujian
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "Fujian-based Pupu generates annual revenue exceeding RMB 30 billion."
+      - claim: Pupu annual revenue
+        kind: numerical_with_unit
+        value: exceeding RMB 30 billion
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "Fujian-based Pupu generates annual revenue exceeding RMB 30 billion."
+      - claim: Pupu delivery provinces
+        kind: named_institution
+        value: "Fujian, Guangdong, Sichuan, and Hubei"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "30-minute grocery delivery across Fujian, Guangdong, Sichuan, and Hubei provinces."
+      - claim: Meituan acquisition of Dingdong Fresh value
+        kind: numerical_with_unit
+        value: USD 717 million
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "Meituan recently announced a USD 717 million acquisition of Dingdong Fresh"
+      - claim: Meituan acquisition target
+        kind: named_institution
+        value: Dingdong Fresh
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan
+        verbatim_excerpt: "Meituan recently announced a USD 717 million acquisition of Dingdong Fresh, antitrust approval pending."
+    quotes: []
+
+  - story_id: shenzhen-senior-technology-hkex-ipo
+    category: ipo_ma
+    headline_en: "Shenzhen Senior Technology Material HKEX IPO Bookbuilding"
+    lead_url: https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+    body_source: full
+    corroborated_by:
+      - https://www.thestandard.com.hk/finance/article/334466/Two-Chinese-firms-kick-off-bookbuilding-for-HK-IPO-aiming-to-raise-HK245b
+    locked_urls:
+      - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+      - https://www.thestandard.com.hk/finance/article/334466/Two-Chinese-firms-kick-off-bookbuilding-for-HK-IPO-aiming-to-raise-HK245b
+    hard_facts:
+      - claim: HKEX stock code for Shenzhen Senior Technology
+        kind: named_product
+        value: "6067"
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "HKEX stock code 6067 (Shenzhen Senior Technology Material Co., Ltd.)"
+      - claim: Number of H shares offered
+        kind: numerical_with_unit
+        value: 149.52 million H shares
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Will sell 149.52 million H shares at maximum offer price of HK$8.98 per share"
+      - claim: Maximum offer price per share
+        kind: numerical_with_unit
+        value: HK$8.98
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "at maximum offer price of HK$8.98 per share"
+      - claim: Total fundraising target
+        kind: numerical_with_unit
+        value: HK$1.34 billion (~USD 172 million)
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+          - https://www.thestandard.com.hk/finance/article/334466/Two-Chinese-firms-kick-off-bookbuilding-for-HK-IPO-aiming-to-raise-HK245b
+        verbatim_excerpt: "fundraising up to HK$1.34 billion (~USD 172 million)"
+      - claim: Company founding year
+        kind: temporal
+        value: "2003"
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Founded 2003."
+      - claim: Sole sponsor of listing
+        kind: named_institution
+        value: China Securities International
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "China Securities International is sole sponsor."
+      - claim: HKEX listing hearing date
+        kind: temporal
+        value: June 4, 2026
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Passed HKEX listing hearing on June 4, 2026."
+      - claim: Expected debut date
+        kind: temporal
+        value: June 23, 2026
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Expected debut date: June 23, 2026."
+      - claim: Minimum subscription amount
+        kind: numerical_with_unit
+        value: HK$4,535.30
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Minimum subscription HK$4,535.30 (board lot 500 shares)."
+      - claim: Board lot size
+        kind: numerical_with_unit
+        value: 500 shares
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Minimum subscription HK$4,535.30 (board lot 500 shares)."
+      - claim: Company product description
+        kind: named_product
+        value: Lithium-ion battery separator
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Lithium-ion battery separator manufacturer."
+    quotes: []
+
+  - story_id: hj-science-biotech-hkex-ipo-bookbuilding
+    category: ipo_ma
+    headline_en: "HJ Science Biotech HKEX IPO Bookbuilding"
+    lead_url: https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+    body_source: full
+    corroborated_by:
+      - https://www.thestandard.com.hk/finance/article/334466/Two-Chinese-firms-kick-off-bookbuilding-for-HK-IPO-aiming-to-raise-HK245b
+    locked_urls:
+      - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+      - https://www.thestandard.com.hk/finance/article/334466/Two-Chinese-firms-kick-off-bookbuilding-for-HK-IPO-aiming-to-raise-HK245b
+    hard_facts:
+      - claim: HKEX stock code for HJ Science
+        kind: named_product
+        value: "6132"
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "HKEX stock code 6132 (HJ Science Co., Ltd. - B)."
+      - claim: HJ Science listing chapter classification
+        kind: named_product
+        value: Chapter 18A
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Pre-revenue biotech under Chapter 18A."
+      - claim: HJ Science shares offered
+        kind: numerical_with_unit
+        value: 13.6 million shares
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Offering 13.6 million shares at HK$81.8 per share"
+      - claim: HJ Science offer price per share
+        kind: numerical_with_unit
+        value: HK$81.8
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Offering 13.6 million shares at HK$81.8 per share"
+      - claim: HJ Science total fundraise
+        kind: numerical_with_unit
+        value: HK$1.11 billion (~USD 142 million)
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+          - https://www.thestandard.com.hk/finance/article/334466/Two-Chinese-firms-kick-off-bookbuilding-for-HK-IPO-aiming-to-raise-HK245b
+        verbatim_excerpt: "fundraising HK$1.11 billion (~USD 142 million)"
+      - claim: HJ Science minimum subscription amount
+        kind: numerical_with_unit
+        value: HK$8,262.50
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Minimum subscription HK$8,262.50 (board lot 100 shares)."
+      - claim: HJ Science board lot size
+        kind: numerical_with_unit
+        value: 100 shares
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Minimum subscription HK$8,262.50 (board lot 100 shares)."
+      - claim: HJ Science expected debut date
+        kind: temporal
+        value: June 23, 2026
+        source_urls:
+          - https://www2.hkexnews.hk/New-Listings/New-Listing-Information/Main-Board?sc_lang=en
+        verbatim_excerpt: "Expected debut: June 23, 2026."
+    quotes: []
