@@ -1,0 +1,1518 @@
+version: 1
+generated_at: "2026-06-12T00:00:00Z"
+country: United States
+date: "2026-06-12"
+total_stories: 15
+stories:
+  - story_id: global-markets-rally-iran-us-deal-hormuz
+    category: econ
+    headline_en: "Global markets rally and oil prices plunge as Trump announces \"great settlement\" with Iran, Strait of Hormuz reopening proposed"
+    lead_url: https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html
+      - https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html
+    locked_urls:
+      - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+      - https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html
+      - https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html
+    hard_facts:
+      - claim: date of market rally
+        kind: temporal
+        value: "Friday, June 12, 2026"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "Global equity markets rallied sharply on Friday, June 12, 2026"
+      - claim: draft memorandum point count
+        kind: numerical
+        value: "14-point"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "a proposed 14-point memorandum of understanding between the United States and Iran"
+      - claim: Hormuz reopening timeline under draft
+        kind: temporal
+        value: "within 30 days"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "Iran would \"reopen the Strait of Hormuz within 30 days\""
+      - claim: minimum reconstruction plan value for Iran
+        kind: numerical_with_unit
+        value: "$300 billion"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "reconstruction plans for Iran valued at minimum $300 billion"
+      - claim: WTI crude July futures price decline
+        kind: numerical_with_unit
+        value: "4.5%"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "U.S. crude oil futures for July delivery dropped 4.5% to $83.80 per barrel"
+      - claim: WTI crude July futures closing price
+        kind: numerical_with_unit
+        value: "$83.80 per barrel"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "U.S. crude oil futures for July delivery dropped 4.5% to $83.80 per barrel"
+      - claim: Brent crude August futures price decline
+        kind: numerical_with_unit
+        value: "4.4%"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "August futures for Brent crude lost 4.4% to $86.45 per barrel"
+      - claim: Brent crude August futures closing price
+        kind: numerical_with_unit
+        value: "$86.45 per barrel"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "August futures for Brent crude lost 4.4% to $86.45 per barrel"
+      - claim: 10-year U.S. Treasury yield
+        kind: numerical_with_unit
+        value: "4.46%"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "The 10-year U.S. Treasury yield eased to approximately 4.46%"
+      - claim: share of world seaborne oil trade through Strait of Hormuz
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "About 25% of the world's seaborne oil trade"
+      - claim: share of global LNG through Strait of Hormuz
+        kind: numerical_with_unit
+        value: "20%"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "20% of global LNG passes through the Strait of Hormuz"
+      - claim: date Iran closed Strait of Hormuz
+        kind: temporal
+        value: "early March 2026"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "which Iran closed in early March 2026"
+      - claim: Iranian state media publishing the MOU
+        kind: named_institution
+        value: "Mehr News Agency"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "reported by Iran's Mehr News Agency"
+      - claim: Iranian agency disputing agreement text
+        kind: named_institution
+        value: "Fars news agency"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "Iran's state-affiliated Fars news agency reported that Tehran had not approved any draft text"
+      - claim: U.S. military action on June 12
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        verbatim_excerpt: "The U.S. military also shot down two Iranian attack drones near the Strait of Hormuz on June 12"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "just made a great settlement of the war with Iran"
+        source_url: https://www.cnbcafrica.com/2026/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says
+        context: Oval Office remarks, June 12, 2026
+
+  - story_id: us-may-2026-cpi-inflation-4-2-pct
+    category: econ
+    headline_en: "May 2026 U.S. inflation accelerates to 4.2% annual rate, highest since April 2023, as energy costs surge"
+    lead_url: https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+    body_source: full
+    corroborated_by:
+      - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+    locked_urls:
+      - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+      - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+    hard_facts:
+      - claim: CPI report release date and time
+        kind: temporal
+        value: "June 10, 2026 at 8:30 a.m. ET"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "released its May 2026 Consumer Price Index report on June 10, 2026 at 8:30 a.m. ET"
+      - claim: all-items CPI monthly change May
+        kind: numerical_with_unit
+        value: "0.5%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "the all-items CPI rose 0.5% on a seasonally adjusted basis in May"
+      - claim: all-items CPI monthly change April
+        kind: numerical_with_unit
+        value: "0.6%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "after rising 0.6% in April"
+      - claim: all-items CPI 12-month rate May 2026
+        kind: numerical_with_unit
+        value: "4.2%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "the all-items index increased 4.2% before seasonal adjustment"
+      - claim: last time annual CPI was this high
+        kind: temporal
+        value: "April 2023"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "marking the highest annual rate since April 2023"
+      - claim: consecutive months of accelerating headline inflation
+        kind: numerical
+        value: "third consecutive month"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "the third consecutive month of accelerating headline inflation"
+      - claim: energy index monthly change May
+        kind: numerical_with_unit
+        value: "3.9%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "The energy index rose 3.9% in May"
+      - claim: energy index monthly change April
+        kind: numerical_with_unit
+        value: "3.8%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "after rising 3.8% in April"
+      - claim: energy index monthly change March
+        kind: numerical_with_unit
+        value: "10.9%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "and 10.9% in March"
+      - claim: energy share of monthly all-items increase
+        kind: numerical_with_unit
+        value: "over 60%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "accounted for over 60% of the monthly all-items increase"
+      - claim: core CPI monthly change May
+        kind: numerical_with_unit
+        value: "0.2%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "Core CPI, excluding food and energy, rose 0.2% month-over-month"
+      - claim: core CPI year-over-year May
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "and 2.9% year-over-year"
+      - claim: core CPI monthly change April
+        kind: numerical_with_unit
+        value: "0.4%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "compared to April's increases of 0.4% and 2.8%"
+      - claim: core CPI year-over-year April
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "compared to April's increases of 0.4% and 2.8%"
+      - claim: shelter costs monthly change May
+        kind: numerical_with_unit
+        value: "0.3%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "Shelter costs also increased, rising 0.3% in May"
+      - claim: FOMC next meeting date
+        kind: temporal
+        value: "June 16-17, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "The Federal Open Market Committee is not scheduled to meet until June 16-17, 2026"
+      - claim: current federal funds target range
+        kind: numerical_with_unit
+        value: "3.50%–3.75%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "The current federal funds target range remains at 3.50%–3.75%"
+      - claim: market-implied rate hikes over next 12 months
+        kind: numerical_with_unit
+        value: "two 25 basis point hikes"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "market expectations shifting toward two 25 basis point hikes over the next 12 months"
+      - claim: reporting institution
+        kind: named_institution
+        value: "U.S. Bureau of Labor Statistics"
+        source_urls:
+          - https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html
+          - https://www.bls.gov/news.release/archives/cpi_06102026.htm
+        verbatim_excerpt: "The U.S. Bureau of Labor Statistics released its May 2026 Consumer Price Index report"
+    quotes: []
+
+  - story_id: ustr-section-301-tariffs-60-economies-forced-labor
+    category: econ
+    headline_en: "USTR proposes 10%–12.5% Section 301 tariffs on 60 economies over forced labor, replacing IEEPA tariffs struck down by Supreme Court"
+    lead_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html
+      - https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs
+    locked_urls:
+      - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+      - https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html
+      - https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs
+    hard_facts:
+      - claim: USTR announcement date
+        kind: temporal
+        value: "June 2, 2026"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "The Office of the United States Trade Representative on June 2, 2026 announced determinations"
+      - claim: number of Section 301 investigations
+        kind: numerical
+        value: "60"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "determinations in 60 Section 301 investigations"
+      - claim: number of economies found to have failed prohibitions
+        kind: numerical
+        value: "54"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Of 60 investigated economies, 54 were found to have failed to impose prohibitions"
+      - claim: number of economies found to have failed enforcement
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "and six failed enforcement efforts"
+      - claim: duty rate for economies with partial forced labor bans (15 economies)
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "a 10% additional duty rate applies to 15 economies"
+      - claim: number of economies in 10% tier
+        kind: numerical
+        value: "15"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "a 10% additional duty rate applies to 15 economies"
+      - claim: duty rate for remaining economies
+        kind: numerical_with_unit
+        value: "12.5%"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "A 12.5% rate applies to the remaining 45 economies"
+      - claim: number of economies in 12.5% tier
+        kind: numerical
+        value: "45"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "A 12.5% rate applies to the remaining 45 economies"
+      - claim: Supreme Court case striking down IEEPA tariffs
+        kind: named_institution
+        value: "Learning Resources, Inc. v. Trump"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "the February 2026 Supreme Court ruling in Learning Resources, Inc. v. Trump"
+      - claim: date of Supreme Court ruling
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "the February 2026 Supreme Court ruling in Learning Resources, Inc. v. Trump"
+      - claim: public comment period end date
+        kind: temporal
+        value: "July 6, 2026"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "The public comment period runs to July 6, 2026"
+      - claim: hearings date
+        kind: temporal
+        value: "July 7"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "with hearings scheduled July 7"
+      - claim: USTR Ambassador identity
+        kind: named_person
+        value: "Jamieson Greer"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "USTR Ambassador Jamieson Greer stated"
+    quotes:
+      - speaker_name: Jamieson Greer
+        speaker_title: USTR Ambassador
+        verbatim_en: "The failure of our most important trading partners to address the importation of goods made with forced labor is unacceptable."
+        source_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        context: USTR press release, June 2, 2026
+
+  - story_id: fed-holds-rates-3-5-3-75-pct-four-dissenters
+    category: econ
+    headline_en: "Federal Reserve holds rates at 3.5%–3.75% for third consecutive meeting as four FOMC members dissent amid Iran war uncertainty"
+    lead_url: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+    hard_facts:
+      - claim: FOMC decision date
+        kind: temporal
+        value: "April 29, 2026"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "The Federal Open Market Committee on April 29, 2026, voted to maintain"
+      - claim: federal funds rate target range
+        kind: numerical_with_unit
+        value: "3½ to 3¾ percent"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "target range for the federal funds rate at 3½ to 3¾ percent"
+      - claim: meeting cadence for rate hold
+        kind: temporal
+        value: "third consecutive meeting"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "for the third consecutive meeting"
+      - claim: number of FOMC dissenters
+        kind: numerical
+        value: "four"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "the first time since October 1992 that four officials dissented against a single FOMC decision"
+      - claim: last time four officials dissented
+        kind: temporal
+        value: "October 1992"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "the first time since October 1992 that four officials dissented against a single FOMC decision"
+      - claim: dissenter proposing rate cut
+        kind: named_person
+        value: "Governor Miran"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "Governor Miran voted to lower interest rates by 25 basis points"
+      - claim: proposed rate cut by Miran
+        kind: numerical_with_unit
+        value: "25 basis points"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "Governor Miran voted to lower interest rates by 25 basis points"
+      - claim: next FOMC meeting date
+        kind: temporal
+        value: "June 16-17, 2026"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "The next FOMC meeting is scheduled for June 16-17, 2026"
+      - claim: institution name
+        kind: named_institution
+        value: "Federal Open Market Committee"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        verbatim_excerpt: "The Federal Open Market Committee on April 29, 2026, voted to maintain"
+    quotes:
+      - speaker_name: FOMC
+        speaker_title: Federal Open Market Committee
+        verbatim_en: "developments in the Middle East are contributing to a high level of uncertainty about the economic outlook."
+        source_url: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+        context: FOMC April 29, 2026 statement
+
+  - story_id: house-fails-fisa-702-extension-198-218-vote
+    category: politics
+    headline_en: "House fails to extend FISA Section 702 surveillance authority in 198-218 vote; law set to lapse Friday at midnight"
+    lead_url: https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/politics/congress/fisa-spying-power-scheduled-expire-house-fails-extend-leaving-town-rcna349595
+      - https://www.washingtonpost.com/politics/2026/06/11/fisa-bill-pulte-trump-democrats-spy-powers/bc7060b6-654a-11f1-bdd4-805ebb99a693_story.html
+      - https://www.pbs.org/newshour/politics/watch-live-house-expected-to-vote-on-short-term-fisa-extension
+    locked_urls:
+      - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+      - https://www.nbcnews.com/politics/congress/fisa-spying-power-scheduled-expire-house-fails-extend-leaving-town-rcna349595
+      - https://www.washingtonpost.com/politics/2026/06/11/fisa-bill-pulte-trump-democrats-spy-powers/bc7060b6-654a-11f1-bdd4-805ebb99a693_story.html
+      - https://www.pbs.org/newshour/politics/watch-live-house-expected-to-vote-on-short-term-fisa-extension
+    hard_facts:
+      - claim: House vote date
+        kind: temporal
+        value: "Thursday, June 12, 2026"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "The U.S. House of Representatives on Thursday, June 12, 2026, voted 198-218"
+      - claim: House vote result against extension
+        kind: numerical
+        value: "198-218"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "voted 198-218 against a short-term extension"
+      - claim: Republicans voting no
+        kind: numerical
+        value: "Nineteen"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "Nineteen Republicans voted no"
+      - claim: Democrats voting yes
+        kind: numerical
+        value: "seven"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "while seven Democrats voted yes"
+      - claim: Senate efforts to pass extension
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "three separate Senate efforts to unanimously pass short-term FISA extensions also failed"
+      - claim: prior extension passage date
+        kind: temporal
+        value: "April 30"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "The 45-day stopgap extension passed on April 30"
+      - claim: prior sunset deadline
+        kind: temporal
+        value: "April 20"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "extended the prior April 20 sunset deadline to June 12"
+      - claim: prior extension duration
+        kind: temporal
+        value: "45-day"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "The 45-day stopgap extension passed on April 30"
+      - claim: acting DNI appointed by Trump
+        kind: named_person
+        value: "Bill Pulte"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "President Trump's appointment of Bill Pulte as acting Director of National Intelligence"
+      - claim: outgoing DNI
+        kind: named_person
+        value: "Tulsi Gabbard"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "outgoing DNI Tulsi Gabbard on June 19"
+      - claim: Trump's new permanent DNI pick
+        kind: named_person
+        value: "Jay Clayton"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "Trump announced a new permanent pick for DNI: Jay Clayton"
+      - claim: Pulte succession announcement date
+        kind: temporal
+        value: "June 19"
+        source_urls:
+          - https://abcnews.com/Politics/house-fails-pass-short-term-extension-fisa-ahead/story?id=133784588
+        verbatim_excerpt: "Pulte, who Trump announced would succeed outgoing DNI Tulsi Gabbard on June 19"
+    quotes: []
+
+  - story_id: trump-hails-iran-settlement-cancels-strikes
+    category: politics
+    headline_en: "Trump hails \"great settlement\" with Iran, cancels new strikes, vows deal signing \"soon\" as Iranian state media disputes agreement text"
+    lead_url: https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/09/trump-iran-war-deal-days.html
+      - https://www.axios.com/2026/05/28/iran-peace-deal-trump-approval
+      - https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html
+    locked_urls:
+      - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+      - https://www.cnbc.com/2026/06/09/trump-iran-war-deal-days.html
+      - https://www.axios.com/2026/05/28/iran-peace-deal-trump-approval
+      - https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html
+    hard_facts:
+      - claim: date of Trump announcement canceling strikes
+        kind: temporal
+        value: "Thursday, June 11, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "President Donald Trump announced Thursday, June 11, 2026 that he was canceling scheduled U.S. military strikes"
+      - claim: Truth Social platform used for announcement
+        kind: named_product
+        value: "Truth Social"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "Trump wrote on Truth Social"
+      - claim: VPs expected at signing
+        kind: named_person
+        value: "JD Vance"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "Vice President JD Vance would attend the signing"
+      - claim: proposed signing location
+        kind: named_institution
+        value: "Switzerland"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "expected in Switzerland as early as Sunday"
+      - claim: U.S. military action on June 12
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "On June 12, the U.S. military shot down two Iranian attack drones near the Strait of Hormuz"
+      - claim: number of Iranian attack drones shot down
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "the U.S. military shot down two Iranian attack drones near the Strait of Hormuz"
+      - claim: Iran disputing draft text
+        kind: named_institution
+        value: "Fars news agency"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "Iran's state-affiliated Fars news agency reported on Telegram that Tehran had not approved any draft text"
+      - claim: war start date
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "The war with Iran began in March 2026 following Iran's closure of the Strait of Hormuz"
+      - claim: U.S. strikes on Iranian nuclear facilities
+        kind: temporal
+        value: "June 21-24"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        verbatim_excerpt: "U.S. strikes on Iranian nuclear facilities occurred in June 21-24 before a ceasefire was declared"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "Based on the fact that discussions with the Islamic Republic of Iran have been brought to the highest level of Iranian leadership and approved, I have, as President of the United States of America, cancelled the scheduled strikes and bombings against Iran this evening."
+        source_url: https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes
+        context: Truth Social post, June 11, 2026
+
+  - story_id: fifa-world-cup-2026-opens-los-angeles-usmnt
+    category: politics
+    headline_en: "FIFA World Cup 2026 opens in U.S. with ceremony at Los Angeles Stadium; USMNT hosts Paraguay in Group D opener"
+    lead_url: https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+    body_source: full
+    corroborated_by:
+      - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - https://www.aljazeera.com/sports/2026/6/9/world-cup-opening-ceremony-whos-performing-when-it-starts-how-to-watch
+    locked_urls:
+      - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+      - https://www.cbsnews.com/news/2026-fifa-world-cup-opening-june-11/
+      - https://www.aljazeera.com/sports/2026/6/9/world-cup-opening-ceremony-whos-performing-when-it-starts-how-to-watch
+    hard_facts:
+      - claim: number of opening ceremonies
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "three opening ceremonies took place across three host nations over two consecutive days"
+      - claim: Mexico City ceremony date
+        kind: temporal
+        value: "June 11"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "Mexico City on June 11, followed by Toronto and Los Angeles on June 12, 2026"
+      - claim: Toronto and Los Angeles ceremony date
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "followed by Toronto and Los Angeles on June 12, 2026"
+      - claim: LA ceremony venue
+        kind: named_institution
+        value: "SoFi Stadium"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "The Los Angeles ceremony at SoFi Stadium (Los Angeles Stadium) began at 4:30 p.m. local time"
+      - claim: LA ceremony start time
+        kind: temporal
+        value: "4:30 p.m. local time"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "began at 4:30 p.m. local time, 90 minutes before kickoff"
+      - claim: time before kickoff ceremony started
+        kind: temporal
+        value: "90 minutes before kickoff"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "began at 4:30 p.m. local time, 90 minutes before kickoff"
+      - claim: USMNT head coach
+        kind: named_person
+        value: "Mauricio Pochettino"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "The USMNT under head coach Mauricio Pochettino faced Paraguay in Group D"
+      - claim: USMNT match kickoff time
+        kind: temporal
+        value: "9 p.m. EDT"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "with kickoff at 9 p.m. EDT"
+      - claim: Secretary of State attending
+        kind: named_person
+        value: "Marco Rubio"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "Secretary of State Marco Rubio attended the match"
+      - claim: last time U.S. hosted World Cup
+        kind: temporal
+        value: "1994"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "first time the U.S. Men's National Team has participated in a World Cup on home soil since 1994"
+      - claim: Paraguay consecutive unbeaten matches
+        kind: numerical
+        value: "eight"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "Paraguay arrived with eight consecutive unbeaten matches"
+      - claim: production company
+        kind: named_institution
+        value: "Balich Wonder Studio"
+        source_urls:
+          - https://www.ussoccer.com/stories/2026/05/usmnt/fifa-world-cup-opening-ceremony-los-angeles
+        verbatim_excerpt: "The production was created by Balich Wonder Studio"
+    quotes: []
+
+  - story_id: apple-wwdc-2026-siri-gemini-ios-27
+    category: tech
+    headline_en: "Apple concludes WWDC 2026: Siri AI powered by Google Gemini unveiled alongside iOS 27 and revamped Apple Intelligence"
+    lead_url: https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html
+      - https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/
+    locked_urls:
+      - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+      - https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html
+      - https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/
+    hard_facts:
+      - claim: WWDC 2026 dates
+        kind: temporal
+        value: "June 8-12"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "running June 8-12 at Apple Park in Cupertino, California"
+      - claim: WWDC 2026 location
+        kind: named_institution
+        value: "Apple Park"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "at Apple Park in Cupertino, California"
+      - claim: Siri AI underlying model
+        kind: named_product
+        value: "Google's Gemini"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "with Siri AI now powered by Google's Gemini under the hood"
+      - claim: Siri AI public beta launch month
+        kind: temporal
+        value: "July"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "A Siri AI public beta will launch in July"
+      - claim: Siri AI stable release timing
+        kind: temporal
+        value: "September 2026"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "full stable release in September 2026 alongside the iPhone 18"
+      - claim: product launching with Siri AI stable
+        kind: named_product
+        value: "iPhone 18"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "full stable release in September 2026 alongside the iPhone 18"
+      - claim: iOS 27 minimum supported iPhone model
+        kind: named_product
+        value: "iPhone 12"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "iOS 27 supporting iPhone 12 and newer"
+      - claim: iOS 27 photo loading speed improvement
+        kind: numerical_with_unit
+        value: "70% faster"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "iOS 27 delivers 70% faster photo loading"
+      - claim: iOS 27 AirDrop speed improvement
+        kind: numerical_with_unit
+        value: "80% faster"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "80% faster AirDrop transfers"
+      - claim: Apple CEO identity
+        kind: named_person
+        value: "Tim Cook"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "WWDC 2026 marked CEO Tim Cook's final conference"
+      - claim: Cook's successor
+        kind: named_person
+        value: "John Ternus"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "handing over to SVP Hardware Engineering John Ternus on September 1, 2026"
+      - claim: Cook handover date
+        kind: temporal
+        value: "September 1, 2026"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "handing over to SVP Hardware Engineering John Ternus on September 1, 2026"
+      - claim: Apple SVP presenting Siri quote
+        kind: named_person
+        value: "Craig Federighi"
+        source_urls:
+          - https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        verbatim_excerpt: "Apple CEO Craig Federighi stated"
+    quotes:
+      - speaker_name: Craig Federighi
+        speaker_title: Apple SVP Software Engineering
+        verbatim_en: "privacy in AI is non-negotiable"
+        source_url: https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+        context: WWDC 2026 keynote, June 8, 2026
+
+  - story_id: trump-ai-executive-order-frontier-models-voluntary
+    category: tech
+    headline_en: "Trump signs AI executive order requesting voluntary early government access to frontier AI models before public release"
+    lead_url: https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html
+      - https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order
+      - https://www.axios.com/2026/06/02/trump-signs-new-ai-executive-order
+    locked_urls:
+      - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+      - https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html
+      - https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order
+      - https://www.axios.com/2026/06/02/trump-signs-new-ai-executive-order
+    hard_facts:
+      - claim: executive order signing date
+        kind: temporal
+        value: "June 2, 2026"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "President Trump on June 2, 2026, signed an Executive Order"
+      - claim: executive order title
+        kind: named_product
+        value: "Promoting Advanced Artificial Intelligence Innovation and Security"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Executive Order titled \"Promoting Advanced Artificial Intelligence Innovation and Security\""
+      - claim: pre-release testing window requested
+        kind: temporal
+        value: "up to 30 days before public release"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "voluntarily submit their most powerful frontier AI models for government testing up to 30 days before public release"
+      - claim: named AI companies requested to submit models
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "asking leading AI companies including Anthropic, OpenAI, and Google"
+      - claim: named AI companies requested to submit models (2)
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "asking leading AI companies including Anthropic, OpenAI, and Google"
+      - claim: named AI companies requested to submit models (3)
+        kind: named_institution
+        value: "Google"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "asking leading AI companies including Anthropic, OpenAI, and Google"
+      - claim: government body established
+        kind: named_institution
+        value: "AI cybersecurity clearinghouse"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "establishes an \"AI cybersecurity clearinghouse\" to review and share vulnerability information"
+    quotes: []
+
+  - story_id: us-ai-chip-export-ban-chinese-firms-outside-china
+    category: tech
+    headline_en: "US clarifies AI chip export ban applies to Chinese firms outside China; semiconductor stocks rallied sharply on Iran peace hopes"
+    lead_url: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+      - https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html
+    hard_facts:
+      - claim: Commerce clarification date
+        kind: temporal
+        value: "June 1, 2026"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "The U.S. Department of Commerce clarified on June 1, 2026"
+      - claim: reporting institution
+        kind: named_institution
+        value: "U.S. Department of Commerce"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "The U.S. Department of Commerce clarified on June 1, 2026"
+      - claim: current framework effective date
+        kind: temporal
+        value: "January 15, 2026"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "the current framework, which took effect January 15, 2026"
+      - claim: NVIDIA chip approved for China export
+        kind: named_product
+        value: "NVIDIA H200"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "the Trump administration approved NVIDIA H200 chip exports to China under specific conditions"
+      - claim: volume cap for NVIDIA H200 exports to China
+        kind: numerical_with_unit
+        value: "50% volume cap"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "including a 50% volume cap, third-party security testing, and a 25% tariff"
+      - claim: tariff on NVIDIA H200 exports to China
+        kind: numerical_with_unit
+        value: "25% tariff"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "including a 50% volume cap, third-party security testing, and a 25% tariff"
+      - claim: Micron stock gain on June 12
+        kind: numerical_with_unit
+        value: "11%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Micron jumped 11%"
+      - claim: AMD stock gain on June 12
+        kind: numerical_with_unit
+        value: "8%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "AMD surged 8%"
+      - claim: Lam Research stock gain on June 12
+        kind: named_institution
+        value: "Lam Research"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Lam Research added 12.7%"
+      - claim: Lam Research gain amount
+        kind: numerical_with_unit
+        value: "12.7%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Lam Research added 12.7%"
+      - claim: Intel stock gain on June 12
+        kind: numerical_with_unit
+        value: "over 10%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "Intel gained over 10%"
+      - claim: semiconductor date for stock rally
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "on June 12, 2026, semiconductor stocks rallied sharply"
+      - claim: U.S.-Taiwan Semiconductor Partnerships Agreement date
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "The U.S.-Taiwan Semiconductor Partnerships Agreement signed in January 2026"
+      - claim: Taiwanese investment commitment under agreement
+        kind: numerical_with_unit
+        value: "$250 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+        verbatim_excerpt: "committed Taiwanese companies to investing $250 billion in U.S. semiconductor and AI industries"
+    quotes: []
+
+  - story_id: cdc-hantavirus-cruise-quarantine-ebola-ban
+    category: society
+    headline_en: "U.S. imposes mandatory quarantine orders on hantavirus cruise passengers; blocks Americans with Ebola from returning home"
+    lead_url: https://www.cdc.gov/hantavirus/situation-summary/index.html
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+      - https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/
+      - https://www.scientificamerican.com/article/ebola-outbreak-triggers-u-s-ban-on-travelers-from-three-african-nations/
+    locked_urls:
+      - https://www.cdc.gov/hantavirus/situation-summary/index.html
+      - https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+      - https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/
+      - https://www.scientificamerican.com/article/ebola-outbreak-triggers-u-s-ban-on-travelers-from-three-african-nations/
+    hard_facts:
+      - claim: CDC confirmation date
+        kind: temporal
+        value: "June 11, 2026"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "As of June 11, 2026, the CDC confirmed"
+      - claim: cruise ship name
+        kind: named_product
+        value: "M/V Hondius"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "linked to the M/V Hondius cruise ship"
+      - claim: cruise ship departure port
+        kind: named_institution
+        value: "Ushuaia, Argentina"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "which departed Ushuaia, Argentina on April 1, 2026"
+      - claim: cruise departure date
+        kind: temporal
+        value: "April 1, 2026"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "which departed Ushuaia, Argentina on April 1, 2026"
+      - claim: number of passengers on cruise
+        kind: numerical
+        value: "147"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "carrying 147 people from 23 countries"
+      - claim: number of countries represented on cruise
+        kind: numerical
+        value: "23"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "carrying 147 people from 23 countries"
+      - claim: hantavirus strain involved
+        kind: named_product
+        value: "Andes virus"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "The outbreak involved the Andes virus"
+      - claim: confirmed and suspected cases globally
+        kind: numerical
+        value: "eight"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "with eight confirmed and suspected cases and three deaths reported globally"
+      - claim: global deaths from outbreak
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "with eight confirmed and suspected cases and three deaths reported globally"
+      - claim: number of Americans repatriated for monitoring
+        kind: numerical
+        value: "18"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "The CDC repatriated 18 potentially exposed Americans to the National Quarantine Unit"
+      - claim: quarantine facility
+        kind: named_institution
+        value: "National Quarantine Unit at the University of Nebraska Medical Center"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "repatriated 18 potentially exposed Americans to the National Quarantine Unit at the University of Nebraska Medical Center"
+      - claim: quarantine monitoring period
+        kind: temporal
+        value: "42-day monitoring period"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "for a 42-day monitoring period"
+      - claim: passengers receiving mandatory federal quarantine orders
+        kind: numerical
+        value: "Two"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "Two passengers who sought home quarantine received mandatory federal quarantine orders"
+      - claim: number at NQU remaining
+        kind: numerical
+        value: "8"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "10 of the 18 had returned home to complete monitoring while 8 remained at the NQU"
+      - claim: number returned home
+        kind: numerical
+        value: "10"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "10 of the 18 had returned home to complete monitoring while 8 remained at the NQU"
+      - claim: Ebola travel ban announcement date
+        kind: temporal
+        value: "May 18, 2026"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "on May 18, 2026, the U.S. banned entry of non-U.S. nationals"
+      - claim: countries covered by Ebola travel ban
+        kind: named_institution
+        value: "DRC, South Sudan, or Uganda"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "who had been in the DRC, South Sudan, or Uganda — countries experiencing Ebola outbreaks"
+      - claim: Ebola exposure window for entry ban
+        kind: temporal
+        value: "prior 21 days"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "within the prior 21 days"
+      - claim: health expert commenting
+        kind: named_person
+        value: "Jennifer Nuzzo"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "Health experts including Jennifer Nuzzo of Brown University's Pandemic Center"
+      - claim: Nuzzo's affiliation
+        kind: named_institution
+        value: "Brown University's Pandemic Center"
+        source_urls:
+          - https://www.cdc.gov/hantavirus/situation-summary/index.html
+        verbatim_excerpt: "Jennifer Nuzzo of Brown University's Pandemic Center called the policy \"completely stunning\""
+    quotes:
+      - speaker_name: Jennifer Nuzzo
+        speaker_title: Director, Brown University Pandemic Center
+        verbatim_en: "It is completely stunning that we would not allow Americans to return to the United States, given that we have specialized, taxpayer-built units that exist solely for this purpose: to provide life-saving care to people who may be exposed to deadly diseases."
+        source_url: https://www.cdc.gov/hantavirus/situation-summary/index.html
+        context: Expert commentary on CDC and White House policy, June 2026
+
+  - story_id: cms-medicaid-work-requirements-2-3-million-disenroll
+    category: society
+    headline_en: "CMS issues interim final rule implementing Medicaid work requirements for 43 states, projected to disenroll 2.3 million by 2027"
+    lead_url: https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+    body_source: full
+    corroborated_by:
+      - https://foleyhoag.com/news-and-insights/publications/alerts-and-updates/2026/june/cms-issues-interim-final-rule-imposing-medicaid-work-requirements-for-expansion-populations/
+      - https://www.kff.org/medicaid/a-closer-look-at-the-work-requirement-provisions-in-the-2025-federal-budget-reconciliation-law/
+    locked_urls:
+      - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+      - https://foleyhoag.com/news-and-insights/publications/alerts-and-updates/2026/june/cms-issues-interim-final-rule-imposing-medicaid-work-requirements-for-expansion-populations/
+      - https://www.kff.org/medicaid/a-closer-look-at-the-work-requirement-provisions-in-the-2025-federal-budget-reconciliation-law/
+    hard_facts:
+      - claim: Interim Final Rule publication date
+        kind: temporal
+        value: "June 1, 2026"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "The Centers for Medicare & Medicaid Services published an Interim Final Rule on June 1, 2026"
+      - claim: enabling legislation
+        kind: named_institution
+        value: "One Big Beautiful Bill Act"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "established by the One Big Beautiful Bill Act (enacted July 4, 2025)"
+      - claim: enactment date of enabling legislation
+        kind: temporal
+        value: "July 4, 2025"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "the One Big Beautiful Bill Act (enacted July 4, 2025)"
+      - claim: age range for work requirement
+        kind: numerical_with_unit
+        value: "aged 19-64"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "non-pregnant adults aged 19-64 who are not eligible for Medicare"
+      - claim: required monthly work hours
+        kind: numerical_with_unit
+        value: "80 hours per month"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "demonstrate 80 hours per month of work, community service, education, or equivalent activities"
+      - claim: number of states covered
+        kind: numerical
+        value: "43"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "The requirement applies to 43 states and Washington, D.C."
+      - claim: state implementation deadline
+        kind: temporal
+        value: "January 1, 2027"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "States must implement no later than January 1, 2027"
+      - claim: first state to implement
+        kind: named_institution
+        value: "Nebraska"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "Nebraska became the first state to implement on May 1, 2026"
+      - claim: Nebraska implementation date
+        kind: temporal
+        value: "May 1, 2026"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "Nebraska became the first state to implement on May 1, 2026"
+      - claim: projected disenrollments in FY 2027
+        kind: numerical_with_unit
+        value: "2.3 million"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "CMS projects approximately 2.3 million disenrollments in fiscal year 2027"
+      - claim: average implementation cost per state
+        kind: numerical_with_unit
+        value: "approximately $15 million per state"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "Implementation costs average approximately $15 million per state"
+      - claim: number of exemption categories
+        kind: numerical
+        value: "Nine"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "Nine exemption categories apply"
+      - claim: state outreach window
+        kind: temporal
+        value: "June 30 and August 31, 2026"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "State Medicaid agencies must conduct member outreach between June 30 and August 31, 2026"
+      - claim: public comment period close date
+        kind: temporal
+        value: "July 31, 2026"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "The public comment period closes July 31, 2026"
+      - claim: issuing institution
+        kind: named_institution
+        value: "Centers for Medicare & Medicaid Services"
+        source_urls:
+          - https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+        verbatim_excerpt: "The Centers for Medicare & Medicaid Services published an Interim Final Rule"
+    quotes: []
+
+  - story_id: us-hantavirus-quarantine-legal-ethical-challenges
+    category: society
+    headline_en: "U.S. restrictions on hantavirus quarantine face legal and ethical challenges"
+    lead_url: https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+    body_source: full
+    corroborated_by:
+      - https://www.healthbeat.org/2026/05/22/cdc-hantavirus-quarantine-order-could-face-legal-challenge-expert-says/
+    locked_urls:
+      - https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+      - https://www.healthbeat.org/2026/05/22/cdc-hantavirus-quarantine-order-could-face-legal-challenge-expert-says/
+    hard_facts:
+      - claim: legal basis used for quarantine orders
+        kind: named_institution
+        value: "Public Health Service Act"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+        verbatim_excerpt: "CDC issued mandatory federal quarantine orders for two hantavirus cruise ship passengers under the Public Health Service Act"
+      - claim: regulatory authorities cited
+        kind: named_product
+        value: "42 CFR parts 70 and 71"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+        verbatim_excerpt: "signed under the Public Health Service Act rather than executive-order authority"
+      - claim: number of mandatory quarantine orders issued
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+        verbatim_excerpt: "CDC issued mandatory federal quarantine orders for two hantavirus cruise ship passengers"
+      - claim: proposed new quarantine facility location
+        kind: named_institution
+        value: "Kenya"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+        verbatim_excerpt: "proposing a new quarantine facility in Kenya"
+      - claim: Florida state agency disputing guidance
+        kind: named_institution
+        value: "Florida state health officials"
+        source_urls:
+          - https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+        verbatim_excerpt: "Florida state health officials publicly disputed CDC hantavirus quarantine guidance"
+    quotes:
+      - speaker_name: Jennifer Nuzzo
+        speaker_title: Director, Brown University Pandemic Center
+        verbatim_en: "It is completely stunning that we would not allow Americans to return to the United States, given that we have specialized, taxpayer-built units that exist solely for this purpose."
+        source_url: https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom
+        context: Expert commentary on U.S. Ebola policy, June 2026
+
+  - story_id: spacex-ipo-nasdaq-spcx-135-75-billion
+    category: ipo_ma
+    headline_en: "SpaceX begins trading on Nasdaq as SPCX at $135/share, raising $75 billion in largest IPO in stock market history"
+    lead_url: https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html
+      - https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html
+      - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - https://fortune.com/2026/06/11/spacex-ipo-largest-history-wall-street-analysts-split-valuation-debate/
+    locked_urls:
+      - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+      - https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html
+      - https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html
+      - https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk
+      - https://fortune.com/2026/06/11/spacex-ipo-largest-history-wall-street-analysts-split-valuation-debate/
+    hard_facts:
+      - claim: SpaceX legal name
+        kind: named_institution
+        value: "Space Exploration Technologies Corp."
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "Space Exploration Technologies Corp. (SpaceX) began trading"
+      - claim: trading start date
+        kind: temporal
+        value: "Friday, June 12, 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "began trading on the Nasdaq Global Select Market and Nasdaq Texas on Friday, June 12, 2026"
+      - claim: exchange(s) for listing
+        kind: named_institution
+        value: "Nasdaq Global Select Market and Nasdaq Texas"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "began trading on the Nasdaq Global Select Market and Nasdaq Texas"
+      - claim: ticker symbol
+        kind: named_product
+        value: "SPCX"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "under ticker symbol SPCX"
+      - claim: IPO price per share
+        kind: numerical_with_unit
+        value: "$135 per share"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "priced its IPO at $135 per share"
+      - claim: number of Class A shares sold
+        kind: numerical
+        value: "555,555,555"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "selling 555,555,555 Class A common shares"
+      - claim: total IPO proceeds
+        kind: numerical_with_unit
+        value: "approximately $75 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "to raise approximately $75 billion"
+      - claim: previous largest IPO (Saudi Aramco)
+        kind: named_institution
+        value: "Saudi Aramco"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "surpassing Saudi Aramco's $29.4 billion (2019)"
+      - claim: Saudi Aramco IPO amount
+        kind: numerical_with_unit
+        value: "$29.4 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "surpassing Saudi Aramco's $29.4 billion (2019)"
+      - claim: Saudi Aramco IPO year
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "surpassing Saudi Aramco's $29.4 billion (2019)"
+      - claim: Alibaba IPO amount
+        kind: numerical_with_unit
+        value: "$22 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "and Alibaba's $22 billion (2014)"
+      - claim: Alibaba IPO year
+        kind: temporal
+        value: "2014"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "and Alibaba's $22 billion (2014)"
+      - claim: total outstanding shares
+        kind: numerical_with_unit
+        value: "approximately 13.1 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "Total outstanding shares of approximately 13.1 billion"
+      - claim: initial market capitalization
+        kind: numerical_with_unit
+        value: "$1.77 trillion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "give SpaceX an initial market capitalization of $1.77 trillion"
+      - claim: SpaceX ranking as U.S. company
+        kind: numerical
+        value: "seventh-largest U.S. company"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "ranking it as the seventh-largest U.S. company, ahead of Tesla"
+      - claim: IPO oversubscription ratio
+        kind: numerical_with_unit
+        value: "approximately 3.3–3.5 times"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "The IPO was oversubscribed approximately 3.3–3.5 times"
+      - claim: total IPO demand
+        kind: numerical_with_unit
+        value: "exceeding $250 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "with total demand exceeding $250 billion"
+      - claim: retail orders total
+        kind: numerical_with_unit
+        value: "surpassing $100 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "retail orders alone surpassing $100 billion"
+      - claim: Starlink subscriber milestone date
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "Starlink (which crossed 10 million subscribers in February 2026"
+      - claim: Starlink subscriber count
+        kind: numerical_with_unit
+        value: "10 million subscribers"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "crossed 10 million subscribers in February 2026"
+      - claim: Starlink 2025 revenue
+        kind: numerical_with_unit
+        value: "$11.39 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "generating $11.39 billion in 2025 revenue accounting for 61% of total sales"
+      - claim: Starlink share of total 2025 SpaceX revenue
+        kind: numerical_with_unit
+        value: "61%"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "generating $11.39 billion in 2025 revenue accounting for 61% of total sales"
+      - claim: xAI acquisition deal date
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "acquired in a February 2026 all-stock deal valued at $250 billion"
+      - claim: xAI acquisition value
+        kind: numerical_with_unit
+        value: "$250 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "acquired in a February 2026 all-stock deal valued at $250 billion"
+      - claim: SpaceX total 2025 revenue
+        kind: numerical_with_unit
+        value: "$18.67 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "The company posted total 2025 revenue of $18.67 billion"
+      - claim: SpaceX 2025 adjusted EBITDA
+        kind: numerical_with_unit
+        value: "$6.58 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "with adjusted EBITDA of $6.58 billion"
+      - claim: SpaceX 2025 net loss
+        kind: numerical_with_unit
+        value: "nearly $5 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "but recorded a net loss of nearly $5 billion"
+      - claim: analyst price target for SPCX
+        kind: numerical_with_unit
+        value: "$165/share"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "projected an average 12-month price target of $165/share"
+      - claim: analyst upside projection
+        kind: numerical_with_unit
+        value: "approximately 22%"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "representing approximately 22% upside"
+      - claim: analyst making projection
+        kind: named_person
+        value: "Dan Ives"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "Wedbush analyst Dan Ives projected an average 12-month price target of $165/share"
+      - claim: analyst firm
+        kind: named_institution
+        value: "Wedbush"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+        verbatim_excerpt: "Wedbush analyst Dan Ives projected"
+    quotes: []
+
+  - story_id: anthropic-confidential-s1-sec-ipo-filing
+    category: ipo_ma
+    headline_en: "Anthropic confidentially files S-1 with SEC ahead of potentially trillion-dollar IPO"
+    lead_url: https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+    body_source: full
+    corroborated_by:
+      - https://www.anthropic.com/news/confidential-draft-s1-sec
+      - https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html
+      - https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing
+    locked_urls:
+      - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+      - https://www.anthropic.com/news/confidential-draft-s1-sec
+      - https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html
+      - https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing
+    hard_facts:
+      - claim: S-1 filing date
+        kind: temporal
+        value: "June 1, 2026"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+          - https://www.anthropic.com/news/confidential-draft-s1-sec
+        verbatim_excerpt: "on June 1, 2026, confidentially submitted a draft registration statement on Form S-1"
+      - claim: filing form type
+        kind: named_product
+        value: "Form S-1"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+          - https://www.anthropic.com/news/confidential-draft-s1-sec
+        verbatim_excerpt: "a draft registration statement on Form S-1 to the U.S. Securities and Exchange Commission"
+      - claim: filing institution
+        kind: named_institution
+        value: "U.S. Securities and Exchange Commission"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+          - https://www.anthropic.com/news/confidential-draft-s1-sec
+        verbatim_excerpt: "a draft registration statement on Form S-1 to the U.S. Securities and Exchange Commission"
+      - claim: Anthropic product family
+        kind: named_product
+        value: "Claude"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "known for its Claude family of large language models"
+      - claim: Series H funding raised
+        kind: numerical_with_unit
+        value: "$65 billion"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+          - https://www.anthropic.com/news/confidential-draft-s1-sec
+        verbatim_excerpt: "Anthropic's Series H funding round, which raised $65 billion"
+      - claim: Anthropic valuation post-Series H
+        kind: numerical_with_unit
+        value: "$965 billion"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+          - https://www.anthropic.com/news/confidential-draft-s1-sec
+        verbatim_excerpt: "pushing its valuation to $965 billion"
+      - claim: annual revenue run rate as of May
+        kind: numerical_with_unit
+        value: "$47 billion"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+          - https://www.anthropic.com/news/confidential-draft-s1-sec
+        verbatim_excerpt: "its annual revenue run rate had reached $47 billion"
+      - claim: prior year annual revenue run rate
+        kind: numerical_with_unit
+        value: "$10 billion"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+          - https://www.anthropic.com/news/confidential-draft-s1-sec
+        verbatim_excerpt: "up from $10 billion the year prior"
+      - claim: competing company also preparing IPO
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+        verbatim_excerpt: "ahead of rival OpenAI, which is also preparing a confidential IPO filing"
+    quotes:
+      - speaker_name: Anthropic
+        speaker_title: Company official statement
+        verbatim_en: "This gives us the option to go public after the SEC completes its review."
+        source_url: https://www.anthropic.com/news/confidential-draft-s1-sec
+        context: Official Anthropic statement accompanying S-1 filing, June 1, 2026

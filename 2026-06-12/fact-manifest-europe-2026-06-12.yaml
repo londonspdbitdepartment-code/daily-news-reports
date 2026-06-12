@@ -1,0 +1,682 @@
+version: 1
+generated_at: "2026-06-12T00:00:00Z"
+country: Europe
+date: "2026-06-12"
+total_stories: 9
+stories:
+  - story_id: bundesbank-cuts-germany-gdp-forecast
+    category: econ
+    headline_en: Bundesbank cuts Germany GDP forecast
+    lead_url: https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-12/germany-to-grow-in-2026-as-spending-offsets-war-bundesbank-says
+    locked_urls:
+      - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+      - https://www.bloomberg.com/news/articles/2026-06-12/germany-to-grow-in-2026-as-spending-offsets-war-bundesbank-says
+    hard_facts:
+      - claim: Bundesbank forecast publication date
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "Bundesbank June 2026 bi-annual forecast"
+      - claim: Germany GDP growth forecast 2026
+        kind: numerical_with_unit
+        value: "0.5%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "GDP growth 0.5% in 2026"
+      - claim: Germany GDP growth forecast 2027
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "GDP growth 0.5% in 2026, 0.8% in 2027"
+      - claim: Germany GDP growth forecast 2028
+        kind: numerical_with_unit
+        value: "1.4%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "GDP growth 0.5% in 2026, 0.8% in 2027, 1.4% in 2028"
+      - claim: Potential output growth per year (low end)
+        kind: numerical_with_unit
+        value: "0.3%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "Potential output growth 0.3–0.4% annually"
+      - claim: Potential output growth per year (high end)
+        kind: numerical_with_unit
+        value: "0.4%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "Potential output growth 0.3–0.4% annually"
+      - claim: HICP inflation forecast 2026
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "HICP inflation: 2.9% 2026"
+      - claim: HICP inflation forecast 2027
+        kind: numerical_with_unit
+        value: "2.7%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "HICP inflation: 2.9% 2026, 2.7% 2027"
+      - claim: HICP inflation forecast 2028
+        kind: numerical_with_unit
+        value: "1.9%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "HICP inflation: 2.9% 2026, 2.7% 2027, 1.9% 2028"
+      - claim: Government deficit ratio by 2028
+        kind: numerical_with_unit
+        value: "4.9%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "Government deficit ratio to reach 4.9% by 2028"
+      - claim: Maastricht debt ratio projection
+        kind: numerical_with_unit
+        value: "70%"
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "Maastricht debt ratio to approach 70%"
+      - claim: Bundesbank President identity
+        kind: named_person
+        value: Joachim Nagel
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "Bundesbank President Joachim Nagel"
+      - claim: Named institution — Bundesbank
+        kind: named_institution
+        value: Bundesbank
+        source_urls:
+          - https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        verbatim_excerpt: "Bundesbank June 2026 bi-annual forecast"
+    quotes:
+      - speaker_name: Joachim Nagel
+        speaker_title: Bundesbank President
+        verbatim_en: "expansionary fiscal policy will prevent a decline in economic output"
+        source_url: https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-energy-price-shock-slowing-down-economic-recovery-964668
+        context: Bundesbank June 2026 bi-annual forecast press release
+
+  - story_id: eurostat-eu-labour-market-flows-q1-2026
+    category: econ
+    headline_en: Eurostat EU labour market flows Q1 2026
+    lead_url: https://ec.europa.eu/eurostat/statistics-explained/index.php/Labour_market_flows_statistics
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://ec.europa.eu/eurostat/statistics-explained/index.php/Labour_market_flows_statistics
+    hard_facts:
+      - claim: Share of Q4 2025 unemployed who found employment in Q1 2026
+        kind: numerical_with_unit
+        value: "22.9%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/statistics-explained/index.php/Labour_market_flows_statistics
+        verbatim_excerpt: "22.9% of people unemployed in Q4 2025 found employment during Q1 2026"
+      - claim: Approximate number of people who found employment Q1 2026
+        kind: numerical_with_unit
+        value: "~3 million people"
+        source_urls:
+          - https://ec.europa.eu/eurostat/statistics-explained/index.php/Labour_market_flows_statistics
+        verbatim_excerpt: "22.9% of people unemployed in Q4 2025 found employment during Q1 2026 (~3 million people)"
+      - claim: Reference quarter for unemployment baseline
+        kind: temporal
+        value: "Q4 2025"
+        source_urls:
+          - https://ec.europa.eu/eurostat/statistics-explained/index.php/Labour_market_flows_statistics
+        verbatim_excerpt: "22.9% of people unemployed in Q4 2025"
+      - claim: Reference quarter for employment transition
+        kind: temporal
+        value: "Q1 2026"
+        source_urls:
+          - https://ec.europa.eu/eurostat/statistics-explained/index.php/Labour_market_flows_statistics
+        verbatim_excerpt: "found employment during Q1 2026"
+      - claim: Named institution — Eurostat
+        kind: named_institution
+        value: Eurostat
+        source_urls:
+          - https://ec.europa.eu/eurostat/statistics-explained/index.php/Labour_market_flows_statistics
+        verbatim_excerpt: "Eurostat Q1 2026 labour market flows"
+    quotes: []
+
+  - story_id: european-stocks-surge-trump-iran-deal
+    category: econ
+    headline_en: European stocks surge on Trump Iran deal
+    lead_url: https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+    body_source: full
+    corroborated_by:
+      - https://money.usnews.com/investing/news/articles/2026-06-12/european-stocks-rally-as-oil-falls-on-hopes-for-us-iran-deal
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+      - https://money.usnews.com/investing/news/articles/2026-06-12/european-stocks-rally-as-oil-falls-on-hopes-for-us-iran-deal
+    hard_facts:
+      - claim: STOXX 600 gain on June 12
+        kind: numerical_with_unit
+        value: "1.7%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+          - https://money.usnews.com/investing/news/articles/2026-06-12/european-stocks-rally-as-oil-falls-on-hopes-for-us-iran-deal
+        verbatim_excerpt: "STOXX 600 advanced 1.7% to 632 points by 0850 GMT June 12"
+      - claim: STOXX 600 level at 0850 GMT June 12
+        kind: numerical
+        value: "632"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "STOXX 600 advanced 1.7% to 632 points by 0850 GMT June 12"
+      - claim: Time of STOXX 600 reading
+        kind: temporal
+        value: "0850 GMT June 12"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "STOXX 600 advanced 1.7% to 632 points by 0850 GMT June 12"
+      - claim: IBEX 35 gain on June 12
+        kind: numerical_with_unit
+        value: "+2.5%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "IBEX 35 +2.5%"
+      - claim: STOXX 600 banks index gain on June 12
+        kind: numerical_with_unit
+        value: "+3.8%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "STOXX 600 banks index +3.8%"
+      - claim: Deutsche Bank share gain on June 12
+        kind: numerical_with_unit
+        value: "+5.4%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Deutsche Bank +5.4%"
+      - claim: Commerzbank share gain on June 12
+        kind: numerical_with_unit
+        value: "+3.8%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Commerzbank +3.8%"
+      - claim: UBS share gain on June 12
+        kind: numerical_with_unit
+        value: "+2.3%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "UBS +2.3%"
+      - claim: Barclays share gain on June 12
+        kind: numerical_with_unit
+        value: "+3%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Barclays and Standard Chartered +3% each"
+      - claim: Standard Chartered share gain on June 12
+        kind: numerical_with_unit
+        value: "+3%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Barclays and Standard Chartered +3% each"
+      - claim: Brent crude price change on June 12
+        kind: numerical_with_unit
+        value: "-4%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+          - https://money.usnews.com/investing/news/articles/2026-06-12/european-stocks-rally-as-oil-falls-on-hopes-for-us-iran-deal
+        verbatim_excerpt: "Brent crude -4%"
+      - claim: S&P 500 gain prior session
+        kind: numerical_with_unit
+        value: "+1.8%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "S&P 500 +1.8%, Nasdaq +2.5% prior session"
+      - claim: Nasdaq gain prior session
+        kind: numerical_with_unit
+        value: "+2.5%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "S&P 500 +1.8%, Nasdaq +2.5% prior session"
+      - claim: Named institution — STOXX 600
+        kind: named_institution
+        value: STOXX 600
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "STOXX 600 advanced 1.7% to 632 points"
+      - claim: Named institution — Deutsche Bank
+        kind: named_institution
+        value: Deutsche Bank
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Deutsche Bank +5.4%"
+      - claim: Named institution — Commerzbank
+        kind: named_institution
+        value: Commerzbank
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Commerzbank +3.8%"
+      - claim: Named institution — UBS
+        kind: named_institution
+        value: UBS
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "UBS +2.3%"
+      - claim: Named institution — Barclays
+        kind: named_institution
+        value: Barclays
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Barclays and Standard Chartered +3% each"
+      - claim: Named institution — Standard Chartered
+        kind: named_institution
+        value: Standard Chartered
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Barclays and Standard Chartered +3% each"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: US President
+        verbatim_en: "We just made a great settlement of the war with Iran… subject to finalisation of documents."
+        source_url: https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        context: public statement on US-Iran deal, June 12 2026
+
+  - story_id: eu-migration-pact-entry-into-application
+    category: politics
+    headline_en: EU Migration Pact entry into application
+    lead_url: https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
+    body_source: full
+    corroborated_by:
+      - https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1285
+    locked_urls:
+      - https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
+      - https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1285
+    hard_facts:
+      - claim: Date EU Pact on Migration and Asylum entered into application
+        kind: temporal
+        value: "June 12 2026"
+        source_urls:
+          - https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
+          - https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1285
+        verbatim_excerpt: "EU Pact on Migration and Asylum entered into application June 12 2026"
+      - claim: Duration of transition period before application
+        kind: temporal
+        value: "two-year transition"
+        source_urls:
+          - https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
+        verbatim_excerpt: "entered into application June 12 2026 after two-year transition"
+      - claim: Number of legislative acts in the Pact
+        kind: numerical
+        value: "10"
+        source_urls:
+          - https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
+        verbatim_excerpt: "10 legislative acts"
+      - claim: Named institution — European Commission
+        kind: named_institution
+        value: European Commission
+        source_urls:
+          - https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
+        verbatim_excerpt: "EU Pact on Migration and Asylum entered into application"
+    quotes: []
+
+  - story_id: ecofin-cbam-luxembourg
+    category: politics
+    headline_en: ECOFIN reaches general approach on CBAM expansion in Luxembourg
+    lead_url: https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+    body_source: full
+    corroborated_by:
+      - https://etaf.tax/weekly-tax-news-monday-8-june-2026/
+    locked_urls:
+      - https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+      - https://etaf.tax/weekly-tax-news-monday-8-june-2026/
+    hard_facts:
+      - claim: Date of ECOFIN meeting
+        kind: temporal
+        value: "June 12 2026"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+        verbatim_excerpt: "ECOFIN June 12 2026 in Luxembourg"
+      - claim: Location of ECOFIN meeting
+        kind: named_institution
+        value: Luxembourg
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+        verbatim_excerpt: "ECOFIN June 12 2026 in Luxembourg"
+      - claim: ECOFIN chair identity
+        kind: named_person
+        value: Cyprus finance minister
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+        verbatim_excerpt: "chaired by Cyprus finance minister"
+      - claim: Countries with approved revised RRPs
+        kind: named_institution
+        value: "Portugal, Slovakia, Spain, Belgium, Poland"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+        verbatim_excerpt: "Approved revised RRPs for Portugal, Slovakia, Spain, Belgium, Poland"
+      - claim: Member state that blocked tobacco taxation compromise
+        kind: named_institution
+        value: Sweden
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+        verbatim_excerpt: "Sweden blocked tobacco taxation compromise on nicotine pouches"
+      - claim: Country whose Excessive Deficit Procedure was formally terminated
+        kind: named_institution
+        value: Malta
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+        verbatim_excerpt: "Council formally terminated Excessive Deficit Procedure for Malta"
+      - claim: Named institution — ECOFIN
+        kind: named_institution
+        value: ECOFIN
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/ecofin/2026/06/12/
+        verbatim_excerpt: "ECOFIN June 12 2026 in Luxembourg"
+    quotes: []
+
+  - story_id: trump-iran-nuclear-deal-announcement
+    category: politics
+    headline_en: Trump Iran nuclear deal announcement
+    lead_url: https://www.tribuneindia.com/news/world/trump-announces-iran-deal-signing-this-weekend-in-europe/
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+    locked_urls:
+      - https://www.tribuneindia.com/news/world/trump-announces-iran-deal-signing-this-weekend-in-europe/
+      - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+    hard_facts:
+      - claim: Announced signing timing
+        kind: temporal
+        value: "this weekend in Europe"
+        source_urls:
+          - https://www.tribuneindia.com/news/world/trump-announces-iran-deal-signing-this-weekend-in-europe/
+        verbatim_excerpt: "documents to be signed \"this weekend in Europe\""
+      - claim: Iran commitment on nuclear weapons
+        kind: named_institution
+        value: Iran
+        source_urls:
+          - https://www.tribuneindia.com/news/world/trump-announces-iran-deal-signing-this-weekend-in-europe/
+        verbatim_excerpt: "Deal includes Iran pledge never to develop nuclear weapons"
+      - claim: US commitment on oil sanctions
+        kind: named_institution
+        value: "US"
+        source_urls:
+          - https://www.tribuneindia.com/news/world/trump-announces-iran-deal-signing-this-weekend-in-europe/
+        verbatim_excerpt: "US commitments to lift oil sanctions"
+      - claim: Iran undertaking on Strait of Hormuz timeline
+        kind: temporal
+        value: "30 days of signing"
+        source_urls:
+          - https://www.tribuneindia.com/news/world/trump-announces-iran-deal-signing-this-weekend-in-europe/
+        verbatim_excerpt: "Iran undertaking to reopen Strait of Hormuz within 30 days of signing"
+      - claim: Named product/location — Strait of Hormuz
+        kind: named_product
+        value: Strait of Hormuz
+        source_urls:
+          - https://www.tribuneindia.com/news/world/trump-announces-iran-deal-signing-this-weekend-in-europe/
+        verbatim_excerpt: "Iran undertaking to reopen Strait of Hormuz within 30 days of signing"
+      - claim: Iran Foreign Ministry characterisation of agreement
+        kind: named_institution
+        value: Iran Foreign Ministry
+        source_urls:
+          - https://www.tribuneindia.com/news/world/trump-announces-iran-deal-signing-this-weekend-in-europe/
+          - https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        verbatim_excerpt: "Iran Foreign Ministry: MoU \"under consideration.\""
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: US President
+        verbatim_en: "We just made a great settlement of the war with Iran… subject to finalisation of documents."
+        source_url: https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal
+        context: public statement on US-Iran deal, June 12 2026
+
+  - story_id: eu-brazil-digital-partnership-virkkunen
+    category: tech
+    headline_en: EU-Brazil Digital Partnership signed; Virkkunen warns of US tech reliance
+    lead_url: https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+    body_source: full
+    corroborated_by:
+      - https://www.miragenews.com/eu-brazil-strengthen-ties-with-digital-pact-1691458/
+      - https://digital-strategy.ec.europa.eu/en/news/eu-and-brazil-strengthen-their-digital-cooperation
+    locked_urls:
+      - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+      - https://www.miragenews.com/eu-brazil-strengthen-ties-with-digital-pact-1691458/
+      - https://digital-strategy.ec.europa.eu/en/news/eu-and-brazil-strengthen-their-digital-cooperation
+    hard_facts:
+      - claim: Date Digital Partnership signed
+        kind: temporal
+        value: "June 12 2026"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+          - https://www.miragenews.com/eu-brazil-strengthen-ties-with-digital-pact-1691458/
+          - https://digital-strategy.ec.europa.eu/en/news/eu-and-brazil-strengthen-their-digital-cooperation
+        verbatim_excerpt: "June 12 2026: European Commission signed Digital Partnership with Brazil in Brasília"
+      - claim: Location of signing
+        kind: named_institution
+        value: "Brasília"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        verbatim_excerpt: "signed Digital Partnership with Brazil in Brasília"
+      - claim: Brazil's ordinal rank among EU digital partners
+        kind: numerical
+        value: "fifth"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+          - https://www.miragenews.com/eu-brazil-strengthen-ties-with-digital-pact-1691458/
+        verbatim_excerpt: "Brazil becomes EU's fifth digital partner"
+      - claim: Prior EU digital partner countries
+        kind: named_institution
+        value: "Japan, Canada, Singapore, South Korea"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        verbatim_excerpt: "fifth digital partner (after Japan, Canada, Singapore, South Korea)"
+      - claim: EU signatory — EVP identity
+        kind: named_person
+        value: Henna Virkkunen
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+          - https://www.miragenews.com/eu-brazil-strengthen-ties-with-digital-pact-1691458/
+        verbatim_excerpt: "Signed by EVP Henna Virkkunen"
+      - claim: Brazil signatory identity
+        kind: named_person
+        value: Alex Giacomelli da Silva
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        verbatim_excerpt: "and Brazil's Secretary Alex Giacomelli da Silva"
+      - claim: Named institution — European Commission
+        kind: named_institution
+        value: European Commission
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        verbatim_excerpt: "June 12 2026: European Commission signed Digital Partnership with Brazil"
+      - claim: Date of mutual adequacy decisions referenced
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        verbatim_excerpt: "Follows January 2026 mutual adequacy decisions"
+      - claim: Percentage of technologies Virkkunen cited as coming from outside Europe
+        kind: numerical_with_unit
+        value: "80 percent"
+        source_urls:
+          - https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        verbatim_excerpt: "\"80 percent of our technologies they are coming from outside of Europe\""
+    quotes:
+      - speaker_name: Henna Virkkunen
+        speaker_title: European Commission Executive Vice-President for Tech Sovereignty
+        verbatim_en: "80 percent of our technologies they are coming from outside of Europe"
+        source_url: https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        context: remarks at EU-Brazil Digital Partnership signing, Brasília, June 12 2026
+      - speaker_name: Henna Virkkunen
+        speaker_title: European Commission Executive Vice-President for Tech Sovereignty
+        verbatim_en: "We don't want to be dependent only on third countries, only on USA companies."
+        source_url: https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        context: remarks at EU-Brazil Digital Partnership signing, Brasília, June 12 2026
+      - speaker_name: Henna Virkkunen
+        speaker_title: European Commission Executive Vice-President for Tech Sovereignty
+        verbatim_en: "Kill switch element to our services."
+        source_url: https://www.freemalaysiatoday.com/category/business/2026/06/12/eu-tech-chief-warns-of-reliance-on-us-companies
+        context: remarks at EU-Brazil Digital Partnership signing, Brasília, June 12 2026
+
+  - story_id: david-hockney-dies-aged-88
+    category: society
+    headline_en: David Hockney dies aged 88
+    lead_url: https://www.newsweek.com/david-hockney-dead-died-88-1
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.newsweek.com/david-hockney-dead-died-88-1
+    hard_facts:
+      - claim: David Hockney's age at death
+        kind: numerical_with_unit
+        value: "88"
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "David Hockney died June 11 2026 aged 88"
+      - claim: Date of death
+        kind: temporal
+        value: "June 11 2026"
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "David Hockney died June 11 2026 aged 88"
+      - claim: Time before his 89th birthday at death
+        kind: temporal
+        value: "one month before his 89th birthday"
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "one month before his 89th birthday"
+      - claim: Newsweek obituary publication time
+        kind: temporal
+        value: "June 12 06:09 EDT"
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "Newsweek published obituary June 12 06:09 EDT"
+      - claim: Named work — A Bigger Splash
+        kind: named_product
+        value: "A Bigger Splash"
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "Works include \"A Bigger Splash\" and \"Portrait of an Artist (Pool with Two Figures).\""
+      - claim: Named work — Portrait of an Artist (Pool with Two Figures)
+        kind: named_product
+        value: "Portrait of an Artist (Pool with Two Figures)"
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "Works include \"A Bigger Splash\" and \"Portrait of an Artist (Pool with Two Figures).\""
+      - claim: Hockney's date of birth
+        kind: temporal
+        value: "July 9 1937"
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "Born Bradford, England, July 9 1937"
+      - claim: Hockney's birthplace
+        kind: named_institution
+        value: "Bradford, England"
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "Born Bradford, England, July 9 1937"
+      - claim: Named person — David Hockney
+        kind: named_person
+        value: David Hockney
+        source_urls:
+          - https://www.newsweek.com/david-hockney-dead-died-88-1
+        verbatim_excerpt: "David Hockney died June 11 2026 aged 88 at his California home"
+    quotes: []
+
+  - story_id: belfast-anti-immigrant-riots-day-4
+    category: society
+    headline_en: Belfast anti-immigrant riots enter fourth day
+    lead_url: https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/world/united-kingdom/belfast-riots-elon-musk-anti-immigrant-violence-stabbing-rcna349384
+      - https://www.npr.org/2026/06/11/g-s1-127401/uk-anti-immigration-protests-belfast
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+      - https://www.nbcnews.com/world/united-kingdom/belfast-riots-elon-musk-anti-immigrant-violence-stabbing-rcna349384
+      - https://www.npr.org/2026/06/11/g-s1-127401/uk-anti-immigration-protests-belfast
+    hard_facts:
+      - claim: Day of riots on June 12
+        kind: temporal
+        value: "fourth day"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "Belfast anti-immigrant riots entered fourth day June 12 2026"
+      - claim: Date riots entered fourth day
+        kind: temporal
+        value: "June 12 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "Belfast anti-immigrant riots entered fourth day June 12 2026"
+      - claim: Number arrested
+        kind: numerical
+        value: "19"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "19 arrested for offences including arson"
+      - claim: Number of families evacuated
+        kind: numerical_with_unit
+        value: "~200 families"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "~200 families evacuated"
+      - claim: Ethnic minority population share in affected areas
+        kind: numerical_with_unit
+        value: "3.4%"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "some from areas with 3.4% ethnic minority population"
+      - claim: Minimum age of participant children
+        kind: numerical
+        value: "10"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "Children as young as 10 participated"
+      - claim: Number of households assisted by NI Housing Executive
+        kind: numerical
+        value: "29"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "NI Housing Executive assisted 29 households"
+      - claim: Date of triggering knife attack
+        kind: temporal
+        value: "June 9"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "Triggered June 9 by knife attack attributed to Sudanese man"
+      - claim: Named person who shared AI-generated list — Tommy Robinson
+        kind: named_person
+        value: Tommy Robinson
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+          - https://www.nbcnews.com/world/united-kingdom/belfast-riots-elon-musk-anti-immigrant-violence-stabbing-rcna349384
+        verbatim_excerpt: "shared by Tommy Robinson and Elon Musk"
+      - claim: Named person who shared AI-generated list — Elon Musk
+        kind: named_person
+        value: Elon Musk
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+          - https://www.nbcnews.com/world/united-kingdom/belfast-riots-elon-musk-anti-immigrant-violence-stabbing-rcna349384
+        verbatim_excerpt: "shared by Tommy Robinson and Elon Musk"
+      - claim: Named institution — NI Housing Executive
+        kind: named_institution
+        value: NI Housing Executive
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "NI Housing Executive assisted 29 households"
+      - claim: Named person — PM Keir Starmer
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "PM Keir Starmer condemned violence as \"totally unjustified.\""
+      - claim: Named person — NI victims commissioner Geraldine Hanna
+        kind: named_person
+        value: Geraldine Hanna
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        verbatim_excerpt: "NI victims commissioner Geraldine Hanna"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: UK Prime Minister
+        verbatim_en: "totally unjustified"
+        source_url: https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        context: condemnation of Belfast riots, June 12 2026
+      - speaker_name: Geraldine Hanna
+        speaker_title: NI victims commissioner
+        verbatim_en: "Basically, on the back of a GIF on social media, Belfast closes down."
+        source_url: https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast
+        context: statement on Belfast anti-immigrant riots, June 12 2026
