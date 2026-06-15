@@ -1,0 +1,637 @@
+version: 1
+generated_at: "2026-06-15T12:00:00Z"
+country: United Kingdom
+date: "2026-06-15"
+total_stories: 5
+stories:
+  - story_id: ftse-100-jumps-us-iran-peace-deal-oil
+    category: econ
+    headline_en: FTSE 100 jumps as US-Iran peace deal sends oil prices tumbling to three-month lows
+    lead_url: https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+    body_source: full
+    corroborated_by:
+      - https://www.investing.com/news/stock-market-news/ftse-100-rises-as-us-iran-peace-deal-signals-hormuz-reopening
+      - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+    locked_urls:
+      - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+      - https://www.investing.com/news/stock-market-news/ftse-100-rises-as-us-iran-peace-deal-signals-hormuz-reopening
+      - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+    hard_facts:
+      - claim: FTSE 100 pre-market gain
+        kind: numerical_with_unit
+        value: "0.9%"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "The FTSE 100 was called 0.9% higher in pre-market trading on June 15, 2026"
+      - claim: date of FTSE 100 pre-market gain
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "pre-market trading on June 15, 2026"
+      - claim: Brent crude price decline percentage
+        kind: numerical_with_unit
+        value: "4–4.5%"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Brent crude fell approximately 4–4.5% to around $83–$83.88 per barrel"
+      - claim: Brent crude price level
+        kind: numerical_with_unit
+        value: "$83–$83.88 per barrel"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Brent crude fell approximately 4–4.5% to around $83–$83.88 per barrel, a three-month low"
+      - claim: WTI crude price level
+        kind: numerical_with_unit
+        value: "$80.80"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "WTI fell to approximately $80.80"
+      - claim: BP share decline
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "BP declined roughly 2.9%"
+      - claim: Shell share decline
+        kind: numerical_with_unit
+        value: "2.4%"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "Shell slipped roughly 2.4%"
+      - claim: Japan Nikkei gain
+        kind: numerical_with_unit
+        value: "+5.5%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Japan's Nikkei +5.5%"
+      - claim: South Korea Kospi gain
+        kind: numerical_with_unit
+        value: "+5.7%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "South Korea's Kospi +5.7%"
+      - claim: US S&P 500 futures gain
+        kind: numerical_with_unit
+        value: "approximately 1.5%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "US S&P 500 futures rose approximately 1.5%"
+      - claim: frozen Iranian funds released
+        kind: numerical_with_unit
+        value: "$24 billion"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "release of $24 billion in frozen Iranian funds"
+      - claim: Hormuz reopening timeframe
+        kind: temporal
+        value: "within 30 days"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "reopening of the Strait of Hormuz within 30 days"
+      - claim: formal signing date and location
+        kind: temporal
+        value: "Friday in Switzerland"
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "formal signing scheduled for Friday in Switzerland"
+      - claim: named person — US President
+        kind: named_person
+        value: Trump
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "President Trump's announcement of a US-Iran peace deal"
+      - claim: named institution — BP
+        kind: named_institution
+        value: BP
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "BP declined roughly 2.9%"
+      - claim: named institution — Shell
+        kind: named_institution
+        value: Shell
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "Shell slipped roughly 2.4%"
+      - claim: named product — Brent crude
+        kind: named_product
+        value: Brent crude
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "Brent crude fell approximately 4–4.5% to around $83–$83.88 per barrel"
+      - claim: named product — WTI
+        kind: named_product
+        value: WTI
+        source_urls:
+          - https://www.lse.co.uk/SharesAndMarkets/index/ftse-100/
+        verbatim_excerpt: "WTI fell to approximately $80.80"
+      - claim: named institution — Nikkei index
+        kind: named_product
+        value: Nikkei
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Japan's Nikkei +5.5%"
+      - claim: named institution — Kospi index
+        kind: named_product
+        value: Kospi
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "South Korea's Kospi +5.7%"
+    quotes: []
+
+  - story_id: uk-joins-e4-group-iran-deal-hormuz
+    category: politics
+    headline_en: UK joins E4 group demanding swift Iran deal implementation and unconditional Hormuz reopening
+    lead_url: https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/6/15/world-reacts-as-iran-and-us-reach-tentative-deal
+      - https://www.cnbc.com/amp/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html
+    locked_urls:
+      - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+      - https://www.aljazeera.com/news/2026/6/15/world-reacts-as-iran-and-us-reach-tentative-deal
+      - https://www.cnbc.com/amp/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html
+    hard_facts:
+      - claim: date of UK/E4 statement
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        verbatim_excerpt: "Prime Minister Keir Starmer stated on June 15, 2026"
+      - claim: named person — UK Prime Minister
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        verbatim_excerpt: "Prime Minister Keir Starmer stated on June 15, 2026"
+      - claim: named institution — E4 group members (France)
+        kind: named_institution
+        value: France
+        source_urls:
+          - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        verbatim_excerpt: "UK joined France, Germany and Italy as E4 group"
+      - claim: named institution — E4 group members (Germany)
+        kind: named_institution
+        value: Germany
+        source_urls:
+          - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        verbatim_excerpt: "UK joined France, Germany and Italy as E4 group"
+      - claim: named institution — E4 group members (Italy)
+        kind: named_institution
+        value: Italy
+        source_urls:
+          - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        verbatim_excerpt: "UK joined France, Germany and Italy as E4 group"
+      - claim: frozen Iranian assets released
+        kind: numerical_with_unit
+        value: "$24 billion"
+        source_urls:
+          - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        verbatim_excerpt: "release of $24 billion in frozen Iranian assets"
+      - claim: ceasefire duration
+        kind: temporal
+        value: "60-day ceasefire"
+        source_urls:
+          - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        verbatim_excerpt: "a 60-day ceasefire"
+      - claim: formal signing date and location
+        kind: temporal
+        value: "Friday in Switzerland"
+        source_urls:
+          - https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        verbatim_excerpt: "formal signing Friday in Switzerland"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister of the United Kingdom
+        verbatim_en: "must stay open"
+        source_url: https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        context: "June 15, 2026 statement on the Strait of Hormuz"
+      - speaker_name: E4 group
+        speaker_title: Joint statement of UK, France, Germany, Italy
+        verbatim_en: "a moment of opportunity to restore regional stability and stabilise the global economy"
+        source_url: https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        context: "E4 joint statement welcoming the US-Iran deal, June 15, 2026"
+      - speaker_name: E4 group
+        speaker_title: Joint statement of UK, France, Germany, Italy
+        verbatim_en: "clear and verifiable steps taken by Iran regarding its nuclear program"
+        source_url: https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        context: "E4 joint statement on conditions for sanctions lifting, June 15, 2026"
+      - speaker_name: E4 group
+        speaker_title: Joint statement of UK, France, Germany, Italy
+        verbatim_en: "urgent reopening of the Strait of Hormuz with unconditional and unrestricted freedom of navigation"
+        source_url: https://www.lbc.co.uk/news/world/keir-starmer-strait-of-hormuz-iran-us-deal/
+        context: "E4 joint statement demand for Hormuz reopening, June 15, 2026"
+
+  - story_id: uk-pm-bans-social-media-under-16s
+    category: society
+    headline_en: UK PM announces ban on social media for under-16s covering TikTok, Instagram, Snapchat, YouTube and X
+    lead_url: https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s
+      - https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban
+      - https://www.euronews.com/my-europe/2026/06/15/uk-keir-starmer-announces-social-media-ban-for-under-16-year-olds
+    locked_urls:
+      - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+      - https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s
+      - https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban
+      - https://www.euronews.com/my-europe/2026/06/15/uk-keir-starmer-announces-social-media-ban-for-under-16-year-olds
+    hard_facts:
+      - claim: date and time of Starmer's announcement
+        kind: temporal
+        value: "June 15, 2026 (09:47 BST)"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "PM Keir Starmer announced at Downing Street press conference on June 15, 2026"
+      - claim: named person — UK Prime Minister
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "PM Keir Starmer announced at Downing Street press conference"
+      - claim: age threshold for ban
+        kind: numerical
+        value: "under 16"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "ban children under 16 from TikTok, Snapchat, Instagram, Facebook, X, and YouTube"
+      - claim: named product — TikTok
+        kind: named_product
+        value: TikTok
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "ban children under 16 from TikTok, Snapchat, Instagram, Facebook, X, and YouTube"
+      - claim: named product — Snapchat
+        kind: named_product
+        value: Snapchat
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "ban children under 16 from TikTok, Snapchat, Instagram, Facebook, X, and YouTube"
+      - claim: named product — Instagram
+        kind: named_product
+        value: Instagram
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "ban children under 16 from TikTok, Snapchat, Instagram, Facebook, X, and YouTube"
+      - claim: named product — Facebook
+        kind: named_product
+        value: Facebook
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "ban children under 16 from TikTok, Snapchat, Instagram, Facebook, X, and YouTube"
+      - claim: named product — X (social platform)
+        kind: named_product
+        value: X
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "ban children under 16 from TikTok, Snapchat, Instagram, Facebook, X, and YouTube"
+      - claim: named product — YouTube
+        kind: named_product
+        value: YouTube
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "ban children under 16 from TikTok, Snapchat, Instagram, Facebook, X, and YouTube"
+      - claim: named product — YouTube Kids (excluded)
+        kind: named_product
+        value: YouTube Kids
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "YouTube Kids and messaging (WhatsApp, Signal) excluded"
+      - claim: named product — WhatsApp (excluded)
+        kind: named_product
+        value: WhatsApp
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "YouTube Kids and messaging (WhatsApp, Signal) excluded"
+      - claim: named product — Signal (excluded)
+        kind: named_product
+        value: Signal
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "YouTube Kids and messaging (WhatsApp, Signal) excluded"
+      - claim: legislation deadline
+        kind: temporal
+        value: "before Christmas 2026"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "Legislation before Christmas 2026"
+      - claim: ban effective date
+        kind: temporal
+        value: "spring 2027"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "ban takes effect spring 2027"
+      - claim: age threshold for overnight curfew measure
+        kind: numerical
+        value: "under-18s"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "overnight curfews for under-18s"
+      - claim: number of consultation responses
+        kind: numerical
+        value: "116,000"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "Consultation: 116,000 responses"
+      - claim: percentage of parents agreeing social media dangers outweigh benefits
+        kind: numerical_with_unit
+        value: "85%"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "85% of parents agree social media's dangers outweigh benefits"
+      - claim: Australia ban date (comparator)
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "UK follows Australia (December 2025)"
+      - claim: Canada legislation date (comparator)
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "Canada introduced comparable legislation June 2026"
+      - claim: named institution — NSPCC
+        kind: named_institution
+        value: NSPCC
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "NSPCC and Molly Rose Foundation warned ban risks isolating disabled and LGBTQIA young people"
+      - claim: named institution — Molly Rose Foundation
+        kind: named_institution
+        value: Molly Rose Foundation
+        source_urls:
+          - https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        verbatim_excerpt: "NSPCC and Molly Rose Foundation warned ban risks isolating disabled and LGBTQIA young people"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister of the United Kingdom
+        verbatim_en: "It is clear to me a full ban is the right choice."
+        source_url: https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d
+        context: "Downing Street press conference, June 15, 2026"
+
+  - story_id: frasers-hostile-takeover-accent-group
+    category: ipo_ma
+    headline_en: Frasers Group launches hostile all-cash takeover offer for Australian retailer Accent Group at A$0.65/share (~£166m)
+    lead_url: https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+    body_source: full
+    corroborated_by:
+      - https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110
+      - https://insideretail.com.au/business/financial/frasers-plots-takeover-of-accent-group-amid-significant-concerns-202606
+    locked_urls:
+      - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+      - https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110
+      - https://insideretail.com.au/business/financial/frasers-plots-takeover-of-accent-group-amid-significant-concerns-202606
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "announced June 15, 2026 an all-cash on-market takeover offer"
+      - claim: offer price per share
+        kind: numerical_with_unit
+        value: "A$0.65/share"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+          - https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110
+        verbatim_excerpt: "Offer A$0.65/share — closing market price"
+      - claim: value of remaining stake in GBP
+        kind: numerical_with_unit
+        value: "~£166m"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "valuing remaining stake ~A$316m (~£166m)"
+      - claim: value of remaining stake in AUD
+        kind: numerical_with_unit
+        value: "~A$316m"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "valuing remaining stake ~A$316m (~£166m)"
+      - claim: Frasers existing shareholding in Accent
+        kind: numerical_with_unit
+        value: "22.90%"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+          - https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110
+        verbatim_excerpt: "Frasers holds 22.90%"
+      - claim: proportion of Accent shares targeted
+        kind: numerical_with_unit
+        value: "~77.1%"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "targeting all shares Frasers does not already own (~77.1%)"
+      - claim: offer open date
+        kind: temporal
+        value: "June 30"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+          - https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110
+        verbatim_excerpt: "Formal offer opens June 30"
+      - claim: offer close date
+        kind: temporal
+        value: "July 30, 2026"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+          - https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110
+        verbatim_excerpt: "closes July 30, 2026"
+      - claim: Accent NPAT decline in H1 FY26
+        kind: numerical_with_unit
+        value: "40.5%"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+          - https://insideretail.com.au/business/financial/frasers-plots-takeover-of-accent-group-amid-significant-concerns-202606
+        verbatim_excerpt: "40.5% decline in NPAT in H1 FY26"
+      - claim: shareholder vote against remuneration report
+        kind: numerical_with_unit
+        value: "82%"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+          - https://insideretail.com.au/business/financial/frasers-plots-takeover-of-accent-group-amid-significant-concerns-202606
+        verbatim_excerpt: "82% shareholder vote against Accent's remuneration report"
+      - claim: number of Accent stores
+        kind: numerical_with_unit
+        value: "800+"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Accent operates 800+ stores"
+      - claim: Frasers Hugo Boss bid value
+        kind: numerical_with_unit
+        value: "£1.7bn"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Frasers also pursuing £1.7bn Hugo Boss bid (June 10)"
+      - claim: date of Hugo Boss bid
+        kind: temporal
+        value: "June 10"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "£1.7bn Hugo Boss bid (June 10)"
+      - claim: named person — Frasers Group controller
+        kind: named_person
+        value: Mike Ashley
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Frasers Group plc (controlled by Mike Ashley)"
+      - claim: named person — Accent Group CEO
+        kind: named_person
+        value: Daniel Agostinelli
+        source_urls:
+          - https://insideretail.com.au/business/financial/frasers-plots-takeover-of-accent-group-amid-significant-concerns-202606
+        verbatim_excerpt: "insider-trading investigation involving CEO Daniel Agostinelli"
+      - claim: named institution — Frasers Group plc
+        kind: named_institution
+        value: Frasers Group plc
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+          - https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110
+        verbatim_excerpt: "UK retailer Frasers Group plc (controlled by Mike Ashley)"
+      - claim: named institution — Accent Group Limited (ASX)
+        kind: named_institution
+        value: "Accent Group Limited (ASX: AX1)"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+          - https://www.investegate.co.uk/announcement/rns/frasers-group--fras/takeover-offer-for-accent-group-limited-/9617110
+        verbatim_excerpt: "Australian footwear/apparel retailer Accent Group Limited (ASX: AX1)"
+      - claim: named institution — STRABAG UK (acquirer, referenced as comparator for Mike Ashley)
+        kind: named_institution
+        value: Barrenjoey Markets
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Barrenjoey Markets appointed broker"
+      - claim: named product — Hype DC
+        kind: named_product
+        value: Hype DC
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Accent operates 800+ stores under Hype DC, Platypus, Skechers, The Athlete's Foot"
+      - claim: named product — Platypus
+        kind: named_product
+        value: Platypus
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Accent operates 800+ stores under Hype DC, Platypus, Skechers, The Athlete's Foot"
+      - claim: named product — Skechers
+        kind: named_product
+        value: Skechers
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Accent operates 800+ stores under Hype DC, Platypus, Skechers, The Athlete's Foot"
+      - claim: named product — The Athlete's Foot
+        kind: named_product
+        value: "The Athlete's Foot"
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Accent operates 800+ stores under Hype DC, Platypus, Skechers, The Athlete's Foot"
+      - claim: named institution — Hugo Boss
+        kind: named_institution
+        value: Hugo Boss
+        source_urls:
+          - https://businesscloud.co.uk/news/frasers-group-plots-166m-hostile-takeover/
+        verbatim_excerpt: "Frasers also pursuing £1.7bn Hugo Boss bid (June 10)"
+    quotes: []
+
+  - story_id: strabag-uk-van-elle-58m-acquisition
+    category: ipo_ma
+    headline_en: "STRABAG UK's £58.8m acquisition of Van Elle Holdings becomes effective on Companies House registration"
+    lead_url: https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+      - https://www.newcivilengineer.com/latest/strabag-uk-acquires-van-elle-holdings-valuing-the-company-at-58-8m-09-04-2026/
+    locked_urls:
+      - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+      - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+      - https://www.newcivilengineer.com/latest/strabag-uk-acquires-van-elle-holdings-valuing-the-company-at-58-8m-09-04-2026/
+    hard_facts:
+      - claim: effective date of acquisition
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "became effective June 15, 2026 on Scheme Court Order delivery to Registrar of Companies"
+      - claim: scheme court sanction date
+        kind: temporal
+        value: "June 11, 2026"
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "Scheme court-sanctioned June 11, 2026"
+      - claim: offer price per share
+        kind: numerical_with_unit
+        value: "£0.523/share"
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "Shareholders receive £0.523/share"
+      - claim: Van Elle fully diluted valuation
+        kind: numerical_with_unit
+        value: "~£58.8m"
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "valuing Van Elle ~£58.8m fully diluted"
+      - claim: court meeting approval percentage
+        kind: numerical_with_unit
+        value: "99.96%"
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "Court meeting: 99.96% in favour"
+      - claim: GM special resolution approval percentage
+        kind: numerical_with_unit
+        value: "99.94%"
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "GM special resolution: 99.94%"
+      - claim: Van Elle AIM suspension time
+        kind: temporal
+        value: "7:30 a.m. June 15"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "Van Elle shares suspended from AIM 7:30 a.m. June 15"
+      - claim: expected AIM admission cancellation time
+        kind: temporal
+        value: "7:00 a.m. June 16, 2026"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "AIM admission cancellation expected 7:00 a.m. June 16, 2026"
+      - claim: named institution — STRABAG UK Limited
+        kind: named_institution
+        value: STRABAG UK Limited
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "STRABAG UK Limited (subsidiary of STRABAG SE, Austria)"
+      - claim: named institution — STRABAG SE (parent)
+        kind: named_institution
+        value: STRABAG SE
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+        verbatim_excerpt: "subsidiary of STRABAG SE, Austria"
+      - claim: named institution — Van Elle Holdings PLC
+        kind: named_institution
+        value: Van Elle Holdings PLC
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "AIM-listed Van Elle Holdings PLC"
+      - claim: named institution — AIM market (listing venue)
+        kind: named_institution
+        value: AIM
+        source_urls:
+          - https://www.constructionnews.co.uk/financial/ma/strabags-van-elle-acquisition-close-to-completion-11-06-2026/
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "AIM-listed Van Elle Holdings PLC"
+      - claim: named institution — Registrar of Companies
+        kind: named_institution
+        value: Registrar of Companies
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/van-elle-holdings--vanl/court-sanction-of-scheme/9614200
+        verbatim_excerpt: "Scheme Court Order delivery to Registrar of Companies"
+    quotes: []

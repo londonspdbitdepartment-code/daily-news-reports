@@ -1,0 +1,1359 @@
+version: 1
+generated_at: "2026-06-15T12:00:00Z"
+country: United States
+date: 2026-06-15
+total_stories: 13
+stories:
+  - story_id: global-markets-rally-oil-tumbles-us-iran-peace-deal
+    category: econ
+    headline_en: "Global Markets Rally, Oil Tumbles as US and Iran Announce Framework Peace Deal and Strait of Hormuz Reopening"
+    lead_url: https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+    body_source: full
+    corroborated_by:
+      - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+      - https://www.bloomberg.com/
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+      - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+      - https://www.bloomberg.com/
+    hard_facts:
+      - claim: Japan Nikkei 225 index gain
+        kind: numerical_with_unit
+        value: "5.5 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Japan's Nikkei 225 index climbed 5.5 percent during morning trading"
+      - claim: South Korea Kospi gain
+        kind: numerical_with_unit
+        value: "5.7 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "South Korea's Kospi jumped as much as 5.7 percent"
+      - claim: Taiwan Taiex gain
+        kind: numerical_with_unit
+        value: "approximately 2.7 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Taiwan's Taiex advanced approximately 2.7 percent"
+      - claim: Australia ASX200 gain
+        kind: numerical_with_unit
+        value: "roughly 1.5 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Australia's ASX200 rose roughly 1.5 percent"
+      - claim: Hong Kong Hang Seng Index initial gain
+        kind: numerical_with_unit
+        value: "about 1 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Hong Kong's Hang Seng Index initially gained about 1 percent before surrendering most gains"
+      - claim: S&P 500 futures increase
+        kind: numerical_with_unit
+        value: "around 1 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "S&P 500 futures increasing around 1 percent"
+      - claim: Nasdaq Composite futures rise
+        kind: numerical_with_unit
+        value: "approximately 1.8 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Nasdaq Composite futures rising approximately 1.8 percent"
+      - claim: Nasdaq 100 futures surge
+        kind: numerical_with_unit
+        value: "1.97%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Nasdaq 100 futures surged by 1.97%"
+      - claim: Dow futures increase
+        kind: numerical_with_unit
+        value: "0.95%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Dow futures increasing by 0.95%"
+      - claim: Brent crude price fall
+        kind: numerical_with_unit
+        value: "about 4.5 percent to below $83.40 per barrel"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Brent crude, the global oil benchmark, fell about 4.5 percent to below $83.40 per barrel"
+      - claim: Strait of Hormuz share of global oil and LNG
+        kind: numerical_with_unit
+        value: "about 20 percent"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "the Strait of Hormuz closure, which before the war handled about 20 percent of global oil and liquefied natural gas"
+      - claim: Daily oil shortfall from Strait of Hormuz closure
+        kind: numerical_with_unit
+        value: "14-million-barrel daily shortfall"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "a 14-million-barrel daily shortfall according to the International Energy Agency"
+      - claim: SpaceX (SPCX) stock premarket gain
+        kind: numerical_with_unit
+        value: "5.3 percent to $169.48"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "The SpaceX stock (SPCX) rose 5.3 percent to $169.48 in premarket trading"
+      - claim: US Federal Reserve FOMC meeting dates
+        kind: temporal
+        value: "June 16-17"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "the US Federal Reserve, which meets June 16-17 for a rate decision"
+      - claim: Named person — Fed Chair
+        kind: named_person
+        value: "Kevin Warsh"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "that will be Kevin Warsh's first as Fed Chair"
+      - claim: Named institution — International Energy Agency
+        kind: named_institution
+        value: "International Energy Agency"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "a 14-million-barrel daily shortfall according to the International Energy Agency"
+      - claim: Named institution — ANZ
+        kind: named_institution
+        value: "ANZ"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "According to Khoon Goh, head of Asia research for ANZ"
+      - claim: Named person — Khoon Goh
+        kind: named_person
+        value: "Khoon Goh"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "According to Khoon Goh, head of Asia research for ANZ"
+      - claim: Named product — SpaceX stock ticker
+        kind: named_product
+        value: "SPCX"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "The SpaceX stock (SPCX) rose 5.3 percent to $169.48 in premarket trading"
+      - claim: Market rally date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Asian-Pacific markets experienced significant rallies on June 15, 2026"
+    quotes:
+      - speaker_name: Khoon Goh
+        speaker_title: Head of Asia research, ANZ
+        verbatim_en: "actual confirmation spurred a further rally"
+        source_url: https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        context: Commenting on market reaction to US-Iran peace deal announcement
+      - speaker_name: Khoon Goh
+        speaker_title: Head of Asia research, ANZ
+        verbatim_en: "provide some relief for central banks around the world who were worried about the inflation outlook"
+        source_url: https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        context: Describing impact of falling oil prices on central banks
+
+  - story_id: kevin-warsh-inaugural-fomc-meeting-fed-rate-decision
+    category: econ
+    headline_en: "Kevin Warsh's Inaugural FOMC Meeting and Fed Rate Decision Loom as Iran Deal Reshapes Inflation Outlook"
+    lead_url: https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+    body_source: full
+    corroborated_by:
+      - https://www.federalreserve.gov/
+    locked_urls:
+      - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+      - https://www.federalreserve.gov/
+    hard_facts:
+      - claim: Named person — Fed Chair Kevin Warsh
+        kind: named_person
+        value: "Kevin Warsh"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "Kevin Warsh's first Federal Open Market Committee meeting as Federal Reserve Chair concluding June 17"
+      - claim: FOMC meeting conclusion date
+        kind: temporal
+        value: "June 17"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "Kevin Warsh's first Federal Open Market Committee meeting as Federal Reserve Chair concluding June 17"
+      - claim: Probability of Fed rate hold
+        kind: numerical_with_unit
+        value: "near 99 percent probability"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "Markets are pricing a near 99 percent probability that the Fed Rate stays in the 3.50%–3.75% range"
+      - claim: Current Fed rate range
+        kind: numerical_with_unit
+        value: "3.50%–3.75%"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "the Fed Rate stays in the 3.50%–3.75% range — the rate that has held since the previous three consecutive meetings"
+      - claim: Number of consecutive meetings at current rate
+        kind: numerical
+        value: "three consecutive meetings"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "the rate that has held since the previous three consecutive meetings"
+      - claim: May inflation year-over-year
+        kind: numerical_with_unit
+        value: "4.2 percent year-over-year"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "May's inflation data remains elevated at 4.2 percent year-over-year"
+      - claim: Fed inflation target
+        kind: numerical_with_unit
+        value: "2 percent"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "well above the Fed's 2 percent target"
+      - claim: Odds of Fed hike before year-end
+        kind: numerical_with_unit
+        value: "above 50 percent"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "The odds of the Fed hiking at least once before year-end now above 50 percent"
+      - claim: US market closure date for Juneteenth
+        kind: temporal
+        value: "Friday June 19"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "US markets close Friday June 19 for Juneteenth"
+      - claim: US crude oil price as of June 14
+        kind: numerical_with_unit
+        value: "$82.83"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "USCrude was trading at $82.83 as of June 14"
+      - claim: Named institution — Federal Open Market Committee
+        kind: named_institution
+        value: "Federal Open Market Committee"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "Kevin Warsh's first Federal Open Market Committee meeting as Federal Reserve Chair"
+      - claim: Named institution — Federal Reserve
+        kind: named_institution
+        value: "Federal Reserve"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "Kevin Warsh's first Federal Open Market Committee meeting as Federal Reserve Chair"
+      - claim: Named institution — Lennar
+        kind: named_institution
+        value: "Lennar"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "earnings from Lennar, Kroger, and FedEx"
+      - claim: Named institution — Kroger
+        kind: named_institution
+        value: "Kroger"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "earnings from Lennar, Kroger, and FedEx"
+      - claim: Named institution — FedEx
+        kind: named_institution
+        value: "FedEx"
+        source_urls:
+          - https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        verbatim_excerpt: "earnings from Lennar, Kroger, and FedEx"
+    quotes:
+      - speaker_name: Anonymous analyst
+        speaker_title: Unattributed
+        verbatim_en: "If Iran tensions truly ease, the case for a rate hike could fade with them."
+        source_url: https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/
+        context: Analyst comment on impact of US-Iran peace deal on Fed rate hike probability
+
+  - story_id: us-federal-deficit-1-2-trillion-fy2026-debt-tops-39-2-trillion
+    category: econ
+    headline_en: "US Federal Deficit Reaches $1.2 Trillion for First Eight Months of FY2026; Debt Tops $39.2 Trillion"
+    lead_url: https://home.treasury.gov/news/press-releases/sb0486
+    body_source: full
+    corroborated_by:
+      - https://www.crfb.org/
+      - https://www.cbo.gov/
+    locked_urls:
+      - https://home.treasury.gov/news/press-releases/sb0486
+      - https://www.crfb.org/
+      - https://www.cbo.gov/
+    hard_facts:
+      - claim: US federal borrowing first eight months FY2026
+        kind: numerical_with_unit
+        value: "$1.2 trillion"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "US federal government borrowed $1.2 trillion in the first eight months of fiscal year 2026"
+      - claim: FY2026 period covered
+        kind: temporal
+        value: "October 2025 through May 2026"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "the first eight months of fiscal year 2026 (October 2025 through May 2026)"
+      - claim: May 2026 borrowing
+        kind: numerical_with_unit
+        value: "$293 billion"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "including $293 billion in May alone"
+      - claim: Total US debt as of June 11, 2026
+        kind: numerical_with_unit
+        value: "$39.22 trillion"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "Total US debt stood at $39.22 trillion as of June 11, 2026"
+      - claim: Debt measurement date
+        kind: temporal
+        value: "June 11, 2026"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "Total US debt stood at $39.22 trillion as of June 11, 2026"
+      - claim: CBO full-year FY2026 deficit projection
+        kind: numerical_with_unit
+        value: "$1.9 trillion"
+        source_urls:
+          - https://www.cbo.gov/
+        verbatim_excerpt: "The full-year FY2026 deficit is projected by the Congressional Budget Office at $1.9 trillion"
+      - claim: Treasury projection for FY2026 deficit
+        kind: numerical_with_unit
+        value: "$2 trillion"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "Treasury's own quarterly refunding documents indicating it could reach $2 trillion"
+      - claim: GDP deficit target
+        kind: numerical_with_unit
+        value: "3 percent of GDP"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "double the 3 percent of GDP target"
+      - claim: Business fixed investment growth Q1 2026
+        kind: numerical_with_unit
+        value: "over 10 percent"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "Business fixed investment rose by over 10 percent in Q1 2026"
+      - claim: Private payroll growth multiple Q1 2026 vs 2025
+        kind: numerical_with_unit
+        value: "over 2.5 times above the monthly average in 2025"
+        source_urls:
+          - https://home.treasury.gov/news/press-releases/sb0486
+        verbatim_excerpt: "Average monthly private payroll growth surged in Q1 2026 to over 2.5 times above the monthly average in 2025"
+      - claim: Projected publicly held debt as share of economy in 2036
+        kind: numerical_with_unit
+        value: "123 percent of the size of the economy in 2036"
+        source_urls:
+          - https://www.cbo.gov/
+        verbatim_excerpt: "reaching 123 percent of the size of the economy in 2036"
+      - claim: Named institution — Congressional Budget Office
+        kind: named_institution
+        value: "Congressional Budget Office"
+        source_urls:
+          - https://www.cbo.gov/
+        verbatim_excerpt: "projected by the Congressional Budget Office at $1.9 trillion"
+    quotes: []
+
+  - story_id: us-iran-formally-announce-peace-deal
+    category: politics
+    headline_en: "US and Iran Formally Announce Peace Deal"
+    lead_url: https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/15/nx-s1-5858590
+      - https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/
+      - https://abcnews.com/
+    locked_urls:
+      - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+      - https://www.npr.org/2026/06/15/nx-s1-5858590
+      - https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/
+      - https://abcnews.com/
+    hard_facts:
+      - claim: Deal announcement date
+        kind: temporal
+        value: "early June 15, 2026"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "President Trump declared on social media early June 15, 2026, that the agreement with Iran \"is now complete.\""
+      - claim: Official signing ceremony date
+        kind: temporal
+        value: "Friday, June 19"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "The official signing ceremony is scheduled for Friday, June 19, in Switzerland"
+      - claim: Signing ceremony location
+        kind: named_institution
+        value: "Switzerland"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "The official signing ceremony is scheduled for Friday, June 19, in Switzerland"
+      - claim: Accord name
+        kind: named_product
+        value: "Islamabad declaration"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "the accord named the \"Islamabad declaration\" in recognition of Pakistan's mediating role"
+      - claim: Duration of Qatar negotiations in Tehran
+        kind: numerical_with_unit
+        value: "17 hours"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "Qatar's representatives completed 17 hours of intensive negotiations in Tehran"
+      - claim: Iran frozen funds to be received
+        kind: numerical_with_unit
+        value: "half of its roughly $24 billion in long-frozen funds"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "Iran's Revolutionary Guard said the country will receive half of its roughly $24 billion in long-frozen funds"
+      - claim: Nuclear program negotiation window
+        kind: numerical_with_unit
+        value: "60-day negotiation window"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "Nuclear program talks are deferred to the 60-day negotiation window"
+      - claim: War start date
+        kind: temporal
+        value: "February 28, 2026"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "The war began February 28, 2026, when the US and Israel launched coordinated strikes across Iran"
+      - claim: Named person — President Trump
+        kind: named_person
+        value: "Trump"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "President Trump declared on social media early June 15, 2026"
+      - claim: Named person — Pakistani Prime Minister Shehbaz Sharif
+        kind: named_person
+        value: "Shehbaz Sharif"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "according to Trump and Pakistani Prime Minister Shehbaz Sharif"
+      - claim: Named person — Iran's deputy Foreign Minister Kazem Gharibabadi
+        kind: named_person
+        value: "Kazem Gharibabadi"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "Iran's deputy Foreign Minister Kazem Gharibabadi confirmed the memorandum's finalization"
+      - claim: Named person — Supreme Leader Ayatollah Ali Khamenei
+        kind: named_person
+        value: "Ayatollah Ali Khamenei"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "following the assassination of Supreme Leader Ayatollah Ali Khamenei"
+      - claim: Named institution — Iran's Revolutionary Guard
+        kind: named_institution
+        value: "Iran's Revolutionary Guard"
+        source_urls:
+          - https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        verbatim_excerpt: "Iran's Revolutionary Guard said the country will receive half of its roughly $24 billion in long-frozen funds"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "is now complete."
+        source_url: https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        context: Trump's social media declaration on June 15, 2026 about the US-Iran agreement
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "I hereby fully authorize the toll free opening of the Strait of Hormuz, and…authorize the immediate removal of the United States Naval blockade."
+        source_url: https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        context: Trump's social media post authorizing reopening of the Strait of Hormuz
+      - speaker_name: Kazem Gharibabadi
+        speaker_title: Deputy Foreign Minister, Iran
+        verbatim_en: "does not signify trust in the enemy and was drafted in an atmosphere of continued distrust."
+        source_url: https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/
+        context: Iran's deputy FM confirming finalization of memorandum
+
+  - story_id: israel-denounces-trump-iran-deal-netanyahu-lebanon
+    category: politics
+    headline_en: "Israel Denounces Trump's Iran Deal; Netanyahu Says Israel Not Bound by Lebanon Ceasefire Provisions"
+    lead_url: https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.timesofisrael.com/liveblog-june-15-2026/
+      - https://www.cbsnews.com/
+      - https://abcnews.com/
+    locked_urls:
+      - https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/
+      - https://www.timesofisrael.com/liveblog-june-15-2026/
+      - https://www.cbsnews.com/
+      - https://abcnews.com/
+    hard_facts:
+      - claim: Named person — Prime Minister Benjamin Netanyahu
+        kind: named_person
+        value: "Benjamin Netanyahu"
+        source_urls:
+          - https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/
+        verbatim_excerpt: "Prime Minister Benjamin Netanyahu had privately informed Trump that Israel will not withdraw its troops from Lebanon"
+      - claim: Named person — Trump
+        kind: named_person
+        value: "Trump"
+        source_urls:
+          - https://www.timesofisrael.com/liveblog-june-15-2026/
+        verbatim_excerpt: "Trump's characterization of Netanyahu as a \"very difficult guy\""
+      - claim: Israel position on Lebanon troop withdrawal
+        kind: named_institution
+        value: "Israel"
+        source_urls:
+          - https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/
+        verbatim_excerpt: "Israel will not withdraw its troops from Lebanon and does not consider itself bound by those provisions of the deal"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "very difficult guy"
+        source_url: https://www.timesofisrael.com/liveblog-june-15-2026/
+        context: Trump's characterization of Israeli Prime Minister Netanyahu, cited by Times of Israel liveblog June 15
+
+  - story_id: trump-departs-g7-summit-evian-les-bains
+    category: politics
+    headline_en: "Trump Departs for G7 Summit in Évian-les-Bains"
+    lead_url: https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+    body_source: full
+    corroborated_by:
+      - https://www.france24.com/
+    locked_urls:
+      - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+      - https://www.france24.com/
+    hard_facts:
+      - claim: Article publication date and time
+        kind: temporal
+        value: "June 15, 2026 at 5:03 AM"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "Published June 15, 2026 at 5:03 AM"
+      - claim: G7 summit dates
+        kind: temporal
+        value: "June 15–17"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "The G7 summit runs June 15–17 in Évian-les-Bains"
+      - claim: G7 summit location
+        kind: named_institution
+        value: "Évian-les-Bains"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "The G7 summit runs June 15–17 in Évian-les-Bains"
+      - claim: Trump's G7 attendance count
+        kind: numerical
+        value: "fifth in-person attendance"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "This marks the first G7 leaders' in-person meeting since the start of the US-Iran war, now in its 15th week"
+      - claim: Weeks since US-Iran war start
+        kind: numerical_with_unit
+        value: "15th week"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "This marks the first G7 leaders' in-person meeting since the start of the US-Iran war, now in its 15th week"
+      - claim: Named person — Ukrainian President Volodymyr Zelenskyy
+        kind: named_person
+        value: "Volodymyr Zelenskyy"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "Ukrainian President Volodymyr Zelenskyy is scheduled to join G7 leaders on Tuesday, June 16"
+      - claim: Zelenskyy Ukraine session date
+        kind: temporal
+        value: "Tuesday, June 16"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "Ukrainian President Volodymyr Zelenskyy is scheduled to join G7 leaders on Tuesday, June 16, for a dedicated Ukraine session"
+      - claim: Named person — French President Emmanuel Macron
+        kind: named_person
+        value: "Emmanuel Macron"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "he will travel to Paris for dinner with French President Emmanuel Macron at the Palace of Versailles"
+      - claim: Named institution — Palace of Versailles
+        kind: named_institution
+        value: "Palace of Versailles"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "he will travel to Paris for dinner with French President Emmanuel Macron at the Palace of Versailles"
+      - claim: Named person — Trump
+        kind: named_person
+        value: "Trump"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "confirms President Trump departed for France immediately after celebrating his 80th birthday"
+      - claim: Named institution — UFC
+        kind: named_institution
+        value: "UFC"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "celebrating his 80th birthday with the UFC Freedom 250 event on the White House South Lawn"
+      - claim: Named product — UFC Freedom 250
+        kind: named_product
+        value: "UFC Freedom 250"
+        source_urls:
+          - https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771
+        verbatim_excerpt: "celebrating his 80th birthday with the UFC Freedom 250 event on the White House South Lawn"
+    quotes: []
+
+  - story_id: spacex-spcx-stock-surges-iran-peace-deal-ipo-settlement
+    category: tech
+    headline_en: "SpaceX (SPCX) Stock Surges on Iran Peace Deal; IPO Settlement Closes June 15 at $171.72"
+    lead_url: https://robinhood.com/us/en/stocks/SPCX/
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/
+      - https://www.sec.gov/
+    locked_urls:
+      - https://robinhood.com/us/en/stocks/SPCX/
+      - https://www.cnbc.com/
+      - https://www.sec.gov/
+    hard_facts:
+      - claim: SpaceX stock price June 15, 2026
+        kind: numerical_with_unit
+        value: "$171.72"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "SpaceX (ticker: SPCX) traded at $171.72 as of June 15, 2026"
+      - claim: SpaceX market cap
+        kind: numerical_with_unit
+        value: "$2.11 trillion"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "with a market cap of $2.11 trillion"
+      - claim: SpaceX stock price range since Nasdaq debut
+        kind: numerical_with_unit
+        value: "between $150.00 and $176.52"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "The stock had fluctuated between $150.00 and $176.52 since its Nasdaq debut"
+      - claim: SpaceX Nasdaq debut date
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "since its Nasdaq debut on June 12, 2026"
+      - claim: SpaceX IPO pricing date
+        kind: temporal
+        value: "evening of June 11, 2026"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "The IPO was priced at $135 per share on the evening of June 11, 2026"
+      - claim: SpaceX IPO price per share
+        kind: numerical_with_unit
+        value: "$135 per share"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "The IPO was priced at $135 per share on the evening of June 11, 2026"
+      - claim: SpaceX opening price on June 12
+        kind: numerical_with_unit
+        value: "$150"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "opened at $150 on June 12 — an 11 percent jump from its IPO price"
+      - claim: SpaceX opening jump percentage
+        kind: numerical_with_unit
+        value: "11 percent"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "opened at $150 on June 12 — an 11 percent jump from its IPO price"
+      - claim: SpaceX first day closing price and gain
+        kind: numerical_with_unit
+        value: "nearly 20 percent at $161"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "finishing the first day up nearly 20 percent at $161"
+      - claim: SpaceX IPO settlement date
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - https://www.sec.gov/
+        verbatim_excerpt: "June 15 was the settlement date per the SEC's 424(b)(4) prospectus filing"
+      - claim: SpaceX IPO total raise
+        kind: numerical_with_unit
+        value: "$75 billion"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "SpaceX raised $75 billion in the largest IPO in history"
+      - claim: SpaceX IPO valuation
+        kind: numerical_with_unit
+        value: "$1.75 trillion"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "at a valuation of $1.75 trillion"
+      - claim: Retail investor portion of SpaceX IPO
+        kind: numerical_with_unit
+        value: "approximately $15 billion"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "with approximately $15 billion of the raise coming from retail investors"
+      - claim: SpaceX average 12-month analyst price target
+        kind: numerical_with_unit
+        value: "$164"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "SpaceX's average 12-month price target from analysts is $164"
+      - claim: SpaceX analyst high price estimate
+        kind: numerical_with_unit
+        value: "$227"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "with a high estimate of $227"
+      - claim: SpaceX analyst low price estimate
+        kind: numerical_with_unit
+        value: "$63"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "and a low estimate of $63"
+      - claim: Named product — SpaceX ticker SPCX
+        kind: named_product
+        value: "SPCX"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "SpaceX (ticker: SPCX) traded at $171.72 as of June 15, 2026"
+      - claim: Named product — Starlink
+        kind: named_product
+        value: "Starlink"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "operates the Starlink satellite internet network"
+      - claim: Named product — Starship
+        kind: named_product
+        value: "Starship"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "develops the Starship system"
+      - claim: Named institution — xAI (acquired by SpaceX)
+        kind: named_institution
+        value: "xAI"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "in early 2026, SpaceX acquired xAI"
+      - claim: Named institution — Nasdaq
+        kind: named_institution
+        value: "Nasdaq"
+        source_urls:
+          - https://robinhood.com/us/en/stocks/SPCX/
+        verbatim_excerpt: "since its Nasdaq debut on June 12, 2026"
+    quotes: []
+
+  - story_id: missouri-skydiving-plane-crash-kills-12-ntsb
+    category: society
+    headline_en: "Missouri Skydiving Plane Crash Kills 12; NTSB On Scene June 15"
+    lead_url: https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+    body_source: full
+    corroborated_by:
+      - https://www.cnn.com/
+      - https://www.npr.org/
+      - https://www.nbcnews.com/
+    locked_urls:
+      - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+      - https://www.cnn.com/
+      - https://www.npr.org/
+      - https://www.nbcnews.com/
+    hard_facts:
+      - claim: Total fatalities
+        kind: numerical
+        value: "12 people"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "A total of 12 people perished in the incident — 11 skydivers and one pilot"
+      - claim: Skydiver fatalities
+        kind: numerical
+        value: "11 skydivers"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "A total of 12 people perished in the incident — 11 skydivers and one pilot"
+      - claim: Pilot fatalities
+        kind: numerical
+        value: "one pilot"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "A total of 12 people perished in the incident — 11 skydivers and one pilot"
+      - claim: Named product — Aircraft type
+        kind: named_product
+        value: "Pacific Aerospace P750 turboprop"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "a Pacific Aerospace P750 turboprop operated by Skydive Kansas City crashed"
+      - claim: Named institution — Skydive Kansas City
+        kind: named_institution
+        value: "Skydive Kansas City"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "a Pacific Aerospace P750 turboprop operated by Skydive Kansas City crashed"
+      - claim: Crash time
+        kind: temporal
+        value: "approximately 11:30 a.m. on Sunday, June 14"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "crashed at approximately 11:30 a.m. on Sunday, June 14"
+      - claim: Named institution — Butler Memorial Airport
+        kind: named_institution
+        value: "Butler Memorial Airport"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "at Butler Memorial Airport in Butler, Missouri"
+      - claim: Distance from Kansas City
+        kind: numerical_with_unit
+        value: "approximately 66 miles south of Kansas City"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "approximately 66 miles south of Kansas City"
+      - claim: Named person — Sheriff Chad Anderson
+        kind: named_person
+        value: "Chad Anderson"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "Sheriff Chad Anderson reported the aircraft crashed"
+      - claim: Named person — Rep. Mark Alford
+        kind: named_person
+        value: "Mark Alford"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "Rep. Mark Alford noted several victims were"
+      - claim: Aircraft max altitude before descent
+        kind: numerical_with_unit
+        value: "about 13,400 feet"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "reached an altitude of about 13,400 feet before descending"
+      - claim: Aircraft descent speed
+        kind: numerical_with_unit
+        value: "227 mph"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "descending for about two minutes at a rapid speed of 227 mph"
+      - claim: Aircraft descent duration
+        kind: numerical_with_unit
+        value: "about two minutes"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "descending for about two minutes at a rapid speed of 227 mph"
+      - claim: NTSB preliminary report timeline
+        kind: temporal
+        value: "within 30 days"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "An NTSB preliminary report will be available within 30 days"
+      - claim: NTSB investigators on-scene date
+        kind: temporal
+        value: "Monday, June 15"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "NTSB investigators were on scene Monday, June 15"
+      - claim: Named institution — NTSB
+        kind: named_institution
+        value: "NTSB"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "The NTSB and FAA initiated investigations immediately"
+      - claim: Named institution — FAA
+        kind: named_institution
+        value: "FAA"
+        source_urls:
+          - https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        verbatim_excerpt: "The NTSB and FAA initiated investigations immediately"
+    quotes:
+      - speaker_name: Chad Anderson
+        speaker_title: Sheriff
+        verbatim_en: "shortly after the plane took off"
+        source_url: https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        context: Sheriff reporting when the aircraft crashed relative to takeoff
+      - speaker_name: Mark Alford
+        speaker_title: Representative (US Congress)
+        verbatim_en: "first-time skydivers preparing to skydive in a tandem formation"
+        source_url: https://abcnews.com/US/12-killed-plane-crash-missouri-airport-authorities/story?id=133867921
+        context: Rep. Alford noting that several victims were first-time skydivers
+
+  - story_id: electronic-arts-bond-tender-offer-55-billion-lbo
+    category: ipo_ma
+    headline_en: "Electronic Arts Bond Tender Offer Expires June 15 in $55 Billion Saudi-Silver Lake-Kushner LBO"
+    lead_url: https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+    body_source: full
+    corroborated_by:
+      - https://pitchbook.com/
+      - https://variety.com/
+    locked_urls:
+      - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+      - https://pitchbook.com/
+      - https://variety.com/
+    hard_facts:
+      - claim: Named institution — Oak-Eagle AcquireCo, Inc.
+        kind: named_institution
+        value: "Oak-Eagle AcquireCo, Inc."
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "Oak-Eagle AcquireCo, Inc. extended the cash tender offers for EA's outstanding debt securities"
+      - claim: Tender offer expiration time and date
+        kind: temporal
+        value: "5:00 P.M. New York City time on June 15, 2026"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "extended the cash tender offers for EA's outstanding debt securities to 5:00 P.M. New York City time on June 15, 2026"
+      - claim: Settlement date for tender offer
+        kind: temporal
+        value: "June 18, 2026"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "with settlement scheduled for June 18, 2026"
+      - claim: EA 2031 notes outstanding principal
+        kind: numerical_with_unit
+        value: "$750 million outstanding principal of 1.850% notes due 2031"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "$750 million outstanding principal of 1.850% notes due 2031"
+      - claim: EA 2031 notes tender consideration
+        kind: numerical_with_unit
+        value: "$874.49 per $1,000 principal"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "tender consideration $874.49 per $1,000 principal"
+      - claim: EA 2051 notes outstanding principal
+        kind: numerical_with_unit
+        value: "$750 million outstanding principal of 2.950% notes due 2051"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "$750 million outstanding principal of 2.950% notes due 2051"
+      - claim: EA 2051 notes tender consideration
+        kind: numerical_with_unit
+        value: "$695.45 per $1,000 principal"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "tender consideration $695.45 per $1,000 principal"
+      - claim: 2031 notes tendered as of April 30
+        kind: numerical_with_unit
+        value: "approximately $68.17 million"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "approximately $68.17 million of the 2031 Notes"
+      - claim: 2051 notes tendered as of April 30
+        kind: numerical_with_unit
+        value: "$7.917 million"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "$7.917 million of the 2051 Notes had been tendered"
+      - claim: Aggregate principal tendered
+        kind: numerical_with_unit
+        value: "$76.09 million in aggregate principal"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "$76.09 million in aggregate principal"
+      - claim: EA acquisition announcement date
+        kind: temporal
+        value: "September 28, 2025"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "closing of EA's acquisition, announced September 28, 2025"
+      - claim: Named institution — Saudi Arabia's Public Investment Fund
+        kind: named_institution
+        value: "Saudi Arabia's Public Investment Fund"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "The buyer consortium consists of Saudi Arabia's Public Investment Fund, Silver Lake, and Affinity Partners"
+      - claim: Named institution — Silver Lake
+        kind: named_institution
+        value: "Silver Lake"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "The buyer consortium consists of Saudi Arabia's Public Investment Fund, Silver Lake, and Affinity Partners"
+      - claim: Named institution — Affinity Partners
+        kind: named_institution
+        value: "Affinity Partners"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "The buyer consortium consists of Saudi Arabia's Public Investment Fund, Silver Lake, and Affinity Partners (founded by Jared Kushner)"
+      - claim: Named person — Jared Kushner
+        kind: named_person
+        value: "Jared Kushner"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "Affinity Partners (founded by Jared Kushner)"
+      - claim: EA deal total valuation
+        kind: numerical_with_unit
+        value: "approximately $55 billion ($210 per share)"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "The all-cash deal values EA at approximately $55 billion ($210 per share)"
+      - claim: EA long-stop date
+        kind: temporal
+        value: "September 28, 2026"
+        source_urls:
+          - https://www.stocktitan.net/news/EA/oak-eagle-acquire-co-inc-announces-extension-of-the-expiration-time-7a0ch9u3x614.html
+        verbatim_excerpt: "The contractual long-stop date is September 28, 2026"
+    quotes: []
+
+  - story_id: usa-rare-earth-2-8-billion-serra-verde-acquisition
+    category: ipo_ma
+    headline_en: "USA Rare Earth Files Amended Proxy for $2.8 Billion Serra Verde Acquisition"
+    lead_url: https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+    body_source: full
+    corroborated_by:
+      - https://investors.usare.com/
+    locked_urls:
+      - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+      - https://investors.usare.com/
+    hard_facts:
+      - claim: Named institution — USA Rare Earth, Inc.
+        kind: named_institution
+        value: "USA Rare Earth, Inc."
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "USA Rare Earth, Inc. (USAR) filed Amendment No. 1 to its preliminary proxy statement on June 15, 2026"
+      - claim: Filing date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "USA Rare Earth, Inc. (USAR) filed Amendment No. 1 to its preliminary proxy statement on June 15, 2026"
+      - claim: Acquisition total value
+        kind: numerical_with_unit
+        value: "$2.8 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "its pending $2.8 billion acquisition of Serra Verde Group"
+      - claim: Named institution — Serra Verde Group
+        kind: named_institution
+        value: "Serra Verde Group"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "its pending $2.8 billion acquisition of Serra Verde Group"
+      - claim: Serra Verde mine name
+        kind: named_institution
+        value: "Pela Ema"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "owner of the Pela Ema rare earth mine and processing plant in Goiás, Brazil"
+      - claim: Mine location
+        kind: named_institution
+        value: "Goiás, Brazil"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "owner of the Pela Ema rare earth mine and processing plant in Goiás, Brazil"
+      - claim: Original merger agreement announcement date
+        kind: temporal
+        value: "April 20, 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "The original definitive merger agreement was announced April 20, 2026"
+      - claim: Cash component of transaction
+        kind: numerical_with_unit
+        value: "$300 million in cash"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "The transaction structure consists of $300 million in cash and 126.849 million shares of newly issued USAR common stock"
+      - claim: Stock component of transaction
+        kind: numerical_with_unit
+        value: "126.849 million shares of newly issued USAR common stock"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "The transaction structure consists of $300 million in cash and 126.849 million shares of newly issued USAR common stock"
+      - claim: USAR stock closing price reference date
+        kind: temporal
+        value: "April 17, 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "based on USAR's April 17, 2026 closing price of $19.95"
+      - claim: USAR stock closing price used for valuation
+        kind: numerical_with_unit
+        value: "$19.95"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "based on USAR's April 17, 2026 closing price of $19.95"
+      - claim: Serra Verde annualized run-rate EBITDA target
+        kind: numerical_with_unit
+        value: "$550–$650 million of annualized run-rate EBITDA by end of 2027"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "Serra Verde is expected to deliver $550–$650 million of annualized run-rate EBITDA by end of 2027"
+      - claim: Combined company EBITDA target in 2030
+        kind: numerical_with_unit
+        value: "approximately $1.8 billion of EBITDA in 2030"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "with the combined company expected to generate approximately $1.8 billion of EBITDA in 2030"
+      - claim: USAR stock gain on deal announcement
+        kind: numerical_with_unit
+        value: "15 percent"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "USAR stock jumped 15 percent on the original deal announcement"
+      - claim: Named product — key magnetic rare earth elements
+        kind: named_product
+        value: "neodymium, praseodymium, dysprosium, and terbium"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "all four key magnetic rare earth elements: neodymium, praseodymium, dysprosium, and terbium"
+      - claim: Named institution — The Diplomat
+        kind: named_institution
+        value: "The Diplomat"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        verbatim_excerpt: "The Diplomat analysis, May 2026"
+    quotes:
+      - speaker_name: The Diplomat (analysis)
+        speaker_title: Publication analysis, May 2026
+        verbatim_en: "The key question is whether the Serra Verde transaction gives the US the scale needed to challenge Chinese dominance in rare earth processing."
+        source_url: https://www.sec.gov/Archives/edgar/data/0001970622/000121390026068491/ea0294574-8k_usarare.htm
+        context: Analysis of the strategic significance of the Serra Verde acquisition for the United States
+
+  - story_id: galera-therapeutics-obsidian-therapeutics-merger-350-million-pipe
+    category: ipo_ma
+    headline_en: "Galera Therapeutics–Obsidian Therapeutics Merger Advances With $350 Million PIPE"
+    lead_url: https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+    body_source: full
+    corroborated_by:
+      - https://www.businesswire.com/
+    locked_urls:
+      - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+      - https://www.businesswire.com/
+    hard_facts:
+      - claim: Named institution — Galera Therapeutics
+        kind: named_institution
+        value: "Galera Therapeutics"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "Galera Therapeutics (NASDAQ: GRTX) filed a Form 425 on June 15, 2026"
+      - claim: Named product — Galera stock ticker
+        kind: named_product
+        value: "GRTX"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "Galera Therapeutics (NASDAQ: GRTX) filed a Form 425 on June 15, 2026"
+      - claim: Filing date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "Galera Therapeutics (NASDAQ: GRTX) filed a Form 425 on June 15, 2026"
+      - claim: Named institution — Obsidian Therapeutics
+        kind: named_institution
+        value: "Obsidian Therapeutics"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "advancing its all-stock merger with privately held Obsidian Therapeutics"
+      - claim: Original merger announcement date
+        kind: temporal
+        value: "April 14, 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "The merger was originally announced April 14, 2026"
+      - claim: New parent company name
+        kind: named_institution
+        value: "Obsidian Therapeutics, Inc."
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "a newly formed parent operating as Obsidian Therapeutics, Inc."
+      - claim: New parent planned Nasdaq ticker
+        kind: named_product
+        value: "OBX"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "which plans to seek a Nasdaq listing under the ticker \"OBX\""
+      - claim: Pre-merger Obsidian shareholder ownership at closing
+        kind: numerical_with_unit
+        value: "approximately 53.2 percent"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "pre-merger Obsidian shareholders are expected to own approximately 53.2 percent"
+      - claim: Pre-merger Galera shareholder ownership at closing
+        kind: numerical_with_unit
+        value: "about 1.8 percent"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "pre-merger Galera shareholders about 1.8 percent"
+      - claim: Private placement investors ownership at closing
+        kind: numerical_with_unit
+        value: "about 45.0 percent"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "investors in a concurrent private placement about 45.0 percent"
+      - claim: PIPE size
+        kind: numerical_with_unit
+        value: "$350 million"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "The deal is backed by an oversubscribed $350 million concurrent private placement"
+      - claim: Named product — lead TIL candidate OBX-115
+        kind: named_product
+        value: "OBX-115"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "The lead TIL candidate, OBX-115, posted a 67 percent objective response rate"
+      - claim: OBX-115 Phase 2 objective response rate
+        kind: numerical_with_unit
+        value: "67 percent objective response rate"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "The lead TIL candidate, OBX-115, posted a 67 percent objective response rate across 15 patients in preliminary Phase 2 data"
+      - claim: OBX-115 Phase 2 patient count
+        kind: numerical
+        value: "15 patients"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "a 67 percent objective response rate across 15 patients in preliminary Phase 2 data"
+      - claim: Named institution — Noble Capital Markets
+        kind: named_institution
+        value: "Noble Capital Markets"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        verbatim_excerpt: "Noble Capital Markets"
+    quotes:
+      - speaker_name: Noble Capital Markets (analyst)
+        speaker_title: Noble Capital Markets
+        verbatim_en: "Noble: Galera merger to give Obsidian listing is 'lifeline' for GRTX shareholders."
+        source_url: https://www.sec.gov/Archives/edgar/data/0001563577/000119312526253623/d67206d425.htm
+        context: Noble Capital Markets analyst comment on the significance of the Galera-Obsidian merger for Galera shareholders
+
+  - story_id: trump-80th-birthday-ufc-freedom-250-white-house
+    category: other
+    headline_en: "Trump Marks 80th Birthday with UFC Freedom 250 on White House South Lawn"
+    lead_url: https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/15/nx-s1-5858610
+    locked_urls:
+      - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+      - https://www.npr.org/2026/06/15/nx-s1-5858610
+    hard_facts:
+      - claim: Trump's birthday
+        kind: temporal
+        value: "Sunday, June 14"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "President Trump marked his 80th birthday on Sunday, June 14"
+      - claim: Trump's age
+        kind: numerical
+        value: "80th birthday"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "President Trump marked his 80th birthday on Sunday, June 14"
+      - claim: Named product — UFC Freedom 250
+        kind: named_product
+        value: "UFC Freedom 250"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "by hosting UFC Freedom 250 on the White House South Lawn"
+      - claim: Number of spectators at event
+        kind: numerical_with_unit
+        value: "Over 4,000 spectators"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "Over 4,000 spectators attended"
+      - claim: Named person — Meta CEO Mark Zuckerberg
+        kind: named_person
+        value: "Mark Zuckerberg"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "Meta CEO Mark Zuckerberg attended the event"
+      - claim: Named person — UFC President Dana White
+        kind: named_person
+        value: "Dana White"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "UFC President Dana White walked with Trump from the Oval Office"
+      - claim: Named person — Diego Lopes (fight result)
+        kind: named_person
+        value: "Diego Lopes"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "Diego Lopes defeating Steve Garcia in the opening featherweight bout"
+      - claim: Named person — Steve Garcia (fight result)
+        kind: named_person
+        value: "Steve Garcia"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "Diego Lopes defeating Steve Garcia in the opening featherweight bout"
+      - claim: Named person — Bo Nickal (fight result)
+        kind: named_person
+        value: "Bo Nickal"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "Bo Nickal knocking out Kyle Daukaus in the middleweight"
+      - claim: Named person — Kyle Daukaus (fight result)
+        kind: named_person
+        value: "Kyle Daukaus"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "Bo Nickal knocking out Kyle Daukaus in the middleweight"
+      - claim: Named person — Sean O'Malley (fight result)
+        kind: named_person
+        value: "Sean O'Malley"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "Sean O'Malley losing to Canadian Aiemann Zahabi"
+      - claim: Named person — Aiemann Zahabi (fight result)
+        kind: named_person
+        value: "Aiemann Zahabi"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "Sean O'Malley losing to Canadian Aiemann Zahabi"
+      - claim: Trump G7 departure date
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - https://www.euronews.com/2026/06/15/trump-celebrates-80th-birthday-with-iran-deal-and-ufc-cage-fight-on-the-white-house-south-
+        verbatim_excerpt: "The next morning, June 15, Trump departed for the G7 summit in Évian-les-Bains, France"
+    quotes: []
+
+  - story_id: fifa-world-cup-2026-matches-june-15
+    category: other
+    headline_en: "FIFA World Cup 2026 Matches on June 15"
+    lead_url: https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+    body_source: full
+    corroborated_by:
+      - https://www.espn.com/
+    locked_urls:
+      - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+      - https://www.espn.com/
+    hard_facts:
+      - claim: Named product — FIFA World Cup 2026
+        kind: named_product
+        value: "FIFA World Cup 2026"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "June 15, 2026 is an active match day at the FIFA World Cup 2026"
+      - claim: World Cup host countries
+        kind: named_institution
+        value: "United States, Canada, and Mexico"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "hosted jointly by the United States, Canada, and Mexico"
+      - claim: Last time US hosted World Cup
+        kind: temporal
+        value: "1994"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "the first World Cup hosted in the US since 1994"
+      - claim: Match 1 — Spain vs Cape Verde kickoff time and TV
+        kind: temporal
+        value: "12:00 p.m. ET on Fox and Telemundo"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "Spain vs. Cape Verde (Group H) at 12:00 p.m. ET on Fox and Telemundo"
+      - claim: Match 1 group
+        kind: named_product
+        value: "Group H"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "Spain vs. Cape Verde (Group H)"
+      - claim: Match 2 — Belgium vs Egypt kickoff time and TV
+        kind: temporal
+        value: "3:00 p.m. ET on Fox and Telemundo"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "Belgium vs. Egypt (Group G) at 3:00 p.m. ET on Fox and Telemundo"
+      - claim: Match 2 group
+        kind: named_product
+        value: "Group G"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "Belgium vs. Egypt (Group G)"
+      - claim: Match 3 — Saudi Arabia vs Uruguay kickoff time and TV
+        kind: temporal
+        value: "6:00 p.m. ET on FS1 and Telemundo"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "Saudi Arabia vs. Uruguay (Group H) at 6:00 p.m. ET on FS1 and Telemundo"
+      - claim: Match 4 — Iran vs New Zealand kickoff time and TV
+        kind: temporal
+        value: "9:00 p.m. ET on FS1 and Telemundo"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "Iran vs. New Zealand (Group G) at 9:00 p.m. ET on FS1 and Telemundo"
+      - claim: US World Cup match date
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "The US played Paraguay in Group D on June 12"
+      - claim: Number of national teams in 2026 World Cup
+        kind: numerical
+        value: "48 national teams"
+        source_urls:
+          - https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match
+        verbatim_excerpt: "The 2026 World Cup features 48 national teams for the first time in tournament history"
+    quotes: []

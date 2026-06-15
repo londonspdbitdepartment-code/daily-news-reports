@@ -1,0 +1,1606 @@
+version: 1
+generated_at: "2026-06-15T12:00:00Z"
+country: Europe
+date: "2026-06-15"
+total_stories: 15
+stories:
+  - story_id: european-stocks-soar-us-iran-peace-oil-4pct
+    category: econ
+    headline_en: "European Stocks Soar to Record Highs as US-Iran Peace Framework Collapses Oil Price 4%"
+    lead_url: https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+    body_source: full
+    corroborated_by:
+      - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+      - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+    hard_facts:
+      - claim: date of market surge and oil fall
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Global stock markets surged and oil prices fell sharply on June 15, 2026 after the United States and Iran confirmed a peace framework agreement"
+      - claim: formal signing ceremony location and date
+        kind: temporal
+        value: "Switzerland on Friday, June 19"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "with a formal signing ceremony scheduled for Switzerland on Friday, June 19"
+      - claim: Japan Nikkei 225 gain
+        kind: numerical_with_unit
+        value: "5.5%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Japan's Nikkei 225 gained 5.5%"
+      - claim: South Korea Kospi gain
+        kind: numerical_with_unit
+        value: "5.7%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "South Korea's Kospi added 5.7%"
+      - claim: Taiwan Taiex gain
+        kind: numerical_with_unit
+        value: "2.7%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Taiwan's Taiex rose 2.7%"
+      - claim: Australia ASX 200 gain
+        kind: numerical_with_unit
+        value: "1.5%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Australia's ASX 200 was up 1.5%"
+      - claim: Hong Kong Hang Seng gain
+        kind: numerical_with_unit
+        value: "1%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Hong Kong's Hang Seng gained 1%"
+      - claim: US S&P 500 futures gain
+        kind: numerical_with_unit
+        value: "1%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "US S&P 500 futures added 1%"
+      - claim: Nasdaq Composite futures gain
+        kind: numerical_with_unit
+        value: "1.8%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Nasdaq Composite futures climbed 1.8%"
+      - claim: Brent crude oil fall percentage
+        kind: numerical_with_unit
+        value: "4.5%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Brent crude oil fell approximately 4.5% to below $83.40 per barrel"
+      - claim: Brent crude price level
+        kind: numerical_with_unit
+        value: "$83.40 per barrel"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Brent crude oil fell approximately 4.5% to below $83.40 per barrel"
+      - claim: WTI crude oil fall percentage
+        kind: numerical_with_unit
+        value: "4.8%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "WTI slid 4.8% to $80.8 per barrel"
+      - claim: WTI crude price level
+        kind: numerical_with_unit
+        value: "$80.8 per barrel"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "WTI slid 4.8% to $80.8 per barrel"
+      - claim: frozen Iranian assets to be released
+        kind: numerical_with_unit
+        value: "$24 billion"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "release of $24 billion in frozen Iranian assets"
+      - claim: IEA daily oil shortfall from Hormuz closure
+        kind: numerical_with_unit
+        value: "approximately 14 million barrels of oil globally"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "the closure had caused a daily shortfall of approximately 14 million barrels of oil globally"
+      - claim: named institution — International Energy Agency
+        kind: named_institution
+        value: "International Energy Agency"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "According to the International Energy Agency, the closure had caused a daily shortfall"
+      - claim: Spain Ibex 35 level reached
+        kind: numerical_with_unit
+        value: "19,122"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "Spain's Ibex 35 benchmark broke through 19,000 points, reaching 19,122"
+      - claim: Spain Ibex 35 year-to-date gain
+        kind: numerical_with_unit
+        value: "approximately 10%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "gaining approximately 10% since the start of 2026"
+      - claim: IAG share gain
+        kind: numerical_with_unit
+        value: "nearly 5%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "Major Spanish gainers included IAG (up nearly 5%)"
+      - claim: BBVA share gain
+        kind: numerical_with_unit
+        value: "+3.14%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "BBVA (+3.14%)"
+      - claim: Santander share gain
+        kind: numerical_with_unit
+        value: "+3.48%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "Santander (+3.48%)"
+      - claim: Inditex share gain
+        kind: numerical_with_unit
+        value: "+2.07%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "Inditex (+2.07%)"
+      - claim: Germany 10-year Bund yield
+        kind: numerical_with_unit
+        value: "2.952%"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+        verbatim_excerpt: "Germany's 10-year Bund yield fell to its lowest in two weeks at 2.952%"
+      - claim: named institution — IAG
+        kind: named_institution
+        value: "IAG"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "Major Spanish gainers included IAG (up nearly 5%)"
+      - claim: named institution — BBVA
+        kind: named_institution
+        value: "BBVA"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "BBVA (+3.14%)"
+      - claim: named institution — Santander
+        kind: named_institution
+        value: "Santander"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "Santander (+3.48%)"
+      - claim: named institution — Inditex
+        kind: named_institution
+        value: "Inditex"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/ibex-35-rallies-on-iran-deal-and-hits-record-19000-points
+        verbatim_excerpt: "Inditex (+2.07%)"
+    quotes: []
+
+  - story_id: ecb-climate-disclosures-portfolios-decline-13pct
+    category: econ
+    headline_en: "ECB Publishes Fourth Annual Climate-Related Financial Disclosures: Eurosystem Portfolios Decline 13% in 2025"
+    lead_url: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+    hard_facts:
+      - claim: publication date of ECB climate disclosures
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "The European Central Bank published on June 15, 2026 the fourth edition of its climate-related financial disclosures"
+      - claim: edition number of climate disclosures
+        kind: numerical
+        value: "fourth"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "the fourth edition of its climate-related financial disclosures"
+      - claim: Governing Council authorisation date
+        kind: temporal
+        value: "21 May 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "The Governing Council had authorised publication on 21 May 2026"
+      - claim: Eurosystem monetary policy portfolios decline in 2025
+        kind: numerical_with_unit
+        value: "13%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "these portfolios declined 13% in 2025"
+      - claim: ECB green bond share in own funds portfolio
+        kind: numerical_with_unit
+        value: "33%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "The ECB's green bond share in its own funds portfolio increased to 33% (€7.6 billion)"
+      - claim: ECB green bond absolute value in own funds portfolio
+        kind: numerical_with_unit
+        value: "€7.6 billion"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "The ECB's green bond share in its own funds portfolio increased to 33% (€7.6 billion)"
+      - claim: ECB green bond 2026 target
+        kind: numerical_with_unit
+        value: "35%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "with a 2026 target of 35%"
+      - claim: named institution — European Central Bank
+        kind: named_institution
+        value: "European Central Bank"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "The European Central Bank published on June 15, 2026 the fourth edition"
+      - claim: ECB media contact person
+        kind: named_person
+        value: "Clara Martín Marqués"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260615~92388776dd.en.html
+        verbatim_excerpt: "media contact: Clara Martín Marqués, +49 69 1344 17919"
+    quotes: []
+
+  - story_id: trump-100pct-tariffs-french-wine-digital-tax
+    category: econ
+    headline_en: "Trump Threatens 100% Tariffs on French Wine Over Paris's 3% Digital Services Tax at G7 Opening"
+    lead_url: https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+    body_source: full
+    corroborated_by:
+      - https://www.business-standard.com/world-news/trump-threatens-100-tariff-on-french-wine-over-digital-tax-report-126061500376_1.html
+      - https://www.benzinga.com/news/politics/26/06/53187640/trump-threatens-100-tariffs-on-french-wine-unless-macron-drops-tax-on-amazon-apple-meta-and-others
+    locked_urls:
+      - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+      - https://www.business-standard.com/world-news/trump-threatens-100-tariff-on-french-wine-over-digital-tax-report-126061500376_1.html
+      - https://www.benzinga.com/news/politics/26/06/53187640/trump-threatens-100-tariffs-on-french-wine-unless-macron-drops-tax-on-amazon-apple-meta-and-others
+    hard_facts:
+      - claim: date of Trump warning to France
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "US President Donald Trump warned France on June 15, 2026"
+      - claim: threatened tariff rate on French wines and champagnes
+        kind: numerical_with_unit
+        value: "100%"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+          - https://www.business-standard.com/world-news/trump-threatens-100-tariff-on-french-wine-over-digital-tax-report-126061500376_1.html
+          - https://www.benzinga.com/news/politics/26/06/53187640/trump-threatens-100-tariffs-on-french-wine-unless-macron-drops-tax-on-amazon-apple-meta-and-others
+        verbatim_excerpt: "he would impose 100% tariffs on all French wines and champagnes"
+      - claim: France digital services tax rate
+        kind: numerical_with_unit
+        value: "3%"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "unless Paris eliminates its 3% digital services tax on American technology companies"
+      - claim: year French digital services tax approved
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "France's digital services tax, approved by French lawmakers in 2019"
+      - claim: DST revenue threshold in France
+        kind: numerical_with_unit
+        value: "€25 million in France"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "affecting companies with revenues exceeding €25 million in France and €750 million worldwide"
+      - claim: DST global revenue threshold
+        kind: numerical_with_unit
+        value: "€750 million worldwide"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "affecting companies with revenues exceeding €25 million in France and €750 million worldwide"
+      - claim: French wine exports to US as share of global sales
+        kind: numerical_with_unit
+        value: "approximately one-fifth"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-wars-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "Exports to the US make up approximately one-fifth of the French wine industry's total global sales"
+      - claim: French wine US export annual value
+        kind: numerical_with_unit
+        value: "roughly $2 billion annually"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "amounting to roughly $2 billion annually"
+      - claim: named person — Donald Trump
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "US President Donald Trump warned France on June 15, 2026"
+      - claim: named person — Emmanuel Macron
+        kind: named_person
+        value: "Emmanuel Macron"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "Trump said he delivered the warning directly to French President Emmanuel Macron"
+      - claim: named institution — Amazon
+        kind: named_institution
+        value: "Amazon"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "large technology companies including US giants such as Amazon, Meta and Alphabet"
+      - claim: named institution — Meta
+        kind: named_institution
+        value: "Meta"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "large technology companies including US giants such as Amazon, Meta and Alphabet"
+      - claim: named institution — Alphabet
+        kind: named_institution
+        value: "Alphabet"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "large technology companies including US giants such as Amazon, Meta and Alphabet"
+      - claim: G7 summit location
+        kind: named_institution
+        value: "Évian-les-Bains"
+        source_urls:
+          - https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        verbatim_excerpt: "the G7 summit in Évian-les-Bains"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: US President
+        verbatim_en: "I asked him not to charge American companies, and if they do, I have no choice but to charge a 100% tariff on all champagnes and all wines coming out of France."
+        source_url: https://money.usnews.com/investing/news/articles/2026-06-15/trump-warns-france-to-kill-tech-tax-or-face-100-wine-tariffs-ny-post-reports
+        context: interview with the New York Post, June 15, 2026
+
+  - story_id: g7-summit-evian-iran-ukraine-agenda
+    category: politics
+    headline_en: "G7 Summit Opens in Évian-les-Bains as US-Iran Peace Framework and Ukraine Dominate Agenda"
+    lead_url: https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+      - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+      - https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/15-17/
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+      - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+      - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+      - https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/15-17/
+    hard_facts:
+      - claim: G7 summit edition number
+        kind: numerical
+        value: "52nd"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "The 52nd G7 summit opened on June 15, 2026 in Évian-les-Bains, France"
+      - claim: G7 summit opening date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "The 52nd G7 summit opened on June 15, 2026 in Évian-les-Bains, France"
+      - claim: named institution — G7 host country France
+        kind: named_institution
+        value: "Évian-les-Bains, France"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "The 52nd G7 summit opened on June 15, 2026 in Évian-les-Bains, France"
+      - claim: named person — Emmanuel Macron
+        kind: named_person
+        value: "Emmanuel Macron"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "hosted by President Emmanuel Macron — his final G7 before leaving office"
+      - claim: named person — Narendra Modi
+        kind: named_person
+        value: "Narendra Modi"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Additional attendees include Indian Prime Minister Narendra Modi"
+      - claim: named person — Abdel Fattah el-Sisi
+        kind: named_person
+        value: "Abdel Fattah el-Sisi"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Egyptian President Abdel Fattah el-Sisi"
+      - claim: named person — Sheikh Tamim bin Hamad Al Thani
+        kind: named_person
+        value: "Sheikh Tamim bin Hamad Al Thani"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Qatari Emir Sheikh Tamim bin Hamad Al Thani"
+      - claim: named person — Volodymyr Zelenskyy
+        kind: named_person
+        value: "Volodymyr Zelenskyy"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Ukrainian President Volodymyr Zelenskyy attended at Macron's invitation"
+      - claim: nuclear negotiation window duration
+        kind: temporal
+        value: "60-day negotiation window"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "opening a 60-day negotiation window on nuclear issues"
+      - claim: Macron France deployment timeline for Hormuz
+        kind: temporal
+        value: "within two to three days"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Macron stated France could deploy aircraft and a mine-clearing frigate 'within two to three days'"
+      - claim: Russia missiles and drones overnight attack count — missiles
+        kind: numerical
+        value: "70"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Russia launched 70 missiles and over 600 drones against Ukraine overnight"
+      - claim: Russia drones overnight attack count
+        kind: numerical_with_unit
+        value: "over 600 drones"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Russia launched 70 missiles and over 600 drones against Ukraine overnight"
+      - claim: named institution — European Council
+        kind: named_institution
+        value: "European Council"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "EU is represented by European Council President António Costa"
+      - claim: named person — António Costa
+        kind: named_person
+        value: "António Costa"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "European Council President António Costa"
+      - claim: named person — Ursula von der Leyen
+        kind: named_person
+        value: "Ursula von der Leyen"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Commission President Ursula von der Leyen"
+      - claim: named person — Dario Amodei
+        kind: named_person
+        value: "Dario Amodei"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "AI executives from Anthropic (Dario Amodei)"
+      - claim: named person — Sam Altman
+        kind: named_person
+        value: "Sam Altman"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "OpenAI (Sam Altman)"
+      - claim: named person — Demis Hassabis
+        kind: named_person
+        value: "Demis Hassabis"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Google DeepMind (Demis Hassabis)"
+      - claim: named institution — Anthropic
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "AI executives from Anthropic (Dario Amodei)"
+      - claim: named institution — OpenAI
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "OpenAI (Sam Altman)"
+      - claim: named institution — Google DeepMind
+        kind: named_institution
+        value: "Google DeepMind"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "Google DeepMind (Demis Hassabis)"
+      - claim: named institution — Mistral AI
+        kind: named_institution
+        value: "Mistral AI"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "France's Mistral AI"
+      - claim: named institution — E4 nations
+        kind: named_institution
+        value: "E4 nations"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "the E4 nations — Germany, France, UK and Italy — committed to 'strictly defensive' mine clearance operations"
+      - claim: target of Ukraine strike — Kyiv Dormition Cathedral
+        kind: named_institution
+        value: "Dormition Cathedral"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        verbatim_excerpt: "striking Kyiv's historic Dormition Cathedral"
+    quotes:
+      - speaker_name: Emmanuel Macron
+        speaker_title: French President
+        verbatim_en: "within two to three days"
+        source_url: https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+        context: G7 summit statement on France's readiness to deploy mine-clearing forces to Strait of Hormuz
+
+  - story_id: eu-opens-accession-negotiations-ukraine-moldova
+    category: politics
+    headline_en: "EU Opens First Accession Negotiations with Ukraine and Moldova: Fundamentals Cluster Launched in Luxembourg"
+    lead_url: https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+    body_source: full
+    corroborated_by:
+      - https://en.interfax.com.ua/news/general/1174658.html
+      - https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/15-17/
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+      - https://en.interfax.com.ua/news/general/1174658.html
+      - https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/15-17/
+    hard_facts:
+      - claim: date and time of first EU-Ukraine Intergovernmental Conference
+        kind: temporal
+        value: "June 15, 2026, at 18:00 CET"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "On June 15, 2026, at 18:00 CET in Luxembourg, the European Union held its first Intergovernmental Conference with Ukraine"
+      - claim: EU-Moldova Intergovernmental Conference time
+        kind: temporal
+        value: "20:00 CET"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "A second Intergovernmental Conference with Moldova followed at 20:00 CET the same evening"
+      - claim: location of Intergovernmental Conferences
+        kind: named_institution
+        value: "Luxembourg"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "On June 15, 2026, at 18:00 CET in Luxembourg"
+      - claim: accession cluster opened — Cluster 1 Fundamentals
+        kind: named_product
+        value: "Cluster 1 — 'Fundamentals'"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "to formally open Cluster 1 — 'Fundamentals' — of EU accession negotiations"
+      - claim: Hungary veto duration lifted
+        kind: temporal
+        value: "two-year veto"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "following Hungary lifting its two-year veto on Ukraine's EU membership bid"
+      - claim: named person — Péter Magyar
+        kind: named_person
+        value: "Péter Magyar"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "after Prime Minister Péter Magyar announced a deal with Kyiv on minority rights"
+      - claim: named person — Kaja Kallas
+        kind: named_person
+        value: "Kaja Kallas"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "chaired by EU High Representative Kaja Kallas"
+      - claim: named person — Marta Kos
+        kind: named_person
+        value: "Marta Kos"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "EU Commissioner for Enlargement Marta Kos had confirmed the June 15 date on June 8"
+      - claim: EU Commissioner confirmation date for June 15
+        kind: temporal
+        value: "June 8"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "EU Commissioner for Enlargement Marta Kos had confirmed the June 15 date on June 8"
+      - claim: EU ambassadors agreement date
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "EU ambassadors in Brussels reaching agreement on June 12"
+      - claim: Ukraine reforms completed for EU membership
+        kind: numerical_with_unit
+        value: "approximately 15%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "Ukraine has completed approximately 15% of the reforms required for EU membership"
+      - claim: total accession clusters
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "Ukraine was keen to open all six accession clusters during the summer"
+      - claim: timeframe to open all clusters
+        kind: temporal
+        value: "within a month"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "Ukraine could potentially open all accession negotiating clusters 'within a month'"
+      - claim: named institution — European Commission
+        kind: named_institution
+        value: "European Commission"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "According to European Commission data reported by The Guardian"
+      - claim: named institution — The Guardian
+        kind: named_institution
+        value: "The Guardian"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+        verbatim_excerpt: "According to European Commission data reported by The Guardian"
+    quotes: []
+
+  - story_id: eu-fac-russia-mini-sanctions-80-individuals
+    category: politics
+    headline_en: "EU Foreign Affairs Council Adopts Russia Mini-Sanctions Targeting 80+ Individuals and Defence Firms"
+    lead_url: https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+    body_source: full
+    corroborated_by:
+      - https://www.mfa.gov.lv/en/article/eu-foreign-affairs-council-will-discuss-further-political-and-military-support-ukraine-and-pressure-russia-situation-middle-east-and-eu-china-relations
+      - https://www.eurointegration.com.ua/eng/news/2026/06/8/7239252/
+    locked_urls:
+      - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+      - https://www.mfa.gov.lv/en/article/eu-foreign-affairs-council-will-discuss-further-political-and-military-support-ukraine-and-pressure-russia-situation-middle-east-and-eu-china-relations
+      - https://www.eurointegration.com.ua/eng/news/2026/06/8/7239252/
+    hard_facts:
+      - claim: EU FAC meeting date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "The EU Foreign Affairs Council convened in Luxembourg on June 15, 2026"
+      - claim: EU FAC meeting location
+        kind: named_institution
+        value: "Luxembourg"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "The EU Foreign Affairs Council convened in Luxembourg on June 15, 2026"
+      - claim: named person — Kaja Kallas (chair)
+        kind: named_person
+        value: "Kaja Kallas"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "chaired by EU High Representative Kaja Kallas"
+      - claim: number of individuals and entities targeted in mini-package
+        kind: numerical_with_unit
+        value: "more than 80 individuals and entities"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "formally adopted a Russia sanctions 'mini-package' targeting more than 80 individuals and entities"
+      - claim: named person — Andrii Sybiha
+        kind: named_person
+        value: "Andrii Sybiha"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "Ukrainian Foreign Minister Andrii Sybiha participated remotely by video link"
+      - claim: 21st sanctions package proposal date
+        kind: temporal
+        value: "June 9, 2026"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "the European Commission's broader 21st sanctions package against Russia — proposed on June 9, 2026"
+      - claim: formal adoption deadline for 21st package
+        kind: temporal
+        value: "July 15"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "formal adoption of the full 21st package is expected by July 15"
+      - claim: named person — Ararat Mirzoyan
+        kind: named_person
+        value: "Ararat Mirzoyan"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "Armenia's Foreign Minister Ararat Mirzoyan also participated"
+      - claim: named person — Baiba Braže
+        kind: named_person
+        value: "Baiba Braže"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "Latvia's Foreign Minister Baiba Braže represented Latvia at the Council"
+      - claim: named institution — EU Foreign Affairs Council
+        kind: named_institution
+        value: "EU Foreign Affairs Council"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        verbatim_excerpt: "The EU Foreign Affairs Council convened in Luxembourg on June 15, 2026"
+    quotes:
+      - speaker_name: Kaja Kallas
+        speaker_title: EU High Representative
+        verbatim_en: "The discussion is expected to focus on further increasing pressure on Russia."
+        source_url: https://www.consilium.europa.eu/en/meetings/fac/2026/06/15/
+        context: EU Foreign Affairs Council Luxembourg, June 15, 2026
+
+  - story_id: 47-meps-demand-sanctions-irish-alumina-russia
+    category: politics
+    headline_en: "47 MEPs Demand EU Sanctions on Irish Alumina Exports to Russia Feeding Moscow's Weapons Industry"
+    lead_url: https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+    body_source: full
+    corroborated_by:
+      - https://www.occrp.org/en/news/european-lawmakers-alumina-russian-arms
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+      - https://www.occrp.org/en/news/european-lawmakers-alumina-russian-arms
+    hard_facts:
+      - claim: number of MEPs in cross-party group
+        kind: numerical
+        value: "47"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "A cross-party group of 47 Members of the European Parliament urged EU trade and foreign policy leaders on June 15, 2026"
+      - claim: date of MEP letter
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "urged EU trade and foreign policy leaders on June 15, 2026 to impose sanctions on alumina exports to Russia"
+      - claim: share of Irish alumina exports going to Russia in Q1 2026
+        kind: numerical_with_unit
+        value: "83%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "Ireland's Central Statistics Office reported that 83% of Irish alumina exports went to Russia in the first quarter of 2026"
+      - claim: volume of Irish alumina exports to Russia in Q1 2026
+        kind: numerical_with_unit
+        value: "200,619 tonnes"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "amounting to 200,619 tonnes — the largest since the start of Russia's full-scale war in 2022"
+      - claim: period covered — Q1 2026
+        kind: temporal
+        value: "first quarter of 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "Ireland's Central Statistics Office reported that 83% of Irish alumina exports went to Russia in the first quarter of 2026"
+      - claim: Aughinish Alumina's counter-claim on export share
+        kind: numerical_with_unit
+        value: "only 45%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "Aughinish Alumina disputes this figure, claiming it represents only 45% of their exports"
+      - claim: Aughinish share of Europe's total alumina needs
+        kind: numerical_with_unit
+        value: "approximately 30%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "Aughinish Alumina supplies approximately 30% of Europe's total alumina needs"
+      - claim: named institution — Aughinish Alumina
+        kind: named_institution
+        value: "Aughinish Alumina"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "Aughinish Alumina disputes this figure"
+      - claim: named person — Oleg Deripaska
+        kind: named_person
+        value: "Oleg Deripaska"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "is controlled by sanctioned Russian oligarch Oleg Deripaska"
+      - claim: named institution — Ireland's Central Statistics Office
+        kind: named_institution
+        value: "Ireland's Central Statistics Office"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "Ireland's Central Statistics Office reported that 83% of Irish alumina exports went to Russia"
+      - claim: named institution — OCCRP
+        kind: named_institution
+        value: "OCCRP"
+        source_urls:
+          - https://www.occrp.org/en/news/european-lawmakers-alumina-russian-arms
+        verbatim_excerpt: "An OCCRP investigation documented that alumina from Aughinish reaches Russian smelters in Siberia"
+      - claim: proposed sanctions package to include alumina
+        kind: named_product
+        value: "22nd sanctions package"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "called for alumina to be included in the EU's 22nd sanctions package"
+      - claim: named person — Michal Martin
+        kind: named_person
+        value: "Michal Martin"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        verbatim_excerpt: "Irish Prime Minister Michal Martin's arguments against sanctioning the plant undermined by the new export data"
+    quotes:
+      - speaker_name: MEPs (cross-party group)
+        speaker_title: Members of the European Parliament
+        verbatim_en: "That decision is a serious mistake — and the facts now demand it be corrected"
+        source_url: https://www.euronews.com/my-europe/2026/06/15/meps-pressure-eu-institutions-to-sanction-irish-alumina-sales-to-russia
+        context: joint letter to EU trade and foreign policy leaders, June 15, 2026
+
+  - story_id: eu-us-turnberry-trade-deal-ep-vote-june-16
+    category: politics
+    headline_en: "EU-US Turnberry Trade Deal Debated in European Parliament Strasbourg Plenary; Vote Set for Tuesday"
+    lead_url: https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+    body_source: full
+    corroborated_by:
+      - https://www.eppgroup.eu/newsroom/the-week-ahead-june-15-19-2026
+      - https://epthinktank.eu/2026/06/12/european-parliament-plenary-session-june-2026/
+    locked_urls:
+      - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+      - https://www.eppgroup.eu/newsroom/the-week-ahead-june-15-19-2026
+      - https://epthinktank.eu/2026/06/12/european-parliament-plenary-session-june-2026/
+    hard_facts:
+      - claim: EP plenary session dates
+        kind: temporal
+        value: "June 15-18 plenary session"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "The European Parliament's June 15-18 plenary session in Strasbourg opened on Monday, June 15, 2026"
+      - claim: EP plenary session location
+        kind: named_institution
+        value: "Strasbourg"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "The European Parliament's June 15-18 plenary session in Strasbourg"
+      - claim: vote scheduled date and time
+        kind: temporal
+        value: "Tuesday June 16 at 12:30"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "The final vote was scheduled for Tuesday June 16 at 12:30"
+      - claim: named product — EU-US Turnberry trade agreement
+        kind: named_product
+        value: "EU-US 'Turnberry' trade agreement"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "implementing the EU-US 'Turnberry' trade agreement — the EU-US joint statement of August 2025"
+      - claim: joint statement date
+        kind: temporal
+        value: "August 2025"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "the EU-US joint statement of August 2025"
+      - claim: US all-inclusive tariff rate on EU goods
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "the US imposed a 15% all-inclusive tariff on EU goods"
+      - claim: tariff preference sunset clause date
+        kind: temporal
+        value: "December 31, 2029"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "a sunset clause under which tariff preferences expire December 31, 2029 unless renewed"
+      - claim: suspension mechanism trigger deadline for steel/aluminium
+        kind: temporal
+        value: "December 31, 2026"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "if Washington continues applying a rate higher than 15% on these products after December 31, 2026"
+      - claim: Trump tariff threat on EU cars
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "Trump threatened 25% tariffs on EU cars if the deal is not enforced by July 4"
+      - claim: Trump tariff threat deadline for EU cars
+        kind: temporal
+        value: "July 4"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "if the deal is not enforced by July 4"
+      - claim: named institution — EPP Group
+        kind: named_institution
+        value: "EPP Group"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "The EPP Group endorsed the deal"
+      - claim: named institution — Renew Europe
+        kind: named_institution
+        value: "Renew Europe"
+        source_urls:
+          - https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/0/eu-us-trade-final-vote-in-parliament-on-tariff-legislation
+        verbatim_excerpt: "Within the Renew Europe group, divisions persisted"
+    quotes: []
+
+  - story_id: ai-chiefs-g7-allies-clash-ai-sovereignty
+    category: tech
+    headline_en: "AI Chiefs from OpenAI, DeepMind, Anthropic and Mistral at G7 as Allies Clash Over AI Sovereignty"
+    lead_url: https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+    body_source: full
+    corroborated_by:
+      - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+      - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+      - https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal
+      - https://www.euronews.com/my-europe/2026/06/15/newsletter-the-g7s-moment-of-reckoning
+    hard_facts:
+      - claim: G7 summit opening date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "At the 52nd G7 summit opening in Évian-les-Bains on June 15, 2026"
+      - claim: named person — Dario Amodei, Anthropic CEO
+        kind: named_person
+        value: "Dario Amodei"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "AI executives from Anthropic (CEO Dario Amodei)"
+      - claim: named person — Sam Altman, OpenAI CEO
+        kind: named_person
+        value: "Sam Altman"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "OpenAI (CEO Sam Altman, personally invited by Macron)"
+      - claim: named person — Demis Hassabis, Google DeepMind CEO
+        kind: named_person
+        value: "Demis Hassabis"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "Google DeepMind (CEO Demis Hassabis)"
+      - claim: named institution — Anthropic
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "AI executives from Anthropic (CEO Dario Amodei)"
+      - claim: named institution — OpenAI
+        kind: named_institution
+        value: "OpenAI"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "OpenAI (CEO Sam Altman, personally invited by Macron)"
+      - claim: named institution — Google DeepMind
+        kind: named_institution
+        value: "Google DeepMind"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "Google DeepMind (CEO Demis Hassabis)"
+      - claim: named institution — Mistral AI
+        kind: named_institution
+        value: "Mistral AI"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "France's Mistral AI were confirmed attendees"
+      - claim: US White House executive order date
+        kind: temporal
+        value: "June 2"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "the US White House's June 2 executive order prioritises national security measures"
+      - claim: EU Tech Sovereignty package date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "the EU's June 3 European Tech Sovereignty package"
+      - claim: named product — EU European Tech Sovereignty package
+        kind: named_product
+        value: "European Tech Sovereignty package"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "the EU's June 3 European Tech Sovereignty package proposes boosting EU-owned chip manufacturing and cloud infrastructure"
+      - claim: named product — Canada-Germany Sovereign Tech Alliance
+        kind: named_product
+        value: "Sovereign Tech Alliance"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "Canada and Germany established a 'Sovereign Tech Alliance'"
+      - claim: Anthropic model restricted — Fable 5
+        kind: named_product
+        value: "Fable 5"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "the Trump administration had instructed Anthropic to restrict its advanced models Fable 5 and Mythos 5 for all foreign users"
+      - claim: Anthropic model restricted — Mythos 5
+        kind: named_product
+        value: "Mythos 5"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "the Trump administration had instructed Anthropic to restrict its advanced models Fable 5 and Mythos 5 for all foreign users"
+      - claim: days before summit EU package issued
+        kind: numerical
+        value: "13 days"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending
+        verbatim_excerpt: "The EU issued its European Tech Sovereignty package just 13 days before the summit"
+    quotes: []
+
+  - story_id: 42-us-ags-subpoena-openai-eu-probes-grok
+    category: tech
+    headline_en: "42 US State AGs Subpoena OpenAI Over ChatGPT Safety as European Regulators Probe Grok and Anthropic"
+    lead_url: https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+    body_source: full
+    corroborated_by:
+      - https://www.insurancejournal.com/news/national/2026/06/15/873665.htm
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+      - https://www.insurancejournal.com/news/national/2026/06/15/873665.htm
+    hard_facts:
+      - claim: number of state AGs in subpoena coalition
+        kind: numerical
+        value: "42"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "A bipartisan coalition of 42 US state attorneys general served OpenAI with a sweeping subpoena"
+      - claim: subpoena service date
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "served OpenAI with a sweeping subpoena on June 12, 2026"
+      - claim: OpenAI IPO S-1 filing date
+        kind: temporal
+        value: "June 8, 2026"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "OpenAI filed a confidential S-1 IPO registration statement with the Securities and Exchange Commission on June 8, 2026"
+      - claim: OpenAI targeted IPO listing timing
+        kind: temporal
+        value: "as early as September"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "targeting a public listing as early as September"
+      - claim: OpenAI projected IPO valuation
+        kind: numerical_with_unit
+        value: "approaching or exceeding $1 trillion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "analysts projecting a valuation approaching or exceeding $1 trillion"
+      - claim: Trump administration Anthropic model restriction date
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "the Trump administration's June 12 restriction of Anthropic's Fable 5 and Mythos 5 models"
+      - claim: Anthropic models restricted — Fable 5
+        kind: named_product
+        value: "Fable 5"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "the Trump administration's June 12 restriction of Anthropic's Fable 5 and Mythos 5 models"
+      - claim: Anthropic models restricted — Mythos 5
+        kind: named_product
+        value: "Mythos 5"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "the Trump administration's June 12 restriction of Anthropic's Fable 5 and Mythos 5 models"
+      - claim: named institution — New York attorney general (inquiry lead)
+        kind: named_institution
+        value: "New York's attorney general"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "The inquiry, led by New York's attorney general"
+      - claim: named institution — Securities and Exchange Commission
+        kind: named_institution
+        value: "Securities and Exchange Commission"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "OpenAI filed a confidential S-1 IPO registration statement with the Securities and Exchange Commission"
+      - claim: named product — ChatGPT
+        kind: named_product
+        value: "ChatGPT"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "A bipartisan coalition of 42 US state attorneys general served OpenAI with a sweeping subpoena on June 12, 2026, demanding documents covering advertising practices, user retention methods, consumer and health data handling"
+      - claim: named product — Grok chatbot (European probe)
+        kind: named_product
+        value: "Grok"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/15/multiple-us-states-subpoena-openai-over-chatgpt-user-safety-amid-ipo-push
+        verbatim_excerpt: "European regulators opened investigations into Elon Musk's Grok chatbot"
+    quotes: []
+
+  - story_id: uk-bans-social-media-under-16s-spring-2027
+    category: society
+    headline_en: "UK Bans Social Media for Under-16s: TikTok, Instagram, YouTube Covered; Enforcement Planned Spring 2027"
+    lead_url: https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s
+      - https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban
+    locked_urls:
+      - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+      - https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s
+      - https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban
+    hard_facts:
+      - claim: UK government announcement date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "The UK Government announced on June 15, 2026 that social media platforms will be banned from offering services to users under 16"
+      - claim: public consultation responses received
+        kind: numerical_with_unit
+        value: "116,000 responses"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "following a public consultation receiving 116,000 responses"
+      - claim: legislation passage target
+        kind: temporal
+        value: "before Christmas 2026"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "Legislation is expected to be passed before Christmas 2026"
+      - claim: enforcement start
+        kind: temporal
+        value: "Spring 2027"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "with enforcement starting Spring 2027"
+      - claim: minimum age for romantic companion AI chatbots
+        kind: numerical
+        value: "18"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "'romantic companion' AI chatbots (minimum age 18)"
+      - claim: parents surveyed in support
+        kind: numerical_with_unit
+        value: "Nine in ten"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "Nine in ten parents surveyed supported the ban"
+      - claim: young people agreed under-16s should be restricted
+        kind: numerical_with_unit
+        value: "two-thirds"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "two-thirds of young people agreed under-16s should be restricted from at least some platforms"
+      - claim: named person — Keir Starmer
+        kind: named_person
+        value: "Keir Starmer"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "Prime Minister Keir Starmer described it as 'a big moment for our country'"
+      - claim: named institution — Ofcom
+        kind: named_institution
+        value: "Ofcom"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "Ofcom will conduct a rapid study on age assurance measures"
+      - claim: named product — Snapchat
+        kind: named_product
+        value: "Snapchat"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "The ban covers platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X"
+      - claim: named product — TikTok
+        kind: named_product
+        value: "TikTok"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "The ban covers platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X"
+      - claim: named product — YouTube
+        kind: named_product
+        value: "YouTube"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "The ban covers platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X"
+      - claim: named product — Instagram
+        kind: named_product
+        value: "Instagram"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "The ban covers platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X"
+      - claim: named product — WhatsApp (excluded)
+        kind: named_product
+        value: "WhatsApp"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "excludes messaging services like WhatsApp and Signal"
+      - claim: named product — Signal (excluded)
+        kind: named_product
+        value: "Signal"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "excludes messaging services like WhatsApp and Signal"
+      - claim: named product — YouTube Kids (excluded)
+        kind: named_product
+        value: "YouTube Kids"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "excludes messaging services like WhatsApp and Signal, and YouTube Kids"
+      - claim: Australia ban date (comparator)
+        kind: temporal
+        value: "December 2024"
+        source_urls:
+          - https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        verbatim_excerpt: "The UK joins Australia (December 2024 ban) and Canada in tightening online safety for children"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: UK Prime Minister
+        verbatim_en: "It is clear to me a full ban is the right choice."
+        source_url: https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
+        context: UK Government announcement on social media ban for under-16s, June 15, 2026
+
+  - story_id: russia-missiles-611-drones-kyiv-cathedral-kharkiv
+    category: society
+    headline_en: "Russian Missiles and 611 Drones Strike Kyiv's UNESCO Cathedral; 5 Rescuers Killed in Kharkiv"
+    lead_url: https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+    body_source: full
+    corroborated_by:
+      - https://www.cbsnews.com/news/russia-ukraine-war-dormition-cathedral-fire/
+      - https://kyivindependent.com/russian-attack-june-14-2026/
+    locked_urls:
+      - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+      - https://www.cbsnews.com/news/russia-ukraine-war-dormition-cathedral-fire/
+      - https://kyivindependent.com/russian-attack-june-14-2026/
+    hard_facts:
+      - claim: attack date
+        kind: temporal
+        value: "overnight into June 15, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "Russia launched a massive missile and drone barrage against Ukraine overnight into June 15, 2026"
+      - claim: named product — Zirkon anti-ship missiles count
+        kind: numerical_with_unit
+        value: "six Zirkon anti-ship missiles"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "The attack arsenal included six Zirkon anti-ship missiles"
+      - claim: named product — Iskander-M/S-400 ballistic missiles count
+        kind: numerical_with_unit
+        value: "34 Iskander-M/S-400 ballistic missiles"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "34 Iskander-M/S-400 ballistic missiles"
+      - claim: named product — Kh-101/Iskander-K cruise missiles count
+        kind: numerical_with_unit
+        value: "30 Kh-101/Iskander-K cruise missiles"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "30 Kh-101/Iskander-K cruise missiles"
+      - claim: attack drones count
+        kind: numerical_with_unit
+        value: "611 attack drones"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "611 attack drones"
+      - claim: named institution — Kyiv Pechersk Lavra
+        kind: named_institution
+        value: "Kyiv Pechersk Lavra"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "setting fire to the historic UNESCO World Heritage-listed Kyiv Pechersk Lavra"
+      - claim: named person — Metropolitan Epiphanius
+        kind: named_person
+        value: "Metropolitan Epiphanius"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "Metropolitan Epiphanius, head of the Orthodox Church of Ukraine, confirmed the damage"
+      - claim: Kyiv killed count
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "In Kyiv, at least five people were killed and 29 others injured"
+      - claim: Kyiv injured count
+        kind: numerical
+        value: "29"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "at least five people were killed and 29 others injured"
+      - claim: child victim age — 5
+        kind: numerical
+        value: "5"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "including a pregnant woman and children aged 5 and 6"
+      - claim: child victim age — 6
+        kind: numerical
+        value: "6"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "including a pregnant woman and children aged 5 and 6"
+      - claim: Kyiv households without electricity
+        kind: numerical_with_unit
+        value: "approximately 140,000 households"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "the attack left approximately 140,000 households in northern Kyiv without electricity"
+      - claim: Kharkiv rescuers killed count
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "In Kharkiv, five emergency service rescuers were killed and at least five others injured"
+      - claim: Kharkiv rescuers injured count
+        kind: numerical_with_unit
+        value: "at least five others"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "five emergency service rescuers were killed and at least five others injured"
+      - claim: Kharkiv target — art museum
+        kind: named_institution
+        value: "Kharkiv art museum"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "a second Russian strike targeted the city's art museum"
+      - claim: Kyiv Pechersk Lavra founding date
+        kind: temporal
+        value: "1051"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "The Kyiv Pechersk Lavra, founded in 1051"
+      - claim: named person — Volodymyr Zelenskyy
+        kind: named_person
+        value: "Volodymyr Zelenskyy"
+        source_urls:
+          - https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        verbatim_excerpt: "President Zelenskyy stated on social media"
+    quotes:
+      - speaker_name: Volodymyr Zelenskyy
+        speaker_title: President of Ukraine
+        verbatim_en: "This is one of Russia's most serious crimes against Christian culture to date."
+        source_url: https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war
+        context: social media statement following Russian missile and drone attack on Kyiv, June 15, 2026
+
+  - story_id: norway-marius-borg-hoiby-sentenced-four-years
+    category: society
+    headline_en: "Norway Crown Princess's Son Marius Borg Høiby Sentenced to Four Years for Rape"
+    lead_url: https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/world/europe/norway-crown-princess-son-marius-borg-hoiby-jailed-rape-rcna350075
+      - https://www.npr.org/2026/06/15/g-s1-128126/norways-crown-princess-son-sentenced-to-prison-for-rape
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+      - https://www.nbcnews.com/world/europe/norway-crown-princess-son-marius-borg-hoiby-jailed-rape-rcna350075
+      - https://www.npr.org/2026/06/15/g-s1-128126/norways-crown-princess-son-sentenced-to-prison-for-rape
+    hard_facts:
+      - claim: named person — Marius Borg Høiby
+        kind: named_person
+        value: "Marius Borg Høiby"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "Marius Borg Høiby, 29, the eldest son of Norway's Crown Princess Mette-Marit"
+      - claim: age of Marius Borg Høiby
+        kind: numerical
+        value: "29"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "Marius Borg Høiby, 29"
+      - claim: named person — Crown Princess Mette-Marit
+        kind: named_person
+        value: "Crown Princess Mette-Marit"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "the eldest son of Norway's Crown Princess Mette-Marit"
+      - claim: named person — Crown Prince Haakon
+        kind: named_person
+        value: "Crown Prince Haakon"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "stepson of Crown Prince Haakon"
+      - claim: sentence length
+        kind: temporal
+        value: "four years in prison"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "was sentenced to four years in prison on June 15, 2026"
+      - claim: sentencing date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "was sentenced to four years in prison on June 15, 2026"
+      - claim: conviction — counts of rape
+        kind: numerical
+        value: "two counts of rape"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "after being convicted on two counts of rape"
+      - claim: acquitted counts of rape
+        kind: numerical
+        value: "two other rape charges"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "He was acquitted of two other rape charges"
+      - claim: total criminal charges count
+        kind: numerical
+        value: "40"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "Høiby faced 40 criminal charges in total"
+      - claim: prosecution requested sentence
+        kind: temporal
+        value: "seven-year sentence"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "The prosecution had requested a seven-year sentence"
+      - claim: defence sought sentence
+        kind: temporal
+        value: "18 months"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "Høiby's defence sought 18 months"
+      - claim: offence period
+        kind: temporal
+        value: "between 2018 and 2024"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "The offences occurred between 2018 and 2024"
+      - claim: initial arrest date
+        kind: temporal
+        value: "August 2024"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "The case emerged from an August 2024 domestic assault arrest"
+      - claim: named institution — Oslo court
+        kind: named_institution
+        value: "Oslo court"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/15/norway-crown-princess-son-sentenced-to-four-years-in-prison-for-rape-court-says
+        verbatim_excerpt: "sentenced to four years in prison on June 15, 2026 by an Oslo court"
+    quotes: []
+
+  - story_id: eu-libe-return-regulation-offshore-hubs-june17
+    category: society
+    headline_en: "EU Parliament's LIBE Committee Backs Return Regulation Enabling Offshore Deportation Hubs; Plenary Vote June 17"
+    lead_url: https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+    body_source: full
+    corroborated_by:
+      - https://home-affairs.ec.europa.eu/news/commission-welcomes-political-agreement-return-regulation-2026-06-02_en
+      - https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/council-and-parliament-reach-deal-on-returns-of-illegally-staying-third-country-nationals/
+    locked_urls:
+      - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+      - https://home-affairs.ec.europa.eu/news/commission-welcomes-political-agreement-return-regulation-2026-06-02_en
+      - https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/council-and-parliament-reach-deal-on-returns-of-illegally-staying-third-country-nationals/
+    hard_facts:
+      - claim: LIBE committee vote date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "The European Parliament's Committee on Civil Liberties, Justice and Home Affairs (LIBE) voted on June 15, 2026"
+      - claim: plenary vote date
+        kind: temporal
+        value: "Wednesday June 17"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "ahead of a plenary vote scheduled for Wednesday June 17 in Strasbourg"
+      - claim: political agreement date between Parliament and Council
+        kind: temporal
+        value: "June 1, 2026"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+          - https://home-affairs.ec.europa.eu/news/commission-welcomes-political-agreement-return-regulation-2026-06-02_en
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/council-and-parliament-reach-deal-on-returns-of-illegally-staying-third-country-nationals/
+        verbatim_excerpt: "The political agreement between Parliament and Council had been reached June 1, 2026"
+      - claim: maximum detention period under Return Regulation
+        kind: temporal
+        value: "up to 24 months"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "detention periods of up to 24 months for those who refuse to leave"
+      - claim: EU-wide re-entry ban duration
+        kind: temporal
+        value: "10-year EU-wide re-entry ban"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "a 10-year EU-wide re-entry ban for non-compliance"
+      - claim: directive being replaced — 2008 Returns Directive
+        kind: named_product
+        value: "2008 Returns Directive"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "The Return Regulation replaces the 2008 Returns Directive"
+      - claim: EU Migration and Asylum Pact applicability date
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "The EU Migration and Asylum Pact had become fully applicable across all 27 member states on June 12, 2026"
+      - claim: member states covered by EU Migration and Asylum Pact
+        kind: numerical
+        value: "27"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "fully applicable across all 27 member states on June 12, 2026"
+      - claim: named person — Malik Azmani (lead rapporteur)
+        kind: named_person
+        value: "Malik Azmani"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "lead rapporteur Malik Azmani acknowledging he must 'convince' colleagues"
+      - claim: named person — Fabienne Keller
+        kind: named_person
+        value: "Fabienne Keller"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "French MEP Fabienne Keller tabled an amendment to exclude families with children"
+      - claim: named institution — LIBE committee
+        kind: named_institution
+        value: "Committee on Civil Liberties, Justice and Home Affairs (LIBE)"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "The European Parliament's Committee on Civil Liberties, Justice and Home Affairs (LIBE) voted on June 15, 2026"
+      - claim: named product — European Return Order
+        kind: named_product
+        value: "European Return Order"
+        source_urls:
+          - https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        verbatim_excerpt: "a standardised European Return Order"
+    quotes:
+      - speaker_name: Fabienne Keller
+        speaker_title: French MEP
+        verbatim_en: "is a human and legal red line"
+        source_url: https://agenceurope.eu/en/bulletin/article/13885/18/european-parliament-to-vote-on-provisional-agreement-on-return-regulation-at-wednesday-17-june-plenary
+        context: LIBE committee debate on Return Regulation amendment excluding families with children, June 15, 2026
+
+  - story_id: ecb-lagarde-32-settlement-depositories-digital-euro
+    category: other
+    headline_en: "ECB President Lagarde Warns Europe's 32 Settlement Depositories vs US's 2 as Digital Euro Advances"
+    lead_url: https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+    hard_facts:
+      - claim: speech date and location
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "ECB President Christine Lagarde delivered a speech in Frankfurt am Main on June 15, 2026"
+      - claim: speech location
+        kind: named_institution
+        value: "Frankfurt am Main"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "delivered a speech in Frankfurt am Main on June 15, 2026"
+      - claim: named person — Christine Lagarde
+        kind: named_person
+        value: "Christine Lagarde"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "ECB President Christine Lagarde delivered a speech"
+      - claim: number of EU central securities depositories
+        kind: numerical
+        value: "32"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "'32 central securities depositories keep these records across our Union. The United States has two.'"
+      - claim: number of US central securities depositories
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "'32 central securities depositories keep these records across our Union. The United States has two.'"
+      - claim: EU card transactions share from international payment schemes
+        kind: numerical_with_unit
+        value: "over 60%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "Europe's dependence on international payment schemes, which account for over 60% of card transactions in the EU"
+      - claim: named product — ECB Pontes project
+        kind: named_product
+        value: "Pontes"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "the ECB's Pontes and Appia projects providing tokenised transaction settlement infrastructure"
+      - claim: named product — ECB Appia project
+        kind: named_product
+        value: "Appia"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "the ECB's Pontes and Appia projects providing tokenised transaction settlement infrastructure"
+      - claim: named product — Eurosystem TIPS instant payment system
+        kind: named_product
+        value: "TIPS"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "the Eurosystem is interlinking its instant payment system TIPS with global networks"
+      - claim: named product — India UPI
+        kind: named_product
+        value: "UPI"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "including India's UPI and Switzerland's SIC IP system"
+      - claim: named product — Switzerland SIC IP system
+        kind: named_product
+        value: "SIC IP system"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "including India's UPI and Switzerland's SIC IP system"
+      - claim: speech title
+        kind: named_product
+        value: "Money in transition: digitalisation and innovation in payments"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "titled 'Money in transition: digitalisation and innovation in payments'"
+      - claim: named institution — European Central Bank
+        kind: named_institution
+        value: "European Central Bank"
+        source_urls:
+          - https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        verbatim_excerpt: "ECB President Christine Lagarde delivered a speech"
+    quotes:
+      - speaker_name: Christine Lagarde
+        speaker_title: ECB President
+        verbatim_en: "32 central securities depositories keep these records across our Union. The United States has two."
+        source_url: https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260615~35e6c6c4de.en.html
+        context: speech titled "Money in transition: digitalisation and innovation in payments", Frankfurt am Main, June 15, 2026
