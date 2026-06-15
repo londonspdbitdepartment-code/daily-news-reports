@@ -1,0 +1,1660 @@
+version: 1
+generated_at: "2026-06-15T10:00:00Z"
+country: South Korea
+date: "2026-06-15"
+total_stories: 14
+stories:
+  - story_id: seoul-stocks-surge-5pct-us-iran-peace-deal
+    category: econ
+    headline_en: Seoul stocks surge 5% as US-Iran confirm peace deal
+    lead_url: https://www.koreaherald.com/article/10771498
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10771496
+      - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+    locked_urls:
+      - https://www.koreaherald.com/article/10771498
+      - https://www.koreaherald.com/article/10771496
+      - https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war
+    hard_facts:
+      - claim: KOSPI point gain on June 15
+        kind: numerical_with_unit
+        value: "407.79 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "KOSPI gained 407.79 points (5.02%) to 8,531.41 by mid-morning"
+      - claim: KOSPI percentage gain on June 15
+        kind: numerical_with_unit
+        value: "5.02%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "KOSPI gained 407.79 points (5.02%) to 8,531.41 by mid-morning"
+      - claim: KOSPI closing level mid-morning June 15
+        kind: numerical_with_unit
+        value: "8,531.41"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "KOSPI gained 407.79 points (5.02%) to 8,531.41 by mid-morning"
+      - claim: KOSPI milestone breached
+        kind: numerical
+        value: "8,500"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "breaching 8,500 for the first time"
+      - claim: date of market surge
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "South Korean equities surged on June 15, 2026 following announcement of a U.S.-Iran agreement"
+      - claim: formal signing day and venue
+        kind: temporal
+        value: "Friday in Switzerland"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Trump confirmed deal; formal signing Friday in Switzerland"
+      - claim: Brent crude price decline percentage
+        kind: numerical_with_unit
+        value: "3.37%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Brent crude fell 3.37% to $87.3/bbl"
+      - claim: Brent crude price per barrel
+        kind: numerical_with_unit
+        value: "$87.3/bbl"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Brent crude fell 3.37% to $87.3/bbl"
+      - claim: Samsung Electronics share gain
+        kind: numerical_with_unit
+        value: "+4.96%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Samsung Electronics +4.96%"
+      - claim: SK hynix share gain
+        kind: numerical_with_unit
+        value: "+6.65%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "SK hynix +6.65%"
+      - claim: Hyundai Motor share gain
+        kind: numerical_with_unit
+        value: "+6.75%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Hyundai Motor +6.75%"
+      - claim: HD Hyundai Heavy Industries share gain
+        kind: numerical_with_unit
+        value: "+9.54%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "HD Hyundai Heavy Industries +9.54%"
+      - claim: Korean won rate vs USD
+        kind: numerical_with_unit
+        value: "1,504.8/USD"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Korean won at 1,504.8/USD, up 15 won from prior session"
+      - claim: won gain vs prior session
+        kind: numerical_with_unit
+        value: "15 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Korean won at 1,504.8/USD, up 15 won from prior session"
+      - claim: date of 17-year low for won
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "recovering from June 5 17-year low of 1,561.5"
+      - claim: 17-year low level for Korean won
+        kind: numerical_with_unit
+        value: "1,561.5"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "recovering from June 5 17-year low of 1,561.5"
+      - claim: KOSPI 200 Futures trigger threshold for sidecar
+        kind: numerical_with_unit
+        value: "≥5%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "buy-side sidecar triggered when KOSPI 200 Futures rose ≥5% for ≥1 min"
+      - claim: sidecar trigger duration threshold
+        kind: temporal
+        value: "≥1 min"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "buy-side sidecar triggered when KOSPI 200 Futures rose ≥5% for ≥1 min"
+      - claim: institutional net buy volume
+        kind: numerical_with_unit
+        value: "471.8 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Institutionals net buyers of 471.8 billion won"
+      - claim: Kosdaq gain percentage
+        kind: numerical_with_unit
+        value: "+1.69%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Kosdaq +1.69% to 1,046.47"
+      - claim: Kosdaq level
+        kind: numerical_with_unit
+        value: "1,046.47"
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Kosdaq +1.69% to 1,046.47"
+      - claim: named person confirming deal
+        kind: named_person
+        value: Trump
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Trump confirmed deal"
+      - claim: exchange activating sidecar
+        kind: named_institution
+        value: KRX
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "KRX activated buy-side sidecar"
+      - claim: Samsung Electronics stock
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Samsung Electronics +4.96%"
+      - claim: SK hynix stock
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "SK hynix +6.65%"
+      - claim: Hyundai Motor stock
+        kind: named_institution
+        value: Hyundai Motor
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "Hyundai Motor +6.75%"
+      - claim: HD Hyundai Heavy Industries stock
+        kind: named_institution
+        value: HD Hyundai Heavy Industries
+        source_urls:
+          - https://www.koreaherald.com/article/10771498
+        verbatim_excerpt: "HD Hyundai Heavy Industries +9.54%"
+    quotes: []
+
+  - story_id: interim-iran-peace-deal-eases-sk-export-risk
+    category: econ
+    headline_en: Interim Iran peace deal eases external risk for SK export economy
+    lead_url: https://www.koreaherald.com/article/10772010
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772010
+    hard_facts:
+      - claim: number of SK-managed vessels stranded
+        kind: numerical
+        value: "24"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "24 SK-managed vessels with 137 Korean sailors pinned in Qatar/UAE ports"
+      - claim: number of Korean sailors stranded
+        kind: numerical
+        value: "137"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "24 SK-managed vessels with 137 Korean sailors pinned in Qatar/UAE ports"
+      - claim: ports where vessels were stranded
+        kind: named_institution
+        value: "Qatar/UAE ports"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "24 SK-managed vessels with 137 Korean sailors pinned in Qatar/UAE ports"
+      - claim: vessel attacked in May
+        kind: named_product
+        value: HMM Namu
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "HMM Namu attacked in May"
+      - claim: attack date reference
+        kind: temporal
+        value: May
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "HMM Namu attacked in May"
+      - claim: Brent crude decline percentage
+        kind: numerical_with_unit
+        value: "-3.9%"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "Brent -3.9% to $84/bbl"
+      - claim: Brent crude price
+        kind: numerical_with_unit
+        value: "$84/bbl"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "Brent -3.9% to $84/bbl"
+      - claim: US crude decline percentage
+        kind: numerical_with_unit
+        value: "-4.8%"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "US crude -4.8% to $81/bbl (lowest since March)"
+      - claim: US crude price
+        kind: numerical_with_unit
+        value: "$81/bbl"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "US crude -4.8% to $81/bbl (lowest since March)"
+      - claim: US crude lowest since period
+        kind: temporal
+        value: "lowest since March"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "US crude -4.8% to $81/bbl (lowest since March)"
+      - claim: gasoline price per liter
+        kind: numerical_with_unit
+        value: "2,009.9 won/L"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "Gasoline 2,009.9 won/L, diesel 2,004.8 won/L"
+      - claim: diesel price per liter
+        kind: numerical_with_unit
+        value: "2,004.8 won/L"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "Gasoline 2,009.9 won/L, diesel 2,004.8 won/L"
+      - claim: share of crude from Middle East
+        kind: numerical_with_unit
+        value: "~70%"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "~70% of crude, ~18% of LNG from Middle East"
+      - claim: share of LNG from Middle East
+        kind: numerical_with_unit
+        value: "~18%"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "~70% of crude, ~18% of LNG from Middle East"
+      - claim: formal signing date and location
+        kind: temporal
+        value: "Friday Switzerland"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "Formal signing Friday Switzerland"
+      - claim: jobs lost in May 2026
+        kind: numerical_with_unit
+        value: "-40,000 jobs"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "May 2026: -40,000 jobs (first annual decline in 17 months)"
+      - claim: months since prior job decline
+        kind: temporal
+        value: "first annual decline in 17 months"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "May 2026: -40,000 jobs (first annual decline in 17 months)"
+      - claim: CPI in May 2026
+        kind: numerical_with_unit
+        value: "+3.1%"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "CPI +3.1% (fastest in 26 months)"
+      - claim: CPI fastest pace duration
+        kind: temporal
+        value: "fastest in 26 months"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "CPI +3.1% (fastest in 26 months)"
+      - claim: byline author
+        kind: named_person
+        value: "Ahn Sung-mi"
+        source_urls:
+          - https://www.koreaherald.com/article/10772010
+        verbatim_excerpt: "Byline: Ahn Sung-mi"
+    quotes:
+      - speaker_name: "Unnamed shipping industry official"
+        speaker_title: "Shipping industry official (unnamed)"
+        verbatim_en: "will likely take months"
+        source_url: https://www.koreaherald.com/article/10772010
+        context: "Commentary on normalization of Hormuz shipping after ceasefire"
+
+  - story_id: sk-cambodia-expand-economic-ties-fta
+    category: econ
+    headline_en: SK and Cambodia vow to expand economic ties under 2022 FTA
+    lead_url: https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+    hard_facts:
+      - claim: SK Trade Minister identity
+        kind: named_person
+        value: Yeo Han-koo
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "SK Trade Minister Yeo Han-koo met Cambodian Deputy PM Sun Chanthol in Seoul on June 15, 2026"
+      - claim: Cambodian Deputy PM identity
+        kind: named_person
+        value: Sun Chanthol
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "SK Trade Minister Yeo Han-koo met Cambodian Deputy PM Sun Chanthol in Seoul on June 15, 2026"
+      - claim: meeting date and location
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "SK Trade Minister Yeo Han-koo met Cambodian Deputy PM Sun Chanthol in Seoul on June 15, 2026"
+      - claim: bilateral trade value in 2025
+        kind: numerical_with_unit
+        value: "$1.19B"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "Bilateral trade $1.19B in 2025 (vs $966M in 2021)"
+      - claim: bilateral trade value in 2021 (baseline)
+        kind: numerical_with_unit
+        value: "$966M"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "Bilateral trade $1.19B in 2025 (vs $966M in 2021)"
+      - claim: FTA effective date
+        kind: temporal
+        value: "since 2022"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "FTA effective since 2022"
+      - claim: Cambodia tariff liberalization under FTA
+        kind: numerical_with_unit
+        value: "93.8%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "Cambodia lifts tariffs on 93.8% of products"
+      - claim: SK tariff liberalization under FTA
+        kind: numerical_with_unit
+        value: "95.6%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "SK on 95.6%"
+      - claim: roadshow date and location
+        kind: temporal
+        value: "June 16 in Incheon"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "Cambodia-Incheon Investment Roadshow scheduled June 16 in Incheon"
+      - claim: roadshow event name
+        kind: named_product
+        value: "Cambodia-Incheon Investment Roadshow"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "Cambodia-Incheon Investment Roadshow scheduled June 16 in Incheon"
+      - claim: Korea Strategic Trade and Investment Deal with US signed
+        kind: temporal
+        value: "Oct 2025"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "Korea Strategic Trade and Investment Deal w/ US (Oct 2025)"
+      - claim: US tariff rate on Korean goods under deal
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "most US tariffs on Korean goods at 15%"
+      - claim: SK investment commitment in US under deal
+        kind: numerical_with_unit
+        value: "$350B"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/korea-cambodia-vow-to-expand-economic-ties-building-on-fta/12723067
+        verbatim_excerpt: "conditional on $350B SK investment in US"
+    quotes: []
+
+  - story_id: president-lee-calls-restraint-rome-protests
+    category: politics
+    headline_en: President Lee calls for restraint from Rome on election protests
+    lead_url: https://www.koreaherald.com/article/10771986
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260615/protests-over-ballot-shortages-continue-for-11th-day
+      - https://www.koreajoongangdaily.com/korea/protests-over-ballot-shortages-continue-for-11th-day/12723378
+    locked_urls:
+      - https://www.koreaherald.com/article/10771986
+      - https://www.koreatimes.co.kr/southkorea/politics/20260615/protests-over-ballot-shortages-continue-for-11th-day
+      - https://www.koreajoongangdaily.com/korea/protests-over-ballot-shortages-continue-for-11th-day/12723378
+    hard_facts:
+      - claim: President identity
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "President Lee Jae Myung addressed protests via video link from Rome (Italy state visit) on June 15"
+      - claim: address date
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "President Lee Jae Myung addressed protests via video link from Rome (Italy state visit) on June 15"
+      - claim: address location context
+        kind: named_institution
+        value: "Rome (Italy state visit)"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "addressed protests via video link from Rome (Italy state visit) on June 15"
+      - claim: election with ballot shortages date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "Protests over June 3 local-election ballot shortages"
+      - claim: protest duration in days
+        kind: temporal
+        value: "11th day"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "Protests over June 3 local-election ballot shortages entered 11th day"
+      - claim: Monday morning protest attendance
+        kind: numerical_with_unit
+        value: "~200 protesters"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "~200 protesters Monday morning (down from ~20,000 over weekend)"
+      - claim: peak weekend protest attendance
+        kind: numerical_with_unit
+        value: "~20,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "~200 protesters Monday morning (down from ~20,000 over weekend)"
+      - claim: number of polling stations where voting was suspended
+        kind: numerical
+        value: "26"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "Voting suspended at 26 polling stations nationwide (mostly Seoul)"
+      - claim: misconducts cases investigated
+        kind: numerical
+        value: "15"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "15 cases investigated for protester misconduct"
+      - claim: maximum imprisonment for aggravated coercion
+        kind: temporal
+        value: "up to 10 years"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "searches of athletes' belongings could face \"aggravated coercion, punishment up to 10 years\""
+      - claim: byline author
+        kind: named_person
+        value: "Hwang Joo-young"
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "Byline: Hwang Joo-young"
+      - claim: election oversight body
+        kind: named_institution
+        value: NEC
+        source_urls:
+          - https://www.koreaherald.com/article/10771986
+        verbatim_excerpt: "NEC said shortages do not justify rerun under election law"
+    quotes:
+      - speaker_name: "Lee Jae Myung"
+        speaker_title: "President of South Korea"
+        verbatim_en: "be careful not to let their expressions of opinion go so far as to infringe on the rights of others"
+        source_url: https://www.koreaherald.com/article/10771986
+        context: "Video link address from Rome on June 15 regarding ongoing election protests"
+
+  - story_id: ppp-approval-surpasses-ruling-dp-first-time
+    category: politics
+    headline_en: PPP approval rating surpasses ruling DP for first time
+    lead_url: https://www.koreaherald.com/article/10771942
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10771942
+    hard_facts:
+      - claim: PPP approval rating in Monday poll
+        kind: numerical_with_unit
+        value: "44.3%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "People Power Party approval 44.3% in Monday Realmeter poll, +3.2pp"
+      - claim: PPP approval change vs prior period
+        kind: numerical_with_unit
+        value: "+3.2pp"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "People Power Party approval 44.3% in Monday Realmeter poll, +3.2pp"
+      - claim: polling institution
+        kind: named_institution
+        value: Realmeter
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "People Power Party approval 44.3% in Monday Realmeter poll"
+      - claim: Democratic Party approval rating
+        kind: numerical_with_unit
+        value: "38%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "Democratic Party 38%, -3.8pp (below 40% first time in 10 months)"
+      - claim: DP approval change vs prior period
+        kind: numerical_with_unit
+        value: "-3.8pp"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "Democratic Party 38%, -3.8pp (below 40% first time in 10 months)"
+      - claim: DP below 40% duration
+        kind: temporal
+        value: "first time in 10 months"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "Democratic Party 38%, -3.8pp (below 40% first time in 10 months)"
+      - claim: President Lee job approval
+        kind: numerical_with_unit
+        value: "51.5%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "Lee's job approval 51.5% (4 consecutive weeks of decline; lowest since Oct, still above 50%)"
+      - claim: consecutive weeks of Lee approval decline
+        kind: temporal
+        value: "4 consecutive weeks"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "4 consecutive weeks of decline"
+      - claim: Lee approval lowest since period
+        kind: temporal
+        value: "lowest since Oct"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "lowest since Oct, still above 50%"
+      - claim: June 3 local elections mayoral/gubernatorial races won by DP
+        kind: numerical
+        value: "12 of 16"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "June 3 local elections: DP won 12 of 16 mayoral/gubernatorial"
+      - claim: date of local elections
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "June 3 local elections: DP won 12 of 16 mayoral/gubernatorial"
+      - claim: Yoon ouster event reference
+        kind: temporal
+        value: "martial law late 2024"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "First nationwide vote since Lee took office post-Yoon ouster (martial law late 2024)"
+      - claim: PPP party name
+        kind: named_institution
+        value: "People Power Party"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "People Power Party approval 44.3% in Monday Realmeter poll"
+      - claim: DP party name
+        kind: named_institution
+        value: "Democratic Party"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "Democratic Party 38%, -3.8pp"
+      - claim: byline author
+        kind: named_person
+        value: "Son Ji-hyoung"
+        source_urls:
+          - https://www.koreaherald.com/article/10771942
+        verbatim_excerpt: "Byline: Son Ji-hyoung"
+    quotes:
+      - speaker_name: "Lee Jong-hoon"
+        speaker_title: "Political commentator"
+        verbatim_en: "Conservatives rallied and some moderates switched party affiliation to the conservative party, and what accelerated the trend was the ballot shortage crisis."
+        source_url: https://www.koreaherald.com/article/10771942
+        context: "Commentary on PPP approval surpassing DP for first time under President Lee"
+
+  - story_id: sk-weighs-naval-minesweepers-hormuz-deployment
+    category: politics
+    headline_en: SK weighs deploying naval minesweepers to Strait of Hormuz
+    lead_url: https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+    body_source: full
+    corroborated_by:
+      - https://www.koreajoongangdaily.com/korea/korea-to-explore-concrete-ways-to-support-hormuz-stability-after-usiran-deal/12723966
+    locked_urls:
+      - https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+      - https://www.koreajoongangdaily.com/korea/korea-to-explore-concrete-ways-to-support-hormuz-stability-after-usiran-deal/12723966
+    hard_facts:
+      - claim: Korean minesweeper displacement limit
+        kind: numerical_with_unit
+        value: "under 700 tons"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        verbatim_excerpt: "Korean minesweepers under 700 tons"
+      - claim: estimated transport time for independent deployment
+        kind: temporal
+        value: "several months"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        verbatim_excerpt: "independent transport takes several months and risks hull damage"
+      - claim: SK vessels with sailors stranded
+        kind: numerical
+        value: "24"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        verbatim_excerpt: "24 SK vessels with 137 sailors stranded"
+      - claim: Korean sailors stranded
+        kind: numerical
+        value: "137"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        verbatim_excerpt: "24 SK vessels with 137 sailors stranded"
+      - claim: date Defense Minister proposed OPCON transfer timeline
+        kind: temporal
+        value: "June 14"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        verbatim_excerpt: "Defense Minister proposed wartime OPCON transfer timeline to US June 14"
+      - claim: Defense Ministry institution
+        kind: named_institution
+        value: "Defense Ministry"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        verbatim_excerpt: "Defense Ministry: will \"carefully examine realistic options for contribution with relevant ministries\""
+      - claim: byline author
+        kind: named_person
+        value: "Yoon Ji-won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        verbatim_excerpt: "Byline: Yoon Ji-won"
+    quotes:
+      - speaker_name: "Defense Ministry"
+        speaker_title: "South Korean Defense Ministry (official statement)"
+        verbatim_en: "carefully examine realistic options for contribution with relevant ministries"
+        source_url: https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        context: "Statement on possible minesweeper deployment to Hormuz post-ceasefire"
+      - speaker_name: "Senior ruling Democratic Party official"
+        speaker_title: "Senior official, Democratic Party (unnamed)"
+        verbatim_en: "The government's commitment to freedom of navigation in the Strait of Hormuz is firm."
+        source_url: https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        context: "Commentary on deployment consideration"
+      - speaker_name: "Unnamed government source"
+        speaker_title: "Government source (unnamed)"
+        verbatim_en: "This ultimately comes down to a question of commitment [to the United States]."
+        source_url: https://www.koreajoongangdaily.com/korea/korea-weighs-sending-minesweepers-to-help-clear-strait-of-hormuz-after-us-iran-reach-peace-deal/12722609
+        context: "Commentary on minesweeper deployment decision"
+
+  - story_id: openai-ceo-altman-postpones-korea-visit
+    category: tech
+    headline_en: OpenAI CEO Sam Altman postpones Korea visit
+    lead_url: https://www.thelec.net/news/articleView.html?idxno=11287
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.thelec.net/news/articleView.html?idxno=11287
+    hard_facts:
+      - claim: Sam Altman title and institution
+        kind: named_person
+        value: "Sam Altman"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "OpenAI CEO Sam Altman cancelled Asia trip June 12 announcement"
+      - claim: OpenAI institution
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "OpenAI CEO Sam Altman cancelled Asia trip June 12 announcement"
+      - claim: cancellation announcement date
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "OpenAI CEO Sam Altman cancelled Asia trip June 12 announcement (two days before scheduled arrival)"
+      - claim: scheduled arrival relative timing
+        kind: temporal
+        value: "two days before scheduled arrival"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "June 12 announcement (two days before scheduled arrival)"
+      - claim: scheduled meetings date
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Was slated to meet Kakao, Samsung, Naver executives June 15"
+      - claim: companies scheduled to meet
+        kind: named_institution
+        value: Kakao
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Was slated to meet Kakao, Samsung, Naver executives June 15"
+      - claim: companies scheduled to meet
+        kind: named_institution
+        value: Samsung
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Was slated to meet Kakao, Samsung, Naver executives June 15"
+      - claim: companies scheduled to meet
+        kind: named_institution
+        value: Naver
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Was slated to meet Kakao, Samsung, Naver executives June 15"
+      - claim: Samsung event name
+        kind: named_product
+        value: "DX Insight Talk"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Included \"DX Insight Talk\" at Samsung Suwon Digital City"
+      - claim: Samsung event venue
+        kind: named_institution
+        value: "Samsung Suwon Digital City"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "\"DX Insight Talk\" at Samsung Suwon Digital City"
+      - claim: Samsung Vice Chairman identity
+        kind: named_person
+        value: "Jun Young-hyun"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "meetings with Samsung Vice Chairman Jun Young-hyun and President Roh Tae-moon"
+      - claim: Samsung President identity
+        kind: named_person
+        value: "Roh Tae-moon"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "meetings with Samsung Vice Chairman Jun Young-hyun and President Roh Tae-moon"
+      - claim: Kakao HQ location
+        kind: named_institution
+        value: "Kakao Pangyo HQ"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Kakao Pangyo HQ meeting with CEO Chung Shin-a"
+      - claim: Kakao CEO identity
+        kind: named_person
+        value: "Chung Shin-a"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Kakao Pangyo HQ meeting with CEO Chung Shin-a"
+      - claim: Jensen Huang Korea trip dates
+        kind: temporal
+        value: "June 5-8"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Followed Jensen Huang's June 5-8 Korea trip"
+      - claim: Jensen Huang identity
+        kind: named_person
+        value: "Jensen Huang"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Followed Jensen Huang's June 5-8 Korea trip (Nvidia announced gigawatt-scale AI factory projects with SK Telecom and Naver"
+      - claim: Nvidia institution
+        kind: named_institution
+        value: Nvidia
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "Nvidia announced gigawatt-scale AI factory projects with SK Telecom and Naver"
+      - claim: AI factory partner 1
+        kind: named_institution
+        value: "SK Telecom"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "gigawatt-scale AI factory projects with SK Telecom and Naver"
+      - claim: HBM4 deal partner
+        kind: named_institution
+        value: "SK hynix"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "multi-year HBM4 deal with SK hynix"
+      - claim: HBM4 deal duration
+        kind: temporal
+        value: "multi-year"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11287
+        verbatim_excerpt: "multi-year HBM4 deal with SK hynix"
+    quotes:
+      - speaker_name: "Industry source"
+        speaker_title: "Industry source (unnamed)"
+        verbatim_en: "He decided to reschedule the visit due to an important commitment in the United States."
+        source_url: https://www.thelec.net/news/articleView.html?idxno=11287
+        context: "Commentary on Sam Altman cancellation of Korea visit"
+
+  - story_id: samsung-skhynix-evaluate-packaging-honam
+    category: tech
+    headline_en: Samsung + SK hynix evaluate first semiconductor packaging plants in Honam
+    lead_url: https://www.thelec.net/news/articleView.html?idxno=11312
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.thelec.net/news/articleView.html?idxno=11312
+    hard_facts:
+      - claim: Samsung packaging hub candidate city (top)
+        kind: named_institution
+        value: Gwangju
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "Samsung evaluating Gwangju and Saemangeum for 2nd packaging hub (Gwangju top candidate)"
+      - claim: Samsung packaging hub candidate site 2
+        kind: named_institution
+        value: Saemangeum
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "Samsung evaluating Gwangju and Saemangeum for 2nd packaging hub (Gwangju top candidate)"
+      - claim: SK hynix candidate city 1
+        kind: named_institution
+        value: Gwangju
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "SK hynix considering Gwangju or Muan"
+      - claim: SK hynix candidate city 2
+        kind: named_institution
+        value: Muan
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "SK hynix considering Gwangju or Muan"
+      - claim: Samsung Cheonan thermal compression bonding target
+        kind: numerical_with_unit
+        value: "231,000 units/month"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "Samsung Cheonan thermal compression bonding target 231,000 units/month"
+      - claim: Samsung Cheonan hybrid copper bonding target
+        kind: numerical_with_unit
+        value: "19,500 units/month"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "hybrid copper bonding 19,500 units/month by end-2026"
+      - claim: target date for Cheonan capacity
+        kind: temporal
+        value: "end-2026"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "hybrid copper bonding 19,500 units/month by end-2026"
+      - claim: Vera Rubin HBM supplier 1
+        kind: named_institution
+        value: Samsung
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "all three majors (Samsung, SK hynix, Micron) confirmed Vera Rubin suppliers"
+      - claim: Vera Rubin HBM supplier 2
+        kind: named_institution
+        value: "SK hynix"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "all three majors (Samsung, SK hynix, Micron) confirmed Vera Rubin suppliers"
+      - claim: Vera Rubin HBM supplier 3
+        kind: named_institution
+        value: Micron
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "all three majors (Samsung, SK hynix, Micron) confirmed Vera Rubin suppliers"
+      - claim: product being supplied
+        kind: named_product
+        value: Vera Rubin
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "all three majors (Samsung, SK hynix, Micron) confirmed Vera Rubin suppliers"
+      - claim: byline author 1
+        kind: named_person
+        value: "Jeong Il Joo"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "Byline: Jeong Il Joo / Selye Moon"
+      - claim: byline author 2
+        kind: named_person
+        value: "Selye Moon"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11312
+        verbatim_excerpt: "Byline: Jeong Il Joo / Selye Moon"
+    quotes: []
+
+  - story_id: kt-expands-multilingual-ai-translation-retail
+    category: tech
+    headline_en: KT expands multilingual AI translation service across retail stores
+    lead_url: https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+    hard_facts:
+      - claim: KT telco ranking in Korea
+        kind: named_institution
+        value: "KT (Korea's #2 telco)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        verbatim_excerpt: "KT (Korea's #2 telco) expanding multilingual AI translation service"
+      - claim: expansion timeline
+        kind: temporal
+        value: "throughout June 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        verbatim_excerpt: "beyond pilot locations (Ansan, Suwon, Hyehwa) throughout June 2026"
+      - claim: pilot location 1
+        kind: named_institution
+        value: Ansan
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        verbatim_excerpt: "beyond pilot locations (Ansan, Suwon, Hyehwa)"
+      - claim: pilot location 2
+        kind: named_institution
+        value: Suwon
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        verbatim_excerpt: "beyond pilot locations (Ansan, Suwon, Hyehwa)"
+      - claim: pilot location 3
+        kind: named_institution
+        value: Hyehwa
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        verbatim_excerpt: "beyond pilot locations (Ansan, Suwon, Hyehwa)"
+      - claim: number of supported languages
+        kind: numerical_with_unit
+        value: "~20 languages"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        verbatim_excerpt: "Supports ~20 languages (English, Chinese, Thai, Vietnamese)"
+      - claim: South Korea international visitor target for 2026
+        kind: numerical_with_unit
+        value: "30M international visitors"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        verbatim_excerpt: "South Korea targeting 30M international visitors in 2026"
+      - claim: byline author
+        kind: named_person
+        value: "Lee Tae-Hee"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        verbatim_excerpt: "Byline: Lee Tae-Hee"
+    quotes:
+      - speaker_name: "Kwon Hee-geun"
+        speaker_title: "KT customer division sales head"
+        verbatim_en: "The multilingual AI translator is an on-site AI service that improves the consultation experience for foreign customers visiting [our] stores while enhancing staff efficiency."
+        source_url: https://www.koreajoongangdaily.com/business/kt-to-expand-ai-translation-service-at-stores-for-foreign-customers/12723098
+        context: "Commentary on AI translation service expansion"
+
+  - story_id: sk-labor-unions-demand-12000-won-minimum-wage
+    category: society
+    headline_en: SK labor unions demand 12,000-won minimum wage (+16.3%) for 2027
+    lead_url: https://www.koreaherald.com/article/10771673
+    body_source: full
+    corroborated_by:
+      - https://www.koreajoongangdaily.com/korea/labor-groups-demand-163-increase-in-minimum-wage-to-12000-won/12723055
+    locked_urls:
+      - https://www.koreaherald.com/article/10771673
+      - https://www.koreajoongangdaily.com/korea/labor-groups-demand-163-increase-in-minimum-wage-to-12000-won/12723055
+    hard_facts:
+      - claim: proposed minimum wage for 2027
+        kind: numerical_with_unit
+        value: "12,000 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+          - https://www.koreajoongangdaily.com/korea/labor-groups-demand-163-increase-in-minimum-wage-to-12000-won/12723055
+        verbatim_excerpt: "FKTU + KCTU proposed 12,000 won ($7.90)/hr minimum wage for 2027"
+      - claim: proposed minimum wage USD equivalent
+        kind: numerical_with_unit
+        value: "$7.90"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+          - https://www.koreajoongangdaily.com/korea/labor-groups-demand-163-increase-in-minimum-wage-to-12000-won/12723055
+        verbatim_excerpt: "FKTU + KCTU proposed 12,000 won ($7.90)/hr minimum wage for 2027"
+      - claim: proposed increase percentage
+        kind: numerical_with_unit
+        value: "+16.3%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+          - https://www.koreajoongangdaily.com/korea/labor-groups-demand-163-increase-in-minimum-wage-to-12000-won/12723055
+        verbatim_excerpt: "+16.3% from current 10,320 won (2026)"
+      - claim: current 2026 minimum wage
+        kind: numerical_with_unit
+        value: "10,320 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+          - https://www.koreajoongangdaily.com/korea/labor-groups-demand-163-increase-in-minimum-wage-to-12000-won/12723055
+        verbatim_excerpt: "+16.3% from current 10,320 won (2026)"
+      - claim: press conference date
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "proposed 12,000 won ($7.90)/hr minimum wage for 2027 at joint press conference June 15"
+      - claim: Minimum Wage Commission plenary scheduled
+        kind: temporal
+        value: "Tuesday June 16"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "Minimum Wage Commission 6th plenary scheduled Tuesday June 16"
+      - claim: jobs lost in May 2026
+        kind: numerical_with_unit
+        value: "-40,000 jobs"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "SK lost 40,000 jobs May (first annual decline in 17 months)"
+      - claim: May jobs decline duration
+        kind: temporal
+        value: "first annual decline in 17 months"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "SK lost 40,000 jobs May (first annual decline in 17 months)"
+      - claim: monthly export record in May
+        kind: numerical_with_unit
+        value: "$87.8B"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "exports record $87.8B"
+      - claim: 2026 minimum wage increase from 2025
+        kind: numerical_with_unit
+        value: "+2.9%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "2026 rate (10,320 won) +2.9% from 2025"
+      - claim: labor union proposing increase 1
+        kind: named_institution
+        value: FKTU
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "FKTU + KCTU proposed 12,000 won"
+      - claim: labor union proposing increase 2
+        kind: named_institution
+        value: KCTU
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "FKTU + KCTU proposed 12,000 won"
+      - claim: CPI YoY in May 2026
+        kind: numerical_with_unit
+        value: "+3.1%"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "May 2026 CPI +3.1% YoY, fastest in 26 months"
+      - claim: CPI pace duration
+        kind: temporal
+        value: "fastest in 26 months"
+        source_urls:
+          - https://www.koreaherald.com/article/10771673
+        verbatim_excerpt: "May 2026 CPI +3.1% YoY, fastest in 26 months"
+    quotes: []
+
+  - story_id: 1200-sk-students-hospitalized-mental-health-kedi
+    category: society
+    headline_en: Over 1,200 SK students hospitalized for mental health in one semester — KEDI
+    lead_url: https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+    hard_facts:
+      - claim: report institution
+        kind: named_institution
+        value: KEDI
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "KEDI report (June 15, 2026): 1,268 students hospitalized for mental health in 1H 2025"
+      - claim: report date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "KEDI report (June 15, 2026)"
+      - claim: students hospitalized in 1H 2025
+        kind: numerical
+        value: "1,268"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "1,268 students hospitalized for mental health in 1H 2025"
+      - claim: reference period for KEDI data
+        kind: temporal
+        value: "1H 2025"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "1,268 students hospitalized for mental health in 1H 2025"
+      - claim: projected annual total
+        kind: numerical_with_unit
+        value: ">2,000"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "annual expected >2,000"
+      - claim: middle school students hospitalized
+        kind: numerical
+        value: "602"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Middle schoolers 602, high schoolers 569, elementary 97"
+      - claim: high school students hospitalized
+        kind: numerical
+        value: "569"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Middle schoolers 602, high schoolers 569, elementary 97"
+      - claim: elementary students hospitalized
+        kind: numerical
+        value: "97"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Middle schoolers 602, high schoolers 569, elementary 97"
+      - claim: hospitalized students from Gyeonggi
+        kind: numerical
+        value: "266"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Gyeonggi 266, Seoul 169"
+      - claim: hospitalized students from Seoul
+        kind: numerical
+        value: "169"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Gyeonggi 266, Seoul 169"
+      - claim: retained students with mental health cause
+        kind: numerical
+        value: "123 of 576"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Mental health leading cause of grade retention: 123 of 576 retained students (21.5%)"
+      - claim: percentage of retained students with mental health cause
+        kind: numerical_with_unit
+        value: "21.5%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "123 of 576 retained students (21.5%)"
+      - claim: average absences per semester for hospitalized students
+        kind: numerical_with_unit
+        value: "31.5 absences/semester"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Hospitalized students avg 31.5 absences/semester (20.9 days psychiatric hospitalization)"
+      - claim: average psychiatric hospitalization duration
+        kind: numerical_with_unit
+        value: "20.9 days"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "20.9 days psychiatric hospitalization"
+      - claim: youth mental health cases increase over 4 years
+        kind: numerical_with_unit
+        value: "+76%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Youth mental health cases +76% in 4 years"
+      - claim: youth mental health increase timeframe
+        kind: temporal
+        value: "4 years"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Youth mental health cases +76% in 4 years"
+      - claim: year suicide became leading cause of death for age 10-19
+        kind: temporal
+        value: "since 2007"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "suicide leading cause of death age 10-19 since 2007"
+      - claim: byline author
+        kind: named_person
+        value: "Han Young-Hye"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/over-1200-students-hospitalized-for-mental-issues-in-single-semester-last-year-education-institute/12723073
+        verbatim_excerpt: "Byline: Han Young-Hye"
+    quotes: []
+
+  - story_id: incheon-airport-vulnerable-earthquake-bai-audit
+    category: society
+    headline_en: Incheon Airport facilities vulnerable to earthquake collapse — BAI audit
+    lead_url: https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+    hard_facts:
+      - claim: audit institution
+        kind: named_institution
+        value: BAI
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "BAI audit: 13 of 23 Incheon Airport facilities in use >20 years fail current quake-resistant standards"
+      - claim: facilities failing quake standards
+        kind: numerical
+        value: "13 of 23"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "BAI audit: 13 of 23 Incheon Airport facilities in use >20 years fail current quake-resistant standards"
+      - claim: minimum age of facilities audited
+        kind: temporal
+        value: ">20 years"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "13 of 23 Incheon Airport facilities in use >20 years fail current quake-resistant standards"
+      - claim: earthquake magnitude triggering collapse risk
+        kind: numerical_with_unit
+        value: "magnitude 6.1 to 6.5"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "if a magnitude 6.1 to 6.5 earthquake strikes"
+      - claim: structures with collapse risk classification
+        kind: numerical
+        value: "10"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "10 structures \"collapse risk\", 4 \"collapse-prevention\""
+      - claim: structures with collapse-prevention classification
+        kind: numerical
+        value: "4"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "10 structures \"collapse risk\", 4 \"collapse-prevention\""
+      - claim: facilities ordered for reinforcement
+        kind: numerical
+        value: "113"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "BAI ordered reinforcement work at 113 facilities"
+      - claim: undercharges to airport corp from Terminal 2 tenants
+        kind: numerical_with_unit
+        value: "151.7 billion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "151.7 billion won total undercharges to airport corp"
+      - claim: annual passenger throughput
+        kind: numerical_with_unit
+        value: "~70M passengers annually"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "~70M passengers annually"
+      - claim: vulnerable facility 1
+        kind: named_institution
+        value: "substation"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "Vulnerable: substation, security HQ, cargo terminal, ATC comms station"
+      - claim: vulnerable facility 2
+        kind: named_institution
+        value: "security HQ"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "Vulnerable: substation, security HQ, cargo terminal, ATC comms station"
+      - claim: vulnerable facility 3
+        kind: named_institution
+        value: "cargo terminal"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "Vulnerable: substation, security HQ, cargo terminal, ATC comms station"
+      - claim: vulnerable facility 4
+        kind: named_institution
+        value: "ATC comms station"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "Vulnerable: substation, security HQ, cargo terminal, ATC comms station"
+      - claim: hub airline 1
+        kind: named_institution
+        value: "Korean Air"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "hub for Korean Air and Asiana"
+      - claim: hub airline 2
+        kind: named_institution
+        value: Asiana
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "hub for Korean Air and Asiana"
+      - claim: byline author
+        kind: named_person
+        value: "Ha Jun-ho"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/incheon-airport-facilities-found-vulnerable-to-collapse-in-major-earthquake-bai/12723643
+        verbatim_excerpt: "Byline: Ha Jun-ho"
+    quotes: []
+
+  - story_id: fss-expands-probe-mirae-spacex-ipo-allocation
+    category: ipo_ma
+    headline_en: "SK's FSS expands probe of Mirae Asset Securities over zero allocation in SpaceX's $75B IPO"
+    lead_url: https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-15/failed-spacex-ipo-allocation-prompts-wider-mirae-review-in-korea
+      - https://cryptobriefing.com/south-korea-mirae-spacex-ipo-probe/
+    locked_urls:
+      - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+      - https://www.bloomberg.com/news/articles/2026-06-15/failed-spacex-ipo-allocation-prompts-wider-mirae-review-in-korea
+      - https://cryptobriefing.com/south-korea-mirae-spacex-ipo-probe/
+    hard_facts:
+      - claim: regulator conducting inspection
+        kind: named_institution
+        value: FSS
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "FSS expanded inspection of Mirae Asset Securities"
+      - claim: institution under inspection
+        kind: named_institution
+        value: "Mirae Asset Securities"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "FSS expanded inspection of Mirae Asset Securities"
+      - claim: first tranche size for SpaceX private placement
+        kind: numerical_with_unit
+        value: "$300M"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "Mirae offered SpaceX shares via private placement; first $300M tranche sold in 1 minute at $100k min"
+      - claim: time tranche sold in
+        kind: temporal
+        value: "1 minute"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "first $300M tranche sold in 1 minute at $100k min"
+      - claim: minimum investment per tranche
+        kind: numerical_with_unit
+        value: "$100k min"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "first $300M tranche sold in 1 minute at $100k min"
+      - claim: number of SpaceX shares Mirae committed to
+        kind: numerical
+        value: "2,314,815"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "SEC filings show Mirae committed to 2,314,815 shares at $135 each (~$312.5M)"
+      - claim: price per share Mirae committed at
+        kind: numerical_with_unit
+        value: "$135"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "SEC filings show Mirae committed to 2,314,815 shares at $135 each (~$312.5M)"
+      - claim: total value of Mirae share commitment
+        kind: numerical_with_unit
+        value: "~$312.5M"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "Mirae committed to 2,314,815 shares at $135 each (~$312.5M)"
+      - claim: Goldman Sachs role in SpaceX IPO
+        kind: named_institution
+        value: "Goldman Sachs (lead underwriter)"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "Goldman Sachs (lead underwriter) allocated zero"
+      - claim: SpaceX IPO total raised
+        kind: numerical_with_unit
+        value: "$75B"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "SpaceX IPO raised $75B (largest ever)"
+      - claim: SpaceX IPO opening price
+        kind: numerical_with_unit
+        value: "$150"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "opened $150, closed +19% at $160.95 day 1"
+      - claim: SpaceX IPO day 1 gain
+        kind: numerical_with_unit
+        value: "+19%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "opened $150, closed +19% at $160.95 day 1"
+      - claim: SpaceX IPO day 1 close price
+        kind: numerical_with_unit
+        value: "$160.95"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "closed +19% at $160.95 day 1"
+      - claim: SpaceX post-IPO valuation
+        kind: numerical_with_unit
+        value: ">$2.1T"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "(valuation >$2.1T)"
+      - claim: price Korean investors paid on secondary market
+        kind: numerical_with_unit
+        value: "$161"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "Korean investors paid $161 on secondary vs $135 IPO price"
+      - claim: Mirae stock decline day of KOSPI surge
+        kind: numerical_with_unit
+        value: "-1.3%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "Mirae stock -1.3% Seoul Monday vs KOSPI +5.2%"
+      - claim: KOSPI gain on that day
+        kind: numerical_with_unit
+        value: "+5.2%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "Mirae stock -1.3% Seoul Monday vs KOSPI +5.2%"
+      - claim: byline author
+        kind: named_person
+        value: "Youkyung Lee"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "Byline: Youkyung Lee (Bloomberg News)"
+      - claim: SpaceX institution
+        kind: named_institution
+        value: SpaceX
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/failed-spacex-ipo-allocation-prompts-041500876.html
+        verbatim_excerpt: "SpaceX IPO raised $75B (largest ever)"
+    quotes: []
+
+  - story_id: nk-vietnam-law-enforcement-talks-pyongyang
+    category: other
+    headline_en: NK + Vietnam law-enforcement cooperation talks in Pyongyang
+    lead_url: https://www.koreaherald.com/article/10771439
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10771439
+    hard_facts:
+      - claim: NK Public Security Minister identity
+        kind: named_person
+        value: "Pang Tu-sop"
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "NK Public Security Minister Pang Tu-sop met Vietnamese counterpart Luong Tam Quang Sunday in Pyongyang"
+      - claim: Vietnamese counterpart identity
+        kind: named_person
+        value: "Luong Tam Quang"
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "NK Public Security Minister Pang Tu-sop met Vietnamese counterpart Luong Tam Quang Sunday in Pyongyang"
+      - claim: meeting day
+        kind: temporal
+        value: Sunday
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "Pang Tu-sop met Vietnamese counterpart Luong Tam Quang Sunday in Pyongyang"
+      - claim: meeting location
+        kind: named_institution
+        value: Pyongyang
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "Pang Tu-sop met Vietnamese counterpart Luong Tam Quang Sunday in Pyongyang"
+      - claim: Vietnamese delegation arrival day
+        kind: temporal
+        value: Saturday
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "Vietnamese delegation arrived Saturday"
+      - claim: NK state media report date
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "per NK state media June 15"
+      - claim: Vietnamese FM prior visit to NK
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "Follows Vietnamese FM Le Hoai Trung's May 2026 Pyongyang trip"
+      - claim: Vietnamese FM identity
+        kind: named_person
+        value: "Le Hoai Trung"
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "Follows Vietnamese FM Le Hoai Trung's May 2026 Pyongyang trip"
+      - claim: Kim Jong-un and To Lam summit timing
+        kind: temporal
+        value: October
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "Kim Jong-un + To Lam summit in October (first top Vietnamese visit to NK in 18 years)"
+      - claim: Kim Jong-un identity
+        kind: named_person
+        value: "Kim Jong-un"
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "Kim Jong-un + To Lam summit in October"
+      - claim: Vietnamese leader at summit
+        kind: named_person
+        value: "To Lam"
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "Kim Jong-un + To Lam summit in October"
+      - claim: years since prior top Vietnamese visit to NK
+        kind: temporal
+        value: "18 years"
+        source_urls:
+          - https://www.koreaherald.com/article/10771439
+        verbatim_excerpt: "first top Vietnamese visit to NK in 18 years"
+    quotes: []
+
+  - story_id: hyundai-rotem-kia-defense-eurosatory-2026-paris
+    category: other
+    headline_en: Hyundai Rotem + Kia display defense systems at Eurosatory 2026 Paris
+    lead_url: https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/defense/20260615/korea-to-run-promotion-booth-at-intl-defense-exhibition-in-paris-this-week
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+      - https://www.koreatimes.co.kr/southkorea/defense/20260615/korea-to-run-promotion-booth-at-intl-defense-exhibition-in-paris-this-week
+    hard_facts:
+      - claim: exhibitors from SK presenting defense systems
+        kind: named_institution
+        value: "Hyundai Rotem"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Hyundai Rotem and Kia at Eurosatory 2026, Paris, June 16-20"
+      - claim: exhibitor 2
+        kind: named_institution
+        value: Kia
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Hyundai Rotem and Kia at Eurosatory 2026, Paris, June 16-20"
+      - claim: exhibition name
+        kind: named_product
+        value: "Eurosatory 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Hyundai Rotem and Kia at Eurosatory 2026, Paris, June 16-20"
+      - claim: exhibition dates
+        kind: temporal
+        value: "June 16-20"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Hyundai Rotem and Kia at Eurosatory 2026, Paris, June 16-20"
+      - claim: exhibition location
+        kind: named_institution
+        value: Paris
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Hyundai Rotem and Kia at Eurosatory 2026, Paris, June 16-20"
+      - claim: total exhibiting companies at Eurosatory
+        kind: numerical_with_unit
+        value: "2,000+ companies"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "2,000+ companies, ~70 countries"
+      - claim: total countries at Eurosatory
+        kind: numerical_with_unit
+        value: "~70 countries"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "2,000+ companies, ~70 countries"
+      - claim: Hyundai Rotem product 1
+        kind: named_product
+        value: "AI counter-UAS"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Hyundai Rotem: AI counter-UAS, wheeled armored vehicle w/ counter-drone, export K2 MBT, HR-Sherpa UGV"
+      - claim: Hyundai Rotem product 2
+        kind: named_product
+        value: "export K2 MBT"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Hyundai Rotem: AI counter-UAS, wheeled armored vehicle w/ counter-drone, export K2 MBT, HR-Sherpa UGV"
+      - claim: Hyundai Rotem product 3
+        kind: named_product
+        value: "HR-Sherpa UGV"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Hyundai Rotem: AI counter-UAS, wheeled armored vehicle w/ counter-drone, export K2 MBT, HR-Sherpa UGV"
+      - claim: Kia product 1
+        kind: named_product
+        value: "Tasman military command vehicle"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Kia: Tasman military command vehicle, Kia LTV (selected by Polish military)"
+      - claim: Kia product 2
+        kind: named_product
+        value: "Kia LTV"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Kia LTV (selected by Polish military)"
+      - claim: Kia LTV customer
+        kind: named_institution
+        value: "Polish military"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Kia LTV (selected by Polish military)"
+      - claim: Kia next-gen vehicle capacity
+        kind: numerical_with_unit
+        value: "25-person"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "next-gen medium tactical vehicle (25-person/10-ton)"
+      - claim: Kia next-gen vehicle load
+        kind: numerical_with_unit
+        value: "10-ton"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "next-gen medium tactical vehicle (25-person/10-ton)"
+      - claim: Korean SMEs in national booth
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "DAPA + KDIA national booth + 12 SMEs"
+      - claim: additional Korean firms exhibiting
+        kind: numerical
+        value: "21"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "21 additional Korean firms incl. Hanwha Aerospace, LIG Defense & Aerospace"
+      - claim: notable additional Korean exhibitor 1
+        kind: named_institution
+        value: "Hanwha Aerospace"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "21 additional Korean firms incl. Hanwha Aerospace, LIG Defense & Aerospace"
+      - claim: notable additional Korean exhibitor 2
+        kind: named_institution
+        value: "LIG Defense & Aerospace"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "21 additional Korean firms incl. Hanwha Aerospace, LIG Defense & Aerospace"
+      - claim: SK defense exporter ranking globally
+        kind: numerical
+        value: "10th-largest"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "SK 10th-largest defense exporter"
+      - claim: 2026 SK defense export forecast
+        kind: numerical_with_unit
+        value: ">$37B"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "2026 exports forecast >$37B"
+      - claim: national booth organizers
+        kind: named_institution
+        value: DAPA
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "DAPA + KDIA national booth + 12 SMEs"
+      - claim: national booth organizer 2
+        kind: named_institution
+        value: KDIA
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "DAPA + KDIA national booth + 12 SMEs"
+      - claim: byline author
+        kind: named_person
+        value: "Kim Min-young"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hyundai-rotem-kia-head-to-international-defense-exhibition/12723802
+        verbatim_excerpt: "Byline: Kim Min-young"
+    quotes: []
