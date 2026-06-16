@@ -1,0 +1,1132 @@
+version: 1
+generated_at: "2026-06-16T12:00:00Z"
+country: United States
+date: "2026-06-16"
+total_stories: 11
+stories:
+  - story_id: warsh-first-fomc-meeting-rate-hold-expected
+    category: econ
+    headline_en: "Kevin Warsh Opens First FOMC Meeting as Federal Reserve Chair; Rate Hold Expected as Inflation Holds Above Target"
+    lead_url: "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+    hard_facts:
+      - claim: FOMC meeting date
+        kind: temporal
+        value: "June 16-17"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "Fed Board held closed meeting June 16 10am ET opening two-day FOMC (June 16-17)"
+      - claim: Meeting opening time
+        kind: temporal
+        value: "June 16 10am ET"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "Fed Board held closed meeting June 16 10am ET"
+      - claim: Kevin Warsh sworn in date
+        kind: temporal
+        value: "May 22, 2026"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "Kevin Warsh, sworn in May 22, 2026"
+      - claim: Senate confirmation vote for Warsh
+        kind: numerical
+        value: "54-45"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "sworn in May 22, 2026 (Senate 54-45)"
+      - claim: Fed Chair predecessor
+        kind: named_person
+        value: Powell
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "succeeding Powell"
+      - claim: Press conference date and time
+        kind: temporal
+        value: "June 17 2:30pm ET"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "press conference June 17 2:30pm ET"
+      - claim: Expected fed funds rate target range
+        kind: numerical_with_unit
+        value: "3.50-3.75%"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "FOMC expected to hold fed funds rate at 3.50-3.75% (unchanged since December 2025)"
+      - claim: Rate unchanged since
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "unchanged since December 2025"
+      - claim: CME FedWatch probability of no change
+        kind: numerical_with_unit
+        value: "97%"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "CME FedWatch 97% probability of no change"
+      - claim: Headline CPI YoY May 2026
+        kind: numerical_with_unit
+        value: "4.2% YoY May 2026"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "Headline CPI 4.2% YoY May 2026"
+      - claim: Core CPI
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "core CPI 2.9%"
+      - claim: May nonfarm payrolls
+        kind: numerical_with_unit
+        value: "+172,000"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "May nonfarm payrolls +172,000"
+      - claim: Unemployment rate
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "unemployment 4.3%"
+      - claim: US-Iran war start date
+        kind: temporal
+        value: "Feb 28 2026"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "U.S.-Iran war began Feb 28 2026"
+      - claim: Average household cost from tariffs and Iran war
+        kind: numerical_with_unit
+        value: ">$3,100"
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "tariffs + Iran war cost average household >$3,100 from 2025 through May 2026"
+      - claim: JEC (named institution)
+        kind: named_institution
+        value: JEC
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "JEC: tariffs + Iran war cost average household >$3,100 from 2025 through May 2026"
+      - claim: Fed Chair new
+        kind: named_person
+        value: Kevin Warsh
+        source_urls:
+          - "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        verbatim_excerpt: "First meeting chaired by Kevin Warsh"
+    quotes:
+      - speaker_name: Unknown
+        speaker_title: Federal Reserve commentary
+        verbatim_en: "from an easing bias to a neutral stance"
+        source_url: "https://www.federalreserve.gov/aboutthefed/boardmeetings/20260616closed.htm"
+        context: Commentary on FOMC policy shift
+
+  - story_id: crude-oil-drops-us-iran-peace-deal-geneva
+    category: econ
+    headline_en: "Crude Oil Drops Nearly 5% as U.S.-Iran Peace Deal Confirmed for Geneva Signing Friday"
+    lead_url: "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+    hard_facts:
+      - claim: WTI crude oil price change
+        kind: numerical_with_unit
+        value: "-4.9%"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "WTI -4.9% to $80.75"
+      - claim: WTI crude oil price
+        kind: numerical_with_unit
+        value: "$80.75"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "WTI -4.9% to $80.75"
+      - claim: Brent crude oil price change
+        kind: numerical_with_unit
+        value: "-4.8%"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "Brent -4.8% to $83.17"
+      - claim: Brent crude oil price
+        kind: numerical_with_unit
+        value: "$83.17"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "Brent -4.8% to $83.17"
+      - claim: Cumulative week-over-week oil price change
+        kind: numerical_with_unit
+        value: "-13%"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "cumulative -13% week-over-week"
+      - claim: US-Iran preliminary agreement signed date
+        kind: temporal
+        value: "Mon June 15"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "Preliminary US-Iran agreement digitally signed Mon June 15"
+      - claim: Formal signing location and date
+        kind: temporal
+        value: "Geneva Friday June 19"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "formal signing Geneva Friday June 19"
+      - claim: Negotiation window duration
+        kind: temporal
+        value: "60-day"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "60-day window to negotiate uranium enrichment + sanctions relief"
+      - claim: Strait of Hormuz global oil/LNG share
+        kind: numerical_with_unit
+        value: "20%"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "Strait of Hormuz (20% global oil/LNG)"
+      - claim: Strait closure duration
+        kind: temporal
+        value: "15 weeks"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "Closed 15 weeks since US-Iran war Feb 28 2026"
+      - claim: Peak Brent price during closure
+        kind: numerical_with_unit
+        value: ">$100"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "peak Brent >$100"
+      - claim: G7 working lunch date
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "G7 working lunch June 16 covered Strait reopening"
+      - claim: Named institution Al Jazeera
+        kind: named_institution
+        value: Al Jazeera
+        source_urls:
+          - "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        verbatim_excerpt: "G7 working lunch June 16 covered Strait reopening, possible Franco-British maritime mine-clearing mission"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: U.S. President
+        verbatim_en: "completely open"
+        source_url: "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        context: Trump statement that Strait will be "completely open" Friday
+      - speaker_name: Emmanuel Macron
+        speaker_title: French President
+        verbatim_en: "a solid, serious agreement"
+        source_url: "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda"
+        context: Macron urged this regarding the Iran agreement
+
+  - story_id: us-equities-hold-steady-warsh-fed-sp500-7555
+    category: econ
+    headline_en: "U.S. Equities Hold Steady Ahead of First Warsh-Led Fed Decision; S&P 500 at 7,555"
+    lead_url: "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+    hard_facts:
+      - claim: S&P 500 level
+        kind: numerical
+        value: "7,555"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "S&P 500 at 7,555"
+      - claim: S&P 500 session change
+        kind: numerical_with_unit
+        value: "+0.01%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "S&P 500 at 7,555 (+0.01% session, +2.06% month, +26.29% YoY)"
+      - claim: S&P 500 month change
+        kind: numerical_with_unit
+        value: "+2.06%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "S&P 500 at 7,555 (+0.01% session, +2.06% month, +26.29% YoY)"
+      - claim: S&P 500 YoY change
+        kind: numerical_with_unit
+        value: "+26.29% YoY"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "S&P 500 at 7,555 (+0.01% session, +2.06% month, +26.29% YoY)"
+      - claim: Prior session Dow change
+        kind: numerical_with_unit
+        value: "+0.92%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "Prior session: Dow +0.92%, S&P +1.65%, Nasdaq +3.07%"
+      - claim: Prior session S&P change
+        kind: numerical_with_unit
+        value: "+1.65%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "Prior session: Dow +0.92%, S&P +1.65%, Nasdaq +3.07%"
+      - claim: Prior session Nasdaq change
+        kind: numerical_with_unit
+        value: "+3.07%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "Prior session: Dow +0.92%, S&P +1.65%, Nasdaq +3.07%"
+      - claim: Market probability of steady rates through year-end
+        kind: numerical_with_unit
+        value: "~65%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "Markets pricing ~65% odds rates steady through year-end"
+      - claim: Notable premarket mover SPCX post-IPO gain
+        kind: numerical_with_unit
+        value: "+8%"
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "SPCX (+8% post-IPO)"
+      - claim: Notable premarket mover HUN merger
+        kind: named_institution
+        value: HUN
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "Notable premarket movers: HUN (Olin merger)"
+      - claim: Notable premarket mover Olin
+        kind: named_institution
+        value: Olin
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "Notable premarket movers: HUN (Olin merger)"
+      - claim: Notable premarket mover SPCX
+        kind: named_product
+        value: SPCX
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "SPCX (+8% post-IPO)"
+      - claim: Notable premarket mover HOOD
+        kind: named_product
+        value: HOOD
+        source_urls:
+          - "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026"
+        verbatim_excerpt: "Notable premarket movers: HUN (Olin merger), SPCX (+8% post-IPO), HOOD"
+    quotes: []
+
+  - story_id: treasury-inaugural-cfius-conference-foreign-investment
+    category: econ
+    headline_en: "U.S. Treasury Hosts Inaugural CFIUS Conference on Foreign Investment Security Practice"
+    lead_url: "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+    hard_facts:
+      - claim: CFIUS conference date
+        kind: temporal
+        value: "Thursday June 16 2026"
+        source_urls:
+          - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+        verbatim_excerpt: "Treasury hosted inaugural CFIUS public conference Thursday June 16 2026 at Treasury HQ Washington DC"
+      - claim: Conference venue
+        kind: named_institution
+        value: "Treasury HQ Washington DC"
+        source_urls:
+          - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+        verbatim_excerpt: "Treasury hosted inaugural CFIUS public conference Thursday June 16 2026 at Treasury HQ Washington DC"
+      - claim: CFIUS notices in 2025
+        kind: numerical
+        value: "323"
+        source_urls:
+          - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+        verbatim_excerpt: "2025: 323 CFIUS notices, 42 declarations, record enforcement"
+      - claim: CFIUS declarations in 2025
+        kind: numerical
+        value: "42"
+        source_urls:
+          - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+        verbatim_excerpt: "2025: 323 CFIUS notices, 42 declarations, record enforcement"
+      - claim: Number of 2026 reshaping events
+        kind: numerical
+        value: "three"
+        source_urls:
+          - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+        verbatim_excerpt: "One of three events in 2026 \"reshaping foreign investment risk.\""
+      - claim: Named institution Treasury
+        kind: named_institution
+        value: "U.S. Department of the Treasury"
+        source_urls:
+          - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+        verbatim_excerpt: "Treasury hosted inaugural CFIUS public conference"
+      - claim: Named product CFIUS Known Investor Program
+        kind: named_product
+        value: "Known Investor Program"
+        source_urls:
+          - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+        verbatim_excerpt: "Treasury issued RFI on \"Known Investor Program\" to streamline review for trusted investors"
+      - claim: Primary target sectors
+        kind: named_product
+        value: "Tech, semiconductors, AI, defense"
+        source_urls:
+          - "https://home.treasury.gov/news/featured-stories/save-the-date-inaugural-cfius-conference"
+        verbatim_excerpt: "Tech, semiconductors, AI, defense primary targets"
+    quotes: []
+
+  - story_id: g7-ukraine-russia-barrage-kills-11-before-summit
+    category: politics
+    headline_en: "G7 Allies Scramble to Restore Ukraine Agenda as Russia Launches Mass Barrage Killing 11 Before Summit"
+    lead_url: "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+    hard_facts:
+      - claim: G7 Summit number
+        kind: numerical
+        value: "52nd"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "52nd G7 Summit Évian-les-Bains France June 16 2026"
+      - claim: G7 Summit location
+        kind: named_institution
+        value: "Évian-les-Bains France"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "52nd G7 Summit Évian-les-Bains France June 16 2026"
+      - claim: G7 Summit date
+        kind: temporal
+        value: "June 16 2026"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "52nd G7 Summit Évian-les-Bains France June 16 2026, full first day"
+      - claim: Ukraine war start
+        kind: temporal
+        value: "Feb 2022"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Ukraine war (since Feb 2022)"
+      - claim: Zelenskyy session duration
+        kind: temporal
+        value: "75-min"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Zelenskyy joined 75-min morning session at France's invitation"
+      - claim: Russian attack killed
+        kind: numerical
+        value: "11"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Russia fired hundreds of drones + dozens of missiles at Ukraine's largest cities killing 11, wounding 53"
+      - claim: Russian attack wounded
+        kind: numerical
+        value: "53"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "killing 11, wounding 53 (incl. 2 children aged 5+6)"
+      - claim: Children ages among wounded
+        kind: numerical
+        value: "5+6"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "wounding 53 (incl. 2 children aged 5+6)"
+      - claim: Children among wounded count
+        kind: numerical
+        value: "2"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "wounding 53 (incl. 2 children aged 5+6)"
+      - claim: Kyiv Pechersk Lavra monastery century
+        kind: temporal
+        value: "11th-century"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Damaged 11th-century Kyiv Pechersk Lavra UNESCO monastery roof on fire"
+      - claim: Named institution Kyiv Pechersk Lavra
+        kind: named_institution
+        value: "Kyiv Pechersk Lavra"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Damaged 11th-century Kyiv Pechersk Lavra UNESCO monastery roof on fire"
+      - claim: Intercepted targets count
+        kind: numerical
+        value: "632"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Ukraine air force intercepted 632 of 681 targets"
+      - claim: Total targets count
+        kind: numerical
+        value: "681"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Ukraine air force intercepted 632 of 681 targets"
+      - claim: Ukraine EU accession negotiations opened date
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Ukraine officially opened EU accession negotiations on summit sidelines June 16"
+      - claim: Named person Zelenskyy
+        kind: named_person
+        value: Zelenskyy
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Zelenskyy joined 75-min morning session at France's invitation"
+      - claim: Named person Macron
+        kind: named_person
+        value: Macron
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "Trump bilaterals: Qatar, UAE, Macron"
+      - claim: UK sanctions on Russia shadow fleet
+        kind: named_institution
+        value: UK
+        source_urls:
+          - "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        verbatim_excerpt: "UK announced new sanctions on Russia's \"shadow fleet.\""
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: U.S. President
+        verbatim_en: "Now that this (Iran) is finished, we're going to be focusing on that."
+        source_url: "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        context: G7 Summit June 16, comment on Ukraine focus after Iran deal
+      - speaker_name: Emmanuel Macron
+        speaker_title: French President
+        verbatim_en: "I'll seek to persuade Trump to continue supporting Ukraine and increase pressure on Russia."
+        source_url: "https://www.kgou.org/world/2026-06-16/g7-leaders-open-summit-talks-in-france-on-ukraine-and-the-middle-east"
+        context: G7 Summit June 16 statement on Ukraine
+
+  - story_id: georgia-gop-senate-runoff-collins-dooley-oklahoma
+    category: politics
+    headline_en: "Georgia Republican Senate Runoff Held: Trump-Endorsed Collins vs. Dooley; Oklahoma and DC Also Vote"
+    lead_url: "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+    hard_facts:
+      - claim: Georgia GOP Senate runoff date
+        kind: temporal
+        value: "June 16 2026"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Georgia held GOP US Senate primary runoff June 16 2026"
+      - claim: Primary date that triggered runoff
+        kind: temporal
+        value: "May 19"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Triggered after May 19 primary: Collins ~41%, Dooley ~30%"
+      - claim: Collins May 19 primary share
+        kind: numerical_with_unit
+        value: "~41%"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Collins ~41%, Dooley ~30%"
+      - claim: Dooley May 19 primary share
+        kind: numerical_with_unit
+        value: "~30%"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Collins ~41%, Dooley ~30%"
+      - claim: Mike Collins age
+        kind: numerical
+        value: "58"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Collins 58, Congress since 2022, trucking business"
+      - claim: Collins in Congress since
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Collins 58, Congress since 2022, trucking business"
+      - claim: Mike Collins district
+        kind: named_institution
+        value: "R-GA 10th"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Trump-endorsed Rep. Mike Collins (R-GA 10th)"
+      - claim: Derek Dooley age
+        kind: numerical
+        value: "58"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Dooley 58, son of Vince Dooley"
+      - claim: Derek Dooley's father
+        kind: named_person
+        value: "Vince Dooley"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Dooley 58, son of Vince Dooley"
+      - claim: Named person Gov. Brian Kemp endorsed Dooley
+        kind: named_person
+        value: "Brian Kemp"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Gov. Brian Kemp endorsed Dooley"
+      - claim: Democratic incumbent senator
+        kind: named_person
+        value: "Jon Ossoff"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Challenger to Dem incumbent Sen. Jon Ossoff"
+      - claim: Ossoff fundraising advantage
+        kind: numerical_with_unit
+        value: "$30M"
+        source_urls:
+          - "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        verbatim_excerpt: "Ossoff $30M fundraising advantage"
+    quotes:
+      - speaker_name: GOP strategist
+        speaker_title: Republican political strategist (unnamed)
+        verbatim_en: "couldn't do better than Mike Collins"
+        source_url: "https://www.npr.org/2026/06/16/g-s1-127760/washington-dc-primary-election-results-2026"
+        context: Characterization of Collins as worst general election candidate
+
+  - story_id: state-dept-rubio-g7-hooker-tanzania-fm-meeting
+    category: politics
+    headline_en: "U.S. State Department: Rubio Accompanies Trump to G7 in France; Under Secretary Hooker Meets Tanzania FM"
+    lead_url: "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+    hard_facts:
+      - claim: G7 location
+        kind: named_institution
+        value: "Évian-les-Bains France"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Secretary Rubio with Trump at G7 Évian-les-Bains France (June 15-17)"
+      - claim: G7 dates
+        kind: temporal
+        value: "June 15-17"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Secretary Rubio with Trump at G7 Évian-les-Bains France (June 15-17)"
+      - claim: Hooker bilateral time
+        kind: temporal
+        value: "3pm"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "U/S Political Affairs Allison M. Hooker bilateral 3pm with Tanzanian FM Mahmoud Thabit Kombo at State Dept Washington DC"
+      - claim: Tanzania FM name
+        kind: named_person
+        value: "Mahmoud Thabit Kombo"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "bilateral 3pm with Tanzanian FM Mahmoud Thabit Kombo at State Dept Washington DC"
+      - claim: Named person Allison M. Hooker
+        kind: named_person
+        value: "Allison M. Hooker"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "U/S Political Affairs Allison M. Hooker bilateral 3pm"
+      - claim: Thomas DiNanno travel dates
+        kind: temporal
+        value: "June 10-17"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "U/S Thomas DiNanno on travel Poland/Czechia/France June 10-17"
+      - claim: Named person Thomas DiNanno
+        kind: named_person
+        value: "Thomas DiNanno"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "U/S Thomas DiNanno on travel Poland/Czechia/France June 10-17"
+      - claim: Senate confirmation of Brock Dahl date
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Senate confirmed Brock Dahl (MD) as Legal Adviser June 15 (49-44)"
+      - claim: Senate confirmation vote for Brock Dahl
+        kind: numerical
+        value: "49-44"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Senate confirmed Brock Dahl (MD) as Legal Adviser June 15 (49-44)"
+      - claim: Named person Brock Dahl
+        kind: named_person
+        value: "Brock Dahl"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Senate confirmed Brock Dahl (MD) as Legal Adviser June 15"
+      - claim: Named person Walter Clayton nominated as DNI
+        kind: named_person
+        value: "Walter Clayton"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Walter Clayton (NY) nominated as DNI"
+      - claim: Formal US-Iran peace signing date
+        kind: temporal
+        value: "Friday June 19"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Formal US-Iran peace agreement signing Geneva Friday June 19"
+      - claim: G20 FMCBG meeting location
+        kind: named_institution
+        value: "Asheville NC"
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Bessent planning 2026 G20 FMCBG meeting Asheville NC"
+      - claim: Named person Bessent
+        kind: named_person
+        value: Bessent
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Bessent planning 2026 G20 FMCBG meeting Asheville NC"
+      - claim: Secretary Rubio
+        kind: named_person
+        value: Rubio
+        source_urls:
+          - "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/public-schedule-june-16-2026"
+        verbatim_excerpt: "Secretary Rubio with Trump at G7 Évian-les-Bains France"
+    quotes: []
+
+  - story_id: spacex-stock-surges-8pct-premarket-50pct-ipo-rally
+    category: tech
+    headline_en: "SpaceX Stock Surges 8%+ in Premarket on June 16, Heading for 50%-Plus Three-Session Post-IPO Rally"
+    lead_url: "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+    hard_facts:
+      - claim: SPCX premarket gain June 16
+        kind: numerical_with_unit
+        value: "+8%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "SPCX +8% premarket June 16"
+      - claim: Cumulative post-IPO gain over 3 sessions
+        kind: numerical_with_unit
+        value: "+50%+"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "cumulative +50%+ over 3 sessions since June 12 Nasdaq IPO at $135/share"
+      - claim: IPO date
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "since June 12 Nasdaq IPO at $135/share"
+      - claim: IPO exchange
+        kind: named_institution
+        value: Nasdaq
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "June 12 Nasdaq IPO at $135/share"
+      - claim: IPO price
+        kind: numerical_with_unit
+        value: "$135/share"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "June 12 Nasdaq IPO at $135/share"
+      - claim: Premarket price
+        kind: numerical_with_unit
+        value: "~$212.50"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "Premarket ~$212.50 (+57% vs IPO)"
+      - claim: Premarket gain vs IPO
+        kind: numerical_with_unit
+        value: "+57%"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "Premarket ~$212.50 (+57% vs IPO)"
+      - claim: SpaceX market cap
+        kind: numerical_with_unit
+        value: "~$2.8T"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "market cap ~$2.8T, poised to overtake Amazon"
+      - claim: Competitor SpaceX poised to overtake
+        kind: named_institution
+        value: Amazon
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "market cap ~$2.8T, poised to overtake Amazon"
+      - claim: SpaceX AI business attributed TAM
+        kind: numerical_with_unit
+        value: "$26.5T"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "SpaceX AI biz attributed $26.5T of $28.5T TAM"
+      - claim: Total TAM
+        kind: numerical_with_unit
+        value: "$28.5T"
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "SpaceX AI biz attributed $26.5T of $28.5T TAM"
+      - claim: Named product SPCX ticker
+        kind: named_product
+        value: SPCX
+        source_urls:
+          - "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        verbatim_excerpt: "SPCX +8% premarket June 16"
+    quotes:
+      - speaker_name: Jim Cramer
+        speaker_title: CNBC Host / Financial Commentator
+        verbatim_en: "can't stop buying"
+        source_url: "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        context: Cramer commentary on SPCX June 16
+      - speaker_name: Jim Cramer
+        speaker_title: CNBC Host / Financial Commentator
+        verbatim_en: "going nuts for SpaceX"
+        source_url: "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions"
+        context: Cramer commentary on investors in 24-hour trading windows
+
+  - story_id: mangione-pretrial-hearing-unitedhealth-ceo-murder
+    category: society
+    headline_en: "Luigi Mangione Appears in New York Court for Open Pretrial Hearing in UnitedHealthcare CEO Murder Case"
+    lead_url: "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+    hard_facts:
+      - claim: Mangione court appearance date
+        kind: temporal
+        value: "morning Tue June 16 2026"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "Luigi Mangione appeared morning Tue June 16 2026 at 100 Center St Manhattan"
+      - claim: Court address
+        kind: named_institution
+        value: "100 Center St Manhattan"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "Luigi Mangione appeared morning Tue June 16 2026 at 100 Center St Manhattan"
+      - claim: Case name NY state
+        kind: named_product
+        value: "People v. Mangione"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "pretrial hearing in NY state murder case People v. Mangione"
+      - claim: Presiding judge
+        kind: named_person
+        value: "Gregory Carro"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "per Judge Gregory Carro"
+      - claim: Prior sealed hearing date
+        kind: temporal
+        value: "June 3 2026"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "Follows sealed virtual June 3 2026 proceeding closed at defense request"
+      - claim: Victim name
+        kind: named_person
+        value: "Brian Thompson"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "killing Brian Thompson UnitedHealthcare CEO Dec 2024"
+      - claim: Victim institution
+        kind: named_institution
+        value: UnitedHealthcare
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "killing Brian Thompson UnitedHealthcare CEO Dec 2024"
+      - claim: Crime date
+        kind: temporal
+        value: "Dec 2024"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "killing Brian Thompson UnitedHealthcare CEO Dec 2024"
+      - claim: NY state trial date
+        kind: temporal
+        value: "Sep 8 2026"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "NY state trial Sep 8 2026"
+      - claim: Federal stalking trial jury selection date
+        kind: temporal
+        value: "Oct 5 2026"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "Federal stalking trial jury selection Oct 5 2026, 40 Foley Square"
+      - claim: Federal court address
+        kind: named_institution
+        value: "40 Foley Square"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "Federal stalking trial jury selection Oct 5 2026, 40 Foley Square"
+      - claim: Federal case penalty exposure
+        kind: named_product
+        value: "death penalty"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "Federal case carries death penalty exposure"
+      - claim: Named person Luigi Mangione
+        kind: named_person
+        value: "Luigi Mangione"
+        source_urls:
+          - "https://abc7ny.com/post/mangione-back-court-hearing-earlier-month-shrouded-secrecy/19305892/"
+        verbatim_excerpt: "Luigi Mangione appeared morning Tue June 16 2026"
+    quotes: []
+
+  - story_id: spacex-acquires-anysphere-cursor-60-billion-stock
+    category: ipo_ma
+    headline_en: "SpaceX Acquires AI Coding Developer Anysphere (Cursor) for $60 Billion in All-Stock Deal"
+    lead_url: "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+    hard_facts:
+      - claim: Acquisition announcement date
+        kind: temporal
+        value: "June 16 2026"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "SpaceX June 16 2026 agreed to acquire Anysphere (Cursor AI coding) in $60B all-stock deal"
+      - claim: Deal value
+        kind: numerical_with_unit
+        value: "$60B"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "SpaceX June 16 2026 agreed to acquire Anysphere (Cursor AI coding) in $60B all-stock deal"
+      - claim: Days since IPO to deal
+        kind: temporal
+        value: "4 days after June 12 Nasdaq IPO"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "4 days after June 12 Nasdaq IPO at $135"
+      - claim: SpaceX sub merging name
+        kind: named_institution
+        value: "X67 Inc."
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "SpaceX sub X67 Inc. merges into Anysphere"
+      - claim: Share conversion VWAP window
+        kind: temporal
+        value: "7-day VWAP"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Anysphere shares convert to SpaceX Class A at 7-day VWAP exchange ratio"
+      - claim: Expected close
+        kind: temporal
+        value: "Q3 2026"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Close Q3 2026 pending regulatory approval"
+      - claim: Cursor ARR early June
+        kind: numerical_with_unit
+        value: "$4B"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Cursor ARR $4B early June (from $2B Feb, $1B Nov 2025)"
+      - claim: Cursor ARR February
+        kind: numerical_with_unit
+        value: "$2B Feb"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Cursor ARR $4B early June (from $2B Feb, $1B Nov 2025)"
+      - claim: Cursor ARR November 2025
+        kind: numerical_with_unit
+        value: "$1B Nov 2025"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Cursor ARR $4B early June (from $2B Feb, $1B Nov 2025)"
+      - claim: Anysphere founding year
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Anysphere founded 2022 by 4 MIT grads"
+      - claim: Anysphere founder CEO
+        kind: named_person
+        value: "Michael Truell"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Michael Truell (CEO), Sualeh Asif, Aman Sanger, Arvid Lunnemark"
+      - claim: Anysphere co-founder
+        kind: named_person
+        value: "Sualeh Asif"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Michael Truell (CEO), Sualeh Asif, Aman Sanger, Arvid Lunnemark"
+      - claim: Anysphere co-founder
+        kind: named_person
+        value: "Aman Sanger"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Michael Truell (CEO), Sualeh Asif, Aman Sanger, Arvid Lunnemark"
+      - claim: Anysphere co-founder
+        kind: named_person
+        value: "Arvid Lunnemark"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Michael Truell (CEO), Sualeh Asif, Aman Sanger, Arvid Lunnemark"
+      - claim: Seed funding amount
+        kind: numerical_with_unit
+        value: "$8M"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "$8M seed from OpenAI Startup Fund 2023"
+      - claim: Seed funding year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "$8M seed from OpenAI Startup Fund 2023"
+      - claim: Seed funder
+        kind: named_institution
+        value: "OpenAI Startup Fund"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "$8M seed from OpenAI Startup Fund 2023"
+      - claim: Option secured date
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "April 2026 SpaceX secured option: acquire for $60B OR $10B strategic partnership"
+      - claim: Strategic partnership alternative value
+        kind: numerical_with_unit
+        value: "$10B"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "acquire for $60B OR $10B strategic partnership; chose acquisition"
+      - claim: SpaceX autonomous platform name
+        kind: named_product
+        value: Macrohard
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "SpaceX plans Cursor tech for \"Macrohard\" autonomous platform"
+      - claim: Named product Cursor AI
+        kind: named_product
+        value: Cursor
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "SpaceX June 16 2026 agreed to acquire Anysphere (Cursor AI coding)"
+      - claim: Named institution Anysphere
+        kind: named_institution
+        value: Anysphere
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "SpaceX June 16 2026 agreed to acquire Anysphere (Cursor AI coding)"
+      - claim: Named institution competitor Microsoft GitHub Copilot
+        kind: named_product
+        value: "Microsoft GitHub Copilot"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Positions xAI (Grok) vs Microsoft GitHub Copilot + Anthropic Claude"
+      - claim: Named product xAI Grok
+        kind: named_product
+        value: "xAI (Grok)"
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Positions xAI (Grok) vs Microsoft GitHub Copilot + Anthropic Claude"
+      - claim: Named institution Anthropic
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - "https://www.cnbc.com/amp/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html"
+        verbatim_excerpt: "Positions xAI (Grok) vs Microsoft GitHub Copilot + Anthropic Claude"
+    quotes: []
+
+  - story_id: huntsman-olin-all-stock-merger-12-billion-chemicals
+    category: ipo_ma
+    headline_en: "Huntsman and Olin Agree to All-Stock Merger of Equals to Create $12+ Billion North American Chemicals Company"
+    lead_url: "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+    hard_facts:
+      - claim: Merger announcement date
+        kind: temporal
+        value: "June 16 2026"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Huntsman (NYSE: HUN) + Olin (NYSE: OLN) June 16 2026 definitive all-stock merger of equals"
+      - claim: Huntsman NYSE ticker
+        kind: named_product
+        value: "NYSE: HUN"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Huntsman (NYSE: HUN)"
+      - claim: Olin NYSE ticker
+        kind: named_product
+        value: "NYSE: OLN"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Olin (NYSE: OLN)"
+      - claim: Combined company name
+        kind: named_institution
+        value: "OlinHuntsman Corporation"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Combined renamed OlinHuntsman Corporation"
+      - claim: Combined company value descriptor
+        kind: numerical_with_unit
+        value: "$12+ billion"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "\"$12+ billion integrated North American chemicals leader.\""
+      - claim: Exchange ratio for Huntsman shares
+        kind: numerical
+        value: "0.5476"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Exchange ratio: Huntsman 0.5476 Olin shares per Huntsman share"
+      - claim: Post-deal Olin shareholder stake
+        kind: numerical_with_unit
+        value: "54.5%"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Post-deal: Olin shareholders 54.5%, Huntsman 45.5%"
+      - claim: Post-deal Huntsman shareholder stake
+        kind: numerical_with_unit
+        value: "45.5%"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Post-deal: Olin shareholders 54.5%, Huntsman 45.5%"
+      - claim: CEO of combined company
+        kind: named_person
+        value: "Ken Lane"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Ken Lane CEO; Peter Huntsman non-exec Chair"
+      - claim: Non-executive Chair of combined company
+        kind: named_person
+        value: "Peter Huntsman"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Ken Lane CEO; Peter Huntsman non-exec Chair"
+      - claim: Cost synergies target
+        kind: numerical_with_unit
+        value: ">$400M"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: ">$400M cost synergies"
+      - claim: Expected close
+        kind: temporal
+        value: "1H 2027"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Close 1H 2027 subject to shareholder + regulatory approval"
+      - claim: Agreement date
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Agreement dated June 15"
+      - claim: SEC filing types
+        kind: named_product
+        value: "8-K + 425"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "8-K + 425 filed June 16"
+      - claim: SEC filing date
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "8-K + 425 filed June 16"
+      - claim: M&A primary band threshold exceeded
+        kind: numerical_with_unit
+        value: "USD 500M"
+        source_urls:
+          - "https://www.sec.gov/Archives/edgar/data/0001307954/000110465926074266/tm2618028d2_8k.htm"
+        verbatim_excerpt: "Exceeds USD 500M M&A primary band"
+    quotes: []

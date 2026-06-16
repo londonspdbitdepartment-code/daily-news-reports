@@ -1,0 +1,552 @@
+manifest_meta:
+  country: Europe
+  date: "2026-06-16"
+  lang: zh
+  generated_by: daily-fact-extractor
+  total_stories: 14
+
+stories:
+
+  - id: KEEP-01
+    category: econ
+    headline: "European Energy Prices Slump"
+    lead_url: "https://www.prestigebusiness.energy/marketreports/energy-market-update16june2026"
+    corroborated_by:
+      - "https://tradingeconomics.com/commodity/eu-natural-gas"
+      - "https://oilprice.com/"
+      - "https://discoveryalert.com.au/news/us-iran-ceasefire-european-oil-prices/"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-16", context: "European wholesale energy markets fell sharply on Monday"}
+        - {value: "2026-06-19", context: "US–Iran ceasefire MoU scheduled for signing in Switzerland"}
+        - {value: "2026-04-late", context: "Dutch TTF July contract at weakest level since late April 2026"}
+      numbers:
+        - {value: "€42.5/MWh", context: "Dutch TTF natural gas July contract settlement price"}
+        - {value: ">9%", context: "single-session decline in some TTF contracts"}
+        - {value: "101p/therm", context: "UK NBP front-month gas settlement"}
+        - {value: "~11p", context: "UK NBP decline on the day"}
+        - {value: "$83/barrel", context: "Brent crude oil settlement"}
+        - {value: "~5%", context: "Brent crude decline on the day"}
+        - {value: "~12%", context: "Brent crude decline on the week"}
+        - {value: "$81/barrel", context: "West Texas Intermediate price"}
+        - {value: "~£6/MWh", context: "UK baseload electricity front-month decline"}
+        - {value: "~5%", context: "winter 2026 power contract decline"}
+        - {value: "~£108/MWh", context: "winter 2026 power contract day-ahead baseload settlement"}
+        - {value: "$115/tonne", context: "Coal ARA CIF Cal 2027 price"}
+        - {value: "44%", context: "European gas storage capacity"}
+        - {value: "9 percentage points", context: "storage shortfall vs same point a year earlier"}
+        - {value: "40–50 days", context: "estimated mine-clearing operations in the Strait after formal signing"}
+        - {value: "$1.34", context: "Sterling per dollar exchange rate"}
+        - {value: "€1.16", context: "Sterling per euro exchange rate"}
+      institutions:
+        - "European wholesale energy markets"
+      locations:
+        - "Switzerland"
+        - "Strait of Hormuz"
+      products:
+        - "Dutch TTF natural gas July contract"
+        - "UK NBP front-month gas"
+        - "Brent crude oil"
+        - "West Texas Intermediate (WTI)"
+        - "UK baseload electricity front-month"
+        - "winter 2026 power contract"
+        - "Coal ARA CIF Cal 2027"
+      quotes: []
+
+  - id: KEEP-02
+    category: econ
+    headline: "ECB Raises Key Rates by 25bps"
+    lead_url: "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html"
+    corroborated_by:
+      - "https://www.euronews.com/business/2026/06/11/ecb-rate-decision"
+      - "https://www.cnbc.com/2026/06/11/ecb-rate-hike.html"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-11", context: "ECB Governing Council meeting date"}
+        - {value: "2026-06-17", context: "effective date of new ECB rates"}
+        - {value: "2023-09", context: "last ECB rate increase before this one"}
+        - {value: "2024-06 to 2025-06", context: "period of eight consecutive rate cuts"}
+      numbers:
+        - {value: "25 basis points", context: "ECB rate hike magnitude"}
+        - {value: "2.25%", context: "new ECB deposit facility rate"}
+        - {value: "2.40%", context: "new ECB main refinancing operations rate"}
+        - {value: "2.65%", context: "new ECB marginal lending facility rate"}
+        - {value: "8", context: "consecutive cuts reversed by this hike"}
+        - {value: "3.0%", context: "headline HICP inflation forecast 2026"}
+        - {value: "+0.4pp", context: "HICP 2026 revision"}
+        - {value: "2.3%", context: "headline HICP inflation forecast 2027"}
+        - {value: "+0.3pp", context: "HICP 2027 revision"}
+        - {value: "2.0%", context: "headline HICP inflation forecast 2028"}
+        - {value: "3.4%", context: "peak HICP forecast Q3–Q4 2026"}
+        - {value: "2.5%", context: "core inflation projected 2026 and 2027"}
+        - {value: "0.8%", context: "real GDP growth revised 2026"}
+        - {value: "1.2%", context: "real GDP growth revised 2027"}
+        - {value: "1.5%", context: "real GDP growth revised 2028"}
+        - {value: "3.2%", context: "eurozone inflation May 2026"}
+        - {value: "10.9%", context: "energy cost increase May 2026"}
+        - {value: "3.5%", context: "services inflation May 2026"}
+        - {value: "-0.2%", context: "eurozone GDP Q1 2026 contraction"}
+        - {value: "~50%", context: "market-priced probability of another hike in September 2026"}
+        - {value: "2026-01-01", context: "Bulgaria joined euro area"}
+      institutions:
+        - "ECB Governing Council"
+        - "Eurosystem"
+      persons: []
+      locations:
+        - "Bulgaria"
+      quotes:
+        - {text: "robust across a range of scenarios", speaker: "ECB Governing Council", context: "description of rate decision"}
+        - {text: "data-dependent and meeting-by-meeting approach", speaker: "ECB Governing Council", context: "forward guidance"}
+
+  - id: KEEP-03
+    category: econ
+    headline: "EU General Affairs Council MFF"
+    lead_url: "https://www.consilium.europa.eu/en/meetings/gac/2026/06/16/"
+    corroborated_by:
+      - "https://ieu-monitoring.com/editorial/general-affairs-council-2026-06-16"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-16", context: "GAC meeting date"}
+        - {value: "2026-06-12", context: "Cyprus Presidency unveiled MFF negotiating box"}
+        - {value: "2028-2034", context: "MFF coverage period"}
+      numbers:
+        - {value: "~€2 trillion", context: "European Commission MFF proposal amount"}
+        - {value: "1.26%", context: "MFF as % of EU GNI averaged over 2028–2034"}
+        - {value: "3", context: "principal pillars of draft MFF regulation for partial general approaches"}
+      institutions:
+        - "EU General Affairs Council (GAC)"
+        - "European Commission"
+        - "Cyprus Presidency"
+      locations:
+        - "Luxembourg"
+      persons: []
+      member_states_mentioned:
+        - "Germany"
+        - "Netherlands"
+        - "Austria"
+        - "Sweden"
+      quotes: []
+
+  - id: KEEP-04
+    category: econ
+    headline: "Eurostat Trade Deficit €1bn April"
+    lead_url: "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/6-15062026-bp"
+    corroborated_by: []
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-15", context: "Eurostat data publication date"}
+        - {value: "2026-04", context: "reference month for trade data"}
+        - {value: "2025-04", context: "comparison month"}
+      numbers:
+        - {value: "€1.0 billion deficit", context: "euro area trade balance April 2026"}
+        - {value: "€8.7 billion surplus", context: "euro area trade balance April 2025 (comparison)"}
+        - {value: "€255.4 billion", context: "euro area exports April 2026"}
+        - {value: "+5.0% YoY", context: "euro area export growth"}
+        - {value: "€256.4 billion", context: "euro area imports April 2026"}
+        - {value: "+9.3% YoY", context: "euro area import growth"}
+        - {value: "€7.1 billion deficit", context: "EU trade balance April 2026"}
+        - {value: "€7.3 billion surplus", context: "EU trade balance April 2025 (comparison)"}
+        - {value: "€225.7 billion", context: "extra-EU exports April 2026"}
+        - {value: "+3.2%", context: "extra-EU export growth"}
+        - {value: "€232.8 billion", context: "extra-EU imports April 2026"}
+        - {value: "+10.1%", context: "extra-EU import growth"}
+        - {value: "€12.9 billion", context: "euro area YTD surplus January–April 2026"}
+        - {value: "€63.7 billion", context: "euro area YTD surplus January–April 2025 (comparison)"}
+        - {value: "€2.2 billion deficit", context: "EU YTD trade balance January–April 2026"}
+        - {value: "€57.5 billion surplus", context: "EU YTD trade balance January–April 2025 (comparison)"}
+      institutions:
+        - "Eurostat"
+      quotes: []
+
+  - id: KEEP-05
+    category: politics
+    headline: "G7 Évian Summit Day Two"
+    lead_url: "https://www.indianewsnetwork.com/en/g7-summit-2026-commences-evian-global-leaders-agenda-20260616"
+    corroborated_by:
+      - "https://www.euronews.com/my-europe/2026/06/15/g7-summit-leaders-set-to-arrive-in-evian-after-us-iran-ceasefire-deal"
+      - "https://www.france24.com/en/europe/20260615-g7-summit-evian"
+      - "https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/15-17/"
+      - "https://www.elysee.fr/g7-evian"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-16", context: "second day of G7 Summit"}
+        - {value: "2026-06-15 to 2026-06-17", context: "G7 Summit dates"}
+        - {value: "2026-06-19", context: "formal US–Iran ceasefire MoU signing date; Strait of Hormuz open by this date per Trump"}
+      numbers:
+        - {value: "52nd", context: "G7 Summit edition number"}
+        - {value: "100%", context: "Trump threatened tariffs on French champagne and wine"}
+        - {value: "3%", context: "France's digital services tax"}
+      persons:
+        - {name: "Emmanuel Macron", role: "President of France, Summit host"}
+        - {name: "Volodymyr Zelenskyy", role: "President of Ukraine, Day-2 invited guest"}
+        - {name: "Narendra Modi", role: "Prime Minister of India, Day-2 invited guest"}
+        - {name: "William Ruto", role: "President of Kenya, Day-2 invited guest"}
+        - {name: "Yoon Suk Yeol", role: "President of South Korea, Day-2 invited guest"}
+        - {name: "Mohamed bin Zayed Al Nahyan", role: "President of UAE, Day-2 invited guest"}
+        - {name: "Abdel Fattah el-Sisi", role: "President of Egypt, Day-2 invited guest"}
+        - {name: "Tamim bin Hamad Al Thani", role: "Emir of Qatar, Day-2 invited guest"}
+        - {name: "Donald Trump", role: "US President"}
+        - {name: "Ursula von der Leyen", role: "European Commission President"}
+      institutions:
+        - "G7"
+        - "European Commission"
+      locations:
+        - "Évian-les-Bains"
+        - "Haute-Savoie"
+        - "France"
+        - "Strait of Hormuz"
+      quotes:
+        - {text: "completely open", speaker: "Donald Trump", context: "description of Strait of Hormuz by formal signing date 19 June"}
+        - {text: "a very important step for peace of the whole world", speaker: "Emmanuel Macron", context: "reaction to US–Iran ceasefire"}
+        - {text: "if behaviour is changing credibly and verifiably", speaker: "Ursula von der Leyen", context: "condition for lifting EU sanctions on Iran"}
+
+  - id: KEEP-06
+    category: politics
+    headline: "EP Plenary Vote Turnberry Trade Deal"
+    lead_url: "https://www.euronews.com/my-europe/2026/06/02/trade-meps-back-euus-deal-despite-watered-down-safeguards"
+    corroborated_by:
+      - "https://ieu-monitoring.com/editorial/plenary-session-2026-06-15"
+      - "https://www.lexisnexis.com/en-gb/legal/news/eu-parliament-trade-committee-approves-eu-us-trade-deal"
+      - "https://euperspectives.eu/2026/06/eu-lawmakers-clear-turnberry-deal-in-committee/"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-16", context: "definitive full plenary vote scheduled date"}
+        - {value: "2026-06-15 to 2026-06-18", context: "EP Strasbourg plenary week"}
+        - {value: "2026-06-02", context: "committee stage vote date"}
+        - {value: "2025-07", context: "EU–US Joint Statement (Turnberry) date"}
+        - {value: "2025-08-21", context: "original Trump–von der Leyen Joint Statement published"}
+        - {value: "2025-07-27", context: "Trump–von der Leyen leaders' meeting"}
+        - {value: "2026-12-31", context: "sunset clause expiry"}
+        - {value: "2026-end", context: "deadline for US to align steel and aluminium duties to 15% ceiling"}
+        - {value: "2026-07-04", context: "Trump's threatened deadline for 25% tariffs on EU automobiles"}
+        - {value: "2029-12-31", context: "sunset clause final expiry"}
+      numbers:
+        - {value: "31 votes to 6", context: "committee stage approval result"}
+        - {value: "3 abstentions", context: "committee stage abstentions"}
+        - {value: "15%", context: "cap on most US tariffs on EU exports"}
+        - {value: "25%", context: "Trump's threatened tariffs on EU automobiles"}
+      persons:
+        - {name: "Bernd Lange", role: "Lead EP negotiator, S&D group"}
+      institutions:
+        - "European Parliament"
+        - "European Commission"
+      locations:
+        - "Strasbourg"
+        - "Turnberry, Scotland"
+      quotes:
+        - {text: "We are sticking to our deal, but we are also clear that if the other side is breaching this deal, we have a lot of possibilities.", speaker: "Bernd Lange", role: "EP Lead Negotiator (S&D)"}
+
+  - id: KEEP-07
+    category: politics
+    headline: "GAC Hungary Article 7 + Legislative Programme"
+    lead_url: "https://www.consilium.europa.eu/en/meetings/gac/2026/06/16/"
+    corroborated_by:
+      - "https://ieu-monitoring.com/editorial/general-affairs-council-2026-06-16"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-16", context: "GAC meeting date"}
+        - {value: "2018-09", context: "Article 7(1) TEU procedure triggered against Hungary by EP"}
+        - {value: "2026-07-01 to 2027-12-31", context: "EU 18-month programme period"}
+        - {value: "2026-07 to 2026-12", context: "Cyprus Presidency period"}
+        - {value: "2026-06-18 to 2026-06-19", context: "European Council Brussels"}
+      institutions:
+        - "EU General Affairs Council (GAC)"
+        - "European Parliament"
+        - "Cyprus Presidency"
+        - "European Council"
+      locations:
+        - "Luxembourg"
+        - "Hungary"
+        - "Brussels"
+      legal_references:
+        - "Article 7(1) TEU"
+      grounds_for_procedure:
+        - "judicial independence"
+        - "freedom of expression"
+        - "academic freedom"
+        - "treatment of minorities"
+      quotes: []
+
+  - id: KEEP-08
+    category: tech
+    headline: "UK Under-16 Social Media Ban"
+    lead_url: "https://www.cnbc.com/2026/06/15/uk-social-media-ban-under-16s.html"
+    corroborated_by:
+      - "https://www.npr.org/2026/06/15/uk-social-media-ban"
+      - "https://www.nbcnews.com/news/world/uk-social-media-ban-under-16-rcna2026"
+      - "https://www.washingtonpost.com/world/2026/06/15/uk-social-media-ban/"
+      - "https://www.bloomberg.com/news/articles/2026-06-09/uk-social-media-ban-preview"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-15", context: "PM Starmer announcement date"}
+        - {value: "2026-12", context: "before Christmas 2026 — legislation to reach Parliament"}
+        - {value: "2027-spring", context: "expected date of legal protections"}
+      numbers:
+        - {value: "16", context: "age threshold for social media ban"}
+        - {value: "116,000", context: "public consultation responses"}
+        - {value: ">90%", context: "proportion supporting under-16 ban"}
+      persons:
+        - {name: "Keir Starmer", role: "UK Prime Minister"}
+      institutions:
+        - "UK Government"
+        - "UK Parliament"
+      locations:
+        - "Downing Street"
+        - "Australia"
+        - "Canada"
+        - "Brazil"
+        - "Indonesia"
+      platforms_banned:
+        - "Snapchat"
+        - "TikTok"
+        - "YouTube"
+        - "Instagram"
+        - "Facebook"
+        - "X"
+      platforms_excluded:
+        - "WhatsApp"
+        - "Signal"
+        - "YouTube Kids"
+      quotes: []
+
+  - id: KEEP-09
+    category: tech
+    headline: "EU Chips Act 2.0 + CADA Tech Sovereignty"
+    lead_url: "https://www.intelligentcio.com/eu/2026/06/10/eu-launches-tech-sovereignty-plan-to-strengthen-european-chips-cloud-and-ai-capabilities/"
+    corroborated_by:
+      - "https://commission.europa.eu/news-and-media/news/strengthening-europes-tech-sovereignty-2026-06-03_en"
+      - "https://www.cnbc.com/2026/06/03/eu-tech-sovereignty.html"
+      - "https://www.biometricupdate.com/202606/europe-moves-to-secure-sovereign-cybersecurity-and-chips"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-03", context: "European Technological Sovereignty Package presented"}
+        - {value: "2026-06-10", context: "GlobalFoundries and Qualinx completed first fully European end-to-end semiconductor manufacturing process"}
+        - {value: "2023", context: "original EU Chips Act"}
+      numbers:
+        - {value: "~€120 billion", context: "semiconductors in broader sovereignty envelope (Chips Act 2.0)"}
+        - {value: "5–7 years", context: "timeframe to triple European data centre capacity"}
+      persons:
+        - {name: "Henna Virkkunen", role: "Executive VP for Digital Sovereignty, European Commission"}
+      institutions:
+        - "European Commission"
+        - "GlobalFoundries"
+        - "Qualinx"
+        - "European Parliament"
+        - "EU Council"
+      locations:
+        - "GF Dresden"
+      products:
+        - "Chips Act 2.0"
+        - "Cloud and AI Development Act (CADA)"
+        - "EU Open Source Strategy"
+        - "European Technological Sovereignty Package"
+      sectors:
+        - "aerospace"
+        - "defence"
+        - "critical infrastructure"
+      quotes:
+        - {text: "would help Europe maintain greater control over key technologies", speaker: "Henna Virkkunen", role: "Executive VP for Digital Sovereignty"}
+
+  - id: KEEP-10
+    category: society
+    headline: "EU Migration Pact Full Force"
+    lead_url: "https://www.euronews.com/my-europe/2026/06/09/can-the-new-pact-meet-the-eus-ambition-to-reduce-illegal-migration"
+    corroborated_by:
+      - "https://www.eppgroup.eu/newsroom/stronger-borders-taking-back-control-migration-pact-applies-tomorrow"
+      - "https://ecre.org/state-of-play-migration-pact/"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-12", context: "EU Pact on Migration and Asylum became fully applicable"}
+        - {value: "2024-06", context: "pact became EU law (two-year transition start)"}
+        - {value: "2026-06-17", context: "European Parliament Return Regulation vote scheduled"}
+        - {value: "2026-05-08", context: "European Commission progress report published"}
+      numbers:
+        - {value: "9", context: "directly applicable regulations under the pact"}
+        - {value: "7 days", context: "screening requirement at external borders"}
+        - {value: "3 days", context: "screening requirement for those already inside EU"}
+        - {value: "~117,500", context: "deportation orders issued per quarter by EU member states"}
+        - {value: "~33,860", context: "actual returns per quarter"}
+        - {value: "28–29%", context: "deportation success rate"}
+        - {value: ">669,400", context: "first-time asylum applications received annually by EU"}
+      institutions:
+        - "European Commission"
+        - "European Parliament"
+        - "EPP (European People's Party)"
+      persons:
+        - {name: "Tomas Tobé", role: "EPP rapporteur"}
+        - {name: "Lena Düpont", role: "Home Affairs spokeswoman"}
+      member_states_with_implementation_gaps:
+        - "Germany"
+        - "Italy"
+        - "Greece"
+        - "Spain"
+        - "Cyprus"
+      quotes:
+        - {text: "After years of deadlock, Europe finally has the tools to strengthen its external borders.", speaker: "Tomas Tobé", role: "EPP rapporteur"}
+        - {text: "The days of 27 different migration policies are over.", speaker: "Lena Düpont", role: "Home Affairs spokeswoman"}
+
+  - id: KEEP-11
+    category: society
+    headline: "Europe Summer Strike Season"
+    lead_url: "https://www.traveltourister.com/news/europe-flight-chaos-june-15-2026-3283-delays-77-cancellations-cdg-363-delays-heathrow-frankfurt-rome-lisbon-brussels-easyjet-ba-lufthansa-ryanair-3-days-paris-cdg-strike-eu261-uk261/"
+    corroborated_by:
+      - "https://airadvisor.com/en/blog/european-airport-strikes-summer-2026"
+      - "https://www.wego.com/news/europe-airport-strikes-live/"
+      - "https://www.timeout.com/news/european-transport-strikes-2026"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-15", context: "date of 3,283 flight delays and 77 cancellations"}
+        - {value: "2026-06-18", context: "24-hour walkout at Paris CDG, Orly, Le Bourget"}
+        - {value: "2026-06-30", context: "Belgium air-traffic-control dispute legally in force through this date"}
+        - {value: "2026-06-26", context: "nationwide ground-handling strikes in Italy confirmed"}
+      numbers:
+        - {value: "3,283", context: "flight delays across 11 countries on 15 June 2026"}
+        - {value: "77", context: "cancellations on 15 June 2026"}
+        - {value: "11", context: "countries affected"}
+        - {value: "363", context: "delays at Paris CDG — highest of any European airport"}
+        - {value: "5", context: "countries simultaneously in active industrial action"}
+        - {value: "12", context: "major airports with Spain rolling walk-outs"}
+        - {value: "14", context: "airports with SAERCO stoppages"}
+        - {value: "€600", context: "EU 261/2004 compensation entitlement"}
+        - {value: "£520", context: "UK equivalent compensation entitlement"}
+      institutions:
+        - "CGT"
+        - "CFDT"
+        - "UNSA"
+        - "Sud Aérien"
+        - "SAERCO"
+      locations:
+        - "Paris Charles de Gaulle (CDG)"
+        - "Orly"
+        - "Le Bourget"
+        - "Spain"
+        - "France"
+        - "Italy"
+        - "Belgium"
+        - "Portugal"
+      carriers_affected:
+        - "EasyJet"
+        - "British Airways"
+        - "Lufthansa"
+        - "Ryanair"
+        - "TAP"
+        - "Transavia"
+      legal_references:
+        - "EU 261/2004"
+      quotes: []
+
+  - id: KEEP-12
+    category: ipo_ma
+    headline: "UniCredit Commerzbank €35bn Deadline"
+    lead_url: "https://www.france24.com/en/live-news/20260616-deadline-looms-for-unicredit-s-hostile-bid-for-commerzbank"
+    corroborated_by:
+      - "https://www.aol.co.uk/articles/deadline-looms-unicredits-hostile-bid-101650000.html"
+      - "https://www.freemalaysiatoday.com/category/world/2026/06/16/unicredit-commerzbank-deadline/"
+      - "https://www.ad-hoc-news.de/boerse/news/commerzbank-deadline/"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-16", context: "formal acceptance deadline expiry — 11:59 PM (2159 GMT)"}
+        - {value: "2026-06-20 to 2026-07-03", context: "statutory extended acceptance window"}
+        - {value: "2026-05-early", context: "UniCredit launched the bid"}
+        - {value: "2026-06-15", context: "UniCredit surpassed 30% minimum threshold"}
+        - {value: "2007", context: "ABN AMRO acquisition — last comparable cross-border EU bank takeover"}
+      numbers:
+        - {value: "€35 billion ($40.6 billion)", context: "UniCredit tender offer for Commerzbank"}
+        - {value: "30%", context: "self-imposed minimum threshold"}
+        - {value: "26.7%", context: "UniCredit shares acquired pre-announcement"}
+        - {value: "13.2%", context: "UniCredit holdings via cash-settled derivatives"}
+        - {value: "3.2%", context: "UniCredit holdings via equity-settled derivatives"}
+        - {value: ">43%", context: "UniCredit total combined holdings"}
+        - {value: "11.91%", context: "actual share-tender acceptances by shareholders"}
+        - {value: "€3.4 billion", context: "Commerzbank lifted full-year 2026 net profit target (at least)"}
+        - {value: "€3.2 billion", context: "Commerzbank prior 2026 net profit target"}
+      persons:
+        - {name: "Friedrich Merz", role: "German Chancellor"}
+        - {name: "Bettina Orlopp", role: "Commerzbank CEO"}
+      institutions:
+        - "UniCredit"
+        - "Commerzbank"
+        - "HypoVereinsbank"
+        - "ECB"
+        - "Germany's Financial Market Stabilisation Fund"
+        - "Frankfurt prosecutors"
+        - "BaFin"
+      quotes:
+        - {text: "trust", speaker: "Friedrich Merz", context: "rejection of bid — said it damaged 'trust' in the institution"}
+        - {text: "potentially misleading information", speaker: "Commerzbank (via BaFin complaint)", context: "allegation about UniCredit acceptance figures"}
+
+  - id: KEEP-13
+    category: ipo_ma
+    headline: "Bouygues SFR €20.35bn MoU"
+    lead_url: "https://www.cnbc.com/2026/06/06/bouygues-led-consortium-signs-23point44-billion-deal-to-buy-sfr-from-altice-france.html"
+    corroborated_by:
+      - "https://newsroom.orange.com/orange-bouygues-iliad-altice-france/"
+      - "https://www.bloomberg.com/news/articles/2026-06-06/bouygues-sfr-deal"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-06", context: "MoU signing date"}
+        - {value: "2025-late", context: "Initial ~€17 billion offer rejected by Altice"}
+        - {value: "2026-04", context: "revised bid triggered exclusivity period"}
+        - {value: "2026-H2", context: "definitive agreements expected"}
+        - {value: "2027-H2", context: "regulatory closing potentially"}
+      numbers:
+        - {value: "€20.35 billion (~$23.44 billion)", context: "enterprise value of SFR acquisition including debt"}
+        - {value: "~42%", context: "Bouygues Telecom share of price"}
+        - {value: "31%", context: "Free-Iliad share of price"}
+        - {value: "27%", context: "Orange share of price"}
+        - {value: "4 to 3", context: "reduction in French network operators"}
+        - {value: "~€17 billion", context: "initial offer rejected by Altice in late 2025"}
+      persons: []
+      institutions:
+        - "Bouygues Telecom"
+        - "Orange"
+        - "Free-Iliad Group"
+        - "Altice France"
+        - "Autorité de la concurrence"
+        - "European Commission DG Competition"
+      products:
+        - "SFR (France's second-largest mobile operator)"
+      quotes: []
+
+  - id: KEEP-14
+    category: other
+    headline: "European Carbon Allowances Firm 4%"
+    lead_url: "https://www.prestigebusiness.energy/marketreports/energy-market-update16june2026"
+    corroborated_by:
+      - "https://tradingeconomics.com/commodity/carbon"
+      - "https://www.acer.europa.eu/Publications/MMR-2026.pdf"
+    body_source: full
+    facts:
+      dates:
+        - {value: "2026-06-16", context: "EU ETS and UK ETS settlement date"}
+        - {value: "2026-06-19", context: "scheduled MoU signing date — reference for Strait timeline"}
+      numbers:
+        - {value: "~€80/tonne", context: "EU ETS December 2026 allowance (EUA) settlement price"}
+        - {value: "+4%", context: "EU ETS session gain on 16 June 2026"}
+        - {value: "~£58/tonne", context: "UK ETS December 2026 contract price"}
+        - {value: "$115/tonne", context: "ARA CIF Cal 2027 coal price"}
+        - {value: "44%", context: "European gas storage capacity"}
+        - {value: "9 percentage points", context: "gas storage shortfall vs year-ago level"}
+        - {value: "40–50 days", context: "mine-clearing of Strait of Hormuz estimated duration after 19 June signing"}
+      institutions:
+        - "EU Emissions Trading System (ETS)"
+        - "UK ETS"
+        - "ACER"
+      products:
+        - "EU ETS December 2026 allowance (EUA)"
+        - "UK ETS December 2026 contract"
+        - "ARA CIF Cal 2027 coal"
+      quotes: []
