@@ -1,0 +1,1807 @@
+version: 1
+generated_at: "2026-06-16T12:00:00Z"
+country: South Korea
+date: "2026-06-16"
+total_stories: 15
+stories:
+
+  - story_id: kospi-surges-2-1-pct-us-iran-ceasefire
+    category: econ
+    headline_en: "KOSPI surges 2.1% as US-Iran ceasefire deal reopens Strait of Hormuz"
+    lead_url: https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10772412
+      - https://www.koreaherald.com/article/10772958
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+      - https://www.koreaherald.com/article/10772412
+      - https://www.koreaherald.com/article/10772958
+    hard_facts:
+      - claim: KOSPI daily gain (percentage)
+        kind: numerical_with_unit
+        value: "more than 2 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Seoul stocks surged more than 2 percent Tuesday, extending gains to a fourth consecutive day"
+      - claim: KOSPI gain streak
+        kind: temporal
+        value: fourth consecutive day
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "extending gains to a fourth consecutive day"
+      - claim: KOSPI points gained
+        kind: numerical_with_unit
+        value: "180.62 points"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "The Korea Composite Stock Price Index increased 180.62 points, or 2.11 percent, closing at 8,726.6"
+      - claim: KOSPI closing percentage gain
+        kind: numerical_with_unit
+        value: "2.11 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "increased 180.62 points, or 2.11 percent, closing at 8,726.6"
+      - claim: KOSPI closing level
+        kind: numerical_with_unit
+        value: "8,726.6"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "closing at 8,726.6"
+      - claim: Strait of Hormuz expected reopening date
+        kind: temporal
+        value: Friday
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "with the Strait expected to fully open Friday"
+      - claim: S&P 500 overnight gain
+        kind: numerical_with_unit
+        value: "1.7 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "the S&P 500 rose 1.7 percent"
+      - claim: Nasdaq 100 overnight gain
+        kind: numerical_with_unit
+        value: "3.1 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Nasdaq 100 gained 3.1 percent"
+      - claim: Brent crude price decline percentage
+        kind: numerical_with_unit
+        value: "4.76 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Brent crude fell 4.76 percent to $83.17 per barrel"
+      - claim: Brent crude closing price
+        kind: numerical_with_unit
+        value: "$83.17 per barrel"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Brent crude fell 4.76 percent to $83.17 per barrel"
+      - claim: WTI crude price decline percentage
+        kind: numerical_with_unit
+        value: "4.87 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "WTI dropped 4.87 percent to $80.75 per barrel"
+      - claim: WTI crude closing price
+        kind: numerical_with_unit
+        value: "$80.75 per barrel"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "WTI dropped 4.87 percent to $80.75 per barrel"
+      - claim: KOSPI trading volume shares
+        kind: numerical_with_unit
+        value: "582.36 million shares"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Trading volume was moderate at 582.36 million shares valued at 39.42 trillion won ($26.08 billion)"
+      - claim: KOSPI trading volume value in won
+        kind: numerical_with_unit
+        value: "39.42 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "valued at 39.42 trillion won ($26.08 billion)"
+      - claim: KOSPI trading volume value in USD
+        kind: numerical_with_unit
+        value: "$26.08 billion"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "valued at 39.42 trillion won ($26.08 billion)"
+      - claim: KOSPI winners count
+        kind: numerical
+        value: "518"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "winners outnumbering losers 518 to 359"
+      - claim: KOSPI losers count
+        kind: numerical
+        value: "359"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "winners outnumbering losers 518 to 359"
+      - claim: Foreign investors net purchase
+        kind: numerical_with_unit
+        value: "1.54 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Foreign investors purchased a net 1.54 trillion won"
+      - claim: Institutional investors net purchase
+        kind: numerical_with_unit
+        value: "703.53 billion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "institutions bought 703.53 billion won"
+      - claim: Individual investors net sale
+        kind: numerical_with_unit
+        value: "2.18 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "individual investors sold 2.18 trillion won net"
+      - claim: Samsung Electronics closing gain
+        kind: numerical_with_unit
+        value: "1.78 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Samsung Electronics increased 1.78 percent to 343,000 won"
+      - claim: Samsung Electronics closing price
+        kind: numerical_with_unit
+        value: "343,000 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Samsung Electronics increased 1.78 percent to 343,000 won"
+      - claim: SK hynix closing gain
+        kind: numerical_with_unit
+        value: "4.11 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "SK hynix gained 4.11 percent to 1,382,000 won"
+      - claim: SK hynix closing price
+        kind: numerical_with_unit
+        value: "1,382,000 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "SK hynix gained 4.11 percent to 1,382,000 won"
+      - claim: SK Square closing gain
+        kind: numerical_with_unit
+        value: "6.23 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "SK Square surged 6.23 percent to 1,501,000 won"
+      - claim: SK Square closing price
+        kind: numerical_with_unit
+        value: "1,501,000 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "SK Square surged 6.23 percent to 1,501,000 won"
+      - claim: Hanwha Aerospace closing gain
+        kind: numerical_with_unit
+        value: "9.13 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Hanwha Aerospace rose 9.13 percent to 1,183,000 won"
+      - claim: Hanwha Aerospace closing price
+        kind: numerical_with_unit
+        value: "1,183,000 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Hanwha Aerospace rose 9.13 percent to 1,183,000 won"
+      - claim: LIG D&A closing gain
+        kind: numerical_with_unit
+        value: "18.85 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "LIG D&A jumped 18.85 percent to 1,002,000 won"
+      - claim: LIG D&A closing price
+        kind: numerical_with_unit
+        value: "1,002,000 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "LIG D&A jumped 18.85 percent to 1,002,000 won"
+      - claim: LIG D&A partnership partner
+        kind: named_institution
+        value: Rheinmetall
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "following a partnership announcement with German defense firm Rheinmetall for air defense system cooperation"
+      - claim: Daewoo Engineering & Construction closing gain
+        kind: numerical_with_unit
+        value: "19.87 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Daewoo Engineering & Construction soared 19.87 percent to 27,450 won"
+      - claim: Daewoo Engineering & Construction closing price
+        kind: numerical_with_unit
+        value: "27,450 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Daewoo Engineering & Construction soared 19.87 percent to 27,450 won"
+      - claim: Korean won closing rate
+        kind: numerical_with_unit
+        value: "1,511.6 per US dollar"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "The Korean won weakened to 1,511.6 per US dollar, down 0.5 won from the previous session"
+      - claim: Korean won daily change
+        kind: numerical_with_unit
+        value: "0.5 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "down 0.5 won from the previous session"
+      - claim: KOSPI early-morning gain
+        kind: numerical_with_unit
+        value: "more than 1.5 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Korean stocks opened more than 1.5 percent higher earlier in the session"
+      - claim: KOSPI level at 9:25 a.m. (points)
+        kind: numerical_with_unit
+        value: "149.68 points"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "The benchmark KOSPI rose 149.68 points, or 1.75 percent, to 8,695.66 as of 9:25 a.m."
+      - claim: KOSPI level at 9:25 a.m. (percent)
+        kind: numerical_with_unit
+        value: "1.75 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "The benchmark KOSPI rose 149.68 points, or 1.75 percent, to 8,695.66 as of 9:25 a.m."
+      - claim: KOSPI level at 9:25 a.m. (index value)
+        kind: numerical_with_unit
+        value: "8,695.66"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "to 8,695.66 as of 9:25 a.m."
+      - claim: KB Financial early-morning gain
+        kind: numerical_with_unit
+        value: "4.78 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "KB Financial rose 4.78 percent"
+      - claim: Samsung Electro-Mechanics early-morning change
+        kind: numerical_with_unit
+        value: "-0.9 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Samsung Electro-Mechanics fell 0.9 percent"
+      - claim: Hyundai Motor early-morning decline
+        kind: numerical_with_unit
+        value: "-1.08 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "leading automaker Hyundai Motor declined 1.08 percent"
+      - claim: Korean won at 9:15 a.m.
+        kind: numerical_with_unit
+        value: "1,517.75 won against the US dollar"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "trading at 1,517.75 won against the US dollar, down 5.65 won from the previous session, as of 9:15 a.m."
+      - claim: Korean won change at 9:15 a.m.
+        kind: numerical_with_unit
+        value: "5.65 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "down 5.65 won from the previous session, as of 9:15 a.m."
+      - claim: US President identity
+        kind: named_person
+        value: Donald Trump
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "US President Donald Trump announced that a preliminary agreement with Iran had been finalized"
+      - claim: Samsung Electronics institution
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Samsung Electronics increased 1.78 percent to 343,000 won"
+      - claim: SK hynix institution
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "SK hynix gained 4.11 percent to 1,382,000 won"
+      - claim: Hanwha Aerospace institution
+        kind: named_institution
+        value: Hanwha Aerospace
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-higher-on-wall-street-gains-following-usiran-deal/12724915
+        verbatim_excerpt: "Hanwha Aerospace rose 9.13 percent to 1,183,000 won"
+    quotes: []
+
+  - story_id: ceasefire-puts-kfood-back-on-menu
+    category: econ
+    headline_en: "Ceasefire puts K-food back on the menu in the Middle East"
+    lead_url: https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+    hard_facts:
+      - claim: US-Iran ceasefire agreement date
+        kind: temporal
+        value: Sunday
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "The pact, reached on Sunday, has prompted major domestic food companies to resume expansion initiatives"
+      - claim: Dongwon F&B shipment destinations
+        kind: named_institution
+        value: Dongwon F&B
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "Dongwon F&B announced plans to resume shipments to the United Arab Emirates and Kuwait"
+      - claim: Dongwon F&B shipment schedule
+        kind: temporal
+        value: later in June
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "resume shipments to the United Arab Emirates and Kuwait, with deliveries scheduled for later in June"
+      - claim: Dongwon F&B original contract date
+        kind: temporal
+        value: January
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "The company had originally contracted these shipments in January but postponed them after the Iran war broke out in February"
+      - claim: Iran war outbreak date
+        kind: temporal
+        value: February
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "postponed them after the Iran war broke out in February"
+      - claim: Dongwon F&B halal-certified products in new shipment
+        kind: numerical_with_unit
+        value: "over twenty halal-certified products"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "The new shipment includes over twenty halal-certified products, such as tuna cans, dried seaweed, and seaweed crisps"
+      - claim: Nongshim halal-certified product count
+        kind: numerical_with_unit
+        value: "forty-nine halal-certified products"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "Nongshim currently distributes forty-nine halal-certified products across more than forty Middle Eastern countries"
+      - claim: Nongshim Middle East country count
+        kind: numerical_with_unit
+        value: "more than forty Middle Eastern countries"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "distributes forty-nine halal-certified products across more than forty Middle Eastern countries"
+      - claim: Nongshim annual sales growth target
+        kind: numerical_with_unit
+        value: "fifty percent annual sales growth"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "targets fifty percent annual sales growth this year"
+      - claim: Nongshim pop-up store plan timing
+        kind: temporal
+        value: latter half of 2026
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "The company plans to launch multiple pop-up stores throughout the region during the latter half of 2026"
+      - claim: Samyang Foods regional country count
+        kind: numerical_with_unit
+        value: "more than ten regional countries"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "Samyang Foods operates in more than ten regional countries"
+      - claim: Saudi Arabia noodle market size
+        kind: numerical_with_unit
+        value: "three-hundred-billion-won noodle market"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "viewing Saudi Arabia's estimated three-hundred-billion-won noodle market as particularly promising"
+      - claim: Korean food shipments to Gulf nations 2025 YoY growth
+        kind: numerical_with_unit
+        value: "22.6 percent year-over-year"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "Korean food shipments to six major Gulf nations rose 22.6 percent year-over-year to $411.6 million in 2025"
+      - claim: Korean food shipments to Gulf nations 2025 value
+        kind: numerical_with_unit
+        value: "$411.6 million"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "to $411.6 million in 2025"
+      - claim: Korean food exports to Gulf nations Jan-Apr 2026 YoY growth
+        kind: numerical_with_unit
+        value: "37.6 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "with January-through-April 2026 exports climbing 37.6 percent comparatively"
+      - claim: Number of Gulf nations surveyed for food shipment data
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "Korean food shipments to six major Gulf nations"
+      - claim: Nongshim institution
+        kind: named_institution
+        value: Nongshim
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "Nongshim and Samyang Foods, Korea's leading instant noodle manufacturers, are intensifying competitive efforts in the region"
+      - claim: Samyang Foods institution
+        kind: named_institution
+        value: Samyang Foods
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "Nongshim and Samyang Foods, Korea's leading instant noodle manufacturers"
+      - claim: CJ CheilJedang institution
+        kind: named_institution
+        value: CJ CheilJedang
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "CJ CheilJedang is also targeting the market with halal seaweed snacks and stir-fried noodles"
+      - claim: Samyang Foods product named
+        kind: named_product
+        value: Buldak
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/ceasefire-puts-kfood-back-on-the-menu-in-the-middle-east/12724444
+        verbatim_excerpt: "intends to expand distribution of halal-certified Buldak products"
+    quotes: []
+
+  - story_id: europe-new-economic-playbook-south-korea
+    category: econ
+    headline_en: "Europe's new economic playbook gives South Korea a larger strategic role"
+    lead_url: https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+    hard_facts:
+      - claim: EU-South Korea summit date
+        kind: temporal
+        value: June 10
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "The agreements announced during President Lee Jae Myung's June 10 summit in Brussels"
+      - claim: Summit location
+        kind: named_institution
+        value: Brussels
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "President Lee Jae Myung's June 10 summit in Brussels"
+      - claim: Korea-EU free trade agreement entry into force date
+        kind: temporal
+        value: "2011"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "with their free trade agreement entering into force in 2011"
+      - claim: Digital Partnership date
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "followed by a Digital Partnership in 2022"
+      - claim: Security and Defense Partnership date
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "a Security and Defense Partnership in 2024"
+      - claim: South Korea joining Horizon Europe date
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "South Korea joining Horizon Europe in 2025"
+      - claim: EU steel measures effective date
+        kind: temporal
+        value: July 1
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "new EU steel measures scheduled for July 1"
+      - claim: Korean Trade Minister steel lobbying date
+        kind: temporal
+        value: June 4
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "On June 4, South Korea's Ministry of Trade disclosed that Trade Minister Yeo Han-koo had traveled to Brussels"
+      - claim: South Korean Trade Minister name
+        kind: named_person
+        value: Yeo Han-koo
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "Trade Minister Yeo Han-koo had traveled to Brussels to lobby against new EU steel measures"
+      - claim: South Korean President name
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "President Lee Jae Myung's June 10 summit in Brussels"
+      - claim: South Korea's Ministry of Trade institution
+        kind: named_institution
+        value: "South Korea's Ministry of Trade"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "South Korea's Ministry of Trade disclosed that Trade Minister Yeo Han-koo had traveled to Brussels"
+      - claim: Digital Trade Agreement product
+        kind: named_product
+        value: Digital Trade Agreement
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "Seoul and Brussels announced a Digital Trade Agreement, a Competitiveness Partnership, a High-Level Economic Dialogue"
+      - claim: Competitiveness Partnership product
+        kind: named_product
+        value: Competitiveness Partnership
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "a Digital Trade Agreement, a Competitiveness Partnership, a High-Level Economic Dialogue"
+      - claim: Security of Information Agreement product
+        kind: named_product
+        value: Security of Information Agreement
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "plans to negotiate a Security of Information Agreement"
+      - claim: High-Level Energy Dialogue product
+        kind: named_product
+        value: High-Level Energy Dialogue
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260616/europes-new-economic-playbook-gives-s-korea-larger-strategic-role
+        verbatim_excerpt: "a new High-Level Energy Dialogue"
+    quotes: []
+
+  - story_id: lee-attends-g7-france-hormuz-trump-meeting
+    category: politics
+    headline_en: "Lee attends G7 in France as Hormuz ceasefire hopes grow, possible Trump meeting in play"
+    lead_url: https://www.koreaherald.com/article/10772973
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10772320
+    locked_urls:
+      - https://www.koreaherald.com/article/10772973
+      - https://www.koreaherald.com/article/10772320
+    hard_facts:
+      - claim: G7 summit location
+        kind: named_institution
+        value: Evian-les-Bains
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "arriving in Evian-les-Bains, France for the Group of Seven Summit"
+      - claim: Lee's trip duration at G7
+        kind: temporal
+        value: Tuesday to Wednesday
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "Lee's trip there from Tuesday to Wednesday"
+      - claim: G7 partner countries alongside South Korea
+        kind: named_institution
+        value: "Brazil, Egypt, India and Kenya"
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "South Korea is one of the partner countries invited to this year's G7 summit, along with Brazil, Egypt, India and Kenya"
+      - claim: Lee's G7 appearances count
+        kind: numerical
+        value: "second"
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "This is Lee's second appearance at the G7 in as many years"
+      - claim: Lee's European trip stop count
+        kind: named_institution
+        value: "Belgium, Italy and the Vatican"
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "the president made stops in Belgium, Italy and the Vatican as part of a 10-day trip to Europe"
+      - claim: Lee's European trip duration
+        kind: numerical_with_unit
+        value: "10-day trip"
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "as part of a 10-day trip to Europe"
+      - claim: NSA identity and title
+        kind: named_person
+        value: Wi Sung-lac
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "National Security Adviser Wi Sung-lac said in a briefing in Italy Monday"
+      - claim: Previous G7 summit location
+        kind: named_institution
+        value: "Kananaskis, Alberta, Canada"
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "Lee attended the previous G7 summit, held in June 2025 in Kananaskis, Alberta, Canada"
+      - claim: Previous G7 summit date
+        kind: temporal
+        value: June 2025
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "held in June 2025 in Kananaskis, Alberta, Canada, just a few weeks after his inauguration"
+      - claim: Last Lee-Trump meeting venue
+        kind: named_institution
+        value: "Asia-Pacific Economic Cooperation Economic Leaders' Meeting in Gyeongju"
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "their first meeting since their talks last year on the sidelines of the Asia-Pacific Economic Cooperation Economic Leaders' Meeting in Gyeongju"
+      - claim: Trump Kim photograph event
+        kind: temporal
+        value: Sunday
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "On Sunday, Trump posted a photograph of himself with Kim during their summit in Singapore in 2018"
+      - claim: Trump-Kim Singapore summit date
+        kind: temporal
+        value: "2018"
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "a photograph of himself with Kim during their summit in Singapore in 2018"
+      - claim: Lee's expected return date from Europe
+        kind: temporal
+        value: Thursday
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "any announcement would come 'after Lee's return from his presidential trip, scheduled for Thursday'"
+      - claim: Lee Jae Myung presidential title
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "President Lee Jae Myung began the final leg of his trip to Europe on Tuesday"
+      - claim: Kim Jong-un title
+        kind: named_person
+        value: Kim Jong-un
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "North Korean leader Kim Jong-un"
+      - claim: Martial law crisis reference date
+        kind: temporal
+        value: late 2024
+        source_urls:
+          - https://www.koreaherald.com/article/10772973
+        verbatim_excerpt: "the turbulent times in the wake of the martial law crisis in late 2024"
+    quotes:
+      - speaker_name: Wi Sung-lac
+        speaker_title: National Security Adviser of South Korea
+        verbatim_en: "will serve as an important opportunity to solidify South Korea's standing in terms of its contribution to the resolution of global issues."
+        source_url: https://www.koreaherald.com/article/10772973
+        context: briefing in Italy on Monday ahead of Lee's G7 arrival
+      - speaker_name: Wi Sung-lac
+        speaker_title: National Security Adviser of South Korea
+        verbatim_en: "South Korea is now called upon to play a greater role on a broader global stage."
+        source_url: https://www.koreaherald.com/article/10772973
+        context: briefing in Italy on Monday ahead of Lee's G7 arrival
+      - speaker_name: Wi Sung-lac
+        speaker_title: National Security Adviser of South Korea
+        verbatim_en: "South Korea's diplomatic outreach will extend beyond the Korean Peninsula and Northeast Asia to Europe and the world."
+        source_url: https://www.koreaherald.com/article/10772973
+        context: briefing in Italy on Monday ahead of Lee's G7 arrival
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "This is an important step forward that the international community has been expecting for a long time."
+        source_url: https://www.koreaherald.com/article/10772973
+        context: post on X welcoming the US-Iran prospective peace deal
+
+  - story_id: dp-chair-jung-faces-resignation-pressure
+    category: politics
+    headline_en: "DP chair Jung faces mounting resignation pressure ahead of party convention"
+    lead_url: https://www.koreaherald.com/article/10772842
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772842
+    hard_facts:
+      - claim: DP national convention planned date
+        kind: temporal
+        value: August
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "ahead of the ruling Democratic Party of Korea's national convention set for August"
+      - claim: Jung Chung-rae legislative term count
+        kind: numerical_with_unit
+        value: four-term lawmaker
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "The four-term lawmaker is facing mounting pressure to resign from his post"
+      - claim: Jung Chung-rae chairship start date
+        kind: temporal
+        value: August 2025
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "Jung has chaired the party since August 2025"
+      - claim: Lee Jae Myung presidential election date
+        kind: temporal
+        value: June 2025
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "filling in for Lee Jae Myung, who stepped down after winning the presidential election in June 2025"
+      - claim: Key internal rupture date
+        kind: temporal
+        value: June 10
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "Calls for his resignation intensified after June 10"
+      - claim: Jung Chung-rae party chair identity
+        kind: named_person
+        value: Jung Chung-rae
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "Public attention is turning to Rep. Jung Chung-rae's future"
+      - claim: DP secretary general identity
+        kind: named_person
+        value: Jo Seoung-lae
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "Rep. Jo Seoung-lae of the Democratic Party, who serves as the party's secretary general"
+      - claim: Lawmaker Lim Mi-ae mentioned
+        kind: named_person
+        value: Lim Mi-ae
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "calls from lawmakers like Rep. Lim Mi-ae, expressing concerns during a Tuesday radio interview"
+      - claim: Five-term lawmaker Park Jie-won identity
+        kind: named_person
+        value: Park Jie-won
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "Five-term Rep. Park Jie-won stated"
+      - claim: Park Jie-won term count
+        kind: numerical_with_unit
+        value: Five-term
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "Five-term Rep. Park Jie-won stated"
+      - claim: Party chair chief secretary identity
+        kind: named_person
+        value: Han Min-soo
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "Rep. Han Min-soo, chief secretary for the party chair"
+      - claim: Prime Minister identity
+        kind: named_person
+        value: Kim Min-seok
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "Prime Minister Kim Min-seok, a potential contender for party chair"
+      - claim: PM nominee identity
+        kind: named_person
+        value: Han Seong-sook
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "prime minister nominee Han Seong-sook receives approval"
+      - claim: PM Kim Min-seok expected step-down timeline
+        kind: temporal
+        value: late June and early July
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "stated he would likely step down between late June and early July"
+      - claim: Democratic Party of Korea institution
+        kind: named_institution
+        value: Democratic Party of Korea
+        source_urls:
+          - https://www.koreaherald.com/article/10772842
+        verbatim_excerpt: "the ruling Democratic Party of Korea's national convention set for August"
+    quotes:
+      - speaker_name: Park Jie-won
+        speaker_title: Five-term lawmaker, Democratic Party of Korea
+        verbatim_en: "The right course would be for Jung to take responsibility and resign, letting people and party members decide his future."
+        source_url: https://www.koreaherald.com/article/10772842
+        context: statement regarding Jung Chung-rae's position as DP chair
+      - speaker_name: Park Jie-won
+        speaker_title: Five-term lawmaker, Democratic Party of Korea
+        verbatim_en: "If it were me, I wouldn't run."
+        source_url: https://www.koreaherald.com/article/10772842
+        context: statement regarding Jung Chung-rae's position as DP chair
+
+  - story_id: rebuilding-korea-party-elects-kim-joon-hyung
+    category: politics
+    headline_en: "Rebuilding Korea Party elects Kim Joon-hyung as floor leader after Cho Kuk's departure"
+    lead_url: https://www.koreaherald.com/article/10772465
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772465
+    hard_facts:
+      - claim: Kim Joon-hyung election result
+        kind: named_person
+        value: Kim Joon-hyung
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "Rep. Kim Joon-hyung of the Rebuilding Korea Party was elected floor leader"
+      - claim: Party lawmaker count at election
+        kind: numerical_with_unit
+        value: "all 12 lawmakers"
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "elected floor leader of the minor political party Tuesday with unanimous support from all 12 lawmakers"
+      - claim: Kim Joon-hyung previous role
+        kind: named_institution
+        value: Korea National Diplomatic Academy
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "He previously headed the foreign ministry-affiliated Korea National Diplomatic Academy during the Moon Jae-in administration"
+      - claim: Kim Joon-hyung entering politics via election year
+        kind: temporal
+        value: "2024 parliamentary elections"
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "by winning a proportional National Assembly seat in the 2024 parliamentary elections"
+      - claim: Kim Joon-hyung parliamentary committee
+        kind: named_institution
+        value: parliamentary Foreign Affairs and Unification Committee
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "He also serves as a member of the parliamentary Foreign Affairs and Unification Committee"
+      - claim: Party national convention timing
+        kind: temporal
+        value: next month
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "The minor party is set to hold a national convention next month"
+      - claim: Cho Kuk step-down date
+        kind: temporal
+        value: this month
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "after former Justice Minister Cho Kuk, who founded and led the party, stepped down this month"
+      - claim: Cho Kuk by-election constituency
+        kind: named_institution
+        value: Pyeongtaek-B constituency in Gyeonggi Province
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "Cho failed to secure a seat in the Pyeongtaek-B constituency in Gyeonggi Province"
+      - claim: Local election date
+        kind: temporal
+        value: June 3
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "following the June 3 local elections"
+      - claim: Mayoral/gubernatorial seats contested
+        kind: numerical
+        value: "16"
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "failed to win any of the 16 key mayoral and gubernatorial posts"
+      - claim: Parliamentary by-election seats contested
+        kind: numerical
+        value: "14"
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "or the 14 parliamentary seats contested in the local elections"
+      - claim: Cho Kuk former title
+        kind: named_person
+        value: Cho Kuk
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "former Justice Minister Cho Kuk, who founded and led the party"
+      - claim: Moon Jae-in administration named
+        kind: named_person
+        value: Moon Jae-in
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "the foreign ministry-affiliated Korea National Diplomatic Academy during the Moon Jae-in administration"
+      - claim: Rebuilding Korea Party institution
+        kind: named_institution
+        value: Rebuilding Korea Party
+        source_urls:
+          - https://www.koreaherald.com/article/10772465
+        verbatim_excerpt: "Rep. Kim Joon-hyung of the Rebuilding Korea Party was elected floor leader"
+    quotes: []
+
+  - story_id: nk-kim-congratulates-china-xi-73rd-birthday
+    category: politics
+    headline_en: "North Korea's Kim congratulates China's Xi on 73rd birthday, following Xi's Pyongyang visit"
+    lead_url: https://www.koreaherald.com/article/10772369
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772369
+    hard_facts:
+      - claim: Xi Jinping birthday age
+        kind: numerical_with_unit
+        value: "73rd birthday"
+        source_urls:
+          - https://www.koreaherald.com/article/10772369
+        verbatim_excerpt: "sent a congratulatory message and flower basket to Chinese President Xi Jinping on his 73rd birthday"
+      - claim: Delivery channel of birthday message
+        kind: named_institution
+        value: "North Korea's ambassador to China"
+        source_urls:
+          - https://www.koreaherald.com/article/10772369
+        verbatim_excerpt: "in the message delivered the previous day through North Korea's ambassador to China"
+      - claim: KCNA as news source
+        kind: named_institution
+        value: Korean Central News Agency
+        source_urls:
+          - https://www.koreaherald.com/article/10772369
+        verbatim_excerpt: "Pyongyang's state media said Tuesday"
+      - claim: Xi's Pyongyang visit duration
+        kind: temporal
+        value: two-day state visit
+        source_urls:
+          - https://www.koreaherald.com/article/10772369
+        verbatim_excerpt: "The gesture follows Xi's two-day state visit to Pyongyang last week"
+      - claim: Last Xi Pyongyang visit gap
+        kind: temporal
+        value: nearly seven years
+        source_urls:
+          - https://www.koreaherald.com/article/10772369
+        verbatim_excerpt: "his first trip to North Korea in nearly seven years"
+      - claim: Birthday message delivery date
+        kind: temporal
+        value: "Monday, June 15, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10772369
+        verbatim_excerpt: "The birthday message and flower basket were delivered on Monday, June 15, 2026, through North Korea's ambassador to China, per KCNA"
+      - claim: Kim Jong-un identity
+        kind: named_person
+        value: Kim Jong-un
+        source_urls:
+          - https://www.koreaherald.com/article/10772369
+        verbatim_excerpt: "North Korean leader Kim Jong-un has sent a congratulatory message and flower basket"
+      - claim: Xi Jinping identity and title
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.koreaherald.com/article/10772369
+        verbatim_excerpt: "Chinese President Xi Jinping on his 73rd birthday"
+    quotes:
+      - speaker_name: Kim Jong-un
+        speaker_title: North Korean leader
+        verbatim_en: "I warmly congratulate Comrade General Secretary Xi Jinping on your birthday."
+        source_url: https://www.koreaherald.com/article/10772369
+        context: ribbon inscription on flower basket delivered to Xi Jinping on June 15, 2026
+
+  - story_id: nk-slams-japan-live-fire-drill-invasion
+    category: politics
+    headline_en: "North Korea slams Japan's live-fire military drill as preparation for invasion"
+    lead_url: https://www.koreaherald.com/article/10772800
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772800
+    hard_facts:
+      - claim: Japan Ground Self-Defense Force drill date
+        kind: temporal
+        value: June 7
+        source_urls:
+          - https://www.koreaherald.com/article/10772800
+        verbatim_excerpt: "The criticism focused on drills conducted by Japan's Ground Self-Defense Force on June 7"
+      - claim: North Korean newspaper name
+        kind: named_institution
+        value: Nodong Sinmun
+        source_urls:
+          - https://www.koreaherald.com/article/10772800
+        verbatim_excerpt: "The Rodong Workers' Party newspaper Nodong Sinmun published commentary"
+      - claim: Type 25 high-speed glide projectile product
+        kind: named_product
+        value: Type 25 high-speed glide projectile
+        source_urls:
+          - https://www.koreaherald.com/article/10772800
+        verbatim_excerpt: "photographs displayed the Type 25 high-speed glide projectile"
+      - claim: Type 25 estimated range
+        kind: numerical_with_unit
+        value: "approximately 1,000 kilometers"
+        source_urls:
+          - https://www.koreaherald.com/article/10772800
+        verbatim_excerpt: "Some Japanese reports estimated potential range at approximately 1,000 kilometers"
+      - claim: Japan Prime Minister identity
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://www.koreaherald.com/article/10772800
+        verbatim_excerpt: "The article also addressed Prime Minister Sanae Takaichi's initiatives regarding constitutional revision"
+      - claim: Japan's Defense White Paper characterization of North Korea
+        kind: named_product
+        value: "Defense White Paper"
+        source_urls:
+          - https://www.koreaherald.com/article/10772800
+        verbatim_excerpt: "The newspaper referenced Japan's Defense White Paper, which describes North Korea as an 'imminent threat'"
+      - claim: Japan's Ground Self-Defense Force institution
+        kind: named_institution
+        value: "Japan's Ground Self-Defense Force"
+        source_urls:
+          - https://www.koreaherald.com/article/10772800
+        verbatim_excerpt: "drills conducted by Japan's Ground Self-Defense Force on June 7"
+    quotes:
+      - speaker_name: Nodong Sinmun
+        speaker_title: Workers' Party newspaper of North Korea
+        verbatim_en: "It has moved into the practical stage of directly involving typical preemptive strike equipment, such as long-range missiles, in exercises."
+        source_url: https://www.koreaherald.com/article/10772800
+        context: commentary on Japan's June 7 live-fire drill
+
+  - story_id: koreas-chip-boom-investment-hopes-gwangju
+    category: tech
+    headline_en: "Korea's chip boom stirs investment hopes in the southwest as Samsung, SK hynix eye Gwangju"
+    lead_url: https://www.koreaherald.com/article/10772827
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772827
+    hard_facts:
+      - claim: Gwangju region leader announcement date
+        kind: temporal
+        value: June 6
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "The promise was put most plainly on June 6, when Min Hyung-bae, the incoming leader of the new unified Gwangju region, told a forum"
+      - claim: Gwangju region incoming leader identity
+        kind: named_person
+        value: Min Hyung-bae
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "Min Hyung-bae, the incoming leader of the new unified Gwangju region"
+      - claim: Samsung reported site in Gwangju
+        kind: named_institution
+        value: "Cheomdan 3 district"
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "Samsung has been reported to have 'virtually settled' on Gwangju's Cheomdan 3 district"
+      - claim: SK hynix site candidates
+        kind: named_institution
+        value: "Gwangju and nearby Muan"
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "SK hynix is said to be weighing sites in Gwangju and nearby Muan"
+      - claim: Amkor Technology Korea expansion investment
+        kind: numerical_with_unit
+        value: "roughly 1 trillion won ($661 million)"
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "Amkor Technology Korea, a global chip packaging firm with a plant in Gwangju, is spending roughly 1 trillion won ($661 million) on expanding"
+      - claim: Amkor Technology Korea's expansion client
+        kind: named_institution
+        value: TSMC
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "after winning more back-end orders from Taiwan's TSMC"
+      - claim: Presidential chaebol meeting date
+        kind: temporal
+        value: June 29
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "A clearer answer is expected on June 29, when President Lee meets the heads of the country's largest conglomerates"
+      - claim: SK Chairman statement venue
+        kind: named_institution
+        value: Tokyo
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "At a recent forum in Tokyo, SK Chairman Chey Tae-won said"
+      - claim: SK Chairman identity
+        kind: named_person
+        value: Chey Tae-won
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "SK Chairman Chey Tae-won said the company would build 'where power, water, land and people are all in place'"
+      - claim: SK hynix Cheongju plant announcement timing
+        kind: temporal
+        value: earlier this year
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "why SK hynix, announcing its Cheongju plant earlier this year"
+      - claim: National Assembly industry committee lawmaker identity
+        kind: named_person
+        value: Jung Jin-wook
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "'As I understand it, the investment itself is decided,' Jung Jin-wook, a lawmaker on the National Assembly's industry committee, told KBS on Monday"
+      - claim: Prime Minister comment on regional investment
+        kind: temporal
+        value: Monday
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "On Monday, Prime Minister Kim Min-seok told newly elected regional leaders, including Min"
+      - claim: Samsung Electronics institution
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "Samsung Electronics and SK hynix say they know nothing about it"
+      - claim: SK hynix institution
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "Samsung Electronics and SK hynix say they know nothing about it"
+      - claim: Amkor Technology Korea institution
+        kind: named_institution
+        value: Amkor Technology Korea
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "Amkor Technology Korea, a global chip packaging firm with a plant in Gwangju"
+      - claim: PM Kim Min-seok name
+        kind: named_person
+        value: Kim Min-seok
+        source_urls:
+          - https://www.koreaherald.com/article/10772827
+        verbatim_excerpt: "Prime Minister Kim Min-seok told newly elected regional leaders"
+    quotes:
+      - speaker_name: Chey Tae-won
+        speaker_title: SK Chairman
+        verbatim_en: "where power, water, land and people are all in place"
+        source_url: https://www.koreaherald.com/article/10772827
+        context: recent forum in Tokyo discussing chip investment site criteria
+      - speaker_name: Jung Jin-wook
+        speaker_title: lawmaker on the National Assembly's industry committee
+        verbatim_en: "As I understand it, the investment itself is decided."
+        source_url: https://www.koreaherald.com/article/10772827
+        context: interview with KBS on Monday regarding SK hynix Gwangju investment
+
+  - story_id: samsung-sk-hynix-3x-leverage-products-uk
+    category: tech
+    headline_en: "Samsung, SK hynix 3x leverage products launch in UK, raising dual-class ETF exposure"
+    lead_url: https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+    hard_facts:
+      - claim: Product launch date
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+        verbatim_excerpt: "Samsung Electronics and SK hynix saw leveraged exchange-traded products referencing their shares launch on the London Stock Exchange on June 16, 2026"
+      - claim: Leverage factor
+        kind: numerical_with_unit
+        value: "3x long and 3x short"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+        verbatim_excerpt: "with both 3x long and 3x short variants introduced"
+      - claim: Listed exchange
+        kind: named_institution
+        value: London Stock Exchange
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+        verbatim_excerpt: "launch on the London Stock Exchange on June 16, 2026"
+      - claim: Product issuer region
+        kind: named_institution
+        value: European provider
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+        verbatim_excerpt: "The products were listed by a European provider"
+      - claim: Samsung Electronics institution
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+        verbatim_excerpt: "Samsung Electronics and SK hynix saw leveraged exchange-traded products referencing their shares launch"
+      - claim: SK hynix institution
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+        verbatim_excerpt: "SK hynix's 3x leverage product drew particular attention given the company's position as the primary HBM supplier to Nvidia"
+      - claim: SK hynix's primary customer for HBM
+        kind: named_institution
+        value: Nvidia
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/16/samsung-sk-hynix-3x-leverage-products-launch-in-uk-raising
+        verbatim_excerpt: "the company's position as the primary HBM supplier to Nvidia"
+    quotes: []
+
+  - story_id: stateless-child-korea-granted-f1-visa
+    category: society
+    headline_en: "Stateless child in Korea granted F-1 visa after two years without legal status"
+    lead_url: https://www.koreaherald.com/article/10772690
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772690
+    hard_facts:
+      - claim: Child's age
+        kind: numerical_with_unit
+        value: "10-year-old"
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "A 10-year-old child born in Korea who was stateless for two years"
+      - claim: Duration of statelessness
+        kind: temporal
+        value: two years
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "A 10-year-old child born in Korea who was stateless for two years after losing her citizenship"
+      - claim: Issuing immigration office
+        kind: named_institution
+        value: Ulsan Immigration Office
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "the Ulsan Immigration Office said Tuesday"
+      - claim: Visa type granted
+        kind: named_product
+        value: F-1 visa
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "The Ulsan Immigration Office has decided to grant the child an F-1 visa"
+      - claim: Mother's nationality
+        kind: named_institution
+        value: Vietnamese national
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "she had become estranged from her mother, a Vietnamese national"
+      - claim: F-1 visa validity period
+        kind: temporal
+        value: two years
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "The visa is valid for two years and can be renewed afterward"
+      - claim: Oversight body consulted
+        kind: named_institution
+        value: "Council for the Protection of Human Rights and Promotion of Rights and Interests of Foreigners"
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "the Ulsan Immigration Office convened a meeting of the Council for the Protection of Human Rights and Promotion of Rights and Interests of Foreigners on Monday"
+      - claim: Vietnamese consulate consulted
+        kind: named_institution
+        value: "Consulate General of Vietnam in Busan"
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "They also consulted with the Consulate General of Vietnam in Busan"
+      - claim: Education supervisor affiliation
+        kind: named_institution
+        value: Ulsan Metropolitan Office of Education
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "an education supervisor affiliated with the Ulsan Metropolitan Office of Education"
+      - claim: Ulsan Immigration Office head of general affairs
+        kind: named_person
+        value: Kim Ki-hyun
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "Kim Ki-hyun, head of general affairs at the Ulsan Immigration Office, told The Korea Herald"
+      - claim: Ulsan Immigration Office director
+        kind: named_person
+        value: Gil Kang-mook
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "stated Gil Kang-mook, director of the Ulsan Immigration Office"
+      - claim: Oversight council meeting date
+        kind: temporal
+        value: Monday
+        source_urls:
+          - https://www.koreaherald.com/article/10772690
+        verbatim_excerpt: "the Ulsan Immigration Office convened a meeting of the Council for the Protection of Human Rights and Promotion of Rights and Interests of Foreigners on Monday"
+    quotes:
+      - speaker_name: Kim Ki-hyun
+        speaker_title: Head of General Affairs, Ulsan Immigration Office
+        verbatim_en: "We are planning to grant the child F-1 sojourn status, as the child is already in the country."
+        source_url: https://www.koreaherald.com/article/10772690
+        context: statement to The Korea Herald on the stateless child case
+      - speaker_name: Gil Kang-mook
+        speaker_title: Director, Ulsan Immigration Office
+        verbatim_en: "A child's future should not be disrupted by the circumstances of their parents."
+        source_url: https://www.koreaherald.com/article/10772690
+        context: statement on the Ulsan Immigration Office's decision to grant F-1 visa
+
+  - story_id: six-in-ten-korean-islands-lack-medical
+    category: society
+    headline_en: "Six in ten inhabited Korean islands lack medical facilities, hospital ships operate outside legal framework"
+    lead_url: https://www.koreaherald.com/article/10772743
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772743
+    hard_facts:
+      - claim: Inhabited islands with medical facilities
+        kind: numerical_with_unit
+        value: "192 of 480 permanently populated islands"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "only 192 of 480 permanently populated islands had public or private medical care facilities in 2024"
+      - claim: Medical facility data reference year
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "had public or private medical care facilities in 2024"
+      - claim: Islands without medical facilities count
+        kind: numerical
+        value: "288"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "The remaining 288 islands without clinics or hospitals represent a significant healthcare access gap"
+      - claim: Underserved island example name
+        kind: named_institution
+        value: Sinjindo
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "Among the underserved islands is Sinjindo in Taean-gun, South Chungcheong Province"
+      - claim: Sinjindo resident count served by single pharmacy
+        kind: numerical
+        value: "840"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "where a single pharmacy serves 840 residents' immediate medical needs"
+      - claim: Number of hospital ships
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "Island residents primarily depend on five hospital ships operated by South Gyeongsang, South Jeolla, and South Chungcheong provinces"
+      - claim: Hospital ship operating provinces/city
+        kind: named_institution
+        value: "South Gyeongsang, South Jeolla, and South Chungcheong provinces, along with the Incheon metropolitan government"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "five hospital ships operated by South Gyeongsang, South Jeolla, and South Chungcheong provinces, along with the Incheon metropolitan government"
+      - claim: Islands served per hospital ship range
+        kind: numerical_with_unit
+        value: "17 and 90 islands"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "These vessels each serve between 17 and 90 islands"
+      - claim: Annual island residents treated by hospital ships range
+        kind: numerical_with_unit
+        value: "5,000 and 25,000 island residents annually"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "treating between 5,000 and 25,000 island residents annually during 2025"
+      - claim: Hospital ship treatment reference year
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "treating between 5,000 and 25,000 island residents annually during 2025"
+      - claim: Medical Service Act telemedicine revision date
+        kind: temporal
+        value: December
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "A December Medical Service Act revision created telemedicine provisions for clinics but excluded hospital ships"
+      - claim: Public Health Information System coverage
+        kind: numerical_with_unit
+        value: "3,600 public health centers"
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "Hospital ships remain disconnected from the Public Health Information System, which encompasses 3,600 public health centers nationwide"
+      - claim: Data source institution
+        kind: named_institution
+        value: National Assembly Research Service
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "According to data released Tuesday by the National Assembly Research Service, derived from Korea Island Development Institute information"
+      - claim: Secondary data source institution
+        kind: named_institution
+        value: Korea Island Development Institute
+        source_urls:
+          - https://www.koreaherald.com/article/10772743
+        verbatim_excerpt: "derived from Korea Island Development Institute information"
+    quotes:
+      - speaker_name: National Assembly Research Service
+        speaker_title: South Korean parliamentary research body
+        verbatim_en: "A hospital ship's role must be redefined within the regional medical system"
+        source_url: https://www.koreaherald.com/article/10772743
+        context: published report released Tuesday recommending legal redefinition of hospital ships
+
+  - story_id: sk-minimum-wage-talks-12000-won-demand
+    category: society
+    headline_en: "South Korea minimum wage talks open: labor demands 12,000 won, industry pushes sector-specific floors"
+    lead_url: https://www.koreaherald.com/article/10772844
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772844
+    hard_facts:
+      - claim: Labor initial 2027 minimum wage proposal
+        kind: numerical_with_unit
+        value: "12,000 won ($7.93) an hour"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "labor groups proposed raising the 2027 minimum wage by 16.3 percent to 12,000 won ($7.93) an hour"
+      - claim: Labor proposed increase percentage
+        kind: numerical_with_unit
+        value: "16.3 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "labor groups proposed raising the 2027 minimum wage by 16.3 percent"
+      - claim: Commission meeting number
+        kind: numerical_with_unit
+        value: "sixth plenary meeting"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "The sixth plenary meeting of the Minimum Wage Commission in Sejong"
+      - claim: Commission meeting location
+        kind: named_institution
+        value: Sejong
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "The sixth plenary meeting of the Minimum Wage Commission in Sejong"
+      - claim: Current minimum wage per hour
+        kind: numerical_with_unit
+        value: "10,320 won per hour"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "the current minimum wage of 10,320 won per hour fails to keep pace with rising living costs"
+      - claim: Current minimum wage monthly income
+        kind: numerical_with_unit
+        value: "about 2.15 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "the current minimum wage translates to a monthly income of about 2.15 million won"
+      - claim: Minimum Wage Commission 2025 standard monthly living cost
+        kind: numerical_with_unit
+        value: "2.754 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "the Minimum Wage Commission's 2025 standard monthly living cost of 2.754 million won"
+      - claim: Proposed 12,000 won as share of living wage
+        kind: numerical_with_unit
+        value: "roughly 87 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "12,000 won an hour would amount to roughly 87 percent of what they consider a realistic living wage for 2027"
+      - claim: Value-added per worker in accommodation and food-service sector
+        kind: numerical_with_unit
+        value: "28.5 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "value added per worker in the accommodation and food-service sector totaled 28.5 million won last year"
+      - claim: Value-added per worker in finance and insurance sector
+        kind: numerical_with_unit
+        value: "175.6 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "compared with 175.6 million won in the finance and insurance industry"
+      - claim: KEF data reference year
+        kind: temporal
+        value: last year
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "value added per worker in the accommodation and food-service sector totaled 28.5 million won last year"
+      - claim: Industry-specific wage first (and only) use year
+        kind: temporal
+        value: "1988"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "the provision has been used only once, when the system was first introduced in 1988"
+      - claim: Last year's commission vote on differentiated wages
+        kind: numerical_with_unit
+        value: "15 to 11"
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "Last year, the commission rejected industry-specific wages by a vote of 15 to 11"
+      - claim: Commission legal deliberation deadline
+        kind: temporal
+        value: mid-July
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "The commission is legally required to complete its deliberations on next year's minimum wage by mid-July"
+      - claim: Gig worker proposal rejection timing
+        kind: temporal
+        value: last week
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "The proposal was rejected last week after employers argued that such workers are not legally classified as employees under labor law"
+      - claim: Minimum Wage Commission institution
+        kind: named_institution
+        value: Minimum Wage Commission
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "The sixth plenary meeting of the Minimum Wage Commission in Sejong"
+      - claim: Korea Employers Federation institution
+        kind: named_institution
+        value: Korea Employers Federation
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "According to a recent report by the Korea Employers Federation"
+      - claim: KEF economic research head identity
+        kind: named_person
+        value: Ha Sang-woo
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "Ha Sang-woo, head of economic research at the Korea Employers Federation, stated"
+      - claim: Korean Public Service and Transport Workers' Union vice chair
+        kind: named_person
+        value: Park Jung-hoon
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "said Park Jung-hoon, vice chair of the Korean Public Service and Transport Workers' Union"
+      - claim: Korean Public Service and Transport Workers' Union institution
+        kind: named_institution
+        value: Korean Public Service and Transport Workers' Union
+        source_urls:
+          - https://www.koreaherald.com/article/10772844
+        verbatim_excerpt: "said Park Jung-hoon, vice chair of the Korean Public Service and Transport Workers' Union"
+    quotes:
+      - speaker_name: Ha Sang-woo
+        speaker_title: Head of Economic Research, Korea Employers Federation
+        verbatim_en: "Applying the same minimum wage across all industries fails to reflect economic realities."
+        source_url: https://www.koreaherald.com/article/10772844
+        context: statement on sector-specific minimum wage proposal at Minimum Wage Commission
+      - speaker_name: Ha Sang-woo
+        speaker_title: Head of Economic Research, Korea Employers Federation
+        verbatim_en: "For sectors that are clearly unable to absorb the current minimum wage, differentiated rates would improve acceptance of the system."
+        source_url: https://www.koreaherald.com/article/10772844
+        context: statement on sector-specific minimum wage proposal at Minimum Wage Commission
+      - speaker_name: Park Jung-hoon
+        speaker_title: Vice Chair, Korean Public Service and Transport Workers' Union
+        verbatim_en: "Lowering wages in accommodation and food services will not solve productivity problems in those industries."
+        source_url: https://www.koreaherald.com/article/10772844
+        context: labor response to employer sector-specific wage differentiation proposal
+
+  - story_id: migrants-immigration-detention-reforms-fall-short
+    category: society
+    headline_en: "Migrants face locked doors: South Korea's immigration detention reforms fall short, advocates say"
+    lead_url: https://www.koreaherald.com/article/10772820
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772820
+    hard_facts:
+      - claim: Press conference venue
+        kind: named_institution
+        value: National Human Rights Commission of Korea
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "At a press conference held at the National Human Rights Commission of Korea headquarters"
+      - claim: Former detainee's country of origin
+        kind: named_institution
+        value: Cameroonian national
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "The Cameroonian national, detained in 2025"
+      - claim: Former detainee detention year
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "The Cameroonian national, detained in 2025"
+      - claim: Detention center named
+        kind: named_institution
+        value: Hwaseong Immigration Detention Center
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "a former detainee from Hwaseong Immigration Detention Center"
+      - claim: Constitutional Court ruling year against indefinite detention
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "despite the Constitutional Court's 2023 ruling against indefinite detention"
+      - claim: 2025 legislative changes mentioned
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "and subsequent 2025 legislative changes"
+      - claim: Detainee count 2023
+        kind: numerical
+        value: "38,639"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "Detainee figures rose from 38,639 in 2023 to 39,138 in 2024"
+      - claim: Detainee count 2024
+        kind: numerical
+        value: "39,138"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "Detainee figures rose from 38,639 in 2023 to 39,138 in 2024"
+      - claim: Foreigners Protection Committee review acceptance rate
+        kind: numerical_with_unit
+        value: "zero percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "The Foreigners Protection Committee's review request acceptance rate remained zero percent over one year"
+      - claim: Detention extension rejection rate (current)
+        kind: numerical_with_unit
+        value: "4.7 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "while detention extension rejection rates dropped to 4.7 percent compared to the previous 6.3 percent average"
+      - claim: Detention extension rejection rate (previous average)
+        kind: numerical_with_unit
+        value: "6.3 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "compared to the previous 6.3 percent average"
+      - claim: Attorney Kim Jin infant cases documented
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "Attorney Kim Jin documented three cases of infants under age two detained up to 18 days between 2020-2023"
+      - claim: Infant age cap for documented cases
+        kind: numerical_with_unit
+        value: "under age two"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "three cases of infants under age two detained up to 18 days between 2020-2023"
+      - claim: Maximum infant detention duration documented
+        kind: numerical_with_unit
+        value: "up to 18 days"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "three cases of infants under age two detained up to 18 days between 2020-2023"
+      - claim: Infant cases time period
+        kind: temporal
+        value: "2020-2023"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "infants under age two detained up to 18 days between 2020-2023"
+      - claim: Egyptian minor's age at detention
+        kind: numerical_with_unit
+        value: "seventeen"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "An Egyptian national detained at seventeen"
+      - claim: Number of others detained with Egyptian minor
+        kind: numerical
+        value: "25"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "confinement with 25 others"
+      - claim: Maximum initial detention duration for asylum seekers
+        kind: numerical_with_unit
+        value: "up to nine months initially"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "Extended detention periods — up to nine months initially plus twenty-month extensions for asylum seekers"
+      - claim: Maximum detention extension for asylum seekers
+        kind: numerical_with_unit
+        value: "twenty-month extensions"
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "up to nine months initially plus twenty-month extensions for asylum seekers"
+      - claim: Public interest law organization named
+        kind: named_institution
+        value: Duroo
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "Public interest law organization Duroo found newly implemented oversight mechanisms proved ineffective"
+      - claim: Attorney identity
+        kind: named_person
+        value: Kim Jin
+        source_urls:
+          - https://www.koreaherald.com/article/10772820
+        verbatim_excerpt: "Attorney Kim Jin documented three cases of infants under age two"
+    quotes:
+      - speaker_name: Cameroonian former detainee
+        speaker_title: former detainee from Hwaseong Immigration Detention Center (unnamed)
+        verbatim_en: "Immigration officers stormed into my company cafeteria, stopped our meal, threw away our food, handcuffed all the undocumented workers and took us by bus to the detention center."
+        source_url: https://www.koreaherald.com/article/10772820
+        context: press conference at National Human Rights Commission of Korea headquarters
+
+  - story_id: snuh-tech-revenue-ai-strategy-healthcare
+    category: society
+    headline_en: "SNUH charts tech-revenue and AI strategy to sustain public healthcare mission amid mounting deficits"
+    lead_url: https://www.koreaherald.com/article/10772670
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772670
+    hard_facts:
+      - claim: SNUH H1 2025 combined deficit with Seongnam affiliate
+        kind: numerical_with_unit
+        value: "135.6 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10772670
+        verbatim_excerpt: "SNUH and its Seongnam affiliate sustained combined deficits of 135.6 billion won during the first half of 2025"
+      - claim: SNUH full-year 2024 deficit
+        kind: numerical_with_unit
+        value: "109 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10772670
+        verbatim_excerpt: "following 109 billion won in total deficits throughout 2024"
+      - claim: SNUH deficit data source
+        kind: named_person
+        value: Kim Moon-soo
+        source_urls:
+          - https://www.koreaherald.com/article/10772670
+        verbatim_excerpt: "According to Rep. Kim Moon-soo"
+      - claim: SNUH president and CEO identity
+        kind: named_person
+        value: Paik Nam-jong
+        source_urls:
+          - https://www.koreaherald.com/article/10772670
+        verbatim_excerpt: "Paik Nam-jong, the newly appointed president and CEO of Seoul National University Hospital, addressed these challenges during his inauguration press conference Monday"
+      - claim: Inauguration press conference date
+        kind: temporal
+        value: Monday
+        source_urls:
+          - https://www.koreaherald.com/article/10772670
+        verbatim_excerpt: "addressed these challenges during his inauguration press conference Monday"
+      - claim: SNUH ranking among global hospitals
+        kind: numerical_with_unit
+        value: "two facilities ranked among Korea's top five globally"
+        source_urls:
+          - https://www.koreaherald.com/article/10772670
+        verbatim_excerpt: "Paik oversees a network spanning affiliated and entrusted hospitals, including two facilities ranked among Korea's top five globally"
+      - claim: Seoul National University Hospital Group institution
+        kind: named_institution
+        value: Seoul National University Hospital Group
+        source_urls:
+          - https://www.koreaherald.com/article/10772670
+        verbatim_excerpt: "Seoul National University Hospital Group intends to pursue technology-driven businesses"
+      - claim: Seoul National University College of Medicine named
+        kind: named_institution
+        value: Seoul National University College of Medicine
+        source_urls:
+          - https://www.koreaherald.com/article/10772670
+        verbatim_excerpt: "the hospital network and Seoul National University College of Medicine will establish an innovation cluster"
+    quotes:
+      - speaker_name: Paik Nam-jong
+        speaker_title: President and CEO, Seoul National University Hospital
+        verbatim_en: "Korea's healthcare system is at a historic turning point."
+        source_url: https://www.koreaherald.com/article/10772670
+        context: inauguration press conference on Monday
+      - speaker_name: Paik Nam-jong
+        speaker_title: President and CEO, Seoul National University Hospital
+        verbatim_en: "the nation's hospital and a final safeguard"
+        source_url: https://www.koreaherald.com/article/10772670
+        context: inauguration press conference on Monday, describing SNUH's role
+
+  - story_id: kf21-fighter-jet-airworthiness-certification
+    category: other
+    headline_en: "KF-21 fighter jet receives airworthiness certification after five-year testing program"
+    lead_url: https://www.koreaherald.com/article/10772514
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10772514
+    hard_facts:
+      - claim: KF-21 airworthiness certification date
+        kind: temporal
+        value: Monday
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "The aircraft earned airworthiness certification on Monday"
+      - claim: KF-21 testing period
+        kind: temporal
+        value: "April 2021 through 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "following comprehensive testing conducted from April 2021 through 2026"
+      - claim: Total certification requirements met
+        kind: numerical
+        value: "745"
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "the aircraft satisfied 'all 745 requirements across 14 assessment areas'"
+      - claim: Number of assessment areas
+        kind: numerical
+        value: "14"
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "'all 745 requirements across 14 assessment areas, including electronic systems and aircraft structure'"
+      - claim: Combat readiness evaluation date
+        kind: temporal
+        value: May
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "after the fighter jet successfully completed a combat readiness evaluation in May"
+      - claim: Total KF-21 jets planned for acquisition
+        kind: numerical_with_unit
+        value: "120 KF-21 jets"
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "The South Korean military intends to acquire 120 KF-21 jets by 2032"
+      - claim: KF-21 full acquisition deadline
+        kind: temporal
+        value: "2032"
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "acquire 120 KF-21 jets by 2032"
+      - claim: Initial production batch size
+        kind: numerical_with_unit
+        value: "40 aircraft"
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "The initial production batch of 40 aircraft will emphasize air-to-air combat capabilities"
+      - claim: Initial batch delivery deadline
+        kind: temporal
+        value: "2028"
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "reach operational units by 2028"
+      - claim: Second batch size
+        kind: numerical_with_unit
+        value: "80 jets"
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "An additional 80 jets featuring air-to-ground and air-to-ship capabilities will follow subsequently"
+      - claim: Air Force first delivery timing
+        kind: temporal
+        value: second half of 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "The Air Force will receive its first deliveries during the second half of 2026"
+      - claim: DAPA certification authority
+        kind: named_institution
+        value: Defense Acquisition Program Administration
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "according to the Defense Acquisition Program Administration"
+      - claim: KF-21 product name
+        kind: named_product
+        value: KF-21
+        source_urls:
+          - https://www.koreaherald.com/article/10772514
+        verbatim_excerpt: "South Korea's first homegrown KF-21 fighter jet has received flight safety certification"
+    quotes: []
