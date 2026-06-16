@@ -1,0 +1,646 @@
+version: 1
+generated_at: "2026-06-16T00:00:00Z"
+country: China
+date: "2026-06-16"
+total_stories: 5
+stories:
+  - story_id: china-may-retail-sales-fall-domestic-demand
+    category: econ
+    headline_en: "China May Retail Sales Fall for First Time Since December 2022 as Domestic Demand Slumps; Industrial Output Beats Forecasts"
+    lead_url: https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html
+      - https://www.bloomberg.com/news/articles/2026-06-16/china-s-first-consumer-spending-drop-since-covid-imperils-growth
+    locked_urls:
+      - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+      - https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html
+      - https://www.bloomberg.com/news/articles/2026-06-16/china-s-first-consumer-spending-drop-since-covid-imperils-growth
+    hard_facts:
+      - claim: NBS data release date
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "China's National Bureau of Statistics released May 2026 economic data on June 16, 2026."
+      - claim: retail sales year-on-year change in May 2026
+        kind: numerical_with_unit
+        value: "-0.6%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "Retail sales declined 0.6% year-on-year in May"
+      - claim: last prior monthly retail sales fall
+        kind: temporal
+        value: "December 2022"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "the first monthly fall since December 2022"
+      - claim: April retail sales year-on-year change
+        kind: numerical_with_unit
+        value: "0.2%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "reversing April's 0.2% gain"
+      - claim: Reuters poll estimate for May retail sales
+        kind: numerical_with_unit
+        value: "0.0%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "well below the 0.0% estimate in a Reuters poll"
+      - claim: NBS spokesperson identity
+        kind: named_person
+        value: "Fu Linghui"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "NBS spokesperson Fu Linghui attributed the weakness"
+      - claim: industrial output year-on-year change in May 2026
+        kind: numerical_with_unit
+        value: "4.5%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "Industrial output rose 4.5% year-on-year in May"
+      - claim: industrial output year-on-year change in April 2026
+        kind: numerical_with_unit
+        value: "4.1%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "accelerating from April's 4.1%"
+      - claim: Reuters poll estimate for May industrial output
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "beating the expected 4.3%"
+      - claim: high-tech manufacturing year-on-year change in May 2026
+        kind: numerical_with_unit
+        value: "15.1%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "High-tech manufacturing climbed 15.1% year-on-year."
+      - claim: fixed-asset investment year-to-date change January-May 2026
+        kind: numerical_with_unit
+        value: "-4.1%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "Fixed-asset investment fell 4.1% in January–May 2026"
+      - claim: fixed-asset investment year-to-date change January-April 2026
+        kind: numerical_with_unit
+        value: "-1.6%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "worsening from the 1.6% year-to-date contraction recorded in January–April"
+      - claim: property investment year-on-year change January-May 2026
+        kind: numerical_with_unit
+        value: "-16.2%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "Property investment dropped 16.2% year-on-year in the first five months"
+      - claim: property investment year-on-year change January-April 2026
+        kind: numerical_with_unit
+        value: "-13.7%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "deteriorating from the 13.7% decline in January–April"
+      - claim: services consumption growth January-May 2026
+        kind: numerical_with_unit
+        value: "5.4%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "Services consumption grew 5.4% in the January–May period."
+      - claim: surveyed urban unemployment rate May 2026
+        kind: numerical_with_unit
+        value: "5.1%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "The surveyed urban unemployment rate eased to 5.1% in May"
+      - claim: surveyed urban unemployment rate April 2026
+        kind: numerical_with_unit
+        value: "5.2%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "eased to 5.1% in May from April's 5.2%"
+      - claim: consecutive months of domestic auto sales decline
+        kind: numerical
+        value: "eighth"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "China's auto sector logged its eighth consecutive month of domestic sales decline."
+      - claim: May exports year-on-year change
+        kind: numerical_with_unit
+        value: "19.4%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "May exports surged 19.4% year-on-year"
+      - claim: May exports value
+        kind: numerical_with_unit
+        value: "USD 376.8 billion"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "May exports surged 19.4% year-on-year to a record USD 376.8 billion"
+      - claim: May imports year-on-year change
+        kind: numerical_with_unit
+        value: "27.4%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "imports climbed 27.4%"
+      - claim: May imports value
+        kind: numerical_with_unit
+        value: "USD 271.4 billion"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "imports climbed 27.4% to USD 271.4 billion"
+      - claim: economist identity
+        kind: named_person
+        value: "Zhiwei Zhang"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "Economist Zhiwei Zhang said the weak retail data"
+      - claim: data-releasing institution
+        kind: named_institution
+        value: "National Bureau of Statistics"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "China's National Bureau of Statistics released May 2026 economic data"
+      - claim: bar manager quoted in article
+        kind: named_person
+        value: "Jie'ao Feng"
+        source_urls:
+          - https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        verbatim_excerpt: "Bar manager Jie'ao Feng observed"
+    quotes:
+      - speaker_name: "Fu Linghui"
+        speaker_title: "NBS Spokesperson, National Bureau of Statistics"
+        verbatim_en: "high temperatures and heavy rain in some regions as well as the transition from old to new growth drivers"
+        source_url: https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        context: "NBS press briefing on May 2026 economic data"
+      - speaker_name: "Jie'ao Feng"
+        speaker_title: "Bar manager"
+        verbatim_en: "Consumers are not as impulsive as before."
+        source_url: https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        context: "Quoted in Reuters article on May 2026 retail sales data"
+      - speaker_name: "Zhiwei Zhang"
+        speaker_title: "Economist"
+        verbatim_en: "puts pressure on the government to consider policy measures to stabilize consumption"
+        source_url: https://www.investing.com/news/economy-news/chinas-may-retail-sales-fall-for-first-time-in-over-three-years-4743743
+        context: "Commentary on May 2026 retail sales data"
+
+  - story_id: foreign-investors-china-onshore-bond-may
+    category: econ
+    headline_en: "Foreign Investors Return to China's Onshore Bond Market in May After 13-Month Absence"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+    hard_facts:
+      - claim: Bloomberg report date
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "Bloomberg reported on June 16, 2026"
+      - claim: increase in global holdings of Chinese interbank bonds in May
+        kind: numerical_with_unit
+        value: "90 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "global holdings of Chinese interbank bonds rose by 90 billion yuan ($13.3 billion) in May"
+      - claim: USD equivalent of May inflow
+        kind: numerical_with_unit
+        value: "$13.3 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "rose by 90 billion yuan ($13.3 billion) in May"
+      - claim: total foreign holdings of Chinese interbank bonds after May
+        kind: numerical_with_unit
+        value: "3.21 trillion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "rose by 90 billion yuan ($13.3 billion) in May to 3.21 trillion yuan"
+      - claim: last prior monthly increase in foreign holdings
+        kind: temporal
+        value: "April 2025"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "the first monthly increase since April 2025"
+      - claim: increase in foreign positions in Chinese government bonds in May
+        kind: numerical_with_unit
+        value: "61 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "Foreign positions in Chinese government bonds specifically rose by 61 billion yuan in May"
+      - claim: last prior larger monthly gain in foreign government bond positions
+        kind: temporal
+        value: "December 2023"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "the largest monthly gain since December 2023"
+      - claim: data source institution
+        kind: named_institution
+        value: "People's Bank of China"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "per data released by the People's Bank of China's Shanghai head office"
+      - claim: offshore renminbi treasury bond tranche launched June 16
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "China launched its third tranche of offshore renminbi-denominated treasury bonds in Hong Kong on June 16"
+      - claim: size of third offshore RMB treasury tranche
+        kind: numerical_with_unit
+        value: "15 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "a 15 billion yuan tranche"
+      - claim: total offshore RMB treasury issuance planned for 2026
+        kind: numerical_with_unit
+        value: "84 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "issue a total of 84 billion yuan in 2026"
+      - claim: amount issued in first two tranches
+        kind: numerical_with_unit
+        value: "29.5 billion yuan"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "Finance Ministry issued 29.5 billion yuan across the first two tranches in February and April"
+      - claim: dates of first two tranches
+        kind: temporal
+        value: "February and April"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "Finance Ministry issued 29.5 billion yuan across the first two tranches in February and April"
+      - claim: location of offshore RMB treasury bond issuance
+        kind: named_institution
+        value: "Hong Kong"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-16/chinese-bonds-draw-foreign-funds-in-may-after-a-year-of-outflows
+        verbatim_excerpt: "offshore renminbi-denominated treasury bonds in Hong Kong"
+    quotes: []
+
+  - story_id: xi-backs-myanmar-min-aung-hlaing-beijing
+    category: politics
+    headline_en: "Xi Jinping Backs Myanmar's Min Aung Hlaing in Beijing Summit; Two Leaders Sign 18 Cooperation Memorandums"
+    lead_url: https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+    body_source: full
+    corroborated_by:
+      - https://www.gulf-times.com/article/727544/international/myanmars-president-arrives-in-china-to-boost-trade-ties
+      - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/16/china039s-xi-backs-myanmar039s-president-as-leaders-meet-in-beijing
+    locked_urls:
+      - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+      - https://www.gulf-times.com/article/727544/international/myanmars-president-arrives-in-china-to-boost-trade-ties
+      - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/16/china039s-xi-backs-myanmar039s-president-as-leaders-meet-in-beijing
+    hard_facts:
+      - claim: meeting date
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "Chinese President Xi Jinping met Myanmar's President Min Aung Hlaing in Beijing on June 16, 2026"
+      - claim: Chinese head of state
+        kind: named_person
+        value: "Xi Jinping"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "Chinese President Xi Jinping met Myanmar's President Min Aung Hlaing"
+      - claim: Myanmar head of state
+        kind: named_person
+        value: "Min Aung Hlaing"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "Myanmar's President Min Aung Hlaing"
+      - claim: meeting venue
+        kind: named_institution
+        value: "Great Hall of the People"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "at a state welcome ceremony in the Great Hall of the People"
+      - claim: duration of closed-door talks
+        kind: temporal
+        value: "less than one hour"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "closed-door talks lasting less than one hour"
+      - claim: number of memorandums signed
+        kind: numerical
+        value: "18"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "the signing of 18 memorandums of understanding"
+      - claim: duration of Min Aung Hlaing's state visit
+        kind: temporal
+        value: "five-day"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "Min Aung Hlaing's five-day state visit"
+      - claim: end date of Min Aung Hlaing's state visit
+        kind: temporal
+        value: "June 19"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "five-day state visit runs through June 19"
+      - claim: Chinese Premier
+        kind: named_person
+        value: "Li Qiang"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "Premier Li Qiang and NPC Standing Committee Chairman Zhao Leji also held separate meetings with him"
+      - claim: NPC Standing Committee Chairman
+        kind: named_person
+        value: "Zhao Leji"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "NPC Standing Committee Chairman Zhao Leji also held separate meetings with him"
+      - claim: China-Myanmar border length
+        kind: numerical_with_unit
+        value: "2,100-kilometre"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "China shares a 2,100-kilometre border with Myanmar."
+      - claim: date of Myanmar military coup
+        kind: temporal
+        value: "February 2021"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "The visit followed the February 2021 military coup that removed elected leader Aung San Suu Kyi."
+      - claim: deposed Myanmar leader
+        kind: named_person
+        value: "Aung San Suu Kyi"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "the February 2021 military coup that removed elected leader Aung San Suu Kyi"
+      - claim: contested election dates
+        kind: temporal
+        value: "December 2025 and January 2026"
+        source_urls:
+          - https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        verbatim_excerpt: "his first trip to China since formalising his grip on power following contested elections in December 2025 and January 2026"
+    quotes:
+      - speaker_name: "Xi Jinping"
+        speaker_title: "President of China"
+        verbatim_en: "I am willing to continue strengthening our leadership [over bilateral ties], carry forward the brotherly friendship between our two peoples, deepen comprehensive strategic cooperation."
+        source_url: https://www.yahoo.com/news/world/articles/china-myanmar-pursue-deeper-ties-041804846.html
+        context: "Beijing summit with Myanmar President Min Aung Hlaing, June 16, 2026"
+
+  - story_id: china-pla-military-ai-drone-swarms-ew
+    category: tech
+    headline_en: "Inside China's Military AI Race: PLA Advances Drone Swarms, Electronic Warfare, and Autonomous Systems"
+    lead_url: https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+    hard_facts:
+      - claim: year China published its AI development plan
+        kind: temporal
+        value: "2017"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "China published its AI development plan in 2017"
+      - claim: AI development plan target year
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "targeting \"world-leading levels in artificial intelligence theory, technology and applications by 2030\""
+      - claim: year of Xi's speech on intelligent warfare
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "A 2022 speech by Xi called on the PLA to \"gain a good grasp of the characteristics\" of intelligent warfare."
+      - claim: drone jamming prediction range
+        kind: numerical_with_unit
+        value: "5,000 kilometres"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "China is reportedly using AI to predict jamming techniques for drones operating up to 5,000 kilometres away."
+      - claim: year of Victory Parade displaying autonomous drone swarms
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "At the 2025 Victory Parade, China displayed autonomous drone swarms."
+      - claim: year PLA deployed AI-assisted decision-making system for guided missile frigates
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "In 2025 the PLA deployed an AI-assisted decision-making system for guided missile frigates."
+      - claim: last war fought by PLA
+        kind: temporal
+        value: "1979"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "Sam Bresnick of Georgetown University noted the PLA has not fought a war since 1979."
+      - claim: Pentagon list name for Chinese military companies
+        kind: named_product
+        value: "Section 1260H"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "The Pentagon's updated Section 1260H list of Chinese military companies, released in June 2026"
+      - claim: release date of Section 1260H list
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "released in June 2026"
+      - claim: companies added to Section 1260H list
+        kind: named_institution
+        value: "Alibaba"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "included Alibaba, Baidu, BYD, and Unitree"
+      - claim: companies added to Section 1260H list
+        kind: named_institution
+        value: "Baidu"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "included Alibaba, Baidu, BYD, and Unitree"
+      - claim: companies added to Section 1260H list
+        kind: named_institution
+        value: "BYD"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "included Alibaba, Baidu, BYD, and Unitree"
+      - claim: companies added to Section 1260H list
+        kind: named_institution
+        value: "Unitree"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "included Alibaba, Baidu, BYD, and Unitree"
+      - claim: analyst Frank O'Donnell affiliation
+        kind: named_person
+        value: "Frank O'Donnell"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "Frank O'Donnell of the Asia-Pacific Leadership Network stated"
+      - claim: O'Donnell's institution
+        kind: named_institution
+        value: "Asia-Pacific Leadership Network"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "Frank O'Donnell of the Asia-Pacific Leadership Network"
+      - claim: analyst Sam Bresnick identity
+        kind: named_person
+        value: "Sam Bresnick"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "Sam Bresnick of Georgetown University"
+      - claim: Bresnick's institution
+        kind: named_institution
+        value: "Georgetown University"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "Sam Bresnick of Georgetown University noted the PLA has not fought a war since 1979."
+      - claim: article byline author
+        kind: named_person
+        value: "Anna Desmarais"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        verbatim_excerpt: "Byline: Anna Desmarais"
+    quotes:
+      - speaker_name: "Frank O'Donnell"
+        speaker_title: "Analyst, Asia-Pacific Leadership Network"
+        verbatim_en: "Xi believes AI is the key to global power status in the 21st century."
+        source_url: https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        context: "Quoted in Euronews article on China's military AI programme, June 16, 2026"
+      - speaker_name: "Xi Jinping"
+        speaker_title: "President of China"
+        verbatim_en: "gain a good grasp of the characteristics"
+        source_url: https://www.euronews.com/next/2026/06/16/ai-is-the-key-to-global-power-status-inside-chinas-race-to-militarise-artificial-intellige
+        context: "2022 speech calling on PLA to prepare for intelligent warfare"
+
+  - story_id: china-resources-new-energy-ipo-shenzhen
+    category: ipo_ma
+    headline_en: "China Resources New Energy Opens IPO Price Consultation on USD 3.62 Billion Shenzhen Offering — First Red-Chip Listing on Exchange"
+    lead_url: https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+    body_source: full
+    corroborated_by:
+      - https://www.scmp.com/business/china-business/article/3356694/china-resources-new-energys-us36-billion-ipo-smashes-records-shenzhen-exchange
+    locked_urls:
+      - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+      - https://www.scmp.com/business/china-business/article/3356694/china-resources-new-energys-us36-billion-ipo-smashes-records-shenzhen-exchange
+    hard_facts:
+      - claim: IPO company name
+        kind: named_institution
+        value: "China Resources New Energy Holdings"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "China Resources New Energy Holdings, a renewable energy subsidiary of China Resources Power (HK:0836)"
+      - claim: parent company
+        kind: named_institution
+        value: "China Resources Power"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "a renewable energy subsidiary of China Resources Power (HK:0836)"
+      - claim: parent company ticker
+        kind: named_product
+        value: "HK:0836"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "China Resources Power (HK:0836)"
+      - claim: price consultation launch date
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "launched the price consultation phase of its A-share IPO on June 16, 2026"
+      - claim: subscription opening date
+        kind: temporal
+        value: "June 22"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "with subscriptions to open June 22"
+      - claim: IPO target size in yuan
+        kind: numerical_with_unit
+        value: "24.5 billion yuan"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "The IPO targets approximately 24.5 billion yuan (USD 3.62 billion)"
+      - claim: IPO target size in USD
+        kind: numerical_with_unit
+        value: "USD 3.62 billion"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "The IPO targets approximately 24.5 billion yuan (USD 3.62 billion)"
+      - claim: number of shares in offering
+        kind: numerical_with_unit
+        value: "approximately 2.1 billion shares"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "The offering involves approximately 2.1 billion shares"
+      - claim: shares as percentage of enlarged share capital
+        kind: numerical_with_unit
+        value: "≈16.2%"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "approximately 2.1 billion shares (≈16.2% of enlarged share capital)"
+      - claim: strategic investor allocation percentage
+        kind: numerical_with_unit
+        value: "50%"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "Strategic investors get 50%"
+      - claim: institutional investor allocation of remaining 50%
+        kind: numerical_with_unit
+        value: "70%"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "institutional and retail share the remaining 50% (70%-30%)"
+      - claim: retail investor allocation of remaining 50%
+        kind: numerical_with_unit
+        value: "30%"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "institutional and retail share the remaining 50% (70%-30%)"
+      - claim: planned wind and solar project investment
+        kind: numerical_with_unit
+        value: "approximately 40.4 billion yuan"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "The company plans to invest approximately 40.4 billion yuan in wind and solar projects."
+      - claim: Q1 2026 net profit change year-on-year
+        kind: numerical_with_unit
+        value: "-31.1%"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "Q1 2026 net profit fell 31.1%"
+      - claim: Q1 2026 net profit value
+        kind: numerical_with_unit
+        value: "1.62 billion yuan"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "Q1 2026 net profit fell 31.1% to 1.62 billion yuan"
+      - claim: Q1 2026 revenue change year-on-year
+        kind: numerical_with_unit
+        value: "-2.8%"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "revenue fell 2.8%"
+      - claim: Q1 2026 revenue value
+        kind: numerical_with_unit
+        value: "6.21 billion yuan"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "revenue fell 2.8% to 6.21 billion yuan"
+      - claim: joint sponsor 1
+        kind: named_institution
+        value: "China International Capital Corp"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "Joint sponsors: China International Capital Corp and Citic Securities."
+      - claim: joint sponsor 2
+        kind: named_institution
+        value: "Citic Securities"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "Joint sponsors: China International Capital Corp and Citic Securities."
+      - claim: listing exchange
+        kind: named_institution
+        value: "Shenzhen Stock Exchange"
+        source_urls:
+          - https://m.investing.com/news/stock-market-news/china-resources-new-energy-targets-362-billion-shenzhen-ipo-93CH-4736865
+        verbatim_excerpt: "the first red-chip company to list on the Shenzhen Stock Exchange"
+    quotes: []

@@ -1,0 +1,623 @@
+version: 1
+generated_at: "2026-06-16T00:00:00Z"
+country: Japan
+date: "2026-06-16"
+total_stories: 5
+stories:
+
+  - story_id: boj-raises-rate-to-1pct-highest-since-1995
+    category: econ
+    headline_en: "Bank of Japan raises policy rate to 1% — highest since 1995 — in 7-1 vote, pauses JGB taper from April 2027"
+    lead_url: https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+    body_source: full
+    corroborated_by:
+      - https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-highest-level-since-1995
+      - https://finance.yahoo.com/economy/policy/articles/boj-deputy-governor-uchidas-comments-064450805.html
+      - https://www.prismnews.com/news/bank-of-japan-raises-rates-to-1-highest-since-1995
+      - https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616a.pdf
+    locked_urls:
+      - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+      - https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-highest-level-since-1995
+      - https://finance.yahoo.com/economy/policy/articles/boj-deputy-governor-uchidas-comments-064450805.html
+      - https://www.prismnews.com/news/bank-of-japan-raises-rates-to-1-highest-since-1995
+      - https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616a.pdf
+    hard_facts:
+      - claim: BOJ benchmark overnight call rate after hike
+        kind: numerical_with_unit
+        value: "1.0%"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+          - https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-highest-level-since-1995
+          - https://www.prismnews.com/news/bank-of-japan-raises-rates-to-1-highest-since-1995
+          - https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616a.pdf
+        verbatim_excerpt: "raised its benchmark uncollateralized overnight call rate by 25 basis points to 1.0%, its highest level since 1995"
+      - claim: rate hike increment
+        kind: numerical_with_unit
+        value: "25 basis points"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "raised its benchmark uncollateralized overnight call rate by 25 basis points to 1.0%"
+      - claim: rate hike vote result
+        kind: numerical_with_unit
+        value: "7-1 vote"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+          - https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616a.pdf
+        verbatim_excerpt: "The decision was reached by a 7-1 vote at the conclusion of the two-day June 15–16 Monetary Policy Meeting"
+      - claim: Monetary Policy Meeting dates
+        kind: temporal
+        value: "June 15–16"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "at the conclusion of the two-day June 15–16 Monetary Policy Meeting"
+      - claim: rate decision date
+        kind: temporal
+        value: "Tuesday June 16, 2026"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "The Bank of Japan on Tuesday June 16, 2026, raised its benchmark uncollateralized overnight call rate"
+      - claim: lone dissenting board member on rate hike
+        kind: named_person
+        value: Toichiro Asada
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "board member Toichiro Asada was the lone dissenter, arguing for maintaining the rate at 0.75%"
+      - claim: dissenter's preferred rate
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "arguing for maintaining the rate at 0.75%"
+      - claim: JGB taper pause start date
+        kind: temporal
+        value: "April 2027"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+          - https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616a.pdf
+        verbatim_excerpt: "announced it would pause its quantitative-tightening programme (JGB bond-buying taper) from April 2027 onward"
+      - claim: monthly JGB purchase level after taper pause
+        kind: numerical_with_unit
+        value: "¥2 trillion"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "keeping monthly JGB purchases at approximately ¥2 trillion"
+      - claim: taper pause vote result
+        kind: numerical_with_unit
+        value: "7-1"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "that measure also passed 7-1, with board member Tamura dissenting"
+      - claim: dissenting board member on taper pause
+        kind: named_person
+        value: Tamura
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "with board member Tamura dissenting"
+      - claim: USD/JPY exchange rate cited by BOJ
+        kind: numerical_with_unit
+        value: "¥160 per U.S. dollar"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "weak Japanese yen — which had depreciated to approximately ¥160 per U.S. dollar"
+      - claim: Japan producer price index year-on-year change May
+        kind: numerical_with_unit
+        value: "6.3% year-on-year"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "Producer prices had risen 6.3% year-on-year in May, the fastest pace in over three years"
+      - claim: producer price data reference month
+        kind: temporal
+        value: "May"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "Producer prices had risen 6.3% year-on-year in May"
+      - claim: previous BOJ rate hike date
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "The rate rise follows a previous hike in December 2025 from 0.5% to 0.75%"
+      - claim: previous rate before December 2025 hike
+        kind: numerical_with_unit
+        value: "0.5%"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "a previous hike in December 2025 from 0.5% to 0.75%"
+      - claim: BOJ Governor
+        kind: named_person
+        value: "Kazuo Ueda"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "Governor Kazuo Ueda, 74, was absent from the meeting due to hospitalization for an infected liver cyst"
+      - claim: BOJ Governor age
+        kind: numerical
+        value: "74"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "Governor Kazuo Ueda, 74, was absent"
+      - claim: BOJ Governor absence reason
+        kind: named_institution
+        value: "Bank of Japan"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "the first time a sitting BOJ governor has missed a scheduled policy meeting since the current framework was established in 1998"
+      - claim: current policy framework established year
+        kind: temporal
+        value: "1998"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "since the current framework was established in 1998"
+      - claim: meeting chair in Ueda's absence
+        kind: named_person
+        value: "Ryozo Himino"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "Deputy Governor Ryozo Himino chaired the meeting"
+      - claim: post-meeting press conference conductor
+        kind: named_person
+        value: "Shinichi Uchida"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+          - https://finance.yahoo.com/economy/policy/articles/boj-deputy-governor-uchidas-comments-064450805.html
+        verbatim_excerpt: "Deputy Governor Shinichi Uchida conducted the post-meeting press conference"
+      - claim: economist survey majority forecast for hike
+        kind: numerical_with_unit
+        value: "94%"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "A 94% majority of economists surveyed by Reuters beforehand had forecast the quarter-point increase"
+      - claim: survey conductor
+        kind: named_institution
+        value: Reuters
+        source_urls:
+          - https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        verbatim_excerpt: "A 94% majority of economists surveyed by Reuters beforehand"
+    quotes:
+      - speaker_name: Shinichi Uchida
+        speaker_title: Deputy Governor, Bank of Japan
+        verbatim_en: "Price rises are broadening, and there is a risk that underlying inflation may deviate from our target."
+        source_url: https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        context: post-meeting press conference, June 16 2026
+      - speaker_name: Shinichi Uchida
+        speaker_title: Deputy Governor, Bank of Japan
+        verbatim_en: "The mechanism by which wages and prices rise in tandem is becoming embedded."
+        source_url: https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        context: post-meeting press conference, June 16 2026
+      - speaker_name: Shinichi Uchida
+        speaker_title: Deputy Governor, Bank of Japan
+        verbatim_en: "guide policy so that we won't fall behind the curve"
+        source_url: https://abcnews.com/Business/wireStory/bank-japan-raises-key-interest-rate-decade-high-133911615
+        context: post-meeting press conference, June 16 2026
+      - speaker_name: Shinichi Uchida
+        speaker_title: Deputy Governor, Bank of Japan
+        verbatim_en: "It's hard to judge now when our policy rate will achieve levels deemed neutral to the economy."
+        source_url: https://finance.yahoo.com/economy/policy/articles/boj-deputy-governor-uchidas-comments-064450805.html
+        context: post-meeting press conference commentary, June 16 2026
+      - speaker_name: Shinichi Uchida
+        speaker_title: Deputy Governor, Bank of Japan
+        verbatim_en: "Bond market function has improved significantly, so there was less need to keep tapering."
+        source_url: https://finance.yahoo.com/economy/policy/articles/boj-deputy-governor-uchidas-comments-064450805.html
+        context: commentary on bond-buying taper pause, June 16 2026
+
+  - story_id: nikkei-225-breaches-70000-all-time-high
+    category: econ
+    headline_en: "Japan's Nikkei 225 breaches 70,000 for the first time in history"
+    lead_url: https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+    body_source: full
+    corroborated_by:
+      - https://www.japantimes.co.jp/business/2026/06/16/markets/nikkei-70000-first-time-june/
+    locked_urls:
+      - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+      - https://www.japantimes.co.jp/business/2026/06/16/markets/nikkei-70000-first-time-june/
+    hard_facts:
+      - claim: Nikkei 225 intraday milestone
+        kind: numerical_with_unit
+        value: "70,000 points"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+          - https://www.japantimes.co.jp/business/2026/06/16/markets/nikkei-70000-first-time-june/
+        verbatim_excerpt: "Japan's benchmark Nikkei 225 index briefly breached 70,000 points for the first time in the index's history on Tuesday June 16, 2026"
+      - claim: Nikkei 225 closing level
+        kind: numerical_with_unit
+        value: "69,713.05"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "before pulling back slightly to close near 69,713.05"
+      - claim: Nikkei 225 closing day change
+        kind: numerical_with_unit
+        value: "approximately 0.6%"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "up approximately 0.6% on the day"
+      - claim: milestone date
+        kind: temporal
+        value: "Tuesday June 16, 2026"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "for the first time in the index's history on Tuesday June 16, 2026"
+      - claim: Nikkei year-to-date gain as of mid-June 2026
+        kind: numerical_with_unit
+        value: "approximately 33%"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "The Nikkei had gained approximately 33% year-to-date in 2026 as of mid-June"
+      - claim: USD/JPY rate at time of event
+        kind: numerical_with_unit
+        value: "¥160 per U.S. dollar"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "A weak Japanese yen — holding near ¥160 per U.S. dollar"
+      - claim: Go Inc. IPO debut intraday surge
+        kind: numerical_with_unit
+        value: "21%"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "Go Inc.'s strong IPO debut on the Tokyo Stock Exchange — surging as much as 21%"
+      - claim: named institution — Tokyo Stock Exchange
+        kind: named_institution
+        value: "Tokyo Stock Exchange"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "Go Inc.'s strong IPO debut on the Tokyo Stock Exchange"
+      - claim: G7 summit venue
+        kind: named_institution
+        value: "G7 Évian Summit"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "optimism about the U.S.-Iran ceasefire memorandum agreed at the G7 Évian Summit"
+      - claim: USD/JPY post-BOJ decision level
+        kind: numerical_with_unit
+        value: "above ¥160"
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "After the BOJ decision, the yen held broadly unchanged against the dollar, with USD/JPY staying above ¥160"
+      - claim: named company — Go Inc.
+        kind: named_institution
+        value: "Go Inc."
+        source_urls:
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "Go Inc.'s strong IPO debut on the Tokyo Stock Exchange — surging as much as 21% — also contributed to positive market sentiment"
+    quotes: []
+
+  - story_id: takaichi-g7-joint-stockpiling-critical-minerals
+    category: politics
+    headline_en: "Takaichi proposes G7 \"Joint Stockpiling Cooperation Initiative\" for critical minerals to counter China's export curbs"
+    lead_url: https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+    body_source: full
+    corroborated_by:
+      - https://asianews.network/japan-pm-takaichi-to-propose-joint-stockpiling-plan-for-critical-minerals/
+      - https://japan.kantei.go.jp/105/diplomatic/202606/summit1.html
+    locked_urls:
+      - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+      - https://asianews.network/japan-pm-takaichi-to-propose-joint-stockpiling-plan-for-critical-minerals/
+      - https://japan.kantei.go.jp/105/diplomatic/202606/summit1.html
+    hard_facts:
+      - claim: Japanese Prime Minister
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+          - https://asianews.network/japan-pm-takaichi-to-propose-joint-stockpiling-plan-for-critical-minerals/
+          - https://japan.kantei.go.jp/105/diplomatic/202606/summit1.html
+        verbatim_excerpt: "Japanese Prime Minister Sanae Takaichi formally presented a \"Joint Stockpiling Cooperation Initiative\" for critical minerals to Group of Seven leaders"
+      - claim: proposal name
+        kind: named_product
+        value: "Joint Stockpiling Cooperation Initiative"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+          - https://asianews.network/japan-pm-takaichi-to-propose-joint-stockpiling-plan-for-critical-minerals/
+        verbatim_excerpt: "formally presented a \"Joint Stockpiling Cooperation Initiative\" for critical minerals"
+      - claim: summit date of proposal
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "to Group of Seven leaders during the second day of the G7 Évian Summit in Évian-les-Bains, France, on June 16, 2026"
+      - claim: summit venue
+        kind: named_institution
+        value: "G7 Évian Summit"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "during the second day of the G7 Évian Summit in Évian-les-Bains, France"
+      - claim: proposed national reserve duration
+        kind: numerical_with_unit
+        value: "at least 90 days'"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "each G7 participating country would maintain national reserves equivalent to at least 90 days' worth of critical minerals"
+      - claim: coordinating body for joint emergency releases
+        kind: named_institution
+        value: "International Energy Agency"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "reserves would be coordinated with the International Energy Agency for joint emergency releases during supply disruptions"
+      - claim: target for reducing single-country dependence by 2030
+        kind: numerical_with_unit
+        value: "approximately 60%"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "reducing dependence on any single country for rare earths and permanent magnets to approximately 60% by 2030"
+      - claim: dependence reduction target year
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "to approximately 60% by 2030"
+      - claim: longer-term dependence target
+        kind: numerical_with_unit
+        value: "50% or below"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "to 50% or below thereafter"
+      - claim: China's global market share for critical minerals
+        kind: numerical_with_unit
+        value: "approximately 70%"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "China, which holds approximately 70% of global market share for critical minerals"
+      - claim: Japan's national stockpiling administrator
+        kind: named_institution
+        value: "Japan Organization for Metals and Energy Security (JOGMEC)"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        verbatim_excerpt: "administered by the Japan Organization for Metals and Energy Security (JOGMEC)"
+    quotes:
+      - speaker_name: Sanae Takaichi
+        speaker_title: Prime Minister of Japan
+        verbatim_en: "accelerating the diversification of supply sources"
+        source_url: https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        context: G7 Évian Summit presentation, June 16 2026
+      - speaker_name: Sanae Takaichi
+        speaker_title: Prime Minister of Japan
+        verbatim_en: "I'll take part as a representative of Asia and proactively promote Japan's position"
+        source_url: https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        context: G7 Évian Summit, June 16 2026
+      - speaker_name: Sanae Takaichi
+        speaker_title: Prime Minister of Japan
+        verbatim_en: "the perspective of the Indo-Pacific"
+        source_url: https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        context: G7 Évian Summit, June 16 2026
+      - speaker_name: Sanae Takaichi
+        speaker_title: Prime Minister of Japan
+        verbatim_en: "a major step toward de-escalation"
+        source_url: https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        context: comment on U.S.-Iran ceasefire memorandum at G7 Évian Summit, June 16 2026
+      - speaker_name: Sanae Takaichi
+        speaker_title: Prime Minister of Japan
+        verbatim_en: "free and safe navigation in the Strait of Hormuz"
+        source_url: https://www.japantimes.co.jp/news/2026/06/16/japan/politics/takaichi-g7-critical-minerals/
+        context: G7 Évian Summit, June 16 2026
+
+  - story_id: jx-advanced-metals-750m-optical-chip-wafer-10x
+    category: tech
+    headline_en: "JX Advanced Metals to invest $750 million, raise optical chip wafer output 10-fold for AI data centre boom"
+    lead_url: https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers
+    hard_facts:
+      - claim: named company
+        kind: named_institution
+        value: "JX Advanced Metals"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers
+        verbatim_excerpt: "JX Advanced Metals, a Japanese specialty metals and materials company, announced on June 16, 2026 plans to raise production capacity for optical chip wafers"
+      - claim: announcement date
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers
+        verbatim_excerpt: "announced on June 16, 2026 plans to raise production capacity for optical chip wafers"
+      - claim: capacity expansion multiple
+        kind: numerical_with_unit
+        value: "up to 10 times"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers
+        verbatim_excerpt: "raise production capacity for optical chip wafers by up to 10 times its current level"
+      - claim: investment amount
+        kind: numerical_with_unit
+        value: "approximately $750 million"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers
+        verbatim_excerpt: "backed by an investment of approximately $750 million"
+      - claim: product focus
+        kind: named_product
+        value: "optical chip wafers"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/supply-chain/jx-advanced-metals-to-raise-optical-chip-wafer-capacity-for-ai-data-centers
+        verbatim_excerpt: "raise production capacity for optical chip wafers by up to 10 times its current level"
+    quotes: []
+
+  - story_id: go-inc-surges-21pct-tse-ipo-debut-largest-2026
+    category: ipo_ma
+    headline_en: "Goldman-backed Go Inc. surges 21% on Tokyo Stock Exchange IPO debut — Japan's largest listing of 2026"
+    lead_url: https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+    body_source: full
+    corroborated_by:
+      - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+      - https://thenextweb.com/news/go-inc-japan-taxi-app-ipo-tokyo-stock-exchange-goldman-sachs
+      - https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year
+    locked_urls:
+      - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+      - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+      - https://thenextweb.com/news/go-inc-japan-taxi-app-ipo-tokyo-stock-exchange-goldman-sachs
+      - https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year
+    hard_facts:
+      - claim: named company
+        kind: named_institution
+        value: "Go Inc."
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+          - https://thenextweb.com/news/go-inc-japan-taxi-app-ipo-tokyo-stock-exchange-goldman-sachs
+          - https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year
+        verbatim_excerpt: "Go Inc., operator of Japan's dominant taxi-hailing app platform, surged as much as 21% in its trading debut on the Tokyo Stock Exchange on Tuesday June 16, 2026"
+      - claim: IPO debut intraday surge
+        kind: numerical_with_unit
+        value: "21%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+        verbatim_excerpt: "surged as much as 21% in its trading debut on the Tokyo Stock Exchange on Tuesday June 16, 2026"
+      - claim: IPO debut date
+        kind: temporal
+        value: "Tuesday June 16, 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "surged as much as 21% in its trading debut on the Tokyo Stock Exchange on Tuesday June 16, 2026"
+      - claim: IPO listing exchange
+        kind: named_institution
+        value: "Tokyo Stock Exchange"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+          - https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800
+          - https://thenextweb.com/news/go-inc-japan-taxi-app-ipo-tokyo-stock-exchange-goldman-sachs
+        verbatim_excerpt: "its trading debut on the Tokyo Stock Exchange"
+      - claim: IPO pricing
+        kind: numerical_with_unit
+        value: "¥2,400 per share"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "after pricing its initial public offering at ¥2,400 per share"
+      - claim: IPO marketed price range
+        kind: numerical_with_unit
+        value: "¥2,350–¥2,400 per share"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "the top of its marketed range of ¥2,350–¥2,400 per share"
+      - claim: proceeds raised from offering
+        kind: numerical_with_unit
+        value: "¥88.6 billion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "Shareholders raised ¥88.6 billion ($553 million) from the offering"
+      - claim: proceeds raised in USD
+        kind: numerical_with_unit
+        value: "$553 million"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "Shareholders raised ¥88.6 billion ($553 million) from the offering"
+      - claim: market capitalisation at IPO
+        kind: numerical_with_unit
+        value: "¥186 billion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "at a market capitalisation of ¥186 billion"
+      - claim: overall order oversubscription
+        kind: numerical_with_unit
+        value: "more than 25 times"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "The offering was more than 25 times oversubscribed overall"
+      - claim: international tranche oversubscription
+        kind: numerical_with_unit
+        value: "approximately 20 times"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "with the international tranche approximately 20 times subscribed"
+      - claim: international investor allocation share
+        kind: numerical_with_unit
+        value: "70%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "International investors received 70% of the allocation"
+      - claim: domestic retail investor allocation share
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "domestic retail investors 25%"
+      - claim: domestic institutional investor allocation share
+        kind: numerical_with_unit
+        value: "5%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "domestic institutional investors 5%"
+      - claim: cornerstone investor — BlackRock
+        kind: named_institution
+        value: "BlackRock"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "Cornerstone investors included BlackRock, Wellington Management, and M&G Investment Management"
+      - claim: cornerstone investor — Wellington Management
+        kind: named_institution
+        value: "Wellington Management"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "Cornerstone investors included BlackRock, Wellington Management, and M&G Investment Management"
+      - claim: cornerstone investor — M&G Investment Management
+        kind: named_institution
+        value: "M&G Investment Management"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "Cornerstone investors included BlackRock, Wellington Management, and M&G Investment Management"
+      - claim: major shareholder
+        kind: named_institution
+        value: "Goldman Sachs Group Inc."
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+          - https://thenextweb.com/news/go-inc-japan-taxi-app-ipo-tokyo-stock-exchange-goldman-sachs
+          - https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year
+        verbatim_excerpt: "Goldman Sachs Group Inc. was a major shareholder"
+      - claim: number of Japan IPOs year-to-date through late May 2026
+        kind: numerical
+        value: "17"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "only 17 offerings had been priced in Japan year-to-date through late May 2026"
+      - claim: reference year for fewest IPOs comparison
+        kind: temporal
+        value: "2011"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "the fewest since 2011"
+      - claim: competitors of Go Inc.
+        kind: named_institution
+        value: "Uber"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "Go operates Japan's leading taxi-booking application, competing against Uber, Didi Global, and S.Ride"
+      - claim: competitor — Didi Global
+        kind: named_institution
+        value: "Didi Global"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "competing against Uber, Didi Global, and S.Ride"
+      - claim: competitor — S.Ride
+        kind: named_institution
+        value: "S.Ride"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "competing against Uber, Didi Global, and S.Ride"
+      - claim: Go Inc. fiscal year revenue forecast
+        kind: numerical_with_unit
+        value: "¥40.8 billion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "The company projected revenue of ¥40.8 billion for the fiscal year ending May 31, 2026"
+      - claim: fiscal year end date
+        kind: temporal
+        value: "May 31, 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "for the fiscal year ending May 31, 2026"
+      - claim: revenue year-on-year growth
+        kind: numerical_with_unit
+        value: "approximately 30% year-on-year"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "up approximately 30% year-on-year"
+      - claim: operating profit forecast
+        kind: numerical_with_unit
+        value: "¥7 billion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "with operating profit forecast at ¥7 billion, more than double the prior year's ¥2.7 billion"
+      - claim: prior year operating profit
+        kind: numerical_with_unit
+        value: "¥2.7 billion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/06/16/companies/go-surge-ipo/
+        verbatim_excerpt: "more than double the prior year's ¥2.7 billion"
+    quotes: []
