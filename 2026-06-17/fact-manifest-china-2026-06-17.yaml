@@ -1,0 +1,156 @@
+country: China
+date: 2026-06-17
+lang: zh
+stories:
+  - id: E-1
+    category: econ
+    headline_en: "China's Finance Chiefs Take Center Stage With Economy Slumping"
+    source: Bloomberg
+    tier: T1-wire
+    url: https://www.bloomberg.com/news/articles/2026-06-17/china-s-finance-chiefs-take-center-stage-with-economy-slumping
+    body_source: paywall-stub
+    facts:
+      - kind: person
+        value: He Lifeng
+        title: Vice Premier
+        source_excerpt: "Vice Premier He Lifeng spoke at the annual Lujiazui Forum in Shanghai on June 17, 2026"
+      - kind: event
+        value: Lujiazui Forum
+        location: Shanghai
+        date: 2026-06-17
+      - kind: quote
+        value: "unreasonable foreign suppression"
+        speaker: He Lifeng
+      - kind: quote
+        value: "improper unilateral sanctions"
+        speaker: He Lifeng
+      - kind: quote
+        value: "financial legal toolbox"
+        speaker: He Lifeng
+      - kind: policy
+        value: "anti-sanctions provisions embedded into draft financial law"
+      - kind: number
+        value: "-0.6%"
+        what: May retail sales year-on-year
+        note: first drop since Covid reopening in late 2022
+      - kind: number
+        value: "-4.1%"
+        what: Jan–May fixed-asset investment
+      - kind: number
+        value: "-0.2% m/m"
+        what: May new-home prices
+  - id: E-3
+    category: econ
+    headline_en: "China's Regulator to Support Launch of Active ETF Products"
+    source: Bloomberg
+    tier: T1-wire
+    url: https://www.bloomberg.com/news/articles/2026-06-17/china-s-regulator-to-support-launch-of-active-etf-products
+    body_source: paywall-stub
+    facts:
+      - kind: person
+        value: Wu Qing
+        title: China Securities Regulatory Commission Chairman
+      - kind: institution
+        value: China Securities Regulatory Commission (CSRC)
+      - kind: event
+        value: Lujiazui Forum
+        location: Shanghai
+        date: 2026-06-17
+      - kind: policy
+        value: "support launch of actively managed ETF products on Shanghai and Shenzhen exchanges"
+      - kind: institution
+        value: JPMorgan
+        note: had been seeking China approval for active ETF launch in 2026
+  - id: T-1
+    category: tech
+    headline_en: "China's Energy Transition Now Hinges on Greening Industry: Agora"
+    source: Bloomberg
+    tier: T1-wire
+    url: https://www.bloomberg.com/news/articles/2026-06-17/china-s-energy-transition-now-hinges-on-greening-industry-agora
+    body_source: paywall-stub
+    facts:
+      - kind: institution
+        value: Agora Energy China
+      - kind: institution
+        value: Agora Energiewende
+      - kind: report
+        value: joint report on China energy transition
+        date: 2026-06-17
+      - kind: number
+        value: "1.17 million GWh"
+        what: 2025 China solar generation
+      - kind: number
+        value: "1.13 million GWh"
+        what: 2025 China wind generation
+      - kind: fact
+        value: "solar overtook wind in 2025"
+      - kind: policy
+        value: "15th Five-Year Plan (2026-2030)"
+      - kind: policy
+        value: "2060 carbon neutrality pledge"
+      - kind: sectors
+        value: ["steel", "cement", "chemicals"]
+  - id: S-1
+    category: society
+    headline_en: "Philippines Says China Has Removed Structure in Disputed Scarborough Shoal"
+    source: Bloomberg
+    tier: T1-wire
+    url: https://www.bloomberg.com/news/articles/2026-06-17/philippines-says-china-has-removed-structure-in-disputed-shoal
+    body_source: paywall-stub
+    facts:
+      - kind: actor
+        value: Philippine authorities
+      - kind: event
+        value: confirmation that floating platform was removed from Scarborough Shoal lagoon
+        timing: Wednesday morning, June 17, 2026
+      - kind: number
+        value: "6×6 meters"
+        what: dimensions of floating structure with antenna
+      - kind: quote
+        value: "semi-permanent"
+        attribution: Philippine description of structure
+      - kind: date
+        value: "June 9-10"
+        what: Philippine diplomatic protest lodged
+      - kind: location
+        value: South China Sea
+  - id: I-1
+    category: ipo_ma
+    headline_en: "Lingyi Seeks to Raise Up to $1.1 Billion in Hong Kong Listing"
+    source: Bloomberg
+    tier: T1-wire
+    url: https://www.bloomberg.com/news/articles/2026-06-17/lingyi-seeks-to-raise-up-to-1-1-billion-in-hong-kong-listing
+    body_source: paywall-stub
+    facts:
+      - kind: company
+        value: Lingyi iTech Guangdong Co.
+      - kind: number
+        value: "HK$8.3 billion"
+        what: target raise upper bound
+      - kind: number
+        value: "approximately US$1.06 billion"
+        what: target raise (USD equivalent)
+      - kind: event
+        value: started taking investor orders for Hong Kong listing
+        date: 2026-06-17
+      - kind: venue
+        value: Hong Kong Stock Exchange (HKEX)
+gaps:
+  - category: politics
+    kept: 0
+    required: 3
+  - category: tech
+    kept: 1
+    required: 3
+  - category: society
+    kept: 1
+    required: 3
+  - category: china_nexus
+    kept: 0
+    required: 3
+  - category: ipo_ma
+    kept: 1
+    required: 3
+  - category: other
+    kept: 0
+    required: 3
