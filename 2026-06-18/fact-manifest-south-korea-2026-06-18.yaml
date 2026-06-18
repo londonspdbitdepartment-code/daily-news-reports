@@ -1,0 +1,1647 @@
+version: 1
+generated_at: "2026-06-18T00:00:00Z"
+country: South Korea
+date: "2026-06-18"
+total_stories: 20
+stories:
+  - story_id: kospi-surpasses-9000-ai-chip-rally
+    category: econ
+    headline_en: KOSPI Surpasses 9,000 for First Time, Powered by AI Chip Rally
+    lead_url: https://www.koreaherald.com/article/10775881
+    body_source: full
+    corroborated_by:
+      - https://asia.nikkei.com/business/markets/nikkei-closes-above-70-000-and-kospi-eclipses-9-000-for-first-time
+      - https://www.koreatimes.co.kr/economy/20260618/kospi-tops-another-historic-milestone-9000-on-chip-rally
+      - https://www.koreatimes.co.kr/economy/20260618/chip-giants-push-kospi-past-9000-masking-broader-market-weakness
+      - https://www.kedglobal.com/korean-stock-market/newsView/ked202606180003
+    locked_urls:
+      - https://www.koreaherald.com/article/10775881
+      - https://asia.nikkei.com/business/markets/nikkei-closes-above-70-000-and-kospi-eclipses-9-000-for-first-time
+      - https://www.koreatimes.co.kr/economy/20260618/kospi-tops-another-historic-milestone-9000-on-chip-rally
+      - https://www.koreatimes.co.kr/economy/20260618/chip-giants-push-kospi-past-9000-masking-broader-market-weakness
+      - https://www.kedglobal.com/korean-stock-market/newsView/ked202606180003
+    hard_facts:
+      - claim: KOSPI closing level on June 18 2026
+        kind: numerical_with_unit
+        value: "9,063.84"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Korea Composite Stock Price Index (KOSPI) closed at 9,063.84 on June 18, 2026"
+      - claim: KOSPI daily percentage gain
+        kind: numerical_with_unit
+        value: "2.25 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "a 2.25 percent gain from the prior session"
+      - claim: KOSPI intraday high on June 18 2026
+        kind: numerical_with_unit
+        value: "9,106.07"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "hitting an intraday high of 9,106.07"
+      - claim: date KOSPI first crossed 8,000 points
+        kind: temporal
+        value: "May 26"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "less than three weeks after the index first crossed 8,000 points on May 26"
+      - claim: KOSPI January 2 opening level
+        kind: numerical_with_unit
+        value: "4,309.63"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "The KOSPI has more than doubled from its January 2 opening level of 4,309.63"
+      - claim: foreign investor KOSPI purchases in single day
+        kind: numerical_with_unit
+        value: "over 1.27 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Foreign investors purchased over 1.27 trillion won in KOSPI shares in a single day"
+      - claim: Samsung Electronics share gain on June 18 2026
+        kind: numerical_with_unit
+        value: "4.62 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Samsung Electronics gained 4.62 percent"
+      - claim: SK hynix share gain on June 18 2026
+        kind: numerical_with_unit
+        value: "6.51 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "SK hynix surged 6.51 percent to a record close of 2,685,000 won per share"
+      - claim: SK hynix record closing price on June 18 2026
+        kind: numerical_with_unit
+        value: "2,685,000 won per share"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "SK hynix surged 6.51 percent to a record close of 2,685,000 won per share"
+      - claim: number of rising stocks on June 18 2026
+        kind: numerical
+        value: "approximately 100"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/20260618/chip-giants-push-kospi-past-9000-masking-broader-market-weakness
+        verbatim_excerpt: "only approximately 100 stocks rose while roughly 810 declined"
+      - claim: number of declining stocks on June 18 2026
+        kind: numerical
+        value: "roughly 810"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/20260618/chip-giants-push-kospi-past-9000-masking-broader-market-weakness
+        verbatim_excerpt: "only approximately 100 stocks rose while roughly 810 declined"
+      - claim: estimated KOSPI level without Samsung and SK hynix (Goldman Sachs)
+        kind: numerical_with_unit
+        value: "near 5,200"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Goldman Sachs estimates that without Samsung and SK hynix the KOSPI would stand near 5,200"
+      - claim: Goldman Sachs KOSPI price target
+        kind: numerical_with_unit
+        value: "12,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Goldman Sachs raised its KOSPI price target to 12,000 on June 3"
+      - claim: date Goldman Sachs raised KOSPI price target
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Goldman Sachs raised its KOSPI price target to 12,000 on June 3"
+      - claim: named institution — Samsung Electronics
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Samsung Electronics gained 4.62 percent"
+      - claim: named institution — SK hynix
+        kind: named_institution
+        value: "SK hynix"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "SK hynix surged 6.51 percent to a record close of 2,685,000 won per share"
+      - claim: named institution — Goldman Sachs
+        kind: named_institution
+        value: "Goldman Sachs"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Goldman Sachs raised its KOSPI price target to 12,000 on June 3"
+      - claim: named institution — Daishin Securities
+        kind: named_institution
+        value: "Daishin Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10775881
+        verbatim_excerpt: "Daishin Securities noted"
+    quotes:
+      - speaker_name: Daishin Securities
+        speaker_title: Daishin Securities analyst
+        verbatim_en: "KOSPI has entered a typical earnings- and policy-driven market phase."
+        source_url: https://www.koreaherald.com/article/10775881
+        context: market commentary on June 18 2026
+
+  - story_id: south-korea-zero-tariffs-lng-lpg-inflation
+    category: econ
+    headline_en: South Korea to Apply Zero Tariffs on LNG and LPG to Combat Inflation
+    lead_url: https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10774388
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+      - https://www.koreaherald.com/article/10774388
+    hard_facts:
+      - claim: announcement date of zero tariff policy
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "South Korea's Ministry of Finance and Economy (MOEF) announced on June 18"
+      - claim: tariff policy effective date
+        kind: temporal
+        value: "July 1"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "The policy takes effect July 1 following Cabinet approval"
+      - claim: tariff application period
+        kind: temporal
+        value: "second half of 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "within tariff-rate quotas for the second half of 2026"
+      - claim: originally planned LNG tariff rate Q3
+        kind: numerical_with_unit
+        value: "2 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "LNG tariffs to 2 percent in Q3 and 1 percent in Q4"
+      - claim: originally planned LNG tariff rate Q4
+        kind: numerical_with_unit
+        value: "1 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "LNG tariffs to 2 percent in Q3 and 1 percent in Q4"
+      - claim: originally planned LPG tariff rate
+        kind: numerical_with_unit
+        value: "1 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "and LPG tariffs to 1 percent"
+      - claim: consumer price year-on-year increase in May 2026
+        kind: numerical_with_unit
+        value: "3.1 percent year-on-year"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "Consumer prices rose 3.1 percent year-on-year in May 2026"
+      - claim: duration since last comparable inflation pace
+        kind: temporal
+        value: "26 months"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "the fastest pace in 26 months"
+      - claim: number of additional agricultural commodities added to quota coverage
+        kind: numerical
+        value: "nine"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "extend quota coverage to nine agricultural commodities and two animal feed types"
+      - claim: number of animal feed types added to quota coverage
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "nine agricultural commodities and two animal feed types through year-end"
+      - claim: end date of existing zero/reduced tariff on tropical fruits
+        kind: temporal
+        value: "mid-August"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "Existing zero or reduced tariffs on tropical fruits including bananas, pineapples and mangoes continue through mid-August"
+      - claim: named institution — Ministry of Finance and Economy
+        kind: named_institution
+        value: "Ministry of Finance and Economy (MOEF)"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        verbatim_excerpt: "South Korea's Ministry of Finance and Economy (MOEF) announced on June 18"
+    quotes:
+      - speaker_name: MOEF official
+        speaker_title: Ministry of Finance and Economy official
+        verbatim_en: "commissioned research every year...consistently show that it has had such an effect in the energy sector."
+        source_url: https://www.koreatimes.co.kr/southkorea/20260618/korea-to-apply-zero-tariffs-on-lng-lpg-under-quota-scheme-to-tackle-inflation
+        context: statement on June 18 explaining rationale for tariff elimination
+
+  - story_id: us-fed-hawkish-shift-bank-of-korea-rates
+    category: econ
+    headline_en: US Fed's Hawkish Shift Piles Pressure on Bank of Korea to Raise Rates
+    lead_url: https://www.koreaherald.com/article/10775878
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10774474
+    locked_urls:
+      - https://www.koreaherald.com/article/10775878
+      - https://www.koreaherald.com/article/10774474
+    hard_facts:
+      - claim: US federal funds rate held level
+        kind: numerical_with_unit
+        value: "3.5–3.75 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "held the federal funds rate unchanged at 3.5–3.75 percent for a fourth consecutive meeting on June 18, 2026"
+      - claim: consecutive meetings rate held unchanged
+        kind: temporal
+        value: "fourth consecutive meeting"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "for a fourth consecutive meeting on June 18, 2026"
+      - claim: number of FOMC members anticipating rate increases
+        kind: numerical
+        value: "nine of 19"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "nine of 19 FOMC members anticipating rate increases before year-end"
+      - claim: US Fed Chair name
+        kind: named_person
+        value: "Kevin Warsh"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "The U.S. Federal Reserve, under new Chair Kevin Warsh"
+      - claim: South Korea Finance Minister name
+        kind: named_person
+        value: "Koo Yun-cheol"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "South Korea's Finance Minister Koo Yun-cheol convened an emergency response meeting"
+      - claim: Bank of Korea Governor name
+        kind: named_person
+        value: "Shin Hyun-song"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "Bank of Korea Governor Shin Hyun-song"
+      - claim: Financial Services Commission Chairman name
+        kind: named_person
+        value: "Lee Eog-weon"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "Financial Services Commission Chairman Lee Eog-weon"
+      - claim: Financial Supervisory Service Governor name
+        kind: named_person
+        value: "Lee Chan-jin"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "Financial Supervisory Service Governor Lee Chan-jin"
+      - claim: South Korea projected CPI in H2 2026
+        kind: numerical_with_unit
+        value: "around 3 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "South Korea's consumer price inflation is projected to remain around 3 percent in H2 2026"
+      - claim: BOK inflation target
+        kind: numerical_with_unit
+        value: "2 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "well above the BOK's 2 percent target"
+      - claim: Korean won per dollar exchange rate
+        kind: numerical_with_unit
+        value: "1,527.1 per dollar"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "The Korean won weakened to 1,527.1 per dollar"
+      - claim: number of BOK rate increases expected in 2026
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "Analysts now expect two BOK rate increases in 2026 — likely in July and October"
+      - claim: expected BOK policy rate by year-end
+        kind: numerical_with_unit
+        value: "3 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "potentially lifting the policy rate to 3 percent by year-end"
+      - claim: US-Korea interest rate differential
+        kind: numerical_with_unit
+        value: "1.25 percentage points"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "The U.S.-Korea interest rate differential has widened to 1.25 percentage points"
+      - claim: BOK Deputy Governor name
+        kind: named_person
+        value: "Ryoo Sang-dai"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "BOK Deputy Governor Ryoo Sang-dai characterised the Fed's stance"
+      - claim: named institution — Bank of Korea
+        kind: named_institution
+        value: "Bank of Korea"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "Bank of Korea Governor Shin Hyun-song"
+      - claim: named institution — Financial Services Commission
+        kind: named_institution
+        value: "Financial Services Commission"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "Financial Services Commission Chairman Lee Eog-weon"
+      - claim: named institution — Financial Supervisory Service
+        kind: named_institution
+        value: "Financial Supervisory Service"
+        source_urls:
+          - https://www.koreaherald.com/article/10775878
+        verbatim_excerpt: "Financial Supervisory Service Governor Lee Chan-jin"
+    quotes:
+      - speaker_name: Koo Yun-cheol
+        speaker_title: South Korea Finance Minister
+        verbatim_en: "the Federal Reserve's commitment to price stability"
+        source_url: https://www.koreaherald.com/article/10775878
+        context: emergency response meeting on June 18 2026
+      - speaker_name: Koo Yun-cheol
+        speaker_title: South Korea Finance Minister
+        verbatim_en: "ease geopolitical tensions and stabilize energy supplies"
+        source_url: https://www.koreaherald.com/article/10775878
+        context: emergency response meeting on June 18 2026 regarding US-Iran peace agreement
+      - speaker_name: Shin Hyun-song
+        speaker_title: Bank of Korea Governor
+        verbatim_en: "would take proactive measures until we are confident that inflation will stabilize at the target level."
+        source_url: https://www.koreaherald.com/article/10775878
+        context: statement signalling rate-hike readiness
+      - speaker_name: Ryoo Sang-dai
+        speaker_title: BOK Deputy Governor
+        verbatim_en: "broader monetary policy shift"
+        source_url: https://www.koreaherald.com/article/10775878
+        context: characterisation of Fed stance among major central banks
+
+  - story_id: csop-launches-hk-kospi-200-etf
+    category: econ
+    headline_en: CSOP Launches Hong Kong's First KOSPI 200 ETF
+    lead_url: https://www.koreaherald.com/article/10775882
+    body_source: full
+    corroborated_by:
+      - https://www.kedglobal.com/stocks/newsView/ked202606180005
+    locked_urls:
+      - https://www.koreaherald.com/article/10775882
+      - https://www.kedglobal.com/stocks/newsView/ked202606180005
+    hard_facts:
+      - claim: ETF listing date
+        kind: temporal
+        value: "June 18, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "CSOP Asset Management listed Hong Kong's sole exchange-traded fund tracking the KOSPI 200 Index on the Hong Kong Stock Exchange on June 18, 2026"
+      - claim: ETF trading volume within 5 minutes of opening
+        kind: numerical_with_unit
+        value: "exceeded 30 billion won (approximately $20 million)"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "Trading volume exceeded 30 billion won (approximately $20 million) within five minutes of the opening bell"
+      - claim: ETF launch unit price
+        kind: numerical_with_unit
+        value: "HK$7.80"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "The ETF launched at a unit price of HK$7.80"
+      - claim: ETF board lot size
+        kind: numerical_with_unit
+        value: "100 units"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "a board lot of 100 units"
+      - claim: ETF annual management fee
+        kind: numerical_with_unit
+        value: "0.99 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "an annual management fee of 0.99 percent"
+      - claim: KOSPI 200 return since early 2026
+        kind: numerical_with_unit
+        value: "more than 130 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "The index has returned more than 130 percent since early 2026"
+      - claim: technology weight in KOSPI 200 index
+        kind: numerical_with_unit
+        value: "approximately 66 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "technology accounts for approximately 66 percent of index weight"
+      - claim: industrials weight in KOSPI 200 index
+        kind: numerical_with_unit
+        value: "13 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "followed by industrials at 13 percent"
+      - claim: financials weight in KOSPI 200 index
+        kind: numerical_with_unit
+        value: "7 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "and financials at 7 percent"
+      - claim: KOSPI 200 forward price-to-earnings multiple
+        kind: numerical_with_unit
+        value: "9.02"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "The index's forward price-to-earnings multiple stood at 9.02"
+      - claim: S&P 500 forward price-to-earnings multiple
+        kind: numerical_with_unit
+        value: "22.39"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "substantially below the S&P 500's 22.39"
+      - claim: named institution — CSOP Asset Management
+        kind: named_institution
+        value: "CSOP Asset Management"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "CSOP Asset Management listed Hong Kong's sole exchange-traded fund"
+      - claim: named product — KOSPI 200 Index ETF
+        kind: named_product
+        value: "KOSPI 200 Index"
+        source_urls:
+          - https://www.koreaherald.com/article/10775882
+        verbatim_excerpt: "exchange-traded fund tracking the KOSPI 200 Index"
+    quotes:
+      - speaker_name: CSOP representative
+        speaker_title: CSOP Asset Management representative
+        verbatim_en: "buy orders poured in from the start of trading"
+        source_url: https://www.koreaherald.com/article/10775882
+        context: statement on ETF launch day June 18 2026
+
+  - story_id: national-assembly-probe-ballot-shortage
+    category: politics
+    headline_en: South Korea National Assembly Launches 45-Day Probe into June Election Ballot Shortage
+    lead_url: https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10775860
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+      - https://www.koreaherald.com/article/10775860
+    hard_facts:
+      - claim: National Assembly vote result establishing committee
+        kind: numerical_with_unit
+        value: "250-1"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "South Korea's National Assembly voted 250-1 on June 18 to establish a special 18-member parliamentary investigation committee"
+      - claim: committee member count
+        kind: numerical_with_unit
+        value: "18-member"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "to establish a special 18-member parliamentary investigation committee"
+      - claim: probe duration
+        kind: temporal
+        value: "45-day"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "The 45-day probe is scheduled to conclude by August 1"
+      - claim: probe scheduled conclusion date
+        kind: temporal
+        value: "August 1"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "scheduled to conclude by August 1 but may be extended with Assembly consent"
+      - claim: committee chair identity
+        kind: named_person
+        value: "Rep. Yoon Sang-hyun"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "chaired by five-term People Power Party lawmaker Rep. Yoon Sang-hyun"
+      - claim: terms served by committee chair
+        kind: numerical_with_unit
+        value: "five-term"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "chaired by five-term People Power Party lawmaker Rep. Yoon Sang-hyun"
+      - claim: Democratic Party of Korea members on committee
+        kind: numerical
+        value: "nine"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "comprises nine Democratic Party of Korea members, seven PPP members, and two minor-party representatives"
+      - claim: PPP members on committee
+        kind: numerical
+        value: "seven"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "comprises nine Democratic Party of Korea members, seven PPP members, and two minor-party representatives"
+      - claim: minor-party representatives on committee
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "comprises nine Democratic Party of Korea members, seven PPP members, and two minor-party representatives"
+      - claim: date of local elections affected
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "ballot shortages that marred the June 3 local elections"
+      - claim: total polling stations affected by ballot shortages
+        kind: numerical
+        value: "91"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "ballot shortages at 91 polling stations nationwide"
+      - claim: polling stations that temporarily suspended voting
+        kind: numerical
+        value: "26"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "26 of which temporarily suspended voting"
+      - claim: Seoul polling stations affected
+        kind: numerical_with_unit
+        value: "at least 42"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "Seoul was the hardest-hit area, with at least 42 affected stations"
+      - claim: former NEC Chairman who resigned
+        kind: named_person
+        value: "Roh Tae-ak"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "Former NEC Chairman Roh Tae-ak resigned on June 5"
+      - claim: date NEC Chairman resigned
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "Former NEC Chairman Roh Tae-ak resigned on June 5"
+      - claim: NEC Chairman's overseas travel expenses under scrutiny
+        kind: numerical_with_unit
+        value: "over 160 million won"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "official overseas travel expenses — reportedly including trips to Germany, Estonia, Copenhagen and Stockholm totalling over 160 million won"
+      - claim: Democratic Party of Korea municipal posts won
+        kind: numerical_with_unit
+        value: "12 of 16"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "the ruling Democratic Party of Korea, which won 12 of 16 key municipal posts in the June 3 vote"
+      - claim: named institution — National Election Commission
+        kind: named_institution
+        value: "National Election Commission"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "suspected financial irregularities at the National Election Commission"
+      - claim: named institution — People Power Party
+        kind: named_institution
+        value: "People Power Party"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        verbatim_excerpt: "five-term People Power Party lawmaker Rep. Yoon Sang-hyun"
+    quotes:
+      - speaker_name: National Assembly
+        speaker_title: South Korea National Assembly
+        verbatim_en: "The exercise of the people's sovereignty has been obstructed due to a shortage of ballot papers at numerous polling stations nationwide."
+        source_url: https://www.koreatimes.co.kr/southkorea/law-crime/20260618/national-assembly-launches-probe-into-ballot-shortages-as-nec-scandals-mount
+        context: Assembly motion text establishing the investigation committee on June 18 2026
+
+  - story_id: lee-recounts-90-min-trump-talks-g7
+    category: politics
+    headline_en: Lee Recounts 90-Minute Trump Talks at G7, Secures Golf Invitation
+    lead_url: https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-18/trump-invites-lee-to-golf-as-leaders-discuss-korea-us-relations-at-g7
+    locked_urls:
+      - https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+      - https://www.bloomberg.com/news/articles/2026-06-18/trump-invites-lee-to-golf-as-leaders-discuss-korea-us-relations-at-g7
+    hard_facts:
+      - claim: duration of Lee-Trump conversation at G7
+        kind: numerical_with_unit
+        value: "about 90 minutes"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        verbatim_excerpt: "had an in-depth conversation for about 90 minutes about peace on the Korean Peninsula and Korea-U.S. relations"
+      - claim: G7 summit location
+        kind: named_institution
+        value: "Evian-les-Bains, France"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        verbatim_excerpt: "engagements with U.S. President Donald Trump at the G7 summit in Evian-les-Bains, France"
+      - claim: South Korean President name
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        verbatim_excerpt: "South Korean President Lee Jae Myung on June 18 described the outcome"
+      - claim: U.S. President name
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        verbatim_excerpt: "engagements with U.S. President Donald Trump at the G7 summit"
+      - claim: South Korean First Lady name
+        kind: named_person
+        value: "Kim Hea Kyung"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        verbatim_excerpt: "Trump extended golf invitations to Lee and his wife Kim Hea Kyung"
+      - claim: date of prior White House meeting
+        kind: temporal
+        value: "August"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        verbatim_excerpt: "mirroring an exchange at their White House meeting in August when Lee had given Trump a pen"
+      - claim: description of relationship
+        kind: named_institution
+        value: "strong and enduring"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        verbatim_excerpt: "Lee characterised the relationship as \"strong and enduring\""
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: South Korean President
+        verbatim_en: "had an in-depth conversation for about 90 minutes about peace on the Korean Peninsula and Korea-U.S. relations, and made significant progress."
+        source_url: https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        context: statement on June 18 2026 describing G7 summit meeting outcomes
+      - speaker_name: Lee Jae Myung
+        speaker_title: South Korean President
+        verbatim_en: "strong and enduring"
+        source_url: https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        context: characterisation of Korea-US relationship at G7 summit
+      - speaker_name: presidential office official
+        speaker_title: South Korea presidential office official
+        verbatim_en: "conveyed a strong commitment to playing a necessary role in advancing Korean Peninsula issues."
+        source_url: https://www.koreatimes.co.kr/foreignaffairs/20260618/lee-recounts-90-minute-talks-on-korean-peninsula-golf-invitation-from-trump
+        context: briefing on Trump's commitment at G7 summit
+
+  - story_id: senate-confirms-michelle-steel-ambassador
+    category: politics
+    headline_en: US Senate Confirms Korean American Michelle Steel as Ambassador to South Korea
+    lead_url: https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+    hard_facts:
+      - claim: Senate confirmation vote result
+        kind: numerical_with_unit
+        value: "55-39"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "confirmed Michelle Steel...as U.S. Ambassador to South Korea in a 55-39 vote on June 18, 2026"
+      - claim: confirmation vote date
+        kind: temporal
+        value: "June 18, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "in a 55-39 vote on June 18, 2026"
+      - claim: ambassador name
+        kind: named_person
+        value: "Michelle Steel"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "The U.S. Senate confirmed Michelle Steel"
+      - claim: terms served as congresswoman
+        kind: numerical_with_unit
+        value: "two-term"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "a former two-term Korean American congresswoman"
+      - claim: congresswoman's district
+        kind: named_institution
+        value: "California district"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "representing a California district"
+      - claim: prior Korean American ambassador to South Korea
+        kind: named_person
+        value: "Sung Kim"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "the second Korean American to serve as the United States' top envoy to South Korea, following Sung Kim (2011–2014)"
+      - claim: Sung Kim tenure as ambassador
+        kind: temporal
+        value: "2011–2014"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "following Sung Kim (2011–2014)"
+      - claim: date Trump nominated Steel
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "President Trump nominated her in April 2026"
+      - claim: date Steel cleared Senate Foreign Relations Committee
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "she cleared the Senate Foreign Relations Committee on June 5"
+      - claim: previous ambassador and departure date
+        kind: named_person
+        value: "Philip Goldberg"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "The ambassadorial post had been vacant since Philip Goldberg's departure in January 2025"
+      - claim: date ambassadorial post vacated
+        kind: temporal
+        value: "January 2025"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "vacant since Philip Goldberg's departure in January 2025"
+      - claim: Steel's academic institutions
+        kind: named_institution
+        value: "Pepperdine University and USC"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "Steel holds degrees from Pepperdine University and USC"
+      - claim: Steel's prior government positions
+        kind: named_institution
+        value: "California's State Board of Equalization and the Orange County Board of Supervisors"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-confirms-michelle-steel-as-us-ambassador-to-korea
+        verbatim_excerpt: "She previously served on California's State Board of Equalization and the Orange County Board of Supervisors"
+    quotes: []
+
+  - story_id: kim-yo-jong-rejects-g7-denuclearization
+    category: politics
+    headline_en: Kim Yo-jong Rejects G7 Denuclearization Call
+    lead_url: https://www.koreaherald.com/article/10777141
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10777141
+    hard_facts:
+      - claim: Kim Yo-jong identity and title
+        kind: named_person
+        value: "Kim Yo-jong"
+        source_urls:
+          - https://www.koreaherald.com/article/10777141
+        verbatim_excerpt: "North Korea's Kim Yo-jong, vice department director of the Central Committee of the Workers' Party of Korea and sister of leader Kim Jong-un"
+      - claim: Kim Yo-jong's role
+        kind: named_person
+        value: "vice department director of the Central Committee of the Workers' Party of Korea"
+        source_urls:
+          - https://www.koreaherald.com/article/10777141
+        verbatim_excerpt: "vice department director of the Central Committee of the Workers' Party of Korea"
+      - claim: Kim Jong-un relationship to Kim Yo-jong
+        kind: named_person
+        value: "Kim Jong-un"
+        source_urls:
+          - https://www.koreaherald.com/article/10777141
+        verbatim_excerpt: "sister of leader Kim Jong-un"
+      - claim: G7 summit location
+        kind: named_institution
+        value: "Evian-les-Bains"
+        source_urls:
+          - https://www.koreaherald.com/article/10777141
+        verbatim_excerpt: "G7 leaders at Evian-les-Bains had reaffirmed their commitment"
+      - claim: date Kim Yo-jong issued statement
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreaherald.com/article/10777141
+        verbatim_excerpt: "Kim Yo-jong, vice department director...issued a statement on June 18"
+      - claim: year North Korea adopted nuclear forces law
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - https://www.koreaherald.com/article/10777141
+        verbatim_excerpt: "North Korea adopted a nuclear forces law in 2022"
+      - claim: year North Korea revised constitution to entrench nuclear forces
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.koreaherald.com/article/10777141
+        verbatim_excerpt: "revised its constitution in 2023 to entrench nuclear forces as a permanent element of state defence"
+      - claim: named institution — Workers' Party of Korea
+        kind: named_institution
+        value: "Central Committee of the Workers' Party of Korea"
+        source_urls:
+          - https://www.koreaherald.com/article/10777141
+        verbatim_excerpt: "vice department director of the Central Committee of the Workers' Party of Korea"
+    quotes:
+      - speaker_name: Kim Yo-jong
+        speaker_title: Vice Department Director, Central Committee of the Workers' Party of Korea; sister of Kim Jong-un
+        verbatim_en: "the denuclearization issue had already been settled"
+        source_url: https://www.koreaherald.com/article/10777141
+        context: statement on June 18 2026 responding to G7 denuclearization call
+      - speaker_name: Kim Yo-jong
+        speaker_title: Vice Department Director, Central Committee of the Workers' Party of Korea; sister of Kim Jong-un
+        verbatim_en: "unrealistic"
+        source_url: https://www.koreaherald.com/article/10777141
+        context: characterisation of international denuclearization demands
+      - speaker_name: Kim Yo-jong
+        speaker_title: Vice Department Director, Central Committee of the Workers' Party of Korea; sister of Kim Jong-un
+        verbatim_en: "detached from reality"
+        source_url: https://www.koreaherald.com/article/10777141
+        context: characterisation of international denuclearization demands
+
+  - story_id: ministries-clash-north-korea-principal-enemy
+    category: politics
+    headline_en: South Korea Ministries Clash Over Calling North Korea 'Principal Enemy' in Defence White Paper
+    lead_url: https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+    hard_facts:
+      - claim: date of inter-ministry clash
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "South Korea's Ministry of Unification publicly challenged the Ministry of National Defense's position on June 18"
+      - claim: Defence White Paper year
+        kind: temporal
+        value: "2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "the upcoming 2026 Defence White Paper"
+      - claim: presidential administration authoring white paper
+        kind: named_person
+        value: "President Lee Jae Myung"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "the first to be issued under President Lee Jae Myung's administration"
+      - claim: named institution — Ministry of Unification
+        kind: named_institution
+        value: "Ministry of Unification"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "South Korea's Ministry of Unification publicly challenged"
+      - claim: named institution — Ministry of National Defense
+        kind: named_institution
+        value: "Ministry of National Defense"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "the Ministry of National Defense's position"
+      - claim: Roh Moo-hyun administration tenure and alternative language
+        kind: temporal
+        value: "2003–08"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "the Roh Moo-hyun administration (2003–08) substituted \"direct military threat\" for \"enemy\""
+      - claim: Moon Jae-in administration tenure
+        kind: temporal
+        value: "2017–22"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "the Moon Jae-in administration (2017–22) removed enemy terminology entirely"
+      - claim: named person — Roh Moo-hyun
+        kind: named_person
+        value: "Roh Moo-hyun"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "the Roh Moo-hyun administration (2003–08)"
+      - claim: named person — Moon Jae-in
+        kind: named_person
+        value: "Moon Jae-in"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        verbatim_excerpt: "the Moon Jae-in administration (2017–22)"
+    quotes:
+      - speaker_name: Ministry of Unification
+        speaker_title: South Korea Ministry of Unification
+        verbatim_en: "The peaceful coexistence of the two Koreas is a firm policy goal."
+        source_url: https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        context: statement on June 18 2026 challenging Defence White Paper language
+      - speaker_name: Ministry of Unification
+        speaker_title: South Korea Ministry of Unification
+        verbatim_en: "one cannot pursue peaceful coexistence with North Korea while defining it as a principal enemy."
+        source_url: https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        context: statement on June 18 2026 challenging Defence White Paper language
+      - speaker_name: Ministry of National Defense deputy spokesperson
+        speaker_title: Deputy spokesperson, Ministry of National Defense
+        verbatim_en: "Our position that the North Korean regime and the North Korean military are our enemy remains unchanged."
+        source_url: https://www.koreatimes.co.kr/southkorea/politics/20260618/ministries-clash-over-whether-to-call-north-korea-principal-enemy
+        context: statement on June 18 2026 in response to Unification Ministry challenge
+
+  - story_id: sk-hynix-ships-hbm4e-samples-ai-customers
+    category: tech
+    headline_en: SK Hynix Ships 12-Layer HBM4E Memory Samples to AI Customers, Targeting Nvidia's Vera Rubin Ultra
+    lead_url: https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+    hard_facts:
+      - claim: announcement date of HBM4E sample shipment
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "SK hynix announced on June 18 that it has shipped samples of HBM4E"
+      - claim: HBM4E generation designation
+        kind: named_product
+        value: "HBM4E"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "shipped samples of HBM4E — seventh-generation high-bandwidth memory"
+      - claim: HBM4E generation number
+        kind: numerical_with_unit
+        value: "seventh-generation"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "HBM4E — seventh-generation high-bandwidth memory"
+      - claim: HBM4E stack layers
+        kind: numerical_with_unit
+        value: "12-layer"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "The 12-layer stack reaches 48 gigabytes in capacity"
+      - claim: HBM4E capacity
+        kind: numerical_with_unit
+        value: "48 gigabytes"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "The 12-layer stack reaches 48 gigabytes in capacity"
+      - claim: HBM4E maximum data transfer speed
+        kind: numerical_with_unit
+        value: "16 gigabits per second per pin"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "achieves maximum data transfer speeds of 16 gigabits per second per pin"
+      - claim: HBM4E power efficiency improvement over HBM4
+        kind: numerical_with_unit
+        value: "more than 20 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "representing a power efficiency improvement of more than 20 percent compared to prior-generation HBM4"
+      - claim: HBM4E heat dissipation improvement over HBM4
+        kind: numerical_with_unit
+        value: "17 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "Heat dissipation performance is enhanced by 17 percent over HBM4"
+      - claim: manufacturing technology used
+        kind: named_product
+        value: "Advanced Mass Reflow-Molded Underfill technology"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "The company employed \"Advanced Mass Reflow-Molded Underfill technology\""
+      - claim: DRAM class used
+        kind: named_product
+        value: "1c-class DRAM"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "advanced 1c-class DRAM to achieve performance targets"
+      - claim: target platform for HBM4E
+        kind: named_product
+        value: "Nvidia's Vera Rubin Ultra"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "HBM4E is intended to power Nvidia's forthcoming Vera Rubin Ultra platform"
+      - claim: HBM4E stacks per Vera Rubin Ultra GPU
+        kind: numerical_with_unit
+        value: "12 HBM4E stacks per GPU"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "will incorporate 12 HBM4E stacks per GPU"
+      - claim: HBM4 stacks in current Vera Rubin design
+        kind: numerical_with_unit
+        value: "eight HBM4 stacks"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "compared with eight HBM4 stacks in the current Vera Rubin design"
+      - claim: SK hynix HBM market share Q1 2026
+        kind: numerical_with_unit
+        value: "58 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "SK hynix commands a 58 percent share of the HBM market as of Q1 2026"
+      - claim: SK hynix share gain on June 18 from announcement
+        kind: numerical_with_unit
+        value: "6.51 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "The announcement catalysed a 6.51 percent gain in SK hynix shares on June 18"
+      - claim: SK Group Chairman name
+        kind: named_person
+        value: "Chey"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "SK Group Chairman Chey has signalled an exclusive initial partnership with Nvidia"
+      - claim: named institution — Nvidia
+        kind: named_institution
+        value: "Nvidia"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "exclusive initial partnership with Nvidia"
+      - claim: named product — Vera Rubin
+        kind: named_product
+        value: "Vera Rubin"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/tech-science/20260618/sk-hynix-ships-12-high-hbm4e-samples-to-customers
+        verbatim_excerpt: "compared with eight HBM4 stacks in the current Vera Rubin design"
+    quotes: []
+
+  - story_id: kftc-rejects-baemin-coupang-eats-settlement
+    category: tech
+    headline_en: South Korea's KFTC Rejects Baemin and Coupang Eats Settlement Bids
+    lead_url: https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-18/korea-rejects-baemin-coupang-settlement-bids-in-antitrust-probe
+    locked_urls:
+      - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+      - https://www.bloomberg.com/news/articles/2026-06-18/korea-rejects-baemin-coupang-settlement-bids-in-antitrust-probe
+    hard_facts:
+      - claim: decision date
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "Korea Fair Trade Commission on June 18 rejected consent-decree applications"
+      - claim: named institution — Korea Fair Trade Commission
+        kind: named_institution
+        value: "Korea Fair Trade Commission"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "Korea Fair Trade Commission on June 18 rejected consent-decree applications"
+      - claim: named institution — Baemin (Woowa Brothers)
+        kind: named_institution
+        value: "Baemin (Woowa Brothers)"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "rejected consent-decree applications from Baemin (Woowa Brothers) and Coupang Eats"
+      - claim: named institution — Coupang Eats
+        kind: named_institution
+        value: "Coupang Eats"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "consent-decree applications from Baemin (Woowa Brothers) and Coupang Eats"
+      - claim: Baemin proposed merchant co-prosperity fund
+        kind: numerical_with_unit
+        value: "300 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "Baemin had offered to create a 300 billion won merchant co-prosperity fund over three years"
+      - claim: Baemin fund duration
+        kind: temporal
+        value: "three years"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "300 billion won merchant co-prosperity fund over three years"
+      - claim: Coupang Eats proposed fund
+        kind: numerical_with_unit
+        value: "60 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "Coupang Eats proposed a 60 billion won fund over four years"
+      - claim: Coupang Eats fund duration
+        kind: temporal
+        value: "four years"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "60 billion won fund over four years"
+      - claim: estimated Baemin fine lower bound
+        kind: numerical_with_unit
+        value: "239 billion won (approximately $157 million)"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "Baemin faces fines of 239 billion to 510 billion won (approximately $157 million to $334 million)"
+      - claim: estimated Baemin fine upper bound
+        kind: numerical_with_unit
+        value: "510 billion won (approximately $334 million)"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "Baemin faces fines of 239 billion to 510 billion won (approximately $157 million to $334 million)"
+      - claim: estimated Coupang Eats fine lower bound
+        kind: numerical_with_unit
+        value: "25 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "Coupang Eats faces 25 billion to 42 billion won"
+      - claim: estimated Coupang Eats fine upper bound
+        kind: numerical_with_unit
+        value: "42 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "Coupang Eats faces 25 billion to 42 billion won"
+      - claim: named product — Baemin Delivery service
+        kind: named_product
+        value: "Baemin Delivery"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "manipulated estimated delivery times in its main interface to favour its own \"Baemin Delivery\" service over the merchant-led \"Store Delivery\" option"
+      - claim: named product — Store Delivery option
+        kind: named_product
+        value: "Store Delivery"
+        source_urls:
+          - https://www.koreatimes.co.kr/business/companies/20260618/hefty-fines-loom-for-baemin-coupang-eats-as-ftc-rejects-self-correction-bids
+        verbatim_excerpt: "over the merchant-led \"Store Delivery\" option"
+    quotes: []
+
+  - story_id: fsc-meeting-ai-financial-sector
+    category: tech
+    headline_en: FSC Holds Meeting on AI in Financial Sector
+    lead_url: https://www.fsc.go.kr/eng/pr010101
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.fsc.go.kr/eng/pr010101
+    hard_facts:
+      - claim: meeting date
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.fsc.go.kr/eng/pr010101
+        verbatim_excerpt: "South Korea's Financial Services Commission held a stakeholder meeting on June 18"
+      - claim: FSC Vice Chairman name
+        kind: named_person
+        value: "Kwon Dae-young"
+        source_urls:
+          - https://www.fsc.go.kr/eng/pr010101
+        verbatim_excerpt: "FSC Vice Chairman Kwon Dae-young chaired the session"
+      - claim: named institution — Financial Services Commission
+        kind: named_institution
+        value: "Financial Services Commission"
+        source_urls:
+          - https://www.fsc.go.kr/eng/pr010101
+        verbatim_excerpt: "South Korea's Financial Services Commission held a stakeholder meeting on June 18"
+    quotes:
+      - speaker_name: Kwon Dae-young
+        speaker_title: FSC Vice Chairman
+        verbatim_en: "clear standards established to make sure that innovation is sought responsibly."
+        source_url: https://www.fsc.go.kr/eng/pr010101
+        context: FSC stakeholder meeting on AI in financial sector on June 18 2026
+
+  - story_id: heat-related-er-visits-rise-sharply
+    category: society
+    headline_en: Heat-Related ER Visits Rise Sharply
+    lead_url: https://www.koreaherald.com/article/10775021
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/20260618/first-heat-wave-alerts-of-year-issued-for-seoul-surrounding-areas
+    locked_urls:
+      - https://www.koreaherald.com/article/10775021
+      - https://www.koreatimes.co.kr/southkorea/20260618/first-heat-wave-alerts-of-year-issued-for-seoul-surrounding-areas
+    hard_facts:
+      - claim: ER visits for heat-related illness as of mid-June 2026
+        kind: numerical_with_unit
+        value: "300"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "South Korea recorded 300 emergency room visits for heat-related illnesses as of mid-June 2026"
+      - claim: ER visits for heat-related illness same period 2025
+        kind: numerical_with_unit
+        value: "192 cases"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "compared with 192 cases during the equivalent period in 2025"
+      - claim: year-on-year increase in heat ER visits
+        kind: numerical_with_unit
+        value: "more than 56 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "a year-on-year increase of more than 56 percent"
+      - claim: single-day ER visits for heat illness in mid-June
+        kind: numerical_with_unit
+        value: "13 people"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "On a single Tuesday in mid-June, 13 people required emergency treatment on one day alone"
+      - claim: spring 2026 average temperature
+        kind: numerical_with_unit
+        value: "13.3°C"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "Spring 2026 averaged 13.3°C, 1.4 degrees above the 30-year baseline"
+      - claim: spring 2026 temperature anomaly above 30-year baseline
+        kind: numerical_with_unit
+        value: "1.4 degrees above the 30-year baseline"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "1.4 degrees above the 30-year baseline"
+      - claim: ranking of spring 2026 temperature since records began
+        kind: numerical_with_unit
+        value: "second-highest"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "marking the second-highest spring temperature since records began in 1973"
+      - claim: start year of temperature records
+        kind: temporal
+        value: "1973"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "since records began in 1973"
+      - claim: probability June and July temperatures exceed norms
+        kind: numerical_with_unit
+        value: "60 percent probability"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "projects a 60 percent probability that June and July temperatures will exceed seasonal norms"
+      - claim: probability August temperatures exceed norms
+        kind: numerical_with_unit
+        value: "50 percent chance"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "with August having a 50 percent chance of above-average heat"
+      - claim: date first heat wave advisory issued
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "The nation's first heat wave advisory was issued on June 18 for North Gyeongsang Province"
+      - claim: location of first heat wave advisory
+        kind: named_institution
+        value: "North Gyeongsang Province"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "The nation's first heat wave advisory was issued on June 18 for North Gyeongsang Province"
+      - claim: date of first heat-related death in 2026
+        kind: temporal
+        value: "May 15"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "the first heat-related death of 2026 was recorded on May 15"
+      - claim: named institution — Korea Meteorological Administration
+        kind: named_institution
+        value: "Korea Meteorological Administration"
+        source_urls:
+          - https://www.koreaherald.com/article/10775021
+        verbatim_excerpt: "The Korea Meteorological Administration projects a 60 percent probability"
+    quotes: []
+
+  - story_id: south-korea-hair-loss-insurance-backlash
+    category: society
+    headline_en: South Korea's Hair-Loss Insurance Proposal Draws Backlash
+    lead_url: https://www.koreaherald.com/article/10775868
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10775868
+    hard_facts:
+      - claim: Health and Welfare Minister name
+        kind: named_person
+        value: "Jung Eun-kyeong"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "Health and Welfare Minister Jung Eun-kyeong having named the initiative as a government priority for H2 2026"
+      - claim: policy timeline designation
+        kind: temporal
+        value: "H2 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "named the initiative as a government priority for H2 2026"
+      - claim: opposing medical expert name and affiliation
+        kind: named_person
+        value: "Chung Jae-hoon"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "Korea University Professor Chung Jae-hoon argued"
+      - claim: named institution — Korea University
+        kind: named_institution
+        value: "Korea University"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "Korea University Professor Chung Jae-hoon"
+      - claim: named institution — Korea Alliance of Patients Organization
+        kind: named_institution
+        value: "Korea Alliance of Patients Organization"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "The Korea Alliance of Patients Organization described the proposal"
+      - claim: annual cost estimate lower bound
+        kind: numerical_with_unit
+        value: "100 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "Annual cost estimates range from 100 billion to 700 billion won"
+      - claim: annual cost estimate upper bound
+        kind: numerical_with_unit
+        value: "700 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "Annual cost estimates range from 100 billion to 700 billion won"
+      - claim: projected year reserve funds could be depleted
+        kind: temporal
+        value: "2033"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "Government projections show the system's reserve funds could be depleted by 2033"
+      - claim: date of planned public policy forum
+        kind: temporal
+        value: "July 4"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "The Health Ministry plans to hold a public policy forum on July 4 for further consultation"
+      - claim: named institution — Ministry of Health and Welfare
+        kind: named_institution
+        value: "Ministry of Health and Welfare"
+        source_urls:
+          - https://www.koreaherald.com/article/10775868
+        verbatim_excerpt: "South Korea's Ministry of Health and Welfare is considering extending national health insurance coverage"
+    quotes:
+      - speaker_name: Chung Jae-hoon
+        speaker_title: Professor, Korea University
+        verbatim_en: "male-pattern hair loss caused by aging and genetics is not a disease that threatens"
+        source_url: https://www.koreaherald.com/article/10775868
+        context: statement opposing extension of national health insurance to hair-loss treatments
+      - speaker_name: Korea Alliance of Patients Organization
+        speaker_title: Korea Alliance of Patients Organization
+        verbatim_en: "a dangerous populist policy"
+        source_url: https://www.koreaherald.com/article/10775868
+        context: characterisation of the hair-loss insurance proposal
+
+  - story_id: incheon-hospital-amputated-leg-recycling
+    category: society
+    headline_en: Incheon Hospital Says Amputated Leg Found at Recycling Centre Was Discarded by Mistake
+    lead_url: https://www.koreaherald.com/article/10774847
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10774847
+    hard_facts:
+      - claim: date hospital informed police
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreaherald.com/article/10774847
+        verbatim_excerpt: "A nursing hospital in Incheon informed police on June 18"
+      - claim: location of recycling facility
+        kind: named_institution
+        value: "Southern Regional Resource Recovery Centre in Songdo, Incheon"
+        source_urls:
+          - https://www.koreaherald.com/article/10774847
+        verbatim_excerpt: "human leg discovered at the Southern Regional Resource Recovery Centre in Songdo, Incheon"
+      - claim: time limb was found
+        kind: temporal
+        value: "2:28 p.m."
+        source_urls:
+          - https://www.koreaherald.com/article/10774847
+        verbatim_excerpt: "found at 2:28 p.m. on June 10 by a recycling facility employee"
+      - claim: date limb was found
+        kind: temporal
+        value: "June 10"
+        source_urls:
+          - https://www.koreaherald.com/article/10774847
+        verbatim_excerpt: "found at 2:28 p.m. on June 10 by a recycling facility employee"
+      - claim: patient age and gender
+        kind: numerical_with_unit
+        value: "female patient in her 80s"
+        source_urls:
+          - https://www.koreaherald.com/article/10774847
+        verbatim_excerpt: "belonged to a female patient in her 80s being treated for necrosis in her left leg"
+      - claim: forensic height estimate for leg owner
+        kind: numerical_with_unit
+        value: "161–165 centimetres"
+        source_urls:
+          - https://www.koreaherald.com/article/10774847
+        verbatim_excerpt: "the leg belonged to an adult measuring 161–165 centimetres in height"
+      - claim: named institution — National Forensic Service
+        kind: named_institution
+        value: "National Forensic Service"
+        source_urls:
+          - https://www.koreaherald.com/article/10774847
+        verbatim_excerpt: "requested comparative analysis from the National Forensic Service"
+    quotes:
+      - speaker_name: hospital spokesperson
+        speaker_title: Nursing hospital in Incheon
+        verbatim_en: "had been disposed of as medical waste, but a cleaning staff member mistook it for part of a mannequin and sorted it as recyclable waste."
+        source_url: https://www.koreaherald.com/article/10774847
+        context: hospital explanation to police on June 18 2026
+
+  - story_id: overcharging-hotels-risk-star-rating-loss
+    category: society
+    headline_en: Overcharging Hotels Risk Losing Star Rating
+    lead_url: https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+    hard_facts:
+      - claim: announcement date of revised hotel rating guidelines
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+        verbatim_excerpt: "South Korea's Ministry of Culture, Sports and Tourism announced on June 18 revised guidelines"
+      - claim: overcharging point deduction
+        kind: numerical_with_unit
+        value: "30-point deduction"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+        verbatim_excerpt: "impose a 30-point deduction for overcharging customers"
+      - claim: deduction for other violations
+        kind: numerical_with_unit
+        value: "10-point penalty"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+        verbatim_excerpt: "three times heavier than the 10-point penalty applied for most other violations"
+      - claim: point gap between rating tiers
+        kind: numerical_with_unit
+        value: "100-point gap"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+        verbatim_excerpt: "only a 100-point gap separates rating tiers"
+      - claim: average nightly rate during BTS Busan concert weekend
+        kind: numerical_with_unit
+        value: "433,999 won"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+        verbatim_excerpt: "average nightly rates during the concert weekend reached 433,999 won"
+      - claim: multiplier of BTS concert weekend rates vs surrounding weekends
+        kind: numerical_with_unit
+        value: "2.4 times higher"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+        verbatim_excerpt: "2.4 times higher than on surrounding weekends"
+      - claim: named institution — Ministry of Culture, Sports and Tourism
+        kind: named_institution
+        value: "Ministry of Culture, Sports and Tourism"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+        verbatim_excerpt: "South Korea's Ministry of Culture, Sports and Tourism announced on June 18"
+      - claim: named product — BTS concerts in Busan
+        kind: named_product
+        value: "BTS concerts in Busan"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260618/overcharging-hotels-risk-losing-star-rating-under-new-rules
+        verbatim_excerpt: "triggered by controversy during BTS concerts in Busan"
+    quotes: []
+
+  - story_id: stradvision-kosdaq-ipo-12000-won
+    category: ipo_ma
+    headline_en: StradVision Opens Retail Subscription for KOSDAQ IPO at 12,000 Won per Share
+    lead_url: https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+    hard_facts:
+      - claim: named institution — StradVision
+        kind: named_institution
+        value: "StradVision"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "StradVision, a South Korean automotive AI vision-perception software company founded in 2014"
+      - claim: company founding year
+        kind: temporal
+        value: "2014"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "a South Korean automotive AI vision-perception software company founded in 2014"
+      - claim: retail subscription period
+        kind: temporal
+        value: "June 18–19"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "opened its retail investor subscription period on June 18–19"
+      - claim: KOSDAQ listing date
+        kind: temporal
+        value: "June 30"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "upcoming KOSDAQ listing, scheduled for June 30"
+      - claim: final IPO price
+        kind: numerical_with_unit
+        value: "12,000 won"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "The company set its final IPO price at 12,000 won"
+      - claim: IPO price band
+        kind: numerical_with_unit
+        value: "12,000–14,000 won"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "the bottom of its proposed 12,000–14,000 won price band"
+      - claim: total newly issued shares in offering
+        kind: numerical_with_unit
+        value: "7 million newly issued shares"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "the total offering of 7 million newly issued shares"
+      - claim: gross IPO proceeds
+        kind: numerical_with_unit
+        value: "84 billion won (approximately $57 million)"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "implies gross IPO proceeds of 84 billion won (approximately $57 million)"
+      - claim: institutional demand forecasting period
+        kind: temporal
+        value: "June 9–15"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "Institutional demand forecasting (June 9–15)"
+      - claim: number of firms in institutional demand forecasting
+        kind: numerical_with_unit
+        value: "1,604 firms"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "drew 1,604 firms and a competition ratio of 381.3-to-1"
+      - claim: institutional demand competition ratio
+        kind: numerical_with_unit
+        value: "381.3-to-1"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "a competition ratio of 381.3-to-1"
+      - claim: named product — SVNet software
+        kind: named_product
+        value: "SVNet"
+        source_urls:
+          - https://en.sedaily.com/news/2026/06/17/stradvision-sets-ipo-price-at-12000-won-to-lower-entry
+        verbatim_excerpt: "StradVision's flagship SVNet software"
+    quotes: []
+
+  - story_id: south-korea-military-counterdrone-hardening
+    category: other
+    headline_en: South Korea Military Moves to Harden Key Facilities Against Drone Swarms
+    lead_url: https://www.koreaherald.com/article/10775858
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10775858
+    hard_facts:
+      - claim: date study commissioned
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreaherald.com/article/10775858
+        verbatim_excerpt: "South Korea's Joint Chiefs of Staff commissioned a study on June 18"
+      - claim: named institution — Joint Chiefs of Staff
+        kind: named_institution
+        value: "Joint Chiefs of Staff"
+        source_urls:
+          - https://www.koreaherald.com/article/10775858
+        verbatim_excerpt: "South Korea's Joint Chiefs of Staff commissioned a study on June 18"
+    quotes:
+      - speaker_name: military officials
+        speaker_title: South Korea military officials
+        verbatim_en: "exposed upper sections of storage facilities, windows, doors, ventilation openings and electric and communications equipment."
+        source_url: https://www.koreaherald.com/article/10775858
+        context: identification of structural vulnerabilities at military installations
+
+  - story_id: senate-armed-services-korea-us-submarine
+    category: other
+    headline_en: US Senate Armed Services Committee Endorses Korea-US Submarine Manufacturing Cooperation in NDAA Report
+    lead_url: https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+    hard_facts:
+      - claim: NDAA fiscal year covered
+        kind: temporal
+        value: "Fiscal Year 2027"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "National Defense Authorization Act for Fiscal Year 2027, published on June 18, 2026"
+      - claim: report publication date
+        kind: temporal
+        value: "June 18, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "published on June 18, 2026"
+      - claim: named institution — U.S. Senate Armed Services Committee
+        kind: named_institution
+        value: "U.S. Senate Armed Services Committee"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "The U.S. Senate Armed Services Committee expressed formal support"
+      - claim: Defense Secretary name
+        kind: named_person
+        value: "Pete Hegseth"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "directed Defense Secretary Pete Hegseth"
+      - claim: Secretary of State name
+        kind: named_person
+        value: "Marco Rubio"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "and Secretary of State Marco Rubio to submit a comprehensive report"
+      - claim: deadline for report submission to Senate committees
+        kind: temporal
+        value: "February 1, 2027"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "no later than February 1, 2027"
+      - claim: named institution — Senate Foreign Relations Committee
+        kind: named_institution
+        value: "Senate Foreign Relations Committee"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "to the Senate Armed Services Committee and the Senate Foreign Relations Committee"
+      - claim: date of prior US-South Korea joint fact sheet
+        kind: temporal
+        value: "November 2025"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "builds on a November 2025 joint U.S.-South Korea fact sheet following the Lee-Trump summit"
+      - claim: South Korea submarine programme name
+        kind: named_product
+        value: "Jang Bogo-N"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "South Korea's own formal submarine programme — designated the \"Jang Bogo-N\" project"
+      - claim: target first launch timeframe for Jang Bogo-N
+        kind: temporal
+        value: "mid-2030s"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "which targets a first launch in the mid-2030s"
+      - claim: target commissioning timeframe for Jang Bogo-N
+        kind: temporal
+        value: "late 2030s"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        verbatim_excerpt: "and commissioning in the late 2030s"
+    quotes:
+      - speaker_name: U.S. Senate Armed Services Committee
+        speaker_title: U.S. Senate Armed Services Committee
+        verbatim_en: "The committee supports bilateral cooperation on submarine manufacturing with South Korea and acknowledges the potential positive implications for stability and security in the Indo-Pacific region."
+        source_url: https://www.koreatimes.co.kr/foreignaffairs/20260618/senate-committee-supports-s-korea-us-cooperation-on-sub-manufacturing-in-report
+        context: NDAA FY2027 report published June 18 2026
