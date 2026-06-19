@@ -35,7 +35,7 @@ The release landed the same morning as Deputy Governor Himino's parliamentary te
 
 The Nikkei 225 closed at a record high of 71,952.99 on June 19, 2026, its fourth straight session of gains, as optimism over the US-Iran memorandum of understanding lifted risk appetite across Asia-Pacific markets. President Trump's interim agreement to end the conflict and reopen the Strait of Hormuz eased fears for energy-import-dependent Japan, fuelling the rally.
 
-Trading Economics put the benchmark up 1.80% at 71,158 on the day, with the advance led by Murata Manufacturing, which jumped 12.38%. Ajinomoto rose 8.41% and Recruit Holdings added 6.89%. The broader Topix also touched a fresh record.
+Trading Economics put the benchmark up 1.80% at 71,158 on the day, with the advance led by Murata Manufacturing, which jumped 12.38%. Ajinomoto rose 8.41% and Recruit Holdings added 6.89%.
 
 A weaker yen added fuel by inflating the value of overseas earnings for export-heavy names. The run extends a 2026 streak of record highs powered by easing Middle East tensions, even as the BOJ tightens policy in the background.
 
@@ -125,6 +125,7 @@ The approach reflects Japan's bet on "agile governance" — continuously cycling
 
 [17] Nikkei Asia. (2026, June 19). Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats. Nikkei Asia. https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-continuous-ai-legal-reforms-to-counter-mythos-level-threats
 [18] CSIS. (2026, June). Japan's Agile AI Governance in Action. Center for Strategic and International Studies. https://www.csis.org/analysis/japans-agile-ai-governance-action-fostering-global-nexus-through-pluralistic
+[19] The Japan Times. (2026, June 3). Japanese government and banks granted access to Claude Mythos. The Japan Times. https://www.japantimes.co.jp/business/2026/06/03/tech/japan-anthropic-mythos/
 
 ---
 
@@ -138,8 +139,8 @@ The build-out underscores how aggressively Chinese cloud providers are competing
 
 **References**
 
-[19] IT Business Today. (2026, June 19). Alibaba Cloud expands AI infrastructure in Japan. IT Business Today. https://itbusinesstoday.com/tech/cloud/alibaba-cloud-expands-ai-infrastructure-in-japan/
-[20] Nikkei Asia. (2026, June 19). Alibaba's cloud arm opens 5th Japan data center, adding new AI services. Nikkei Asia. https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-cloud-arm-opens-5th-japan-data-center-adding-new-ai-services
+[20] IT Business Today. (2026, June 19). Alibaba Cloud expands AI infrastructure in Japan. IT Business Today. https://itbusinesstoday.com/tech/cloud/alibaba-cloud-expands-ai-infrastructure-in-japan/
+[21] Nikkei Asia. (2026, June 19). Alibaba's cloud arm opens 5th Japan data center, adding new AI services. Nikkei Asia. https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-cloud-arm-opens-5th-japan-data-center-adding-new-ai-services
 
 ---
 
@@ -159,8 +160,8 @@ The crunch is compounded by stagnant nursing wages, gruelling working conditions
 
 **References**
 
-[21] AFP. (2026, June 19). Japan doctor turned author moots amputations to ease care crunch. The Star. https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/19/japan-doctor-turned-author-moots-amputations-to-ease-care-crunch
-[22] ISVD. (2026, March 9). The structure of Japan's care worker crisis — the 'invisible roadmap' to 2040. Institute for the Study of Voluntary Disability. https://isvd.or.jp/en/columns/2026-03-09-care-worker-shortage-structure
+[22] AFP. (2026, June 19). Japan doctor turned author moots amputations to ease care crunch. The Star. https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/19/japan-doctor-turned-author-moots-amputations-to-ease-care-crunch
+[23] ISVD. (2026, March 9). The structure of Japan's care worker crisis — the 'invisible roadmap' to 2040. Institute for the Study of Voluntary Disability. https://isvd.or.jp/en/columns/2026-03-09-care-worker-shortage-structure
 
 ---
 
@@ -172,7 +173,7 @@ The cause of the fire and the extent of structural damage were still under inves
 
 **References**
 
-[23] Associated Press. (2026, June 19). More than 300 children, teachers evacuated and rescued after fire breaks out at Tokyo school. ABC News. https://abcnews.com/International/wireStory/300-children-teachers-evacuated-rescued-after-fire-breaks-134022612
+[24] Associated Press. (2026, June 19). More than 300 children, teachers evacuated and rescued after fire breaks out at Tokyo school. ABC News. https://abcnews.com/International/wireStory/300-children-teachers-evacuated-rescued-after-fire-breaks-134022612
 
 ---
 
@@ -198,7 +199,7 @@ Japan is bracing for a more active-than-usual typhoon year in 2026, and the earl
 
 **References**
 
-[24] News On Japan. (2026, June 19). Weekend downpours expected as Typhoon No. 7 looms. News On Japan. https://newsonjapan.com/article/149729.php
+[25] News On Japan. (2026, June 19). Weekend downpours expected as Typhoon No. 7 looms. News On Japan. https://newsonjapan.com/article/149729.php
 
 ---
 
@@ -212,9 +213,9 @@ The damage is already visible in the data. Japan's naphtha imports have recovere
 
 **References**
 
-[25] Yoneda, Y., Tani, S., Konishi, Y., & Okutsu, A. (2026, June 19). Corporate Japan warns of 'new normal' for supply chains after US-Iran deal. Nikkei Asia. https://asia.nikkei.com/spotlight/iran-tensions/iran-war/corporate-japan-warns-of-new-normal-for-supply-chains-after-us-iran-deal
-[26] ICAEW. (2026, June). Iran deal: how long until supply chains recover? ICAEW Insights. https://www.icaew.com/insights/viewpoints-on-the-news/2026/jun-2026/iran-deal-how-long-until-supply-chains-recover
-[27] South China Morning Post. (2026, June 19). Shipowners hold off on Hormuz transit until US-Iran deal proves 'material'. South China Morning Post. https://www.scmp.com/news/world/middle-east/article/3357254/shipowners-hold-hormuz-transit-until-us-iran-deal-proves-material
+[26] Yoneda, Y., Tani, S., Konishi, Y., & Okutsu, A. (2026, June 19). Corporate Japan warns of 'new normal' for supply chains after US-Iran deal. Nikkei Asia. https://asia.nikkei.com/spotlight/iran-tensions/iran-war/corporate-japan-warns-of-new-normal-for-supply-chains-after-us-iran-deal
+[27] ICAEW. (2026, June). Iran deal: how long until supply chains recover? ICAEW Insights. https://www.icaew.com/insights/viewpoints-on-the-news/2026/jun-2026/iran-deal-how-long-until-supply-chains-recover
+[28] South China Morning Post. (2026, June 19). Shipowners hold off on Hormuz transit until US-Iran deal proves 'material'. South China Morning Post. https://www.scmp.com/news/world/middle-east/article/3357254/shipowners-hold-hormuz-transit-until-us-iran-deal-proves-material
 
 ---
 
