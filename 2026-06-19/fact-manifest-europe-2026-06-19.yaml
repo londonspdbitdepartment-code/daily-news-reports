@@ -1,0 +1,819 @@
+version: 1
+generated_at: "2026-06-19T12:00:00Z"
+country: Europe
+date: "2026-06-19"
+total_stories: 12
+stories:
+  - story_id: ecb-consolidated-banking-data-q4-2025
+    category: econ
+    headline_en: "ECB publishes consolidated EU banking data for Q4 2025: total assets €33.5tn, NPL ratio falls to 1.97%"
+    lead_url: https://www.ecb.europa.eu/stats/supervisory/html/index.en.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ecb.europa.eu/stats/supervisory/html/index.en.html
+    hard_facts:
+      - claim: publication date of ECB consolidated banking data
+        kind: temporal
+        value: "19 June 2026"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "The ECB published its consolidated banking data for end-December 2025 on 19 June 2026."
+      - claim: number of significant banking groups under ECB supervision
+        kind: numerical
+        value: "332"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "The 332 significant banking groups and 2,292 less significant stand-alone institutions under ECB supervision"
+      - claim: number of less significant stand-alone institutions under ECB supervision
+        kind: numerical
+        value: "2,292"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "The 332 significant banking groups and 2,292 less significant stand-alone institutions under ECB supervision"
+      - claim: combined total assets of SSM-supervised banks
+        kind: numerical_with_unit
+        value: "€33.50 trillion"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "held combined total assets of €33.50 trillion, up 1.6% on a quarterly basis"
+      - claim: quarterly growth in total assets
+        kind: numerical_with_unit
+        value: "1.6%"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "up 1.6% on a quarterly basis"
+      - claim: non-performing loan ratio
+        kind: numerical_with_unit
+        value: "1.97%"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "The non-performing loan (NPL) ratio fell to 1.97%"
+      - claim: return on equity
+        kind: numerical_with_unit
+        value: "9.3%"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "Return on equity (ROE) stood at 9.3%."
+      - claim: CET1 capital ratio
+        kind: numerical_with_unit
+        value: "16.42%"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "The common equity tier 1 (CET1) capital ratio was 16.42%"
+      - claim: CET1 regulatory minimum
+        kind: numerical_with_unit
+        value: "4.5%"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "well above the 4.5% regulatory minimum"
+      - claim: reference period for consolidated banking data
+        kind: temporal
+        value: "end-December 2025"
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "The ECB published its consolidated banking data for end-December 2025 on 19 June 2026."
+      - claim: named institution publishing the data
+        kind: named_institution
+        value: ECB
+        source_urls: [https://www.ecb.europa.eu/stats/supervisory/html/index.en.html]
+        verbatim_excerpt: "The ECB published its consolidated banking data"
+    quotes: []
+
+  - story_id: us-section-301-probe-germany-pharma-pricing
+    category: econ
+    headline_en: "US launches Section 301 trade probe into Germany over pharmaceutical pricing practices"
+    lead_url: https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-19/us-opens-trade-probe-into-germany-pharma-pricing
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing
+      - https://www.bloomberg.com/news/articles/2026-06-19/us-opens-trade-probe-into-germany-pharma-pricing
+    hard_facts:
+      - claim: date of Section 301 investigation initiation
+        kind: temporal
+        value: "19 June 2026"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing
+          - https://www.bloomberg.com/news/articles/2026-06-19/us-opens-trade-probe-into-germany-pharma-pricing
+        verbatim_excerpt: "USTR Jamieson Greer on 19 June 2026 initiated a Section 301 investigation"
+      - claim: named person initiating the probe
+        kind: named_person
+        value: Jamieson Greer
+        source_urls:
+          - https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing
+          - https://www.bloomberg.com/news/articles/2026-06-19/us-opens-trade-probe-into-germany-pharma-pricing
+        verbatim_excerpt: "USTR Jamieson Greer on 19 June 2026 initiated a Section 301 investigation"
+      - claim: named institution initiating the probe
+        kind: named_institution
+        value: USTR
+        source_urls:
+          - https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing
+          - https://www.bloomberg.com/news/articles/2026-06-19/us-opens-trade-probe-into-germany-pharma-pricing
+        verbatim_excerpt: "USTR Jamieson Greer on 19 June 2026 initiated a Section 301 investigation"
+      - claim: named product/law targeted by the probe
+        kind: named_product
+        value: Arzneimittelmarkt-Neuordnungsgesetz (AMNOG)
+        source_urls: [https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing]
+        verbatim_excerpt: "The probe targets Germany's Arzneimittelmarkt-Neuordnungsgesetz (AMNOG) system"
+      - claim: named institution negotiating drug rebates under AMNOG
+        kind: named_institution
+        value: GKV
+        source_urls: [https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing]
+        verbatim_excerpt: "the statutory health insurance (GKV) negotiates rebates with drugmakers after launch"
+      - claim: scheduled public hearing date
+        kind: temporal
+        value: September 2026
+        source_urls: [https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing]
+        verbatim_excerpt: "A public hearing is scheduled for September 2026."
+      - claim: legislative basis for trade measures
+        kind: named_product
+        value: "Section 301 of the Trade Act of 1974"
+        source_urls: [https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing]
+        verbatim_excerpt: "the USTR may impose tariffs or other trade measures under Section 301 of the Trade Act of 1974"
+    quotes: []
+
+  - story_id: european-council-june-2026-summit-conclusions
+    category: politics
+    headline_en: "European Council concludes June 2026 summit: Ukraine accession cluster opened, defence readiness target 2030, €90bn disbursement approved, Russia sanctions extended 12 months"
+    lead_url: https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+    body_source: full
+    corroborated_by:
+      - https://www.consilium.europa.eu/en/press/press-releases/2026/06/18/european-council-conclusions-on-ukraine-and-on-european-defence-and-security/
+      - https://www.euronews.com/my-europe/2026/06/18/eu-summit-leaders-and-zelenskyy-to-debate-accession-and-peace-negotiations
+      - https://www.eunews.it/en/2026/06/18/ukraine-china-global-challenges-and-the-row-over-the-common-budget-the-two-day-eu-leaders-summit/
+    locked_urls:
+      - https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+      - https://www.consilium.europa.eu/en/press/press-releases/2026/06/18/european-council-conclusions-on-ukraine-and-on-european-defence-and-security/
+      - https://www.euronews.com/my-europe/2026/06/18/eu-summit-leaders-and-zelenskyy-to-debate-accession-and-peace-negotiations
+      - https://www.eunews.it/en/2026/06/18/ukraine-china-global-challenges-and-the-row-over-the-common-budget-the-two-day-eu-leaders-summit/
+    hard_facts:
+      - claim: European Council meeting dates
+        kind: temporal
+        value: "18-19 June 2026"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/18/european-council-conclusions-on-ukraine-and-on-european-defence-and-security/
+        verbatim_excerpt: "The European Council meeting of 18-19 June 2026 concluded on 19 June"
+      - claim: Ukraine Facility disbursement tranche approved
+        kind: numerical_with_unit
+        value: "€90 billion"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/18/european-council-conclusions-on-ukraine-and-on-european-defence-and-security/
+        verbatim_excerpt: "approval of the disbursement of the next €90 billion tranche of Ukraine Facility loan support before end-June 2026"
+      - claim: deadline for Ukraine Facility disbursement
+        kind: temporal
+        value: "end-June 2026"
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "approval of the disbursement of the next €90 billion tranche of Ukraine Facility loan support before end-June 2026"
+      - claim: Russia sanctions extension duration
+        kind: temporal
+        value: "12 months"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+          - https://www.consilium.europa.eu/en/press/press-releases/2026/06/18/european-council-conclusions-on-ukraine-and-on-european-defence-and-security/
+        verbatim_excerpt: "unanimous extension of economic sanctions on Russia for 12 months"
+      - claim: defence readiness target year
+        kind: temporal
+        value: "2030"
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "a defence readiness target requiring all member states to achieve military capability benchmarks by 2030"
+      - claim: named institution - European Council
+        kind: named_institution
+        value: European Council
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "The European Council meeting of 18-19 June 2026"
+      - claim: first all-27 unanimous Ukraine conclusion since
+        kind: temporal
+        value: "March 2025"
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "the first all-27 unanimous conclusion on Ukraine since March 2025"
+      - claim: named person - former Hungarian PM removed
+        kind: named_person
+        value: Viktor Orbán
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "following Hungary's government change that removed Viktor Orbán"
+      - claim: new Hungarian PM
+        kind: named_person
+        value: "Péter Magyar"
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "new Hungarian PM Péter Magyar made his European Council debut"
+      - claim: EU-China trade deficit 2025
+        kind: numerical_with_unit
+        value: "€360 billion"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+          - https://www.eunews.it/en/2026/06/18/ukraine-china-global-challenges-and-the-row-over-the-common-budget-the-two-day-eu-leaders-summit/
+        verbatim_excerpt: "EU-China trade deficit reached €360 billion in 2025"
+      - claim: EU-China trade deficit reference year
+        kind: temporal
+        value: "2025"
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "EU-China trade deficit reached €360 billion in 2025"
+      - claim: named person - Commission President
+        kind: named_person
+        value: Ursula von der Leyen
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "Von der Leyen said"
+      - claim: named product - EU defence framework
+        kind: named_product
+        value: ReArm/SAFE
+        source_urls: [https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/]
+        verbatim_excerpt: "operationalising the EU's ReArm/SAFE framework"
+    quotes:
+      - speaker_name: Ursula von der Leyen
+        speaker_title: European Commission President
+        verbatim_en: "The tide is turning. Ukraine is holding the line."
+        source_url: https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+        context: closing remarks at European Council summit, 19 June 2026
+      - speaker_name: "Péter Magyar"
+        speaker_title: Prime Minister of Hungary
+        verbatim_en: "different method"
+        source_url: https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+        context: European Council debut, 19 June 2026
+
+  - story_id: costa-defends-diplomatic-channel-russia
+    category: politics
+    headline_en: "Costa defends surprise decision to open diplomatic channel with Russia; EU member states divided"
+    lead_url: https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia
+    hard_facts:
+      - claim: date of Costa's defence statement
+        kind: temporal
+        value: "19 June 2026"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia]
+        verbatim_excerpt: "European Council President António Costa on 19 June 2026 defended his decision"
+      - claim: named person - European Council President
+        kind: named_person
+        value: "António Costa"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia]
+        verbatim_excerpt: "European Council President António Costa on 19 June 2026"
+      - claim: named person - Costa's chief of cabinet
+        kind: named_person
+        value: Pedro Lourtie
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia]
+        verbatim_excerpt: "his chief of cabinet, Pedro Lourtie, to hold telephone calls with a Kremlin aide"
+      - claim: named person - Polish PM critical of contacts
+        kind: named_person
+        value: Donald Tusk
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia]
+        verbatim_excerpt: "Polish Prime Minister Donald Tusk and Baltic leaders described the contact as premature"
+      - claim: named person - Ukrainian President's position
+        kind: named_person
+        value: Zelenskyy
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia]
+        verbatim_excerpt: "Ukrainian President Zelenskyy reiterated that any peace process must be driven by Ukraine"
+    quotes:
+      - speaker_name: "António Costa"
+        speaker_title: European Council President
+        verbatim_en: "brief contacts with no exchange on substance."
+        source_url: https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia
+        context: defence statement on 19 June 2026 regarding Kremlin telephone contacts
+
+  - story_id: andy-burnham-wins-makerfield-by-election
+    category: politics
+    headline_en: "Andy Burnham wins UK Makerfield by-election, positioning himself as Labour leadership rival to Starmer"
+    lead_url: https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/19/makerfield-burnham-election
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election
+      - https://www.npr.org/2026/06/19/makerfield-burnham-election
+    hard_facts:
+      - claim: Andy Burnham by-election vote total
+        kind: numerical
+        value: "24,927"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election
+          - https://www.npr.org/2026/06/19/makerfield-burnham-election
+        verbatim_excerpt: "taking 24,927 votes and defeating Reform UK's candidate Kenyon by more than 9,000 votes"
+      - claim: winning margin over Reform UK candidate
+        kind: numerical_with_unit
+        value: "more than 9,000 votes"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election
+          - https://www.npr.org/2026/06/19/makerfield-burnham-election
+        verbatim_excerpt: "defeating Reform UK's candidate Kenyon by more than 9,000 votes"
+      - claim: by-election turnout
+        kind: numerical_with_unit
+        value: "58.75%"
+        source_urls: [https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election]
+        verbatim_excerpt: "Turnout was 58.75%."
+      - claim: Ipsos poll PM preference for Burnham
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls: [https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election]
+        verbatim_excerpt: "25% of voters preferred Burnham as Prime Minister versus 12% for Starmer"
+      - claim: Ipsos poll PM preference for Starmer
+        kind: numerical_with_unit
+        value: "12%"
+        source_urls: [https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election]
+        verbatim_excerpt: "25% of voters preferred Burnham as Prime Minister versus 12% for Starmer"
+      - claim: number of ministerial resignations during period
+        kind: numerical
+        value: "20"
+        source_urls: [https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election]
+        verbatim_excerpt: "The by-election followed a period during which 20 ministerial resignations occurred."
+      - claim: year Burnham has held the Mayoralty since
+        kind: temporal
+        value: "2017"
+        source_urls: [https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election]
+        verbatim_excerpt: "Burnham has held the Mayoralty since 2017."
+      - claim: named person - Burnham
+        kind: named_person
+        value: Andy Burnham
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election
+          - https://www.npr.org/2026/06/19/makerfield-burnham-election
+        verbatim_excerpt: "Andy Burnham, Mayor of Greater Manchester, won the Makerfield parliamentary by-election on 19 June 2026"
+      - claim: named person - Reform UK candidate
+        kind: named_person
+        value: Kenyon
+        source_urls: [https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election]
+        verbatim_excerpt: "defeating Reform UK's candidate Kenyon by more than 9,000 votes"
+      - claim: polling institution
+        kind: named_institution
+        value: Ipsos
+        source_urls: [https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election]
+        verbatim_excerpt: "An Ipsos poll released alongside the result"
+      - claim: date of by-election
+        kind: temporal
+        value: "19 June 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election
+          - https://www.npr.org/2026/06/19/makerfield-burnham-election
+        verbatim_excerpt: "won the Makerfield parliamentary by-election on 19 June 2026"
+    quotes: []
+
+  - story_id: zelenskyy-ukraine-eu-membership-summit
+    category: politics
+    headline_en: "Zelenskyy at EU summit: Ukraine deserves fast EU membership more than any other country; calls Putin peace claims lies"
+    lead_url: https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country
+    hard_facts:
+      - claim: date of Zelenskyy's address to European Council
+        kind: temporal
+        value: "19 June 2026"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country]
+        verbatim_excerpt: "Ukrainian President Volodymyr Zelenskyy addressed the European Council on 19 June 2026"
+      - claim: named person - Ukrainian President
+        kind: named_person
+        value: Volodymyr Zelenskyy
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country]
+        verbatim_excerpt: "Ukrainian President Volodymyr Zelenskyy addressed the European Council on 19 June 2026"
+      - claim: Ukraine Facility tranche referenced
+        kind: numerical_with_unit
+        value: "€90 billion"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country]
+        verbatim_excerpt: "He referenced the newly approved €90 billion facility tranche."
+      - claim: named institution addressed
+        kind: named_institution
+        value: European Council
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country]
+        verbatim_excerpt: "Ukrainian President Volodymyr Zelenskyy addressed the European Council on 19 June 2026"
+      - claim: named person - Russian President
+        kind: named_person
+        value: Vladimir Putin
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country]
+        verbatim_excerpt: "He called Russian President Vladimir Putin's stated openness to peace talks 'lies'"
+    quotes:
+      - speaker_name: Volodymyr Zelenskyy
+        speaker_title: President of Ukraine
+        verbatim_en: "deserves fast EU membership more than any other country"
+        source_url: https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country
+        context: address to European Council, 19 June 2026
+      - speaker_name: Volodymyr Zelenskyy
+        speaker_title: President of Ukraine
+        verbatim_en: "We have survived Orbán."
+        source_url: https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country
+        context: address to European Council, 19 June 2026
+      - speaker_name: Volodymyr Zelenskyy
+        speaker_title: President of Ukraine
+        verbatim_en: "de facto NATO's second-strongest army"
+        source_url: https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country
+        context: address to European Council, 19 June 2026, describing Ukrainian armed forces
+      - speaker_name: Volodymyr Zelenskyy
+        speaker_title: President of Ukraine
+        verbatim_en: "lies"
+        source_url: https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country
+        context: address to European Council, 19 June 2026, on Putin's peace talk openness
+
+  - story_id: european-platform-w-beta-launch-rival-x
+    category: tech
+    headline_en: "European social media platform W launches beta in direct challenge to X, EU Commission joins"
+    lead_url: https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x
+    hard_facts:
+      - claim: date of W platform beta launch
+        kind: temporal
+        value: "19 June 2026"
+        source_urls: [https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x]
+        verbatim_excerpt: "A new European social media platform called 'W' entered closed beta on 19 June 2026"
+      - claim: named product - new platform
+        kind: named_product
+        value: W
+        source_urls: [https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x]
+        verbatim_excerpt: "A new European social media platform called 'W' entered closed beta on 19 June 2026"
+      - claim: named person - platform CEO
+        kind: named_person
+        value: Anna Zeiter
+        source_urls: [https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x]
+        verbatim_excerpt: "The platform is led by CEO Anna Zeiter."
+      - claim: named institution - Swiss infrastructure provider
+        kind: named_institution
+        value: Proton
+        source_urls: [https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x]
+        verbatim_excerpt: "Infrastructure runs on European servers hosted by Proton (Switzerland-based) and UpCloud (Finnish)"
+      - claim: named institution - Finnish infrastructure provider
+        kind: named_institution
+        value: UpCloud
+        source_urls: [https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x]
+        verbatim_excerpt: "Infrastructure runs on European servers hosted by Proton (Switzerland-based) and UpCloud (Finnish)"
+      - claim: named person - EU Commission President joining W
+        kind: named_person
+        value: Ursula von der Leyen
+        source_urls: [https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x]
+        verbatim_excerpt: "European Commission President Ursula von der Leyen and European Council President António Costa both joined the platform"
+      - claim: named person - European Council President joining W
+        kind: named_person
+        value: "António Costa"
+        source_urls: [https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x]
+        verbatim_excerpt: "European Commission President Ursula von der Leyen and European Council President António Costa both joined the platform"
+    quotes: []
+
+  - story_id: unidir-aise-2026-geneva-ai-security
+    category: tech
+    headline_en: "UNIDIR Global Conference on AI, Security and Ethics 2026 convenes in Geneva"
+    lead_url: https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.techtimes.com/articles/318661/20260618/military-ai-governance-enters-enforcement-phase-unidir-opens-geneva-forum-today.htm
+      - https://unidir.org/unidir-centre-of-excellence-on-ai-peace-and-security/
+    locked_urls:
+      - https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/
+      - https://www.techtimes.com/articles/318661/20260618/military-ai-governance-enters-enforcement-phase-unidir-opens-geneva-forum-today.htm
+      - https://unidir.org/unidir-centre-of-excellence-on-ai-peace-and-security/
+    hard_facts:
+      - claim: conference dates
+        kind: temporal
+        value: "18-19 June 2026"
+        source_urls:
+          - https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/
+          - https://www.techtimes.com/articles/318661/20260618/military-ai-governance-enters-enforcement-phase-unidir-opens-geneva-forum-today.htm
+        verbatim_excerpt: "UNIDIR held its Global Conference on AI, Security and Ethics (AISE 2026) on 18-19 June 2026"
+      - claim: conference venue
+        kind: named_institution
+        value: Palais des Nations
+        source_urls: [https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/]
+        verbatim_excerpt: "18-19 June 2026 at the Palais des Nations, Geneva"
+      - claim: named institution co-sponsoring the conference
+        kind: named_institution
+        value: Microsoft
+        source_urls: [https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/]
+        verbatim_excerpt: "co-sponsored by Microsoft"
+      - claim: named institution hosting the conference
+        kind: named_institution
+        value: UNIDIR
+        source_urls:
+          - https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/
+          - https://www.techtimes.com/articles/318661/20260618/military-ai-governance-enters-enforcement-phase-unidir-opens-geneva-forum-today.htm
+        verbatim_excerpt: "UNIDIR held its Global Conference on AI, Security and Ethics (AISE 2026)"
+      - claim: named person - Izumi Nakamitsu speaker
+        kind: named_person
+        value: Izumi Nakamitsu
+        source_urls: [https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/]
+        verbatim_excerpt: "Speakers included Izumi Nakamitsu (UN High Representative for Disarmament Affairs)"
+      - claim: named person - Rafael Grossi speaker
+        kind: named_person
+        value: Rafael Grossi
+        source_urls: [https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/]
+        verbatim_excerpt: "and Rafael Grossi (IAEA Director General)"
+      - claim: named institution - IAEA
+        kind: named_institution
+        value: IAEA
+        source_urls: [https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/]
+        verbatim_excerpt: "Rafael Grossi (IAEA Director General)"
+      - claim: date UNIDIR Centre of Excellence launched
+        kind: temporal
+        value: "17 June"
+        source_urls:
+          - https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/
+          - https://unidir.org/unidir-centre-of-excellence-on-ai-peace-and-security/
+        verbatim_excerpt: "The conference followed UNIDIR's 17 June launch of a permanent Centre of Excellence on AI, Peace and Security"
+      - claim: UN resolution referenced
+        kind: named_product
+        value: UN resolution 80/58
+        source_urls: [https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/]
+        verbatim_excerpt: "pursuant to UN resolution 80/58"
+    quotes: []
+
+  - story_id: spain-heatwave-summer-2026-45c
+    category: society
+    headline_en: "Spain faces first major heatwave of summer 2026: temperatures up to 45°C, peak expected June 22-23"
+    lead_url: https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south
+    hard_facts:
+      - claim: forecast maximum temperature
+        kind: numerical_with_unit
+        value: "45°C"
+        source_urls: [https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south]
+        verbatim_excerpt: "temperatures forecast to reach up to 45°C in southern and central regions"
+      - claim: peak heat dates forecast
+        kind: temporal
+        value: "Monday 22 June through Tuesday 23 June"
+        source_urls: [https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south]
+        verbatim_excerpt: "The peak was forecast for Monday 22 June through Tuesday 23 June."
+      - claim: date of warning report
+        kind: temporal
+        value: "19 June 2026"
+        source_urls: [https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south]
+        verbatim_excerpt: "Spain on 19 June 2026 was bracing for its first major heatwave of the summer"
+      - claim: named person - meteorologist
+        kind: named_person
+        value: "José Antonio Maldonado"
+        source_urls: [https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south]
+        verbatim_excerpt: "Meteorologist José Antonio Maldonado described the event as 'extreme heat.'"
+      - claim: named institution - Spanish meteorological agency
+        kind: named_institution
+        value: AEMET
+        source_urls: [https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south]
+        verbatim_excerpt: "Spain's state meteorological agency AEMET issued heatwave alerts for multiple provinces."
+    quotes:
+      - speaker_name: "José Antonio Maldonado"
+        speaker_title: Meteorologist
+        verbatim_en: "extreme heat."
+        source_url: https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south
+        context: comment on 19 June 2026 regarding Spain heatwave forecast
+
+  - story_id: el-nino-wildfire-fears-portugal-summer
+    category: society
+    headline_en: "El Niño raises wildfire fears in Portugal ahead of summer; climatologists warn of explosive cocktail"
+    lead_url: https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches
+    hard_facts:
+      - claim: date of warning
+        kind: temporal
+        value: "19 June 2026"
+        source_urls: [https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches]
+        verbatim_excerpt: "Climatologists in Portugal warned on 19 June 2026"
+      - claim: named person - climatologist at IPMA
+        kind: named_person
+        value: Carlos da Camara
+        source_urls: [https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches]
+        verbatim_excerpt: "Carlos da Camara, climatologist at the Portuguese Institute for Sea and Atmosphere (IPMA)"
+      - claim: named institution - Portuguese meteorological institute
+        kind: named_institution
+        value: IPMA
+        source_urls: [https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches]
+        verbatim_excerpt: "Carlos da Camara, climatologist at the Portuguese Institute for Sea and Atmosphere (IPMA)"
+      - claim: named institution - WMO El Nino probability assessment
+        kind: named_institution
+        value: World Meteorological Organisation
+        source_urls: [https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches]
+        verbatim_excerpt: "The World Meteorological Organisation assessed an 80-90% probability of continued El Niño conditions through summer 2026."
+      - claim: El Nino continuation probability range
+        kind: numerical_with_unit
+        value: "80-90%"
+        source_urls: [https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches]
+        verbatim_excerpt: "assessed an 80-90% probability of continued El Niño conditions through summer 2026"
+      - claim: IPMA forecast temperature threshold for inland Portugal
+        kind: numerical_with_unit
+        value: "40°C"
+        source_urls: [https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches]
+        verbatim_excerpt: "IPMA forecasts temperatures exceeding 40°C in inland Portugal."
+      - claim: reference disaster - Pedrógão Grande
+        kind: temporal
+        value: "2017"
+        source_urls: [https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches]
+        verbatim_excerpt: "Portugal's 2017 Pedrógão Grande disaster makes the warning significant."
+    quotes:
+      - speaker_name: Carlos da Camara
+        speaker_title: Climatologist, Portuguese Institute for Sea and Atmosphere (IPMA)
+        verbatim_en: "explosive cocktail"
+        source_url: https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches
+        context: warning about Portugal wildfire risk, 19 June 2026
+
+  - story_id: europe-debates-social-media-ban-teenagers
+    category: society
+    headline_en: "Europe debates banning social media for teenagers; girls disproportionately affected, survey data shows"
+    lead_url: https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted
+    hard_facts:
+      - claim: adolescent problematic social media use rate 2018
+        kind: numerical_with_unit
+        value: "7%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Adolescent problematic social media use across Europe rose from 7% in 2018 to 11% in 2022"
+      - claim: adolescent problematic social media use rate 2022
+        kind: numerical_with_unit
+        value: "11%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Adolescent problematic social media use across Europe rose from 7% in 2018 to 11% in 2022"
+      - claim: Romania rate for girls
+        kind: numerical_with_unit
+        value: "28%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Romania recorded the highest rates (28% of girls, 18% of boys)"
+      - claim: Romania rate for boys
+        kind: numerical_with_unit
+        value: "18%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Romania recorded the highest rates (28% of girls, 18% of boys)"
+      - claim: Ireland rate for girls
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "followed by Ireland (25% girls, 13% boys)"
+      - claim: Ireland rate for boys
+        kind: numerical_with_unit
+        value: "13%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "followed by Ireland (25% girls, 13% boys)"
+      - claim: girls 24/7 online contact rate
+        kind: numerical_with_unit
+        value: "44%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Girls report 24/7 online contact at 44% versus 29% for boys."
+      - claim: boys 24/7 online contact rate
+        kind: numerical_with_unit
+        value: "29%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Girls report 24/7 online contact at 44% versus 29% for boys."
+      - claim: France minimum age restriction in legislation
+        kind: numerical_with_unit
+        value: "under-15s"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "France's National Assembly approved legislation restricting social media for under-15s"
+      - claim: Spain proposed minimum age
+        kind: numerical_with_unit
+        value: "16"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Spain proposed raising the minimum age to 16"
+      - claim: Greece proposed ban age
+        kind: numerical_with_unit
+        value: "under-15s"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Greece's PM announced a ban for under-15s pending a summer 2026 vote"
+      - claim: Greece ban vote timeline
+        kind: temporal
+        value: "summer 2026"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Greece's PM announced a ban for under-15s pending a summer 2026 vote"
+      - claim: public support in France
+        kind: numerical_with_unit
+        value: "79%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Public support: 79% in France, 76% UK, 74% Germany, 70% Italy, 68% Spain, 53% Poland."
+      - claim: public support in UK
+        kind: numerical_with_unit
+        value: "76%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Public support: 79% in France, 76% UK, 74% Germany, 70% Italy, 68% Spain, 53% Poland."
+      - claim: public support in Germany
+        kind: numerical_with_unit
+        value: "74%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Public support: 79% in France, 76% UK, 74% Germany, 70% Italy, 68% Spain, 53% Poland."
+      - claim: public support in Italy
+        kind: numerical_with_unit
+        value: "70%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Public support: 79% in France, 76% UK, 74% Germany, 70% Italy, 68% Spain, 53% Poland."
+      - claim: public support in Spain
+        kind: numerical_with_unit
+        value: "68%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Public support: 79% in France, 76% UK, 74% Germany, 70% Italy, 68% Spain, 53% Poland."
+      - claim: public support in Poland
+        kind: numerical_with_unit
+        value: "53%"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "Public support: 79% in France, 76% UK, 74% Germany, 70% Italy, 68% Spain, 53% Poland."
+      - claim: named institution - France's legislative body
+        kind: named_institution
+        value: "France's National Assembly"
+        source_urls: [https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted]
+        verbatim_excerpt: "France's National Assembly approved legislation restricting social media for under-15s"
+    quotes: []
+
+  - story_id: beyond-fossil-fuels-germany-poland-romania-gas
+    category: other
+    headline_en: "Beyond Fossil Fuels report accuses Germany, Poland, Romania of locking EU into gas dependency; near-60 GW of new plants planned"
+    lead_url: https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent
+    hard_facts:
+      - claim: report title
+        kind: named_product
+        value: "Merchants of Crisis"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "A report titled 'Merchants of Crisis' by the campaign group Beyond Fossil Fuels, published 19 June 2026"
+      - claim: named institution publishing the report
+        kind: named_institution
+        value: Beyond Fossil Fuels
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "the campaign group Beyond Fossil Fuels, published 19 June 2026"
+      - claim: publication date of report
+        kind: temporal
+        value: "19 June 2026"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "the campaign group Beyond Fossil Fuels, published 19 June 2026"
+      - claim: new gas-plant capacity planned across Germany, Poland, Romania
+        kind: numerical_with_unit
+        value: "near-60 gigawatts"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "near-60 gigawatts of new gas-plant capacity"
+      - claim: projected annual gas burn from new plants
+        kind: numerical_with_unit
+        value: "~28 billion cubic metres"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "these plants would burn ~28 billion cubic metres of gas annually"
+      - claim: proportion of EU projected gas imports represented
+        kind: numerical_with_unit
+        value: "~9%"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "~9% of the EU's projected gas imports"
+      - claim: equivalent household annual gas consumption
+        kind: numerical_with_unit
+        value: "46.4 million households"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "the annual consumption of 46.4 million households"
+      - claim: European natural gas price rise since Iran war
+        kind: numerical_with_unit
+        value: "60%"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "European natural gas prices have risen 60% since the Iran war outbreak"
+      - claim: EU gas storage level February 2026
+        kind: numerical_with_unit
+        value: "~46 bcm"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "EU gas storage was ~46 bcm in February 2026, down from 60 bcm a year earlier"
+      - claim: EU gas storage level a year prior to February 2026
+        kind: numerical_with_unit
+        value: "60 bcm"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "EU gas storage was ~46 bcm in February 2026, down from 60 bcm a year earlier"
+      - claim: Germany gas capacity addition by 2031
+        kind: numerical_with_unit
+        value: "12 GW"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "Germany is adding 12 GW by 2031 (10 GW hydrogen-ready)"
+      - claim: Germany hydrogen-ready capacity within the 12 GW
+        kind: numerical_with_unit
+        value: "10 GW"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "Germany is adding 12 GW by 2031 (10 GW hydrogen-ready)"
+      - claim: Germany capacity addition deadline
+        kind: temporal
+        value: "2031"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "Germany is adding 12 GW by 2031"
+      - claim: named product - Romania plant
+        kind: named_product
+        value: Mintia
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "Romania's Mintia plant is due online in 2026"
+      - claim: Romania Mintia plant online date
+        kind: temporal
+        value: "2026"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "Romania's Mintia plant is due online in 2026"
+      - claim: named product - Neptun Deep project value
+        kind: numerical_with_unit
+        value: "€4bn"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "the €4bn Neptun Deep Black Sea project doubling output from 2027"
+      - claim: named product - Neptun Deep project
+        kind: named_product
+        value: Neptun Deep
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "the €4bn Neptun Deep Black Sea project doubling output from 2027"
+      - claim: Neptun Deep output doubling from year
+        kind: temporal
+        value: "2027"
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "the €4bn Neptun Deep Black Sea project doubling output from 2027"
+      - claim: named person - Beyond Fossil Fuels campaigner quoted
+        kind: named_person
+        value: Juliet Phillips
+        source_urls: [https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent]
+        verbatim_excerpt: "Beyond Fossil Fuels campaigner Juliet Phillips said"
+    quotes:
+      - speaker_name: Juliet Phillips
+        speaker_title: Campaigner, Beyond Fossil Fuels
+        verbatim_en: "Building more gas plants will not protect people in Europe from future energy crises — it will deepen our dependence on volatile fossil fuel imports."
+        source_url: https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent
+        context: comment on 19 June 2026 report "Merchants of Crisis"

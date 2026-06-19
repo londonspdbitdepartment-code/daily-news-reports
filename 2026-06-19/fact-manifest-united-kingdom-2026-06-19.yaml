@@ -1,0 +1,1229 @@
+version: 1
+generated_at: "2026-06-19T12:00:00Z"
+country: United Kingdom
+date: "2026-06-19"
+total_stories: 13
+stories:
+
+  - story_id: boe-holds-bank-rate-3-75-pct-7-2-vote
+    category: econ
+    headline_en: "Bank of England Holds Bank Rate at 3.75% in 7–2 Vote as Energy and Inflation Pressures Ease"
+    lead_url: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.lbc.co.uk
+      - https://www.nationallawreview.com
+    locked_urls:
+      - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+      - https://www.lbc.co.uk
+      - https://www.nationalawreview.com
+    hard_facts:
+      - claim: MPC vote majority to hold Bank Rate
+        kind: numerical
+        value: "7–2"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "voted by a majority of 7–2 to maintain Bank Rate at 3.75%"
+      - claim: Bank Rate level held
+        kind: numerical_with_unit
+        value: "3.75%"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "maintain Bank Rate at 3.75%"
+      - claim: MPC meeting ending date
+        kind: temporal
+        value: "17 June 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "at its meeting ending on 17 June 2026"
+      - claim: Publication date and time
+        kind: temporal
+        value: "12:00 noon BST on 19 June 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "published at 12:00 noon BST on 19 June 2026"
+      - claim: Minority preference — rate reduction amount
+        kind: numerical_with_unit
+        value: "0.25 percentage points"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "Two members preferred to reduce Bank Rate by 0.25 percentage points to 3.50%"
+      - claim: Minority preferred rate level
+        kind: numerical_with_unit
+        value: "3.50%"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "reduce Bank Rate by 0.25 percentage points to 3.50%"
+      - claim: CPI inflation target
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "CPI inflation has been close to the 2% target"
+      - claim: Next scheduled MPC decision
+        kind: temporal
+        value: "August 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "The next scheduled MPC decision is in August 2026"
+      - claim: MPC decision-making body
+        kind: named_institution
+        value: "Monetary Policy Committee"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "The Monetary Policy Committee voted by a majority of 7–2"
+      - claim: Central bank holding rate
+        kind: named_institution
+        value: "Bank of England"
+        source_urls:
+          - https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026
+        verbatim_excerpt: "Bank of England Holds Bank Rate at 3.75%"
+    quotes: []
+
+  - story_id: uk-borrowing-23-3bn-may-record-debt-interest
+    category: econ
+    headline_en: "UK Government Borrowing Surges to £23.3bn in May — Record Debt Interest Costs Reach £11.7bn"
+    lead_url: https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+    body_source: full
+    corroborated_by:
+      - https://www.lbc.co.uk
+    locked_urls:
+      - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+      - https://www.lbc.co.uk
+    hard_facts:
+      - claim: Public sector net borrowing May 2026
+        kind: numerical_with_unit
+        value: "£23.3 billion"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "Public sector net borrowing in May 2026 was £23.3 billion"
+      - claim: Borrowing excess over OBR forecast
+        kind: numerical_with_unit
+        value: "£5.6 billion"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "£5.6 billion more than the OBR forecast"
+      - claim: Year-on-year borrowing increase from May 2025
+        kind: numerical_with_unit
+        value: "30.4%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "a 30.4% increase from May 2025"
+      - claim: Central government debt interest payments May 2026
+        kind: numerical_with_unit
+        value: "£11.7 billion"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "Central government paid £11.7 billion in debt interest in May 2026"
+      - claim: Debt interest year-on-year increase vs May 2025
+        kind: numerical_with_unit
+        value: "£4.1 billion"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "£4.1 billion more than May 2025"
+      - claim: RPI inflation addition to debt interest payments
+        kind: numerical_with_unit
+        value: "£4.9 billion"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "Rising RPI inflation added £4.9 billion to debt interest payments"
+      - claim: Public sector net debt as share of GDP end May 2026
+        kind: numerical_with_unit
+        value: "95.1% of GDP"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "Public sector net debt stood at 95.1% of GDP at the end of May 2026"
+      - claim: Highest debt-to-GDP ratio since
+        kind: temporal
+        value: "early 1960s"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "the highest ratio since the early 1960s"
+      - claim: April–May 2026 cumulative borrowing
+        kind: numerical_with_unit
+        value: "£46.3 billion"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "Borrowing in April–May 2026 totalled £46.3 billion"
+      - claim: Cumulative borrowing above OBR projections
+        kind: numerical_with_unit
+        value: "£7.7 billion"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "£7.7 billion above OBR projections"
+      - claim: Current budget deficit April–May 2026
+        kind: numerical_with_unit
+        value: "£34.5 billion"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "with the current budget deficit reaching £34.5 billion"
+      - claim: Current budget deficit year-on-year increase
+        kind: numerical_with_unit
+        value: "25.5%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "(25.5% year-on-year increase)"
+      - claim: Public sector spending month-on-month rise
+        kind: numerical_with_unit
+        value: "7.1%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "Public sector spending rose 7.1% month-on-month"
+      - claim: Fiscal oversight body referenced
+        kind: named_institution
+        value: "OBR"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "£5.6 billion more than the OBR forecast"
+      - claim: Reporting institution
+        kind: named_institution
+        value: "ONS"
+        source_urls:
+          - https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026
+        verbatim_excerpt: "Public sector net borrowing in May 2026 was £23.3 billion"
+    quotes: []
+
+  - story_id: hmrc-tax-receipts-apr-may-2026-153-7bn
+    category: econ
+    headline_en: "HMRC Tax Receipts Hit April Record — April–May 2026 Yield £153.7bn, Up £9.8bn Year-on-Year"
+    lead_url: https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+    hard_facts:
+      - claim: Total HMRC tax receipts and NICs April–May 2026
+        kind: numerical_with_unit
+        value: "£153.7 billion"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "Total HMRC tax receipts and NICs for April–May 2026 reached £153.7 billion"
+      - claim: Year-on-year increase in receipts
+        kind: numerical_with_unit
+        value: "£9.8 billion"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "£9.8 billion higher than the same period in 2025"
+      - claim: Income Tax, CGT and NICs combined receipts
+        kind: numerical_with_unit
+        value: "£91.3 billion"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "Income Tax, CGT and NICs accounted for £91.3 billion"
+      - claim: Income Tax, CGT and NICs year-on-year increase
+        kind: numerical_with_unit
+        value: "£7.2bn"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "(up £7.2bn)"
+      - claim: VAT receipts April–May 2026
+        kind: numerical_with_unit
+        value: "£35.1 billion"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "VAT receipts were £35.1 billion"
+      - claim: VAT receipts year-on-year increase
+        kind: numerical_with_unit
+        value: "£1.2bn"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "(up £1.2bn)"
+      - claim: Business taxes receipts April–May 2026
+        kind: numerical_with_unit
+        value: "£8.6 billion"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "business taxes £8.6 billion"
+      - claim: Business taxes year-on-year increase
+        kind: numerical_with_unit
+        value: "£0.8bn"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "(up £0.8bn)"
+      - claim: Stamp taxes receipts April–May 2026
+        kind: numerical_with_unit
+        value: "£3.4 billion"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "stamp taxes £3.4 billion"
+      - claim: Stamp taxes year-on-year increase
+        kind: numerical_with_unit
+        value: "£0.2bn"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "(up £0.2bn)"
+      - claim: Next release date
+        kind: temporal
+        value: "21 July 2026"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "The next release is 21 July 2026"
+      - claim: Reporting institution
+        kind: named_institution
+        value: "HMRC"
+        source_urls:
+          - https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+        verbatim_excerpt: "Total HMRC tax receipts and NICs for April–May 2026"
+    quotes: []
+
+  - story_id: andy-burnham-wins-makerfield-by-election
+    category: politics
+    headline_en: "Andy Burnham Wins Makerfield By-Election, Clears Path to Challenge Starmer for Labour Leadership"
+    lead_url: https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/6/19/
+      - https://www.yahoonewsuk.com
+    locked_urls:
+      - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+      - https://www.aljazeera.com/news/2026/6/19/
+      - https://www.yahoonewsuk.com
+    hard_facts:
+      - claim: Named person — winner
+        kind: named_person
+        value: "Andy Burnham"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Andy Burnham, Mayor of Greater Manchester, won the Makerfield by-election"
+      - claim: Burnham's title
+        kind: named_institution
+        value: "Mayor of Greater Manchester"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Andy Burnham, Mayor of Greater Manchester"
+      - claim: By-election date
+        kind: temporal
+        value: "18–19 June 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "won the Makerfield by-election on the night of 18–19 June 2026"
+      - claim: Burnham vote count
+        kind: numerical_with_unit
+        value: "24,927 votes"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "securing 24,927 votes (54.8%)"
+      - claim: Burnham vote share
+        kind: numerical_with_unit
+        value: "54.8%"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "securing 24,927 votes (54.8%)"
+      - claim: Reform UK candidate name
+        kind: named_person
+        value: "Rob Kenyon"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "against Reform UK's Rob Kenyon on 15,696 (34.5%)"
+      - claim: Reform UK candidate vote count
+        kind: numerical_with_unit
+        value: "15,696"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Reform UK's Rob Kenyon on 15,696 (34.5%)"
+      - claim: Reform UK candidate vote share
+        kind: numerical_with_unit
+        value: "34.5%"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Reform UK's Rob Kenyon on 15,696 (34.5%)"
+      - claim: Majority
+        kind: numerical
+        value: "9,231"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Majority 9,231"
+      - claim: Turnout
+        kind: numerical_with_unit
+        value: "58.7%"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "turnout 58.7%"
+      - claim: Turnout increase from 2024
+        kind: numerical_with_unit
+        value: "6.2 points"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "up 6.2 points from 2024"
+      - claim: Result declared time
+        kind: temporal
+        value: "early hours of 19 June 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Result declared in the early hours of 19 June 2026"
+      - claim: MP who resigned to allow Burnham to stand
+        kind: named_person
+        value: "Josh Simons"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "The by-election was called when MP Josh Simons resigned to allow Burnham to stand"
+      - claim: Labour MPs needed to formally challenge Starmer
+        kind: numerical_with_unit
+        value: "81 Labour MPs"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Burnham needs support of 81 Labour MPs"
+      - claim: MPs who signed letter calling for Starmer to step down
+        kind: numerical
+        value: "110"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "110 MPs have already signed a letter calling for Starmer to step down"
+      - claim: Prime Minister name
+        kind: named_person
+        value: "Keir Starmer"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Starmer congratulated Burnham and said he would stand in any leadership contest"
+      - claim: Other declared leadership candidate
+        kind: named_person
+        value: "Wes Streeting"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "Wes Streeting also intends to run"
+      - claim: Party affiliation of Reform UK
+        kind: named_institution
+        value: "Reform UK"
+        source_urls:
+          - https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        verbatim_excerpt: "against Reform UK's Rob Kenyon"
+    quotes:
+      - speaker_name: Andy Burnham
+        speaker_title: Mayor of Greater Manchester / Labour MP for Makerfield
+        verbatim_en: "Everyone knows that politics isn't working. Everyone can feel that the country isn't where it should be. Tonight could, just could, be the turning point."
+        source_url: https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        context: Victory speech following Makerfield by-election result, 19 June 2026
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister / Labour Party Leader
+        verbatim_en: "I've won every fight I've ever been in."
+        source_url: https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+        context: Response to question about standing in any Labour leadership contest, 19 June 2026
+
+  - story_id: conservatives-win-aberdeen-south-by-election
+    category: politics
+    headline_en: "Conservatives Win Aberdeen South By-Election — First Scottish Westminster Victory in Nearly 60 Years"
+    lead_url: https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+    body_source: full
+    corroborated_by:
+      - https://www.yahoonewsuk.com
+      - https://www.pollcheck.co.uk
+    locked_urls:
+      - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+      - https://www.yahoonewsuk.com
+      - https://www.pollcheck.co.uk
+    hard_facts:
+      - claim: Conservative winner name
+        kind: named_person
+        value: "Douglas Lumsden"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Douglas Lumsden (Conservative) won the Aberdeen South Westminster by-election"
+      - claim: Conservative vote count
+        kind: numerical_with_unit
+        value: "14,308 votes"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Douglas Lumsden (Conservative) won the Aberdeen South Westminster by-election on 18–19 June 2026 with 14,308 votes (49.5%)"
+      - claim: Conservative vote share
+        kind: numerical_with_unit
+        value: "49.5%"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "14,308 votes (49.5%)"
+      - claim: By-election date
+        kind: temporal
+        value: "18–19 June 2026"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "on 18–19 June 2026"
+      - claim: SNP candidate name
+        kind: named_person
+        value: "Richard Thomson"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "defeating SNP candidate Richard Thomson (8,258, 28.6%)"
+      - claim: SNP vote count
+        kind: numerical
+        value: "8,258"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "SNP candidate Richard Thomson (8,258, 28.6%)"
+      - claim: SNP vote share
+        kind: numerical_with_unit
+        value: "28.6%"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Richard Thomson (8,258, 28.6%)"
+      - claim: Conservative majority
+        kind: numerical
+        value: "6,050"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Conservative majority 6,050"
+      - claim: Con-SNP swing
+        kind: numerical_with_unit
+        value: "14.7-point Con-SNP swing"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "a 14.7-point Con-SNP swing"
+      - claim: Reform UK vote count
+        kind: numerical
+        value: "2,478"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Reform UK third (2,478, 8.6%)"
+      - claim: Reform UK vote share
+        kind: numerical_with_unit
+        value: "8.6%"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Reform UK third (2,478, 8.6%)"
+      - claim: Labour vote count
+        kind: numerical
+        value: "1,550"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Labour fourth (1,550, 5.4%)"
+      - claim: Labour vote share
+        kind: numerical_with_unit
+        value: "5.4%"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Labour fourth (1,550, 5.4%)"
+      - claim: Lib Dems vote count
+        kind: numerical
+        value: "1,270"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Lib Dems fifth (1,270, 4.4%)"
+      - claim: Lib Dems vote share
+        kind: numerical_with_unit
+        value: "4.4%"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Lib Dems fifth (1,270, 4.4%)"
+      - claim: Greens vote count
+        kind: numerical
+        value: "974"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Greens sixth (974, 3.4%)"
+      - claim: Greens vote share
+        kind: numerical_with_unit
+        value: "3.4%"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Greens sixth (974, 3.4%)"
+      - claim: Turnout
+        kind: numerical_with_unit
+        value: "37.4%"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Turnout 37.4%"
+      - claim: Labour vote share collapse
+        kind: numerical_with_unit
+        value: "19.3 points"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Labour's vote share collapsed 19.3 points"
+      - claim: Last Scottish Conservative Westminster by-election win
+        kind: temporal
+        value: "1967"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "First Scottish Conservative Westminster by-election win since 1967"
+      - claim: SNP leader who resigned
+        kind: named_person
+        value: "Stephen Flynn"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "The seat had been held by SNP leader Stephen Flynn, who resigned to stand for the Scottish Parliament"
+      - claim: SNP winner in Arbroath and Broughty Ferry
+        kind: named_person
+        value: "Lara Bird"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "the SNP held its seat (Lara Bird, 9,802 votes)"
+      - claim: SNP vote count in Arbroath and Broughty Ferry
+        kind: numerical_with_unit
+        value: "9,802 votes"
+        source_urls:
+          - https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        verbatim_excerpt: "Lara Bird, 9,802 votes"
+    quotes:
+      - speaker_name: Douglas Lumsden
+        speaker_title: Conservative MP for Aberdeen South
+        verbatim_en: "The people of Aberdeen have given a resounding answer that we back the oil and gas industry."
+        source_url: https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+        context: Victory speech following Aberdeen South by-election result, 19 June 2026
+
+  - story_id: data-use-access-act-2025-comes-into-force
+    category: tech
+    headline_en: "Data (Use and Access) Act 2025 Provisions Come Into Force — Mandatory Complaints Handling and AI Transparency Required from 19 June"
+    lead_url: https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+    body_source: full
+    corroborated_by:
+      - https://www.techerati.com/features-hub/uk-data-protection-changes-are-arriving-june-2026/
+      - https://www.traverssmith.com
+    locked_urls:
+      - https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+      - https://www.techerati.com/features-hub/uk-data-protection-changes-are-arriving-june-2026/
+      - https://www.traverssmith.com
+    hard_facts:
+      - claim: Effective date of new obligations
+        kind: temporal
+        value: "19 June 2026"
+        source_urls:
+          - https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+        verbatim_excerpt: "From 19 June 2026, all UK data controllers must operate a formal internal data protection complaints process"
+      - claim: Legislation name and year
+        kind: named_product
+        value: "Data (Use and Access) Act 2025"
+        source_urls:
+          - https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+        verbatim_excerpt: "under Section 103 of the Data (Use and Access) Act 2025"
+      - claim: Legislation section governing complaints
+        kind: numerical
+        value: "Section 103"
+        source_urls:
+          - https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+        verbatim_excerpt: "under Section 103 of the Data (Use and Access) Act 2025"
+      - claim: Complaint acknowledgement deadline
+        kind: temporal
+        value: "30 days"
+        source_urls:
+          - https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+        verbatim_excerpt: "acknowledge complaints within 30 days"
+      - claim: ICO updated guidance expected
+        kind: temporal
+        value: "summer 2026"
+        source_urls:
+          - https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+        verbatim_excerpt: "The ICO is expected to publish updated AI and ADM guidance in summer 2026"
+      - claim: Regulator responsible
+        kind: named_institution
+        value: "ICO"
+        source_urls:
+          - https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+        verbatim_excerpt: "direct unresolved complaints to the ICO"
+    quotes: []
+
+  - story_id: fca-ai-input-zone-closes-19-june
+    category: tech
+    headline_en: "FCA Closes AI Input Zone — Deadline for Industry Views on AI Governance in Financial Services"
+    lead_url: https://www.fca.org.uk/ai-input-zone
+    body_source: full
+    corroborated_by:
+      - https://www.cooley.com/finsights
+      - https://www.regulationtomorrow.com
+    locked_urls:
+      - https://www.fca.org.uk/ai-input-zone
+      - https://www.cooley.com/finsights
+      - https://www.regulationtomorrow.com
+    hard_facts:
+      - claim: AI Input Zone re-opening date
+        kind: temporal
+        value: "14 May 2026"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "The FCA's AI Input Zone, which reopened on 14 May 2026"
+      - claim: AI Input Zone closing date
+        kind: temporal
+        value: "19 June 2026"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "closed to submissions on 19 June 2026"
+      - claim: Joint statement date
+        kind: temporal
+        value: "15 May 2026"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "On 15 May 2026, the BoE, FCA, and HM Treasury jointly issued a statement"
+      - claim: Regulators issuing joint AI cybersecurity statement
+        kind: named_institution
+        value: "BoE"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "the BoE, FCA, and HM Treasury jointly issued a statement on frontier AI cybersecurity risks"
+      - claim: FCA regulatory body
+        kind: named_institution
+        value: "FCA"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "The FCA's AI Input Zone"
+      - claim: Treasury department in joint statement
+        kind: named_institution
+        value: "HM Treasury"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "the BoE, FCA, and HM Treasury jointly issued a statement"
+      - claim: Expected output product name
+        kind: named_product
+        value: "AI Lab"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "The Input Zone is part of the FCA's AI Lab"
+      - claim: Additional sandbox component
+        kind: named_product
+        value: "Supercharged Sandbox"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "also a Supercharged Sandbox and AI Live Testing"
+      - claim: Additional live testing component
+        kind: named_product
+        value: "AI Live Testing"
+        source_urls:
+          - https://www.fca.org.uk/ai-input-zone
+        verbatim_excerpt: "Supercharged Sandbox and AI Live Testing"
+    quotes: []
+
+  - story_id: uk-attorney-general-quits-x-disinformation
+    category: tech
+    headline_en: "UK Attorney General's Office Becomes First Ministerial Department to Quit X Over Disinformation Concerns"
+    lead_url: https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+    body_source: full
+    corroborated_by:
+      - https://www.thenews.com.pk/latest/1406497-uk-attorney-general-quits-x-over-disinformation-concerns
+      - https://www.engadget.com/2197975/uk-attorney-general-office-reportedly-quits-x/
+    locked_urls:
+      - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+      - https://www.thenews.com.pk/latest/1406497-uk-attorney-general-quits-x-over-disinformation-concerns
+      - https://www.engadget.com/2197975/uk-attorney-general-office-reportedly-quits-x/
+    hard_facts:
+      - claim: Named person — Attorney General
+        kind: named_person
+        value: "Richard Hermer"
+        source_urls:
+          - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+        verbatim_excerpt: "England and Wales Attorney General Richard Hermer instructed the Attorney General's Office to stop posting on X"
+      - claim: Named institution — quitting department
+        kind: named_institution
+        value: "Attorney General's Office"
+        source_urls:
+          - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+        verbatim_excerpt: "the Attorney General's Office to stop posting on X, making it the first ministerial government department to exit the platform entirely"
+      - claim: Platform quit
+        kind: named_product
+        value: "X"
+        source_urls:
+          - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+        verbatim_excerpt: "instructed the Attorney General's Office to stop posting on X"
+      - claim: Date of last X post
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+        verbatim_excerpt: "The office's last post on X was June 12, 2026"
+      - claim: Named institution — communications regulator
+        kind: named_institution
+        value: "Ofcom"
+        source_urls:
+          - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+        verbatim_excerpt: "The government previously said it would consider an X ban if Ofcom recommended one"
+      - claim: Locations of June 2026 anti-immigration riots
+        kind: named_institution
+        value: "Belfast"
+        source_urls:
+          - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+        verbatim_excerpt: "June 2026 anti-immigration riots in Belfast and Southampton"
+      - claim: Second location of riots
+        kind: named_institution
+        value: "Southampton"
+        source_urls:
+          - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+        verbatim_excerpt: "June 2026 anti-immigration riots in Belfast and Southampton"
+      - claim: Named person — Prime Minister still active on X
+        kind: named_person
+        value: "Keir Starmer"
+        source_urls:
+          - https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+        verbatim_excerpt: "Prime Minister Keir Starmer remains active on X"
+    quotes: []
+
+  - story_id: ons-cost-of-living-top-concern-89pct-may-2026
+    category: society
+    headline_en: "ONS: Cost of Living Remains Top UK Concern at 89%, NHS Second at 80%, Immigration Rises to 57% — May 2026 Social Trends"
+    lead_url: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+    body_source: full
+    corroborated_by:
+      - https://www.gov.uk/government/statistics/announcements/public-opinions-and-social-trends-great-britain-may-2026
+    locked_urls:
+      - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+      - https://www.gov.uk/government/statistics/announcements/public-opinions-and-social-trends-great-britain-may-2026
+    hard_facts:
+      - claim: Survey period
+        kind: temporal
+        value: "6–31 May 2026"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "bulletin for May 2026 (covering 6–31 May 2026)"
+      - claim: Publication date and time
+        kind: temporal
+        value: "19 June 2026 at 9:30am"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "was published 19 June 2026 at 9:30am"
+      - claim: Cost of living concern percentage
+        kind: numerical_with_unit
+        value: "89%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "Cost of living cited as important by 89% of adults"
+      - claim: NHS concern percentage
+        kind: numerical_with_unit
+        value: "80%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "NHS by 80%"
+      - claim: Economy concern percentage
+        kind: numerical_with_unit
+        value: "72%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "economy by 72%"
+      - claim: Crime concern percentage
+        kind: numerical_with_unit
+        value: "57%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "Crime and immigration both cited by 57%"
+      - claim: Immigration concern percentage
+        kind: numerical_with_unit
+        value: "57%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "Crime and immigration both cited by 57%"
+      - claim: International conflict concern percentage
+        kind: numerical_with_unit
+        value: "54%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "International conflict 54%"
+      - claim: Housing concern percentage
+        kind: numerical_with_unit
+        value: "53%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "housing 53%"
+      - claim: Climate change/environment concern percentage
+        kind: numerical_with_unit
+        value: "53%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "climate change/environment 53%"
+      - claim: Food shopping prices cited as cost driver
+        kind: numerical_with_unit
+        value: "93%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "food shopping prices (93%)"
+      - claim: Fuel prices cited as cost driver
+        kind: numerical_with_unit
+        value: "77%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "fuel prices (77%)"
+      - claim: Gas/electricity bills cited as cost driver
+        kind: numerical_with_unit
+        value: "61%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "gas/electricity bills (61%)"
+      - claim: Household income adequacy percentage
+        kind: numerical_with_unit
+        value: "70%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "About 70% reported household income adequately covered minimum living expenses"
+      - claim: Those doubting ability to save over next 12 months
+        kind: numerical_with_unit
+        value: "35%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "35% doubted ability to save over the next 12 months"
+      - claim: April 2026 cost-of-living increase percentage
+        kind: numerical_with_unit
+        value: "79%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "Compared to April 2026 (79% experiencing cost-of-living increases)"
+      - claim: May 2026 cost-of-living increase percentage
+        kind: numerical_with_unit
+        value: "66%"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "May dropped to 66%"
+      - claim: Reporting institution
+        kind: named_institution
+        value: "ONS"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "The ONS Opinions and Lifestyle Survey bulletin for May 2026"
+      - claim: Survey name
+        kind: named_product
+        value: "ONS Opinions and Lifestyle Survey"
+        source_urls:
+          - https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+        verbatim_excerpt: "The ONS Opinions and Lifestyle Survey bulletin for May 2026"
+    quotes: []
+
+  - story_id: fattal-withdraws-920-9m-bid-pphe-hotel-group
+    category: ipo_ma
+    headline_en: "Fattal Hotels Withdraws £920.9M Bid for PPHE Hotel Group — PPHE Shares Plunge as Founder Opposition Kills Deal"
+    lead_url: https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+    body_source: full
+    corroborated_by:
+      - https://www.globalbankingandfinance.com
+      - https://www.ajbell.co.uk/news/articles/pphe-hotel-suitor-fattal-rules-out-offer-new-bidder-emerges
+      - https://www.investegate.co.uk
+    locked_urls:
+      - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+      - https://www.globalbankingandfinance.com
+      - https://www.ajbell.co.uk/news/articles/pphe-hotel-suitor-fattal-rules-out-offer-new-bidder-emerges
+      - https://www.investegate.co.uk
+    hard_facts:
+      - claim: Announcement date
+        kind: temporal
+        value: "19 June 2026"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "On 19 June 2026, PPHE Hotel Group (LSE: PPH) announced via RNS"
+      - claim: Named company — target
+        kind: named_institution
+        value: "PPHE Hotel Group"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "PPHE Hotel Group (LSE: PPH) announced via RNS"
+      - claim: Stock exchange ticker
+        kind: named_product
+        value: "LSE: PPH"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "PPHE Hotel Group (LSE: PPH)"
+      - claim: Named company — bidder
+        kind: named_institution
+        value: "Fattal Hotel Group"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "Israel's Fattal Hotel Group's proposed acquisition at £22.00 per share"
+      - claim: Bidder country of origin
+        kind: named_institution
+        value: "Israel"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "Israel's Fattal Hotel Group"
+      - claim: Offer price per share
+        kind: numerical_with_unit
+        value: "£22.00 per share"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "proposed acquisition at £22.00 per share"
+      - claim: Total valuation of PPHE
+        kind: numerical_with_unit
+        value: "£920.9 million"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "valuing PPHE at £920.9 million (~$1.22 billion)"
+      - claim: USD equivalent valuation
+        kind: numerical_with_unit
+        value: "~$1.22 billion"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "(~$1.22 billion)"
+      - claim: Named person — co-founder opposing deal
+        kind: named_person
+        value: "Eli Papouchado"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "Euro Plaza Holdings, controlled by PPHE co-founder Eli Papouchado"
+      - claim: Named holding company opposing deal
+        kind: named_institution
+        value: "Euro Plaza Holdings"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "Euro Plaza Holdings, controlled by PPHE co-founder Eli Papouchado"
+      - claim: Euro Plaza's PPHE share capital stake
+        kind: numerical_with_unit
+        value: "~33%"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "holding ~33% of PPHE's share capital"
+      - claim: Combined Papouchado and Ivesha voting rights
+        kind: numerical_with_unit
+        value: "~44%"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "Papouchado and Boris Ivesha together hold ~44% of voting rights"
+      - claim: Named person — second shareholder
+        kind: named_person
+        value: "Boris Ivesha"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "Papouchado and Boris Ivesha together hold ~44% of voting rights"
+      - claim: PPHE share decline range
+        kind: numerical_with_unit
+        value: "8.9%–19.7%"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "PPHE shares fell sharply (reports range 8.9%–19.7%)"
+      - claim: Index in which PPHE is worst performer
+        kind: named_product
+        value: "FTSE 250"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "the worst FTSE 250 performer on June 19"
+      - claim: Date second indicative proposal received
+        kind: temporal
+        value: "31 May 2026"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "a second 'indicative proposal from another interested party' received 31 May 2026"
+      - claim: Strategic review start date
+        kind: temporal
+        value: "November 2025"
+        source_urls:
+          - https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+        verbatim_excerpt: "PPHE's strategic review (begun November 2025) continues"
+    quotes: []
+
+  - story_id: boe-private-markets-swes-16-trillion
+    category: other
+    headline_en: "Bank of England Publishes Private Markets System-Wide Exploratory Scenario — First Systemic Stress Test of £16 Trillion Global Private Market"
+    lead_url: https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.bloomberg.com/news/newsletters/2026-06-19/private-markets-face-up-to-worst-nightmare-in-bank-of-england-stress-test
+      - https://www.macfarlanes.com
+      - https://www.privatedebtinvestor.com
+    locked_urls:
+      - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+      - https://www.bloomberg.com/news/newsletters/2026-06-19/private-markets-face-up-to-worst-nightmare-in-bank-of-england-stress-test
+      - https://www.macfarlanes.com
+      - https://www.privatedebtinvestor.com
+    hard_facts:
+      - claim: Publication date of PM SWES
+        kind: temporal
+        value: "19 June 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "On 19 June 2026, the Bank of England published the variable-path spreadsheet and launch materials"
+      - claim: Exercise name — full
+        kind: named_product
+        value: "Private Markets System-Wide Exploratory Scenario"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "its Private Markets System-Wide Exploratory Scenario (PM SWES)"
+      - claim: Exercise acronym
+        kind: named_product
+        value: "PM SWES"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "PM SWES"
+      - claim: Predecessor exercise reference
+        kind: temporal
+        value: "2023 gilt market SWES"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "following the 2023 gilt market SWES"
+      - claim: Number of voluntary participants
+        kind: numerical
+        value: "45"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "It involves 45 voluntary participants"
+      - claim: Global private markets size estimate
+        kind: numerical_with_unit
+        value: "£16 trillion"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "Private markets globally are estimated at £16 trillion"
+      - claim: PE-backed businesses share of UK corporate debt
+        kind: numerical_with_unit
+        value: "~15%"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "PE-backed UK businesses comprise ~15% of UK corporate debt"
+      - claim: PE-backed businesses employment figure
+        kind: numerical_with_unit
+        value: "over 2 million people"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "employ over 2 million people"
+      - claim: Early findings publication timeline
+        kind: temporal
+        value: "July 2026 BoE Financial Stability Report"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "Timeline: July 2026 BoE Financial Stability Report (early findings)"
+      - claim: Participants re-evaluation timeline
+        kind: temporal
+        value: "Q4 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "Q4 2026 (participants re-evaluate)"
+      - claim: Final report timeline
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "2027 (final report)"
+      - claim: Governing committee — FPC
+        kind: named_institution
+        value: "FPC"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "produced by BoE staff under the FPC and PRC"
+      - claim: Governing committee — PRC
+        kind: named_institution
+        value: "PRC"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "produced by BoE staff under the FPC and PRC"
+      - claim: Publishing institution
+        kind: named_institution
+        value: "Bank of England"
+        source_urls:
+          - https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+        verbatim_excerpt: "the Bank of England published the variable-path spreadsheet"
+    quotes: []
+
+  - story_id: record-1-83bn-rail-journeys-gb-2025-26
+    category: other
+    headline_en: "Record 1.83 Billion Rail Journeys Made in Great Britain in 2025–26 — Highest Since 1920"
+    lead_url: https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+    body_source: full
+    corroborated_by:
+      - https://news.railbusinessdaily.com/in-the-news-19th-june-2026/
+      - https://www.railuk.com
+    locked_urls:
+      - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+      - https://news.railbusinessdaily.com/in-the-news-19th-june-2026/
+      - https://www.railuk.com
+    hard_facts:
+      - claim: Announcement date
+        kind: temporal
+        value: "19 June 2026"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "The ORR announced on 19 June 2026"
+      - claim: Total rail journeys 2025-26
+        kind: numerical_with_unit
+        value: "1.83 billion journeys"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "passengers made 1.83 billion journeys on Great Britain's rail network between April 2025 and March 2026"
+      - claim: Period covered
+        kind: temporal
+        value: "April 2025 and March 2026"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "between April 2025 and March 2026"
+      - claim: Historical record reference
+        kind: temporal
+        value: "since 1920"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "the highest since 1920"
+      - claim: Year-on-year growth percentage
+        kind: numerical_with_unit
+        value: "6%"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "a 6% increase from 1.73 billion in 2024–25"
+      - claim: Previous year journey count
+        kind: numerical_with_unit
+        value: "1.73 billion"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "from 1.73 billion in 2024–25"
+      - claim: Previous record journey count
+        kind: numerical_with_unit
+        value: "1.75 billion"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "exceeding the previous record of 1.75 billion in 2018–19"
+      - claim: Previous record year
+        kind: temporal
+        value: "2018–19"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "the previous record of 1.75 billion in 2018–19"
+      - claim: Rail Customer Experience Survey respondent count
+        kind: numerical_with_unit
+        value: "over 100,000 passengers"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "inaugural Rail Customer Experience Survey (over 100,000 passengers, October 2025–March 2026)"
+      - claim: Survey period
+        kind: temporal
+        value: "October 2025–March 2026"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "October 2025–March 2026"
+      - claim: Overall satisfaction rate
+        kind: numerical_with_unit
+        value: "87%"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "found 87% satisfaction"
+      - claim: Hull Trains satisfaction rating
+        kind: numerical_with_unit
+        value: "94%"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "Hull Trains led operator rankings (94%)"
+      - claim: LNER satisfaction rating
+        kind: numerical_with_unit
+        value: "93%"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "then LNER (93%)"
+      - claim: Elizabeth line journey contribution
+        kind: numerical_with_unit
+        value: "257.4 million journeys"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "The Elizabeth line contributed 257.4 million journeys"
+      - claim: Reporting institution
+        kind: named_institution
+        value: "ORR"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "The ORR announced on 19 June 2026"
+      - claim: Named rail operator — top ranked
+        kind: named_institution
+        value: "Hull Trains"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "Hull Trains led operator rankings (94%)"
+      - claim: Named rail operator — second ranked
+        kind: named_institution
+        value: "LNER"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "then LNER (93%)"
+      - claim: Named rail line contributing journeys
+        kind: named_product
+        value: "Elizabeth line"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "The Elizabeth line contributed 257.4 million journeys"
+      - claim: Named survey — inaugural
+        kind: named_product
+        value: "Rail Customer Experience Survey"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "inaugural Rail Customer Experience Survey"
+      - claim: Named programme — anti-fraud team doubled
+        kind: named_institution
+        value: "HS2"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "The ORR also reported HS2 strengthened its anti-fraud framework, doubling its Counter Fraud and Investigations team"
+      - claim: Named team doubled
+        kind: named_institution
+        value: "Counter Fraud and Investigations team"
+        source_urls:
+          - https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+        verbatim_excerpt: "doubling its Counter Fraud and Investigations team"
+    quotes: []
