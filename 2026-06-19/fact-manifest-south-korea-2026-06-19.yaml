@@ -1,0 +1,1583 @@
+version: 1
+generated_at: "2026-06-19T10:00:00Z"
+country: South Korea
+date: "2026-06-19"
+total_stories: 17
+stories:
+  - story_id: kospi-surges-all-time-intraday-high-9331
+    category: econ
+    headline_en: "KOSPI Surges to All-Time Intraday High of 9,331 as AI-Chip Rally Continues; SK Hynix Tops W2,000tr Market Cap"
+    lead_url: https://www.koreaherald.com/article/10781556
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10781684
+      - https://en.sedaily.com/markets/2026/06/19/sk-hynix-tops-2000-trillion-won-market-cap-intraday-second
+    locked_urls:
+      - https://www.koreaherald.com/article/10781556
+      - https://www.koreaherald.com/article/10781684
+      - https://en.sedaily.com/markets/2026/06/19/sk-hynix-tops-2000-trillion-won-market-cap-intraday-second
+    hard_facts:
+      - claim: KOSPI opening level on June 19
+        kind: numerical_with_unit
+        value: "9,288.89"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "Seoul's benchmark KOSPI index opened June 19 at 9,288.89"
+      - claim: KOSPI opening gain in points
+        kind: numerical_with_unit
+        value: "225.05 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "a gain of 225.05 points or 2.48 percent"
+      - claim: KOSPI opening gain in percentage
+        kind: numerical_with_unit
+        value: "2.48 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "a gain of 225.05 points or 2.48 percent"
+      - claim: KOSPI intraday high reached
+        kind: numerical_with_unit
+        value: "9,331.55"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "By 9:04 a.m. KST the index reached 9,331.55"
+      - claim: time KOSPI intraday high was reached
+        kind: temporal
+        value: "9:04 a.m. KST"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "By 9:04 a.m. KST the index reached 9,331.55"
+      - claim: previous intraday KOSPI high
+        kind: numerical_with_unit
+        value: "9,106.07"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "topping the previous intraday high of 9,106.07 set on June 18"
+      - claim: date of previous intraday KOSPI high
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "topping the previous intraday high of 9,106.07 set on June 18"
+      - claim: SK Hynix intraday market capitalisation
+        kind: numerical_with_unit
+        value: "2.038 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+          - https://en.sedaily.com/markets/2026/06/19/sk-hynix-tops-2000-trillion-won-market-cap-intraday-second
+        verbatim_excerpt: "SK Hynix became the second South Korean company to surpass 2,000 trillion won (approximately USD 1.32 trillion) market capitalisation, reaching 2.038 trillion won intraday"
+      - claim: SK Hynix market cap in USD equivalent
+        kind: numerical_with_unit
+        value: "approximately USD 1.32 trillion"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "surpass 2,000 trillion won (approximately USD 1.32 trillion) market capitalisation"
+      - claim: Samsung Electronics market capitalisation
+        kind: numerical_with_unit
+        value: "approximately 2.18 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "Samsung Electronics maintained first position with approximately 2.18 trillion won"
+      - claim: combined share of KOSPI market cap by Samsung and SK Hynix
+        kind: numerical_with_unit
+        value: "roughly 52 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "The two semiconductor firms together represent roughly 52 percent of KOSPI market capitalisation"
+      - claim: total KOSPI market capitalisation milestone
+        kind: numerical_with_unit
+        value: "8,000 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "Total KOSPI market capitalisation surpassed 8,000 trillion won for the first time"
+      - claim: Samsung share price gain
+        kind: numerical_with_unit
+        value: "3.1%"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "Samsung's shares climbed 3.1% to ₩89,500"
+      - claim: Samsung share price
+        kind: numerical_with_unit
+        value: "₩89,500"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "Samsung's shares climbed 3.1% to ₩89,500"
+      - claim: SK Hynix share price gain
+        kind: numerical_with_unit
+        value: "2.8%"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "SK Hynix advanced 2.8% to ₩132,000"
+      - claim: SK Hynix share price
+        kind: numerical_with_unit
+        value: "₩132,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "SK Hynix advanced 2.8% to ₩132,000"
+      - claim: KOSDAQ opening level
+        kind: numerical_with_unit
+        value: "1,001.40"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "KOSDAQ opened at 1,001.40 but fell below the 1,000-point level"
+      - claim: named institution — SK Hynix
+        kind: named_institution
+        value: "SK Hynix"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+          - https://en.sedaily.com/markets/2026/06/19/sk-hynix-tops-2000-trillion-won-market-cap-intraday-second
+        verbatim_excerpt: "SK Hynix became the second South Korean company to surpass 2,000 trillion won"
+      - claim: named institution — Samsung Electronics
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "Samsung Electronics maintained first position with approximately 2.18 trillion won"
+      - claim: named institution — Kiwoom Securities
+        kind: named_institution
+        value: "Kiwoom Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "An analyst from Kiwoom Securities cautioned that"
+      - claim: named institution — Intel
+        kind: named_institution
+        value: "Intel"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "Intel had secured an agreement with Apple for domestic chip design and manufacturing"
+      - claim: named institution — Apple
+        kind: named_institution
+        value: "Apple"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "Intel had secured an agreement with Apple for domestic chip design and manufacturing"
+      - claim: named person — Ahn Sung-mi (corroborating byline)
+        kind: named_person
+        value: "Ahn Sung-mi"
+        source_urls:
+          - https://www.koreaherald.com/article/10781684
+        verbatim_excerpt: "byline: Ahn Sung-mi; verified June 19 2026"
+      - claim: named person — Shin Ji-min (corroborating byline)
+        kind: named_person
+        value: "Shin Ji-min"
+        source_urls:
+          - https://en.sedaily.com/markets/2026/06/19/sk-hynix-tops-2000-trillion-won-market-cap-intraday-second
+        verbatim_excerpt: "byline: Shin Ji-min; verified June 19 2026"
+      - claim: named person — Trump (U.S. President)
+        kind: named_person
+        value: "President Trump"
+        source_urls:
+          - https://www.koreaherald.com/article/10781556
+        verbatim_excerpt: "following President Trump's announcement that Intel had secured an agreement with Apple"
+    quotes:
+      - speaker_name: Kiwoom Securities analyst
+        speaker_title: Analyst, Kiwoom Securities
+        verbatim_en: "the rise could be limited due to profit taking."
+        source_url: https://www.koreaherald.com/article/10781556
+        context: market commentary on June 19 KOSPI rally
+
+  - story_id: hotel-shilla-stock-climbs-30pct-tourist-record
+    category: econ
+    headline_en: "Hotel Shilla Stock Climbs 30% in Three Months as Foreign Tourist Arrivals Hit Record High"
+    lead_url: https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+    hard_facts:
+      - claim: Hotel Shilla stock price gain over three months
+        kind: numerical_with_unit
+        value: "30 percent"
+        source_urls:
+          - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+        verbatim_excerpt: "Hotel Shilla Co.'s stock has climbed 30 percent in three months"
+      - claim: duration of stock price gain
+        kind: temporal
+        value: "three months"
+        source_urls:
+          - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+        verbatim_excerpt: "Hotel Shilla Co.'s stock has climbed 30 percent in three months"
+      - claim: foreign visitor target year
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+        verbatim_excerpt: "targeting 30 million foreign visitors by 2030"
+      - claim: foreign visitor target number
+        kind: numerical_with_unit
+        value: "30 million"
+        source_urls:
+          - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+        verbatim_excerpt: "targeting 30 million foreign visitors by 2030"
+      - claim: named institution — Hotel Shilla Co.
+        kind: named_institution
+        value: "Hotel Shilla Co."
+        source_urls:
+          - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+        verbatim_excerpt: "Hotel Shilla Co.'s stock has climbed 30 percent in three months"
+      - claim: named person — Lee Jae Myung (South Korean President)
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+        verbatim_excerpt: "South Korean President Lee Jae Myung held an Expanded National Tourism Strategy Meeting"
+      - claim: named person — Lee Boo-jin (Hotel Shilla CEO)
+        kind: named_person
+        value: "Lee Boo-jin"
+        source_urls:
+          - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+        verbatim_excerpt: "Hotel Shilla CEO Lee Boo-jin, who also serves as Chairperson of the Visit Korea Committee"
+      - claim: named institution — Visit Korea Committee
+        kind: named_institution
+        value: "Visit Korea Committee"
+        source_urls:
+          - https://www.kedglobal.com/travel-leisure/newsView/ked202606190006
+        verbatim_excerpt: "who also serves as Chairperson of the Visit Korea Committee"
+    quotes: []
+
+  - story_id: govt-seeks-dismissal-heads-two-public-firms
+    category: econ
+    headline_en: "South Korean Government to Seek Dismissal of Heads of Two Public Firms Following Performance Review"
+    lead_url: https://www.koreaherald.com/article/10782007
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10782007
+    hard_facts:
+      - claim: number of public institutions assessed
+        kind: numerical
+        value: "88"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "The committee assessed 88 state-run organisations"
+      - claim: number of agency heads assessed
+        kind: numerical
+        value: "82"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "82 agency heads using a six-tier grading system"
+      - claim: grading system tiers
+        kind: named_product
+        value: "six-tier grading system (A through E)"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "82 agency heads using a six-tier grading system (A through E)"
+      - claim: number of institutions receiving lowest grade
+        kind: numerical
+        value: "Seven"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "Seven institutions received the lowest grade (E)"
+      - claim: lowest grade assigned
+        kind: named_product
+        value: "E"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "Seven institutions received the lowest grade (E)"
+      - claim: number of agency heads receiving D grade
+        kind: numerical
+        value: "17"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "17 agency heads received D grades and were issued formal warnings"
+      - claim: number of organisations whose leaders received cautions
+        kind: numerical
+        value: "11"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "leaders of 11 organisations — including Korea Electric Power Corp. (KEPCO) and Korea Gas Corp. — received cautions"
+      - claim: named institution — Ministry of Finance and Economy
+        kind: named_institution
+        value: "Ministry of Finance and Economy"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "South Korea's Ministry of Finance and Economy announced plans to remove the heads of two public institutions"
+      - claim: named institution — Government Employees Pension Service
+        kind: named_institution
+        value: "Government Employees Pension Service"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "the Government Employees Pension Service and the Korea International Cooperation Agency (KOICA)"
+      - claim: named institution — Korea International Cooperation Agency (KOICA)
+        kind: named_institution
+        value: "Korea International Cooperation Agency (KOICA)"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "the Government Employees Pension Service and the Korea International Cooperation Agency (KOICA)"
+      - claim: named institution — Ownership Steering Committee
+        kind: named_institution
+        value: "Ownership Steering Committee"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "performance evaluations by the Ownership Steering Committee"
+      - claim: named institution — Korea Electric Power Corp. (KEPCO)
+        kind: named_institution
+        value: "Korea Electric Power Corp. (KEPCO)"
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "including Korea Electric Power Corp. (KEPCO) and Korea Gas Corp."
+      - claim: named institution — Korea Gas Corp.
+        kind: named_institution
+        value: "Korea Gas Corp."
+        source_urls:
+          - https://www.koreaherald.com/article/10782007
+        verbatim_excerpt: "including Korea Electric Power Corp. (KEPCO) and Korea Gas Corp."
+    quotes:
+      - speaker_name: Ministry of Finance and Economy spokesperson
+        speaker_title: Ministry of Finance and Economy, South Korea
+        verbatim_en: "social responsibility in areas such as safety and green initiatives, as well as financial health and productivity."
+        source_url: https://www.koreaherald.com/article/10782007
+        context: ministry statement on evaluation criteria for public institution performance review
+
+  - story_id: nec-panel-recommends-criminal-probe-ex-chairman
+    category: politics
+    headline_en: "NEC Fact-Finding Panel Recommends Criminal Probe into Ex-Chairman over Ballot Shortage 'Total Failure'"
+    lead_url: https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+    hard_facts:
+      - claim: date of local and by-elections affected by ballot shortage
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "ballot shortages from the June 3 local and by-elections"
+      - claim: number of committee members
+        kind: numerical
+        value: "six-member"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "The six-member committee, launched on June 10"
+      - claim: committee launch date
+        kind: temporal
+        value: "June 10"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "The six-member committee, launched on June 10 with representatives from civic organisations"
+      - claim: briefing date
+        kind: temporal
+        value: "June 19"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "presented findings at a briefing at NEC headquarters in Gwacheon, Gyeonggi Province on June 19"
+      - claim: number of polling stations with ballot shortages
+        kind: numerical
+        value: "50"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "shortages occurred at 50 polling stations"
+      - claim: number of sites where voting temporarily halted
+        kind: numerical
+        value: "22"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "temporarily halted voting at 22 sites nationwide"
+      - claim: named institution — National Election Commission (NEC)
+        kind: named_institution
+        value: "National Election Commission (NEC)"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "South Korea's National Election Commission (NEC) fact-finding committee"
+      - claim: named person — Cho Hyun-wook (committee chair)
+        kind: named_person
+        value: "Cho Hyun-wook"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-showcase
+        verbatim_excerpt: "Committee chair Cho Hyun-wook called for criminal proceedings against former NEC Chairman Roh Tae-ak"
+      - claim: named person — Roh Tae-ak (former NEC Chairman)
+        kind: named_person
+        value: "Roh Tae-ak"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "former NEC Chairman Roh Tae-ak, who resigned following the ballot shortage incident"
+      - claim: location of NEC headquarters briefing
+        kind: named_institution
+        value: "Gwacheon, Gyeonggi Province"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/election-watchdog-panel-recommends-criminal-probe-into-ex-chief-over-ballot-shortage
+        verbatim_excerpt: "presented findings at a briefing at NEC headquarters in Gwacheon, Gyeonggi Province on June 19"
+    quotes: []
+
+  - story_id: ex-defense-minister-kim-sentenced-three-years
+    category: politics
+    headline_en: "Former Defense Minister Kim Yong-hyun Sentenced to Three Years for Leaking Military Secrets in Martial Law Conspiracy"
+    lead_url: https://www.koreaherald.com/article/10782013
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/ex-defense-minister-sentenced-to-3-years-in-prison-for-leaking-military-secrets
+    locked_urls:
+      - https://www.koreaherald.com/article/10782013
+      - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/ex-defense-minister-sentenced-to-3-years-in-prison-for-leaking-military-secrets
+    hard_facts:
+      - claim: prison sentence for Kim Yong-hyun
+        kind: numerical_with_unit
+        value: "three years"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/ex-defense-minister-sentenced-to-3-years-in-prison-for-leaking-military-secrets
+        verbatim_excerpt: "sentenced former South Korean Defense Minister Kim Yong-hyun to three years in prison"
+      - claim: duration Noh Sang-won had been dishonourably discharged
+        kind: temporal
+        value: "six years prior"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "a former Defense Intelligence Command chief who had been dishonourably discharged six years prior"
+      - claim: period of conspiracy
+        kind: temporal
+        value: "between October and November 2024"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "The conspiracy took place between October and November 2024"
+      - claim: date of Yoon Suk Yeol's martial law declaration
+        kind: temporal
+        value: "December 2024"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "former President Yoon Suk Yeol's December 2024 martial law declaration"
+      - claim: Yoon Suk Yeol's sentence
+        kind: named_product
+        value: "life sentence"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "for which Yoon received a life sentence in February 2026"
+      - claim: date Yoon received life sentence
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "Yoon received a life sentence in February 2026"
+      - claim: named institution — Seoul Central District Court
+        kind: named_institution
+        value: "Seoul Central District Court"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "The Seoul Central District Court sentenced former South Korean Defense Minister Kim Yong-hyun"
+      - claim: named person — Kim Yong-hyun (former Defense Minister)
+        kind: named_person
+        value: "Kim Yong-hyun"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/ex-defense-minister-sentenced-to-3-years-in-prison-for-leaking-military-secrets
+        verbatim_excerpt: "former South Korean Defense Minister Kim Yong-hyun to three years in prison"
+      - claim: named person — Noh Sang-won (former Defense Intelligence Command chief)
+        kind: named_person
+        value: "Noh Sang-won"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "leaking a list of military intelligence personnel to Noh Sang-won, a former Defense Intelligence Command chief"
+      - claim: named institution — Defense Intelligence Command
+        kind: named_institution
+        value: "Defense Intelligence Command"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "a former Defense Intelligence Command chief who had been dishonourably discharged"
+      - claim: named person — Moon Sang-ho (then-Defense Intelligence Commander)
+        kind: named_person
+        value: "Moon Sang-ho"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "then-Defense Intelligence Commander Moon Sang-ho and others as co-conspirators"
+      - claim: named person — Yoon Suk Yeol (former President)
+        kind: named_person
+        value: "Yoon Suk Yeol"
+        source_urls:
+          - https://www.koreaherald.com/article/10782013
+        verbatim_excerpt: "former President Yoon Suk Yeol's December 2024 martial law declaration"
+    quotes: []
+
+  - story_id: trump-regret-north-korea-nuclear-failure
+    category: politics
+    headline_en: "Trump Expressed Regret Over Failure to Resolve North Korea Nuclear Issue Before Pyongyang Acquired Nuclear Weapons"
+    lead_url: https://www.koreaherald.com/article/10782022
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10782022
+    hard_facts:
+      - claim: location of G7 summit gala dinner
+        kind: named_institution
+        value: "Evian-les-Bains, France"
+        source_urls:
+          - https://www.koreaherald.com/article/10782022
+        verbatim_excerpt: "During a G7 summit gala dinner in Evian-les-Bains, France"
+      - claim: date of Lee's briefing to reporters
+        kind: temporal
+        value: "June 19"
+        source_urls:
+          - https://www.koreaherald.com/article/10782022
+        verbatim_excerpt: "According to Lee's briefing delivered to reporters on June 19"
+      - claim: date Trump shared photograph with Kim Jong-un
+        kind: temporal
+        value: "June 13"
+        source_urls:
+          - https://www.koreaherald.com/article/10782022
+        verbatim_excerpt: "Trump had on June 13 shared a photograph with North Korean leader Kim Jong-un"
+      - claim: named event — 2018 Singapore summit
+        kind: temporal
+        value: "2018 Singapore summit"
+        source_urls:
+          - https://www.koreaherald.com/article/10782022
+        verbatim_excerpt: "North Korean leader Kim Jong-un from their 2018 Singapore summit"
+      - claim: named person — Lee Jae Myung (South Korean President)
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10782022
+        verbatim_excerpt: "South Korean President Lee Jae Myung and U.S. President Donald Trump discussed North Korea's nuclear programme"
+      - claim: named person — Donald Trump (U.S. President)
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - https://www.koreaherald.com/article/10782022
+        verbatim_excerpt: "South Korean President Lee Jae Myung and U.S. President Donald Trump discussed North Korea's nuclear programme"
+      - claim: named person — Kim Jong-un (North Korean leader)
+        kind: named_person
+        value: "Kim Jong-un"
+        source_urls:
+          - https://www.koreaherald.com/article/10782022
+        verbatim_excerpt: "North Korean leader Kim Jong-un from their 2018 Singapore summit"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: U.S. President
+        verbatim_en: "It is regrettable that measures were not taken before North Korea effectively possessed nuclear weapons."
+        source_url: https://www.koreaherald.com/article/10782022
+        context: G7 summit gala dinner discussion in Evian-les-Bains, France, as reported by President Lee on June 19
+      - speaker_name: Lee Jae Myung
+        speaker_title: South Korean President
+        verbatim_en: "there wasn't a clear answer"
+        source_url: https://www.koreaherald.com/article/10782022
+        context: Lee's assessment following discussion with Trump at G7 gala dinner
+
+  - story_id: police-refer-yoon-prosecution-luxury-bag-case
+    category: politics
+    headline_en: "Police Refer Ex-President Yoon to Prosecution over Wife Kim Keon Hee's Luxury Bag Anti-Graft Violation"
+    lead_url: https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+    hard_facts:
+      - claim: date police referred Yoon to prosecution
+        kind: temporal
+        value: "June 9"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "South Korean police referred former President Yoon Suk Yeol to the prosecution on June 9"
+      - claim: value of Dior bag
+        kind: numerical_with_unit
+        value: "5.4 million won"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "his wife Kim Keon Hee's receipt of a Dior bag valued at 5.4 million won"
+      - claim: date bag was received
+        kind: temporal
+        value: "June 2022"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "a Dior bag valued at 5.4 million won from a pastor in June 2022"
+      - claim: Yoon's current sentence
+        kind: named_product
+        value: "life sentence"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "Yoon is currently serving a life sentence handed down in February 2026"
+      - claim: date Yoon's life sentence was handed down
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "a life sentence handed down in February 2026 for his role in the failed December 2024 martial law declaration"
+      - claim: date of failed martial law declaration
+        kind: temporal
+        value: "December 2024"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "the failed December 2024 martial law declaration"
+      - claim: prosecution sentence sought for Kim Keon Hee
+        kind: numerical_with_unit
+        value: "seven years and six months"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "Prosecutors are seeking seven years and six months imprisonment for the former first lady"
+      - claim: sentencing date for Kim Keon Hee
+        kind: temporal
+        value: "July 26, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "sentencing is scheduled for July 26, 2026"
+      - claim: named person — Yoon Suk Yeol (former President)
+        kind: named_person
+        value: "Yoon Suk Yeol"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "South Korean police referred former President Yoon Suk Yeol to the prosecution"
+      - claim: named person — Kim Keon Hee
+        kind: named_person
+        value: "Kim Keon Hee"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "his wife Kim Keon Hee's receipt of a Dior bag valued at 5.4 million won"
+      - claim: named product — Dior bag
+        kind: named_product
+        value: "Dior bag"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "his wife Kim Keon Hee's receipt of a Dior bag valued at 5.4 million won"
+      - claim: named product — Van Cleef & Arpels necklace
+        kind: named_product
+        value: "Van Cleef & Arpels necklace"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/law-crime/20260619/police-refer-ex-president-yoon-to-prosecution-over-his-wifes-luxury-bag-case
+        verbatim_excerpt: "including a Van Cleef & Arpels necklace"
+    quotes: []
+
+  - story_id: assembly-speaker-urges-diplomacy-24-vessels-hormuz
+    category: politics
+    headline_en: "Assembly Speaker Urges Diplomacy to Secure Return of 24 South Korean Vessels Stranded in Strait of Hormuz"
+    lead_url: https://www.koreaherald.com/article/10782081
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260619/assembly-speaker-urges-diplomatic-efforts-to-ensure-safe-return-of-korean-vessels-from-hormuz-strait
+    locked_urls:
+      - https://www.koreaherald.com/article/10782081
+      - https://www.koreatimes.co.kr/southkorea/politics/20260619/assembly-speaker-urges-diplomatic-efforts-to-ensure-safe-return-of-korean-vessels-from-hormuz-strait
+    hard_facts:
+      - claim: number of South Korean-linked vessels stranded
+        kind: numerical
+        value: "24"
+        source_urls:
+          - https://www.koreaherald.com/article/10782081
+          - https://www.koreatimes.co.kr/southkorea/politics/20260619/assembly-speaker-urges-diplomatic-efforts-to-ensure-safe-return-of-korean-vessels-from-hormuz-strait
+        verbatim_excerpt: "24 South Korean-linked vessels stranded in ports across Qatar and the United Arab Emirates"
+      - claim: locations where vessels are stranded
+        kind: named_institution
+        value: "Qatar and the United Arab Emirates"
+        source_urls:
+          - https://www.koreaherald.com/article/10782081
+        verbatim_excerpt: "stranded in ports across Qatar and the United Arab Emirates"
+      - claim: duration of U.S.-Iran conflict
+        kind: numerical_with_unit
+        value: "106 days"
+        source_urls:
+          - https://www.koreaherald.com/article/10782081
+        verbatim_excerpt: "Following a U.S.-Iran ceasefire agreement after 106 days of conflict"
+      - claim: meeting date between Assembly Speaker and Foreign Minister
+        kind: temporal
+        value: "June 19"
+        source_urls:
+          - https://www.koreaherald.com/article/10782081
+        verbatim_excerpt: "National Assembly Speaker Cho Jeong-sik met with Foreign Minister Cho Hyun on June 19"
+      - claim: number of Korean sailors on the 24 vessels
+        kind: numerical
+        value: "137"
+        source_urls:
+          - https://www.koreaherald.com/article/10782081
+        verbatim_excerpt: "The 24 vessels have 137 Korean sailors on board"
+      - claim: named person — Cho Jeong-sik (National Assembly Speaker)
+        kind: named_person
+        value: "Cho Jeong-sik"
+        source_urls:
+          - https://www.koreaherald.com/article/10782081
+          - https://www.koreatimes.co.kr/southkorea/politics/20260619/assembly-speaker-urges-diplomatic-efforts-to-ensure-safe-return-of-korean-vessels-from-hormuz-strait
+        verbatim_excerpt: "National Assembly Speaker Cho Jeong-sik met with Foreign Minister Cho Hyun on June 19"
+      - claim: named person — Cho Hyun (Foreign Minister)
+        kind: named_person
+        value: "Cho Hyun"
+        source_urls:
+          - https://www.koreaherald.com/article/10782081
+        verbatim_excerpt: "National Assembly Speaker Cho Jeong-sik met with Foreign Minister Cho Hyun on June 19"
+      - claim: named institution — National Assembly
+        kind: named_institution
+        value: "National Assembly"
+        source_urls:
+          - https://www.koreaherald.com/article/10782081
+        verbatim_excerpt: "National Assembly Speaker Cho Jeong-sik met with Foreign Minister Cho Hyun"
+    quotes:
+      - speaker_name: Cho Jeong-sik
+        speaker_title: National Assembly Speaker, South Korea
+        verbatim_en: "I urge you to take all possible diplomatic measures to ensure that the 24 vessels and their crew members stranded in the Strait of Hormuz can return home safely."
+        source_url: https://www.koreaherald.com/article/10782081
+        context: meeting with Foreign Minister Cho Hyun on June 19
+
+  - story_id: msit-ai-safety-mou-anthropic-export-controls
+    category: tech
+    headline_en: "South Korea's Ministry of Science and ICT Signs AI Safety MOU with Anthropic Amid U.S. Export Controls on Claude Models"
+    lead_url: https://www.thelec.net/news/articleView.html?idxno=11481
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.thelec.net/news/articleView.html?idxno=11481
+    hard_facts:
+      - claim: date MOU was signed
+        kind: temporal
+        value: "June 18"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "South Korea's Ministry of Science and ICT signed a memorandum of understanding with Anthropic on June 18"
+      - claim: date of AI Action Summit discussions
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "discussions between Deputy Prime Minister Bae Kyung-hoon and Anthropic CEO Dario Amodei at the February 2026 AI Action Summit in India"
+      - claim: location of AI Action Summit
+        kind: named_institution
+        value: "India"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "the February 2026 AI Action Summit in India"
+      - claim: South Korea's global rank in per-capita Claude usage
+        kind: numerical
+        value: "12th"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "South Korea ranks 12th globally in per-capita Claude usage"
+      - claim: Anthropic target market ranking for Korea
+        kind: numerical
+        value: "top 10"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "Korea anticipated to enter Anthropic's top 10 markets"
+      - claim: date U.S. export controls were imposed
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "U.S. export controls imposed on June 12 blocking foreign nationals' access to Anthropic's Claude Mythos 5 and Fable 5 models"
+      - claim: number of organisations with Glasswing access
+        kind: numerical
+        value: "approximately 150"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "Approximately 150 organisations held Glasswing access"
+      - claim: Anthropic Seoul office rank in Asia
+        kind: numerical
+        value: "fourth"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "Anthropic's Seoul office — its fourth in Asia — opened concurrently"
+      - claim: named institution — Ministry of Science and ICT
+        kind: named_institution
+        value: "Ministry of Science and ICT"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "South Korea's Ministry of Science and ICT signed a memorandum of understanding with Anthropic"
+      - claim: named institution — Anthropic
+        kind: named_institution
+        value: "Anthropic"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "South Korea's Ministry of Science and ICT signed a memorandum of understanding with Anthropic on June 18"
+      - claim: named person — Bae Kyung-hoon (Deputy Prime Minister)
+        kind: named_person
+        value: "Bae Kyung-hoon"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "discussions between Deputy Prime Minister Bae Kyung-hoon and Anthropic CEO Dario Amodei"
+      - claim: named person — Dario Amodei (Anthropic CEO)
+        kind: named_person
+        value: "Dario Amodei"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "Anthropic CEO Dario Amodei at the February 2026 AI Action Summit in India"
+      - claim: named person — Chris Ciauri (Anthropic Managing Director of International)
+        kind: named_person
+        value: "Chris Ciauri"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "Anthropic's Managing Director of International Chris Ciauri stated"
+      - claim: named product — Claude Mythos 5
+        kind: named_product
+        value: "Claude Mythos 5"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "blocking foreign nationals' access to Anthropic's Claude Mythos 5 and Fable 5 models"
+      - claim: named product — Fable 5
+        kind: named_product
+        value: "Fable 5"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "blocking foreign nationals' access to Anthropic's Claude Mythos 5 and Fable 5 models"
+      - claim: named product — Project Glasswing
+        kind: named_product
+        value: "Project Glasswing"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "SK Telecom — identified as a South Korean telecommunications company with alleged ties to China — had gained access to Mythos through Project Glasswing"
+      - claim: named institution — SK Telecom
+        kind: named_institution
+        value: "SK Telecom"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "SK Telecom — identified as a South Korean telecommunications company with alleged ties to China — had gained access to Mythos through Project Glasswing"
+      - claim: named institution — Samsung Electronics (Glasswing access)
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "Approximately 150 organisations held Glasswing access, including Samsung Electronics, SK Hynix, and KISA"
+      - claim: named institution — SK Hynix (Glasswing access)
+        kind: named_institution
+        value: "SK Hynix"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "Approximately 150 organisations held Glasswing access, including Samsung Electronics, SK Hynix, and KISA"
+      - claim: named institution — KISA
+        kind: named_institution
+        value: "KISA"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "Approximately 150 organisations held Glasswing access, including Samsung Electronics, SK Hynix, and KISA"
+      - claim: named institution — Samsung SDS (Claude enterprise partner)
+        kind: named_institution
+        value: "Samsung SDS"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "a Samsung SDS, LG CNS, Nexon, and Hanwha Solutions partnership suite of Claude enterprise deployments was announced"
+      - claim: named institution — LG CNS
+        kind: named_institution
+        value: "LG CNS"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "a Samsung SDS, LG CNS, Nexon, and Hanwha Solutions partnership suite of Claude enterprise deployments was announced"
+      - claim: named institution — Nexon
+        kind: named_institution
+        value: "Nexon"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "a Samsung SDS, LG CNS, Nexon, and Hanwha Solutions partnership suite of Claude enterprise deployments was announced"
+      - claim: named institution — Hanwha Solutions
+        kind: named_institution
+        value: "Hanwha Solutions"
+        source_urls:
+          - https://www.thelec.net/news/articleView.html?idxno=11481
+        verbatim_excerpt: "a Samsung SDS, LG CNS, Nexon, and Hanwha Solutions partnership suite of Claude enterprise deployments was announced"
+    quotes:
+      - speaker_name: Chris Ciauri
+        speaker_title: Managing Director of International, Anthropic
+        verbatim_en: "Korea is one of Anthropic's most important markets in the Asia-Pacific region."
+        source_url: https://www.thelec.net/news/articleView.html?idxno=11481
+        context: statement accompanying the MOU signing between Anthropic and South Korea's Ministry of Science and ICT on June 18
+
+  - story_id: apple-intel-foundry-alliance-pressures-samsung
+    category: tech
+    headline_en: "Apple-Intel Foundry Alliance, Backed by White House, Intensifies Competitive Pressure on Samsung Chipmaking"
+    lead_url: https://www.kedglobal.com/korean-chipmakers/newsView/ked202606190003
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606190003
+    hard_facts:
+      - claim: named person — Lee Seok-Hee (former SK Hynix CEO appointed to Intel Foundry)
+        kind: named_person
+        value: "Lee Seok-Hee"
+        source_urls:
+          - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606190003
+        verbatim_excerpt: "Intel Foundry appointed Lee Seok-Hee, former SK Hynix CEO, to a senior executive role"
+      - claim: named institution — Intel Foundry
+        kind: named_institution
+        value: "Intel Foundry"
+        source_urls:
+          - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606190003
+        verbatim_excerpt: "Intel Foundry appointed Lee Seok-Hee, former SK Hynix CEO, to a senior executive role"
+      - claim: named institution — Samsung Electronics (foundry)
+        kind: named_institution
+        value: "Samsung"
+        source_urls:
+          - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606190003
+        verbatim_excerpt: "All three firms — Intel (with active White House support), Samsung, and TSMC — are investing substantially in U.S. manufacturing capacity"
+      - claim: named institution — TSMC
+        kind: named_institution
+        value: "TSMC"
+        source_urls:
+          - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606190003
+        verbatim_excerpt: "All three firms — Intel (with active White House support), Samsung, and TSMC — are investing substantially in U.S. manufacturing capacity"
+      - claim: named institution — Apple (Intel chip partnership)
+        kind: named_institution
+        value: "Apple"
+        source_urls:
+          - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606190003
+        verbatim_excerpt: "The Apple-Intel partnership for domestic chip design and manufacturing, announced by Trump"
+      - claim: named person — Trump (White House support for Intel)
+        kind: named_person
+        value: "Trump"
+        source_urls:
+          - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606190003
+        verbatim_excerpt: "The Apple-Intel partnership for domestic chip design and manufacturing, announced by Trump"
+    quotes: []
+
+  - story_id: seoul-quantum-gateway-viva-technology-paris
+    category: tech
+    headline_en: "Seoul Launches Quantum Gateway Initiative at Viva Technology Paris to Attract European Deep-Tech Firms"
+    lead_url: https://www.koreatimes.co.kr/southkorea/20260619/seoul-pitches-itself-as-asias-quantum-gateway-to-court-european-tech-firms
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/20260619/seoul-pitches-itself-as-asias-quantum-gateway-to-court-european-tech-firms
+    hard_facts:
+      - claim: named institution — Seoul's Investment Promotion Agency
+        kind: named_institution
+        value: "Seoul's Investment Promotion Agency"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/seoul-pitches-itself-as-asias-quantum-gateway-to-court-european-tech-firms
+        verbatim_excerpt: "Seoul's Investment Promotion Agency hosted 'Seoul Forward,' an official workshop at Viva Technology in Paris"
+      - claim: named product — Seoul Forward workshop
+        kind: named_product
+        value: "Seoul Forward"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/seoul-pitches-itself-as-asias-quantum-gateway-to-court-european-tech-firms
+        verbatim_excerpt: "Seoul's Investment Promotion Agency hosted 'Seoul Forward,' an official workshop at Viva Technology in Paris"
+      - claim: named institution — Viva Technology (event, Paris)
+        kind: named_institution
+        value: "Viva Technology in Paris"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/seoul-pitches-itself-as-asias-quantum-gateway-to-court-european-tech-firms
+        verbatim_excerpt: "an official workshop at Viva Technology in Paris"
+      - claim: named institution — Pasqal (French quantum computing firm)
+        kind: named_institution
+        value: "Pasqal"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/seoul-pitches-itself-as-asias-quantum-gateway-to-court-european-tech-firms
+        verbatim_excerpt: "The initiative centred on Pasqal, a French quantum computing firm already operating in Seoul"
+      - claim: named institution — Forvis Mazars (partnership for corporate support)
+        kind: named_institution
+        value: "Forvis Mazars"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260619/seoul-pitches-itself-as-asias-quantum-gateway-to-court-european-tech-firms
+        verbatim_excerpt: "The agency established a partnership with Forvis Mazars to streamline corporate registration, tax, and cross-border legal support"
+    quotes:
+      - speaker_name: Seoul Investment Promotion Agency officials
+        speaker_title: Officials, Seoul's Investment Promotion Agency
+        verbatim_en: "establishing an institutional bridge with Europe's most disruptive innovators."
+        source_url: https://www.koreatimes.co.kr/southkorea/20260619/seoul-pitches-itself-as-asias-quantum-gateway-to-court-european-tech-firms
+        context: Seoul Forward workshop at Viva Technology in Paris
+
+  - story_id: nhis-covers-olumiant-alopecia-july-1-debate
+    category: society
+    headline_en: "National Health Insurance to Cover Severe Alopecia Drug Olumiant from July 1, Sparking Healthcare Priorities Debate"
+    lead_url: https://www.koreaherald.com/article/10781855
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/20260619/hair-loss-drug-coverage-sparks-debate-over-national-health-insurance-priorities
+    locked_urls:
+      - https://www.koreaherald.com/article/10781855
+      - https://www.koreatimes.co.kr/southkorea/20260619/hair-loss-drug-coverage-sparks-debate-over-national-health-insurance-priorities
+    hard_facts:
+      - claim: date NHIS coverage of Olumiant begins
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "South Korea's National Health Insurance Service (NHIS) will begin covering Olumiant tablets (baricitinib) for severe alopecia areata from July 1, 2026"
+      - claim: minimum SALT score for eligibility
+        kind: numerical_with_unit
+        value: "at least 50 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "Eligibility requires a SALT score of at least 50 points"
+      - claim: alternative SALT score range with severe visible loss
+        kind: numerical_with_unit
+        value: "20-49"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "or 20-49 with severe visible loss such as complete eyebrow loss"
+      - claim: minimum duration of alternative treatment failure required
+        kind: temporal
+        value: "three months"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "demonstrated failure of three months of alternative treatments"
+      - claim: maximum coverage period
+        kind: temporal
+        value: "two-year coverage period"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "a maximum two-year coverage period with assessments at 36 weeks and every six months"
+      - claim: assessment schedule at 36 weeks
+        kind: temporal
+        value: "36 weeks"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "assessments at 36 weeks and every six months"
+      - claim: annual coverage cost estimate
+        kind: numerical_with_unit
+        value: "approximately 100 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "Coverage is estimated to cost approximately 100 billion won annually"
+      - claim: NHIS reserves as of 2025
+        kind: numerical_with_unit
+        value: "30.2 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "NHIS reserves reached 30.2 trillion won in 2025"
+      - claim: year NHIS reserves projected to deplete
+        kind: temporal
+        value: "2033"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "but are projected to deplete by 2033 due to ageing populations and rising costs"
+      - claim: named institution — National Health Insurance Service (NHIS)
+        kind: named_institution
+        value: "National Health Insurance Service (NHIS)"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "South Korea's National Health Insurance Service (NHIS) will begin covering Olumiant tablets"
+      - claim: named product — Olumiant tablets (baricitinib)
+        kind: named_product
+        value: "Olumiant tablets (baricitinib)"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "South Korea's National Health Insurance Service (NHIS) will begin covering Olumiant tablets (baricitinib) for severe alopecia areata"
+      - claim: named institution — Korea Federation for Severe Disease Patients
+        kind: named_institution
+        value: "Korea Federation for Severe Disease Patients"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+          - https://www.koreatimes.co.kr/southkorea/20260619/hair-loss-drug-coverage-sparks-debate-over-national-health-insurance-priorities
+        verbatim_excerpt: "the Korea Federation for Severe Disease Patients called it 'a populist policy that undermines the foundation of the NHIS'"
+      - claim: named person — Lee Jae Myung (President, championed initiative)
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10781855
+        verbatim_excerpt: "President Lee Jae Myung championed the initiative"
+    quotes:
+      - speaker_name: Korea Federation for Severe Disease Patients
+        speaker_title: Patient advocacy group, Korea Federation for Severe Disease Patients
+        verbatim_en: "a populist policy that undermines the foundation of the NHIS"
+        source_url: https://www.koreaherald.com/article/10781855
+        context: criticism of NHIS decision to cover Olumiant for severe alopecia areata
+      - speaker_name: Unnamed expert
+        speaker_title: Medical/policy expert (unnamed)
+        verbatim_en: "Once you abandon medical necessity as the standard for insurance coverage, policy priorities risk being driven by whichever interest groups have the loudest voices."
+        source_url: https://www.koreatimes.co.kr/southkorea/20260619/hair-loss-drug-coverage-sparks-debate-over-national-health-insurance-priorities
+        context: expert warning in Korea Times coverage of NHIS alopecia coverage debate
+
+  - story_id: human-rights-commission-detainees-hospital-surgery
+    category: society
+    headline_en: "Human Rights Commission Recommends Justice Ministry Allow Immigration Detainees Access to External Hospital Surgery"
+    lead_url: https://www.koreatimes.co.kr/southkorea/society/20260619/human-rights-body-calls-for-detained-foreigners-access-to-outside-hospitals
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/society/20260619/human-rights-body-calls-for-detained-foreigners-access-to-outside-hospitals
+    hard_facts:
+      - claim: date complaints were filed
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260619/human-rights-body-calls-for-detained-foreigners-access-to-outside-hospitals
+        verbatim_excerpt: "two complaints filed in January 2026 involving detainees at an immigration detention centre"
+      - claim: number of complaints filed
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260619/human-rights-body-calls-for-detained-foreigners-access-to-outside-hospitals
+        verbatim_excerpt: "The recommendation followed two complaints filed in January 2026"
+      - claim: named institution — National Human Rights Commission
+        kind: named_institution
+        value: "National Human Rights Commission"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260619/human-rights-body-calls-for-detained-foreigners-access-to-outside-hospitals
+        verbatim_excerpt: "South Korea's National Human Rights Commission recommended that Justice Minister Jung Sung-ho"
+      - claim: named person — Jung Sung-ho (Justice Minister)
+        kind: named_person
+        value: "Jung Sung-ho"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260619/human-rights-body-calls-for-detained-foreigners-access-to-outside-hospitals
+        verbatim_excerpt: "recommended that Justice Minister Jung Sung-ho grant immigration detainees access to outside hospitals"
+      - claim: first detainee's medical condition
+        kind: named_product
+        value: "torn medial meniscus"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260619/human-rights-body-calls-for-detained-foreigners-access-to-outside-hospitals
+        verbatim_excerpt: "one requiring surgery for a torn medial meniscus"
+      - claim: second detainee's medical condition
+        kind: named_product
+        value: "multiple fractures"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260619/human-rights-body-calls-for-detained-foreigners-access-to-outside-hospitals
+        verbatim_excerpt: "another for multiple fractures"
+    quotes: []
+
+  - story_id: south-korean-hospitals-nine-top-ten-newsweek
+    category: society
+    headline_en: "South Korean Hospitals Capture Nine of Top Ten Spots in Newsweek Asia-Pacific Specialty Hospital Rankings"
+    lead_url: https://www.kedglobal.com/medical-services/newsView/ked202606190001
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+    hard_facts:
+      - claim: number of top-ten positions captured by South Korean hospitals
+        kind: numerical
+        value: "nine"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "South Korean medical institutions captured nine of the ten leading positions in Newsweek's latest Asia-Pacific specialty hospital rankings"
+      - claim: total top positions in ranking
+        kind: numerical
+        value: "ten"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "nine of the ten leading positions"
+      - claim: named institution — Samsung Medical Center (1st in oncology)
+        kind: named_institution
+        value: "Samsung Medical Center"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "In the oncology specialty, Samsung Medical Center ranked first"
+      - claim: named institution — Asan Medical Center (2nd in oncology)
+        kind: named_institution
+        value: "Asan Medical Center"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "Asan Medical Center second"
+      - claim: named institution — Seoul National University Hospital (3rd in oncology)
+        kind: named_institution
+        value: "Seoul National University Hospital"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "and Seoul National University Hospital third"
+      - claim: named institution — Newsweek (publisher of rankings)
+        kind: named_institution
+        value: "Newsweek"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "in Newsweek's latest Asia-Pacific specialty hospital rankings"
+      - claim: Samsung Medical Center oncology rank
+        kind: numerical
+        value: "first"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "Samsung Medical Center ranked first"
+      - claim: Asan Medical Center oncology rank
+        kind: numerical
+        value: "second"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "Asan Medical Center second"
+      - claim: Seoul National University Hospital oncology rank
+        kind: numerical
+        value: "third"
+        source_urls:
+          - https://www.kedglobal.com/medical-services/newsView/ked202606190001
+        verbatim_excerpt: "Seoul National University Hospital third"
+    quotes: []
+
+  - story_id: kurly-ipo-push-record-q1-profit-wonji-labs
+    category: ipo_ma
+    headline_en: "Kurly Revives IPO Push as Online Grocer Posts Record Q1 Operating Profit and Acquires AI Startup Wonji Labs"
+    lead_url: https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+    hard_facts:
+      - claim: Kurly Q1 2026 revenue
+        kind: numerical_with_unit
+        value: "745.7 billion won"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Kurly, South Korea's major online grocery and e-commerce platform, reported Q1 2026 revenue of 745.7 billion won"
+      - claim: Kurly Q1 2026 revenue growth year-on-year
+        kind: numerical_with_unit
+        value: "up 28.4% year-on-year"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Q1 2026 revenue of 745.7 billion won (up 28.4% year-on-year)"
+      - claim: Kurly Q1 2026 record operating profit
+        kind: numerical_with_unit
+        value: "24.2 billion won"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "record operating profit of 24.2 billion won, a 13-fold increase"
+      - claim: Kurly operating profit growth multiple
+        kind: numerical_with_unit
+        value: "13-fold increase"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "record operating profit of 24.2 billion won, a 13-fold increase"
+      - claim: Kurly interest coverage ratio (previous)
+        kind: numerical_with_unit
+        value: "0.23x"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Interest coverage ratio improved from 0.23x to 3.31x"
+      - claim: Kurly interest coverage ratio (current)
+        kind: numerical_with_unit
+        value: "3.31x"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Interest coverage ratio improved from 0.23x to 3.31x"
+      - claim: Kurly financial costs (previous)
+        kind: numerical_with_unit
+        value: "7.7 billion"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "financial costs fell from 7.7 billion to 7.3 billion won"
+      - claim: Kurly financial costs (current)
+        kind: numerical_with_unit
+        value: "7.3 billion won"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "financial costs fell from 7.7 billion to 7.3 billion won"
+      - claim: Kurly current valuation in won
+        kind: numerical_with_unit
+        value: "approximately 2.8 trillion won"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Current valuation stands at approximately 2.8 trillion won (approximately USD 1.9 billion)"
+      - claim: Kurly current valuation in USD
+        kind: numerical_with_unit
+        value: "approximately USD 1.9 billion"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Current valuation stands at approximately 2.8 trillion won (approximately USD 1.9 billion)"
+      - claim: Naver previous stake in Kurly
+        kind: numerical_with_unit
+        value: "5.08%"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Naver increased its stake from 5.08% to 6.19% through a capital injection"
+      - claim: Naver current stake in Kurly
+        kind: numerical_with_unit
+        value: "6.19%"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Naver increased its stake from 5.08% to 6.19% through a capital injection"
+      - claim: combined stake of CEO Kim Slah and Naver
+        kind: numerical_with_unit
+        value: "approximately 11.9%"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "combined stake of CEO Kim Slah and Naver is approximately 11.9%"
+      - claim: Kurly inventory turnover (current)
+        kind: numerical_with_unit
+        value: "24.4 times"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Inventory turnover improved to 24.4 times from 23.1"
+      - claim: Kurly inventory turnover (previous)
+        kind: numerical_with_unit
+        value: "23.1"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Inventory turnover improved to 24.4 times from 23.1"
+      - claim: IPO primary-band threshold
+        kind: numerical_with_unit
+        value: "USD 300 million"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "expected to substantially exceed the USD 300 million primary-band threshold"
+      - claim: named institution — Kurly
+        kind: named_institution
+        value: "Kurly"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Kurly, South Korea's major online grocery and e-commerce platform"
+      - claim: named institution — Naver
+        kind: named_institution
+        value: "Naver"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Naver increased its stake from 5.08% to 6.19% through a capital injection"
+      - claim: named institution — Wonji Labs
+        kind: named_institution
+        value: "Wonji Labs"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "Kurly is acquiring AI solutions firm Wonji Labs as a wholly-owned subsidiary"
+      - claim: named person — Kim Slah (Kurly CEO)
+        kind: named_person
+        value: "Kim Slah"
+        source_urls:
+          - https://en.sedaily.com/finance/2026/06/19/kurly-sheds-loss-making-tag-revives-ipo-push
+        verbatim_excerpt: "combined stake of CEO Kim Slah and Naver is approximately 11.9%"
+    quotes: []
+
+  - story_id: global-vc-chase-korean-ai-chip-startups
+    category: ipo_ma
+    headline_en: "Global VC Giants Including a16z, Blackstone, KKR Chase Korean AI Chip Startups Rebellions and FuriosaAI"
+    lead_url: https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+    hard_facts:
+      - claim: named institution — Andreessen Horowitz (a16z)
+        kind: named_institution
+        value: "Andreessen Horowitz (a16z)"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "Major global venture capital and asset management firms — including Andreessen Horowitz (a16z), New Mountain Capital, PGIM (Prudential Financial), Kindred Ventures, Top Tier Capital Partners, Blackstone, and KKR"
+      - claim: named institution — New Mountain Capital
+        kind: named_institution
+        value: "New Mountain Capital"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "including Andreessen Horowitz (a16z), New Mountain Capital, PGIM (Prudential Financial), Kindred Ventures, Top Tier Capital Partners, Blackstone, and KKR"
+      - claim: named institution — PGIM (Prudential Financial)
+        kind: named_institution
+        value: "PGIM (Prudential Financial)"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "including Andreessen Horowitz (a16z), New Mountain Capital, PGIM (Prudential Financial), Kindred Ventures, Top Tier Capital Partners, Blackstone, and KKR"
+      - claim: named institution — Kindred Ventures
+        kind: named_institution
+        value: "Kindred Ventures"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "including Andreessen Horowitz (a16z), New Mountain Capital, PGIM (Prudential Financial), Kindred Ventures, Top Tier Capital Partners, Blackstone, and KKR"
+      - claim: named institution — Top Tier Capital Partners
+        kind: named_institution
+        value: "Top Tier Capital Partners"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "including Andreessen Horowitz (a16z), New Mountain Capital, PGIM (Prudential Financial), Kindred Ventures, Top Tier Capital Partners, Blackstone, and KKR"
+      - claim: named institution — Blackstone
+        kind: named_institution
+        value: "Blackstone"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "including Andreessen Horowitz (a16z), New Mountain Capital, PGIM (Prudential Financial), Kindred Ventures, Top Tier Capital Partners, Blackstone, and KKR"
+      - claim: named institution — KKR
+        kind: named_institution
+        value: "KKR"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "including Andreessen Horowitz (a16z), New Mountain Capital, PGIM (Prudential Financial), Kindred Ventures, Top Tier Capital Partners, Blackstone, and KKR"
+      - claim: named institution — Rebellions (South Korean AI chip startup)
+        kind: named_institution
+        value: "Rebellions"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "South Korean AI chip design startup Rebellions is a primary target"
+      - claim: named institution — Sakana AI (Japan)
+        kind: named_institution
+        value: "Sakana AI"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "alongside Sakana AI (Japan), FuriosaAI, and DeepX (Korea)"
+      - claim: named institution — FuriosaAI
+        kind: named_institution
+        value: "FuriosaAI"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "alongside Sakana AI (Japan), FuriosaAI, and DeepX (Korea)"
+      - claim: named institution — DeepX
+        kind: named_institution
+        value: "DeepX"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "alongside Sakana AI (Japan), FuriosaAI, and DeepX (Korea)"
+      - claim: named institution — Sakeon Korea (backed by SK Telecom)
+        kind: named_institution
+        value: "Sakeon Korea"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "Rebellions is merging with Sakeon Korea (backed by SK Telecom)"
+      - claim: named institution — SK Telecom (backing Sakeon Korea)
+        kind: named_institution
+        value: "SK Telecom"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "Rebellions is merging with Sakeon Korea (backed by SK Telecom) to strengthen its competitive position against Nvidia"
+      - claim: named institution — Nvidia (competitor)
+        kind: named_institution
+        value: "Nvidia"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "strengthen its competitive position against Nvidia"
+      - claim: strategic hub cities for AI hardware VC
+        kind: named_institution
+        value: "Seoul, Tokyo, and Taipei"
+        source_urls:
+          - https://www.kedglobal.com/venture-capital/newsView/ked202606190007
+        verbatim_excerpt: "Seoul, Tokyo, and Taipei are described as 'emerging as strategic hubs as capital follows the Asian manufacturing backbone of the AI value chain'"
+    quotes: []
+
+  - story_id: president-lee-asks-pope-leo-xiv-world-youth-day
+    category: other
+    headline_en: "President Lee Asks Pope Leo XIV to Visit South Korea, DMZ, and North Korea for World Youth Day 2027"
+    lead_url: https://www.koreaherald.com/article/10782085
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10782085
+    hard_facts:
+      - claim: dates of Lee's Vatican visit
+        kind: temporal
+        value: "June 14-15"
+        source_urls:
+          - https://www.koreaherald.com/article/10782085
+        verbatim_excerpt: "South Korean President Lee Jae-myung, during his June 14-15 Vatican visit"
+      - claim: World Youth Day 2027 location
+        kind: named_institution
+        value: "Seoul"
+        source_urls:
+          - https://www.koreaherald.com/article/10782085
+        verbatim_excerpt: "World Youth Day 2027 in Seoul (August 3-8, 2027)"
+      - claim: dates of World Youth Day 2027
+        kind: temporal
+        value: "August 3-8, 2027"
+        source_urls:
+          - https://www.koreaherald.com/article/10782085
+        verbatim_excerpt: "World Youth Day 2027 in Seoul (August 3-8, 2027)"
+      - claim: number of Korean Catholics
+        kind: numerical_with_unit
+        value: "approximately 6 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10782085
+        verbatim_excerpt: "serve approximately 6 million Korean Catholics"
+      - claim: previous Asian host of World Youth Day
+        kind: named_institution
+        value: "Philippines"
+        source_urls:
+          - https://www.koreaherald.com/article/10782085
+        verbatim_excerpt: "South Korea only the second Asian nation to host (Philippines hosted in 1995)"
+      - claim: year Philippines hosted World Youth Day
+        kind: temporal
+        value: "1995"
+        source_urls:
+          - https://www.koreaherald.com/article/10782085
+        verbatim_excerpt: "Philippines hosted in 1995"
+      - claim: named person — Lee Jae-myung (South Korean President)
+        kind: named_person
+        value: "Lee Jae-myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10782085
+        verbatim_excerpt: "South Korean President Lee Jae-myung, during his June 14-15 Vatican visit"
+      - claim: named person — Pope Leo XIV
+        kind: named_person
+        value: "Pope Leo XIV"
+        source_urls:
+          - https://www.koreaherald.com/article/10782085
+        verbatim_excerpt: "formally requested that Pope Leo XIV attend World Youth Day 2027 in Seoul"
+    quotes:
+      - speaker_name: Pope Leo XIV
+        speaker_title: Pope (Catholic Church)
+        verbatim_en: "he would actively consider and seek to pursue it."
+        source_url: https://www.koreaherald.com/article/10782085
+        context: Pope's response to President Lee's invitation to attend World Youth Day 2027 in Seoul during June 14-15 Vatican visit
+
+  - story_id: trump-asks-korea-10-warships-hanwha-canada-sub
+    category: other
+    headline_en: "Trump Asks South Korea to Build 10 Warships for U.S. Navy; Hanwha Ocean Bids for CAD$39B Canadian Submarine Contract"
+    lead_url: https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10782065
+    locked_urls:
+      - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+      - https://www.koreaherald.com/article/10782065
+    hard_facts:
+      - claim: number of warships Trump requested
+        kind: numerical
+        value: "10"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "U.S. President Donald Trump inquired whether Seoul could rapidly construct 10 warships for the American Navy"
+      - claim: South Korea's commitment to U.S. shipbuilding initiative
+        kind: numerical_with_unit
+        value: "USD 150 billion"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "South Korea has committed USD 150 billion to the 'Make American Shipbuilding Great Again' initiative"
+      - claim: named product — Make American Shipbuilding Great Again initiative
+        kind: named_product
+        value: "Make American Shipbuilding Great Again"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "committed USD 150 billion to the 'Make American Shipbuilding Great Again' initiative"
+      - claim: Canada Patrol Submarine Project — number of submarines
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+          - https://www.koreaherald.com/article/10782065
+        verbatim_excerpt: "Canada's Patrol Submarine Project (12 diesel-powered submarines"
+      - claim: Canada Patrol Submarine Project — total value in won
+        kind: numerical_with_unit
+        value: "approximately 60 trillion won"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+          - https://www.koreaherald.com/article/10782065
+        verbatim_excerpt: "total value approximately 60 trillion won / USD 39.3 billion, including maintenance and repair"
+      - claim: Canada Patrol Submarine Project — total value in USD
+        kind: numerical_with_unit
+        value: "USD 39.3 billion"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+          - https://www.koreaherald.com/article/10782065
+        verbatim_excerpt: "total value approximately 60 trillion won / USD 39.3 billion, including maintenance and repair"
+      - claim: Canada submarine delivery timeline
+        kind: temporal
+        value: "mid-2030s"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "with deliveries in the mid-2030s"
+      - claim: number of retiring Canadian submarines being replaced
+        kind: numerical
+        value: "four"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "replace Canada's four retiring Victoria-class submarines"
+      - claim: named product — Victoria-class submarines
+        kind: named_product
+        value: "Victoria-class submarines"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "replace Canada's four retiring Victoria-class submarines"
+      - claim: named institution — Hanwha Ocean
+        kind: named_institution
+        value: "Hanwha Ocean"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+          - https://www.koreaherald.com/article/10782065
+        verbatim_excerpt: "Hanwha Ocean is competing against Germany's ThyssenKrupp Marine Systems for Canada's Patrol Submarine Project"
+      - claim: named institution — ThyssenKrupp Marine Systems
+        kind: named_institution
+        value: "ThyssenKrupp Marine Systems"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "Hanwha Ocean is competing against Germany's ThyssenKrupp Marine Systems for Canada's Patrol Submarine Project"
+      - claim: named institution — Hanwha Group
+        kind: named_institution
+        value: "Hanwha Group"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "South Korean shipbuilders — Hanwha Group, Hyundai Heavy Industries, and Samsung Heavy Industries — are in discussions"
+      - claim: named institution — Hyundai Heavy Industries
+        kind: named_institution
+        value: "Hyundai Heavy Industries"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "South Korean shipbuilders — Hanwha Group, Hyundai Heavy Industries, and Samsung Heavy Industries"
+      - claim: named institution — Samsung Heavy Industries
+        kind: named_institution
+        value: "Samsung Heavy Industries"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "South Korean shipbuilders — Hanwha Group, Hyundai Heavy Industries, and Samsung Heavy Industries"
+      - claim: named person — Lee Jae Myung (President's statement)
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "Lee stated: 'We have high hopes based on our overall assessment'"
+      - claim: named person — Donald Trump (warship request)
+        kind: named_person
+        value: "Donald Trump"
+        source_urls:
+          - https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        verbatim_excerpt: "U.S. President Donald Trump inquired whether Seoul could rapidly construct 10 warships"
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: South Korean President
+        verbatim_en: "We have high hopes based on our overall assessment, but it is not so easy as to be confident"
+        source_url: https://www.kedglobal.com/shipping-shipbuilding/newsView/ked202606190008
+        context: G7 summit in France, statement regarding Canada Patrol Submarine Project bid
