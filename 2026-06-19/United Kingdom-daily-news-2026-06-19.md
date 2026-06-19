@@ -40,11 +40,12 @@ HMRC collected £153.7 billion in tax and National Insurance contributions acros
 
 Income Tax, Capital Gains Tax and NICs accounted for £91.3 billion of the total, up £7.2 billion year-on-year, with April 2026 setting a PAYE record as employee earnings pushed more workers into higher bands. VAT brought in £35.1 billion, up £1.2 billion; business taxes £8.6 billion, up £0.8 billion; and stamp taxes £3.4 billion, up £0.2 billion.
 
-The buoyant receipts sit awkwardly against the same morning's borrowing figures: revenue is climbing, but spending and debt interest are climbing faster. HMRC's next release is due 21 July 2026.
+The mechanism behind the surge is fiscal drag. Income tax thresholds have been frozen since April 2021 and are set to stay unchanged until at least 2031, so as wages rise more workers are pulled into higher bands without any change in headline rates — a stealth tax increase that lifts receipts year after year. The buoyant receipts sit awkwardly against the same morning's borrowing figures: revenue is climbing, but spending and debt interest are climbing faster. HMRC's next release is due 21 July 2026.
 
 **References**
 
 [7] HM Revenue & Customs. (2026, June 19). HMRC tax receipts and National Insurance contributions for the UK. GOV.UK. https://www.gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk/hmrc-tax-receipts-and-national-insurance-contributions-for-the-uk-new-monthly-bulletin
+[8] Money Marketing. (2026, May 22). HMRC tax take hits £87.3bn as fiscal drag drives record PAYE. Money Marketing. https://www.moneymarketing.co.uk/news/hmrc-tax-take-hits-87-3bn-as-fiscal-drag-drives-record-paye/
 
 ---
 
@@ -62,9 +63,9 @@ Starmer congratulated him but signalled he would not go quietly, vowing to stand
 
 **References**
 
-[8] NPR. (2026, June 19). Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain. NPR. https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
-[9] Al Jazeera. (2026, June 19). Andy Burnham wins key UK by-election, paving way to challenge Keir Starmer. Al Jazeera. https://www.aljazeera.com/news/2026/6/19/
-[10] Press Association. (2026, June 19). Burnham wins Makerfield by-election in blow to Starmer. Yahoo News UK. https://www.yahoonewsuk.com
+[9] NPR. (2026, June 19). Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain. NPR. https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+[10] Al Jazeera. (2026, June 19). Andy Burnham wins key UK by-election, paving way to challenge Keir Starmer. Al Jazeera. https://www.aljazeera.com/news/2026/6/19/
+[11] Press Association. (2026, June 19). Burnham wins Makerfield by-election in blow to Starmer. Yahoo News UK. https://www.yahoonewsuk.com
 
 ---
 
@@ -80,9 +81,11 @@ The result was a rout of the centre and left. Reform UK came third (2,478, 8.6%)
 
 **References**
 
-[11] Global Banking & Finance Review. (2026, June 19). UK's Conservatives win local election in Scotland. Global Banking & Finance Review. https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
-[12] Press Association. (2026, June 19). Conservatives win Aberdeen South by-election from SNP. Yahoo News UK. https://www.yahoonewsuk.com
-[13] PollCheck. (2026, June 19). Aberdeen South by-election result and swing analysis. PollCheck. https://www.pollcheck.co.uk
+[12] Global Banking & Finance Review. (2026, June 19). UK's Conservatives win local election in Scotland. Global Banking & Finance Review. https://www.globalbankingandfinance.com/uks-conservatives-win-local-election-scotland/
+[13] Press Association. (2026, June 19). Conservatives win Aberdeen South by-election from SNP. Yahoo News UK. https://www.yahoonewsuk.com
+[14] PollCheck. (2026, June 19). Aberdeen South by-election result and swing analysis. PollCheck. https://www.pollcheck.co.uk
+
+---
 
 *Note: only 2 stories met T1-T4 standards for this category today.*
 
@@ -100,9 +103,9 @@ The package is the UK's most significant divergence from the inherited EU data r
 
 **References**
 
-[14] Information Commissioner's Office. (2026, June 19). The Data (Use and Access) Act 2025 — what does it mean for organisations? Information Commissioner's Office. https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
-[15] Techerati. (2026, June 19). UK data protection changes are arriving June 2026. Techerati. https://www.techerati.com/features-hub/uk-data-protection-changes-are-arriving-june-2026/
-[16] Travers Smith. (2026, June 19). Data (Use and Access) Act 2025: key provisions now in force. Travers Smith. https://www.traverssmith.com
+[15] Information Commissioner's Office. (2026, June 19). The Data (Use and Access) Act 2025 — what does it mean for organisations? Information Commissioner's Office. https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/
+[16] Techerati. (2026, June 19). UK data protection changes are arriving June 2026. Techerati. https://www.techerati.com/features-hub/uk-data-protection-changes-are-arriving-june-2026/
+[17] Travers Smith. (2026, June 19). Data (Use and Access) Act 2025: key provisions now in force. Travers Smith. https://www.traverssmith.com
 
 ---
 
@@ -116,9 +119,9 @@ That stance carries a caveat on resilience. On 15 May 2026 the BoE, FCA and HM T
 
 **References**
 
-[17] Financial Conduct Authority. (2026, June 19). AI Input Zone. Financial Conduct Authority. https://www.fca.org.uk/ai-input-zone
-[18] Cooley. (2026, June 19). FCA AI Input Zone closes: what firms told the regulator. Cooley Finsights. https://www.cooley.com/finsights
-[19] Regulation Tomorrow. (2026, June 19). FCA closes AI Input Zone consultation. Regulation Tomorrow. https://www.regulationtomorrow.com
+[18] Financial Conduct Authority. (2026, June 19). AI Input Zone. Financial Conduct Authority. https://www.fca.org.uk/ai-input-zone
+[19] Cooley. (2026, June 19). FCA AI Input Zone closes: what firms told the regulator. Cooley Finsights. https://www.cooley.com/finsights
+[20] Regulation Tomorrow. (2026, June 19). FCA closes AI Input Zone consultation. Regulation Tomorrow. https://www.regulationtomorrow.com
 
 ---
 
@@ -132,9 +135,9 @@ The departure is symbolic rather than regulatory — one department stepping bac
 
 **References**
 
-[20] UKTN. (2026, June 19). UK government department quits X over disinformation. UKTN. https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
-[21] The News International. (2026, June 19). UK Attorney General quits X over disinformation concerns. The News International. https://www.thenews.com.pk/latest/1406497-uk-attorney-general-quits-x-over-disinformation-concerns
-[22] Engadget. (2026, June 19). At least one UK government department is reportedly done with X. Engadget. https://www.engadget.com/2197975/uk-attorney-general-office-reportedly-quits-x/
+[21] UKTN. (2026, June 19). UK government department quits X over disinformation. UKTN. https://www.uktech.news/news/government-and-policy/uk-government-department-quits-x-over-disinformation-20260619
+[22] The News International. (2026, June 19). UK Attorney General quits X over disinformation concerns. The News International. https://www.thenews.com.pk/latest/1406497-uk-attorney-general-quits-x-over-disinformation-concerns
+[23] Engadget. (2026, June 19). At least one UK government department is reportedly done with X. Engadget. https://www.engadget.com/2197975/uk-attorney-general-office-reportedly-quits-x/
 
 ---
 
@@ -150,8 +153,10 @@ There was a tentative easing in lived experience. The share of adults reporting 
 
 **References**
 
-[23] Office for National Statistics. (2026, June 19). Public opinions and social trends, Great Britain: May 2026. Office for National Statistics. https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
-[24] GOV.UK. (2026, June 19). Public opinions and social trends, Great Britain: May 2026. GOV.UK. https://www.gov.uk/government/statistics/announcements/public-opinions-and-social-trends-great-britain-may-2026
+[24] Office for National Statistics. (2026, June 19). Public opinions and social trends, Great Britain: May 2026. Office for National Statistics. https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest
+[25] GOV.UK. (2026, June 19). Public opinions and social trends, Great Britain: May 2026. GOV.UK. https://www.gov.uk/government/statistics/announcements/public-opinions-and-social-trends-great-britain-may-2026
+
+---
 
 *Note: only 1 story met T1-T4 standards for this category today.*
 
@@ -169,10 +174,12 @@ PPHE shares fell sharply on the news — reports put the drop between 8.9% and 1
 
 **References**
 
-[25] Proactive Investors. (2026, June 19). PPHE strategic review stalls as founder opposition kills Fattal hotel bid. Proactive Investors. https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
-[26] Global Banking & Finance Review. (2026, June 19). PPHE says Fattal's $1.22 billion takeover bid not deliverable. Global Banking & Finance Review. https://www.globalbankingandfinance.com
-[27] AJ Bell. (2026, June 19). PPHE hotel suitor Fattal rules out offer, new bidder emerges. AJ Bell. https://www.ajbell.co.uk/news/articles/pphe-hotel-suitor-fattal-rules-out-offer-new-bidder-emerges
-[28] Investegate. (2026, June 19). PPHE Hotel Group — update on strategic review and formal sale process. Investegate. https://www.investegate.co.uk
+[26] Proactive Investors. (2026, June 19). PPHE strategic review stalls as founder opposition kills Fattal hotel bid. Proactive Investors. https://www.proactiveinvestors.co.uk/companies/news/1094170/pphe-strategic-review-stalls-as-founder-opposition-kills-fattal-hotel-bid-1094170.html
+[27] Global Banking & Finance Review. (2026, June 19). PPHE says Fattal's $1.22 billion takeover bid not deliverable. Global Banking & Finance Review. https://www.globalbankingandfinance.com
+[28] AJ Bell. (2026, June 19). PPHE hotel suitor Fattal rules out offer, new bidder emerges. AJ Bell. https://www.ajbell.co.uk/news/articles/pphe-hotel-suitor-fattal-rules-out-offer-new-bidder-emerges
+[29] Investegate. (2026, June 19). PPHE Hotel Group — update on strategic review and formal sale process. Investegate. https://www.investegate.co.uk
+
+---
 
 *Note: only 1 story met T1-T4 standards for this category today.*
 
@@ -190,10 +197,10 @@ PM SWES follows the 2023 gilt market SWES, which probed how pension and liabilit
 
 **References**
 
-[29] Bank of England. (2026, June 19). Private markets system-wide exploratory scenario. Bank of England. https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
-[30] Bloomberg. (2026, June 19). Private markets face up to worst nightmare in Bank of England stress test. Bloomberg. https://www.bloomberg.com/news/newsletters/2026-06-19/private-markets-face-up-to-worst-nightmare-in-bank-of-england-stress-test
-[31] Macfarlanes. (2026, June 19). The Bank of England's private capital SWES test — a blueprint for global regulators? Macfarlanes. https://www.macfarlanes.com
-[32] Private Debt Investor. (2026, June 19). Bank of England launches private markets SWES. Private Debt Investor. https://www.privatedebtinvestor.com
+[30] Bank of England. (2026, June 19). Private markets system-wide exploratory scenario. Bank of England. https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario
+[31] Bloomberg. (2026, June 19). Private markets face up to worst nightmare in Bank of England stress test. Bloomberg. https://www.bloomberg.com/news/newsletters/2026-06-19/private-markets-face-up-to-worst-nightmare-in-bank-of-england-stress-test
+[32] Macfarlanes. (2026, June 19). The Bank of England's private capital SWES test — a blueprint for global regulators? Macfarlanes. https://www.macfarlanes.com
+[33] Private Debt Investor. (2026, June 19). Bank of England launches private markets SWES. Private Debt Investor. https://www.privatedebtinvestor.com
 
 ---
 
@@ -207,8 +214,10 @@ The ORR paired the usage data with its inaugural Rail Customer Experience Survey
 
 **References**
 
-[33] Office of Rail and Road. (2026, June 19). ORR says most journeys made on Great Britain's rail network since 1920. Office of Rail and Road. https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
-[34] RailBusinessDaily. (2026, June 19). In the news — 19th June 2026. RailBusinessDaily. https://news.railbusinessdaily.com/in-the-news-19th-june-2026/
-[35] Rail UK. (2026, June 19). ORR says most journeys made on Great Britain's rail network since 1920. Rail UK. https://www.railuk.com
+[34] Office of Rail and Road. (2026, June 19). ORR says most journeys made on Great Britain's rail network since 1920. Office of Rail and Road. https://www.orr.gov.uk/search-news/orr-says-most-journeys-made-great-britains-rail-network-1920
+[35] RailBusinessDaily. (2026, June 19). In the news — 19th June 2026. RailBusinessDaily. https://news.railbusinessdaily.com/in-the-news-19th-june-2026/
+[36] Rail UK. (2026, June 19). ORR says most journeys made on Great Britain's rail network since 1920. Rail UK. https://www.railuk.com
+
+---
 
 *Note: only 2 stories met T1-T4 standards for this category today.*

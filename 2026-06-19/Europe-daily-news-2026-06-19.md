@@ -8,11 +8,12 @@ Euro-area banks supervised by the ECB held combined total assets of €33.50 tri
 
 The asset-quality picture continued to improve. The non-performing loan ratio fell to 1.97%, extending a long decline from the double-digit levels that plagued southern European lenders after the sovereign-debt crisis. Return on equity stood at 9.3%, a level that keeps euro-area banks profitable but still short of the returns their US peers post.
 
-Capital buffers remained thick. The common equity tier 1 ratio — the core measure of a bank's loss-absorbing capacity — was 16.42%, well above the 4.5% regulatory minimum. The quarterly release is the supervisor's main scorecard on whether the system can withstand a downturn; on this reading, the cushion is roughly three and a half times the floor.
+Capital buffers remained thick. The common equity tier 1 ratio — the core measure of a bank's loss-absorbing capacity — was 16.42%, well above the 4.5% regulatory minimum. The quarterly release is the supervisor's main scorecard on whether the system can withstand a downturn; on this reading, the cushion is roughly three and a half times the floor. The companion supervisory statistics for significant institutions, released in March, had shown the NPL ratio excluding central-bank balances at its lowest since the series began in 2020.
 
 **References**
 
 [1] European Central Bank. (2026, June 19). Consolidated banking data. European Central Bank. https://www.ecb.europa.eu/stats/supervisory/html/index.en.html
+[2] European Central Bank. (2026, June 19). ECB publishes consolidated banking data for end-December 2025. European Central Bank. https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260619~f097597c01.en.html
 
 ---
 
@@ -26,9 +27,11 @@ The move lands as German pricing policy is already under pressure from industry.
 
 **References**
 
-[2] Urbancik, J. (2026, June 19). US launches trade investigation into Germany over pharma pricing. Euronews. https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing
-[3] Bloomberg. (2026, June 19). US opens trade probe into Germany pharma pricing. Bloomberg. https://www.bloomberg.com/news/articles/2026-06-19/us-opens-trade-probe-into-germany-pharma-pricing
-[4] CNBC. (2026, June 19). US opens tariff probe targeting Germany's drug pricing policies. CNBC. https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html
+[3] Urbancik, J. (2026, June 19). US launches trade investigation into Germany over pharma pricing. Euronews. https://www.euronews.com/business/2026/06/19/us-launches-trade-investigation-into-germany-over-pharma-pricing
+[4] Bloomberg. (2026, June 19). US opens trade probe into Germany pharma pricing. Bloomberg. https://www.bloomberg.com/news/articles/2026-06-19/us-opens-trade-probe-into-germany-pharma-pricing
+[5] CNBC. (2026, June 19). US opens tariff probe targeting Germany's drug pricing policies. CNBC. https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html
+
+---
 
 *Note: only 2 stories met T1-T4 standards for this category today.*
 
@@ -46,10 +49,10 @@ On China, the council mandated Commission President Ursula von der Leyen to "dev
 
 **References**
 
-[5] Council of the European Union. (2026, June 19). European Council meeting, 18-19 June 2026. Council of the European Union. https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
-[6] Council of the European Union. (2026, June 18). European Council conclusions on Ukraine and on European defence and security. Council of the European Union. https://www.consilium.europa.eu/en/press/press-releases/2026/06/18/european-council-conclusions-on-ukraine-and-on-european-defence-and-security/
-[7] Euronews. (2026, June 18). EU summit: Leaders and Zelenskyy to debate accession and peace negotiations. Euronews. https://www.euronews.com/my-europe/2026/06/18/eu-summit-leaders-and-zelenskyy-to-debate-accession-and-peace-negotiations
-[8] Eunews. (2026, June 18). Ukraine, China, global challenges and the row over the common budget: the two-day EU leaders summit. Eunews. https://www.eunews.it/en/2026/06/18/ukraine-china-global-challenges-and-the-row-over-the-common-budget-the-two-day-eu-leaders-summit/
+[6] Council of the European Union. (2026, June 19). European Council meeting, 18-19 June 2026. Council of the European Union. https://www.consilium.europa.eu/en/meetings/european-council/2026/06/18-19/
+[7] Council of the European Union. (2026, June 18). European Council conclusions on Ukraine and on European defence and security. Council of the European Union. https://www.consilium.europa.eu/en/press/press-releases/2026/06/18/european-council-conclusions-on-ukraine-and-on-european-defence-and-security/
+[8] Euronews. (2026, June 18). EU summit: Leaders and Zelenskyy to debate accession and peace negotiations. Euronews. https://www.euronews.com/my-europe/2026/06/18/eu-summit-leaders-and-zelenskyy-to-debate-accession-and-peace-negotiations
+[9] Eunews. (2026, June 18). Ukraine, China, global challenges and the row over the common budget: the two-day EU leaders summit. Eunews. https://www.eunews.it/en/2026/06/18/ukraine-china-global-challenges-and-the-row-over-the-common-budget-the-two-day-eu-leaders-summit/
 
 ---
 
@@ -61,7 +64,7 @@ The disclosure split the bloc. Polish Prime Minister Donald Tusk and Baltic lead
 
 **References**
 
-[9] Liboreiro, J., & Tadeo, M. (2026, June 19). Costa defends surprise decision to open diplomatic channel with Russia. Euronews. https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia
+[10] Liboreiro, J., & Tadeo, M. (2026, June 19). Costa defends surprise decision to open diplomatic channel with Russia. Euronews. https://www.euronews.com/my-europe/2026/06/19/costa-defends-surprise-decision-to-open-diplomatic-channel-with-russia
 
 ---
 
@@ -75,8 +78,8 @@ Burnham, who has held the Greater Manchester mayoralty since 2017, has repeatedl
 
 **References**
 
-[10] Al Jazeera. (2026, June 19). Andy Burnham wins UK Makerfield by-election. Al Jazeera. https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election
-[11] NPR. (2026, June 19). Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain. NPR. https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
+[11] Al Jazeera. (2026, June 19). Andy Burnham wins UK Makerfield by-election. Al Jazeera. https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-uk-makerfield-by-election
+[12] NPR. (2026, June 19). Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain. NPR. https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election
 
 ---
 
@@ -88,7 +91,7 @@ Zelenskyy described Ukraine's armed forces as "de facto NATO's second-strongest 
 
 **References**
 
-[12] Euronews. (2026, June 19). Zelenskyy: Ukraine deserves fast EU membership more than any other country. Euronews. https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country
+[13] Euronews. (2026, June 19). Zelenskyy: Ukraine deserves fast EU membership more than any other country. Euronews. https://www.euronews.com/my-europe/2026/06/19/zelenskyy-ukraine-deserves-fast-eu-membership-more-than-any-other-country
 
 ---
 
@@ -102,7 +105,7 @@ The launch carried unusual political weight. European Commission President Ursul
 
 **References**
 
-[13] Euronews. (2026, June 19). European social media platform W launches beta in direct challenge to X. Euronews. https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x
+[14] Euronews. (2026, June 19). European social media platform W launches beta in direct challenge to X. Euronews. https://www.euronews.com/next/2026/06/19/european-social-media-platform-w-launches-beta-in-direct-challenge-to-x
 
 ---
 
@@ -114,9 +117,11 @@ Sessions covered algorithmic bias, agentic AI, AI-military integration, counter-
 
 **References**
 
-[14] UNIDIR. (2026, June 19). Global Conference on AI, Security and Ethics 2026. UNIDIR. https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/
-[15] Tech Times. (2026, June 18). Military AI governance enters enforcement phase: UNIDIR opens Geneva forum today. Tech Times. https://www.techtimes.com/articles/318661/20260618/military-ai-governance-enters-enforcement-phase-unidir-opens-geneva-forum-today.htm
-[16] UNIDIR. (2026, June 17). UNIDIR Centre of Excellence on AI, Peace and Security. UNIDIR. https://unidir.org/unidir-centre-of-excellence-on-ai-peace-and-security/
+[15] UNIDIR. (2026, June 19). Global Conference on AI, Security and Ethics 2026. UNIDIR. https://unidir.org/event/global-conference-on-ai-security-and-ethics-2026/
+[16] Tech Times. (2026, June 18). Military AI governance enters enforcement phase: UNIDIR opens Geneva forum today. Tech Times. https://www.techtimes.com/articles/318661/20260618/military-ai-governance-enters-enforcement-phase-unidir-opens-geneva-forum-today.htm
+[17] UNIDIR. (2026, June 17). UNIDIR Centre of Excellence on AI, Peace and Security. UNIDIR. https://unidir.org/unidir-centre-of-excellence-on-ai-peace-and-security/
+
+---
 
 *Note: only 2 stories met T1-T4 standards for this category today.*
 
@@ -132,7 +137,7 @@ Meteorologist José Antonio Maldonado described the event as "extreme heat." Spa
 
 **References**
 
-[17] Euronews. (2026, June 19). Spain faces first major heatwave of 2026: highs of 45°C expected in the south. Euronews. https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south
+[18] Euronews. (2026, June 19). Spain faces first major heatwave of 2026: highs of 45°C expected in the south. Euronews. https://www.euronews.com/green/2026/06/19/spain-faces-first-major-heatwave-of-2026-highs-of-45c-expected-in-the-south
 
 ---
 
@@ -144,23 +149,27 @@ The warning carries weight because of 2017, when fires centred on Pedrógão Gra
 
 **References**
 
-[18] Euronews. (2026, June 19). El Niño raises wildfire fears in Portugal as summer approaches. Euronews. https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches
+[19] Euronews. (2026, June 19). El Niño raises wildfire fears in Portugal as summer approaches. Euronews. https://www.euronews.com/green/2026/06/19/el-nino-raises-wildfire-fears-in-portugal-as-summer-approaches
+[20] Wikipedia. (2017, June 17). June 2017 Portugal wildfires. Wikipedia. https://en.wikipedia.org/wiki/June_2017_Portugal_wildfires
 
 ---
 
 ### Europe debates banning social media for teens as data shows girls hit hardest
 
-Problematic adolescent social media use across Europe rose from 7% in 2018 to 11% in 2022, with girls bearing the brunt, according to survey data underpinning a wave of legislative moves now sweeping the continent. Romania recorded the highest rates — 28% of girls and 18% of boys — followed by Ireland at 25% of girls and 13% of boys. Girls reported round-the-clock online contact at 44% versus 29% for boys.
+Problematic adolescent social media use across Europe rose from 7% in 2018 to 11% in 2022, with girls bearing the brunt, according to survey data — drawn from the WHO-backed Health Behaviour in School-aged Children study — that underpins a wave of legislative moves now sweeping the continent. Romania recorded the highest rates, at 28% of girls and 18% of boys, followed by Ireland at 25% of girls and 13% of boys. Girls reported round-the-clock online contact at 44% versus 29% for boys.
 
-The political response is hardening. France's National Assembly approved legislation restricting social media for under-15s, Spain proposed raising the minimum age to 16, and Greece's prime minister announced an under-15 ban pending a summer 2026 vote. Public backing for such restrictions is broad: 79% in France, 76% in the UK, 74% in Germany, 70% in Italy, 68% in Spain and 53% in Poland.
+The political response is hardening. France's National Assembly approved legislation restricting social media for under-15s, Spain proposed raising the minimum age to 16, and Greece's prime minister announced an under-15 ban pending a summer 2026 vote. Public backing for such restrictions is broad: 79% in France, 76% in the UK, 74% in Germany, 70% in Italy, 68% in Spain and 53% in Poland. Many of the proposals hinge on age-verification systems that have yet to be built and may collide with EU-wide rules limiting how governments can force apps such as TikTok and Instagram to block younger users.
 
 **References**
 
-[19] Euronews. (2026, June 19). Europe looks at banning social media for teens, and girls are most impacted. Euronews. https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted
+[21] Euronews. (2026, June 19). Europe looks at banning social media for teens, and girls are most impacted. Euronews. https://www.euronews.com/my-europe/2026/06/19/europe-looks-at-banning-social-media-for-teens-and-girls-are-most-impacted
+[22] ALM Corp. (2026, June 19). EU teen social media ban: France, Greece, Spain, age verification and what happens next. ALM Corp. https://almcorp.com/blog/eu-teen-social-media-ban-explained/
 
 ---
 
 ## 5. Corporate IPO & M&A
+
+---
 
 *Note: only 0 stories met T1-T4 standards for this category today.*
 
@@ -178,6 +187,9 @@ The timing sharpens the argument. European natural gas prices have risen 60% sin
 
 **References**
 
-[20] Euronews. (2026, June 19). Gas expansion in the guise of security: is Europe making the energy crisis permanent? Euronews. https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent
+[23] Euronews. (2026, June 19). Gas expansion in the guise of security: is Europe making the energy crisis permanent? Euronews. https://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent
+[24] Beyond Fossil Fuels. (2025, August 5). Gas Plant Profile: Mintia, Romania. Beyond Fossil Fuels. https://beyondfossilfuels.org/2025/08/05/gas-plant-profile-mintia-romania/
+
+---
 
 *Note: only 1 story met T1-T4 standards for this category today.*
