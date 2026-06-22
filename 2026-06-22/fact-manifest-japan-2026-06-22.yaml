@@ -1,0 +1,704 @@
+version: 1
+generated_at: "2026-06-22T00:00:00Z"
+country: Japan
+date: "2026-06-22"
+total_stories: 6
+stories:
+  - story_id: japan-fm-warns-yen-intervention-usdjpy-161
+    category: econ
+    headline_en: Japan Finance Minister warns of yen intervention as USD/JPY surpasses 161 for first time since late April intervention
+    lead_url: https://www.nippon.com/en/news/yjj2026062200250/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.nippon.com/en/news/yjj2026062200250/
+    hard_facts:
+      - claim: Finance Minister identity
+        kind: named_person
+        value: Satsuki Katayama
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "Finance Minister Satsuki Katayama stated on June 22, 2026 at a post-cabinet press conference"
+      - claim: statement date
+        kind: temporal
+        value: June 22, 2026
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "Finance Minister Satsuki Katayama stated on June 22, 2026 at a post-cabinet press conference"
+      - claim: USD/JPY rate threshold breached
+        kind: numerical_with_unit
+        value: "161"
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "The yen was trading past 161 to the dollar"
+      - claim: prior minister warning date
+        kind: temporal
+        value: Friday June 19
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "On Friday June 19, the minister had also warned that authorities would take \"resolute action\" if speculative movements occur."
+      - claim: USD/JPY spot level
+        kind: numerical_with_unit
+        value: "161.5"
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "USD/JPY at 161.5 approaches the weakest since 1986."
+      - claim: weakest USD/JPY year reference
+        kind: temporal
+        value: "1986"
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "USD/JPY at 161.5 approaches the weakest since 1986."
+      - claim: BOJ rate decision date
+        kind: temporal
+        value: June 16
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "The BOJ raised rates to 1.0% at its June 16 meeting"
+      - claim: BOJ policy rate after June 16 hike
+        kind: numerical_with_unit
+        value: "1.0%"
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "The BOJ raised rates to 1.0% at its June 16 meeting (highest since 1995)"
+      - claim: BOJ rate historical high year reference
+        kind: temporal
+        value: "1995"
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "The BOJ raised rates to 1.0% at its June 16 meeting (highest since 1995)"
+      - claim: prior yen-buying intervention date
+        kind: temporal
+        value: April 30
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "The yen has surrendered all gains made on April 30 when officials conducted a record-sized market intervention."
+      - claim: Bank of Japan institution
+        kind: named_institution
+        value: BOJ
+        source_urls: [https://www.nippon.com/en/news/yjj2026062200250/]
+        verbatim_excerpt: "The government and BOJ \"would not hesitate to intervene in the currency market to prop up the Japanese currency.\""
+    quotes:
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister of Japan
+        verbatim_en: "appropriate measures whenever necessary"
+        source_url: https://www.nippon.com/en/news/yjj2026062200250/
+        context: post-cabinet press conference, June 22, 2026
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister of Japan
+        verbatim_en: "resolute action"
+        source_url: https://www.nippon.com/en/news/yjj2026062200250/
+        context: ministerial warning, Friday June 19
+      - speaker_name: Satsuki Katayama
+        speaker_title: Finance Minister of Japan
+        verbatim_en: "would not hesitate to intervene in the currency market to prop up the Japanese currency."
+        source_url: https://www.nippon.com/en/news/yjj2026062200250/
+        context: government and BOJ joint statement position
+
+  - story_id: nikkei-225-surpasses-72000-record-sixth-straight
+    category: econ
+    headline_en: Nikkei 225 surpasses 72,000 for first time in 76-year history as AI stocks and activist investors drive record sixth straight session
+    lead_url: https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+    body_source: full
+    corroborated_by:
+      - https://japannews24.com/nikkei-ends-above-72000-for-first-time-as-record-run-extends/
+      - https://www.techtimes.com/articles/318818/20260622/nikkei-225-crosses-72000-japans-ai-infrastructure-wave-outpaces-us-markets.htm
+    locked_urls:
+      - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+      - https://japannews24.com/nikkei-ends-above-72000-for-first-time-as-record-run-extends/
+      - https://www.techtimes.com/articles/318818/20260622/nikkei-225-crosses-72000-japans-ai-infrastructure-wave-outpaces-us-markets.htm
+    hard_facts:
+      - claim: Nikkei 225 daily advance percentage
+        kind: numerical_with_unit
+        value: "1.4%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+          - https://japannews24.com/nikkei-ends-above-72000-for-first-time-as-record-run-extends/
+        verbatim_excerpt: "Japan's Nikkei 225 advanced 1.4% to 72,247.21 on June 22, 2026"
+      - claim: Nikkei 225 closing level
+        kind: numerical_with_unit
+        value: "72,247.21"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+          - https://japannews24.com/nikkei-ends-above-72000-for-first-time-as-record-run-extends/
+        verbatim_excerpt: "Japan's Nikkei 225 advanced 1.4% to 72,247.21 on June 22, 2026"
+      - claim: date of record
+        kind: temporal
+        value: June 22, 2026
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Japan's Nikkei 225 advanced 1.4% to 72,247.21 on June 22, 2026"
+      - claim: Nikkei 225 intraday record high
+        kind: numerical_with_unit
+        value: "72,269.64"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "reaching an intraday record high of 72,269.64"
+      - claim: Topix gain percentage
+        kind: numerical_with_unit
+        value: "1.1%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "The Topix gained 1.1% to 4,089.59."
+      - claim: Topix closing level
+        kind: numerical_with_unit
+        value: "4,089.59"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "The Topix gained 1.1% to 4,089.59."
+      - claim: Nikkei 225 weekly closing level
+        kind: numerical_with_unit
+        value: "72,353"
+        source_urls:
+          - https://japannews24.com/nikkei-ends-above-72000-for-first-time-as-record-run-extends/
+        verbatim_excerpt: "The Nikkei closed at 72,353, up 1,103 yen from the prior week"
+      - claim: Nikkei weekly gain in yen
+        kind: numerical_with_unit
+        value: "1,103 yen"
+        source_urls:
+          - https://japannews24.com/nikkei-ends-above-72000-for-first-time-as-record-run-extends/
+        verbatim_excerpt: "up 1,103 yen from the prior week"
+      - claim: consecutive record closing high streak
+        kind: numerical
+        value: "sixth consecutive record closing high"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+          - https://japannews24.com/nikkei-ends-above-72000-for-first-time-as-record-run-extends/
+        verbatim_excerpt: "its sixth consecutive record closing high, a milestone unprecedented in the index's 76-year history"
+      - claim: Nikkei 225 index age
+        kind: numerical_with_unit
+        value: "76-year history"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+          - https://japannews24.com/nikkei-ends-above-72000-for-first-time-as-record-run-extends/
+        verbatim_excerpt: "a milestone unprecedented in the index's 76-year history"
+      - claim: Japan government public-private investment target
+        kind: numerical_with_unit
+        value: "¥370 trillion ($2.29 trillion)"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+          - https://www.techtimes.com/articles/318818/20260622/nikkei-225-crosses-72000-japans-ai-infrastructure-wave-outpaces-us-markets.htm
+        verbatim_excerpt: "Japan government's ¥370 trillion ($2.29 trillion) public-private investment target across 17 strategic sectors by 2040"
+      - claim: number of strategic sectors in investment plan
+        kind: numerical
+        value: "17"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "¥370 trillion ($2.29 trillion) public-private investment target across 17 strategic sectors by 2040"
+      - claim: investment plan target year
+        kind: temporal
+        value: "2040"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "public-private investment target across 17 strategic sectors by 2040"
+      - claim: investment plan formal presentation week
+        kind: temporal
+        value: week of June 23
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "(to be formally presented during the week of June 23)"
+      - claim: J.Front Retailing stock gain
+        kind: numerical_with_unit
+        value: "+16.24%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "J.Front Retailing +16.24% after 3D Investment Partners disclosed a 5.10% activist stake"
+      - claim: 3D Investment Partners stake in J.Front Retailing
+        kind: numerical_with_unit
+        value: "5.10%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "3D Investment Partners disclosed a 5.10% activist stake"
+      - claim: Yaskawa Electric stock gain
+        kind: numerical_with_unit
+        value: "+9.02%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Yaskawa Electric +9.02%"
+      - claim: Fanuc stock gain
+        kind: numerical_with_unit
+        value: "+8.10%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Fanuc +8.10%"
+      - claim: nonferrous metals sector gain
+        kind: numerical_with_unit
+        value: "+7.57%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "nonferrous metals +7.57%"
+      - claim: electric appliances sector gain
+        kind: numerical_with_unit
+        value: "+2.08%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "electric appliances +2.08%"
+      - claim: Nikkei year-to-date gain
+        kind: numerical_with_unit
+        value: "approximately +33%"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+          - https://www.techtimes.com/articles/318818/20260622/nikkei-225-crosses-72000-japans-ai-infrastructure-wave-outpaces-us-markets.htm
+        verbatim_excerpt: "Year-to-date Nikkei gain: approximately +33%."
+      - claim: foreign investor inflows into Japanese equities since April 2025
+        kind: numerical_with_unit
+        value: "approximately ¥16 trillion (~$100 billion)"
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Foreign investors have poured approximately ¥16 trillion (~$100 billion) into Japanese equities since April 2025."
+      - claim: foreign investor inflows start period
+        kind: temporal
+        value: April 2025
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Foreign investors have poured approximately ¥16 trillion (~$100 billion) into Japanese equities since April 2025."
+      - claim: Nomura Securities strategist identity
+        kind: named_person
+        value: Wataru Akiyama
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Nomura Securities strategist Wataru Akiyama"
+      - claim: Nomura Securities institution
+        kind: named_institution
+        value: Nomura Securities
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Nomura Securities strategist Wataru Akiyama"
+      - claim: J.Front Retailing institution
+        kind: named_institution
+        value: J.Front Retailing
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "J.Front Retailing +16.24% after 3D Investment Partners disclosed a 5.10% activist stake"
+      - claim: activist investor institution
+        kind: named_institution
+        value: 3D Investment Partners
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "3D Investment Partners disclosed a 5.10% activist stake"
+      - claim: Yaskawa Electric institution
+        kind: named_institution
+        value: Yaskawa Electric
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Yaskawa Electric +9.02%"
+      - claim: Fanuc institution
+        kind: named_institution
+        value: Fanuc
+        source_urls:
+          - https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        verbatim_excerpt: "Fanuc +8.10%"
+    quotes:
+      - speaker_name: Wataru Akiyama
+        speaker_title: Strategist, Nomura Securities
+        verbatim_en: "AI-related companies are once again playing a leading role in driving the market."
+        source_url: https://www.thestar.com.my/business/business-news/2026/06/22/japan039s-nikkei-rises-past-72000-mark-for-first-time-as-ai-euphoria-persists
+        context: comment on June 22, 2026 Nikkei 225 record session
+
+  - story_id: starmer-resigns-gcap-uk-japan-framework
+    category: politics
+    headline_en: Keir Starmer resigns as UK Prime Minister, raising immediate uncertainty over GCAP fighter jet programme and UK-Japan June 14 investment framework
+    lead_url: https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+      - https://www.japantimes.co.jp/news/2026/06/22/world/politics/starmer-resignation-timetable/
+      - https://www.eurasiantimes.com/after-fcas-collapse-gcap-fighter-program-in-jeopardy-as-uk-defence-secretary-resigns-in-funding-row/
+    locked_urls:
+      - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+      - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+      - https://www.japantimes.co.jp/news/2026/06/22/world/politics/starmer-resignation-timetable/
+      - https://www.eurasiantimes.com/after-fcas-collapse-gcap-fighter-program-in-jeopardy-as-uk-defence-secretary-resigns-in-funding-row/
+    hard_facts:
+      - claim: Keir Starmer identity and role
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "British Prime Minister Keir Starmer announced his resignation on June 22, 2026"
+      - claim: Starmer resignation announcement date
+        kind: temporal
+        value: June 22, 2026
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "British Prime Minister Keir Starmer announced his resignation on June 22, 2026 via televised statement"
+      - claim: Defence Secretary identity
+        kind: named_person
+        value: John Healey
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.eurasiantimes.com/after-fcas-collapse-gcap-fighter-program-in-jeopardy-as-uk-defence-secretary-resigns-in-funding-row/
+        verbatim_excerpt: "resignation of Defence Secretary John Healey, who accused Starmer and the Treasury of failing to provide adequate defence funding including GCAP"
+      - claim: Andy Burnham by-election date
+        kind: temporal
+        value: June 18
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "Andy Burnham's decisive by-election victory in North West England on June 18"
+      - claim: Andy Burnham identity
+        kind: named_person
+        value: Andy Burnham
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "Andy Burnham's decisive by-election victory in North West England on June 18"
+      - claim: Labour local election losses date
+        kind: temporal
+        value: May 2026
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+        verbatim_excerpt: "Labour's heavy losses in May 2026 local elections"
+      - claim: UK-Japan partnership signing date
+        kind: temporal
+        value: June 14, 2026
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.japantimes.co.jp/news/2026/06/22/world/politics/starmer-resignation-timetable/
+        verbatim_excerpt: "Eight days earlier, on June 14, 2026, Starmer and Japan PM Takaichi signed the UK-Japan Frontier Technology Partnership"
+      - claim: Japan PM identity
+        kind: named_person
+        value: Takaichi
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.japantimes.co.jp/news/2026/06/22/world/politics/starmer-resignation-timetable/
+        verbatim_excerpt: "Starmer and Japan PM Takaichi signed the UK-Japan Frontier Technology Partnership"
+      - claim: UK-Japan bilateral investment commitment
+        kind: numerical_with_unit
+        value: "¥3.7T ($24B)"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.japantimes.co.jp/news/2026/06/22/world/politics/starmer-resignation-timetable/
+        verbatim_excerpt: "¥3.7T ($24B) in bilateral investment commitments"
+      - claim: GCAP bridge contract value
+        kind: numerical_with_unit
+        value: "£686M"
+        source_urls:
+          - https://www.eurasiantimes.com/after-fcas-collapse-gcap-fighter-program-in-jeopardy-as-uk-defence-secretary-resigns-in-funding-row/
+        verbatim_excerpt: "The GCAP bridge contract of £686M was set to expire end-June 2026 with no long-term Defence Investment Plan secured."
+      - claim: GCAP bridge contract expiry
+        kind: temporal
+        value: end-June 2026
+        source_urls:
+          - https://www.eurasiantimes.com/after-fcas-collapse-gcap-fighter-program-in-jeopardy-as-uk-defence-secretary-resigns-in-funding-row/
+        verbatim_excerpt: "The GCAP bridge contract of £686M was set to expire end-June 2026"
+      - claim: number of UK prime ministers in ten years
+        kind: numerical
+        value: "seven"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "The UK will have had seven prime ministers in ten years."
+      - claim: UK-Japan partnership name
+        kind: named_product
+        value: UK-Japan Frontier Technology Partnership
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.japantimes.co.jp/news/2026/06/22/world/politics/starmer-resignation-timetable/
+        verbatim_excerpt: "Starmer and Japan PM Takaichi signed the UK-Japan Frontier Technology Partnership and joint Economic Security Declaration in London"
+      - claim: signing location
+        kind: named_institution
+        value: London
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+        verbatim_excerpt: "signed the UK-Japan Frontier Technology Partnership and joint Economic Security Declaration in London"
+      - claim: GCAP programme name
+        kind: named_product
+        value: GCAP
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+          - https://www.eurasiantimes.com/after-fcas-collapse-gcap-fighter-program-in-jeopardy-as-uk-defence-secretary-resigns-in-funding-row/
+        verbatim_excerpt: "failing to provide adequate defence funding including GCAP"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: British Prime Minister
+        verbatim_en: "he could no longer unite the Labour Party"
+        source_url: https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation
+        context: televised resignation statement, June 22, 2026
+
+  - story_id: us-typhon-missile-japan-valiant-shield-2026
+    category: politics
+    headline_en: US Army Typhon missile system deployed to Japan as Valiant Shield 2026 launches with Japan SDF participation
+    lead_url: https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+    body_source: full
+    corroborated_by:
+      - https://www.globaltimes.cn/page/202606/1364050.shtml
+      - https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/
+    locked_urls:
+      - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+      - https://www.globaltimes.cn/page/202606/1364050.shtml
+      - https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/
+    hard_facts:
+      - claim: Valiant Shield 2026 start date
+        kind: temporal
+        value: June 22
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+          - https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/
+        verbatim_excerpt: "Valiant Shield 2026 launched on June 22 and runs through July 1."
+      - claim: Valiant Shield 2026 end date
+        kind: temporal
+        value: July 1
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "Valiant Shield 2026 launched on June 22 and runs through July 1."
+      - claim: Japan troop contribution
+        kind: numerical_with_unit
+        value: "approximately 4,100 troops"
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+          - https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/
+        verbatim_excerpt: "Japan contribution: approximately 4,100 troops, 150 vehicles, 60 aircraft"
+      - claim: Japan vehicle contribution
+        kind: numerical_with_unit
+        value: "150 vehicles"
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "approximately 4,100 troops, 150 vehicles, 60 aircraft"
+      - claim: Japan aircraft contribution
+        kind: numerical_with_unit
+        value: "60 aircraft"
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "approximately 4,100 troops, 150 vehicles, 60 aircraft"
+      - claim: Japan SDF first participation year
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "Japan's Self-Defense Forces are participating for the second time (first in 2024)."
+      - claim: Typhon missile system deployment base
+        kind: named_institution
+        value: Maritime SDF Kanoya Air Base
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+          - https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/
+        verbatim_excerpt: "The US Army's Typhon mid-range capability system is deployed to Maritime SDF Kanoya Air Base, Kagoshima Prefecture"
+      - claim: Typhon deployment prefecture
+        kind: named_institution
+        value: Kagoshima Prefecture
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "deployed to Maritime SDF Kanoya Air Base, Kagoshima Prefecture"
+      - claim: Tomahawk cruise missile range
+        kind: numerical_with_unit
+        value: "~1,600 km"
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+          - https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/
+        verbatim_excerpt: "firing Tomahawk cruise missiles (range ~1,600 km) and SM-6 missiles"
+      - claim: exercises conclusion approximate date
+        kind: temporal
+        value: mid-October 2026
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "the launchers will remain stored in Japan after exercises conclude around mid-October 2026"
+      - claim: Admiral identity
+        kind: named_person
+        value: Steve Koehler
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "Admiral Steve Koehler: \"Valiant Shield demonstrates our enduring commitment to a free and open Indo-Pacific.\""
+      - claim: USS George Washington carrier
+        kind: named_product
+        value: USS George Washington
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "USS George Washington Carrier Strike Group operations with escorts USS Benfold, USS Shoup, USS Robert Smalls, and USS Virginia."
+      - claim: USS Benfold escort
+        kind: named_product
+        value: USS Benfold
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "USS George Washington Carrier Strike Group operations with escorts USS Benfold, USS Shoup, USS Robert Smalls, and USS Virginia."
+      - claim: USS Shoup escort
+        kind: named_product
+        value: USS Shoup
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "with escorts USS Benfold, USS Shoup, USS Robert Smalls, and USS Virginia."
+      - claim: USS Robert Smalls escort
+        kind: named_product
+        value: USS Robert Smalls
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "with escorts USS Benfold, USS Shoup, USS Robert Smalls, and USS Virginia."
+      - claim: USS Virginia submarine
+        kind: named_product
+        value: USS Virginia
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "with escorts USS Benfold, USS Shoup, USS Robert Smalls, and USS Virginia."
+      - claim: JS Kaga helicopter destroyer
+        kind: named_product
+        value: JS Kaga
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+          - https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/
+        verbatim_excerpt: "JMSDF ships including helicopter destroyer JS Kaga, guided-missile destroyer JS Fuyuzuki, and attack submarine JS Jingei."
+      - claim: JS Fuyuzuki guided-missile destroyer
+        kind: named_product
+        value: JS Fuyuzuki
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "helicopter destroyer JS Kaga, guided-missile destroyer JS Fuyuzuki, and attack submarine JS Jingei."
+      - claim: JS Jingei attack submarine
+        kind: named_product
+        value: JS Jingei
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "guided-missile destroyer JS Fuyuzuki, and attack submarine JS Jingei."
+      - claim: Typhon system name
+        kind: named_product
+        value: Typhon mid-range capability system
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+          - https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/
+        verbatim_excerpt: "The US Army's Typhon mid-range capability system is deployed to Maritime SDF Kanoya Air Base"
+      - claim: Tomahawk cruise missile name
+        kind: named_product
+        value: Tomahawk cruise missiles
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "firing Tomahawk cruise missiles (range ~1,600 km) and SM-6 missiles"
+      - claim: SM-6 missile name
+        kind: named_product
+        value: SM-6 missiles
+        source_urls:
+          - https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        verbatim_excerpt: "firing Tomahawk cruise missiles (range ~1,600 km) and SM-6 missiles."
+    quotes:
+      - speaker_name: Steve Koehler
+        speaker_title: Admiral, US military commander
+        verbatim_en: "Valiant Shield demonstrates our enduring commitment to a free and open Indo-Pacific."
+        source_url: https://www.stripes.com/branches/navy/2026-06-22/george-washington-guam-valiant-shield-22041913.html
+        context: Valiant Shield 2026 launch, June 22
+
+  - story_id: japan-upskirting-arrests-record-9237-2025
+    category: society
+    headline_en: Japan's upskirting crime arrests hit record 9,237 in 2025 as child offenders surge sixfold, exposing gaps in 2023 law
+    lead_url: https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/
+    hard_facts:
+      - claim: voyeurism arrests in Japan 2025
+        kind: numerical_with_unit
+        value: "9,237"
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Police made 9,237 arrests for voyeurism offenses in Japan in 2025, the highest on record."
+      - claim: record year for voyeurism arrests
+        kind: temporal
+        value: "2025"
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Police made 9,237 arrests for voyeurism offenses in Japan in 2025, the highest on record."
+      - claim: surge in minor perpetrators 2024
+        kind: numerical
+        value: "nearly sixfold"
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Voyeurism cases involving minors as perpetrators surged nearly sixfold in 2024 compared to the previous year"
+      - claim: year of minor perpetrator surge
+        kind: temporal
+        value: "2024"
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "surged nearly sixfold in 2024 compared to the previous year and rose again in 2025."
+      - claim: nationwide photo voyeurism law introduction date
+        kind: temporal
+        value: July 2023
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Japan introduced a nationwide photo voyeurism law (satsueizai) in July 2023"
+      - claim: satsueizai law name
+        kind: named_product
+        value: satsueizai
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Japan introduced a nationwide photo voyeurism law (satsueizai) in July 2023"
+      - claim: satsueizai filming penalty jail term
+        kind: numerical_with_unit
+        value: "up to 3 years jail"
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Penalties under satsueizai: up to 3 years jail or ¥3M fine for filming"
+      - claim: satsueizai filming penalty fine
+        kind: numerical_with_unit
+        value: "¥3M fine"
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "up to 3 years jail or ¥3M fine for filming"
+      - claim: satsueizai distribution penalty jail term
+        kind: numerical_with_unit
+        value: "up to 5 years"
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "up to 5 years or ¥5M fine for distribution"
+      - claim: satsueizai distribution penalty fine
+        kind: numerical_with_unit
+        value: "¥5M fine"
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "up to 5 years or ¥5M fine for distribution"
+      - claim: byline journalist 1
+        kind: named_person
+        value: Hanako Montgomery
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Hanako Montgomery, Yumi Asada, and Daniel Campisi (CNN)"
+      - claim: byline journalist 2
+        kind: named_person
+        value: Yumi Asada
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Hanako Montgomery, Yumi Asada, and Daniel Campisi (CNN)"
+      - claim: byline journalist 3
+        kind: named_person
+        value: Daniel Campisi
+        source_urls: [https://krdo.com/news/2026/06/22/upskirting-crimes-have-long-plagued-japan-now-children-are-becoming-offenders/]
+        verbatim_excerpt: "Hanako Montgomery, Yumi Asada, and Daniel Campisi (CNN)"
+    quotes: []
+
+  - story_id: japan-natto-exports-triple-global-health-food
+    category: society
+    headline_en: Japan's natto exports triple as fermented food gains global traction, testing Japan's $2.3B export food diplomacy ambitions
+    lead_url: https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world
+    hard_facts:
+      - claim: natto export volume in 2025
+        kind: numerical_with_unit
+        value: "5,248 tons"
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "Japan's natto (fermented soybean) exports tripled from 2017 levels to 5,248 tons in 2025"
+      - claim: natto export year
+        kind: temporal
+        value: "2025"
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "Japan's natto (fermented soybean) exports tripled from 2017 levels to 5,248 tons in 2025"
+      - claim: natto export baseline year
+        kind: temporal
+        value: "2017"
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "Japan's natto (fermented soybean) exports tripled from 2017 levels to 5,248 tons in 2025"
+      - claim: leading export destination 1
+        kind: named_institution
+        value: China
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "with China and the United States as leading destinations"
+      - claim: leading export destination 2
+        kind: named_institution
+        value: United States
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "with China and the United States as leading destinations"
+      - claim: Kamakurayama Natto brand
+        kind: named_institution
+        value: Kamakurayama Natto
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "Premium brands such as Kamakurayama Natto have secured international orders from Hong Kong, Shanghai, Singapore, and Norway."
+      - claim: traditional price point
+        kind: numerical_with_unit
+        value: "¥100/three-pack"
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "threatening the traditional ¥100/three-pack price point"
+      - claim: celebrity influencer
+        kind: named_person
+        value: Lizzo
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "Celebrity influencers including Lizzo boosted overseas popularity through social media."
+      - claim: byline journalist 1
+        kind: named_person
+        value: Tomohiro Osaki
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "Tomohiro Osaki and Sarah Lai (AFP)"
+      - claim: byline journalist 2
+        kind: named_person
+        value: Sarah Lai
+        source_urls: [https://japantoday.com/category/national/slimy-beans-japanese-natto-disgusts-and-delights-the-world]
+        verbatim_excerpt: "Tomohiro Osaki and Sarah Lai (AFP)"
+    quotes: []
