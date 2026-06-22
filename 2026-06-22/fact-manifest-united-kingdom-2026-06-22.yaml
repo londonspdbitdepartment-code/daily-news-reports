@@ -1,0 +1,1133 @@
+version: 1
+generated_at: "2026-06-22T13:00:00Z"
+country: United Kingdom
+date: "2026-06-22"
+total_stories: 10
+stories:
+  - story_id: boe-softens-stablecoin-rules-40bn-cap
+    category: econ
+    headline_en: "Bank of England Softens Stablecoin Rules, Sets £40 Billion Issuance Cap in Final Policy Framework"
+    lead_url: https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+    body_source: full
+    corroborated_by:
+      - https://finance.yahoo.com/economy/policy/articles/bank-england-softens-stablecoin-rules-074609323.html
+      - https://www.pymnts.com/cryptocurrency/2026/bank-of-england-cancels-plans-for-stablecoin-ownership-limits/
+    locked_urls:
+      - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+      - https://finance.yahoo.com/economy/policy/articles/bank-england-softens-stablecoin-rules-074609323.html
+      - https://www.pymnts.com/cryptocurrency/2026/bank-of-england-cancels-plans-for-stablecoin-ownership-limits/
+    hard_facts:
+      - claim: BoE Policy Statement publication date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "The Bank of England published its Policy Statement and draft Code of Practice for systemic stablecoin issuers on 22 June 2026"
+      - claim: BoE institution name
+        kind: named_institution
+        value: Bank of England
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "The Bank of England published its Policy Statement and draft Code of Practice for systemic stablecoin issuers"
+      - claim: scrapped retail individual holding cap
+        kind: numerical_with_unit
+        value: "£20,000"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "The BoE scrapped plans to cap individual holdings at £20,000 (retail) and £10 million (corporate)"
+      - claim: scrapped corporate individual holding cap
+        kind: numerical_with_unit
+        value: "£10 million"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "The BoE scrapped plans to cap individual holdings at £20,000 (retail) and £10 million (corporate)"
+      - claim: total issuance guardrail per stablecoin (GBP)
+        kind: numerical_with_unit
+        value: "£40 billion"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "limiting total issuance per stablecoin to £40 billion ($52.8 billion)"
+      - claim: total issuance guardrail per stablecoin (USD equivalent)
+        kind: numerical_with_unit
+        value: "$52.8 billion"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "limiting total issuance per stablecoin to £40 billion ($52.8 billion)"
+      - claim: relaxed share of backing assets in short-term government debt
+        kind: numerical_with_unit
+        value: "70%"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "relaxed the share of backing assets that may be held in short-term government debt from 60% to 70%"
+      - claim: previous share of backing assets in short-term government debt
+        kind: numerical_with_unit
+        value: "60%"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "relaxed the share of backing assets that may be held in short-term government debt from 60% to 70%"
+      - claim: industry feedback deadline
+        kind: temporal
+        value: "22 September 2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "The BoE invited industry feedback through 22 September 2026"
+      - claim: planned Code of Practice finalisation
+        kind: temporal
+        value: "end-2026"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "intends to finalise the Code of Practice by end-2026"
+      - claim: regulated sterling stablecoins permitted to operate from
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "regulated sterling stablecoins would be permitted to operate from 2027"
+      - claim: Deputy Governor identity
+        kind: named_person
+        value: Sarah Breeden
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "Deputy Governor for Financial Stability Sarah Breeden stated"
+      - claim: ClearBank Group CEO identity
+        kind: named_person
+        value: Mark Fairless
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "ClearBank Group CEO Mark Fairless welcomed some changes"
+      - claim: ClearBank Group institution
+        kind: named_institution
+        value: ClearBank Group
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "ClearBank Group CEO Mark Fairless welcomed some changes"
+      - claim: legislative reference
+        kind: named_product
+        value: Financial Services and Markets Act 2023
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "distinct from the FCA's broader cryptoasset regime under the Financial Services and Markets Act 2023"
+      - claim: FCA institution
+        kind: named_institution
+        value: FCA
+        source_urls:
+          - https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        verbatim_excerpt: "distinct from the FCA's broader cryptoasset regime"
+    quotes:
+      - speaker_name: Sarah Breeden
+        speaker_title: Deputy Governor for Financial Stability, Bank of England
+        verbatim_en: "This is a major milestone in delivering greater choice and innovation in UK payments."
+        source_url: https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        context: BoE Policy Statement publication, 22 June 2026
+      - speaker_name: Mark Fairless
+        speaker_title: CEO, ClearBank Group
+        verbatim_en: "still remains the most cautious, the most conservative regime in the world"
+        source_url: https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        context: Response to BoE stablecoin framework publication, 22 June 2026
+      - speaker_name: Mark Fairless
+        speaker_title: CEO, ClearBank Group
+        verbatim_en: "the UK cannot win the global race on digital assets if sterling stablecoins remain less commercially viable or less useful than their dollar and euro counterparts."
+        source_url: https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins
+        context: Response to BoE stablecoin framework publication, 22 June 2026
+
+  - story_id: brexit-ten-uk-economy-4-8pct-smaller
+    category: econ
+    headline_en: "Brexit at Ten: UK Economy Estimated 4–8% Smaller Than If Britain Had Stayed in the EU"
+    lead_url: https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+    hard_facts:
+      - claim: CNN Brexit retrospective publish date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "CNN Business published a 10-year Brexit economic retrospective on 22 June 2026"
+      - claim: Brexit referendum anniversary date
+        kind: temporal
+        value: "June 23, 2016"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "one day before the anniversary of the June 23, 2016 referendum"
+      - claim: lower-bound estimate of GDP foregone output
+        kind: numerical_with_unit
+        value: "2%"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "estimates of foregone output ranging from 2% to as much as 8% of GDP"
+      - claim: upper-bound estimate of GDP foregone output
+        kind: numerical_with_unit
+        value: "8%"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "estimates of foregone output ranging from 2% to as much as 8% of GDP"
+      - claim: economist identity
+        kind: named_person
+        value: Jonathan Portes
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "Jonathan Portes of King's College London stated"
+      - claim: Jonathan Portes institution
+        kind: named_institution
+        value: King's College London
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "Jonathan Portes of King's College London stated"
+      - claim: UK share of exports going to EU — pre-Brexit
+        kind: numerical_with_unit
+        value: "54%"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "The UK's share of exports going to the EU fell from 54% to 47% over the decade"
+      - claim: UK share of exports going to EU — post-decade
+        kind: numerical_with_unit
+        value: "47%"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "The UK's share of exports going to the EU fell from 54% to 47% over the decade"
+      - claim: total export value — pre-Brexit
+        kind: numerical_with_unit
+        value: "£130 billion"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "though total export value rose from £130 billion to £240 billion"
+      - claim: total export value — post-decade
+        kind: numerical_with_unit
+        value: "£240 billion"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "though total export value rose from £130 billion to £240 billion"
+      - claim: net migration to UK average since 2021
+        kind: numerical_with_unit
+        value: "550,000 per year"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "Net migration to the UK averaged 550,000 per year since 2021"
+      - claim: net migration to UK average in 2010s
+        kind: numerical_with_unit
+        value: "250,000"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "compared with 250,000 in the 2010s"
+      - claim: Bosch UK annual import transactions post-Brexit
+        kind: numerical
+        value: "10,000"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "Bosch's British subsidiary handles 10,000 import transactions annually"
+      - claim: Bosch UK annual import transactions pre-Brexit
+        kind: numerical
+        value: "40"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "up from 40 before Brexit"
+      - claim: Bosch British subsidiary institution
+        kind: named_institution
+        value: Bosch
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "Bosch's British subsidiary handles 10,000 import transactions annually"
+      - claim: YouGov poll finding — Britons think Brexit has been a failure
+        kind: numerical_with_unit
+        value: "six in ten"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "A YouGov poll cited in the article found six in ten Britons think Brexit has been a failure"
+      - claim: YouGov poll institution
+        kind: named_institution
+        value: YouGov
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "A YouGov poll cited in the article found six in ten Britons think Brexit has been a failure"
+      - claim: UK-EU bilateral trade value 2025
+        kind: numerical_with_unit
+        value: "£856 billion"
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "compared with UK-EU bilateral trade worth £856 billion in 2025"
+      - claim: Prime Minister identity
+        kind: named_person
+        value: Starmer
+        source_urls:
+          - https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        verbatim_excerpt: "Relations between London and Brussels improved markedly under Prime Minister Starmer"
+    quotes:
+      - speaker_name: Jonathan Portes
+        speaker_title: Economist, King's College London
+        verbatim_en: "Brexit has made the UK economy smaller than it otherwise would have been. The effect has not been a sudden collapse, but a gradual and cumulative drag on trade, investment and productivity."
+        source_url: https://www.cnn.com/2026/06/22/business/brexit-anniversary-uk-economy-impact-intl
+        context: 10-year Brexit economic retrospective, CNN Business, 22 June 2026
+
+  - story_id: uk-mexico-cptpp-trade-provisions-force
+    category: econ
+    headline_en: "UK-Mexico CPTPP Trade Provisions Enter Into Force, Opening Preferential Market Access"
+    lead_url: https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+    body_source: full
+    corroborated_by:
+      - https://www.business.gov.uk/export-from-uk/campaigns/CPTPP/
+    locked_urls:
+      - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+      - https://www.business.gov.uk/export-from-uk/campaigns/CPTPP/
+    hard_facts:
+      - claim: UK-Mexico CPTPP entry into force date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+        verbatim_excerpt: "The UK's CPTPP trade provisions with Mexico entered into force on 22 June 2026"
+      - claim: Mexico National Decree approving UK accession date
+        kind: temporal
+        value: "20 January 2026"
+        source_urls:
+          - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+        verbatim_excerpt: "following Mexico's National Decree of 20 January 2026 approving the UK's Protocol of Accession"
+      - claim: CPTPP agreement name
+        kind: named_product
+        value: Comprehensive and Progressive Agreement for Trans-Pacific Partnership
+        source_urls:
+          - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+        verbatim_excerpt: "the UK's Protocol of Accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership"
+      - claim: UK full CPTPP membership date
+        kind: temporal
+        value: "15 December 2024"
+        source_urls:
+          - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+        verbatim_excerpt: "The UK officially joined CPTPP as a full member on 15 December 2024"
+      - claim: CPTPP member country count
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+        verbatim_excerpt: "CPTPP now covers 12 member countries"
+      - claim: CPTPP combined GDP
+        kind: numerical_with_unit
+        value: "$15 trillion"
+        source_urls:
+          - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+        verbatim_excerpt: "CPTPP now covers 12 member countries with a combined GDP exceeding $15 trillion"
+      - claim: UK-Malaysia CPTPP provisions entry into force date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+        verbatim_excerpt: "UK-Malaysia CPTPP provisions also entered into force on the same date"
+      - claim: institution — HM Revenue & Customs Trade Tariff Service
+        kind: named_institution
+        value: UK Government
+        source_urls:
+          - https://www.trade-tariff.service.gov.uk/news/stories/mexico-ratification-of-uk-accession-added-to-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp-area--18-may-2026
+        verbatim_excerpt: "From 22 June 2026, Tariff Preference and the Mexico Preferential Tariff Quota apply to UK-Mexico trade under CPTPP rules"
+    quotes: []
+
+  - story_id: keir-starmer-resigns-burnham-poised
+    category: politics
+    headline_en: "Keir Starmer Resigns as UK Prime Minister; Andy Burnham Poised to Succeed"
+    lead_url: https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+    body_source: full
+    corroborated_by:
+      - https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/
+      - https://uk.finance.yahoo.com/news/might-andy-burnham-pm-mean-093208576.html
+      - https://www.nbcnews.com/world/united-kingdom/keir-starmer-resigns-prime-minister-andy-burnham-labour-party-britain-rcna257534
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+      - https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/
+      - https://uk.finance.yahoo.com/news/might-andy-burnham-pm-mean-093208576.html
+      - https://www.nbcnews.com/world/united-kingdom/keir-starmer-resigns-prime-minister-andy-burnham-labour-party-britain-rcna257534
+    hard_facts:
+      - claim: Starmer resignation announcement date and day
+        kind: temporal
+        value: "morning of Monday 22 June 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "UK Prime Minister Keir Starmer announced his resignation on the morning of Monday 22 June 2026"
+      - claim: Keir Starmer — named person
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "UK Prime Minister Keir Starmer announced his resignation"
+      - claim: King notified of resignation
+        kind: named_person
+        value: King Charles III
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "informing King Charles III of his decision"
+      - claim: venue of resignation statement
+        kind: named_institution
+        value: "10 Downing Street"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "making a brief statement outside 10 Downing Street"
+      - claim: Labour landslide general election victory date
+        kind: temporal
+        value: "July 2024"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Starmer, who led Labour to a landslide general election victory in July 2024"
+      - claim: Starmer ordinal position among prime ministers to leave in a decade
+        kind: numerical
+        value: "sixth"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Starmer becomes the sixth British prime minister to leave office in a decade"
+      - claim: Labour leadership nominations opening date
+        kind: temporal
+        value: "9 July"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "with Labour leadership nominations opening on 9 July"
+      - claim: new leader confirmation deadline
+        kind: temporal
+        value: "September 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "a new leader confirmed by September 2026 at latest"
+      - claim: number of Labour MPs calling for Starmer to quit
+        kind: numerical_with_unit
+        value: "over 80"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "over 80 Labour MPs had publicly called on him to quit"
+      - claim: Health Secretary who resigned
+        kind: named_person
+        value: Wes Streeting
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Health Secretary Wes Streeting and three Ministry of Defence ministers had resigned"
+      - claim: number of MOD ministers who resigned
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Health Secretary Wes Streeting and three Ministry of Defence ministers had resigned"
+      - claim: Labour losses — election event
+        kind: temporal
+        value: "May 2026 local and regional elections"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "the Labour Party suffered heavy losses in May 2026 local and regional elections"
+      - claim: immediate trigger — Andy Burnham Makerfield by-election victory date
+        kind: temporal
+        value: "20 June 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Andy Burnham's decisive Makerfield by-election victory on 20 June 2026"
+      - claim: Andy Burnham — named person
+        kind: named_person
+        value: Andy Burnham
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Andy Burnham's decisive Makerfield by-election victory"
+      - claim: Burnham announced leadership candidacy
+        kind: temporal
+        value: "within hours"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Burnham confirmed within hours that he would seek the leadership"
+      - claim: Sterling movement on resignation announcement
+        kind: numerical_with_unit
+        value: "0.25%"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Sterling weakened 0.25% to 1.3201 against the US dollar on the announcement"
+      - claim: GBP/USD rate on resignation announcement
+        kind: numerical_with_unit
+        value: "1.3201"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "Sterling weakened 0.25% to 1.3201 against the US dollar on the announcement"
+      - claim: FTSE 100 movement on resignation announcement
+        kind: numerical_with_unit
+        value: "0.03%"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "the FTSE 100 slipped 0.03%"
+      - claim: FTSE 100 — named institution
+        kind: named_institution
+        value: FTSE 100
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        verbatim_excerpt: "the FTSE 100 slipped 0.03%"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister of the United Kingdom
+        verbatim_en: "The question my party is asking now is whether I am best placed to lead us into the next general election. I have heard the answer from my parliamentary party to that question and I accept that answer with good grace."
+        source_url: https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure
+        context: Resignation statement outside 10 Downing Street, 22 June 2026
+
+  - story_id: armed-forces-bill-passes-report-3rd-reading
+    category: politics
+    headline_en: "Armed Forces Bill Passes Report Stage and Third Reading in House of Commons"
+    lead_url: https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+    body_source: full
+    corroborated_by:
+      - https://www.gov.uk/government/collections/armed-forces-bill-2026
+      - https://commonslibrary.parliament.uk/research-briefings/cbp-10471/
+    locked_urls:
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+      - https://www.gov.uk/government/collections/armed-forces-bill-2026
+      - https://commonslibrary.parliament.uk/research-briefings/cbp-10471/
+    hard_facts:
+      - claim: Armed Forces Bill Report Stage completion date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "The Armed Forces Bill completed its Report Stage and Third Reading in the House of Commons on 22 June 2026"
+      - claim: named institution — House of Commons
+        kind: named_institution
+        value: House of Commons
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "completed its Report Stage and Third Reading in the House of Commons"
+      - claim: named institution — House of Lords
+        kind: named_institution
+        value: House of Lords
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "passing to the House of Lords"
+      - claim: motion agreed date for programming
+        kind: temporal
+        value: "2 June 2026"
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "programmed under a motion agreed on 2 June 2026"
+      - claim: Defence Housing Service investment commitment
+        kind: numerical_with_unit
+        value: "£9 billion"
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "creates a new Defence Housing Service to replace MOD management of service accommodation, backed by a £9 billion investment commitment"
+      - claim: named institution — Defence Housing Service
+        kind: named_institution
+        value: Defence Housing Service
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "creates a new Defence Housing Service to replace MOD management of service accommodation"
+      - claim: named institution — MOD
+        kind: named_institution
+        value: MOD
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "to replace MOD management of service accommodation"
+      - claim: strategic reserve recall age raised from
+        kind: numerical_with_unit
+        value: "55"
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "raises the maximum strategic reserve recall age from 55 to 65"
+      - claim: strategic reserve recall age raised to
+        kind: numerical_with_unit
+        value: "65"
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "raises the maximum strategic reserve recall age from 55 to 65"
+      - claim: Committee Stage completion date
+        kind: temporal
+        value: "2 June 2026"
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "Committee Stage completed 2 June 2026"
+      - claim: named institution — NHS
+        kind: named_institution
+        value: NHS
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "the first time public bodies including the NHS are legally required to have \"due regard\" to armed forces personnel"
+      - claim: named product — Armed Forces Bill
+        kind: named_product
+        value: Armed Forces Bill
+        source_urls:
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-22-june-2026
+        verbatim_excerpt: "The Armed Forces Bill completed its Report Stage and Third Reading"
+    quotes: []
+
+  - story_id: wes-streeting-withdraws-endorses-burnham
+    category: politics
+    headline_en: "Wes Streeting Withdraws From Labour Leadership Race, Endorses Andy Burnham"
+    lead_url: https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+    hard_facts:
+      - claim: Wes Streeting withdrawal confirmation date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "Former UK Health Secretary Wes Streeting confirmed on 22 June 2026 that he would not stand for the Labour Party leadership"
+      - claim: Wes Streeting — named person
+        kind: named_person
+        value: Wes Streeting
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "Former UK Health Secretary Wes Streeting confirmed on 22 June 2026"
+      - claim: Andy Burnham — named person
+        kind: named_person
+        value: Andy Burnham
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "would endorse Andy Burnham to succeed Keir Starmer"
+      - claim: Keir Starmer — named person
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "to succeed Keir Starmer as both Labour leader and UK Prime Minister"
+      - claim: Streeting Cabinet resignation date
+        kind: temporal
+        value: "14 May 2026"
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "Streeting, who resigned from Cabinet on 14 May 2026"
+      - claim: Labour MPs committed to Streeting candidacy
+        kind: numerical_with_unit
+        value: "81"
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "had secured commitments from 81 Labour MPs to support his own candidacy"
+      - claim: Andy Burnham election constituency
+        kind: named_institution
+        value: Makerfield
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "Burnham — newly elected MP for Makerfield on 20 June"
+      - claim: Burnham election date as MP for Makerfield
+        kind: temporal
+        value: "20 June"
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "Burnham — newly elected MP for Makerfield on 20 June"
+      - claim: Labour leadership nominations opening date
+        kind: temporal
+        value: "9 July 2026"
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "Nominations formally open 9 July 2026"
+      - claim: named institution — Labour Party
+        kind: named_institution
+        value: Labour Party
+        source_urls:
+          - https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        verbatim_excerpt: "he would not stand for the Labour Party leadership"
+    quotes:
+      - speaker_name: Wes Streeting
+        speaker_title: Former UK Health Secretary
+        verbatim_en: "We could spend the summer exaggerating small differences, or we can roll up our sleeves and help him to deliver the change our party and our country needs."
+        source_url: https://labourlist.org/2026/06/wes-streeting-andy-burnham-labour-leadership/
+        context: Statement announcing withdrawal from Labour leadership race, 22 June 2026
+
+  - story_id: uk-malaysia-digital-trade-agreement-launch
+    category: tech
+    headline_en: "UK and Malaysia Launch Digital Trade Agreement Negotiations on AI, Data Flows, and Cybersecurity"
+    lead_url: https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+    hard_facts:
+      - claim: DTA negotiation launch date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        verbatim_excerpt: "The UK and Malaysia formally launched negotiations on a bilateral Digital Trade Agreement (DTA) on 22 June 2026"
+      - claim: named institution — Department for Business and Trade
+        kind: named_institution
+        value: Department for Business and Trade
+        source_urls:
+          - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        verbatim_excerpt: "UK Government / Department for Business and Trade"
+      - claim: Trade Minister identity
+        kind: named_person
+        value: Chris Bryant
+        source_urls:
+          - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        verbatim_excerpt: "Trade Minister Chris Bryant stated"
+      - claim: UK-Malaysia bilateral trade value in 2025
+        kind: numerical_with_unit
+        value: "£6.4 billion"
+        source_urls:
+          - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        verbatim_excerpt: "The UK-Malaysia bilateral trade relationship was worth £6.4 billion in 2025"
+      - claim: UK digitally delivered services exports to Malaysia (value)
+        kind: numerical_with_unit
+        value: "£730 million"
+        source_urls:
+          - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        verbatim_excerpt: "UK digitally delivered services exports to Malaysia totalled £730 million in 2023"
+      - claim: year of UK digitally delivered services exports figure
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        verbatim_excerpt: "UK digitally delivered services exports to Malaysia totalled £730 million in 2023"
+      - claim: UK jobs supported by Malaysia digital services trade
+        kind: numerical_with_unit
+        value: "31,100"
+        source_urls:
+          - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        verbatim_excerpt: "supporting an estimated 31,100 UK jobs (OECD data)"
+      - claim: data source for UK jobs figure
+        kind: named_institution
+        value: OECD
+        source_urls:
+          - https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        verbatim_excerpt: "supporting an estimated 31,100 UK jobs (OECD data)"
+    quotes:
+      - speaker_name: Chris Bryant
+        speaker_title: Minister for Trade Policy (Sir Chris Bryant MP), Department for Business and Trade
+        verbatim_en: "Launching negotiations with Malaysia marks an important step in strengthening the UK's position as a global leader in digital trade."
+        source_url: https://www.gov.uk/government/news/uk-and-malaysia-launch-negotiations-on-digital-trade-agreement
+        context: DTA negotiation launch announcement, 22 June 2026
+
+  - story_id: met-office-red-heat-warning-june-records
+    category: society
+    headline_en: "Met Office Issues Rare Red Extreme Heat Warning as UK Faces Record-Breaking June Temperatures"
+    lead_url: https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+    body_source: full
+    corroborated_by:
+      - https://ukhsa-dashboard.data.gov.uk/weather-health-alerts/heat
+      - https://www.reading.ac.uk/news/2026/Expert-Comment/UK-heatwave-experts-comment-as-records-set-to-be-broken
+    locked_urls:
+      - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+      - https://ukhsa-dashboard.data.gov.uk/weather-health-alerts/heat
+      - https://www.reading.ac.uk/news/2026/Expert-Comment/UK-heatwave-experts-comment-as-records-set-to-be-broken
+    hard_facts:
+      - claim: Red Extreme Heat Warning issue date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "The Met Office issued a Red Extreme Heat Warning on 22 June 2026"
+      - claim: Red warning effective start date/time
+        kind: temporal
+        value: "Wednesday 24 June 09:00"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "effective Wednesday 24 June 09:00 to Thursday 25 June 21:00"
+      - claim: Red warning effective end date/time
+        kind: temporal
+        value: "Thursday 25 June 21:00"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "effective Wednesday 24 June 09:00 to Thursday 25 June 21:00"
+      - claim: last Red warning event (for comparison)
+        kind: temporal
+        value: "July 2022"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "the first since the record-breaking July 2022 heatwave"
+      - claim: Amber warnings coverage start
+        kind: temporal
+        value: "Monday 22 June"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "existing Amber warnings covering Monday 22 June through Thursday 25 June"
+      - claim: Amber warnings coverage end
+        kind: temporal
+        value: "Thursday 25 June"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "existing Amber warnings covering Monday 22 June through Thursday 25 June"
+      - claim: forecast temperature Monday 22 June — southern England
+        kind: numerical_with_unit
+        value: "34°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "Monday 22 June up to 34°C in southern England"
+      - claim: forecast temperature Tuesday 23 June
+        kind: numerical_with_unit
+        value: "37°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "Tuesday 23 June up to 37°C"
+      - claim: forecast peak temperature Wednesday-Thursday
+        kind: numerical_with_unit
+        value: "39°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "Wednesday-Thursday peak of at least 39°C"
+      - claim: current UK June temperature record
+        kind: numerical_with_unit
+        value: "35.6°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "The current UK June temperature record of 35.6°C (set in Southampton in June 1976)"
+      - claim: location of UK June temperature record
+        kind: named_institution
+        value: Southampton
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "set in Southampton in June 1976"
+      - claim: year UK June temperature record was set
+        kind: temporal
+        value: "June 1976"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "set in Southampton in June 1976"
+      - claim: probability of exceeding UK June record
+        kind: numerical_with_unit
+        value: "40%"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "with a 40% probability of exceeding it"
+      - claim: forecast dew point
+        kind: numerical_with_unit
+        value: "22°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "Dew points are forecast at around 22°C"
+      - claim: Tropical Nights minimum temperature threshold
+        kind: numerical_with_unit
+        value: "20°C"
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "widespread \"Tropical Nights\" (minimum temperatures above 20°C)"
+      - claim: Deputy Chief Forecaster identity
+        kind: named_person
+        value: Mark Sidaway
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "Deputy Chief Forecaster Mark Sidaway stated"
+      - claim: UKHSA alert update time
+        kind: temporal
+        value: "10:26 AM 22 June"
+        source_urls:
+          - https://ukhsa-dashboard.data.gov.uk/weather-health-alerts/heat
+        verbatim_excerpt: "UKHSA issued Red Heat Health Alerts (updated 10:26 AM 22 June)"
+      - claim: number of regions under UKHSA Red Heat Health Alert
+        kind: numerical
+        value: "6"
+        source_urls:
+          - https://ukhsa-dashboard.data.gov.uk/weather-health-alerts/heat
+        verbatim_excerpt: "covering 6 regions: East of England, East Midlands, London, South East, South West, West Midlands"
+      - claim: named institution — UKHSA
+        kind: named_institution
+        value: UKHSA
+        source_urls:
+          - https://ukhsa-dashboard.data.gov.uk/weather-health-alerts/heat
+        verbatim_excerpt: "UKHSA issued Red Heat Health Alerts"
+      - claim: named institution — Met Office
+        kind: named_institution
+        value: Met Office
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "The Met Office issued a Red Extreme Heat Warning on 22 June 2026"
+      - claim: named institution — London Climate Action Week 2026
+        kind: named_institution
+        value: London Climate Action Week 2026
+        source_urls:
+          - https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        verbatim_excerpt: "London Climate Action Week 2026 opened on 22 June"
+    quotes:
+      - speaker_name: Mark Sidaway
+        speaker_title: Deputy Chief Forecaster, Met Office
+        verbatim_en: "Red warnings are reserved for the most severe events and we're expecting severe and significant impacts from this heatwave, with health impacts likely for many, even beyond those who are normally more vulnerable to the heat."
+        source_url: https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-issued-with-june-temperature-records-forecast-to-break
+        context: Met Office Red Extreme Heat Warning statement, 22 June 2026
+
+  - story_id: castlelake-easyjet-4-74bn-takeover-bid
+    category: ipo_ma
+    headline_en: "Castlelake Goes Public With £4.74 Billion Takeover Bid for easyJet; Board Rejects Third Offer as Opportunistic"
+    lead_url: https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+    body_source: full
+    corroborated_by:
+      - https://www.investing.com/news/stock-market-news/castlelake-goes-public-with-626-billion-bid-for-budget-carrier-easyjet-4751756
+      - https://money.usnews.com/investing/news/articles/2026-06-22/budget-carrier-easyjet-rejects-castlelakes-third-625p-a-share-proposal
+    locked_urls:
+      - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+      - https://www.investing.com/news/stock-market-news/castlelake-goes-public-with-626-billion-bid-for-budget-carrier-easyjet-4751756
+      - https://money.usnews.com/investing/news/articles/2026-06-22/budget-carrier-easyjet-rejects-castlelakes-third-625p-a-share-proposal
+    hard_facts:
+      - claim: Castlelake disclosure date of third proposal
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "disclosed its third non-binding takeover proposal for easyJet plc publicly on 22 June 2026"
+      - claim: Castlelake assets under management
+        kind: numerical_with_unit
+        value: "approximately $38 billion AUM"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "Minneapolis-based aviation investment firm Castlelake, L.P. (approximately $38 billion AUM)"
+      - claim: named institution — Castlelake L.P.
+        kind: named_institution
+        value: "Castlelake, L.P."
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "Minneapolis-based aviation investment firm Castlelake, L.P."
+      - claim: Castlelake headquarters
+        kind: named_institution
+        value: Minneapolis
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "Minneapolis-based aviation investment firm Castlelake, L.P."
+      - claim: named institution — easyJet plc
+        kind: named_institution
+        value: easyJet plc
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "third non-binding takeover proposal for easyJet plc"
+      - claim: proposal share price (third offer)
+        kind: numerical_with_unit
+        value: "625 pence per share"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+          - https://money.usnews.com/investing/news/articles/2026-06-22/budget-carrier-easyjet-rejects-castlelakes-third-625p-a-share-proposal
+        verbatim_excerpt: "The proposal is for 625 pence per share in cash"
+      - claim: total deal value (GBP)
+        kind: numerical_with_unit
+        value: "£4.74 billion"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "a total of £4.74 billion ($6.26 billion)"
+      - claim: total deal value (USD equivalent)
+        kind: numerical_with_unit
+        value: "$6.26 billion"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "a total of £4.74 billion ($6.26 billion)"
+      - claim: premium over easyJet closing price of 28 May 2026
+        kind: numerical_with_unit
+        value: "approximately 59%"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "representing a premium of approximately 59% to easyJet's closing price of 394.20 pence on 28 May 2026"
+      - claim: easyJet closing price on 28 May 2026 (reference price)
+        kind: numerical_with_unit
+        value: "394.20 pence"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "easyJet's closing price of 394.20 pence on 28 May 2026"
+      - claim: first prior proposal share price
+        kind: numerical_with_unit
+        value: "560p"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "Castlelake submitted prior proposals of 560p (rejected 16 June)"
+      - claim: first prior proposal rejection date
+        kind: temporal
+        value: "16 June"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "Castlelake submitted prior proposals of 560p (rejected 16 June)"
+      - claim: second prior proposal share price
+        kind: numerical_with_unit
+        value: "600p"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "and 600p (rejected 20 June)"
+      - claim: second prior proposal rejection date
+        kind: temporal
+        value: "20 June"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "and 600p (rejected 20 June)"
+      - claim: UK Takeover Panel put-up-or-shut-up deadline
+        kind: temporal
+        value: "26 June 2026"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "a UK Takeover Panel \"put-up-or-shut-up\" deadline of 26 June 2026"
+      - claim: named institution — UK Takeover Panel
+        kind: named_institution
+        value: UK Takeover Panel
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "a UK Takeover Panel \"put-up-or-shut-up\" deadline of 26 June 2026"
+      - claim: former Malaysia Airlines CEO identity
+        kind: named_person
+        value: Peter Bellew
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "Castlelake's partnership with former Malaysia Airlines CEO Peter Bellew"
+      - claim: ex-easyJet executive identity
+        kind: named_person
+        value: Mark Breen
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "and ex-easyJet executive Mark Breen"
+      - claim: named institution — Goldman Sachs
+        kind: named_institution
+        value: Goldman Sachs
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "Goldman Sachs \"confident in its ability to arrange the required financing\""
+      - claim: easyJet share price rise in early trading
+        kind: numerical_with_unit
+        value: "more than 5%"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "easyJet shares rose more than 5% to 530p in early trading"
+      - claim: easyJet share price in early trading
+        kind: numerical_with_unit
+        value: "530p"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "easyJet shares rose more than 5% to 530p in early trading"
+      - claim: named institution — FTSE 250
+        kind: named_institution
+        value: FTSE 250
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        verbatim_excerpt: "The deal would mark a delisting from the FTSE 250"
+    quotes:
+      - speaker_name: easyJet Board
+        speaker_title: Board of Directors, easyJet plc
+        verbatim_en: "an opportunistic attempt to acquire easyJet 'on the cheap'"
+        source_url: https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        context: easyJet board rejection statement, 22 June 2026
+      - speaker_name: Goldman Sachs
+        speaker_title: Financial adviser
+        verbatim_en: "confident in its ability to arrange the required financing"
+        source_url: https://www.investegate.co.uk/announcement/rns/easyjet--ezj/possible-offer-for-easyjet-plc/9628677
+        context: Castlelake financing disclosure, 22 June 2026
+
+  - story_id: babcock-fy26-strong-results-type31-charge
+    category: other
+    headline_en: "Babcock International Posts Strong FY26 Underlying Performance Despite £140m Type 31 Frigate Charge"
+    lead_url: https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.investegate.co.uk/announcement/rns/babcock-international-group--bab/final-results/9628674
+    locked_urls:
+      - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+      - https://www.investegate.co.uk/announcement/rns/babcock-international-group--bab/final-results/9628674
+    hard_facts:
+      - claim: Babcock results publication date
+        kind: temporal
+        value: "22 June 2026"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Babcock International Group PLC released its preliminary results for the year ended 31 March 2026 on 22 June 2026"
+      - claim: named institution — Babcock International Group PLC
+        kind: named_institution
+        value: Babcock International Group PLC
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Babcock International Group PLC released its preliminary results"
+      - claim: financial year end date
+        kind: temporal
+        value: "31 March 2026"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "for the year ended 31 March 2026"
+      - claim: group revenue organic growth
+        kind: numerical_with_unit
+        value: "8%"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Group revenue grew 8% organically to £5,177.7 million"
+      - claim: group revenue total
+        kind: numerical_with_unit
+        value: "£5,177.7 million"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Group revenue grew 8% organically to £5,177.7 million"
+      - claim: underlying operating profit (reported, including Type 31 charge)
+        kind: numerical_with_unit
+        value: "£293.3 million"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Underlying operating profit was £293.3 million for the full year"
+      - claim: Type 31 one-off charge
+        kind: numerical_with_unit
+        value: "£140 million"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "reduced by a one-off £140 million charge on the Type 31 general-purpose frigate programme"
+      - claim: named product — Type 31 frigate programme
+        kind: named_product
+        value: Type 31
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "one-off £140 million charge on the Type 31 general-purpose frigate programme"
+      - claim: underlying operating profit excluding Type 31 charge
+        kind: numerical_with_unit
+        value: "£433.3 million"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "underlying operating profit rose 19% to £433.3 million"
+      - claim: underlying operating profit growth ex-charge
+        kind: numerical_with_unit
+        value: "19%"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "underlying operating profit rose 19% to £433.3 million"
+      - claim: underlying operating margin ex-charge
+        kind: numerical_with_unit
+        value: "8.2%"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "with an improved underlying operating margin of 8.2%"
+      - claim: underlying EPS ex-charge
+        kind: numerical_with_unit
+        value: "60.5 pence"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Underlying EPS excluding the charge grew to 60.5 pence"
+      - claim: underlying free cash flow
+        kind: numerical_with_unit
+        value: "£261.8 million"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Underlying free cash flow increased 71% to £261.8 million"
+      - claim: underlying free cash flow growth
+        kind: numerical_with_unit
+        value: "71%"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Underlying free cash flow increased 71% to £261.8 million"
+      - claim: net debt excluding leases
+        kind: numerical_with_unit
+        value: "£22.7 million"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Net debt excluding leases fell to £22.7 million"
+      - claim: final dividend increase
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "The Board recommended a 15% increase in the final dividend to 7.5 pence per share"
+      - claim: final dividend per share
+        kind: numerical_with_unit
+        value: "7.5 pence per share"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "The Board recommended a 15% increase in the final dividend to 7.5 pence per share"
+      - claim: new share buyback programme size
+        kind: numerical_with_unit
+        value: "£200 million"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "announced a new £200 million share buyback programme"
+      - claim: contract backlog
+        kind: numerical_with_unit
+        value: "£9.8 billion"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Contract backlog stood at £9.8 billion"
+      - claim: CEO identity
+        kind: named_person
+        value: David Lockwood
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "CEO David Lockwood stated"
+      - claim: Type 31 programme jobs sustained
+        kind: numerical_with_unit
+        value: "approximately 2,500"
+        source_urls:
+          - https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        verbatim_excerpt: "Babcock's Type 31 programme sustains approximately 2,500 highly skilled jobs"
+    quotes:
+      - speaker_name: David Lockwood
+        speaker_title: CEO, Babcock International Group PLC
+        verbatim_en: "We achieved strong underlying growth, improved margins and robust cash generation."
+        source_url: https://www.babcockinternational.com/news/babcock-announces-preliminary-results-for-the-year-ended-31-march-2026/
+        context: Preliminary results announcement for year ended 31 March 2026, 22 June 2026
