@@ -1,0 +1,1078 @@
+version: 1
+generated_at: 2026-06-22T00:00:00Z
+country: United States
+date: 2026-06-22
+total_stories: 18
+stories:
+  - story_id: china-export-controls-us-defense-firms
+    category: econ
+    headline_en: "China Imposes Export Controls and Procurement Bans on Dozens of U.S. Defense and Rare Earth Firms in Retaliation for Pentagon Blacklist"
+    lead_url: https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.npr.org/2026/06/22/nx-s1-5866202/china-sanctions-restricting-exports
+    locked_urls:
+      - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+      - https://www.npr.org/2026/06/22/nx-s1-5866202/china-sanctions-restricting-exports
+    hard_facts:
+      - claim: number of U.S. companies placed on export control list
+        kind: numerical
+        value: "10"
+        source_urls:
+          - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        verbatim_excerpt: "10 American industrial suppliers on its export control list"
+      - claim: number of U.S. companies excluded from Chinese government procurement
+        kind: numerical
+        value: "46"
+        source_urls:
+          - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        verbatim_excerpt: "Finance Ministry excluded 46 U.S. companies"
+      - claim: date Pentagon added Chinese firms to 1260H list
+        kind: temporal
+        value: June 9, 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        verbatim_excerpt: "U.S. Pentagon on June 9 added several Chinese technology companies"
+      - claim: Chinese firms added to 1260H list (examples)
+        kind: named_institution
+        value: "Alibaba Group Holding Ltd., BYD Co. Ltd."
+        source_urls:
+          - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        verbatim_excerpt: "including Alibaba Group Holding Ltd. and BYD Co. Ltd."
+      - claim: U.S. firms targeted by export ban (examples)
+        kind: named_institution
+        value: "MP Materials Corp., USA Rare Earth Inc., Oshkosh Defense"
+        source_urls:
+          - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        verbatim_excerpt: "MP Materials Corp. and USA Rare Earth Inc."
+      - claim: U.S. firms targeted by procurement ban (examples)
+        kind: named_institution
+        value: "Lockheed Martin Corp., Raytheon Missiles & Defense, Boeing Defense Space & Security"
+        source_urls:
+          - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        verbatim_excerpt: "Lockheed Martin Corp., Raytheon Missiles & Defense"
+      - claim: DoD direct contract bar effective date
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        verbatim_excerpt: "bars the U.S. Department of Defense from awarding direct contracts … starting June 30"
+      - claim: analyst characterization of Chinese response
+        kind: named_person
+        value: Han Shen Lin (China country director, The Asia Group)
+        source_urls:
+          - https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        verbatim_excerpt: "largely symbolic rather than a major escalation"
+    quotes:
+      - speaker_name: Han Shen Lin
+        speaker_title: China country director, The Asia Group
+        verbatim_en: 'largely symbolic rather than a major escalation in U.S.-China tensions, since most of the targeted companies have little to no significant business in China.'
+        source_url: https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html
+        context: Analyst assessment of China's retaliatory measures
+
+  - story_id: fed-waller-stablecoins-dollar-dominance
+    category: econ
+    headline_en: "Federal Reserve Governor Waller Addresses Stablecoins and Shifting Dollar Dominance at International Conference"
+    lead_url: https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+    body_source: full
+    corroborated_by:
+      - https://www.federalreserve.gov/conferences/fifth-conference-on-the-international-roles-of-the-us-dollar.htm
+    locked_urls:
+      - https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+      - https://www.federalreserve.gov/conferences/fifth-conference-on-the-international-roles-of-the-us-dollar.htm
+    hard_facts:
+      - claim: conference name and edition
+        kind: named_institution
+        value: Fifth Conference on the International Roles of the U.S. Dollar
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+        verbatim_excerpt: "Fifth Conference on the International Roles of the U.S. Dollar"
+      - claim: conference co-organizers
+        kind: named_institution
+        value: "Federal Reserve Board and Federal Reserve Bank of New York"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+        verbatim_excerpt: "co-organized by the Federal Reserve Board and the Federal Reserve Bank of New York"
+      - claim: conference dates
+        kind: temporal
+        value: June 22–23, 2026
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+        verbatim_excerpt: "two-day conference (June 22–23)"
+      - claim: legislation establishing federal stablecoin framework
+        kind: named_product
+        value: GENIUS Act (enacted July 2025)
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+        verbatim_excerpt: "GENIUS Act (enacted July 2025)"
+      - claim: speaker
+        kind: named_person
+        value: Governor Christopher J. Waller
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+        verbatim_excerpt: "Federal Reserve Governor Christopher J. Waller delivered welcoming remarks"
+      - claim: key technology highlighted
+        kind: named_product
+        value: distributed ledger technology and dollar-backed stablecoins
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+        verbatim_excerpt: "rise of distributed ledger technology and dollar-backed stablecoins"
+    quotes:
+      - speaker_name: Christopher J. Waller
+        speaker_title: Governor, Federal Reserve Board
+        verbatim_en: 'the environment around these drivers is changing rapidly.'
+        source_url: https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+        context: Waller on evolving conditions around dollar's global pillars
+      - speaker_name: Christopher J. Waller
+        speaker_title: Governor, Federal Reserve Board
+        verbatim_en: 'Technological innovation is increasingly altering how households and businesses interact with dollars.'
+        source_url: https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+        context: Waller on private-sector dollar innovation
+
+  - story_id: brent-crude-falls-iran-ceasefire
+    category: econ
+    headline_en: "Brent Crude Falls Nearly 4% to $79.25 as Iran Ceasefire Optimism Weighs on Supply Fears"
+    lead_url: https://fortune.com/article/price-of-oil-06-22-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-22-2026
+    locked_urls:
+      - https://fortune.com/article/price-of-oil-06-22-2026/
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-22-2026
+    hard_facts:
+      - claim: Brent crude price on June 22
+        kind: numerical_with_unit
+        value: "$79.25 per barrel"
+        source_urls:
+          - https://fortune.com/article/price-of-oil-06-22-2026/
+        verbatim_excerpt: "Brent crude oil fell to $79.25 per barrel"
+      - claim: Brent daily decline in dollars
+        kind: numerical_with_unit
+        value: "$3.20"
+        source_urls:
+          - https://fortune.com/article/price-of-oil-06-22-2026/
+        verbatim_excerpt: "a decline of $3.20 from the previous session"
+      - claim: Brent monthly decline percentage
+        kind: numerical_with_unit
+        value: "~25.4%"
+        source_urls:
+          - https://fortune.com/article/price-of-oil-06-22-2026/
+        verbatim_excerpt: "down $26.75 (roughly 25.4%) from one month earlier"
+      - claim: WTI crude price on June 22
+        kind: numerical_with_unit
+        value: "~$75.53 per barrel"
+        source_urls:
+          - https://fortune.com/article/price-of-oil-06-22-2026/
+        verbatim_excerpt: "WTI crude trading at approximately $75.53 per barrel"
+      - claim: S&P 500 intraday level
+        kind: numerical_with_unit
+        value: "~7,501 points"
+        source_urls:
+          - https://fortune.com/article/price-of-oil-06-22-2026/
+        verbatim_excerpt: "S&P 500 inching up 0.12% to around 7,501 points"
+      - claim: Russell 2000 gain on June 22
+        kind: numerical_with_unit
+        value: "+2.12%"
+        source_urls:
+          - https://fortune.com/article/price-of-oil-06-22-2026/
+        verbatim_excerpt: "Russell 2000 advanced 2.12%"
+      - claim: new S&P 500 additions
+        kind: named_institution
+        value: "Marvell Technology (MRVL) and Flex"
+        source_urls:
+          - https://fortune.com/article/price-of-oil-06-22-2026/
+        verbatim_excerpt: "Marvell Technology (MRVL) and contract manufacturer Flex officially joined the S&P 500"
+    quotes: []
+
+  - story_id: vance-us-iran-switzerland-talks-60day
+    category: politics
+    headline_en: "Vance Hails \"Very Good Day\" as US-Iran Switzerland Talks Produce 60-Day Roadmap; Iran Agrees to Return IAEA Nuclear Inspectors"
+    lead_url: https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/world/iran/us-iran-talks-war-vance-trump-hormuz-lebanon-switzerland-foundation-rcna351112
+      - https://us.cnn.com/2026/06/22/politics/iran-trump-peace-hard
+    locked_urls:
+      - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+      - https://www.nbcnews.com/world/iran/us-iran-talks-war-vance-trump-hormuz-lebanon-switzerland-foundation-rcna351112
+      - https://us.cnn.com/2026/06/22/politics/iran-trump-peace-hard
+    hard_facts:
+      - claim: venue of US-Iran talks
+        kind: named_institution
+        value: "Bürgenstock resort, Lake Lucerne, Switzerland"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        verbatim_excerpt: "Switzerland's Bürgenstock resort near Lake Lucerne"
+      - claim: dates of talks
+        kind: temporal
+        value: June 21–22, 2026
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        verbatim_excerpt: "during June 21-22, 2026"
+      - claim: duration of negotiations
+        kind: numerical_with_unit
+        value: "more than 10 hours"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        verbatim_excerpt: "After more than 10 hours of negotiations"
+      - claim: deal roadmap timeframe
+        kind: numerical_with_unit
+        value: "60 days"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        verbatim_excerpt: "roadmap toward reaching a final deal within 60 days"
+      - claim: mediating countries
+        kind: named_institution
+        value: "Qatar and Pakistan"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        verbatim_excerpt: "mediators from Qatar and Pakistan issued a joint statement"
+      - claim: U.S. delegation members
+        kind: named_person
+        value: "VP JD Vance, Steve Witkoff, Jared Kushner"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        verbatim_excerpt: "Vice President JD Vance, alongside special envoys Steve Witkoff and Jared Kushner"
+      - claim: Iranian delegation members
+        kind: named_person
+        value: "Abbas Araghchi, Mohammad Bagher Ghalibaf"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        verbatim_excerpt: "Foreign Minister Abbas Araghchi and Parliament Speaker Mohammad Bagher Ghalibaf"
+      - claim: MOU signed by both presidents date
+        kind: temporal
+        value: June 17, 2026
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        verbatim_excerpt: "memorandum of understanding signed by the presidents of both countries on June 17"
+    quotes:
+      - speaker_name: JD Vance
+        speaker_title: Vice President of the United States
+        verbatim_en: 'I thought this was a very, very good day for the United States.'
+        source_url: https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        context: Vance's public assessment after Switzerland talks concluded
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: 'Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don''t, we''ll hit Iran very hard again, just like we did last week, only harder!!!'
+        source_url: https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/
+        context: Trump Truth Social post during ongoing negotiations
+
+  - story_id: senate-cloture-housing-bill-84-8
+    category: politics
+    headline_en: "Senate Invokes Cloture 84-8 on Bipartisan Housing Bill, Clearing Path to Final Passage"
+    lead_url: https://www.dailypress.senate.gov/thursday-june-18-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.lw.com/en/insights/senate-advances-21st-century-road-to-housing-act
+      - https://www.govtrack.us/congress/bills/119/hr6644
+    locked_urls:
+      - https://www.dailypress.senate.gov/thursday-june-18-2026/
+      - https://www.lw.com/en/insights/senate-advances-21st-century-road-to-housing-act
+      - https://www.govtrack.us/congress/bills/119/hr6644
+    hard_facts:
+      - claim: cloture vote result
+        kind: numerical
+        value: "84-8"
+        source_urls:
+          - https://www.dailypress.senate.gov/thursday-june-18-2026/
+        verbatim_excerpt: "voted 84-8 to invoke cloture"
+      - claim: bill name and number
+        kind: named_product
+        value: "21st Century ROAD to Housing Act, H.R. 6644"
+        source_urls:
+          - https://www.dailypress.senate.gov/thursday-june-18-2026/
+        verbatim_excerpt: "H.R. 6644, the 21st Century ROAD to Housing Act"
+      - claim: annual grants to states for zoning reform
+        kind: numerical_with_unit
+        value: "$200 million annually (2027–2031)"
+        source_urls:
+          - https://www.dailypress.senate.gov/thursday-june-18-2026/
+        verbatim_excerpt: "$200 million annually (2027–2031) in grants to states"
+      - claim: annual commercial-to-residential conversion funding
+        kind: numerical_with_unit
+        value: "$100 million annually"
+        source_urls:
+          - https://www.dailypress.senate.gov/thursday-june-18-2026/
+        verbatim_excerpt: "$100 million annually for commercial-to-residential conversion programs"
+      - claim: civil penalty cap for institutional investor violations
+        kind: numerical_with_unit
+        value: "up to $1 million per violation"
+        source_urls:
+          - https://www.dailypress.senate.gov/thursday-june-18-2026/
+        verbatim_excerpt: "civil penalties up to $1 million per violation"
+      - claim: House passage vote and date
+        kind: temporal
+        value: "390-9, February 9, 2026"
+        source_urls:
+          - https://www.dailypress.senate.gov/thursday-june-18-2026/
+        verbatim_excerpt: "passed the House 390-9 on February 9, 2026"
+      - claim: bill authors
+        kind: named_person
+        value: "Tim Scott (R-S.C.) and Elizabeth Warren (D-Mass.)"
+        source_urls:
+          - https://www.dailypress.senate.gov/thursday-june-18-2026/
+        verbatim_excerpt: "co-authored by Senate Banking Committee Chairman Tim Scott (R-S.C.) and ranking member Elizabeth Warren (D-Mass.)"
+      - claim: institutional investor threshold for home-purchase prohibition
+        kind: numerical
+        value: "350 or more single-family homes"
+        source_urls:
+          - https://www.dailypress.senate.gov/thursday-june-18-2026/
+        verbatim_excerpt: "institutional investors controlling 350 or more single-family homes from purchasing additional homes"
+    quotes: []
+
+  - story_id: new-york-primary-house-races-midterms
+    category: politics
+    headline_en: "AP Decision Notes: New York State Primary Sets Up Key U.S. House Races Ahead of Midterms"
+    lead_url: https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+    body_source: full
+    corroborated_by:
+      - https://apps.npr.org/primary-election-results-2026/states/NY.html
+    locked_urls:
+      - https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+      - https://apps.npr.org/primary-election-results-2026/states/NY.html
+    hard_facts:
+      - claim: New York primary date
+        kind: temporal
+        value: June 23, 2026
+        source_urls:
+          - https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+        verbatim_excerpt: "New York's state primary election the following day (June 23)"
+      - claim: state Senate seats up for election
+        kind: numerical
+        value: "63"
+        source_urls:
+          - https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+        verbatim_excerpt: "all 63 state Senate seats"
+      - claim: state Assembly seats up for election
+        kind: numerical
+        value: "150"
+        source_urls:
+          - https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+        verbatim_excerpt: "all 150 state Assembly seats"
+      - claim: 13th CD incumbent
+        kind: named_person
+        value: Rep. Adriano Espaillat (5-term incumbent)
+        source_urls:
+          - https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+        verbatim_excerpt: "five-term incumbent Democratic Rep. Adriano Espaillat"
+      - claim: challenger endorsed by NYC Mayor
+        kind: named_person
+        value: Darializa Avila-Chevalier
+        source_urls:
+          - https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+        verbatim_excerpt: "doctoral student and political organizer Darializa Avila-Chevalier"
+      - claim: NYC Mayor who endorsed Avila-Chevalier
+        kind: named_person
+        value: "Zohran Mamdani (DSA, elected 2025)"
+        source_urls:
+          - https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+        verbatim_excerpt: "endorsement of New York City Mayor Zohran Mamdani"
+      - claim: 12th CD retiring incumbent
+        kind: named_person
+        value: Rep. Jerry Nadler (D-NY)
+        source_urls:
+          - https://www.usnews.com/news/politics/articles/2026-06-22/ap-decision-notes-what-to-expect-in-new-yorks-state-primary
+        verbatim_excerpt: "succeed retiring Rep. Jerry Nadler (D-NY)"
+    quotes: []
+
+  - story_id: ai-data-center-moratorium-poll-49pct
+    category: tech
+    headline_en: "New Poll: 49% of Americans Support Moratorium on New AI Data Center Construction as Backlash Grows"
+    lead_url: https://www.axios.com/2026/06/22/ai-data-center-backlash-poll
+    body_source: paywall-stub
+    corroborated_by:
+      - https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx
+    locked_urls:
+      - https://www.axios.com/2026/06/22/ai-data-center-backlash-poll
+      - https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx
+    hard_facts:
+      - claim: share supporting data center construction near home
+        kind: numerical_with_unit
+        value: "38%"
+        source_urls:
+          - https://www.axios.com/2026/06/22/ai-data-center-backlash-poll
+        verbatim_excerpt: "only 38% of respondents said they would support a data center being built near their home"
+      - claim: share supporting moratorium on new data centers
+        kind: numerical_with_unit
+        value: "49%"
+        source_urls:
+          - https://www.axios.com/2026/06/22/ai-data-center-backlash-poll
+        verbatim_excerpt: "49% say they support a moratorium on construction of new data centers"
+      - claim: share opposing moratorium
+        kind: numerical_with_unit
+        value: "16%"
+        source_urls:
+          - https://www.axios.com/2026/06/22/ai-data-center-backlash-poll
+        verbatim_excerpt: "only 16% oppose a moratorium"
+      - claim: Gallup survey share opposing local AI data centers
+        kind: numerical_with_unit
+        value: "70%"
+        source_urls:
+          - https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx
+        verbatim_excerpt: "70% of Americans opposed constructing AI data centers in their local area"
+      - claim: total U.S. data centers as of April 2026
+        kind: numerical
+        value: "4,184"
+        source_urls:
+          - https://www.axios.com/2026/06/22/ai-data-center-backlash-poll
+        verbatim_excerpt: "United States has 4,184 data centers as of April 2026"
+      - claim: Big Five hyperscaler capex for 2026
+        kind: numerical_with_unit
+        value: "$660–690 billion"
+        source_urls:
+          - https://www.axios.com/2026/06/22/ai-data-center-backlash-poll
+        verbatim_excerpt: "collectively committed $660–690 billion in capital expenditure for 2026"
+      - claim: polling firm
+        kind: named_institution
+        value: Milltown Partners
+        source_urls:
+          - https://www.axios.com/2026/06/22/ai-data-center-backlash-poll
+        verbatim_excerpt: "A poll by Milltown Partners"
+      - claim: Gallup survey sample size
+        kind: numerical
+        value: "n=1,000 adults"
+        source_urls:
+          - https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx
+        verbatim_excerpt: "March 2026 Gallup survey (n=1,000 adults"
+    quotes: []
+
+  - story_id: nyt-ceo-confident-ai-copyright-wins
+    category: tech
+    headline_en: "New York Times CEO Confident Company Will Win AI Copyright Battles Against OpenAI, Microsoft, and Perplexity"
+    lead_url: https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+    hard_facts:
+      - claim: NYT AI legal spending over 2.5 years
+        kind: numerical_with_unit
+        value: "approximately $20 million"
+        source_urls:
+          - https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+        verbatim_excerpt: "approximately $20 million on AI-related legal fees over two and a half years"
+      - claim: NYT original lawsuit filing date
+        kind: temporal
+        value: December 2023
+        source_urls:
+          - https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+        verbatim_excerpt: "NYT originally filed suit against OpenAI and Microsoft in December 2023"
+      - claim: defendants in original suit
+        kind: named_institution
+        value: "OpenAI and Microsoft"
+        source_urls:
+          - https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+        verbatim_excerpt: "suit against OpenAI and Microsoft"
+      - claim: Perplexity suit filing date
+        kind: temporal
+        value: December 2025
+        source_urls:
+          - https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+        verbatim_excerpt: "sued AI-powered search company Perplexity for copyright infringement in December 2025"
+      - claim: ChatGPT user preservation order scope
+        kind: numerical_with_unit
+        value: "more than 400 million users worldwide"
+        source_urls:
+          - https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+        verbatim_excerpt: "ChatGPT conversation logs affecting more than 400 million users worldwide"
+      - claim: NYT CEO speaker
+        kind: named_person
+        value: Meredith Kopit Levien (president and CEO, New York Times)
+        source_urls:
+          - https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+        verbatim_excerpt: "New York Times president and CEO Meredith Kopit Levien"
+    quotes:
+      - speaker_name: Meredith Kopit Levien
+        speaker_title: President and CEO, New York Times
+        verbatim_en: 'These companies that make the LLMs have taken our work. They''ve used it without our permission.'
+        source_url: https://www.axios.com/2026/06/22/new-york-times-ai-lawsuits
+        context: Levien at Axios House Cannes on NYT AI copyright litigation
+
+  - story_id: marvell-technology-sp500-260pct-rally
+    category: tech
+    headline_en: "AI Chipmaker Marvell Technology Officially Enters S&P 500, Capping a 260% Rally in 2026"
+    lead_url: https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-22-2026
+      - https://fortune.com/2026/06/06/marvell-technology-flex-sp500-index-pool-campbells-company/
+    locked_urls:
+      - https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+      - https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-22-2026
+      - https://fortune.com/2026/06/06/marvell-technology-flex-sp500-index-pool-campbells-company/
+    hard_facts:
+      - claim: Marvell YTD gain at inclusion
+        kind: numerical_with_unit
+        value: "approximately 260–265%"
+        source_urls:
+          - https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+        verbatim_excerpt: "surged approximately 260–265% in 2026 alone"
+      - claim: Marvell forward P/E at inclusion
+        kind: numerical
+        value: "approximately 106 times forward earnings"
+        source_urls:
+          - https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+        verbatim_excerpt: "trading at approximately 106 times forward earnings"
+      - claim: Nvidia investment in Marvell
+        kind: numerical_with_unit
+        value: "$2 billion"
+        source_urls:
+          - https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+        verbatim_excerpt: "a $2 billion investment from Nvidia"
+      - claim: Marvell share jump on inclusion announcement
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+        verbatim_excerpt: "Marvell shares had jumped 10% on the initial inclusion announcement"
+      - claim: companies replaced in S&P 500
+        kind: named_institution
+        value: "Pool Corp (POOL) and The Campbell's Company (CPB)"
+        source_urls:
+          - https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+        verbatim_excerpt: "replacing Pool Corp (POOL) and The Campbell's Company (CPB)"
+      - claim: Nvidia CEO endorsement venue
+        kind: named_person
+        value: "Jensen Huang at Computex conference, Taipei, late May 2026"
+        source_urls:
+          - https://press.spglobal.com/2026-06-05-Marvell-Technology-and-Flex-Set-to-Join-S-P-500-Others-to-Join-S-P-MidCap-400-and-S-P-SmallCap-600
+        verbatim_excerpt: "Nvidia CEO Jensen Huang at the Computex conference in Taipei in late May"
+    quotes: []
+
+  - story_id: alan-greenspan-dies-age-100
+    category: society
+    headline_en: "Former Federal Reserve Chairman Alan Greenspan, Who Guided U.S. Economy Through Boom and Crisis, Dies at 100"
+    lead_url: https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+    body_source: full
+    corroborated_by:
+      - https://abcnews.com/Business/wireStory/former-federal-reserve-chairman-alan-greenspan-died-100-134090801
+      - https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies
+      - https://www.cnn.com/2026/06/22/economy/alan-greenspan-obituary
+      - https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/
+    locked_urls:
+      - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+      - https://abcnews.com/Business/wireStory/former-federal-reserve-chairman-alan-greenspan-died-100-134090801
+      - https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies
+      - https://www.cnn.com/2026/06/22/economy/alan-greenspan-obituary
+      - https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/
+    hard_facts:
+      - claim: date and age of death
+        kind: temporal
+        value: June 22, 2026, age 100
+        source_urls:
+          - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        verbatim_excerpt: "died on Monday, June 22, 2026, at age 100"
+      - claim: cause of death
+        kind: named_product
+        value: complications of Parkinson's disease
+        source_urls:
+          - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        verbatim_excerpt: "from complications of Parkinson's disease"
+      - claim: date of birth
+        kind: temporal
+        value: March 6, 1926
+        source_urls:
+          - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        verbatim_excerpt: "born on March 6, 1926, in Washington Heights, New York City"
+      - claim: Fed tenure length
+        kind: numerical_with_unit
+        value: "18.5 years"
+        source_urls:
+          - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        verbatim_excerpt: "total of 18.5 years until January 31, 2006"
+      - claim: Fed chairmanship number
+        kind: numerical
+        value: 13th chairman
+        source_urls:
+          - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        verbatim_excerpt: "appointed him the 13th chairman of the Board of Governors"
+      - claim: appointing president
+        kind: named_person
+        value: President Ronald Reagan (August 1987)
+        source_urls:
+          - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        verbatim_excerpt: "President Ronald Reagan appointed him … in August 1987"
+      - claim: wife and her profession
+        kind: named_person
+        value: "Andrea Mitchell, NBC News correspondent (married 1997)"
+        source_urls:
+          - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        verbatim_excerpt: "His wife of 29 years, NBC News correspondent Andrea Mitchell"
+      - claim: coined phrase warning of overvalued markets
+        kind: temporal
+        value: '"irrational exuberance," December 1996'
+        source_urls:
+          - https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        verbatim_excerpt: "In December 1996, he coined the phrase \"irrational exuberance\""
+    quotes:
+      - speaker_name: Alan Greenspan
+        speaker_title: Former Chairman, Federal Reserve Board
+        verbatim_en: 'I have found a flaw.'
+        source_url: https://www.cbsnews.com/news/alan-greenspan-dies-age-100-federal-reserve-chairman/
+        context: Greenspan acknowledging before Congress in 2008 a flaw in his regulatory ideology
+
+  - story_id: fifa-world-cup-2026-week-two
+    category: society
+    headline_en: "Expanded 48-Team FIFA World Cup Delivers Excitement in Week Two at US, Canada, and Mexico Venues"
+    lead_url: https://www.npr.org/2026/06/22/nx-s1-5865668/expanded-world-cup-delivers-despite-early-doubts
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.npr.org/2026/06/22/nx-s1-5865668/expanded-world-cup-delivers-despite-early-doubts
+    hard_facts:
+      - claim: tournament team count
+        kind: numerical
+        value: "48 teams"
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5865668/expanded-world-cup-delivers-despite-early-doubts
+        verbatim_excerpt: "first 48-team expanded format"
+      - claim: USMNT result vs Paraguay
+        kind: temporal
+        value: "4-1, June 12, MetLife Stadium"
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5865668/expanded-world-cup-delivers-despite-early-doubts
+        verbatim_excerpt: "victories over Paraguay (4-1 on June 12 at MetLife Stadium)"
+      - claim: Messi hat-trick and record date
+        kind: temporal
+        value: June 16, 2026
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5865668/expanded-world-cup-delivers-despite-early-doubts
+        verbatim_excerpt: "Lionel Messi … scored a hat-trick for Argentina … on June 16"
+      - claim: Argentina score vs Algeria
+        kind: numerical
+        value: "3-0"
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5865668/expanded-world-cup-delivers-despite-early-doubts
+        verbatim_excerpt: "hat-trick for Argentina in a 3-0 victory over Algeria"
+      - claim: World Cup final date and venue
+        kind: temporal
+        value: "July 19, 2026 at MetLife Stadium"
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5865668/expanded-world-cup-delivers-despite-early-doubts
+        verbatim_excerpt: "final scheduled for July 19, 2026 at MetLife Stadium"
+      - claim: total host cities
+        kind: numerical
+        value: "16 host cities across three countries"
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5865668/expanded-world-cup-delivers-despite-early-doubts
+        verbatim_excerpt: "16 host cities across three countries"
+    quotes: []
+
+  - story_id: target-field-concessions-strike-500
+    category: society
+    headline_en: "500 Concessions Workers Strike at Target Field During Twins-Dodgers Game, First in Minnesota MLB History"
+    lead_url: https://www.cbsnews.com/minnesota/news/target-field-concessions-workers-strike-minneapolis-minnesota-twins/
+    body_source: full
+    corroborated_by:
+      - https://www.mprnews.org/story/2026/06/21/target-field-concessions-workers-to-strike-monday
+      - https://www.kare11.com/article/news/local/target-field-concession-workers-announce-strike-during-twins-dodgers-game/89-eb62172f-106d-4ea1-b352-8b4d95f910e8
+    locked_urls:
+      - https://www.cbsnews.com/minnesota/news/target-field-concessions-workers-strike-minneapolis-minnesota-twins/
+      - https://www.mprnews.org/story/2026/06/21/target-field-concessions-workers-to-strike-monday
+      - https://www.kare11.com/article/news/local/target-field-concession-workers-announce-strike-during-twins-dodgers-game/89-eb62172f-106d-4ea1-b352-8b4d95f910e8
+    hard_facts:
+      - claim: number of striking workers
+        kind: numerical
+        value: "approximately 500"
+        source_urls:
+          - https://www.cbsnews.com/minnesota/news/target-field-concessions-workers-strike-minneapolis-minnesota-twins/
+        verbatim_excerpt: "approximately 500 concessions workers at Target Field"
+      - claim: strike authorization vote share
+        kind: numerical_with_unit
+        value: "81%"
+        source_urls:
+          - https://www.cbsnews.com/minnesota/news/target-field-concessions-workers-strike-minneapolis-minnesota-twins/
+        verbatim_excerpt: "authorized on May 1 by 81% of union members"
+      - claim: union representing workers
+        kind: named_institution
+        value: Unite Here Local 17
+        source_urls:
+          - https://www.cbsnews.com/minnesota/news/target-field-concessions-workers-strike-minneapolis-minnesota-twins/
+        verbatim_excerpt: "represented by Unite Here Local 17"
+      - claim: concessions operator
+        kind: named_institution
+        value: Delaware North
+        source_urls:
+          - https://www.cbsnews.com/minnesota/news/target-field-concessions-workers-strike-minneapolis-minnesota-twins/
+        verbatim_excerpt: "employed by Delaware North, the stadium concessions operator"
+      - claim: walkout time
+        kind: temporal
+        value: "4 p.m., June 22, 2026"
+        source_urls:
+          - https://www.cbsnews.com/minnesota/news/target-field-concessions-workers-strike-minneapolis-minnesota-twins/
+        verbatim_excerpt: "Workers walked out at 4 p.m."
+      - claim: opposing teams
+        kind: named_institution
+        value: "Minnesota Twins vs. Los Angeles Dodgers"
+        source_urls:
+          - https://www.cbsnews.com/minnesota/news/target-field-concessions-workers-strike-minneapolis-minnesota-twins/
+        verbatim_excerpt: "Minnesota Twins' home game against the Los Angeles Dodgers"
+    quotes: []
+
+  - story_id: abbvie-acquires-apogee-10-9-billion
+    category: ipo_ma
+    headline_en: "AbbVie to Acquire Apogee Therapeutics for $10.9 Billion Cash to Deepen Next-Generation Immunology Pipeline"
+    lead_url: https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+    body_source: paywall-stub
+    corroborated_by:
+      - https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio
+      - https://www.bloomberg.com/news/articles/2026-06-22/abbvie-to-buy-apogee-therapeutics-for-10-9-billion-in-cash
+      - https://www.usnews.com/news/top-news/articles/2026-06-22/abbvie-strikes-10-9-billion-deal-for-apogee-therapeutics
+    locked_urls:
+      - https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+      - https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio
+      - https://www.bloomberg.com/news/articles/2026-06-22/abbvie-to-buy-apogee-therapeutics-for-10-9-billion-in-cash
+      - https://www.usnews.com/news/top-news/articles/2026-06-22/abbvie-strikes-10-9-billion-deal-for-apogee-therapeutics
+    hard_facts:
+      - claim: deal price per share
+        kind: numerical_with_unit
+        value: "$135.11 per share"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+        verbatim_excerpt: "$135.11 per share in an all-cash transaction"
+      - claim: total equity value
+        kind: numerical_with_unit
+        value: "approximately $10.9 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+        verbatim_excerpt: "total equity value of approximately $10.9 billion"
+      - claim: premium to Apogee closing price
+        kind: numerical_with_unit
+        value: "approximately 49%"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+        verbatim_excerpt: "a premium of approximately 49% to Apogee's June 18, 2026 closing price"
+      - claim: expected close timing
+        kind: temporal
+        value: Q3 2026
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+        verbatim_excerpt: "expected to close in Q3 2026"
+      - claim: Apogee lead pipeline asset
+        kind: named_product
+        value: "zumilokibart (APG777), IL-13 monoclonal antibody"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+        verbatim_excerpt: "zumilokibart (APG777), a late-stage, extended half-life monoclonal antibody targeting IL-13"
+      - claim: APGE premarket share surge
+        kind: numerical_with_unit
+        value: "47%"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+        verbatim_excerpt: "Shares of Apogee (APGE) surged 47% in premarket trading"
+      - claim: AbbVie's prior largest acquisition
+        kind: numerical_with_unit
+        value: "$63 billion purchase of Allergan in 2020"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0001974640/000114036126025844/ef20076505_ex99-1.htm
+        verbatim_excerpt: "AbbVie's largest buyout since its $63 billion purchase of Allergan in 2020"
+    quotes: []
+
+  - story_id: crh-acquires-arcosa-8-5-billion
+    category: ipo_ma
+    headline_en: "CRH to Acquire Arcosa for $8.5 Billion All-Cash to Reinforce Position as North America's Leading Infrastructure Materials Group"
+    lead_url: https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+    body_source: full
+    corroborated_by:
+      - https://www.sec.gov/Archives/edgar/data/0001739445/000173944526000112/aca-20260621.htm
+      - https://www.businesswire.com/news/home/20260622263461/en/CRH-to-Acquire-Arcosa-Leading-U.S.-Provider-of-Aggregates-and-Critical-Infrastructure-Products-for-$8.5B
+    locked_urls:
+      - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+      - https://www.sec.gov/Archives/edgar/data/0001739445/000173944526000112/aca-20260621.htm
+      - https://www.businesswire.com/news/home/20260622263461/en/CRH-to-Acquire-Arcosa-Leading-U.S.-Provider-of-Aggregates-and-Critical-Infrastructure-Products-for-$8.5B
+    hard_facts:
+      - claim: acquisition price per share
+        kind: numerical_with_unit
+        value: "$150 per share"
+        source_urls:
+          - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        verbatim_excerpt: "all-cash transaction at $150 per share"
+      - claim: total enterprise value
+        kind: numerical_with_unit
+        value: "approximately $8.5 billion"
+        source_urls:
+          - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        verbatim_excerpt: "total enterprise value of approximately $8.5 billion"
+      - claim: premium to 60-day VWAP
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        verbatim_excerpt: "25% premium to Arcosa's 60-day volume-weighted average price as of June 18, 2026"
+      - claim: EV/EBITDA multiple including synergies
+        kind: numerical
+        value: "11.5x 2026E Adjusted EBITDA"
+        source_urls:
+          - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        verbatim_excerpt: "11.5x 2026E Adjusted EBITDA including estimated annual run-rate cost synergies"
+      - claim: annual run-rate cost synergies by year 3
+        kind: numerical_with_unit
+        value: "$175 million"
+        source_urls:
+          - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        verbatim_excerpt: "estimated annual run-rate cost synergies of $175 million by year three"
+      - claim: expected close timing
+        kind: temporal
+        value: Q1 2027
+        source_urls:
+          - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        verbatim_excerpt: "expected to close in Q1 2027"
+      - claim: pro forma leverage
+        kind: numerical
+        value: "approximately 2.4x Net Debt/Adjusted EBITDA"
+        source_urls:
+          - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        verbatim_excerpt: "pro forma leverage of approximately 2.4x Net Debt/Adjusted EBITDA"
+      - claim: Arcosa ACA premarket share gain
+        kind: numerical_with_unit
+        value: "7.4%"
+        source_urls:
+          - https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        verbatim_excerpt: "Shares of Arcosa (ACA) surged 7.4% in premarket trading"
+    quotes:
+      - speaker_name: Jim Mintern
+        speaker_title: CEO, CRH
+        verbatim_en: 'This strategic acquisition reinforces our position as the #1 infrastructure player in North America and exemplifies our disciplined approach to capital allocation.'
+        source_url: https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        context: CRH CEO on rationale for Arcosa acquisition
+      - speaker_name: Antonio Carrillo
+        speaker_title: President and CEO, Arcosa
+        verbatim_en: 'This transaction crystalizes the value we have built for our shareholders.'
+        source_url: https://www.crh.com/media/press-releases/2026/crh-to-acquire-arcosa-leading-u-s-provider-of-aggregates-and-critical-infrastructure-products-for-8-5b/
+        context: Arcosa CEO on deal announcement
+
+  - story_id: spacex-20b-bond-after-75b-ipo
+    category: ipo_ma
+    headline_en: "SpaceX Launches Inaugural $20 Billion-Plus Investment-Grade Bond Offering Ten Days After Record $75 Billion IPO"
+    lead_url: https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+    body_source: full
+    corroborated_by:
+      - https://www.sec.gov/Archives/edgar/data/0001181412/000162828026044489/spcx8-kxlaunchseniornotes.htm
+      - https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering
+    locked_urls:
+      - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+      - https://www.sec.gov/Archives/edgar/data/0001181412/000162828026044489/spcx8-kxlaunchseniornotes.htm
+      - https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering
+    hard_facts:
+      - claim: bond offering size
+        kind: numerical_with_unit
+        value: "at least $20 billion"
+        source_urls:
+          - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+        verbatim_excerpt: "seeking to raise at least $20 billion"
+      - claim: SpaceX IPO size and date
+        kind: temporal
+        value: "$75 billion, June 12, 2026"
+        source_urls:
+          - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+        verbatim_excerpt: "record-breaking initial public offering on June 12, 2026, which raised $75 billion"
+      - claim: SpaceX valuation at IPO
+        kind: numerical_with_unit
+        value: "approximately $2 trillion"
+        source_urls:
+          - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+        verbatim_excerpt: "valued the company at approximately $2 trillion"
+      - claim: SpaceX cash holdings as of June 19
+        kind: numerical_with_unit
+        value: "$100.8 billion"
+        source_urls:
+          - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+        verbatim_excerpt: "cash holdings of $100.8 billion as of June 19, 2026"
+      - claim: SpaceX long-term debt from xAI acquisition bridge loan
+        kind: numerical_with_unit
+        value: "$29.1 billion"
+        source_urls:
+          - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+        verbatim_excerpt: "SpaceX's $29.1 billion in long-term debt"
+      - claim: credit ratings received June 18
+        kind: named_institution
+        value: "Moody's Baa1, Fitch BBB+, S&P Global BBB"
+        source_urls:
+          - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+        verbatim_excerpt: "Moody's (Baa1), Fitch (BBB+), and S&P Global (BBB)"
+      - claim: SPCX all-time high
+        kind: numerical_with_unit
+        value: "$225.64 (June 16)"
+        source_urls:
+          - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+        verbatim_excerpt: "June 16 all-time high of $225.64"
+      - claim: xAI acquisition date
+        kind: temporal
+        value: February 2026
+        source_urls:
+          - https://www.quiverquant.com/news/SpaceX+Launches+First+Investment-Grade+Bond+Sale+After+Record+IPO
+        verbatim_excerpt: "SpaceX completed its acquisition of Elon Musk's AI company xAI in February 2026"
+    quotes: []
+
+  - story_id: uk-pm-starmer-resigns-burnham
+    category: other
+    headline_en: "UK Prime Minister Keir Starmer Resigns After Labour Party Revolt Over Election Losses; Andy Burnham Expected to Succeed"
+    lead_url: https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.nbcnews.com/world/united-kingdom/keir-starmer-resigns-prime-minister-andy-burnham-labour-party-britain-rcna257534
+      - https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/
+    locked_urls:
+      - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+      - https://www.nbcnews.com/world/united-kingdom/keir-starmer-resigns-prime-minister-andy-burnham-labour-party-britain-rcna257534
+      - https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/
+    hard_facts:
+      - claim: Starmer resignation date
+        kind: temporal
+        value: June 22, 2026
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "announced on June 22, 2026 that he was stepping down"
+      - claim: Labour election victory date
+        kind: temporal
+        value: July 2024
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "leading Labour to a landslide election victory in July 2024"
+      - claim: Labour local council seat losses
+        kind: numerical_with_unit
+        value: "more than 1,000 seats, May 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "Labour lost more than 1,000 seats in May 2026 local council elections"
+      - claim: expected successor
+        kind: named_person
+        value: Andy Burnham (former Mayor of Greater Manchester)
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "most likely successor is Andy Burnham, the former Mayor of Greater Manchester"
+      - claim: Starmer's count among recent departing PMs
+        kind: numerical
+        value: sixth prime minister in a decade to depart prematurely
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "sixth British prime minister in a decade to announce a premature departure"
+      - claim: controversial UK ambassador to US appointed by Starmer
+        kind: named_person
+        value: Peter Mandelson
+        source_urls:
+          - https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns
+        verbatim_excerpt: "his appointment of Peter Mandelson … as the UK ambassador to the United States"
+    quotes: []
+
+  - story_id: wildfires-western-us-preparedness-level-3
+    category: other
+    headline_en: "Active Wildfires Burn Across Western U.S. as National Preparedness Level Hits 3; 2.6 Million Acres Scorched YTD"
+    lead_url: https://www.nifc.gov/nicc-files/sitreprt.pdf
+    body_source: full
+    corroborated_by:
+      - https://www.nifc.gov/fire-information/nfn
+      - https://news3lv.com/news/local/kane-springs-fire-grows-to-11439-acres-10-contained-southwest-of-caliente
+    locked_urls:
+      - https://www.nifc.gov/nicc-files/sitreprt.pdf
+      - https://www.nifc.gov/fire-information/nfn
+      - https://news3lv.com/news/local/kane-springs-fire-grows-to-11439-acres-10-contained-southwest-of-caliente
+    hard_facts:
+      - claim: number of uncontained large fires
+        kind: numerical
+        value: "27"
+        source_urls:
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "27 uncontained large fires burning across the United States"
+      - claim: new fires ignited previous day
+        kind: numerical
+        value: "74"
+        source_urls:
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "74 new fires ignited the previous day"
+      - claim: YTD acres burned
+        kind: numerical_with_unit
+        value: "more than 2.6 million acres"
+        source_urls:
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "burned more than 2.6 million acres — surpassing the 10-year average"
+      - claim: YTD total fires
+        kind: numerical
+        value: "33,349 fires"
+        source_urls:
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "33,349 fires had burned more than 2.6 million acres"
+      - claim: personnel assigned nationwide
+        kind: numerical_with_unit
+        value: "nearly 5,000 personnel"
+        source_urls:
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "Nearly 5,000 personnel … were assigned to incidents nationwide"
+      - claim: Grapevine Fire size and containment
+        kind: numerical_with_unit
+        value: "approximately 13,000 acres, 0% contained"
+        source_urls:
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "Grapevine Fire … approximately 13,000 acres with 0% containment"
+      - claim: Kane Springs Fire size and containment
+        kind: numerical_with_unit
+        value: "11,439 acres, 10% contained"
+        source_urls:
+          - https://news3lv.com/news/local/kane-springs-fire-grows-to-11439-acres-10-contained-southwest-of-caliente
+        verbatim_excerpt: "Kane Springs Fire … at 11,439 acres and 10% contained"
+      - claim: National Preparedness Level
+        kind: numerical
+        value: "PL3"
+        source_urls:
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "National Preparedness Level was raised to 3 (PL3)"
+    quotes: []
+
+  - story_id: college-world-series-game3-oklahoma-unc
+    category: other
+    headline_en: "College World Series Reaches Decisive Championship Game 3: Oklahoma vs. North Carolina at Charles Schwab Field"
+    lead_url: https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+    body_source: full
+    corroborated_by:
+      - https://www.ncaa.com/live-updates/baseball/d1/north-carolina-defeats-oklahoma-game-2-mcws-finals-forces-game-3
+      - https://sports.yahoo.com/college-sports/live/college-world-series-2026-unc-evens-finals-with-6-2-win-over-oklahoma-forcing-decisive-game-3-173203775.html
+    locked_urls:
+      - https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+      - https://www.ncaa.com/live-updates/baseball/d1/north-carolina-defeats-oklahoma-game-2-mcws-finals-forces-game-3
+      - https://sports.yahoo.com/college-sports/live/college-world-series-2026-unc-evens-finals-with-6-2-win-over-oklahoma-forcing-decisive-game-3-173203775.html
+    hard_facts:
+      - claim: Game 3 first pitch time and broadcast
+        kind: temporal
+        value: "7:00 p.m. ET on ESPN, June 22, 2026"
+        source_urls:
+          - https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+        verbatim_excerpt: "first pitch 7:00 p.m. ET on ESPN"
+      - claim: Game 1 result
+        kind: temporal
+        value: "Oklahoma 9-3, June 20"
+        source_urls:
+          - https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+        verbatim_excerpt: "Oklahoma won Game 1 on June 20 by 9-3"
+      - claim: Game 2 result
+        kind: temporal
+        value: "North Carolina 6-2, June 21"
+        source_urls:
+          - https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+        verbatim_excerpt: "North Carolina won Game 2 on June 21 by 6-2"
+      - claim: UNC pitcher Caden Glauber Game 2 stats
+        kind: numerical
+        value: "five scoreless innings, eight strikeouts"
+        source_urls:
+          - https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+        verbatim_excerpt: "threw five scoreless innings with eight strikeouts"
+      - claim: Oklahoma key batter stats
+        kind: named_person
+        value: "Deiten Lachance (.333 BA, 18 HR, 68 RBI)"
+        source_urls:
+          - https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+        verbatim_excerpt: "Oklahoma's Deiten Lachance (.333 BA, 18 HR, 68 RBI)"
+      - claim: UNC key batter stats
+        kind: named_person
+        value: "Owen Hull (.390 BA, 86 RBI)"
+        source_urls:
+          - https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+        verbatim_excerpt: "North Carolina's Owen Hull (.390 BA, 86 RBI)"
+      - claim: venue
+        kind: named_institution
+        value: "Charles Schwab Field, Omaha, Nebraska"
+        source_urls:
+          - https://www.espn.com/college-baseball/game/_/gameId/401874453/oklahoma-sooners-north-carolina-tar-heels
+        verbatim_excerpt: "Charles Schwab Field in Omaha, Nebraska"
+    quotes: []
