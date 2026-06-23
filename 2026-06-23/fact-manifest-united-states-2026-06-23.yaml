@@ -1,0 +1,762 @@
+version: 1
+generated_at: "2026-06-23T12:00:00Z"
+country: United States
+date: "2026-06-23"
+total_stories: 9
+stories:
+  - story_id: us-iran-oil-sanctions-waivers-billions
+    category: econ
+    headline_en: "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran"
+    lead_url: https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+    locked_urls:
+      - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+      - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+    hard_facts:
+      - claim: US Treasury body that issued the general license
+        kind: named_institution
+        value: "U.S. Treasury's OFAC"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+        verbatim_excerpt: "The U.S. Treasury's OFAC issued General License X on or about June 22, 2026"
+      - claim: General license identifier
+        kind: named_product
+        value: "General License X"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+        verbatim_excerpt: "The U.S. Treasury's OFAC issued General License X on or about June 22, 2026"
+      - claim: License issuance date
+        kind: temporal
+        value: "June 22, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+        verbatim_excerpt: "issued General License X on or about June 22, 2026"
+      - claim: Duration of the sanctions waiver window
+        kind: temporal
+        value: "60-day window"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+        verbatim_excerpt: "permitting a 60-day window for Iranian crude oil trade"
+      - claim: Framework agreement name
+        kind: named_product
+        value: "Islamabad Memorandum"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+        verbatim_excerpt: "as part of the framework established by the Islamabad Memorandum (signed June 17, 2026)"
+      - claim: Islamabad Memorandum signing date
+        kind: temporal
+        value: "June 17, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+        verbatim_excerpt: "the Islamabad Memorandum (signed June 17, 2026)"
+      - claim: CNBC article publication date
+        kind: temporal
+        value: "June 23, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+        verbatim_excerpt: "The CNBC article, published June 23, 2026"
+    quotes:
+      - speaker_name: "[CNBC article]"
+        speaker_title: CNBC reporting
+        verbatim_en: "billions in revenue for Tehran"
+        source_url: https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+        context: CNBC article published June 23, 2026 describing scale of sanctions waivers
+
+  - story_id: bls-state-employment-unemployment-may-2026
+    category: econ
+    headline_en: "BLS State Employment and Unemployment Summary — May 2026 (Released June 23, 10:00 AM ET)"
+    lead_url: https://www.bls.gov/news.release/laus.htm
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bls.gov/news.release/laus.htm
+    hard_facts:
+      - claim: BLS release institution
+        kind: named_institution
+        value: "Bureau of Labor Statistics"
+        source_urls:
+          - https://www.bls.gov/news.release/laus.htm
+        verbatim_excerpt: "The Bureau of Labor Statistics released its State Employment and Unemployment (Monthly) Summary for May 2026"
+      - claim: BLS release time and date
+        kind: temporal
+        value: "10:00 AM ET on June 23, 2026"
+        source_urls:
+          - https://www.bls.gov/news.release/laus.htm
+        verbatim_excerpt: "released its State Employment and Unemployment (Monthly) Summary for May 2026 at 10:00 AM ET on June 23, 2026"
+      - claim: National unemployment rate
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - https://www.bls.gov/news.release/laus.htm
+        verbatim_excerpt: "National unemployment rate 4.3%"
+      - claim: National nonfarm payroll jobs added in May
+        kind: numerical_with_unit
+        value: "approximately 172,000 jobs"
+        source_urls:
+          - https://www.bls.gov/news.release/laus.htm
+        verbatim_excerpt: "national nonfarm payroll employment added approximately 172,000 jobs in May"
+      - claim: FOMC June meeting date
+        kind: temporal
+        value: "June 17"
+        source_urls:
+          - https://www.bls.gov/news.release/laus.htm
+        verbatim_excerpt: "the FOMC at its June 17 meeting (Fed Chair Kevin Warsh) held the federal funds rate at 3.5–3.75%"
+      - claim: Fed Chair identity
+        kind: named_person
+        value: "Kevin Warsh"
+        source_urls:
+          - https://www.bls.gov/news.release/laus.htm
+        verbatim_excerpt: "the FOMC at its June 17 meeting (Fed Chair Kevin Warsh)"
+      - claim: Federal funds rate
+        kind: numerical_with_unit
+        value: "3.5–3.75%"
+        source_urls:
+          - https://www.bls.gov/news.release/laus.htm
+        verbatim_excerpt: "held the federal funds rate at 3.5–3.75%"
+      - claim: Annualized CPI inflation
+        kind: numerical_with_unit
+        value: "4.2%"
+        source_urls:
+          - https://www.bls.gov/news.release/laus.htm
+        verbatim_excerpt: "citing annualized CPI inflation of 4.2%"
+    quotes: []
+
+  - story_id: greenspans-legacy-convoluted-bloomberg-opinion
+    category: econ
+    headline_en: "Greenspan's Legacy Is as Convoluted as His Words"
+    lead_url: https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm
+    locked_urls:
+      - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+      - https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm
+    hard_facts:
+      - claim: Greenspan's Federal Reserve chairmanship ordinal
+        kind: numerical
+        value: "13th"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "Alan Greenspan, 13th Chairman of the Federal Reserve"
+      - claim: Greenspan's Federal Reserve tenure period
+        kind: temporal
+        value: "August 1987 – January 2006"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "served August 1987 – January 2006 under Reagan, H.W. Bush, Clinton, George W. Bush"
+      - claim: Greenspan's death date
+        kind: temporal
+        value: "June 22, 2026"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+          - https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm
+        verbatim_excerpt: "died on June 22, 2026, aged 100, from complications of Parkinson's disease at his home in Washington, D.C."
+      - claim: Greenspan's age at death
+        kind: numerical_with_unit
+        value: "aged 100"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "died on June 22, 2026, aged 100, from complications of Parkinson's disease"
+      - claim: Greenspan's cause of death
+        kind: named_product
+        value: "Parkinson's disease"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "from complications of Parkinson's disease at his home in Washington, D.C."
+      - claim: Bloomberg Opinion columnist byline
+        kind: named_person
+        value: "John Authers"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "Bloomberg Opinion columnist John Authers' June 23 piece"
+      - claim: Piece publication date
+        kind: temporal
+        value: "June 23"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "Bloomberg Opinion columnist John Authers' June 23 piece"
+      - claim: Greenspan's irrational exuberance speech date
+        kind: temporal
+        value: "December 1996"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "References Greenspan's \"irrational exuberance\" December 1996 speech"
+      - claim: Greenspan memoir title
+        kind: named_product
+        value: "The Age of Turbulence"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "his 2007 memoir \"The Age of Turbulence\""
+      - claim: Greenspan memoir publication year
+        kind: temporal
+        value: "2007"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "his 2007 memoir \"The Age of Turbulence\""
+      - claim: Current Fed Chair
+        kind: named_person
+        value: "Kevin Warsh"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "current Fed Chair Kevin Warsh's opposite challenge — rates at 3.5–3.75% with CPI at 4.2%"
+      - claim: Current federal funds rate
+        kind: numerical_with_unit
+        value: "3.5–3.75%"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "rates at 3.5–3.75% with CPI at 4.2%"
+      - claim: Current CPI
+        kind: numerical_with_unit
+        value: "4.2%"
+        source_urls:
+          - https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        verbatim_excerpt: "rates at 3.5–3.75% with CPI at 4.2%"
+    quotes:
+      - speaker_name: Alan Greenspan
+        speaker_title: 13th Chairman of the Federal Reserve (served August 1987 – January 2006)
+        verbatim_en: "irrational exuberance"
+        source_url: https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        context: December 1996 speech, cited in John Authers' June 23, 2026 Bloomberg Opinion piece
+      - speaker_name: Alan Greenspan
+        speaker_title: 13th Chairman of the Federal Reserve (served August 1987 – January 2006)
+        verbatim_en: "flaw"
+        source_url: https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+        context: post-2008 admission regarding his ideology, cited in John Authers' June 23, 2026 Bloomberg Opinion piece
+
+  - story_id: ny-house-primaries-sc-gop-runoff-june-23
+    category: politics
+    headline_en: "New York House primaries and South Carolina GOP runoff test party fault lines — June 23 election day"
+    lead_url: https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+    hard_facts:
+      - claim: Primary election date
+        kind: temporal
+        value: "June 23, 2026"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "June 23, 2026 is a primary election day across multiple states"
+      - claim: NY-10 candidates
+        kind: named_person
+        value: "Brad Lander vs. incumbent Dan Goldman"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "NY-10 (Brad Lander vs. incumbent Dan Goldman"
+      - claim: NYC mayoral victor who energized progressive coalition
+        kind: named_person
+        value: "Zohran Mamdani"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "Lander backed by progressive coalition energized by Zohran Mamdani's NYC mayoral victory"
+      - claim: NY-7 candidates
+        kind: named_person
+        value: "Jenifer Rajkumar vs. Catalina Cruz"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "NY-7 (open seat, Jenifer Rajkumar vs. Catalina Cruz)"
+      - claim: NY-12 candidates
+        kind: named_person
+        value: "Micah Lasher vs. Liz Schlossberg vs. Daniel Conway"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "NY-12 (open seat, three-way: Micah Lasher vs. Liz Schlossberg vs. Daniel Conway)"
+      - claim: NY-13 candidates
+        kind: named_person
+        value: "incumbent Adriano Espaillat vs. challenger Abigail Avila Chevalier"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "NY-13 (incumbent Adriano Espaillat vs. challenger Abigail Avila Chevalier)"
+      - claim: South Carolina Republican gubernatorial runoff candidate 1
+        kind: named_person
+        value: "Lt. Gov. Pamela Evette"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "the Republican gubernatorial runoff pits Lt. Gov. Pamela Evette against AG Alan Wilson"
+      - claim: South Carolina Republican gubernatorial runoff candidate 2
+        kind: named_person
+        value: "AG Alan Wilson"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "the Republican gubernatorial runoff pits Lt. Gov. Pamela Evette against AG Alan Wilson"
+      - claim: Trump endorsement of SC runoff candidates
+        kind: named_person
+        value: "President Trump"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "President Trump endorsed both candidates, creating an unusual intraparty contest"
+      - claim: New York polls closing time
+        kind: temporal
+        value: "9 PM EDT"
+        source_urls:
+          - https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+        verbatim_excerpt: "Polls close in New York at 9 PM EDT"
+    quotes: []
+
+  - story_id: trump-iran-nuclear-inspections-denial-june-23
+    category: politics
+    headline_en: "Trump says Iran 'completely agreed' to nuclear inspections; Tehran denies — live updates June 23"
+    lead_url: https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/world/iran/trump-iran-war-nuclear-inspections-israel-lebanon-iaea-vance-rcna351335
+      - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+    locked_urls:
+      - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+      - https://www.nbcnews.com/world/iran/trump-iran-war-nuclear-inspections-israel-lebanon-iaea-vance-rcna351335
+      - https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+    hard_facts:
+      - claim: Trump's statement date
+        kind: temporal
+        value: "June 23, 2026"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "President Trump stated on June 23, 2026, that Iran has \"fully and completely agreed\" to allow nuclear inspections"
+      - claim: Framework agreement name
+        kind: named_product
+        value: "Islamabad Memorandum"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "as part of the peace deal framework emerging from the Islamabad Memorandum signed June 17"
+      - claim: Islamabad Memorandum signing date
+        kind: temporal
+        value: "June 17"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "the Islamabad Memorandum signed June 17"
+      - claim: Iranian Foreign Minister
+        kind: named_person
+        value: "Abbas Araghchi"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "Iranian Foreign Minister Abbas Araghchi and spokesman Esmaeil Baqaei disputed this on June 23"
+      - claim: Iranian spokesman
+        kind: named_person
+        value: "Esmaeil Baqaei"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "Iranian Foreign Minister Abbas Araghchi and spokesman Esmaeil Baqaei disputed this on June 23"
+      - claim: Iran denial date
+        kind: temporal
+        value: "June 23"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "Abbas Araghchi and spokesman Esmaeil Baqaei disputed this on June 23"
+      - claim: US lead negotiator in Swiss talks
+        kind: named_person
+        value: "VP JD Vance"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "VP JD Vance led U.S. negotiators in Swiss talks June 22–23"
+      - claim: Swiss talks dates
+        kind: temporal
+        value: "June 22–23"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "VP JD Vance led U.S. negotiators in Swiss talks June 22–23"
+      - claim: Israeli PM calling for IAEA access
+        kind: named_person
+        value: "Netanyahu"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "Israeli reaction (Netanyahu calling for full IAEA access)"
+      - claim: UN nuclear agency acronym
+        kind: named_institution
+        value: "IAEA"
+        source_urls:
+          - https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        verbatim_excerpt: "Netanyahu calling for full IAEA access"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "fully and completely agreed"
+        source_url: https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        context: Trump statement on June 23, 2026 regarding Iran's agreement to allow nuclear inspections
+      - speaker_name: "[Abbas Araghchi / Esmaeil Baqaei]"
+        speaker_title: Iranian Foreign Minister / Iranian spokesman
+        verbatim_en: "no plans for a nuclear inspection agreement"
+        source_url: https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+        context: Iranian denial on June 23, 2026 disputing Trump's claim
+
+  - story_id: tech-rout-spacex-mag7-global-sell-off
+    category: tech
+    headline_en: "Tech rout intensifies as sell-off grips global stocks; SpaceX, Mag-7 lead decline"
+    lead_url: https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.nbcnews.com/business/business-news/tech-sell-off-markets-spacex-alphabet-nasdaq100-stocks-rcna351331
+      - https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html
+      - https://www.fool.com/investing/2026/06/23/spacexs-fundraising-is-not-over-with-a-20-billion-new-bond-offering/
+    locked_urls:
+      - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+      - https://www.nbcnews.com/business/business-news/tech-sell-off-markets-spacex-alphabet-nasdaq100-stocks-rcna351331
+      - https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html
+      - https://www.fool.com/investing/2026/06/23/spacexs-fundraising-is-not-over-with-a-20-billion-new-bond-offering/
+    hard_facts:
+      - claim: Sell-off date
+        kind: temporal
+        value: "June 23, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "On June 23, 2026, US and global technology stocks experienced a significant sell-off led by SpaceX"
+      - claim: SpaceX IPO date
+        kind: temporal
+        value: "June 12"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "SpaceX (IPO'd June 12 at $135/share, ~$86B raised)"
+      - claim: SpaceX IPO price
+        kind: numerical_with_unit
+        value: "$135/share"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "SpaceX (IPO'd June 12 at $135/share, ~$86B raised)"
+      - claim: SpaceX IPO total raised
+        kind: numerical_with_unit
+        value: "~$86B raised"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "SpaceX (IPO'd June 12 at $135/share, ~$86B raised)"
+      - claim: SpaceX post-IPO peak price
+        kind: numerical_with_unit
+        value: "near $225/share"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "SpaceX (IPO'd June 12 at $135/share, ~$86B raised) had peaked near $225/share before falling"
+      - claim: SpaceX premarket decline on June 23
+        kind: numerical_with_unit
+        value: "more than 4%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "SpaceX was down more than 4% in premarket"
+      - claim: SpaceX decline from post-IPO peak
+        kind: numerical_with_unit
+        value: "~16.2%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "~16.2% from its post-IPO peak (~$155/share)"
+      - claim: SpaceX price on June 23 relative to peak
+        kind: numerical_with_unit
+        value: "~$155/share"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "~16.2% from its post-IPO peak (~$155/share)"
+      - claim: SpaceX bond offering size
+        kind: numerical_with_unit
+        value: "$20 billion bond offering"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+          - https://www.fool.com/investing/2026/06/23/spacexs-fundraising-is-not-over-with-a-20-billion-new-bond-offering/
+        verbatim_excerpt: "following a $20 billion bond offering that raised dilution concerns"
+      - claim: SpaceX cumulative market cap loss per CNBC
+        kind: numerical_with_unit
+        value: "~$400 billion"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "Cumulative market cap loss from SpaceX's peak ~$400 billion (CNBC)"
+      - claim: SpaceX cumulative market cap loss per NBC
+        kind: numerical_with_unit
+        value: "$900 billion"
+        source_urls:
+          - https://www.nbcnews.com/business/business-news/tech-sell-off-markets-spacex-alphabet-nasdaq100-stocks-rcna351331
+        verbatim_excerpt: "Cumulative market cap loss from SpaceX's peak ~$400 billion (CNBC) to $900 billion (NBC)"
+      - claim: SK Hynix and Samsung decline
+        kind: numerical_with_unit
+        value: "more than 12%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "SK Hynix and Samsung fell more than 12%"
+      - claim: Nasdaq-100 futures premarket decline
+        kind: numerical_with_unit
+        value: "~2.8%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "Nasdaq-100 futures down ~2.8% premarket"
+      - claim: Company with worst single-day drop in over a year
+        kind: named_institution
+        value: "Alphabet"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+          - https://www.nbcnews.com/business/business-news/tech-sell-off-markets-spacex-alphabet-nasdaq100-stocks-rcna351331
+        verbatim_excerpt: "Alphabet had its worst single-day drop in over a year, linked to senior AI talent departures"
+      - claim: SK Hynix identity
+        kind: named_institution
+        value: "SK Hynix"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "SK Hynix and Samsung fell more than 12%"
+      - claim: Samsung identity
+        kind: named_institution
+        value: "Samsung"
+        source_urls:
+          - https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+        verbatim_excerpt: "SK Hynix and Samsung fell more than 12%"
+    quotes: []
+
+  - story_id: what-happens-if-us-ends-birthright-citizenship
+    category: society
+    headline_en: "What happens if the US ends birthright citizenship?"
+    lead_url: https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+    body_source: full
+    corroborated_by:
+      - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+    locked_urls:
+      - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+      - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+    hard_facts:
+      - claim: NPR article publication date
+        kind: temporal
+        value: "June 23, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        verbatim_excerpt: "NPR explainer (June 23, 2026), with Trump v. Barbara pending at the Supreme Court"
+      - claim: Supreme Court case name
+        kind: named_product
+        value: "Trump v. Barbara"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        verbatim_excerpt: "Trump v. Barbara pending at the Supreme Court"
+      - claim: Constitutional provision at issue
+        kind: named_product
+        value: "14th Amendment citizenship clause"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        verbatim_excerpt: "the 14th Amendment citizenship clause (\"all persons born or naturalized in the United States, and subject to the jurisdiction thereof\")"
+      - claim: US-born children of undocumented parents currently living in the US
+        kind: numerical_with_unit
+        value: "~4.4 million"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        verbatim_excerpt: "~4.4 million US-born children of undocumented parents currently living in the US"
+      - claim: Historical precedent case
+        kind: named_product
+        value: "United States v. Wong Kim Ark"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        verbatim_excerpt: "historical precedent (United States v. Wong Kim Ark, 1898)"
+      - claim: Historical precedent case year
+        kind: temporal
+        value: "1898"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        verbatim_excerpt: "historical precedent (United States v. Wong Kim Ark, 1898)"
+      - claim: Oral arguments date
+        kind: temporal
+        value: "April 1, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        verbatim_excerpt: "oral arguments April 1, 2026 with a ruling expected by end of June 2026"
+      - claim: Ruling expected timing
+        kind: temporal
+        value: "end of June 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        verbatim_excerpt: "oral arguments April 1, 2026 with a ruling expected by end of June 2026"
+    quotes:
+      - speaker_name: "[14th Amendment]"
+        speaker_title: U.S. Constitution, 14th Amendment
+        verbatim_en: "all persons born or naturalized in the United States, and subject to the jurisdiction thereof"
+        source_url: https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+        context: NPR June 23, 2026 explainer quoting citizenship clause of the 14th Amendment
+
+  - story_id: public-health-consequences-birthright-citizenship
+    category: society
+    headline_en: "The public health consequences of ending birthright citizenship"
+    lead_url: https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+    locked_urls:
+      - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+      - https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+    hard_facts:
+      - claim: STAT News article publication date
+        kind: temporal
+        value: "June 23, 2026"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "STAT News (June 23, 2026) analyzes public health consequences of ending birthright citizenship"
+      - claim: Author name
+        kind: named_person
+        value: "Rachel E. Fabi"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "Author Rachel E. Fabi (bioethicist, SUNY Upstate)"
+      - claim: Author affiliation
+        kind: named_institution
+        value: "SUNY Upstate Medical University"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "Author Rachel E. Fabi (bioethicist, SUNY Upstate)"
+      - claim: Share of US births to parents who are undocumented or hold temporary visas
+        kind: numerical_with_unit
+        value: "~9%"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "~9% of all US births are to parents who are undocumented or hold temporary visas"
+      - claim: SCOTUS case name
+        kind: named_product
+        value: "Trump v. Barbara"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "ahead of an anticipated SCOTUS ruling in Trump v. Barbara"
+      - claim: Share of US births covered by Medicaid
+        kind: numerical_with_unit
+        value: "~40%"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "Medicaid covers ~40% of all US births and provides automatic newborn coverage for the first year"
+      - claim: Medicaid newborn coverage duration
+        kind: temporal
+        value: "the first year"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "provides automatic newborn coverage for the first year"
+      - claim: Share of likely undocumented immigrants reporting a child skipped healthcare
+        kind: numerical_with_unit
+        value: "43%"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "43% of likely undocumented immigrants report a child in their household skipped necessary healthcare in the past year due to enforcement fears"
+      - claim: Medicaid institution
+        kind: named_institution
+        value: "Medicaid"
+        source_urls:
+          - https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+        verbatim_excerpt: "Medicaid covers ~40% of all US births"
+    quotes: []
+
+  - story_id: abbvie-acquires-apogee-therapeutics-10-9b
+    category: ipo_ma
+    headline_en: "AbbVie to acquire Apogee Therapeutics for $10.9 billion in immunology push"
+    lead_url: https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+    body_source: full
+    corroborated_by:
+      - https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio
+      - https://www.sec.gov/Archives/edgar/data/0001551152/000110465926076067/tm2618365d1_ex99-1.htm
+      - https://www.biospace.com/business/abbvie-nears-11b-apogee-buy-to-challenge-juggernaut-dupixent
+      - https://www.pharmexec.com/view/daily-abbvie-acquires-apogee-therapeutics-10-9-billion
+    locked_urls:
+      - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+      - https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio
+      - https://www.sec.gov/Archives/edgar/data/0001551152/000110465926076067/tm2618365d1_ex99-1.htm
+      - https://www.biospace.com/business/abbvie-nears-11b-apogee-buy-to-challenge-juggernaut-dupixent
+      - https://www.pharmexec.com/view/daily-abbvie-acquires-apogee-therapeutics-10-9-billion
+    hard_facts:
+      - claim: Acquirer identity and ticker
+        kind: named_institution
+        value: "AbbVie (NYSE: ABBV)"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "AbbVie (NYSE: ABBV) announced June 22, 2026 it will acquire all outstanding shares of Apogee Therapeutics"
+      - claim: Target company
+        kind: named_institution
+        value: "Apogee Therapeutics"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "AbbVie (NYSE: ABBV) announced June 22, 2026 it will acquire all outstanding shares of Apogee Therapeutics"
+      - claim: Announcement date
+        kind: temporal
+        value: "June 22, 2026"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+          - https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio
+        verbatim_excerpt: "AbbVie (NYSE: ABBV) announced June 22, 2026 it will acquire all outstanding shares of Apogee Therapeutics"
+      - claim: Per-share acquisition price
+        kind: numerical_with_unit
+        value: "$135.11 per share"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+          - https://www.sec.gov/Archives/edgar/data/0001551152/000110465926076067/tm2618365d1_ex99-1.htm
+        verbatim_excerpt: "acquire all outstanding shares of Apogee Therapeutics for $135.11 per share in cash"
+      - claim: Total equity value
+        kind: numerical_with_unit
+        value: "~$10.9 billion"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "valuing Apogee at ~$10.9 billion equity value"
+      - claim: Expected deal close timing
+        kind: temporal
+        value: "Q3 2026"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "expected close Q3 2026, subject to Apogee shareholder vote and regulatory approvals (Hart-Scott-Rodino)"
+      - claim: Regulatory approval framework
+        kind: named_product
+        value: "Hart-Scott-Rodino"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "subject to Apogee shareholder vote and regulatory approvals (Hart-Scott-Rodino)"
+      - claim: Apogee lead drug candidate name
+        kind: named_product
+        value: "zumilokibart (APG777)"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "Apogee's lead candidate zumilokibart (APG777), an anti-IL-13 monoclonal antibody in Phase 2/3 for atopic dermatitis and asthma"
+      - claim: Apogee lead drug target
+        kind: named_product
+        value: "anti-IL-13 monoclonal antibody"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "zumilokibart (APG777), an anti-IL-13 monoclonal antibody in Phase 2/3 for atopic dermatitis and asthma"
+      - claim: Apogee lead drug clinical stage
+        kind: named_product
+        value: "Phase 2/3"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "an anti-IL-13 monoclonal antibody in Phase 2/3 for atopic dermatitis and asthma"
+      - claim: AbbVie biosimilar-challenged drug
+        kind: named_product
+        value: "Humira"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "AbbVie's Humira faces biosimilar competition"
+      - claim: AbbVie current growth drivers
+        kind: named_product
+        value: "Skyrizi and Rinvoq"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "Skyrizi and Rinvoq are current growth drivers"
+      - claim: Apogee pipeline drug 2
+        kind: named_product
+        value: "APG990 anti-IL-4Rα"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "Apogee's pipeline (also APG990 anti-IL-4Rα and APG808 anti-TSLP)"
+      - claim: Apogee pipeline drug 3
+        kind: named_product
+        value: "APG808 anti-TSLP"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "Apogee's pipeline (also APG990 anti-IL-4Rα and APG808 anti-TSLP)"
+      - claim: Competing product Dupixent annual revenue
+        kind: numerical_with_unit
+        value: "~$15 billion annually"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+          - https://www.biospace.com/business/abbvie-nears-11b-apogee-buy-to-challenge-juggernaut-dupixent
+        verbatim_excerpt: "competes with Sanofi/Regeneron's Dupixent (~$15 billion annually)"
+      - claim: Dupixent manufacturer companies
+        kind: named_institution
+        value: "Sanofi/Regeneron"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+          - https://www.biospace.com/business/abbvie-nears-11b-apogee-buy-to-challenge-juggernaut-dupixent
+        verbatim_excerpt: "competes with Sanofi/Regeneron's Dupixent (~$15 billion annually)"
+      - claim: Competing product name
+        kind: named_product
+        value: "Dupixent"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+          - https://www.biospace.com/business/abbvie-nears-11b-apogee-buy-to-challenge-juggernaut-dupixent
+        verbatim_excerpt: "competes with Sanofi/Regeneron's Dupixent (~$15 billion annually)"
+      - claim: Deal EPS accretion year
+        kind: temporal
+        value: "from 2032"
+        source_urls:
+          - https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+        verbatim_excerpt: "Deal accretive to adjusted diluted EPS from 2032"
+    quotes: []
