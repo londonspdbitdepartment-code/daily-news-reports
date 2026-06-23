@@ -1,0 +1,1403 @@
+version: 1
+generated_at: "2026-06-23T09:00:00Z"
+country: South Korea
+date: "2026-06-23"
+total_stories: 16
+stories:
+  - story_id: kospi-crashes-circuit-breaker-triggered
+    category: econ
+    headline_en: "KOSPI crashes nearly 10%, circuit breaker triggered as foreign and institutional investors dump semiconductor stocks"
+    lead_url: "https://www.koreaherald.com/article/10785553"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785553"
+    hard_facts:
+      - claim: KOSPI points decline
+        kind: numerical_with_unit
+        value: "910.71 points"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "The Korea Composite Stock Price Index (KOSPI) plunged 910.71 points, or 9.99 percent, to close at 8,203.84 on Tuesday"
+      - claim: KOSPI percentage decline
+        kind: numerical_with_unit
+        value: "9.99 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "plunged 910.71 points, or 9.99 percent, to close at 8,203.84 on Tuesday"
+      - claim: KOSPI closing level
+        kind: numerical
+        value: "8,203.84"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "plunged 910.71 points, or 9.99 percent, to close at 8,203.84 on Tuesday"
+      - claim: KOSPI intraday high
+        kind: numerical
+        value: "9,175.45"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "The intraday high had reached 9,175.45."
+      - claim: Circuit breaker activation time
+        kind: temporal
+        value: "2:33 p.m."
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "A circuit breaker was activated at 2:33 p.m. after the index fell more than 8 percent"
+      - claim: Circuit breaker trigger threshold
+        kind: numerical_with_unit
+        value: "8 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "A circuit breaker was activated at 2:33 p.m. after the index fell more than 8 percent from the previous session's close"
+      - claim: Previous session KOSPI close
+        kind: numerical
+        value: "9,114.55"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "from the previous session's close of 9,114.55"
+      - claim: Circuit breaker activation number this year
+        kind: numerical
+        value: "fourth"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "marking the fourth circuit breaker activation of the year and the tenth on record"
+      - claim: Circuit breaker activation number on record
+        kind: numerical
+        value: "tenth"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "marking the fourth circuit breaker activation of the year and the tenth on record"
+      - claim: Trade volume in shares
+        kind: numerical_with_unit
+        value: "483.7 million shares"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Trade volume reached 483.7 million shares worth 59.9 trillion won ($38.9 billion)"
+      - claim: Trade volume in won
+        kind: numerical_with_unit
+        value: "59.9 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Trade volume reached 483.7 million shares worth 59.9 trillion won ($38.9 billion)"
+      - claim: Trade volume in USD
+        kind: numerical_with_unit
+        value: "$38.9 billion"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Trade volume reached 483.7 million shares worth 59.9 trillion won ($38.9 billion)"
+      - claim: Number of losing stocks
+        kind: numerical
+        value: "856"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "losers outnumbered winners 856 to 46"
+      - claim: Number of winning stocks
+        kind: numerical
+        value: "46"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "losers outnumbered winners 856 to 46"
+      - claim: Foreign investor net sell
+        kind: numerical_with_unit
+        value: "4.13 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Foreign investors sold a net 4.13 trillion won"
+      - claim: Institutional investor net sell
+        kind: numerical_with_unit
+        value: "4.55 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "institutional investors sold a net 4.55 trillion won"
+      - claim: Retail investor net buy
+        kind: numerical_with_unit
+        value: "8.58 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "retail investors net-bought 8.58 trillion won"
+      - claim: Samsung Electronics decline percentage
+        kind: numerical_with_unit
+        value: "12.31%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Samsung Electronics fell 12.31% to 310,000 won"
+      - claim: Samsung Electronics closing price
+        kind: numerical_with_unit
+        value: "310,000 won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Samsung Electronics fell 12.31% to 310,000 won"
+      - claim: SK hynix decline percentage
+        kind: numerical_with_unit
+        value: "12.47%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "SK hynix dropped 12.47% to 2.55 million won"
+      - claim: SK hynix closing price
+        kind: numerical_with_unit
+        value: "2.55 million won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "SK hynix dropped 12.47% to 2.55 million won"
+      - claim: Hyundai Motor decline percentage
+        kind: numerical_with_unit
+        value: "12.05%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Hyundai Motor declined 12.05% to 511,000 won"
+      - claim: Hyundai Motor closing price
+        kind: numerical_with_unit
+        value: "511,000 won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Hyundai Motor declined 12.05% to 511,000 won"
+      - claim: LG Energy Solution decline percentage
+        kind: numerical_with_unit
+        value: "6.1%"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "LG Energy Solution fell 6.1% to 362,000 won"
+      - claim: LG Energy Solution closing price
+        kind: numerical_with_unit
+        value: "362,000 won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "LG Energy Solution fell 6.1% to 362,000 won"
+      - claim: Korean won per dollar
+        kind: numerical_with_unit
+        value: "1,539.1 per dollar"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "The Korean won was quoted at 1,539.1 per dollar, down 2.1 won"
+      - claim: Korean won decline
+        kind: numerical_with_unit
+        value: "2.1 won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "The Korean won was quoted at 1,539.1 per dollar, down 2.1 won"
+      - claim: Analyst at Mirae Asset Securities
+        kind: named_person
+        value: "Seo Sang-young"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Seo Sang-young, analyst at Mirae Asset Securities, stated"
+      - claim: Institution — Mirae Asset Securities
+        kind: named_institution
+        value: "Mirae Asset Securities"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Seo Sang-young, analyst at Mirae Asset Securities"
+      - claim: Named institution — Samsung Electronics
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Samsung Electronics fell 12.31% to 310,000 won"
+      - claim: Named institution — SK hynix
+        kind: named_institution
+        value: "SK hynix"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "SK hynix dropped 12.47% to 2.55 million won"
+      - claim: Named institution — Hyundai Motor
+        kind: named_institution
+        value: "Hyundai Motor"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "Hyundai Motor declined 12.05% to 511,000 won"
+      - claim: Named institution — LG Energy Solution
+        kind: named_institution
+        value: "LG Energy Solution"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785553"
+        verbatim_excerpt: "LG Energy Solution fell 6.1% to 362,000 won"
+    quotes:
+      - speaker_name: Seo Sang-young
+        speaker_title: "Analyst, Mirae Asset Securities"
+        verbatim_en: "Valuation concerns have grown for major South Korean semiconductor stocks after they repeatedly hit record highs."
+        source_url: "https://www.koreaherald.com/article/10785553"
+        context: Comment on KOSPI selloff in semiconductor stocks
+
+  - story_id: bok-consumer-sentiment-rises-june
+    category: econ
+    headline_en: "Bank of Korea: Consumer sentiment rises for second consecutive month in June on strong exports and stock rally"
+    lead_url: "https://www.koreaherald.com/article/10784654"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10784654"
+    hard_facts:
+      - claim: CCSI index level June 2026
+        kind: numerical
+        value: "106.6"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "The composite consumer sentiment index (CCSI) stood at 106.6 in June 2026, up 0.5 points from May"
+      - claim: CCSI month-on-month change June
+        kind: numerical_with_unit
+        value: "0.5 points"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "stood at 106.6 in June 2026, up 0.5 points from May"
+      - claim: Consecutive months above 100 threshold
+        kind: numerical
+        value: "second consecutive month"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "The index has remained above the 100-point threshold — where optimists outnumber pessimists — for the second consecutive month"
+      - claim: May CCSI single-month gain
+        kind: numerical_with_unit
+        value: "6.9 points"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "May saw the largest single-month gain in a year, rising 6.9 points"
+      - claim: Current economic conditions subindex June
+        kind: numerical
+        value: "86"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "current economic conditions assessed at 86 (up 3 points in June)"
+      - claim: Current economic conditions subindex change
+        kind: numerical_with_unit
+        value: "3 points"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "current economic conditions assessed at 86 (up 3 points in June)"
+      - claim: Future economic conditions subindex June
+        kind: numerical
+        value: "92"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "future economic conditions outlook at 92 (down 1 point)"
+      - claim: Future economic conditions subindex change
+        kind: numerical_with_unit
+        value: "1 point"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "future economic conditions outlook at 92 (down 1 point)"
+      - claim: Export growth first 20 days of June year-over-year
+        kind: numerical_with_unit
+        value: "60.4 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "South Korea's exports jumped 60.4 percent year-over-year in the first 20 days of June"
+      - claim: Consumer price growth year-over-year May
+        kind: numerical_with_unit
+        value: "3.1 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "Consumer prices rose 3.1 percent year-over-year in May"
+      - claim: Fastest consumer price growth in months
+        kind: temporal
+        value: "26 months"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "Consumer prices rose 3.1 percent year-over-year in May — the fastest growth in 26 months"
+      - claim: Named institution — Bank of Korea
+        kind: named_institution
+        value: "Bank of Korea"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784654"
+        verbatim_excerpt: "according to a Bank of Korea survey released Tuesday"
+    quotes:
+      - speaker_name: Bank of Korea
+        speaker_title: "Central bank"
+        verbatim_en: "solid exports and the stock market rally helped consumer sentiment rise for the second consecutive month"
+        source_url: "https://www.koreaherald.com/article/10784654"
+        context: Bank of Korea statement accompanying June CCSI release
+
+  - story_id: south-korea-secures-softer-eu-steel-quota-cut
+    category: econ
+    headline_en: "South Korea secures softer EU steel quota cut, avoiding full 46% reduction ahead of July 1 deadline"
+    lead_url: "https://www.koreaherald.com/article/10785411"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785411"
+    hard_facts:
+      - claim: Named person — Industry Minister
+        kind: named_person
+        value: "Kim Jung-kwan"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "Industry Minister Kim Jung-kwan announced on June 23"
+      - claim: Announcement date
+        kind: temporal
+        value: "June 23"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "Industry Minister Kim Jung-kwan announced on June 23"
+      - claim: EU quota reduction percentage avoided
+        kind: numerical_with_unit
+        value: "46 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "South Korea has reached a consensus with the European Union to exempt Korea from the full 46 percent reduction in steel tariff-rate quotas"
+      - claim: EU quota cut effective date
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "steel tariff-rate quotas taking effect July 1, 2026"
+      - claim: EU total quota before cut
+        kind: numerical_with_unit
+        value: "33.82 million metric tons"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "The EU planned to cut its overall quota from 33.82 million metric tons to 18.35 million tons"
+      - claim: EU total quota after cut
+        kind: numerical_with_unit
+        value: "18.35 million tons"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "The EU planned to cut its overall quota from 33.82 million metric tons to 18.35 million tons"
+      - claim: South Korea current EU allocation
+        kind: numerical_with_unit
+        value: "2.58 million metric tons"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "South Korea's current allocation is approximately 2.58 million metric tons"
+      - claim: Tariff rate on over-quota imports before
+        kind: numerical_with_unit
+        value: "25 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "Tariffs on imports exceeding the quota will double from 25 percent to 50 percent"
+      - claim: Tariff rate on over-quota imports after
+        kind: numerical_with_unit
+        value: "50 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "Tariffs on imports exceeding the quota will double from 25 percent to 50 percent"
+      - claim: Korea's steel exports to EU in 2025
+        kind: numerical_with_unit
+        value: "3.24 million tons"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "accounting for 3.24 million tons of Korea's 28.25 million total steel exports in 2025"
+      - claim: Korea's total steel exports in 2025
+        kind: numerical_with_unit
+        value: "28.25 million"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "Korea's 28.25 million total steel exports in 2025"
+      - claim: Named person — Trade Minister
+        kind: named_person
+        value: "Yeo Han-koo"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785411"
+        verbatim_excerpt: "Trade Minister Yeo Han-koo participated in negotiations"
+    quotes:
+      - speaker_name: Kim Jung-kwan
+        speaker_title: "Industry Minister, South Korea"
+        verbatim_en: "Korea's current quota stands at about 2.58 million metric tons, and we have reached a consensus that Korea's allocation would not be reduced by the full 46 percent."
+        source_url: "https://www.koreaherald.com/article/10785411"
+        context: Announcement of EU steel quota deal on June 23
+
+  - story_id: lg-chem-15-trillion-won-rd-2035
+    category: econ
+    headline_en: "LG Chem to invest 15 trillion won ($9.74 billion) in R&D by 2035 targeting semiconductor materials, mobility, robotics, and anticancer drugs"
+    lead_url: "https://www.koreaherald.com/article/10784943"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10784943"
+    hard_facts:
+      - claim: Named person — LG Chem CEO
+        kind: named_person
+        value: "Kim Dong-chun"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784943"
+        verbatim_excerpt: "LG Chem CEO Kim Dong-chun announced at a town hall meeting in Seoul on June 23"
+      - claim: Announcement date
+        kind: temporal
+        value: "June 23"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784943"
+        verbatim_excerpt: "LG Chem CEO Kim Dong-chun announced at a town hall meeting in Seoul on June 23"
+      - claim: Named institution — LG Chem
+        kind: named_institution
+        value: "LG Chem"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784943"
+        verbatim_excerpt: "LG Chem CEO Kim Dong-chun announced"
+      - claim: Total R&D investment in won
+        kind: numerical_with_unit
+        value: "15 trillion won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784943"
+        verbatim_excerpt: "plans to invest 15 trillion won ($9.74 billion) in R&D by 2035"
+      - claim: Total R&D investment in USD
+        kind: numerical_with_unit
+        value: "$9.74 billion"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784943"
+        verbatim_excerpt: "plans to invest 15 trillion won ($9.74 billion) in R&D by 2035"
+      - claim: R&D investment deadline
+        kind: temporal
+        value: "2035"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784943"
+        verbatim_excerpt: "plans to invest 15 trillion won ($9.74 billion) in R&D by 2035"
+      - claim: Allocation to semiconductor, mobility, and robotics materials
+        kind: numerical_with_unit
+        value: "70 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10784943"
+        verbatim_excerpt: "Of total investment, 70 percent will be allocated to semiconductor, mobility, and robotics materials"
+    quotes: []
+
+  - story_id: president-lee-orders-expanded-nec-investigation
+    category: politics
+    headline_en: "President Lee orders expanded NEC investigation beyond ballot shortage, acting NEC chief apologises but rejects resignation"
+    lead_url: "https://www.koreaherald.com/article/10785218"
+    body_source: full
+    corroborated_by:
+      - "https://www.koreaherald.com/article/10785492"
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785218"
+      - "https://www.koreaherald.com/article/10785492"
+    hard_facts:
+      - claim: Named person — President
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "President Lee Jae Myung on June 23 directed"
+      - claim: Order date
+        kind: temporal
+        value: "June 23"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "President Lee Jae Myung on June 23 directed"
+      - claim: Named person — acting Prosecutor General
+        kind: named_person
+        value: "Ku Ja-hyeon"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "directed acting Prosecutor General Ku Ja-hyeon to expand the National Election Commission (NEC) investigation"
+      - claim: Named institution — National Election Commission
+        kind: named_institution
+        value: "National Election Commission"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "expand the National Election Commission (NEC) investigation"
+      - claim: Election date
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "beyond the June 3 local election ballot shortages"
+      - claim: NEC ballot printing coverage for registered voters
+        kind: numerical_with_unit
+        value: "110 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "The NEC had funding to print ballots for 110 percent of registered voters but printed only enough for 50 percent"
+      - claim: Actual NEC ballot printing coverage
+        kind: numerical_with_unit
+        value: "50 percent"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "but printed only enough for 50 percent"
+      - claim: Polling stations requesting additional ballots
+        kind: numerical
+        value: "140"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "140 polling stations requested additional ballots on election day"
+      - claim: Polling stations using supplemental supplies
+        kind: numerical
+        value: "91"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "91 used supplemental supplies"
+      - claim: Polling stations halting voting
+        kind: numerical
+        value: "26"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "26 halted voting due to insufficient ballots"
+      - claim: NEC figures referred for police investigation
+        kind: numerical
+        value: "12"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "An independent NEC panel recommended 12 NEC figures be referred for police investigation"
+      - claim: Total witnesses summoned by bipartisan committee
+        kind: numerical
+        value: "43"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "43 witnesses were summoned, of whom 16 failed to appear"
+      - claim: Witnesses who failed to appear
+        kind: numerical
+        value: "16"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "43 witnesses were summoned, of whom 16 failed to appear"
+      - claim: Named person — Acting NEC Chair
+        kind: named_person
+        value: "Wi Chul-hwan"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "Acting NEC Chair Wi Chul-hwan issued a public apology"
+      - claim: Named person — Former NEC chair
+        kind: named_person
+        value: "Rho Tae-ak"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "Former NEC chair Rho Tae-ak oversaw the election"
+    quotes:
+      - speaker_name: Wi Chul-hwan
+        speaker_title: "Acting NEC Chair, National Election Commission"
+        verbatim_en: "The National Election Commission is currently on the verge of paralysis."
+        source_url: "https://www.koreaherald.com/article/10785218"
+        context: Wi Chul-hwan's statement rejecting resignation calls after issuing public apology
+
+  - story_id: north-korea-kim-doubles-down-nuclear-weapons
+    category: politics
+    headline_en: "North Korea's Kim Jong-un doubles down on nuclear weapons state posture, orders new frontline military deployments"
+    lead_url: "https://www.koreaherald.com/article/10785395"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785395"
+    hard_facts:
+      - claim: Named person — North Korean leader
+        kind: named_person
+        value: "Kim Jong-un"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "North Korean leader Kim Jong-un convened the second plenary meeting"
+      - claim: Meeting duration in days
+        kind: numerical_with_unit
+        value: "three days"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "convened the second plenary meeting of the Workers' Party of Korea's ninth Central Committee over three days starting Saturday"
+      - claim: Named institution — Workers' Party of Korea
+        kind: named_institution
+        value: "Workers' Party of Korea"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "the second plenary meeting of the Workers' Party of Korea's ninth Central Committee"
+      - claim: Strategic guided missile cruiser tonnage
+        kind: numerical_with_unit
+        value: "10,000-ton"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "accelerating construction of a 10,000-ton strategic guided missile cruiser (approved April)"
+      - claim: Cruiser construction approval date
+        kind: temporal
+        value: "April"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "a 10,000-ton strategic guided missile cruiser (approved April)"
+      - claim: Named person — promoted to party Central Committee secretary
+        kind: named_person
+        value: "Jo Yong-won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "Jo Yong-won promoted to party Central Committee secretary"
+      - claim: Named person — removed from senior posts
+        kind: named_person
+        value: "Kim Jae-ryong"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "Kim Jae-ryong removed from senior posts"
+      - claim: Named person — analyst
+        kind: named_person
+        value: "Yang Moo-jin"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "Yang Moo-jin, University of North Korean Studies, stated"
+      - claim: Named institution — University of North Korean Studies
+        kind: named_institution
+        value: "University of North Korean Studies"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785395"
+        verbatim_excerpt: "Yang Moo-jin, University of North Korean Studies"
+    quotes: []
+
+  - story_id: opposition-ppp-leadership-rift-deepens
+    category: politics
+    headline_en: "Opposition PPP leadership rift deepens as floor leader blocks party chief's post-election claims and petition strategy"
+    lead_url: "https://www.koreaherald.com/article/10785477"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785477"
+    hard_facts:
+      - claim: Named person — PPP chief
+        kind: named_person
+        value: "Jang Dong-hyeok"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785477"
+        verbatim_excerpt: "People Power Party chief Jang Dong-hyeok and Floor Leader Jeong Jeom-sig"
+      - claim: Named person — PPP Floor Leader
+        kind: named_person
+        value: "Jeong Jeom-sig"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785477"
+        verbatim_excerpt: "People Power Party chief Jang Dong-hyeok and Floor Leader Jeong Jeom-sig"
+      - claim: Named institution — People Power Party
+        kind: named_institution
+        value: "People Power Party"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785477"
+        verbatim_excerpt: "A public rift has emerged between People Power Party chief Jang Dong-hyeok"
+      - claim: Election date referenced
+        kind: temporal
+        value: "June 3"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785477"
+        verbatim_excerpt: "following the June 3 local elections"
+      - claim: Number of regions Jang sought petitions in
+        kind: numerical
+        value: "16"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785477"
+        verbatim_excerpt: "Jang advocated filing election petitions in all 16 regions"
+      - claim: Number of regions Jeong proposed petitions in
+        kind: numerical
+        value: "seven"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785477"
+        verbatim_excerpt: "Jeong's proposal to limit petitions to seven areas was adopted by a vote of lawmakers"
+      - claim: Date Jang pushed for nationwide revote
+        kind: temporal
+        value: "June 15"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785477"
+        verbatim_excerpt: "on June 15, Jang pushed for a nationwide revote while Jeong opposed"
+    quotes:
+      - speaker_name: Jeong Jeom-sig
+        speaker_title: "Floor Leader, People Power Party"
+        verbatim_en: "The people sent a stern warning to the arrogance and unilateral governance of the government and ruling party, while also demanding painful reflection and reform from the opposition."
+        source_url: "https://www.koreaherald.com/article/10785477"
+        context: Jeong Jeom-sig commenting on post-election PPP strategy dispute
+
+  - story_id: defense-ministry-concerns-unc-dmz-fortifications
+    category: politics
+    headline_en: "South Korea's Defense Ministry lodges concerns with UNC over North Korea's DMZ fortifications near Military Demarcation Line"
+    lead_url: "https://www.koreaherald.com/article/10785155"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785155"
+    hard_facts:
+      - claim: Named institution — South Korea's Defense Ministry
+        kind: named_institution
+        value: "South Korea's Defense Ministry"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785155"
+        verbatim_excerpt: "South Korea's Defense Ministry lodged formal concerns with the United Nations Command"
+      - claim: Named institution — United Nations Command
+        kind: named_institution
+        value: "United Nations Command"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785155"
+        verbatim_excerpt: "South Korea's Defense Ministry lodged formal concerns with the United Nations Command"
+      - claim: Distance of barbed-wire fences from MDL
+        kind: numerical_with_unit
+        value: "80-90 meters"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785155"
+        verbatim_excerpt: "North Korean troops have installed barbed-wire fences 80-90 meters from the MDL"
+      - claim: Mine-laying detection proximity to MDL
+        kind: numerical_with_unit
+        value: "5-10 meters"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785155"
+        verbatim_excerpt: "mine-laying operations detected as close as 5-10 meters from the line"
+      - claim: DMZ fortification concern distance from MDL
+        kind: numerical_with_unit
+        value: "100 meters"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785155"
+        verbatim_excerpt: "North Korean border fortification within 100 meters of the Military Demarcation Line (MDL)"
+      - claim: Fortification start date
+        kind: temporal
+        value: "April 2024"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785155"
+        verbatim_excerpt: "Since April 2024, North Korean troops have installed barbed-wire fences"
+      - claim: Named product — 1953 Armistice Agreement
+        kind: named_product
+        value: "1953 Armistice Agreement"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785155"
+        verbatim_excerpt: "The Defense Ministry considers such activities violations of the 1953 Armistice Agreement"
+    quotes:
+      - speaker_name: United Nations Command
+        speaker_title: "United Nations Command"
+        verbatim_en: "Construction, fortification and other defensive measures do not automatically constitute violations."
+        source_url: "https://www.koreaherald.com/article/10785155"
+        context: UNC response to South Korea's concerns about North Korean DMZ fortifications
+
+  - story_id: samsung-skhynix-ai-memory-market-clsa
+    category: tech
+    headline_en: "Samsung Electronics, SK hynix positioned to benefit further as AI drives structural shift in memory market — CLSA"
+    lead_url: "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+    body_source: full
+    corroborated_by:
+      - "https://www.koreaherald.com/article/10785408"
+    locked_urls:
+      - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+      - "https://www.koreaherald.com/article/10785408"
+    hard_facts:
+      - claim: Named person — CLSA head of Korea research
+        kind: named_person
+        value: "Sanjeev Rana"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "CLSA head of Korea research Sanjeev Rana stated"
+      - claim: Named institution — CLSA
+        kind: named_institution
+        value: "CLSA"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "CLSA head of Korea research Sanjeev Rana stated"
+      - claim: Memory chips share of global semiconductor revenue — past
+        kind: numerical_with_unit
+        value: "28 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "memory chips' share of global semiconductor industry revenue has risen from 28 percent to 52 percent over the past decade"
+      - claim: Memory chips share of global semiconductor revenue — current
+        kind: numerical_with_unit
+        value: "52 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "memory chips' share of global semiconductor industry revenue has risen from 28 percent to 52 percent over the past decade"
+      - claim: Period over which memory share rose
+        kind: temporal
+        value: "past decade"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "has risen from 28 percent to 52 percent over the past decade"
+      - claim: Global semiconductor industry revenue projection
+        kind: numerical_with_unit
+        value: "$2.5 trillion"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "Global semiconductor industry revenue is projected to reach $2.5 trillion by 2030"
+      - claim: Revenue projection year
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "Global semiconductor industry revenue is projected to reach $2.5 trillion by 2030"
+      - claim: Year-on-year growth implied
+        kind: numerical_with_unit
+        value: "80 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "roughly 80 percent year-on-year growth"
+      - claim: Memory share of 2030 semiconductor revenue
+        kind: numerical_with_unit
+        value: "$1.4 trillion"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "with memory representing approximately $1.4 trillion"
+      - claim: AI data centre energy spent moving data
+        kind: numerical_with_unit
+        value: "60 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "In AI data centres, 60 percent of energy is spent moving data across chips"
+      - claim: AI data centre energy spent on compute
+        kind: numerical_with_unit
+        value: "40 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "vs. 40 percent on compute"
+      - claim: Capacity tied to long-term deals forecast
+        kind: numerical_with_unit
+        value: "over 50 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "Rana forecasts over 50 percent of their capacity will be tied to long-term deals"
+      - claim: CLSA price target for Samsung Electronics
+        kind: numerical_with_unit
+        value: "540,000 won ($351.84)"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "CLSA price targets: Samsung Electronics 540,000 won ($351.84)"
+      - claim: CLSA price target for SK hynix
+        kind: numerical_with_unit
+        value: "3.7 million won"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "SK hynix 3.7 million won"
+      - claim: Named institution — CXMT (DRAM competitor)
+        kind: named_institution
+        value: "CXMT"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "Chinese competitors CXMT (DRAM) and YMTC (NAND) are unable to compete directly"
+      - claim: Named institution — YMTC (NAND competitor)
+        kind: named_institution
+        value: "YMTC"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "Chinese competitors CXMT (DRAM) and YMTC (NAND) are unable to compete directly"
+      - claim: Current customer demand met by Samsung and SK hynix
+        kind: numerical_with_unit
+        value: "60 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        verbatim_excerpt: "Samsung and SK hynix currently meet only 60 percent of customer demand"
+    quotes:
+      - speaker_name: Sanjeev Rana
+        speaker_title: "Head of Korea Research, CLSA"
+        verbatim_en: "AI isn't just causing an increase in demand — it is reshaping how memory creates value."
+        source_url: "https://www.koreatimes.co.kr/business/20260623/samsung-electronics-sk-hynix-to-benefit-further-from-ai-memory-bottleneck"
+        context: Rana commenting on structural shift in memory market driven by AI
+
+  - story_id: samsung-unveils-worlds-first-ufs-50-chip
+    category: tech
+    headline_en: "Samsung unveils world's first UFS 5.0 storage chip for on-device AI, doubling write speeds with 40% power efficiency gain"
+    lead_url: "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+    hard_facts:
+      - claim: Named institution — Samsung Electronics
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "Samsung Electronics announced the world's first Universal Flash Storage 5.0 (UFS 5.0) chip"
+      - claim: Named product — UFS 5.0
+        kind: named_product
+        value: "Universal Flash Storage 5.0 (UFS 5.0)"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "Samsung Electronics announced the world's first Universal Flash Storage 5.0 (UFS 5.0) chip optimised for on-device AI"
+      - claim: Data transfer speed
+        kind: numerical_with_unit
+        value: "10.8 gigabytes per second (Gbps)"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "Data transfer speed: 10.8 gigabytes per second (Gbps)"
+      - claim: Sequential write speed
+        kind: numerical_with_unit
+        value: "9.5 Gbps"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "sequential write speed: 9.5 Gbps — more than double the previous UFS 4.1"
+      - claim: Power efficiency improvement vs UFS 4.1
+        kind: numerical_with_unit
+        value: "over 40 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "Power efficiency improved by over 40 percent versus UFS 4.1"
+      - claim: NAND generation
+        kind: named_product
+        value: "ninth-generation vertical NAND"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "Built on Samsung's ninth-generation vertical NAND"
+      - claim: Form factor reduction vs predecessor
+        kind: numerical_with_unit
+        value: "16.7 percent"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "16.7 percent smaller form factor than predecessor"
+      - claim: Mass production start
+        kind: temporal
+        value: "Q4 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "Mass production begins Q4 2026"
+      - claim: Maximum storage capacity
+        kind: numerical_with_unit
+        value: "one terabyte"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "available in capacities up to one terabyte"
+      - claim: Named person — Samsung memory product planning head
+        kind: named_person
+        value: "Choi Jang-seok"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "Choi Jang-seok, Samsung Electronics head of memory product planning, stated"
+      - claim: HBM4 sales milestone
+        kind: numerical_with_unit
+        value: "$1 billion"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "HBM4 chip sales surpassed $1 billion four months after the February 2026 launch"
+      - claim: HBM4 launch date
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "four months after the February 2026 launch"
+      - claim: Months to reach HBM4 $1 billion milestone
+        kind: temporal
+        value: "four months"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "HBM4 chip sales surpassed $1 billion four months after the February 2026 launch"
+      - claim: Annual HBM4 sales projection 2026
+        kind: numerical_with_unit
+        value: "$10 billion"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "annual HBM4 sales projected to exceed $10 billion in 2026"
+      - claim: Named product — HBM4
+        kind: named_product
+        value: "HBM4"
+        source_urls:
+          - "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        verbatim_excerpt: "HBM4 chip sales surpassed $1 billion four months after the February 2026 launch"
+    quotes:
+      - speaker_name: Choi Jang-seok
+        speaker_title: "Head of Memory Product Planning, Samsung Electronics"
+        verbatim_en: "In the era of on-device AI, storage devices are evolving into a key driver defining AI experiences."
+        source_url: "https://www.koreatimes.co.kr/business/tech-science/20260623/samsung-unveils-industrys-1st-ufs-50-memory-optimized-for-on-device-ai"
+        context: Comment on UFS 5.0 launch and on-device AI significance
+
+  - story_id: korea-biotech-china-closes-gap-bio-convention
+    category: tech
+    headline_en: "Korea biotech sector under structural pressure as China rapidly closes competitive gap at BIO International Convention"
+    lead_url: "https://www.koreaherald.com/article/10785304"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785304"
+    hard_facts:
+      - claim: BIO International Convention participants
+        kind: numerical_with_unit
+        value: "over 20,000 participants"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785304"
+        verbatim_excerpt: "At the BIO International Convention in San Diego (June 2026), over 20,000 participants attended"
+      - claim: BIO International Convention location
+        kind: named_institution
+        value: "San Diego"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785304"
+        verbatim_excerpt: "At the BIO International Convention in San Diego (June 2026)"
+      - claim: BIO International Convention date
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785304"
+        verbatim_excerpt: "At the BIO International Convention in San Diego (June 2026)"
+      - claim: Korean participants count
+        kind: numerical_with_unit
+        value: "approximately 1,200 Koreans"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785304"
+        verbatim_excerpt: "approximately 1,200 Koreans participated with 130 Korean companies exhibiting"
+      - claim: Korean companies exhibiting
+        kind: numerical
+        value: "130"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785304"
+        verbatim_excerpt: "approximately 1,200 Koreans participated with 130 Korean companies exhibiting"
+      - claim: Named person — KoreaBio vice chair
+        kind: named_person
+        value: "Lee Seung-gyu"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785304"
+        verbatim_excerpt: "Lee Seung-gyu, vice chair at Korea Biotechnology Industry Organization (KoreaBio), stated"
+      - claim: Named institution — Korea Biotechnology Industry Organization
+        kind: named_institution
+        value: "Korea Biotechnology Industry Organization (KoreaBio)"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785304"
+        verbatim_excerpt: "Lee Seung-gyu, vice chair at Korea Biotechnology Industry Organization (KoreaBio)"
+    quotes:
+      - speaker_name: Lee Seung-gyu
+        speaker_title: "Vice Chair, Korea Biotechnology Industry Organization (KoreaBio)"
+        verbatim_en: "The center of gravity in biotech is clearly shifting toward Asia."
+        source_url: "https://www.koreaherald.com/article/10785304"
+        context: Comment at BIO International Convention in San Diego, June 2026
+      - speaker_name: Lee Seung-gyu
+        speaker_title: "Vice Chair, Korea Biotechnology Industry Organization (KoreaBio)"
+        verbatim_en: "Global pharmaceutical leaders are now searching for pipelines in China at a pace that was hard to imagine just a few years ago."
+        source_url: "https://www.koreaherald.com/article/10785304"
+        context: Comment on China's rising biotech competitiveness at BIO International Convention
+
+  - story_id: fss-criticises-single-stock-leveraged-etfs
+    category: tech
+    headline_en: "South Korea's FSS criticises Samsung, SK hynix single-stock leveraged ETFs as domestic repatriation effort falls short"
+    lead_url: "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+    body_source: full
+    corroborated_by:
+      - "https://www.koreaherald.com/article/10785472"
+    locked_urls:
+      - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+      - "https://www.koreaherald.com/article/10785472"
+    hard_facts:
+      - claim: Named person — FSS Governor
+        kind: named_person
+        value: "Lee Chan-jin"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "Financial Supervisory Service (FSS) Governor Lee Chan-jin sharply criticised single-stock leveraged ETFs"
+      - claim: Named institution — Financial Supervisory Service
+        kind: named_institution
+        value: "Financial Supervisory Service (FSS)"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "Financial Supervisory Service (FSS) Governor Lee Chan-jin"
+      - claim: Press conference date
+        kind: temporal
+        value: "June 22"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "sharply criticised single-stock leveraged ETFs tracking Samsung Electronics and SK hynix at a June 22 press conference"
+      - claim: Estimated trading commissions lower bound
+        kind: numerical_with_unit
+        value: "$3 billion"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "The FSS estimates trading commissions from these products range between $3 billion and $6.4 billion"
+      - claim: Estimated trading commissions upper bound
+        kind: numerical_with_unit
+        value: "$6.4 billion"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "The FSS estimates trading commissions from these products range between $3 billion and $6.4 billion"
+      - claim: Domestic single-stock leveraged ETF approval date
+        kind: temporal
+        value: "May 27"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "South Korea approved domestic single-stock leveraged ETFs on May 27"
+      - claim: Named institution — CSOP ETF (Hong Kong)
+        kind: named_institution
+        value: "CSOP"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "Korean investors' Hong Kong-based CSOP ETF holdings for SK hynix"
+      - claim: SK hynix CSOP ETF holdings April end
+        kind: numerical_with_unit
+        value: "$117.7 million"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "Korean investors' Hong Kong-based CSOP ETF holdings for SK hynix rose from $117.7 million (April end) to $287.0 million (May end)"
+      - claim: SK hynix CSOP ETF holdings May end
+        kind: numerical_with_unit
+        value: "$287.0 million"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "for SK hynix rose from $117.7 million (April end) to $287.0 million (May end)"
+      - claim: Samsung Electronics CSOP ETF holdings April end
+        kind: numerical_with_unit
+        value: "$75.4 million"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "for Samsung Electronics from $75.4 million to $123.2 million"
+      - claim: Samsung Electronics CSOP ETF holdings May end
+        kind: numerical_with_unit
+        value: "$123.2 million"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "for Samsung Electronics from $75.4 million to $123.2 million"
+      - claim: Capital flowed into Hong Kong products prior to domestic launch in won
+        kind: numerical_with_unit
+        value: "700 billion won"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "An estimated 700 billion won ($455 million) had flowed into Hong Kong products prior to the domestic launch"
+      - claim: Capital flowed into Hong Kong products prior to domestic launch in USD
+        kind: numerical_with_unit
+        value: "$455 million"
+        source_urls:
+          - "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        verbatim_excerpt: "An estimated 700 billion won ($455 million) had flowed into Hong Kong products prior to the domestic launch"
+    quotes:
+      - speaker_name: Lee Chan-jin
+        speaker_title: "Governor, Financial Supervisory Service (FSS)"
+        verbatim_en: "failed to achieve its stated objective"
+        source_url: "https://www.kedglobal.com/korean-stock-market/newsView/ked202606230001"
+        context: FSS Governor commenting on the domestic single-stock leveraged ETF initiative at June 22 press conference
+
+  - story_id: female-firefighter-suicide-gapjil-investigation
+    category: society
+    headline_en: "Female Gwangju firefighter's suicide after workplace harassment prompts presidential call for investigation and crackdown on 'gapjil' culture"
+    lead_url: "https://www.koreaherald.com/article/10785218"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785218"
+    hard_facts:
+      - claim: Named person — President
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "President Lee Jae Myung on June 23 addressed the death of a female firefighter"
+      - claim: Address date
+        kind: temporal
+        value: "June 23"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "President Lee Jae Myung on June 23 addressed the death of a female firefighter"
+      - claim: Named institution — Gwangju Fire and Safety Headquarters
+        kind: named_institution
+        value: "Gwangju Fire and Safety Headquarters"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "a female firefighter in her 20s assigned to Gwangju Fire and Safety Headquarters"
+      - claim: Age of deceased firefighter
+        kind: numerical_with_unit
+        value: "in her 20s"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "a female firefighter in her 20s assigned to Gwangju Fire and Safety Headquarters"
+      - claim: Number of times vomited after forced drinking event
+        kind: numerical
+        value: "ten times"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "stating she had vomited ten times following one such event"
+      - claim: Named institution — Office for Government Policy Coordination
+        kind: named_institution
+        value: "Office for Government Policy Coordination"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785218"
+        verbatim_excerpt: "Lee ordered a government investigation by the Office for Government Policy Coordination"
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: "President of South Korea"
+        verbatim_en: "the worst form of 'gapjil' in the workplace"
+        source_url: "https://www.koreaherald.com/article/10785218"
+        context: President Lee describing the Gwangju firefighter harassment case on June 23
+
+  - story_id: president-lee-summit-samsung-sk-hyundai-lg
+    category: other
+    headline_en: "President Lee to convene summit with Samsung, SK, Hyundai, LG chiefs next week to unveil AI-centered regional investment strategy"
+    lead_url: "https://www.koreaherald.com/article/10785576"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreaherald.com/article/10785576"
+    hard_facts:
+      - claim: Named person — President
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785576"
+        verbatim_excerpt: "President Lee Jae Myung is scheduled to host executives from Samsung Electronics, SK Group, Hyundai Motor, and LG"
+      - claim: Summit date
+        kind: temporal
+        value: "June 29"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785576"
+        verbatim_excerpt: "at the presidential office on June 29"
+      - claim: Named institution — Samsung Electronics
+        kind: named_institution
+        value: "Samsung Electronics"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785576"
+        verbatim_excerpt: "President Lee Jae Myung is scheduled to host executives from Samsung Electronics, SK Group, Hyundai Motor, and LG"
+      - claim: Named institution — SK Group
+        kind: named_institution
+        value: "SK Group"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785576"
+        verbatim_excerpt: "Samsung Electronics, SK Group, Hyundai Motor, and LG"
+      - claim: Named institution — Hyundai Motor
+        kind: named_institution
+        value: "Hyundai Motor"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785576"
+        verbatim_excerpt: "Samsung Electronics, SK Group, Hyundai Motor, and LG"
+      - claim: Named person — Samsung Electronics Executive Chairman
+        kind: named_person
+        value: "Lee Jae-yong"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785576"
+        verbatim_excerpt: "Lee previously met Samsung Electronics Executive Chairman Lee Jae-yong"
+      - claim: Named person — SK Group Chairman
+        kind: named_person
+        value: "Chey Tae-won"
+        source_urls:
+          - "https://www.koreaherald.com/article/10785576"
+        verbatim_excerpt: "and SK Group Chairman Chey Tae-won separately"
+    quotes: []
+
+  - story_id: industry-minister-backs-hanwha-ocean-canada-sub
+    category: other
+    headline_en: "South Korea's industry minister backs Hanwha Ocean in Canada's $39 billion submarine procurement despite NATO interoperability risk"
+    lead_url: "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+    hard_facts:
+      - claim: Named person — Industry Minister
+        kind: named_person
+        value: "Kim Jung-kwan"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "Industry Minister Kim Jung-kwan on June 23 expressed confidence"
+      - claim: Statement date
+        kind: temporal
+        value: "June 23"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "Industry Minister Kim Jung-kwan on June 23 expressed confidence"
+      - claim: Canada submarine programme value
+        kind: numerical_with_unit
+        value: "$39 billion"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "South Korea's proposal for Canada's $39 billion patrol submarine programme"
+      - claim: Number of aging submarines to be replaced
+        kind: numerical
+        value: "four"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "which would replace four aging Victoria-class vessels"
+      - claim: Named product — Victoria-class vessels
+        kind: named_product
+        value: "Victoria-class"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "which would replace four aging Victoria-class vessels with 12 new 3,000-ton diesel-electric submarines"
+      - claim: Number of new submarines
+        kind: numerical
+        value: "12"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "12 new 3,000-ton diesel-electric submarines plus long-term MRO services"
+      - claim: New submarine tonnage
+        kind: numerical_with_unit
+        value: "3,000-ton"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "12 new 3,000-ton diesel-electric submarines plus long-term MRO services"
+      - claim: Named institution — Hanwha Ocean
+        kind: named_institution
+        value: "Hanwha Ocean"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "Competing bidders: Hanwha Ocean (Korea) and TKMS (Germany)"
+      - claim: Named institution — TKMS
+        kind: named_institution
+        value: "TKMS"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "Competing bidders: Hanwha Ocean (Korea) and TKMS (Germany)"
+      - claim: Canadian government decision deadline
+        kind: temporal
+        value: "end of June 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "Canadian government decision expected by end of June 2026"
+      - claim: Named product — KSS-III submarine
+        kind: named_product
+        value: "KSS-III"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "Hanwha Ocean's KSS-III submarine traveled 14,000 km across the Pacific"
+      - claim: KSS-III distance traveled
+        kind: numerical_with_unit
+        value: "14,000 km"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "Hanwha Ocean's KSS-III submarine traveled 14,000 km across the Pacific to Victoria, Canada"
+      - claim: KSS-III voyage period
+        kind: temporal
+        value: "March-May 2026"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        verbatim_excerpt: "traveled 14,000 km across the Pacific to Victoria, Canada, in March-May 2026"
+    quotes:
+      - speaker_name: Kim Jung-kwan
+        speaker_title: "Industry Minister, South Korea"
+        verbatim_en: "Objectively speaking, we believe that the competitiveness of the submarine itself and the competitiveness of the industrial package are better on our side."
+        source_url: "https://www.koreatimes.co.kr/southkorea/defense/20260623/industry-minister-shows-confidence-in-koreas-submarine-bid-despite-geopolitical-hurdles"
+        context: Kim Jung-kwan expressing confidence in Hanwha Ocean's Canadian submarine bid on June 23
+
+  - story_id: seoul-foundation-signs-european-arts-pacts
+    category: other
+    headline_en: "Seoul Foundation signs European arts cooperation pacts in Barcelona and Amsterdam to position Seoul as global cultural hub"
+    lead_url: "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+    hard_facts:
+      - claim: Named institution — Seoul Foundation for Arts and Culture
+        kind: named_institution
+        value: "Seoul Foundation for Arts and Culture"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "The Seoul Foundation for Arts and Culture announced a European cultural diplomacy initiative"
+      - claim: Named person — Foundation president
+        kind: named_person
+        value: "Song Hyeong-jong"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "Foundation president Song Hyeong-jong signed a memorandum of understanding on June 9 in Barcelona"
+      - claim: MOU signing date in Barcelona
+        kind: temporal
+        value: "June 9"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "Foundation president Song Hyeong-jong signed a memorandum of understanding on June 9 in Barcelona"
+      - claim: Named person — Barcelona culture councillor
+        kind: named_person
+        value: "Xavier Marcé"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "with Xavier Marcé, Barcelona's culture councillor"
+      - claim: Seoul guest of honour year at La Mercè festival
+        kind: temporal
+        value: "2028"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "Seoul will be guest of honour at the La Mercè festival in 2028"
+      - claim: Named product — La Mercè festival
+        kind: named_product
+        value: "La Mercè festival"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "Seoul will be guest of honour at the La Mercè festival in 2028"
+      - claim: Arts exchange pipeline launch date
+        kind: temporal
+        value: "September"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "A permanent arts exchange pipeline launching in September"
+      - claim: Named institution — Seoul's Street Arts Creation Center
+        kind: named_institution
+        value: "Seoul's Street Arts Creation Center"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "joint workshops between Seoul's Street Arts Creation Center and Barcelona's La Central del Circ circus incubator"
+      - claim: Named institution — La Central del Circ circus incubator
+        kind: named_institution
+        value: "La Central del Circ"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "Barcelona's La Central del Circ circus incubator"
+      - claim: Named person — Amsterdam cultural director
+        kind: named_person
+        value: "Araf Ahmadali"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "Song also secured bilateral cultural agreements with Amsterdam cultural director Araf Ahmadali"
+      - claim: Amsterdam formal signing date
+        kind: temporal
+        value: "October"
+        source_urls:
+          - "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        verbatim_excerpt: "(formal signing in October)"
+    quotes:
+      - speaker_name: Song Hyeong-jong
+        speaker_title: "President, Seoul Foundation for Arts and Culture"
+        verbatim_en: "The final piece of the puzzle in global competitiveness is culture and arts."
+        source_url: "https://www.koreatimes.co.kr/southkorea/20260623/seoul-forges-arts-pacts-across-europe-to-boost-global-soft-power"
+        context: Song commenting on Seoul's European cultural diplomacy initiative

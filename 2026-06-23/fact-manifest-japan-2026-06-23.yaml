@@ -1,0 +1,244 @@
+version: 1
+generated_at: "2026-06-23T09:30:00Z"
+country: Japan
+date: "2026-06-23"
+langs: [zh, en]
+total_stories: 18
+category_coverage:
+  econ: 3
+  politics: 3
+  tech: 3
+  society: 3
+  ipo_ma: 3
+  other: 3
+stories:
+  - story_id: nikkei-tumbles-4pct-ai-chip-reversal
+    category: econ
+    headline_en: "Nikkei 225 tumbles about 4% as the AI and chip rally violently reverses"
+    lead_url: "https://tradingeconomics.com/japan/stock-market"
+    corroborated_by:
+      - "https://www.marketscreener.com/news/stocks-in-south-korea-japan-fall-amid-tech-heavy-selloff-ce7f5fdadb8bf524"
+    hard_facts:
+      - claim: Nikkei 225 daily decline
+        value: "~4% (below 70,000)"
+      - claim: Topix
+        value: "-2.6% to 3,990"
+      - claim: SoftBank Group decline
+        value: "~9-10%"
+      - claim: Kioxia decline
+        value: "~13-15%"
+      - claim: Tokyo Electron decline
+        value: "~7%"
+      - claim: Trigger
+        value: "Broadcom disappointing outlook + stronger-than-expected US jobs report; prior-day record near 72,000"
+  - story_id: yen-past-161-intervention-warning
+    category: econ
+    headline_en: "Yen slides past 161 toward a near-40-year low as the finance minister warns on intervention"
+    lead_url: "https://www.cnbc.com/2026/06/19/japan-yen-161-dollar-intervention-risk-currency-markets.html"
+    hard_facts:
+      - claim: USD/JPY level
+        value: "past 161, toward 161.5 (weakest since 1986)"
+      - claim: BOJ policy rate
+        value: "1.0% (June 16; highest since 1995)"
+      - claim: Finance minister
+        value: "Satsuki Katayama"
+      - claim: April 30 record intervention gains
+        value: "fully surrendered"
+  - story_id: may-trade-deficit-narrows-chip-exports-61pct
+    category: econ
+    headline_en: "May trade deficit narrows sharply as chip exports surge 61%, underscoring an AI export dividend"
+    lead_url: "https://www.japantimes.co.jp/business/2026/06/17/economy/may-trade-balance/"
+    corroborated_by:
+      - "https://tradingeconomics.com/japan/balance-of-trade"
+    hard_facts:
+      - claim: May trade deficit
+        value: "378.7 billion yen (vs 662.5bn yr earlier; est 564.6bn)"
+      - claim: Exports
+        value: "+17% YoY to 9.51 trillion yen (strongest since Nov 2022)"
+      - claim: Semiconductor exports
+        value: "+61.2%"
+      - claim: Auto exports
+        value: "~+19%"
+      - claim: Yen May average / import volume
+        value: "158.29 (~10% weaker YoY); imports -7%"
+  - story_id: takaichi-approval-55-8
+    category: politics
+    headline_en: "Takaichi's cabinet approval falls to 55.8%, the lowest since she took office"
+    lead_url: "https://japantoday.com/category/politics/update1-japan-pm-takaichi's-cabinet-support-rate-dips-to-55.8-lowest-since-launch"
+    corroborated_by:
+      - "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/21/japan-pm-takaichis-cabinet-support-rate-dips-to-558-lowest-since-she-took-office"
+    hard_facts:
+      - claim: Approval rating
+        value: "55.8% (-5.5 pts from May; lowest since Oct 2025)"
+      - claim: Hormuz SDF dispatch
+        value: "54.7% see no need; 36.6% in favor"
+      - claim: Consumption tax
+        value: "43.9% cut to 1% faster; 22.6% zero; 29% oppose food-tax cut"
+      - claim: Female imperial status
+        value: "72.3% support retention after marrying commoners"
+  - story_id: takaichi-hormuz-sdf-undecided
+    category: politics
+    headline_en: "Takaichi keeps an SDF Hormuz deployment open, saying it depends on the US-Iran deal"
+    lead_url: "https://www.upi.com/Top_News/World-News/2026/06/18/japan-consider-self-defense-force-deployment/4911781818879/"
+    hard_facts:
+      - claim: Position
+        value: "Nothing decided; depends on US-Iran ceasefire implementation"
+      - claim: Minesweepers
+        value: "under examination; three preconditions set"
+      - claim: Venue
+        value: "G7 closing news conference, Évian, France"
+  - story_id: takaichi-g7-debut-economic-security
+    category: politics
+    headline_en: "Takaichi's G7 debut centers on economic security and critical-mineral supply chains"
+    lead_url: "https://www.japantimes.co.jp/news/2026/06/18/japan/politics/takaichi-g7-japan-focus/"
+    corroborated_by:
+      - "https://thediplomat.com/2026/06/can-a-takaichi-government-stabilize-china-japan-relations/"
+    hard_facts:
+      - claim: Summit
+        value: "First G7 leaders' summit as PM, Évian, France"
+      - claim: Outcome
+        value: "G7 backing for critical-mineral supply-chain resilience"
+      - claim: Bluebook downgrade
+        value: "China from 'one of most important partners' to 'important neighbor'"
+  - story_id: softbank-leads-rout-most-valuable
+    category: tech
+    headline_en: "SoftBank leads the rout yet remains Japan's most valuable firm"
+    lead_url: "https://tradingeconomics.com/japan/stock-market"
+    hard_facts:
+      - claim: June 23 drop
+        value: "~9-10%"
+      - claim: Valuation
+        value: "Overtook Toyota early June on OpenAI stake"
+      - claim: Reported plan
+        value: "AI-robotics business spin-off/IPO"
+  - story_id: rapidus-150bn-injection-2nm-mou
+    category: tech
+    headline_en: "Rapidus completes a 150-billion-yen state injection, eyeing 2nm by 2027 and UK/Italy MOUs"
+    lead_url: "https://www.prnewswire.com/news-releases/rapidus-completes-150-billion-yen-funding-round-from-japan-government-302791892.html"
+    hard_facts:
+      - claim: Injection
+        value: "150 billion yen (~$943M) from IPA"
+      - claim: Cumulative support
+        value: "~424.95 billion yen"
+      - claim: Target
+        value: "Full-scale 2nm logic production by 2027"
+      - claim: MOUs
+        value: "UK Semiconductor Centre; Italy Fondazione Chips-IT"
+  - story_id: japan-data-center-decarbonization
+    category: tech
+    headline_en: "Japan launches a data-center decarbonization program, steering AI compute toward clean-energy hubs"
+    lead_url: "https://www.eco-business.com/news/japan-launches-programme-to-cut-data-centre-emissions-as-ai-power-demand-surges/"
+    hard_facts:
+      - claim: Approach
+        value: "Phased; 'welcome zones' near offshore wind / nuclear"
+      - claim: Kashiwazaki-Kariwa Unit 6
+        value: "1,356 MW restarted Feb 9, 2026"
+      - claim: Nuclear target
+        value: "20-22% of electricity by 2030"
+  - story_id: foreign-residents-record-3-9m
+    category: society
+    headline_en: "Foreign-resident population hits a record 3.9 million as immigration tightening advances"
+    lead_url: "https://www.newsweek.com/japan-announces-plans-for-immigration-change-11261854"
+    corroborated_by:
+      - "https://www.japantimes.co.jp/news/2026/04/09/japan/society/immigration-control-data/"
+    hard_facts:
+      - claim: Foreign residents
+        value: "record ~3.9 million"
+      - claim: SSW intake
+        value: "up to 805,700 workers from FY2026 (3-yr renewable); up to 426,200 trainees considered"
+      - claim: Tightening
+        value: "Food-service SSW1 intake halted Apr 13; CEFR B2 for some visas Apr 15"
+  - story_id: births-record-low-671236
+    category: society
+    headline_en: "2025 births fall to a record-low 671,236 as the fertility rate slips to 1.14"
+    lead_url: "https://www.nippon.com/en/japan-data/h02717/"
+    hard_facts:
+      - claim: Births 2025
+        value: "671,236 (-14,937, -2.2%); lowest since 1899; 10th straight record low"
+      - claim: TFR
+        value: "1.14 (lowest since 1947)"
+      - claim: Vs projection
+        value: "~15 years ahead of IPSS (had placed 670k mark in 2040)"
+  - story_id: minimum-wage-council-1500-target
+    category: society
+    headline_en: "Central minimum-wage council opens deliberations in June, aiming for a 1,500-yen target"
+    lead_url: "https://www.wherewework.com/jp/en/news-articles/minimum-wage-in-japan-2026-historic-increases-and-the-regional-divide-36"
+    hard_facts:
+      - claim: Current weighted average
+        value: "1,121 yen/hr (+66 yen; largest absolute jump since 1978)"
+      - claim: Mid-term target
+        value: "1,500 yen/hr during the 2020s"
+      - claim: Body
+        value: "MHLW Central Minimum Wage Council; 47 prefectures"
+  - story_id: go-inc-ipo-biggest-2026
+    category: ipo_ma
+    headline_en: "Japan's largest taxi app GO lists on the TSE in 2026's biggest Japanese IPO"
+    lead_url: "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
+    corroborated_by:
+      - "https://www.techbuzz.ai/articles/go-raises-580m-in-japan-s-biggest-2026-ipo-targets-robotaxis"
+    hard_facts:
+      - claim: Raised
+        value: "88.6 billion yen (~$553-580M); biggest Japanese IPO of 2026"
+      - claim: Pricing
+        value: "2,400 yen (top of range); 25x oversubscribed; ~186bn yen mkt cap"
+      - claim: Debut
+        value: "+21% intraday, closed ~2,910 yen; 70% to international investors"
+      - claim: Strategy
+        value: "~70% app-taxi share; 8bn yen (~$50M) for robotaxi + M&A; Waymo Tokyo via GO"
+      - claim: IPO year
+        value: "17 offerings, fewest since 2011"
+  - story_id: denso-rohm-8-3bn
+    category: ipo_ma
+    headline_en: "DENSO weighs an ~$8.3 billion acquisition of chipmaker ROHM"
+    lead_url: "https://www.jpmorgan.com/insights/banking/mergers-and-acquisitions/japan-mergers-and-acquisitions-rebound"
+    corroborated_by:
+      - "https://asia.nikkei.com/business/business-deals/will-japan-s-m-a-boom-continue-in-2026-5-trends-to-watch"
+    hard_facts:
+      - claim: DENSO/ROHM
+        value: "~$8.3 billion offer (automotive semiconductors)"
+      - claim: Apollo/Nippon Sheet Glass
+        value: "~$3.7 billion take-private"
+      - claim: Market
+        value: "Q1 2026 M&A $41.7bn; 2025 ~ $180bn (+93% YoY, 20-yr record)"
+  - story_id: take-private-wave-2026
+    category: ipo_ma
+    headline_en: "Private equity and activists drive a take-private wave as Japan's M&A boom extends into 2026"
+    lead_url: "https://asia.nikkei.com/business/business-deals/will-japan-s-m-a-boom-continue-in-2026-5-trends-to-watch"
+    hard_facts:
+      - claim: Q1 2026 deal value
+        value: "$41.7 billion"
+      - claim: Marquee take-privates
+        value: "Apollo/Nippon Sheet Glass (~$3.7bn); KKR/Taiyo Holdings"
+      - claim: Overhang
+        value: "Possible tighter national-security review"
+  - story_id: typhoon-7-mekkhala
+    category: other
+    headline_en: "Typhoon No. 7 'Mekkhala' intensifies and may approach Okinawa June 27-28; first heatstroke alerts of summer"
+    lead_url: "https://newsonjapan.com/article/149729.php"
+    hard_facts:
+      - claim: Intensity (noon June 23)
+        value: "925 hPa; sustained 50 m/s; gusts 70 m/s; east of Philippines"
+      - claim: Track
+        value: "approach Okinawa ~June 27-28, then Pacific side of W/E Japan"
+      - claim: Alerts
+        value: "heatstroke alerts for Ogasawara & parts of Okinawa (Ogasawara's first of 2026)"
+  - story_id: world-cup-japan-4-0-tunisia
+    category: other
+    headline_en: "World Cup: Japan thrash Tunisia 4-0 and close in on the knockout round"
+    lead_url: "https://www.espn.com/soccer/report/_/gameId/760449"
+    hard_facts:
+      - claim: Result
+        value: "Japan 4-0 Tunisia (team World Cup single-match goals record)"
+      - claim: Scorers
+        value: "Ayase Ueda (2 + assist); Daichi Kamada; Junya Itō"
+      - claim: Standing / next
+        value: "trail only Netherlands on goals in Group F; vs Sweden in Dallas June 25"
+  - story_id: paint-thinner-direct-sales-june-23
+    category: other
+    headline_en: "A new direct-sales system for paint and thinner launches June 23 to ease a Middle East-driven supply bottleneck"
+    lead_url: "https://newsonjapan.com/article/149729.php"
+    hard_facts:
+      - claim: System
+        value: "Manufacturers supply construction firms directly from June 23"
+      - claim: Cause
+        value: "Naphtha supply tightening from Middle East tensions"
