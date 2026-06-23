@@ -4,7 +4,7 @@
 
 ### U.S. opens 60-day window for Iranian oil trade, unlocking billions for Tehran
 
-The U.S. Treasury's Office of Foreign Assets Control issued General License X on or about June 22, 2026, authorizing a 60-day window for Iranian crude oil trade and the shipping, insurance, and financial transactions that move it. The carve-out runs through 12:01 a.m. EDT on August 21, 2026, and ranks as the most sweeping easing of U.S. energy sanctions on Iran in years. CNBC, reporting June 23, described the waivers as unlocking "billions in revenue for Tehran," a country whose oil exports have been choked by sanctions since the U.S. abandoned the 2015 nuclear deal in 2018.
+The U.S. Treasury's Office of Foreign Assets Control issued General License X on or about June 22, 2026, authorizing a 60-day window for Iranian crude oil trade and the shipping, insurance, and financial transactions that move it. The carve-out runs through 12:01 a.m. EDT on August 21, 2026, and ranks as the most sweeping easing of U.S. energy sanctions on Iran in years. CNBC, reporting June 23, described the waivers as unlocking billions in revenue for Tehran, a country whose oil exports have been choked by sanctions since the U.S. abandoned the 2015 nuclear deal in 2018.
 
 The license flows from the Islamabad Memorandum, a framework signed June 17, 2026 that paused the recent Iran conflict and reopened the Strait of Hormuz to commercial traffic. The strait carries roughly a fifth of the world's seaborne oil; its closure during the fighting had spiked crude prices and rattled shippers. Under the framework, Washington pledged immediate oil waivers in exchange for Iranian steps toward a final agreement, with Qatar and Pakistan mediating talks at the Swiss resort of Buergenstock.
 
@@ -16,6 +16,7 @@ The relief is conditional. The 60-day clock is tied to Iran's compliance with th
 [2] CBS News. (2026, June 23). Iran-U.S. updates: Trump on nuclear sites, Strait of Hormuz. CBS News. https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
 [3] The Deep Dive. (2026, June 23). US opens 60-day legal window for Iranian oil trade. The Deep Dive. https://thedeepdive.ca/us-iran-oil-sanctions-waiver/
 [4] Lloyd's List. (2026, June 23). US issues two-month sanctions waiver on Iranian oil. Lloyd's List. https://www.lloydslist.com/LL1157632/US-issues-two-month-sanctions-waiver-on-Iranian-oil
+[5] Dawn. (2026, June 23). US, Iran make 'encouraging progress' after talks in Burgenstock; agree on roadmap to final peace deal in 60 days. Dawn. https://www.dawn.com/news/2009504/peace-requires-give-and-take-us-iran-talks-underway-in-burgenstock-with-mediators-pakistan-qatar
 
 ---
 
@@ -27,9 +28,9 @@ The data lands inside a tightening, not easing, monetary backdrop. At its June 1
 
 **References**
 
-[5] U.S. Bureau of Labor Statistics. (2026, June 23). State Employment and Unemployment (Monthly) News Release. U.S. Bureau of Labor Statistics. https://www.bls.gov/news.release/laus.htm
-[6] U.S. Bureau of Labor Statistics. (2026, June 6). Employment Situation Summary — May 2026. U.S. Bureau of Labor Statistics. https://www.bls.gov/news.release/empsit.nr0.htm
-[7] CNBC. (2026, June 17). Fed interest rate decision June 2026: Fed holds rates steady. CNBC. https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html
+[6] U.S. Bureau of Labor Statistics. (2026, June 23). State Employment and Unemployment (Monthly) News Release. U.S. Bureau of Labor Statistics. https://www.bls.gov/news.release/laus.htm
+[7] U.S. Bureau of Labor Statistics. (2026, June 6). Employment Situation Summary — May 2026. U.S. Bureau of Labor Statistics. https://www.bls.gov/news.release/empsit.nr0.htm
+[8] CNBC. (2026, June 17). Fed interest rate decision June 2026: Fed holds rates steady. CNBC. https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html
 
 ---
 
@@ -37,16 +38,16 @@ The data lands inside a tightening, not easing, monetary backdrop. At its June 1
 
 Alan Greenspan, the 13th Chairman of the Federal Reserve, died June 22, 2026 at his home in Washington, D.C., aged 100, from complications of Parkinson's disease. His wife of 29 years, NBC News correspondent Andrea Mitchell, confirmed the death. Greenspan ran the central bank from August 1987 to January 2006 under Reagan, George H.W. Bush, Clinton, and George W. Bush — 19 years across four presidencies and one of the longest U.S. expansions on record.
 
-Bloomberg Opinion columnist John Authers, writing June 23, framed the legacy as "as convoluted as his words." Greenspan presided over the Great Moderation, a long stretch of low inflation and steady growth that made him "the Maestro." But his opposition to derivatives regulation and the low-rate policy he ran after the 2001 downturn are widely read as preconditions for the 2008 financial crisis. Greenspan himself, testifying after the crash, conceded he had found a "flaw" in his free-market ideology. His December 1996 warning of "irrational exuberance" in asset prices, and his 2007 memoir "The Age of Turbulence," bracket a career remembered for both its prescience and its blind spots.
+Bloomberg Opinion columnist John Authers, writing June 23, framed the legacy as "as convoluted as his words." Greenspan presided over the Great Moderation, a long stretch of low inflation and steady growth that made him the Maestro. But his opposition to derivatives regulation and the low-rate policy he ran after the 2001 downturn are widely read as preconditions for the 2008 financial crisis. Greenspan himself, testifying after the crash, conceded he had found a "flaw" in his free-market ideology. His December 1996 warning of "irrational exuberance" in asset prices, and his 2007 memoir "The Age of Turbulence," bracket a career remembered for both its prescience and its blind spots.
 
 Authers draws the contrast with the present. Greenspan's defining problem was talking markets down from froth; current Fed Chair Kevin Warsh faces the opposite bind — rates pinned at 3.5–3.75% with CPI at 4.2%, fighting to pull inflation down rather than coax growth up. The Federal Reserve marked the passing "with deep sadness," saying his contributions "left a lasting mark on this institution."
 
 **References**
 
-[8] Authers, J. (2026, June 23). Greenspan's legacy is as convoluted as his words. Bloomberg. https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
-[9] Federal Reserve. (2026, June 22). Statement on the passing of former Chairman Alan Greenspan. Board of Governors of the Federal Reserve System. https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm
-[10] CNBC. (2026, June 22). Alan Greenspan, former chairman of the Fed, dies at age 100. CNBC. https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html
-[11] NBC News. (2026, June 22). Alan Greenspan, economist and longtime head of the Federal Reserve, dies at 100. NBC News. https://www.nbcnews.com/news/obituaries/alan-greenspan-economist-longtime-head-federal-reserve-dies-100-rcna42286
+[9] Authers, J. (2026, June 23). Greenspan's legacy is as convoluted as his words. Bloomberg. https://www.bloomberg.com/opinion/newsletters/2026-06-23/greenspan-s-legacy-is-as-convoluted-as-his-words
+[10] Federal Reserve. (2026, June 22). Statement on the passing of former Chairman Alan Greenspan. Board of Governors of the Federal Reserve System. https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm
+[11] CNBC. (2026, June 22). Alan Greenspan, former chairman of the Fed, dies at age 100. CNBC. https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html
+[12] NBC News. (2026, June 22). Alan Greenspan, economist and longtime head of the Federal Reserve, dies at 100. NBC News. https://www.nbcnews.com/news/obituaries/alan-greenspan-economist-longtime-head-federal-reserve-dies-100-rcna42286
 
 ---
 
@@ -60,9 +61,9 @@ In South Carolina, Republicans hold a gubernatorial runoff that has scrambled th
 
 **References**
 
-[12] CBS News. (2026, June 23). New York House primaries, South Carolina runoff, Maryland and Utah races to watch. CBS News. https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
-[13] NBC News. (2026, June 9). Trump-backed Pamela Evette advances to GOP primary runoff against Alan Wilson in South Carolina governor's race. NBC News. https://www.nbcnews.com/politics/2026-election/south-carolina-governor-primary-runoff-pamela-evette-trump-rcna348699
-[14] Ballotpedia. (2026, April 7). Incumbent Daniel Goldman, Nickie Kane, and Brad Lander are running in the Democratic primary for New York's 10th Congressional District. Ballotpedia News. https://news.ballotpedia.org/2026/04/07/incumbent-daniel-goldman-d-nickie-kane-d-and-brad-lander-d-are-running-in-the-democratic-primary-for-new-yorks-10th-congressional-district-on-june-23-2026/
+[13] CBS News. (2026, June 23). New York House primaries, South Carolina runoff, Maryland and Utah races to watch. CBS News. https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/
+[14] NBC News. (2026, June 9). Trump-backed Pamela Evette advances to GOP primary runoff against Alan Wilson in South Carolina governor's race. NBC News. https://www.nbcnews.com/politics/2026-election/south-carolina-governor-primary-runoff-pamela-evette-trump-rcna348699
+[15] Ballotpedia. (2026, April 7). Incumbent Daniel Goldman, Nickie Kane, and Brad Lander are running in the Democratic primary for New York's 10th Congressional District. Ballotpedia News. https://news.ballotpedia.org/2026/04/07/incumbent-daniel-goldman-d-nickie-kane-d-and-brad-lander-d-are-running-in-the-democratic-primary-for-new-yorks-10th-congressional-district-on-june-23-2026/
 
 ---
 
@@ -74,9 +75,9 @@ The contradiction sits at the center of a still-fragile deal. VP JD Vance led U.
 
 **References**
 
-[15] CBS News. (2026, June 23). Iran-U.S. updates: Trump on nuclear sites, Strait of Hormuz. CBS News. https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
-[16] NBC News. (2026, June 23). Trump says Iran agreed to nuclear inspections; Tehran, Israel, Lebanon, IAEA, Vance updates. NBC News. https://www.nbcnews.com/world/iran/trump-iran-war-nuclear-inspections-israel-lebanon-iaea-vance-rcna351335
-[17] CNBC. (2026, June 23). U.S. issues sweeping Iran oil sanction relief tied to Strait of Hormuz peace deal. CNBC. https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
+[16] CBS News. (2026, June 23). Iran-U.S. updates: Trump on nuclear sites, Strait of Hormuz. CBS News. https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/
+[17] NBC News. (2026, June 23). Trump says Iran agreed to nuclear inspections; Tehran, Israel, Lebanon, IAEA, Vance updates. NBC News. https://www.nbcnews.com/world/iran/trump-iran-war-nuclear-inspections-israel-lebanon-iaea-vance-rcna351335
+[18] CNBC. (2026, June 23). U.S. issues sweeping Iran oil sanction relief tied to Strait of Hormuz peace deal. CNBC. https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html
 
 ---
 
@@ -96,11 +97,11 @@ The selling spread well beyond one stock. Alphabet logged its worst single-day d
 
 **References**
 
-[18] CNBC. (2026, June 23). Tech stocks sell off as SpaceX, Mag-7, Samsung and SK Hynix slide. CNBC. https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
-[19] NBC News. (2026, June 23). Tech sell-off grips markets as SpaceX, Alphabet drag Nasdaq-100 lower. NBC News. https://www.nbcnews.com/business/business-news/tech-sell-off-markets-spacex-alphabet-nasdaq100-stocks-rcna351331
-[20] CNBC. (2026, June 23). SpaceX stock falls in tech sell-off. CNBC. https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html
-[21] The Motley Fool. (2026, June 23). SpaceX's fundraising is not over with a $20 billion new bond offering. The Motley Fool. https://www.fool.com/investing/2026/06/23/spacexs-fundraising-is-not-over-with-a-20-billion-new-bond-offering/
-[22] CNBC. (2026, June 22). Alphabet paces for worst day in a year after AI talent exits. CNBC. https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html
+[19] CNBC. (2026, June 23). Tech stocks sell off as SpaceX, Mag-7, Samsung and SK Hynix slide. CNBC. https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html
+[20] NBC News. (2026, June 23). Tech sell-off grips markets as SpaceX, Alphabet drag Nasdaq-100 lower. NBC News. https://www.nbcnews.com/business/business-news/tech-sell-off-markets-spacex-alphabet-nasdaq100-stocks-rcna351331
+[21] CNBC. (2026, June 23). SpaceX stock falls in tech sell-off. CNBC. https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html
+[22] The Motley Fool. (2026, June 23). SpaceX's fundraising is not over with a $20 billion new bond offering. The Motley Fool. https://www.fool.com/investing/2026/06/23/spacexs-fundraising-is-not-over-with-a-20-billion-new-bond-offering/
+[23] CNBC. (2026, June 22). Alphabet paces for worst day in a year after AI talent exits. CNBC. https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html
 
 ---
 
@@ -118,9 +119,9 @@ The legal weight runs against the order. In United States v. Wong Kim Ark (1898)
 
 **References**
 
-[23] NPR. (2026, June 23). What happens if the US ends birthright citizenship? NPR. https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
-[24] STAT News. (2026, June 23). The public health consequences of ending birthright citizenship. STAT News. https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
-[25] Congress.gov. (2026). Trump v. Barbara: Supreme Court considers birthright citizenship. Congressional Research Service. https://www.congress.gov/crs-product/LSB11423
+[24] NPR. (2026, June 23). What happens if the US ends birthright citizenship? NPR. https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+[25] STAT News. (2026, June 23). The public health consequences of ending birthright citizenship. STAT News. https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+[26] Congress.gov. (2026). Trump v. Barbara: Supreme Court considers birthright citizenship. Congressional Research Service. https://www.congress.gov/crs-product/LSB11423
 
 ---
 
@@ -132,8 +133,8 @@ The pressure point is Medicaid. The program covers roughly 40% of all U.S. birth
 
 **References**
 
-[26] Fabi, R. E. (2026, June 23). The public health consequences of ending birthright citizenship. STAT News. https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
-[27] NPR. (2026, June 23). What happens if the US ends birthright citizenship? NPR. https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
+[27] Fabi, R. E. (2026, June 23). The public health consequences of ending birthright citizenship. STAT News. https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/
+[28] NPR. (2026, June 23). What happens if the US ends birthright citizenship? NPR. https://www.npr.org/2026/06/23/nx-s1-5861724/what-happens-if-the-us-ends-birthright-citizenship
 
 ---
 
@@ -153,11 +154,11 @@ The target is Dupixent, the Sanofi/Regeneron blockbuster that pulls in roughly $
 
 **References**
 
-[28] Yahoo Finance. (2026, June 22). AbbVie strikes $10.9 billion deal to acquire Apogee Therapeutics. Yahoo Finance. https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
-[29] AbbVie. (2026, June 22). AbbVie to acquire Apogee Therapeutics, deepening immunology portfolio. AbbVie News Center. https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio
-[30] AbbVie Inc. (2026, June 22). Form 8-K, Exhibit 99.1. U.S. Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/0001551152/000110465926076067/tm2618365d1_ex99-1.htm
-[31] BioSpace. (2026, June 22). AbbVie nears $11B Apogee buy to challenge juggernaut Dupixent. BioSpace. https://www.biospace.com/business/abbvie-nears-11b-apogee-buy-to-challenge-juggernaut-dupixent
-[32] Pharmaceutical Executive. (2026, June 22). AbbVie acquires Apogee Therapeutics for $10.9 billion. Pharmaceutical Executive. https://www.pharmexec.com/view/daily-abbvie-acquires-apogee-therapeutics-10-9-billion
+[29] Yahoo Finance. (2026, June 22). AbbVie strikes $10.9 billion deal to acquire Apogee Therapeutics. Yahoo Finance. https://finance.yahoo.com/healthcare/articles/abbvie-strikes-10-9-billion-125837267.html
+[30] AbbVie. (2026, June 22). AbbVie to acquire Apogee Therapeutics, deepening immunology portfolio. AbbVie News Center. https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio
+[31] AbbVie Inc. (2026, June 22). Form 8-K, Exhibit 99.1. U.S. Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/0001551152/000110465926076067/tm2618365d1_ex99-1.htm
+[32] BioSpace. (2026, June 22). AbbVie nears $11B Apogee buy to challenge juggernaut Dupixent. BioSpace. https://www.biospace.com/business/abbvie-nears-11b-apogee-buy-to-challenge-juggernaut-dupixent
+[33] Pharmaceutical Executive. (2026, June 22). AbbVie acquires Apogee Therapeutics for $10.9 billion. Pharmaceutical Executive. https://www.pharmexec.com/view/daily-abbvie-acquires-apogee-therapeutics-10-9-billion
 
 ---
 

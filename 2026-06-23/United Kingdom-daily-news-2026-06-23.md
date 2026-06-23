@@ -8,7 +8,7 @@ Britain's flash composite PMI fell to 49.4 in June from 49.7 in May, S&P Global 
 
 The drag came entirely from services, which make up roughly four-fifths of UK output. The Services Business Activity Index dropped to 48.7, its lowest in 41 months — a slide back to levels last seen in late 2022, when soaring energy costs were hammering household demand. New business fell at the fastest pace in 14 months, firms ran down backlogs, and employment was cut. Chris Williamson, chief business economist at S&P Global, said the figures pointed to a stalled economy: "The data point to an economy that effectively flat-lined through the second quarter." He described the pace of job-shedding as worryingly high.
 
-Manufacturing told the opposite story, but for an uncomfortable reason. The Manufacturing Output Index jumped to 53.6, the strongest in nearly two years, as factories built up inventory to guard against supply disruption from the conflict in the Middle East. That precautionary stockpiling is a one-off boost, not underlying demand — manufacturing new orders softened to a six-month low. The survey covered responses gathered between 11 and 19 June and was embargoed until 09:30 BST on June 23. The reading lands with the Bank of England already holding Bank Rate at 3.75%, leaving policymakers facing a familiar bind: weak growth alongside sticky services inflation.
+Manufacturing told the opposite story, but for an uncomfortable reason. The Manufacturing Output Index jumped to 53.6, the strongest in nearly two years, as factories built up inventory to guard against supply disruption from the conflict in the Middle East. That precautionary stockpiling is a one-off boost, not underlying demand — manufacturing new orders softened to a six-month low. The survey covered responses gathered between 11 and 19 June and was embargoed until 09:30 BST on June 23. The reading lands with the Bank of England already holding Bank Rate steady, leaving policymakers facing a familiar bind: weak growth alongside sticky services inflation.
 
 **References**
 
@@ -38,7 +38,7 @@ What markets are now scrutinising is fiscal policy — specifically who Burnham 
 
 The UK economy is roughly 6% smaller than it would have been had Britain stayed in the European Union, according to Bank of England analysis published as the country marked the tenth anniversary of the June 23, 2016 referendum. The Office for Budget Responsibility puts the hit to productivity at about 4%. Real GDP per capita has trailed the EU27 average by five index points since 2016 — the gap that compounds, year after year, into lost living standards.
 
-The mechanics show up across the economy. Business investment ran 12–18% below a no-Brexit path, as firms held back on long-term commitments amid trade uncertainty. New border checks have cost £4.7 billion through 2024. Long-run trade with the EU, Britain's largest market, is projected to settle around 15% lower. The pound remains roughly 10% below its pre-referendum value against both the euro and the dollar — a persistent tax on a country that imports much of its food and energy. Independent economists' estimates of foregone output run from 2% up to as much as 8%.
+The mechanics show up across the economy. Business investment ran 12–18% below a no-Brexit path, as firms held back on long-term commitments amid trade uncertainty. New border checks have cost £4.7 billion through 2024. Long-run trade with the EU, Britain's largest market, is projected to settle around 15% lower. The pound remains roughly 10% below its pre-referendum value against both the euro and the dollar — a persistent tax on a country that imports much of its food and energy.
 
 Public opinion has turned hard against the decision. A June 2026 YouGov poll found 57% of Britons believe leaving was wrong against 30% who think it was right. Politically, the decade has been one of churn: Britain will have had seven prime ministers since the vote, the latest transition unfolding the very week of the anniversary.
 
@@ -97,7 +97,7 @@ The Bank of England's Centre for Central Banking Studies opened its flagship mon
 
 The agenda is built around four channels. How AI affects innovation and firm-level productivity; what it does to employment, wages and the distribution of income; whether it lifts the economy's growth potential and shifts the neutral real interest rate that anchors policy; and how monetary strategy itself should respond. Sessions also cover how central banks are using AI to sharpen their own analytical toolkits.
 
-Anton Korinek of the University of Virginia, one of the most cited economists on AI's macroeconomic consequences, delivered the keynote. The speaker list pairs academics with central-banking practitioners: Jonathan Haskel of Imperial College Business School, a former Monetary Policy Committee member and productivity specialist; Leonardo Gambacorta of the Bank for International Settlements; Bouke Klein Teeselink of King's College London; and Maria del Rio-Chanona of University College London. Event directors are Andrew Blake, Angus Foulis, John Power and Jagdish Tripathy. The conference convenes with the Bank holding Bank Rate at 3.75%, the structural questions on the agenda sitting well beyond the next rate decision.
+Anton Korinek of the University of Virginia, one of the most cited economists on AI's macroeconomic consequences, delivered the keynote. The speaker list pairs academics with central-banking practitioners: Jonathan Haskel of Imperial College Business School, a former Monetary Policy Committee member and productivity specialist; Leonardo Gambacorta of the Bank for International Settlements; Bouke Klein Teeselink of King's College London; and Maria del Rio-Chanona of University College London. Event directors are Andrew Blake, Angus Foulis, John Power and Jagdish Tripathy. The conference convenes with the Bank holding Bank Rate steady, the structural questions on the agenda sitting well beyond the next rate decision.
 
 **References**
 
@@ -145,7 +145,7 @@ The alert period overlaps with the run of tropical nights forecasters expect, wh
 
 ### Bedford Train Crash Keeps the Midland Main Line Shut as Disruption Runs Through June 28
 
-The Midland Main Line between Bedford and Luton remained closed on June 23, four days after two East Midlands Railway trains collided south of Elstow, near Bedford, on June 19. The rear-end collision killed one of the drivers, Shaun Burton, 60, a long-serving EMR employee, and injured roughly 100 passengers. Around 600 metres of track were damaged, and Network Rail expects the line to stay shut until at least June 28.
+The Midland Main Line between Bedford and Luton remained closed on June 23, four days after two East Midlands Railway trains collided south of Elstow, near Bedford, on June 19. The rear-end collision killed one of the drivers, Shaun Burton, 60, a long-serving EMR employee, and injured roughly 100 passengers. Track was extensively damaged, and Network Rail expects the line to stay shut until at least June 28.
 
 The closure severs a main artery into the capital. EMR is running no services between Bedford and London St Pancras, while Thameslink, operated by GTR, is confined to Luton and points north. Network Rail's Eastern Regional Director Ellie Burrows asked travellers to stay away: "Please expect disruption to services through this area for the majority of next week and only travel if absolutely necessary." EMR Managing Director Will Rogers echoed the message, saying "We ask that customers only travel on EMR's Intercity and Connect services if essential."
 
@@ -155,6 +155,7 @@ The Rail Accident Investigation Branch and the Office of Rail and Road have insp
 
 [24] Network Rail. (2026, June 23). Media statement: Bedford train crash — essential travel only as passengers warned to expect disruption for the majority of next week. Network Rail Media Centre. https://www.networkrailmediacentre.co.uk/news/media-statement-bedford-train-crash-essential-travel-only-as-passengers-warned-to-expect-disruption-for-the-majority-of-next-week
 [25] Rail Business Daily. (2026, June 23). In the news 23rd June 2026: latest rail news. Rail Business Daily. https://news.railbusinessdaily.com/in-the-news-23rd-june-2026-latest-rail-news/
+[26] ITV News Anglia. (2026, June 22). New access road built to aid recovery after fatal train crash. ITV News. https://www.itv.com/news/anglia/2026-06-22/new-access-road-built-to-aid-recovery-after-fatal-train-crash
 
 ---
 
@@ -180,8 +181,8 @@ The convergence of three threads — the symbolic decade mark, a government in t
 
 **References**
 
-[26] CNBC. (2026, June 23). Brexit 10 years later: How the UK economy and politics changed, in charts. CNBC. https://www.cnbc.com/2026/06/23/brexit-10-years-uk-economy-politics-charts.html
-[27] Al Jazeera English. (2026, June 23). Brexit 10 years on: What has changed in the UK explained in maps and charts. Al Jazeera. https://www.aljazeera.com/news/2026/6/23/brexit-10-years-on-what-has-changed-in-the-uk-explained-in-maps-and-charts
+[27] CNBC. (2026, June 23). Brexit 10 years later: How the UK economy and politics changed, in charts. CNBC. https://www.cnbc.com/2026/06/23/brexit-10-years-uk-economy-politics-charts.html
+[28] Al Jazeera English. (2026, June 23). Brexit 10 years on: What has changed in the UK explained in maps and charts. Al Jazeera. https://www.aljazeera.com/news/2026/6/23/brexit-10-years-on-what-has-changed-in-the-uk-explained-in-maps-and-charts
 
 ---
 
