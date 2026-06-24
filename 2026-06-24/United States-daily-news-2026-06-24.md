@@ -125,10 +125,10 @@ The report lands on a jittery tape. Micron rebounded 4.1% premarket on June 24 a
 
 **References**
 
-[22] StockTitan. (2026, June 23). Micron Technology to report fiscal third quarter results on June 24. StockTitan. https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
-[23] MarketBeat. (2026, June 24). Micron Technology Inc. stock earnings report. MarketBeat. https://www.marketbeat.com/earnings/reports/2026-6-24-micron-technology-inc-stock/
-[24] TheStreet. (2026, June 24). Stock market today: Dow Jones, S&P 500, Nasdaq updates June 24, 2026. TheStreet. https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026
-[25] IG. (2026, June 23). Micron Q3 FY2026 earnings preview. IG. https://www.ig.com/en/news-and-trade-ideas/micron-q3-fy2026-earnings-preview-260623
+[23] StockTitan. (2026, June 23). Micron Technology to report fiscal third quarter results on June 24. StockTitan. https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+[24] MarketBeat. (2026, June 24). Micron Technology Inc. stock earnings report. MarketBeat. https://www.marketbeat.com/earnings/reports/2026-6-24-micron-technology-inc-stock/
+[25] TheStreet. (2026, June 24). Stock market today: Dow Jones, S&P 500, Nasdaq updates June 24, 2026. TheStreet. https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026
+[26] IG. (2026, June 23). Micron Q3 FY2026 earnings preview. IG. https://www.ig.com/en/news-and-trade-ideas/micron-q3-fy2026-earnings-preview-260623
 
 ---
 
@@ -144,9 +144,9 @@ Civil-liberties advocates warned the ruling could push people with meritorious a
 
 **References**
 
-[26] NPR. (2026, June 24). Appeals court allows Trump's expanded expedited removal. NPR. https://www.npr.org/2026/06/24/nx-s1-5869125/appeals-court-expedited-removal-trump-immigration
-[27] Fox News. (2026, June 24). Biden judge overruled on key Trump immigration policy. Fox News. https://www.foxnews.com/politics/biden-judge-overruled-key-trump-immigration-policy
-[28] PBS NewsHour. (2026, June 24). Appeals court allows Trump to resume expanded use of speedy deportations. PBS NewsHour. https://www.pbs.org/newshour/nation/appeals-court-allows-trump-expedited-removal
+[27] NPR. (2026, June 24). Appeals court allows Trump's expanded expedited removal. NPR. https://www.npr.org/2026/06/24/nx-s1-5869125/appeals-court-expedited-removal-trump-immigration
+[28] Fox News. (2026, June 24). Biden judge overruled on key Trump immigration policy. Fox News. https://www.foxnews.com/politics/biden-judge-overruled-key-trump-immigration-policy
+[29] PBS NewsHour. (2026, June 24). Appeals court allows Trump to resume expanded use of speedy deportations. PBS NewsHour. https://www.pbs.org/newshour/nation/appeals-court-allows-trump-expedited-removal
 
 *Note: only 1 story met T1-T4 standards for this category today.*
 
@@ -164,10 +164,10 @@ The sale caps an extraordinary two weeks. SpaceX's IPO on June 12, 2026 priced a
 
 **References**
 
-[29] Bloomberg. (2026, June 24). SpaceX bond deal: debt market analysis. Bloomberg. https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
-[30] CNBC. (2026, June 23). SpaceX raises $25 billion in debt sale less than two weeks after IPO. CNBC. https://www.cnbc.com/amp/2026/06/23/spacex-debt-bond-market-ipo.html
-[31] Quartz. (2026, June 23). SpaceX bond sale: $25 billion investment grade. Quartz. https://qz.com/spacex-bond-sale-25-billion-investment-grade-062326
-[32] StockTitan. (2026, June 23). Space Exploration Technologies Corp. 8-K reports material event. StockTitan. https://www.stocktitan.net/sec-filings/SPCX/8-k-space-exploration-technologies-corp-reports-material-event-8ac863272dc9.html
+[30] Bloomberg. (2026, June 24). SpaceX bond deal: debt market analysis. Bloomberg. https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+[31] CNBC. (2026, June 23). SpaceX raises $25 billion in debt sale less than two weeks after IPO. CNBC. https://www.cnbc.com/amp/2026/06/23/spacex-debt-bond-market-ipo.html
+[32] Quartz. (2026, June 23). SpaceX bond sale: $25 billion investment grade. Quartz. https://qz.com/spacex-bond-sale-25-billion-investment-grade-062326
+[33] StockTitan. (2026, June 23). Space Exploration Technologies Corp. 8-K reports material event. StockTitan. https://www.stocktitan.net/sec-filings/SPCX/8-k-space-exploration-technologies-corp-reports-material-event-8ac863272dc9.html
 
 *Note: only 1 story met T1-T4 standards for this category today.*
 
@@ -185,10 +185,10 @@ The U.S. response is already in motion. The US CDC issued a Title 42 order on Ju
 
 **References**
 
-[33] Al Jazeera. (2026, June 24). France confirms first Ebola case in doctor returning from DR Congo. Al Jazeera. https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
-[34] France 24. (2026, June 24). France confirms first Ebola case in doctor returning from DR Congo mission. France 24. https://www.france24.com/en/france/20260624-france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo-mission
-[35] Gulf News. (2026, June 24). France confirms first Ebola case on its territory in current outbreak. Gulf News. https://gulfnews.com/world/europe/france-confirms-first-ebola-case-on-its-territory-in-current-outbreak-1.500585139
-[36] CDC. (2026, June 21). Ebola situation summary. CDC. https://www.cdc.gov/ebola/situation-summary/index.html
+[34] Al Jazeera. (2026, June 24). France confirms first Ebola case in doctor returning from DR Congo. Al Jazeera. https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+[35] France 24. (2026, June 24). France confirms first Ebola case in doctor returning from DR Congo mission. France 24. https://www.france24.com/en/france/20260624-france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo-mission
+[36] Gulf News. (2026, June 24). France confirms first Ebola case on its territory in current outbreak. Gulf News. https://gulfnews.com/world/europe/france-confirms-first-ebola-case-on-its-territory-in-current-outbreak-1.500585139
+[37] CDC. (2026, June 21). Ebola situation summary. CDC. https://www.cdc.gov/ebola/situation-summary/index.html
 
 ---
 
@@ -202,7 +202,7 @@ Wilson will face Democratic nominee Jermaine Johnson in the November 2026 genera
 
 **References**
 
-[37] NBC News. (2026, June 24). South Carolina governor runoff results. NBC News. https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+[38] NBC News. (2026, June 24). South Carolina governor runoff results. NBC News. https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
 [39] The Hill. (2026, June 24). Live results: South Carolina Republican gubernatorial runoff. The Hill. https://thehill.com/homenews/campaign/5923288-live-results-south-carolina-republican-gubernatorial-runoff/
 [40] The Washington Post. (2026, June 23). South Carolina runoff primary election results 2026 live updates. The Washington Post. https://www.washingtonpost.com/elections/results/2026/06/23/south-carolina-runoff-primary-election-results-2026-live-updates/
 [41] Fox News. (2026, June 24). Trump endorsement streak gets unusual boost in South Carolina GOP governor nomination. Fox News. https://www.foxnews.com/politics/trump-endorsement-streak-gets-unusual-boost-south-carolina-gop-governor-nomination
