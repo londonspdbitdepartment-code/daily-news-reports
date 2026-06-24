@@ -1,0 +1,1541 @@
+version: 1
+generated_at: "2026-06-24T12:00:00Z"
+country: Japan
+date: "2026-06-24"
+total_stories: 15
+stories:
+  - story_id: boj-summary-signals-further-rate-hikes
+    category: econ
+    headline_en: BOJ Summary of Opinions Signals Further Rate Hikes Needed, With Lone Dissenter Warning of Deflation Risk
+    lead_url: https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-24/boj-summary-affirms-rate-hike-stance-as-inflation-risks-mount
+      - https://www.japantimes.co.jp/business/2026/06/24/economy/boj-summary-rate-hikes/
+      - https://investinglive.com/centralbank/boj-june-summary-flags-faster-hike-calls-as-markets-price-another-move-by-year-end-recap-20260624/
+      - https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260616.pdf
+    locked_urls:
+      - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+      - https://www.bloomberg.com/news/articles/2026-06-24/boj-summary-affirms-rate-hike-stance-as-inflation-risks-mount
+      - https://www.japantimes.co.jp/business/2026/06/24/economy/boj-summary-rate-hikes/
+      - https://investinglive.com/centralbank/boj-june-summary-flags-faster-hike-calls-as-markets-price-another-move-by-year-end-recap-20260624/
+      - https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260616.pdf
+    hard_facts:
+      - claim: BOJ Summary of Opinions release date
+        kind: temporal
+        value: June 24, 2026
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "The Bank of Japan released its Summary of Opinions from the June 15–16 Monetary Policy Meeting on June 24, 2026."
+      - claim: Monetary Policy Meeting dates
+        kind: temporal
+        value: June 15–16
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "Summary of Opinions from the June 15–16 Monetary Policy Meeting"
+      - claim: BOJ policy rate after June hike
+        kind: numerical_with_unit
+        value: "1.0%"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "The BOJ had raised its policy rate by 25 basis points to 1.0% at the meeting"
+      - claim: Rate hike size at June meeting
+        kind: numerical_with_unit
+        value: "25 basis points"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "raised its policy rate by 25 basis points to 1.0%"
+      - claim: Highest rate level since
+        kind: temporal
+        value: September 1995
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "the highest level since September 1995"
+      - claim: Vote count for June rate hike
+        kind: numerical
+        value: "7-1"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "by a 7-1 vote"
+      - claim: BOJ estimated neutral rate (upper bound)
+        kind: numerical_with_unit
+        value: "around 2%"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "the rate must be raised 'closer to the estimated neutral rate of around 2% as soon as possible'"
+      - claim: BOJ neutral rate estimate range
+        kind: numerical_with_unit
+        value: "1.1% to 2.5%"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "The BOJ's neutral rate estimate spans 1.1% to 2.5%."
+      - claim: Japan wholesale inflation (May, year-on-year)
+        kind: numerical_with_unit
+        value: "6.3% year-on-year"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "Japan's wholesale inflation reached a three-year high of 6.3% year-on-year in May"
+      - claim: Services producer price inflation (year-on-year)
+        kind: numerical_with_unit
+        value: "3.3% year-on-year"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "services producer prices rose 3.3% year-on-year"
+      - claim: Yen exchange rate near
+        kind: numerical_with_unit
+        value: "approximately 161.5 per dollar"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "the weak yen — then near a 40-year low of approximately 161.5 per dollar"
+      - claim: Yen 40-year low characterisation
+        kind: temporal
+        value: "40-year low"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "near a 40-year low of approximately 161.5 per dollar"
+      - claim: Dissenting board member identity
+        kind: named_person
+        value: Toichiro Asada
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "The sole dissenter, newcomer board member Toichiro Asada, appointed under PM Takaichi"
+      - claim: Share of economists expecting further BOJ hike by December 2026
+        kind: numerical_with_unit
+        value: "Approximately 90%"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "Approximately 90% of economists in a post-meeting survey expected another BOJ rate hike by December 2026"
+      - claim: Fraction of economists penciling in October hike
+        kind: numerical_with_unit
+        value: "more than a third"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "with more than a third penciling in October"
+      - claim: Market cycle-peak estimate (revised)
+        kind: numerical_with_unit
+        value: "1.75%"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "Market pricing shifted the BOJ's cycle-peak estimate upward to 1.75% from 1.5%."
+      - claim: Market cycle-peak estimate (prior)
+        kind: numerical_with_unit
+        value: "1.5%"
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "Market pricing shifted the BOJ's cycle-peak estimate upward to 1.75% from 1.5%."
+      - claim: Named institution — Bank of Japan
+        kind: named_institution
+        value: Bank of Japan
+        source_urls:
+          - https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        verbatim_excerpt: "The Bank of Japan released its Summary of Opinions"
+    quotes:
+      - speaker_name: Toichiro Asada
+        speaker_title: Board Member, Bank of Japan
+        verbatim_en: "downside risks to production and employment may disrupt the virtuous cycle between wages and prices"
+        source_url: https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        context: Summary of Opinions from BOJ June 15–16 Monetary Policy Meeting, released June 24 2026
+      - speaker_name: Toichiro Asada
+        speaker_title: Board Member, Bank of Japan
+        verbatim_en: "push Japan back to deflation"
+        source_url: https://au.investing.com/news/economy-news/some-boj-policymakers-call-for-faster-rate-hikes-summary-shows-4501602
+        context: Summary of Opinions from BOJ June 15–16 Monetary Policy Meeting, released June 24 2026
+
+  - story_id: japan-forex-war-chest-1-3-trillion-revamp
+    category: econ
+    headline_en: Japan Government Plans to Revamp Management of $1.3 Trillion Forex War Chest
+    lead_url: https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+    hard_facts:
+      - claim: Japan foreign exchange reserves total value
+        kind: numerical_with_unit
+        value: "$1.3 trillion"
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "Japan's government plans to examine ways to improve management of its $1.3 trillion in foreign exchange reserves"
+      - claim: Draft strategy review date
+        kind: temporal
+        value: June 24, 2026
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "a draft growth strategy reviewed by Reuters on June 24, 2026"
+      - claim: Named person — Prime Minister Sanae Takaichi
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "Prime Minister Sanae Takaichi's administration is seeking to boost returns on the reserves"
+      - claim: April 2026 yen-buying intervention size
+        kind: numerical_with_unit
+        value: "$73 billion"
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "Tokyo conducted a $73 billion yen-buying operation in late April 2026"
+      - claim: Yen trigger level for April 2026 intervention
+        kind: numerical_with_unit
+        value: "160 per dollar"
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "when the yen fell past 160 per dollar"
+      - claim: Reserve drop in May from intervention
+        kind: numerical_with_unit
+        value: "5.6%"
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "causing a record 5.6% drop in reserves in May"
+      - claim: Yen rate on June 24
+        kind: numerical_with_unit
+        value: "approximately 161.5 per dollar"
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "The yen was trading at approximately 161.5 per dollar on June 24, near a 40-year low."
+      - claim: Yen characterisation on June 24
+        kind: temporal
+        value: "40-year low"
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "near a 40-year low"
+      - claim: Named institution — Finance Minister
+        kind: named_person
+        value: Satsuki Katayama
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "Finance Minister Satsuki Katayama spoke by phone with U.S. Treasury Secretary Scott Bessent on June 22"
+      - claim: Named person — U.S. Treasury Secretary
+        kind: named_person
+        value: Scott Bessent
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "U.S. Treasury Secretary Scott Bessent on June 22"
+      - claim: Phone call date between Katayama and Bessent
+        kind: temporal
+        value: June 22
+        source_urls:
+          - https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        verbatim_excerpt: "Finance Minister Satsuki Katayama spoke by phone with U.S. Treasury Secretary Scott Bessent on June 22"
+    quotes:
+      - speaker_name: Japan Government Draft Strategy
+        speaker_title: Draft growth strategy, Takaichi Administration
+        verbatim_en: "The government will examine the merits of improving management and making more effective use of assets held by the public sector, including the foreign exchange fund special account, taking into account their intended purposes."
+        source_url: https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        context: Draft growth strategy reviewed by Reuters on June 24 2026
+      - speaker_name: Japanese Officials
+        speaker_title: Unnamed officials, Japanese government
+        verbatim_en: "drastically changing the portfolio of the reserves would be unrealistic"
+        source_url: https://finance.yahoo.com/markets/currencies/articles/exclusive-japan-plans-better-manage-033728343.html
+        context: Background comment on draft strategy June 24 2026
+
+  - story_id: nikkei-225-falls-0-88pct-ai-selloff
+    category: econ
+    headline_en: Nikkei 225 Falls 0.88% to 69,175 as AI-Driven Tech Selloff Extends to Second Session
+    lead_url: https://tradingeconomics.com/japan/stock-market
+    body_source: full
+    corroborated_by:
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+    locked_urls:
+      - https://tradingeconomics.com/japan/stock-market
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42C05V:0-japan-s-nikkei-pulls-back-from-record-high-on-ai-selloff/
+    hard_facts:
+      - claim: Nikkei 225 close on June 24 2026
+        kind: numerical_with_unit
+        value: "69,174.97"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "Japan's Nikkei 225 closed at 69,174.97 on June 24, 2026"
+      - claim: Nikkei 225 point decline on June 24
+        kind: numerical_with_unit
+        value: "613.41 points"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "down 613.41 points or 0.88% from the prior session"
+      - claim: Nikkei 225 percentage decline on June 24
+        kind: numerical_with_unit
+        value: "0.88%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "down 613.41 points or 0.88% from the prior session"
+      - claim: TOPIX percentage decline on June 24
+        kind: numerical_with_unit
+        value: "0.32%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "The TOPIX fell 0.32% to 3,977.79."
+      - claim: TOPIX close on June 24
+        kind: numerical_with_unit
+        value: "3,977.79"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "The TOPIX fell 0.32% to 3,977.79."
+      - claim: Nikkei June 23 decline percentage
+        kind: numerical_with_unit
+        value: "3.6%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "when the Nikkei fell 3.6% to 69,788"
+      - claim: Nikkei June 23 close
+        kind: numerical_with_unit
+        value: "69,788"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "the Nikkei fell 3.6% to 69,788"
+      - claim: Nikkei historic peak on June 22
+        kind: numerical_with_unit
+        value: "approximately 72,353"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "The Nikkei had reached a historic peak of approximately 72,353 on June 22."
+      - claim: Nikkei historic peak date
+        kind: temporal
+        value: June 22
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "a historic peak of approximately 72,353 on June 22"
+      - claim: SoftBank decline on June 24
+        kind: numerical_with_unit
+        value: "approximately 10%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "SoftBank (down approximately 10%)"
+      - claim: Named institution — SoftBank
+        kind: named_institution
+        value: SoftBank
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "SoftBank (down approximately 10%)"
+      - claim: SUMCO Corp decline on June 24
+        kind: numerical_with_unit
+        value: "approximately 9.3%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "SUMCO Corp (down approximately 9.3%)"
+      - claim: Named institution — SUMCO Corp
+        kind: named_institution
+        value: SUMCO Corp
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "SUMCO Corp (down approximately 9.3%)"
+      - claim: Ajinomoto decline on June 24
+        kind: numerical_with_unit
+        value: "approximately 8.25%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "Ajinomoto (down approximately 8.25%)"
+      - claim: Named institution — Ajinomoto
+        kind: named_institution
+        value: Ajinomoto
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "Ajinomoto (down approximately 8.25%)"
+      - claim: Kikkoman gain on June 24
+        kind: numerical_with_unit
+        value: "+1.22%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "Kikkoman (+1.22%)"
+      - claim: Nitto Denko gain on June 24
+        kind: numerical_with_unit
+        value: "+1.17%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "Nitto Denko (+1.17%)"
+      - claim: Nasdaq percentage decline triggering selloff
+        kind: numerical_with_unit
+        value: "2.2%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "the Nasdaq fell 2.2% on Monday"
+      - claim: Nikkei year-on-year gain through June 2026
+        kind: numerical_with_unit
+        value: "77.6% year-on-year"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "the Nikkei had surged 77.6% year-on-year through June 2026"
+      - claim: South Korea Kospi decline on June 23
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "South Korea's Kospi fell 10% on June 23"
+      - claim: SK Hynix decline on June 23
+        kind: numerical_with_unit
+        value: "more than 12%"
+        source_urls:
+          - https://tradingeconomics.com/japan/stock-market
+        verbatim_excerpt: "semiconductor stocks SK Hynix and Samsung each down more than 12%"
+    quotes:
+      - speaker_name: Market Analyst (AFP)
+        speaker_title: Market analyst cited by AFP
+        verbatim_en: "There are some concerns about sentiment valuations and positioning…rather than a notable shift in the AI fundamental story."
+        source_url: https://tradingeconomics.com/japan/stock-market
+        context: June 23 analyst commentary on AI selloff, applicable to June 24 continuation
+
+  - story_id: japan-ukraine-action-plan-reconstruction
+    category: politics
+    headline_en: Japan and Ukraine Sign Action Plan for Private-Sector Reconstruction Cooperation
+    lead_url: https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+    hard_facts:
+      - claim: Action plan signing date and location
+        kind: temporal
+        value: June 24, 2026
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "Japanese government officials signed an action plan in Kyiv on June 24, 2026"
+      - claim: Named person — Japanese delegation leader
+        kind: named_person
+        value: Ayano Kunimitsu
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "The Japanese delegation was led by Ayano Kunimitsu, Senior Vice Minister at the Ministry of Foreign Affairs"
+      - claim: Named person — Japanese Ministry of Economy rep
+        kind: named_person
+        value: Kenji Yamada
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "Kenji Yamada from the Ministry of Economy, Trade and Industry"
+      - claim: Named institution — Ministry of Foreign Affairs
+        kind: named_institution
+        value: Ministry of Foreign Affairs
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "Senior Vice Minister at the Ministry of Foreign Affairs"
+      - claim: Named institution — Ministry of Economy Trade and Industry
+        kind: named_institution
+        value: Ministry of Economy, Trade and Industry
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "Kenji Yamada from the Ministry of Economy, Trade and Industry"
+      - claim: Named person — Ukrainian Deputy Prime Minister
+        kind: named_person
+        value: Taras Kachka
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "Ukrainian participants included Deputy Prime Minister Taras Kachka"
+      - claim: Named person — Ukrainian Foreign Minister
+        kind: named_person
+        value: Andrii Sybiha
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "Foreign Minister Andrii Sybiha"
+      - claim: Named person — Ukrainian Economy Minister
+        kind: named_person
+        value: Oleksii Sobolev
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "Economy, Environment and Agriculture Minister Oleksii Sobolev"
+      - claim: Prior senior Japanese official visit to Ukraine
+        kind: temporal
+        value: November 2024
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "the first senior Japanese government official visit since Foreign Minister Takeshi Iwaya's November 2024 trip"
+      - claim: Named person — Foreign Minister at prior visit
+        kind: named_person
+        value: Takeshi Iwaya
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "since Foreign Minister Takeshi Iwaya's November 2024 trip"
+      - claim: G7 Hiroshima summit year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "Japan hosted the G7 summit in Hiroshima in 2023"
+      - claim: G7 summit in June 2026 location
+        kind: named_institution
+        value: G7 Evian summit
+        source_urls:
+          - https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        verbatim_excerpt: "participated in the G7 Evian summit in June 2026"
+    quotes:
+      - speaker_name: Ayano Kunimitsu
+        speaker_title: Senior Vice Minister, Ministry of Foreign Affairs, Japan
+        verbatim_en: "reaffirmed Japan's commitment to maintaining sanctions on Russia"
+        source_url: https://japantoday.com/category/politics/update1-japan-ukraine-sign-action-plan-for-cooperation-in-reconstruction
+        context: Japan-Ukraine action plan signing, Kyiv, June 24 2026
+
+  - story_id: pm-takaichi-heckled-okinawa-81st-memorial
+    category: politics
+    headline_en: PM Takaichi Heckled at Okinawa's 81st Battle Memorial Over Japan's Military and Constitutional Shifts
+    lead_url: https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+    hard_facts:
+      - claim: Anniversary number of Battle of Okinawa commemoration
+        kind: numerical
+        value: "81st"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "June 23–24 commemoration of the 81st anniversary of the end of the Battle of Okinawa"
+      - claim: Commemoration dates
+        kind: temporal
+        value: June 23–24
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "June 23–24 commemoration of the 81st anniversary"
+      - claim: Battle of Okinawa year
+        kind: temporal
+        value: "1945"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "the end of the Battle of Okinawa (1945)"
+      - claim: Deaths in Battle of Okinawa
+        kind: numerical_with_unit
+        value: "approximately 200,000 Japanese"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "approximately 200,000 Japanese died"
+      - claim: Japan defence spending level reached
+        kind: numerical_with_unit
+        value: "2% of GDP"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "Japan's defence spending rose to 2% of GDP in FY2026 (two years ahead of schedule)"
+      - claim: Defence spending target reached ahead of schedule
+        kind: temporal
+        value: "two years ahead of schedule"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "in FY2026 (two years ahead of schedule)"
+      - claim: Lethal arms export rule change date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "Japan loosened lethal arms export rules in April 2026"
+      - claim: Takaichi approval rating
+        kind: numerical_with_unit
+        value: "31.1%"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "Takaichi's approval rating had fallen to a post-inauguration low of 31.1%"
+      - claim: Takaichi approval rating drop
+        kind: numerical_with_unit
+        value: "7.6 percentage points"
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "down 7.6 percentage points"
+      - claim: Poll source for approval rating
+        kind: named_institution
+        value: Jiji Press
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "per a Jiji Press poll published the preceding week"
+      - claim: Named person — Prime Minister
+        kind: named_person
+        value: Sanae Takaichi
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "Prime Minister Sanae Takaichi was heckled"
+      - claim: Named institution — Okinawa memorial venue
+        kind: named_institution
+        value: Okinawa Prefectural Peace Memorial Museum
+        source_urls:
+          - https://japantoday.com/category/politics/japan-pm-heckled-at-wwii-memorial
+        verbatim_excerpt: "The memorial ceremony is held annually at the Okinawa Prefectural Peace Memorial Museum."
+    quotes: []
+
+  - story_id: japan-opposition-crowdfunding-100m-yen
+    category: politics
+    headline_en: "Japan's Main Opposition Crowdfunding Campaign Raises ¥100 Million to Rebuild After Election Collapse"
+    lead_url: https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+    hard_facts:
+      - claim: Named institution — main opposition party
+        kind: named_institution
+        value: Centrist Reform Alliance (CRA)
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "The Centrist Reform Alliance (CRA), Japan's main opposition grouping"
+      - claim: Total raised via crowdfunding
+        kind: numerical_with_unit
+        value: "100 million yen"
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "surpassed 100 million yen raised through a crowdfunding campaign"
+      - claim: Crowdfunding campaign launch date
+        kind: temporal
+        value: May 15, 2026
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "a crowdfunding campaign launched May 15, 2026"
+      - claim: Minimum donation amount
+        kind: numerical_with_unit
+        value: "1,000 yen"
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "with minimum donation of 1,000 yen"
+      - claim: Initial target amount reached quickly
+        kind: numerical_with_unit
+        value: "10 million yen"
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "The campaign reached its initial 10 million yen target within hours"
+      - claim: Named person — CRA party leader
+        kind: named_person
+        value: Junya Ogawa
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "announced by party leader Junya Ogawa"
+      - claim: General election date
+        kind: temporal
+        value: February 8, 2026
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "Japan's February 8, 2026 lower-house general election"
+      - claim: CRA seats before election
+        kind: numerical_with_unit
+        value: "approximately 170 seats"
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "dropping from approximately 170 seats to under 50"
+      - claim: CRA seats after election
+        kind: numerical_with_unit
+        value: "under 50"
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "dropping from approximately 170 seats to under 50"
+      - claim: Combined annual party grants 2026
+        kind: numerical_with_unit
+        value: "6.9 billion yen"
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "Combined annual party grants for the CRA, CDP, and Komeito total 6.9 billion yen in 2026"
+      - claim: Prior combined annual party grants
+        kind: numerical_with_unit
+        value: "10.5 billion yen"
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "down from 10.5 billion yen previously"
+      - claim: LDP seats won in February 2026 election
+        kind: numerical
+        value: "316 seats"
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "the LDP won 316 seats and its first postwar supermajority"
+      - claim: Named institution — LDP
+        kind: named_institution
+        value: LDP
+        source_urls:
+          - https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        verbatim_excerpt: "the LDP won 316 seats"
+    quotes:
+      - speaker_name: Junya Ogawa
+        speaker_title: Party Leader, Centrist Reform Alliance
+        verbatim_en: "the total weight of people's hopes"
+        source_url: https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        context: Announcement of 100 million yen crowdfunding milestone, June 24 2026
+      - speaker_name: Junya Ogawa
+        speaker_title: Party Leader, Centrist Reform Alliance
+        verbatim_en: "Whether we can live up to those expectations is the real question."
+        source_url: https://japantoday.com/category/politics/crowdfunding-brings-100-mil.-yen-to-cash-strapped-japan-main-opposition
+        context: Statement on crowdfunding milestone announcement, June 24 2026
+
+  - story_id: softbank-ai-servers-sharp-plant-fy2027
+    category: tech
+    headline_en: SoftBank to Manufacture AI Servers and Next-Gen Batteries at Former Sharp Plant Near Osaka from Fiscal 2027
+    lead_url: https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+    body_source: paywall-stub
+    corroborated_by:
+      - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-in-talks-with-nvidia-to-build-made-in-japan-ai-servers
+    locked_urls:
+      - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+      - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-in-talks-with-nvidia-to-build-made-in-japan-ai-servers
+    hard_facts:
+      - claim: Named institution — SoftBank Corp
+        kind: named_institution
+        value: SoftBank Corp.
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "SoftBank Corp. plans to begin manufacturing AI servers"
+      - claim: Manufacturing start fiscal year
+        kind: temporal
+        value: "fiscal year 2027 (year ending March 2028)"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "in fiscal year 2027 (year ending March 2028)"
+      - claim: Plant location
+        kind: named_institution
+        value: "former Sharp LCD plant in Sakai, near Osaka"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "at the former Sharp LCD plant in Sakai, near Osaka"
+      - claim: Announcement date and event
+        kind: temporal
+        value: June 24, 2026
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "as announced by SoftBank Corp. President and CEO Junichi Miyakawa at the company's Annual General Meeting of Shareholders in Tokyo on June 24, 2026"
+      - claim: Named person — SoftBank Corp CEO
+        kind: named_person
+        value: Junichi Miyakawa
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "SoftBank Corp. President and CEO Junichi Miyakawa"
+      - claim: Sakai facility size
+        kind: numerical_with_unit
+        value: "45-acre"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "SoftBank acquired the 45-acre Sakai facility"
+      - claim: Sakai facility acquisition cost
+        kind: numerical_with_unit
+        value: "100 billion yen (approximately $676 million)"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "SoftBank acquired the 45-acre Sakai facility from Sharp Corporation for 100 billion yen (approximately $676 million) in 2025"
+      - claim: Sakai facility acquisition year
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "from Sharp Corporation for 100 billion yen (approximately $676 million) in 2025"
+      - claim: Named institution — Sharp Corporation
+        kind: named_institution
+        value: Sharp Corporation
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "SoftBank acquired the 45-acre Sakai facility from Sharp Corporation"
+      - claim: Named product — AX Factory
+        kind: named_product
+        value: AX Factory
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "an AX Factory for AI server assembly and data-center hardware"
+      - claim: Named product — GX Factory
+        kind: named_product
+        value: GX Factory
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "a GX Factory for next-generation batteries and solar panels"
+      - claim: Initial power capacity at site
+        kind: numerical_with_unit
+        value: "150 megawatts"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "Initial power capacity at the site is 150 megawatts"
+      - claim: Expandable power capacity at site
+        kind: numerical_with_unit
+        value: "over 250 megawatts"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "expandable to over 250 megawatts"
+      - claim: Total estimated investment
+        kind: numerical_with_unit
+        value: "approaching 1 trillion yen ($6.7 billion)"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "Total investment is estimated at approaching 1 trillion yen ($6.7 billion)"
+      - claim: GPU units required
+        kind: numerical_with_unit
+        value: "roughly 100,000 GPU units"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "with roughly 100,000 GPU units required"
+      - claim: Named institution — Nvidia (partner)
+        kind: named_institution
+        value: Nvidia
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "SoftBank is also in talks with Nvidia and Foxconn"
+      - claim: Named institution — Foxconn (partner)
+        kind: named_institution
+        value: Foxconn
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027
+        verbatim_excerpt: "SoftBank is also in talks with Nvidia and Foxconn"
+    quotes: []
+
+  - story_id: rakuten-ast-spacemobile-satellite-jv-japan
+    category: tech
+    headline_en: Rakuten to Form Equal-Stakes Satellite Joint Venture with AST SpaceMobile for Japan Direct-to-Cell Service
+    lead_url: https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+    body_source: paywall-stub
+    corroborated_by:
+      - https://stocktwits.com/news-articles/markets/equity/asts-rakuten-japan-security-spacex-rivalry/cZKyRhER7On
+    locked_urls:
+      - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+      - https://stocktwits.com/news-articles/markets/equity/asts-rakuten-japan-security-spacex-rivalry/cZKyRhER7On
+    hard_facts:
+      - claim: Named person — Rakuten CEO
+        kind: named_person
+        value: Hiroshi Mikitani
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "Rakuten Group CEO Hiroshi Mikitani announced on June 24, 2026"
+      - claim: Announcement date
+        kind: temporal
+        value: June 24, 2026
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "Rakuten Group CEO Hiroshi Mikitani announced on June 24, 2026"
+      - claim: Named institution — Rakuten Group
+        kind: named_institution
+        value: Rakuten Group
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "Rakuten Group CEO Hiroshi Mikitani announced"
+      - claim: Named institution — AST SpaceMobile
+        kind: named_institution
+        value: AST SpaceMobile
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "Rakuten will form an equal-stakes satellite joint venture with U.S.-based AST SpaceMobile"
+      - claim: JV formation timeline
+        kind: temporal
+        value: "during 2026"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "Rakuten will form an equal-stakes satellite joint venture with U.S.-based AST SpaceMobile during 2026"
+      - claim: Service rollout target
+        kind: temporal
+        value: "end of 2026"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "Service rollout is targeted for the end of 2026"
+      - claim: Nationwide coverage target
+        kind: temporal
+        value: "fiscal 2027"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "with nationwide population coverage targeted in fiscal 2027"
+      - claim: Named institution — competitors NTT Docomo SoftBank KDDI
+        kind: named_institution
+        value: "NTT Docomo, SoftBank and KDDI"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "The JV positions Rakuten against NTT Docomo, SoftBank and KDDI"
+      - claim: J-LEO government budget
+        kind: numerical_with_unit
+        value: "approximately 150 billion yen (roughly $1 billion)"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "a government budget of approximately 150 billion yen (roughly $1 billion)"
+      - claim: Named product — rival satellite constellation
+        kind: named_institution
+        value: "KDDI-SpaceX consortium"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "the rival bid is a KDDI-SpaceX consortium"
+      - claim: J-LEO nationwide coverage deadline
+        kind: temporal
+        value: "March 2029"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "J-LEO winners must deliver nationwide direct-to-cell coverage by March 2029"
+      - claim: Named product — upcoming AST BlueBird satellites
+        kind: named_product
+        value: "BlueBird 11, 12 and 13"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "AST SpaceMobile's next batch — BlueBird 11, 12 and 13"
+      - claim: BlueBird 11-13 launch site
+        kind: named_institution
+        value: Cape Canaveral
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "targeted for launch from Cape Canaveral in August 2026"
+      - claim: BlueBird 11-13 target launch date
+        kind: temporal
+        value: August 2026
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "targeted for launch from Cape Canaveral in August 2026"
+      - claim: AST SpaceMobile shares rise after announcement
+        kind: numerical_with_unit
+        value: "about 2%"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "AST SpaceMobile shares rose about 2% overnight."
+      - claim: Rakuten-AST partnership start year
+        kind: temporal
+        value: "2020"
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "Rakuten and AST have partnered since 2020"
+      - claim: Japan first satellite-to-smartphone video call date
+        kind: temporal
+        value: April 2025
+        source_urls:
+          - https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        verbatim_excerpt: "completed Japan's first satellite-to-smartphone video call in April 2025"
+    quotes:
+      - speaker_name: Hiroshi Mikitani
+        speaker_title: CEO, Rakuten Group
+        verbatim_en: "It's extremely critical to start a service backed largely by Japanese capital."
+        source_url: https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        context: Announcement of Rakuten-AST SpaceMobile JV, June 24 2026
+      - speaker_name: Hiroshi Mikitani
+        speaker_title: CEO, Rakuten Group
+        verbatim_en: "won't be substantial"
+        source_url: https://asia.nikkei.com/business/telecommunication/rakuten-to-offer-satellite-to-cell-service-in-japan-with-us-startup
+        context: Characterising Rakuten's financial commitment to the JV, June 24 2026
+
+  - story_id: japan-supreme-court-unification-church-dissolved
+    category: society
+    headline_en: "Japan's Supreme Court Finalises Unification Church Dissolution, Orders ¥7.4 Billion Victim Compensation"
+    lead_url: https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+    body_source: full
+    corroborated_by:
+      - https://asia.nikkei.com/politics/japan-supreme-court-backs-order-to-dissolve-unification-church
+      - https://www.japantimes.co.jp/news/2026/06/23/japan/crime-legal/top-court-unification-church-dissolve/
+    locked_urls:
+      - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+      - https://asia.nikkei.com/politics/japan-supreme-court-backs-order-to-dissolve-unification-church
+      - https://www.japantimes.co.jp/news/2026/06/23/japan/crime-legal/top-court-unification-church-dissolve/
+    hard_facts:
+      - claim: Supreme Court ruling dates
+        kind: temporal
+        value: June 23–24, 2026
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "Japan's Supreme Court on June 23–24, 2026 finalised its dissolution order"
+      - claim: Named institution — church dissolved
+        kind: named_institution
+        value: Family Federation for World Peace and Unification (Unification Church)
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "dissolution order for the Family Federation for World Peace and Unification (Unification Church)"
+      - claim: Named person — Presiding Justice
+        kind: named_person
+        value: Eriko Watanabe
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "Presiding Justice Eriko Watanabe ruled the dissolution"
+      - claim: Property damage extraction start date
+        kind: temporal
+        value: March 1973
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "extracting large donations over a period spanning March 1973 to June 2016"
+      - claim: Property damage extraction end date (court period)
+        kind: temporal
+        value: June 2016
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "over a period spanning March 1973 to June 2016"
+      - claim: Extended harm period end year
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "with the extended harm period running from 1973 to 2022"
+      - claim: Damages awarded to victims
+        kind: numerical_with_unit
+        value: "approximately 7.4 billion yen ($46 million)"
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "Approximately 7.4 billion yen ($46 million) in damages had been awarded to victims"
+      - claim: Named person — assassinated former PM
+        kind: named_person
+        value: Shinzo Abe
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "the assassination of former Prime Minister Shinzo Abe in July 2022"
+      - claim: Abe assassination date
+        kind: temporal
+        value: July 2022
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "the assassination of former Prime Minister Shinzo Abe in July 2022"
+      - claim: Ministry filed for court dissolution date
+        kind: temporal
+        value: October 2023
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "Japan's Ministry of Education filed for the court dissolution order in October 2023"
+      - claim: Named institution — Ministry of Education
+        kind: named_institution
+        value: Ministry of Education
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "Japan's Ministry of Education filed for the court dissolution order"
+      - claim: Recognised victims count
+        kind: numerical_with_unit
+        value: "approximately 1,700"
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "compensating the approximately 1,700 recognised victims"
+      - claim: Named institution — AUM Shinrikyo (comparable prior case)
+        kind: named_institution
+        value: AUM Shinrikyo
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "Japan had previously ordered the disbandment of AUM Shinrikyo (responsible for the 1995 Tokyo subway sarin attack)"
+      - claim: AUM Shinrikyo attack year
+        kind: temporal
+        value: "1995"
+        source_urls:
+          - https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        verbatim_excerpt: "responsible for the 1995 Tokyo subway sarin attack"
+    quotes:
+      - speaker_name: Eriko Watanabe
+        speaker_title: Presiding Justice, Supreme Court of Japan (Third Petty Bench)
+        verbatim_en: "necessary and inevitable"
+        source_url: https://japantoday.com/category/national/update1-japan-supreme-court-upholds-disbandment-decision-for-unification-church
+        context: Supreme Court dissolution ruling on Unification Church, June 23–24 2026
+
+  - story_id: japan-first-approval-heart-valve-tissue-reuse
+    category: society
+    headline_en: Japan Grants First-Ever Approval for Heart Valve Tissue Reuse in Transplant Procedures
+    lead_url: https://newsonjapan.com/article/149777.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149777.php
+    hard_facts:
+      - claim: Named institution — approving hospital
+        kind: named_institution
+        value: National Cerebral and Cardiovascular Center in Osaka
+        source_urls:
+          - https://newsonjapan.com/article/149777.php
+        verbatim_excerpt: "The National Cerebral and Cardiovascular Center in Osaka has been authorised to carry out the procedure."
+      - claim: Named product — tissue type
+        kind: named_product
+        value: homografts
+        source_urls:
+          - https://newsonjapan.com/article/149777.php
+        verbatim_excerpt: "heart valves classified as 'homografts' — can be frozen and stored for later use"
+      - claim: Named person — hospital director
+        kind: named_person
+        value: Kazuhiro Yamamoto
+        source_urls:
+          - https://newsonjapan.com/article/149777.php
+        verbatim_excerpt: "Hospital director Kazuhiro Yamamoto stated"
+    quotes:
+      - speaker_name: Kazuhiro Yamamoto
+        speaker_title: Hospital Director, National Cerebral and Cardiovascular Center
+        verbatim_en: "We hope that even a small increase in the supply of homografts will make it possible to deliver them to more people who need these treatments."
+        source_url: https://newsonjapan.com/article/149777.php
+        context: Japan's first regulatory approval for heart valve tissue reuse, June 24 2026
+
+  - story_id: dual-typhoons-okinawa-kyushu-500mm-rainfall
+    category: society
+    headline_en: Dual Typhoons Approach Japan; Okinawa and Kyushu Warned of 500mm Rainfall
+    lead_url: https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+    body_source: full
+    corroborated_by:
+      - https://newsonjapan.com/article/149729.php
+    locked_urls:
+      - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+      - https://newsonjapan.com/article/149729.php
+    hard_facts:
+      - claim: Typhoon No. 7 name
+        kind: named_product
+        value: Mekkhala
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "Typhoon No. 7 (Mekkhala)"
+      - claim: Observation time for Typhoon No. 7 position
+        kind: temporal
+        value: "3 a.m. JST June 24, 2026"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "As of 3 a.m. JST June 24, 2026, Typhoon No. 7 (Mekkhala) was located south of Okinawa"
+      - claim: Typhoon No. 7 movement speed
+        kind: numerical_with_unit
+        value: "10 km/h"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "moving north at 10 km/h"
+      - claim: Typhoon No. 7 central pressure
+        kind: numerical_with_unit
+        value: "950 hPa"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "a central pressure of 950 hPa"
+      - claim: Typhoon No. 7 maximum sustained winds
+        kind: numerical_with_unit
+        value: "45 metres per second (162 km/h)"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "maximum sustained winds of 45 metres per second (162 km/h)"
+      - claim: Typhoon No. 7 maximum gusts
+        kind: numerical_with_unit
+        value: "60 m/s (216 km/h)"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "maximum gusts of 60 m/s (216 km/h)"
+      - claim: Typhoon No. 7 forecast to reach Miyakojima
+        kind: temporal
+        value: June 25
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "forecast to approach Miyakojima (Sakishima Islands) on June 25"
+      - claim: Typhoon No. 7 forecast to reach Okinawa main island
+        kind: temporal
+        value: June 26
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "Okinawa's main island around June 26"
+      - claim: Typhoon No. 8 name
+        kind: named_product
+        value: Higos
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "Typhoon No. 8 (Higos)"
+      - claim: Typhoon No. 8 forecast approach date
+        kind: temporal
+        value: June 27
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "expected to approach the Pacific coast of eastern Japan around June 27"
+      - claim: Forecast maximum rainfall — Kyushu
+        kind: numerical_with_unit
+        value: "more than 500 millimetres"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "forecast cumulative rainfall from midnight June 24 through 9 p.m. June 27 of more than 500 millimetres in heavily affected parts of Kyushu"
+      - claim: Forecast rainfall period
+        kind: temporal
+        value: "midnight June 24 through 9 p.m. June 27"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "cumulative rainfall from midnight June 24 through 9 p.m. June 27"
+      - claim: Forecast rainfall range wider area
+        kind: numerical_with_unit
+        value: "300–500 mm"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "300–500 mm across a wide band from western Japan to the Pacific side of eastern Japan"
+      - claim: Wave heights south of Ryukyu Islands
+        kind: numerical_with_unit
+        value: "4 metres or more"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "Wave heights of 4 metres or more were predicted south of the Ryukyu Islands"
+      - claim: Wave heights near typhoon centre
+        kind: numerical_with_unit
+        value: "up to 6 metres"
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "with up to 6 metres near the typhoon's centre"
+      - claim: Storm surge risk date for Okinawa
+        kind: temporal
+        value: June 27
+        source_urls:
+          - https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        verbatim_excerpt: "Officials warned of storm surge risk on Okinawa's main island around June 27"
+    quotes:
+      - speaker_name: JMA / WeatherNews
+        speaker_title: Japan Meteorological Agency official advisory
+        verbatim_en: "Disasters could occur from accumulated rainfall even before the typhoons themselves move close to Japan."
+        source_url: https://www.data.jma.go.jp/multi/cyclone/cyclone_detail.html?id=60&lang=en
+        context: JMA advisory issued June 24 2026 regarding dual typhoon approach
+
+  - story_id: softbank-seeks-tepco-stake-ai-power-1t-yen
+    category: ipo_ma
+    headline_en: "SoftBank Seeks Equity Stake in TEPCO to Power AI Buildout; Five Bidders Propose Over 1 Trillion Yen"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+    body_source: paywall-stub
+    corroborated_by:
+      - https://asia.nikkei.com/business/energy/tepco-eyes-capital-tie-up-with-five-groups-including-softbank-kkr
+      - https://cryptobriefing.com/softbank-tepco-stake-ai-power/
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+      - https://asia.nikkei.com/business/energy/tepco-eyes-capital-tie-up-with-five-groups-including-softbank-kkr
+      - https://cryptobriefing.com/softbank-tepco-stake-ai-power/
+    hard_facts:
+      - claim: Named person — SoftBank Group Chairman
+        kind: named_person
+        value: Masayoshi Son
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "SoftBank Group Corp. founder and Chairman Masayoshi Son told shareholders"
+      - claim: Announcement venue and date
+        kind: temporal
+        value: June 24, 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "at the company's Annual General Meeting in Tokyo on June 24, 2026"
+      - claim: Named institution — TEPCO
+        kind: named_institution
+        value: Tokyo Electric Power Company Holdings (TEPCO)
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "seeking to acquire an equity stake in Tokyo Electric Power Company Holdings (TEPCO)"
+      - claim: TEPCO capital-alliance finalist groups count
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "TEPCO has narrowed its capital-alliance process to five finalist groups"
+      - claim: Named institution — Japan Industrial Partners
+        kind: named_institution
+        value: Japan Industrial Partners (JIP)
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "SoftBank Group, Japan Industrial Partners (JIP), KKR"
+      - claim: Named institution — KKR
+        kind: named_institution
+        value: KKR
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "SoftBank Group, Japan Industrial Partners (JIP), KKR"
+      - claim: Named institution — Blackstone
+        kind: named_institution
+        value: Blackstone
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "groups affiliated with Blackstone and BlackRock"
+      - claim: Named institution — BlackRock
+        kind: named_institution
+        value: BlackRock
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "groups affiliated with Blackstone and BlackRock"
+      - claim: Total proposed investments by five groups
+        kind: numerical_with_unit
+        value: "over 1 trillion yen"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "The five groups have proposed investments totalling over 1 trillion yen"
+      - claim: Final partner decision timeline
+        kind: temporal
+        value: "by year-end 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "A final partner decision is anticipated by year-end 2026."
+      - claim: TEPCO market capitalisation
+        kind: numerical_with_unit
+        value: "exceeds 1 trillion yen"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        verbatim_excerpt: "TEPCO's market capitalization exceeds 1 trillion yen"
+    quotes:
+      - speaker_name: Masayoshi Son
+        speaker_title: Founder and Chairman, SoftBank Group Corp.
+        verbatim_en: "I think it's blasphemy against AI if you say it's a bubble."
+        source_url: https://www.bloomberg.com/news/articles/2026-06-24/softbank-seeks-stake-in-japan-s-top-utility-to-power-ai-boom
+        context: SoftBank Group Annual General Meeting, Tokyo, June 24 2026
+
+  - story_id: japan-temple-shrine-shadow-market-scrutiny
+    category: other
+    headline_en: "Japan's Shadow Market for Temples and Shrines Draws Official Scrutiny Over Tax Evasion and Money Laundering"
+    lead_url: https://newsonjapan.com/article/149775.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://newsonjapan.com/article/149775.php
+    hard_facts:
+      - claim: Named institution — Agency for Cultural Affairs
+        kind: named_institution
+        value: Agency for Cultural Affairs
+        source_urls:
+          - https://newsonjapan.com/article/149775.php
+        verbatim_excerpt: "Japan's Agency for Cultural Affairs planning hearings with approximately 30 corporations"
+      - claim: Number of corporations with frequent leadership changes targeted for hearings
+        kind: numerical_with_unit
+        value: "approximately 30 corporations"
+        source_urls:
+          - https://newsonjapan.com/article/149775.php
+        verbatim_excerpt: "Japan's Agency for Cultural Affairs planning hearings with approximately 30 corporations showing frequent leadership changes"
+      - claim: Number of religious corporations advertised for sale online
+        kind: numerical_with_unit
+        value: "approximately 150 religious corporations"
+        source_urls:
+          - https://newsonjapan.com/article/149775.php
+        verbatim_excerpt: "Online brokers are advertising approximately 150 religious corporations for sale"
+      - claim: Price range of religious corporations for sale
+        kind: numerical_with_unit
+        value: "15 million to 300 million yen"
+        source_urls:
+          - https://newsonjapan.com/article/149775.php
+        verbatim_excerpt: "ranging from 15 million to 300 million yen"
+      - claim: Named person — Osaka-based broker
+        kind: named_person
+        value: Takao Yamamoto
+        source_urls:
+          - https://newsonjapan.com/article/149775.php
+        verbatim_excerpt: "Osaka-based broker Takao Yamamoto, who has facilitated such transactions for six years"
+      - claim: Broker years of experience
+        kind: numerical_with_unit
+        value: "six years"
+        source_urls:
+          - https://newsonjapan.com/article/149775.php
+        verbatim_excerpt: "who has facilitated such transactions for six years"
+      - claim: Annual income threshold for no income report filing
+        kind: numerical_with_unit
+        value: "80 million yen"
+        source_urls:
+          - https://newsonjapan.com/article/149775.php
+        verbatim_excerpt: "those with annual income under 80 million yen are not required to file income reports"
+    quotes:
+      - speaker_name: Unattributed broker listing
+        speaker_title: Online broker advertisement
+        verbatim_en: "New religious corporation, Sapporo, 60 million yen. Fine to leave it unattended after purchase."
+        source_url: https://newsonjapan.com/article/149775.php
+        context: Online listing for religious corporation sale, June 2026
+      - speaker_name: Takao Yamamoto
+        speaker_title: Osaka-based religious corporation broker
+        verbatim_en: "We lay out the cash, and after the buyer leaves, I split the money with the seller."
+        source_url: https://newsonjapan.com/article/149775.php
+        context: Describing transaction process for religious corporation sales, June 2026
+      - speaker_name: Takao Yamamoto
+        speaker_title: Osaka-based religious corporation broker
+        verbatim_en: "Buyers are primarily interested in tax savings, money laundering and the lucrative business of managing columbariums."
+        source_url: https://newsonjapan.com/article/149775.php
+        context: Explaining buyer motivations in religious corporation sales, June 2026
+
+  - story_id: jr-central-overnight-tokaido-shinkansen-aug8
+    category: other
+    headline_en: JR Central Announces Japan's First Overnight Tokaido Shinkansen Service, Launching August 8
+    lead_url: https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+    body_source: full
+    corroborated_by:
+      - https://soranews24.com/2026/06/24/private-shinkansen-cabin-pricing-start-date-and-details-announced-by-japan-railways/
+    locked_urls:
+      - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+      - https://soranews24.com/2026/06/24/private-shinkansen-cabin-pricing-start-date-and-details-announced-by-japan-railways/
+    hard_facts:
+      - claim: Named institution — JR Central
+        kind: named_institution
+        value: JR Central (Central Japan Railway Company)
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "JR Central (Central Japan Railway Company) announced on June 24, 2026"
+      - claim: Announcement date
+        kind: temporal
+        value: June 24, 2026
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "JR Central (Central Japan Railway Company) announced on June 24, 2026"
+      - claim: Named product — overnight service name
+        kind: named_product
+        value: Tokaido Lumière Express
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "The trial service, named 'Tokaido Lumière Express'"
+      - claim: Trial service date
+        kind: temporal
+        value: August 8, 2026
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "scheduled for a single trial date of August 8, 2026"
+      - claim: Departure time from Tokyo Station
+        kind: temporal
+        value: "10 p.m."
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "departing Tokyo Station at 10 p.m."
+      - claim: Arrival time at Shin-Osaka
+        kind: temporal
+        value: "6:59 a.m."
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "arriving at Shin-Osaka at 6:59 a.m."
+      - claim: Stationary halt station
+        kind: named_institution
+        value: Gifu-Hashima Station
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "The train will remain stationary at Gifu-Hashima Station from midnight to 6 a.m."
+      - claim: Stationary halt period
+        kind: temporal
+        value: "midnight to 6 a.m."
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "remain stationary at Gifu-Hashima Station from midnight to 6 a.m."
+      - claim: Standard reserved seating cost
+        kind: numerical_with_unit
+        value: "¥15,000 (approximately $93 USD)"
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "Standard reserved seating costs ¥15,000 (approximately $93 USD)"
+      - claim: Maximum seats per row
+        kind: numerical
+        value: "two seats per row"
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "with a maximum of two seats per row"
+      - claim: Ticket sales opening date and time
+        kind: temporal
+        value: "July 3, 2026 at 2 p.m."
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "Ticket sales open July 3, 2026 at 2 p.m."
+      - claim: Named product — Supreme Class private cabins
+        kind: named_product
+        value: Supreme Class
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "JR's 'Supreme Class' private cabins"
+      - claim: Supreme Class debut date
+        kind: temporal
+        value: October 1, 2026
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "debuting October 1, 2026"
+      - claim: Supreme Class price range
+        kind: numerical_with_unit
+        value: "¥32,440–¥86,240 per trip"
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "at ¥32,440–¥86,240 per trip depending on route"
+      - claim: Number of daily services for Supreme Class
+        kind: numerical_with_unit
+        value: "approximately 10 daily"
+        source_urls:
+          - https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        verbatim_excerpt: "on approximately 10 daily Tokaido and Sanyo Shinkansen services"
+    quotes:
+      - speaker_name: JR Central
+        speaker_title: JR Central official statement
+        verbatim_en: "The aim is to meet growing demand from travellers who want to save on hotel costs and make better use of time at their destination by travelling overnight rather than during the day."
+        source_url: https://soranews24.com/2026/06/24/japan-launches-first-overnight-shinkansen-bullet-train-between-tokyo-and-osaka-this-summer/
+        context: JR Central announcement of Tokaido Lumière Express trial, June 24 2026
+
+  - story_id: nissan-agm-director-rejected-renault-abstain
+    category: other
+    headline_en: "Nissan's Annual General Meeting Sees Rare Board Director Rejection as Renault Withholds Support"
+    lead_url: https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-23/nissan-shareholders-vote-out-influential-director-at-meeting
+      - https://www.japantimes.co.jp/business/2026/06/23/companies/nissan-rejection-reappointment/
+      - https://global.nissannews.com/en/releases/250624-01-e
+      - https://www.autonews.com/nissan/an-nissan-2026-shareholders-meeting-ivan-espinosa-director-rejected-carlos-ghosn-0623/
+    locked_urls:
+      - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+      - https://www.bloomberg.com/news/articles/2026-06-23/nissan-shareholders-vote-out-influential-director-at-meeting
+      - https://www.japantimes.co.jp/business/2026/06/23/companies/nissan-rejection-reappointment/
+      - https://global.nissannews.com/en/releases/250624-01-e
+      - https://www.autonews.com/nissan/an-nissan-2026-shareholders-meeting-ivan-espinosa-director-rejected-carlos-ghosn-0623/
+    hard_facts:
+      - claim: Named institution — Nissan Motor Company
+        kind: named_institution
+        value: Nissan Motor Company
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "Nissan Motor Company held its 126th Ordinary General Meeting of Shareholders"
+      - claim: AGM number
+        kind: numerical
+        value: "126th"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "held its 126th Ordinary General Meeting of Shareholders"
+      - claim: AGM date and location
+        kind: temporal
+        value: June 24, 2026
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "held its 126th Ordinary General Meeting of Shareholders on June 24, 2026, in Yokohama"
+      - claim: AGM location
+        kind: named_institution
+        value: Yokohama
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "on June 24, 2026, in Yokohama"
+      - claim: Shareholders attending AGM
+        kind: numerical_with_unit
+        value: "1,071 shareholders"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "attended by 1,071 shareholders"
+      - claim: AGM duration
+        kind: temporal
+        value: "3 hours 6 minutes"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "over 3 hours 6 minutes"
+      - claim: Named person — rejected outside director
+        kind: named_person
+        value: Motoo Nagai
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "shareholders rejected the reappointment of Motoo Nagai, an outside director on the Nissan board since 2014"
+      - claim: Nagai board tenure start
+        kind: temporal
+        value: "2014"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "an outside director on the Nissan board since 2014"
+      - claim: Named institution — Renault (abstaining shareholder)
+        kind: named_institution
+        value: Renault
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "after Renault — which holds 15% of Nissan's voting rights — abstained from supporting his appointment"
+      - claim: Renault voting rights stake in Nissan
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "Renault — which holds 15% of Nissan's voting rights"
+      - claim: Named person — second director whose appointment Renault abstained on
+        kind: named_person
+        value: Junichi Shinbo
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "Renault also abstained on Junichi Shinbo's appointment"
+      - claim: Named institution — Mizuho Financial Group
+        kind: named_institution
+        value: Mizuho Financial Group
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "both nominees' Mizuho Financial Group banking backgrounds"
+      - claim: Directors approved vs total proposed
+        kind: numerical
+        value: "Eleven of twelve"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "Eleven of twelve proposed directors were approved"
+      - claim: Named person — Nissan CEO reappointed
+        kind: named_person
+        value: Ivan Espinosa
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "CEO Ivan Espinosa was reappointed."
+      - claim: Named institution — proxy adviser
+        kind: named_institution
+        value: Institutional Shareholder Services
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "Proxy adviser Institutional Shareholder Services had separately recommended against both appointments."
+      - claim: Nissan shareholder base decline
+        kind: numerical_with_unit
+        value: "46,666"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "its shareholder base declined by 46,666 to 595,566"
+      - claim: Nissan remaining shareholder count
+        kind: numerical_with_unit
+        value: "595,566"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "its shareholder base declined by 46,666 to 595,566"
+      - claim: Named person — former CEO Carlos Ghosn
+        kind: named_person
+        value: Carlos Ghosn
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "a proposal to appoint former CEO Carlos Ghosn — who fled Japan in 2018 while awaiting trial"
+      - claim: Ghosn fled Japan year
+        kind: temporal
+        value: "2018"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "who fled Japan in 2018 while awaiting trial on financial misconduct charges"
+      - claim: Renault influence reduction year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        verbatim_excerpt: "Renault's biggest power move at Nissan since ceding much of its influence over the Japanese carmaker in 2023"
+    quotes:
+      - speaker_name: Nissan shareholder (unnamed)
+        speaker_title: Nissan shareholder, approximately 60 years old
+        verbatim_en: "Since the stock price has been sluggish, I'm hoping new models will help."
+        source_url: https://japantoday.com/category/business/nissan-shareholders-vote-down-outside-director-reappointment
+        context: Comment at Nissan 126th AGM, Yokohama, June 24 2026
