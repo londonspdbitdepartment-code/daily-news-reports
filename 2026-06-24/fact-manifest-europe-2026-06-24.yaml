@@ -1013,5 +1013,1177 @@ stories:
         verbatim_en: "From the global development perspective, 'China Opportunity 2.0' means there'll be broader access to advanced technologies."
         source_url: https://www.euronews.com/next/2026/06/24/worlds-fastest-supercomputer-is-now-from-china-surpassing-us-and-germany
         context: World Economic Forum Summer Davos remarks
-# ANCHOR_AFTER_STORY_8
+
+  - story_id: rslmedia-ai-consent-register-european-parliament
+    category: tech
+    headline_en: Hollywood Stars Launch AI Consent Register at European Parliament, Blanchett and Soderbergh Lead Initiative
+    lead_url: https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+    body_source: full
+    corroborated_by:
+      - https://variety.com/2026/film/news/cate-blanchett-rsl-media-ai-usage-1236746845/
+    locked_urls:
+      - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+      - https://variety.com/2026/film/news/cate-blanchett-rsl-media-ai-usage-1236746845/
+    hard_facts:
+      - claim: launch date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "On 24 June 2026, a coalition of international film stars launched rslmedia.org at the European Parliament in Brussels"
+      - claim: named product — rslmedia.org
+        kind: named_product
+        value: rslmedia.org
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "a coalition of international film stars launched rslmedia.org at the European Parliament in Brussels"
+      - claim: named institution — European Parliament
+        kind: named_institution
+        value: European Parliament
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "launched rslmedia.org at the European Parliament in Brussels"
+      - claim: co-founder — Cate Blanchett
+        kind: named_person
+        value: Cate Blanchett
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "co-founded by Cate Blanchett, Nikki Hexum, Doug Leeds, and Eckart Walther"
+      - claim: co-founder — Nikki Hexum
+        kind: named_person
+        value: Nikki Hexum
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "co-founded by Cate Blanchett, Nikki Hexum, Doug Leeds, and Eckart Walther"
+      - claim: co-founder — Doug Leeds
+        kind: named_person
+        value: Doug Leeds
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "co-founded by Cate Blanchett, Nikki Hexum, Doug Leeds, and Eckart Walther"
+      - claim: co-founder — Eckart Walther
+        kind: named_person
+        value: Eckart Walther
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "co-founded by Cate Blanchett, Nikki Hexum, Doug Leeds, and Eckart Walther"
+      - claim: named person — Steven Soderbergh
+        kind: named_person
+        value: Steven Soderbergh
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "Blanchett and Soderbergh presented the initiative to MEPs"
+      - claim: MEP named — Eva Maydell
+        kind: named_person
+        value: Eva Maydell
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "presented the initiative to MEPs, including MEP Eva Maydell"
+      - claim: EU AI Act full applicability date
+        kind: temporal
+        value: 2 August 2026
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "timed to align with the EU AI Act's full applicability from 2 August 2026"
+      - claim: EU AI Act prohibitions effective date
+        kind: temporal
+        value: 2 December 2026
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "new prohibitions (effective 2 December 2026)"
+      - claim: named product — EU AI Act
+        kind: named_product
+        value: EU AI Act
+        source_urls:
+          - https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        verbatim_excerpt: "the EU AI Act's full applicability from 2 August 2026"
+    quotes:
+      - speaker_name: Cate Blanchett
+        speaker_title: Co-founder, rslmedia.org; actress
+        verbatim_en: "To find a path between unbridled enthusiasm and the dangers of AI, we need safeguards based on consent."
+        source_url: https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        context: European Parliament launch event, 24 June 2026
+      - speaker_name: Steven Soderbergh
+        speaker_title: Filmmaker, supporter of rslmedia.org
+        verbatim_en: "This is not a law, it's not a restriction; it's a persuasive mechanism to do the right thing."
+        source_url: https://www.euronews.com/culture/2026/06/24/hollywood-stars-oppose-ai-how-a-new-register-protects-artists-identities
+        context: European Parliament launch event, 24 June 2026
+
+  - story_id: eurobarometer-80pct-digital-infra-foreign-tech
+    category: tech
+    headline_en: Eurobarometer Survey — Europeans Overwhelmingly Want Less Dependence on Foreign Digital Technologies
+    lead_url: https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+    hard_facts:
+      - claim: publication date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "A Eurobarometer survey published 24 June 2026"
+      - claim: share of EU digital infrastructure from outside EU
+        kind: numerical_with_unit
+        value: "approximately 80%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "approximately 80% of Europe's current digital infrastructure originates outside the EU"
+      - claim: named institution — Google
+        kind: named_institution
+        value: Google
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "dominated by US firms including Google, Microsoft, and Apple"
+      - claim: named institution — Microsoft
+        kind: named_institution
+        value: Microsoft
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "dominated by US firms including Google, Microsoft, and Apple"
+      - claim: named institution — Apple
+        kind: named_institution
+        value: Apple
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "dominated by US firms including Google, Microsoft, and Apple"
+      - claim: named institution — Alibaba
+        kind: named_institution
+        value: Alibaba
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "and Chinese companies including Alibaba and ByteDance"
+      - claim: named institution — ByteDance
+        kind: named_institution
+        value: ByteDance
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "and Chinese companies including Alibaba and ByteDance"
+      - claim: EU-controlled infra support — Sweden
+        kind: numerical_with_unit
+        value: "94%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "Support for EU-controlled digital infrastructure is highest in Sweden (94%)"
+      - claim: EU-controlled infra support — Finland
+        kind: numerical_with_unit
+        value: "93%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "Finland (93%), and Denmark (92%)"
+      - claim: EU-controlled infra support — Denmark
+        kind: numerical_with_unit
+        value: "92%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "Finland (93%), and Denmark (92%)"
+      - claim: desire to reduce non-EU tech dependence — Sweden
+        kind: numerical_with_unit
+        value: "88%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "Desire to reduce dependence on non-EU technology is strongest in Sweden (88%)"
+      - claim: desire to reduce non-EU tech dependence — Germany/Denmark/Finland/Luxembourg
+        kind: numerical_with_unit
+        value: "87%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "in Germany, Denmark, Finland, and Luxembourg (87% each)"
+      - claim: willingness to switch to EU providers — Denmark
+        kind: numerical_with_unit
+        value: "76%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "Denmark leads at 76%, followed by Sweden and Croatia at 73%"
+      - claim: willingness to switch to EU providers — Sweden/Croatia
+        kind: numerical_with_unit
+        value: "73%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "followed by Sweden and Croatia at 73%"
+      - claim: willingness to switch to EU providers — Estonia (lowest)
+        kind: numerical_with_unit
+        value: "35%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "Estonia shows the lowest willingness at 35%"
+      - claim: named person — Johan Linåker
+        kind: named_person
+        value: Johan Linåker
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "Johan Linåker, senior researcher at Sweden's RISE institute and adjunct assistant professor at Lund University"
+      - claim: named institution — RISE institute (Sweden)
+        kind: named_institution
+        value: RISE institute
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "senior researcher at Sweden's RISE institute"
+      - claim: named institution — Lund University
+        kind: named_institution
+        value: Lund University
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "adjunct assistant professor at Lund University"
+      - claim: named product — Chips Act 2.0
+        kind: named_product
+        value: Chips Act 2.0
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "the Chips Act 2.0 and the Cloud and AI Development Act proposed in June 2026"
+      - claim: named product — Cloud and AI Development Act
+        kind: named_product
+        value: Cloud and AI Development Act
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "the Cloud and AI Development Act proposed in June 2026"
+      - claim: Tech Sovereignty Package semiconductor investment target
+        kind: numerical_with_unit
+        value: "€120 billion"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "targeting €120 billion in semiconductor investment and €200 billion in data centre capacity by 2036"
+      - claim: Tech Sovereignty Package data centre capacity target
+        kind: numerical_with_unit
+        value: "€200 billion"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "€200 billion in data centre capacity by 2036"
+      - claim: Tech Sovereignty Package target year
+        kind: temporal
+        value: "2036"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+        verbatim_excerpt: "€200 billion in data centre capacity by 2036"
+    quotes: []
+
+  - story_id: france-ebola-imported-case-bundibugyo-drc
+    category: society
+    headline_en: France Confirms Europe's First Imported Ebola Case in Returning Humanitarian Doctor, Risk to EU Assessed as Very Low
+    lead_url: https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+    body_source: full
+    corroborated_by:
+      - https://www.france24.com/en/france/20260624-france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo-mission
+      - https://www.euronews.com/health/2026/06/24/first-ebola-case-confirmed-in-france-health-ministry-says
+      - https://health.ec.europa.eu/health-security-and-infectious-diseases/crisis-management/ebola-virus-outbreak-2026_en
+    locked_urls:
+      - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+      - https://www.france24.com/en/france/20260624-france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo-mission
+      - https://www.euronews.com/health/2026/06/24/first-ebola-case-confirmed-in-france-health-ministry-says
+      - https://health.ec.europa.eu/health-security-and-infectious-diseases/crisis-management/ebola-virus-outbreak-2026_en
+    hard_facts:
+      - claim: confirmation date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "France's health ministry confirmed on 24 June 2026 the country's first case of Ebola virus disease"
+      - claim: named institution — France health ministry
+        kind: named_institution
+        value: France's health ministry
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "France's health ministry confirmed on 24 June 2026"
+      - claim: patient's profession
+        kind: named_person
+        value: humanitarian doctor
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "a humanitarian doctor who had recently returned from a mission in the Democratic Republic of Congo"
+      - claim: origin country of patient's mission
+        kind: named_institution
+        value: Democratic Republic of Congo
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "returned from a mission in the Democratic Republic of Congo"
+      - claim: contact monitoring duration
+        kind: temporal
+        value: 21 days
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "contacts, who will undergo 21 days of home isolation monitoring"
+      - claim: named product — Bundibugyo ebolavirus
+        kind: named_product
+        value: Bundibugyo ebolavirus
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "linked to the ongoing Ebola outbreak caused by the Bundibugyo ebolavirus"
+      - claim: WHO PHEIC declaration date for Bundibugyo outbreak
+        kind: temporal
+        value: 16 May 2026
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "the WHO declared a Public Health Emergency of International Concern on 16 May 2026"
+      - claim: named institution — WHO
+        kind: named_institution
+        value: WHO
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "the WHO declared a Public Health Emergency of International Concern on 16 May 2026"
+      - claim: DRC confirmed cases as of 21 June 2026
+        kind: numerical_with_unit
+        value: "1,048 confirmed cases"
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "the DRC Ministry of Health had reported 1,048 confirmed cases"
+      - claim: DRC confirmed deaths as of 21 June 2026
+        kind: numerical_with_unit
+        value: "267 confirmed deaths"
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "1,048 confirmed cases including 267 confirmed deaths"
+      - claim: persons hospitalised in isolation
+        kind: numerical_with_unit
+        value: "371 persons hospitalised"
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "with 371 persons hospitalised in isolation"
+      - claim: DRC data reference date
+        kind: temporal
+        value: 21 June 2026
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "As of 21 June 2026, the DRC Ministry of Health had reported"
+      - claim: named institution — DRC Ministry of Health
+        kind: named_institution
+        value: DRC Ministry of Health
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "the DRC Ministry of Health had reported 1,048 confirmed cases"
+      - claim: named institution — ECDC
+        kind: named_institution
+        value: ECDC
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "The ECDC assessed the infection risk for people living in the EU/EEA as \"low\""
+      - claim: ECDC risk assessment for EU/EEA
+        kind: named_institution
+        value: low
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "The ECDC assessed the infection risk for people living in the EU/EEA as \"low,\" and \"very low\" for the general European population"
+      - claim: EU humanitarian response funding — Great Lakes region 2026
+        kind: numerical_with_unit
+        value: "€81.2 million"
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "The EU has provided €81.2 million in humanitarian response funding for the Great Lakes region in 2026"
+      - claim: named person — Pamela Rendi-Wagner (ECDC Director)
+        kind: named_person
+        value: Pamela Rendi-Wagner
+        source_urls:
+          - https://abcnews.com/International/france-confirms-1st-ebola-case-linked-outbreak-drc/story?id=134160026
+        verbatim_excerpt: "ECDC Director Pamela Rendi-Wagner (prior statement)"
+    quotes: []
+
+  - story_id: europe-heatwave-2026-france-hottest-day-history
+    category: society
+    headline_en: "Europe's Worst Heatwave of 2026: France Records Hottest Day in History, 40 Deaths From Drowning, Red Alerts Across Continent"
+    lead_url: https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+    body_source: full
+    corroborated_by:
+      - https://www.euronews.com/my-europe/2026/06/24/heatwave-and-wildfire-alerts-power-cuts-in-finistere-france-swelters
+      - https://www.cnn.com/2026/06/24/weather/live-news/europe-heatwave-temperatures-news
+    locked_urls:
+      - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+      - https://www.euronews.com/my-europe/2026/06/24/heatwave-and-wildfire-alerts-power-cuts-in-finistere-france-swelters
+      - https://www.cnn.com/2026/06/24/weather/live-news/europe-heatwave-temperatures-news
+    hard_facts:
+      - claim: France national average temperature on 23 June
+        kind: numerical_with_unit
+        value: "29.8°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "a national average temperature of 29.8°C on 23 June"
+      - claim: forecast peak temperatures — western France on 24 June
+        kind: numerical_with_unit
+        value: "40–45°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "forecast peaks of 40–45°C across western France on 24 June"
+      - claim: La Rochelle temperature at 5 a.m.
+        kind: numerical_with_unit
+        value: "29°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "At 5 a.m., La Rochelle registered 29°C"
+      - claim: Paris temperature at 5 a.m.
+        kind: numerical_with_unit
+        value: "27°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Paris 27°C, and Dieppe 26°C"
+      - claim: Dieppe temperature at 5 a.m.
+        kind: numerical_with_unit
+        value: "26°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Paris 27°C, and Dieppe 26°C"
+      - claim: named institution — Météo-France
+        kind: named_institution
+        value: Météo-France
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Météo-France warned that \"all-time records for any month are likely to fall.\""
+      - claim: French départements on red alert
+        kind: numerical_with_unit
+        value: "Fifty-eight French départements"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Fifty-eight French départements are on red alert"
+      - claim: French départements on orange alert
+        kind: numerical
+        value: "31"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "31 on orange alert, and 35 on heightened wildfire alert"
+      - claim: French départements on wildfire alert
+        kind: numerical
+        value: "35"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "35 on heightened wildfire alert"
+      - claim: drowning deaths in France since 18 June
+        kind: numerical
+        value: "Forty"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Forty people have drowned in France since 18 June 2026"
+      - claim: drowning deaths start date
+        kind: temporal
+        value: 18 June 2026
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Forty people have drowned in France since 18 June 2026"
+      - claim: child victims ages
+        kind: numerical_with_unit
+        value: "two and four"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "including two children aged two and four"
+      - claim: Finistère households losing power
+        kind: numerical_with_unit
+        value: "68,000 households"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "In Finistère, 68,000 households lost power"
+      - claim: wildfire firefighters — Lot-et-Garonne
+        kind: numerical_with_unit
+        value: "180 firefighters"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-speed-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "180 firefighters, 80 vehicles, two Canadair aircraft, and three Dash planes"
+      - claim: wildfire vehicles — Lot-et-Garonne
+        kind: numerical_with_unit
+        value: "80 vehicles"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "180 firefighters, 80 vehicles, two Canadair aircraft, and three Dash planes"
+      - claim: wildfire aircraft — Canadair
+        kind: numerical_with_unit
+        value: "two Canadair aircraft"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "two Canadair aircraft, and three Dash planes"
+      - claim: wildfire aircraft — Dash
+        kind: numerical_with_unit
+        value: "three Dash planes"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "two Canadair aircraft, and three Dash planes"
+      - claim: UK schools closed on 24 June
+        kind: temporal
+        value: 24 June
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "In the United Kingdom, hundreds of schools closed on 24 June"
+      - claim: named institution — Met Office
+        kind: named_institution
+        value: Met Office
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "the Met Office issued Red Extreme Heat Warnings"
+      - claim: London forecast high
+        kind: numerical_with_unit
+        value: "39°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "forecast highs of 39°C in London and 35°C in southeast Wales"
+      - claim: southeast Wales forecast high
+        kind: numerical_with_unit
+        value: "35°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "forecast highs of 39°C in London and 35°C in southeast Wales"
+      - claim: Italy — cities on red alert count
+        kind: numerical_with_unit
+        value: "16 cities"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Italy placed 16 cities on red alert including Milan, Rome, Turin, Venice, and Bologna"
+      - claim: Spain Andalusia temperature earlier in the week
+        kind: numerical_with_unit
+        value: "44°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Spain's Andalusia recorded 44°C earlier in the week"
+      - claim: climate change contribution to heatwave temperature excess
+        kind: numerical_with_unit
+        value: "2.4–4°C hotter"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Scientists attributed human-caused climate change as making this heatwave 2.4–4°C hotter"
+      - claim: Europe warming rate versus global average
+        kind: numerical_with_unit
+        value: "twice as fast as the global average"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        verbatim_excerpt: "Europe warms twice as fast as the global average since the 1980s"
+    quotes:
+      - speaker_name: Météo-France
+        speaker_title: French national meteorological service
+        verbatim_en: "all-time records for any month are likely to fall."
+        source_url: https://www.euronews.com/2026/06/24/red-heatwave-alerts-spread-across-europe-with-hottest-day-ever-in-france-and-40-deaths-fro
+        context: warning issued 24 June 2026 during heatwave
+
+  - story_id: brexit-10yr-etias-travel-confusion-uk
+    category: society
+    headline_en: Ten Years After Brexit — Confusion Over EU Travel Rules Remains Widespread as ETIAS Launch Approaches
+    lead_url: https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+    hard_facts:
+      - claim: Brexit referendum anniversary
+        kind: temporal
+        value: 24 June 2026 (tenth anniversary)
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "On 24 June 2026, the tenth anniversary of the Brexit referendum"
+      - claim: UK travellers not understanding ETIAS — percentage
+        kind: numerical_with_unit
+        value: "73%"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "Nearly three-quarters (73%) of UK travellers do not understand how the European Travel Information and Authorisation System (ETIAS) will work"
+      - claim: named product — ETIAS
+        kind: named_product
+        value: European Travel Information and Authorisation System (ETIAS)
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "the European Travel Information and Authorisation System (ETIAS) will work"
+      - claim: ETIAS expected launch
+        kind: temporal
+        value: last quarter of 2026
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "ETIAS is expected to launch in the last quarter of 2026"
+      - claim: ETIAS fee
+        kind: numerical_with_unit
+        value: "€20 per adult"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "will require UK nationals to pay €20 per adult for a travel authorisation"
+      - claim: UK travellers not understanding passport validity requirements
+        kind: numerical_with_unit
+        value: "44%"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "Almost half (44%) of UK travellers surveyed do not understand passport validity requirements"
+      - claim: UK travellers reporting problems (cancelled trips etc)
+        kind: numerical_with_unit
+        value: "One in four"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "One in four UK travellers reported experiencing problems including cancelled trips and being denied boarding"
+      - claim: UK travellers very concerned about EES delays
+        kind: numerical_with_unit
+        value: "23%"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "More than one in five (23%) UK travellers said they are \"very concerned\" about delays linked to the new Entry/Exit System (EES)"
+      - claim: named product — Entry/Exit System (EES)
+        kind: named_product
+        value: Entry/Exit System (EES)
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "the new Entry/Exit System (EES) biometric data collection at borders"
+      - claim: Global Health Insurance Cards expiring in 2026
+        kind: numerical_with_unit
+        value: "Over 2 million"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "Over 2 million Global Health Insurance Cards (GHICs) are due to expire in 2026"
+      - claim: named product — Global Health Insurance Card (GHIC)
+        kind: named_product
+        value: Global Health Insurance Cards (GHICs)
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "Over 2 million Global Health Insurance Cards (GHICs) are due to expire in 2026"
+      - claim: Gibraltar border fence removal date
+        kind: temporal
+        value: 15 July 2026
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "Gibraltar's border fence removal takes effect 15 July 2026"
+      - claim: YouGov poll — Britons considering Brexit a mistake
+        kind: numerical_with_unit
+        value: "57%"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "A June 2026 YouGov poll found 57% of Britons now consider Brexit a mistake"
+      - claim: YouGov poll — Brexit right decision
+        kind: numerical_with_unit
+        value: "30%"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "versus 30% who believe it was the right decision"
+      - claim: YouGov poll date
+        kind: temporal
+        value: June 2026
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "A June 2026 YouGov poll found 57% of Britons"
+      - claim: Ipsos poll — support for rejoining EU
+        kind: numerical_with_unit
+        value: "52%"
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "An Ipsos poll found 52% support applying to rejoin the EU"
+      - claim: named institution — YouGov
+        kind: named_institution
+        value: YouGov
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "A June 2026 YouGov poll"
+      - claim: named institution — Ipsos
+        kind: named_institution
+        value: Ipsos
+        source_urls:
+          - https://www.euronews.com/travel/2026/06/24/ten-years-after-brexit-travel-rules-confusion-remains-widespread
+        verbatim_excerpt: "An Ipsos poll found 52% support applying to rejoin the EU"
+    quotes: []
+
+  - story_id: knds-ipo-paris-frankfurt-40pct-germany-stake
+    category: ipo_ma
+    headline_en: Tank Maker KNDS Plans Paris and Frankfurt Stock Listing at Up to €20bn Valuation, Germany to Take 40% Stake
+    lead_url: https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+    body_source: full
+    corroborated_by:
+      - https://www.wionews.com/world/germany-cancels-six-f126-frigates-after-delays-plans-shift-to-smaller-warships-1782292012007
+    locked_urls:
+      - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+      - https://www.wionews.com/world/germany-cancels-six-f126-frigates-after-delays-plans-shift-to-smaller-warships-1782292012007
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "KNDS, the Franco-German land defence company headquartered in the Netherlands and maker of the Leclerc and Leopard 2 family of armoured vehicles, announced on 24 June 2026"
+      - claim: named institution — KNDS
+        kind: named_institution
+        value: KNDS
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "KNDS, the Franco-German land defence company headquartered in the Netherlands"
+      - claim: named product — Leclerc (tank)
+        kind: named_product
+        value: Leclerc
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "maker of the Leclerc and Leopard 2 family of armoured vehicles"
+      - claim: named product — Leopard 2
+        kind: named_product
+        value: Leopard 2
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "maker of the Leclerc and Leopard 2 family of armoured vehicles"
+      - claim: listing stock exchanges
+        kind: named_institution
+        value: Paris and Frankfurt stock exchanges
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "plans to list shares on the Paris and Frankfurt stock exchanges"
+      - claim: shares sold by existing shareholders
+        kind: numerical_with_unit
+        value: "approximately 20%"
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "Existing shareholders — Giat Industries (French state-owned) and Wegmann & Co (German family) — will together sell approximately 20% of the company"
+      - claim: named institution — Giat Industries
+        kind: named_institution
+        value: Giat Industries
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "Giat Industries (French state-owned)"
+      - claim: named institution — Wegmann & Co
+        kind: named_institution
+        value: Wegmann & Co
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "Wegmann & Co (German family)"
+      - claim: Germany stake to be acquired
+        kind: numerical_with_unit
+        value: "40%"
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "the Federal Republic of Germany agreed with Wegmann to acquire a 40% stake"
+      - claim: named institution — KfW
+        kind: named_institution
+        value: Kreditanstalt für Wiederaufbau (KfW)
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "through state lender Kreditanstalt für Wiederaufbau (KfW)"
+      - claim: lockup period for anchor shareholders
+        kind: temporal
+        value: 10-year lockup
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "Both anchor shareholders will be subject to a 10-year lockup"
+      - claim: loyalty share plan holding period for double voting rights
+        kind: temporal
+        value: at least two years
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "a loyalty share plan granting double voting rights to shares held for at least two years"
+      - claim: KNDS 2025 revenue
+        kind: numerical_with_unit
+        value: "€4.4 billion"
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "KNDS reported 2025 revenue of €4.4 billion ($5 billion)"
+      - claim: KNDS 2025 revenue (USD equivalent)
+        kind: numerical_with_unit
+        value: "$5 billion"
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "KNDS reported 2025 revenue of €4.4 billion ($5 billion)"
+      - claim: KNDS 2025 operating profit
+        kind: numerical_with_unit
+        value: "€661 million"
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "operating profit of €661 million"
+      - claim: KNDS order backlog (December 2025)
+        kind: numerical_with_unit
+        value: "€33.1 billion"
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "a record order backlog of €33.1 billion as of December 2025"
+      - claim: KNDS backlog reference date
+        kind: temporal
+        value: December 2025
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "a record order backlog of €33.1 billion as of December 2025"
+      - claim: KNDS 2026 revenue growth target
+        kind: numerical_with_unit
+        value: "approximately 30%"
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "targets approximately 30% revenue growth in 2026"
+      - claim: anticipated IPO valuation
+        kind: numerical_with_unit
+        value: "€20 billion (~$23 billion)"
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "Analysts anticipate an IPO valuation as high as €20 billion (~$23 billion)"
+      - claim: named person — Jean-Paul Alary (KNDS CEO)
+        kind: named_person
+        value: Jean-Paul Alary
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "CEO Jean-Paul Alary"
+      - claim: named person — Tom Enders (KNDS Chairman)
+        kind: named_person
+        value: Tom Enders
+        source_urls:
+          - https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        verbatim_excerpt: "Chairman Tom Enders"
+    quotes:
+      - speaker_name: Jean-Paul Alary
+        speaker_title: CEO, KNDS
+        verbatim_en: "The planned IPO is a natural next step for KNDS. It will increase our strategic agility."
+        source_url: https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        context: KNDS IPO announcement, 24 June 2026
+      - speaker_name: Tom Enders
+        speaker_title: Chairman, KNDS
+        verbatim_en: "Germany's intention to invest alongside the French State is a strong signal of confidence in KNDS."
+        source_url: https://www.defensenews.com/global/europe/2026/06/24/tank-maker-knds-plans-stock-market-listing-germany-to-buy-40-stake/
+        context: KNDS IPO announcement, 24 June 2026
+
+  - story_id: unicredit-ceo-ecb-control-commerzbank-425pct
+    category: ipo_ma
+    headline_en: UniCredit CEO Says ECB Likely to Declare Control of Commerzbank After 42.5% Stake; Capital Costs Loom
+    lead_url: https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+    body_source: full
+    corroborated_by:
+      - https://www.globalbankingandfinance.com/unicredit-ceo-ecb-likely-declare-control-commerzbank-given/
+      - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+    locked_urls:
+      - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+      - https://www.globalbankingandfinance.com/unicredit-ceo-ecb-likely-declare-control-commerzbank-given/
+      - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+    hard_facts:
+      - claim: statement date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "UniCredit CEO Andrea Orcel stated on 24 June 2026"
+      - claim: named person — Andrea Orcel (UniCredit CEO)
+        kind: named_person
+        value: Andrea Orcel
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "UniCredit CEO Andrea Orcel stated on 24 June 2026"
+      - claim: named institution — UniCredit
+        kind: named_institution
+        value: UniCredit
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "UniCredit CEO Andrea Orcel"
+      - claim: named institution — Commerzbank
+        kind: named_institution
+        value: Commerzbank
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "UniCredit's total stake in Commerzbank to 42.5%"
+      - claim: exchange offer conclusion date
+        kind: temporal
+        value: 16 June
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "UniCredit's voluntary exchange offer that concluded 16 June"
+      - claim: exchange offer take-up percentage
+        kind: numerical_with_unit
+        value: "12.5% take-up"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "concluded 16 June with 12.5% take-up"
+      - claim: UniCredit total stake in Commerzbank
+        kind: numerical_with_unit
+        value: "42.5%"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "raising UniCredit's total stake in Commerzbank to 42.5%"
+      - claim: capital cost penalty under minority holding rules
+        kind: numerical_with_unit
+        value: "40% more in core capital"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "merging accounts with Commerzbank without majority ownership would cost UniCredit 40% more in core capital"
+      - claim: ECB ruling expected timeline
+        kind: temporal
+        value: three to six months after 3 July 2026
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "Orcel expects the ECB to deliver its final ruling on control status and capital requirements three to six months after 3 July 2026"
+      - claim: extended acceptance period start
+        kind: temporal
+        value: 20 June
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "The extended acceptance period for the offer runs from 20 June to 3 July 2026"
+      - claim: extended acceptance period end
+        kind: temporal
+        value: 3 July 2026
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "from 20 June to 3 July 2026, with the final result published 8 July"
+      - claim: final result publication date
+        kind: temporal
+        value: 8 July
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "with the final result published 8 July"
+      - claim: Germany's rejection of UniCredit binding offer — value
+        kind: numerical_with_unit
+        value: "€39 billion"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "Germany formally rejected UniCredit's €39 billion binding offer"
+      - claim: institutional investor participation (Commerzbank's claim)
+        kind: numerical_with_unit
+        value: "approximately 1%"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "claiming only approximately 1% came from such investors"
+      - claim: expected closing year
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "UniCredit has stated closing is not expected until 2027"
+      - claim: Commerzbank share price on 24 June 2026
+        kind: numerical_with_unit
+        value: "€37.79"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "Commerzbank shares closed at €37.79 on 24 June 2026"
+      - claim: premium to UniCredit bid implied price
+        kind: numerical_with_unit
+        value: "11% premium"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "an 11% premium to the €34 level implied by UniCredit's bid"
+      - claim: UniCredit bid ratio
+        kind: numerical_with_unit
+        value: "0.485 UniCredit shares per Commerzbank share"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "UniCredit's bid of 0.485 UniCredit shares per Commerzbank share"
+      - claim: UniCredit bid implied Commerzbank price
+        kind: numerical_with_unit
+        value: "€34"
+        source_urls:
+          - https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        verbatim_excerpt: "an 11% premium to the €34 level implied by UniCredit's bid"
+    quotes:
+      - speaker_name: Andrea Orcel
+        speaker_title: CEO, UniCredit
+        verbatim_en: "At the moment it is a lot more probable that we end up with what the ECB would call control than not."
+        source_url: https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        context: public statement, 24 June 2026
+      - speaker_name: Andrea Orcel
+        speaker_title: CEO, UniCredit
+        verbatim_en: "We never launched this offer to go to control. Now we are in a situation where we might."
+        source_url: https://www.rte.ie/news/business/2026/0624/1580057-unicredit-commerzbank-deal/
+        context: public statement, 24 June 2026
+
+  - story_id: germany-cancels-f126-frigates-knds-rheinmetall-drop
+    category: other
+    headline_en: "Germany Cancels Six F126 Super-Frigates After €2.3bn Spent, Orders Smaller TKMS Warships; Rheinmetall Shares Drop 13%"
+    lead_url: https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-24/germany-said-to-retreat-from-troubled-frigate-plan-after-delays
+    locked_urls:
+      - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+      - https://www.bloomberg.com/news/articles/2026-06-24/germany-said-to-retreat-from-troubled-frigate-plan-after-delays
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "German Defence Minister Boris Pistorius (SPD) announced on 24 June 2026 the cancellation of the F126 programme"
+      - claim: named person — Boris Pistorius (German Defence Minister)
+        kind: named_person
+        value: Boris Pistorius
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "German Defence Minister Boris Pistorius (SPD)"
+      - claim: named product — F126 programme
+        kind: named_product
+        value: F126
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "announced on 24 June 2026 the cancellation of the F126 programme"
+      - claim: number of F126 super-frigates planned
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "a plan for six super-frigates"
+      - claim: amount already spent on F126
+        kind: numerical_with_unit
+        value: "€2.3 billion"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "Approximately €2.3 billion had already been spent on the programme"
+      - claim: projected total cost if continued
+        kind: numerical_with_unit
+        value: "above €18 billion"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "Continuing would have pushed total costs above €18 billion"
+      - claim: original F126 programme value
+        kind: numerical_with_unit
+        value: "approximately €10 billion"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "against an original programme value of approximately €10 billion for six vessels"
+      - claim: named institution — TKMS
+        kind: named_institution
+        value: TKMS
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "Berlin awarded contracts to TKMS for eight smaller MEKO A-200-class frigates"
+      - claim: replacement order — number of MEKO A-200 frigates
+        kind: numerical_with_unit
+        value: "eight"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "awarded contracts to TKMS for eight smaller MEKO A-200-class frigates"
+      - claim: named product — MEKO A-200-class frigates
+        kind: named_product
+        value: MEKO A-200-class
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "TKMS for eight smaller MEKO A-200-class frigates"
+      - claim: original TKMS order date
+        kind: temporal
+        value: March 2026
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "extending an original March 2026 order for four vessels"
+      - claim: MEKO A-200 length
+        kind: numerical_with_unit
+        value: "approximately 120 metres"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "The MEKO A-200 measures approximately 120 metres in length"
+      - claim: MEKO A-200 displacement
+        kind: numerical_with_unit
+        value: "4,200-tonne displacement"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "approximately 120 metres in length with 4,200-tonne displacement"
+      - claim: F126 planned length
+        kind: numerical_with_unit
+        value: "166 metres"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "compared with the F126's planned 166 metres and 10,500-tonne displacement"
+      - claim: F126 planned displacement
+        kind: numerical_with_unit
+        value: "10,500-tonne displacement"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "the F126's planned 166 metres and 10,500-tonne displacement"
+      - claim: Rheinmetall share decline
+        kind: numerical_with_unit
+        value: "13%"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "Rheinmetall shares fell as much as 13% on the news"
+      - claim: TKMS share gain
+        kind: numerical_with_unit
+        value: "approximately 10%"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "while TKMS shares rose approximately 10% in early trading"
+      - claim: F126 programme originator
+        kind: named_person
+        value: Ursula von der Leyen
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "The F126 programme was originally launched by former defence minister Ursula von der Leyen (CDU)"
+      - claim: German military spending increase 2024-2025
+        kind: numerical_with_unit
+        value: "24%"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "German military spending overall rose 24% to €114 billion between 2024 and 2025"
+      - claim: German military spending total 2025
+        kind: numerical_with_unit
+        value: "€114 billion"
+        source_urls:
+          - https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        verbatim_excerpt: "German military spending overall rose 24% to €114 billion between 2024 and 2025"
+    quotes:
+      - speaker_name: Boris Pistorius
+        speaker_title: Federal Minister of Defence, Germany (SPD)
+        verbatim_en: "significant delays, foreseeable cost increases, and other risks."
+        source_url: https://euronews.com/business/2026/06/24/2-billion-down-the-drain-german-defence-minister-cancels-worlds-largest-frigate
+        context: press statement announcing F126 cancellation, 24 June 2026
+
+  - story_id: deutsche-bahn-gsm-r-failure-halts-trains-2-5hrs
+    category: other
+    headline_en: Deutsche Bahn GSM-R Radio Failure Halts All German Trains for 2.5 Hours, Thousands of Passengers Stranded
+    lead_url: https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+    body_source: full
+    corroborated_by:
+      - https://abcnews.com/Business/wireStory/trains-halted-germany-communication-system-problem-134148113
+      - https://www.pbs.org/newshour/world/trains-across-germany-halted-for-hours-by-communication-system-outage
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+      - https://abcnews.com/Business/wireStory/trains-halted-germany-communication-system-problem-134148113
+      - https://www.pbs.org/newshour/world/trains-across-germany-halted-for-hours-by-communication-system-outage
+    hard_facts:
+      - claim: failure date and time
+        kind: temporal
+        value: 23 June 2026, approximately 21:59 local time
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "Germany's national railway network came to a complete standstill late on 23 June 2026 (approximately 21:59 local time)"
+      - claim: named product — GSM-R (Global System for Mobile Communications–Railway)
+        kind: named_product
+        value: GSM-R (Global System for Mobile Communications–Railway)
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "a failure in the GSM-R (Global System for Mobile Communications–Railway) digital radio system"
+      - claim: named institution — Deutsche Bahn
+        kind: named_institution
+        value: Deutsche Bahn
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "Deutsche Bahn provided taxi and hotel vouchers to affected passengers"
+      - claim: service resumption time
+        kind: temporal
+        value: shortly before 1 a.m.
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "service resumed \"step by step\" shortly before 1 a.m."
+      - claim: outage duration
+        kind: temporal
+        value: approximately 2.5 hours
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "approximately 2.5 hours after the initial failure"
+      - claim: named person — Evelyn Palla (Deutsche Bahn CEO)
+        kind: named_person
+        value: Evelyn Palla
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "CEO Evelyn Palla stated the company \"was able to stabilise the situation with an emergency system\""
+      - claim: Deutsche Bahn daily passengers
+        kind: numerical_with_unit
+        value: "approximately 5 million passengers per day"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "Deutsche Bahn serves approximately 5 million passengers per day"
+      - claim: affected hubs — Hamburg
+        kind: named_institution
+        value: Hamburg
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "Thousands of passengers were stranded at major hubs including Hamburg, Augsburg, Gelsenkirchen, and Erfurt"
+      - claim: affected hubs — Augsburg
+        kind: named_institution
+        value: Augsburg
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "Hamburg, Augsburg, Gelsenkirchen, and Erfurt"
+      - claim: affected hubs — Gelsenkirchen
+        kind: named_institution
+        value: Gelsenkirchen
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "Hamburg, Augsburg, Gelsenkirchen, and Erfurt"
+      - claim: affected hubs — Erfurt
+        kind: named_institution
+        value: Erfurt
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "Hamburg, Augsburg, Gelsenkirchen, and Erfurt"
+      - claim: article publication date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        verbatim_excerpt: "The Euronews article covering the aftermath and context of the disruption was published on 24 June 2026"
+    quotes:
+      - speaker_name: Evelyn Palla
+        speaker_title: CEO, Deutsche Bahn
+        verbatim_en: "was able to stabilise the situation with an emergency system,"
+        source_url: https://www.euronews.com/my-europe/2026/06/24/technical-malfunction-with-communications-sytem-temporarily-halts-entire-german-railway-ne
+        context: statement following GSM-R outage on 23 June 2026
+
+
 
