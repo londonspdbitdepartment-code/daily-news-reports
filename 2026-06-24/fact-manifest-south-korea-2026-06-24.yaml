@@ -1,0 +1,988 @@
+version: 1
+generated_at: "2026-06-24T12:00:00Z"
+country: South Korea
+date: "2026-06-24"
+total_stories: 16
+stories:
+  - story_id: korea-missed-msci-watchlist-again
+    category: econ
+    headline_en: Why Korea missed MSCI watchlist again
+    lead_url: https://www.koreaherald.com/article/10786876
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786876
+    hard_facts:
+      - claim: MSCI exclusion from developed market watchlist
+        kind: named_institution
+        value: MSCI
+        source_urls: [https://www.koreaherald.com/article/10786876]
+        verbatim_excerpt: "South Korea was again excluded from MSCI's watchlist for potential upgrade to developed market status"
+      - claim: KOSPI historic decline date
+        kind: temporal
+        value: June 23
+        source_urls: [https://www.koreaherald.com/article/10786876]
+        verbatim_excerpt: "the KOSPI suffered a historic crash the previous day (June 23"
+      - claim: KOSPI decline percentage on Black Tuesday
+        kind: numerical_with_unit
+        value: "-9.99%"
+        source_urls: [https://www.koreaherald.com/article/10786876]
+        verbatim_excerpt: "historic crash the previous day (June 23, \"Black Tuesday,\" -9.99%)"
+      - claim: Korea Herald byline author
+        kind: named_person
+        value: Choi Ji-won
+        source_urls: [https://www.koreaherald.com/article/10786876]
+        verbatim_excerpt: "Korea Herald, byline Choi Ji-won, 2026-06-24 15:13 KST"
+    quotes: []
+
+  - story_id: kospi-rebounds-3-26-pct-bargain-hunting
+    category: econ
+    headline_en: Kospi rebounds 3.26% in volatile trading on bargain hunting
+    lead_url: https://www.koreaherald.com/article/10787002
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10787002
+    hard_facts:
+      - claim: KOSPI closing gain in points on June 24
+        kind: numerical_with_unit
+        value: "267.18 points"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "The KOSPI closed up 267.18 points (+3.26%) at 8,471.02 on June 24, 2026"
+      - claim: KOSPI closing gain in percentage on June 24
+        kind: numerical_with_unit
+        value: "+3.26%"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "The KOSPI closed up 267.18 points (+3.26%) at 8,471.02 on June 24, 2026"
+      - claim: KOSPI closing index level on June 24
+        kind: numerical_with_unit
+        value: "8,471.02"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "The KOSPI closed up 267.18 points (+3.26%) at 8,471.02 on June 24, 2026"
+      - claim: date of KOSPI rebound
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "The KOSPI closed up 267.18 points (+3.26%) at 8,471.02 on June 24, 2026"
+      - claim: previous session KOSPI decline
+        kind: numerical_with_unit
+        value: "-9.99%"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "recovering a portion of the previous session's historic -9.99% decline (Black Tuesday)"
+      - claim: trading volume in shares
+        kind: numerical_with_unit
+        value: "413.4 million shares"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "Trading volume was 413.4 million shares worth 53.78 trillion won"
+      - claim: trading volume in won
+        kind: numerical_with_unit
+        value: "53.78 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "Trading volume was 413.4 million shares worth 53.78 trillion won"
+      - claim: Samsung Electronics share price on June 24
+        kind: numerical_with_unit
+        value: "340,500 won"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "Samsung Electronics surged 9.84% to 340,500 won"
+      - claim: Samsung Electronics share price gain on June 24
+        kind: numerical_with_unit
+        value: "9.84%"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "Samsung Electronics surged 9.84% to 340,500 won"
+      - claim: named institution Samsung Electronics
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "Samsung Electronics surged 9.84% to 340,500 won"
+      - claim: SK hynix share price on June 24
+        kind: numerical_with_unit
+        value: "2,580,000 won"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "SK hynix rose 0.98% to 2,580,000 won"
+      - claim: SK hynix share price gain on June 24
+        kind: numerical_with_unit
+        value: "0.98%"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "SK hynix rose 0.98% to 2,580,000 won"
+      - claim: named institution SK hynix
+        kind: named_institution
+        value: SK hynix
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "SK hynix rose 0.98% to 2,580,000 won"
+      - claim: Korean won exchange rate vs USD on June 24
+        kind: numerical_with_unit
+        value: "1,541.8 per US dollar"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "The Korean won stood at 1,541.8 per US dollar"
+      - claim: foreign investor net selling on June 24
+        kind: numerical_with_unit
+        value: "4.66 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "Foreign investors were net sellers of 4.66 trillion won worth of shares"
+      - claim: retail investor net buying on June 24
+        kind: numerical_with_unit
+        value: "2.63 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "while retail investors net bought 2.63 trillion won"
+      - claim: analyst who commented on KOSPI rebound
+        kind: named_person
+        value: Lee Kyung-min
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "Analyst Lee Kyung-min at Daeshin Securities commented"
+      - claim: institution of commenting analyst
+        kind: named_institution
+        value: Daeshin Securities
+        source_urls: [https://www.koreaherald.com/article/10787002]
+        verbatim_excerpt: "Analyst Lee Kyung-min at Daeshin Securities commented"
+    quotes:
+      - speaker_name: Lee Kyung-min
+        speaker_title: Analyst, Daeshin Securities
+        verbatim_en: "The Kospi turned higher on bargain hunting following the previous day's steep decline."
+        source_url: https://www.koreaherald.com/article/10787002
+        context: analyst comment on June 24 KOSPI rebound
+
+  - story_id: samsung-financial-affiliates-top-w100tr
+    category: econ
+    headline_en: Samsung financial affiliates top W100tr in capital for first time
+    lead_url: https://www.koreaherald.com/article/10787026
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10787026
+    hard_facts:
+      - claim: Samsung Group financial affiliates combined capital
+        kind: numerical_with_unit
+        value: "100.5 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "collectively surpassed 100 trillion won in combined capital for the first time, reaching 100.5 trillion won"
+      - claim: data reference period for Samsung capital milestone
+        kind: temporal
+        value: end-2025
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "reaching 100.5 trillion won as of end-2025 data"
+      - claim: prior Samsung Group financial affiliates combined capital
+        kind: numerical_with_unit
+        value: "69.5 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "up from 69.5 trillion won"
+      - claim: named institution Samsung Life
+        kind: named_institution
+        value: Samsung Life
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Samsung Group's financial affiliates — including Samsung Life, Samsung Fire & Marine, Samsung Card, and Samsung Securities"
+      - claim: named institution Samsung Fire and Marine
+        kind: named_institution
+        value: "Samsung Fire & Marine"
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Samsung Group's financial affiliates — including Samsung Life, Samsung Fire & Marine, Samsung Card, and Samsung Securities"
+      - claim: named institution Samsung Card
+        kind: named_institution
+        value: Samsung Card
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Samsung Group's financial affiliates — including Samsung Life, Samsung Fire & Marine, Samsung Card, and Samsung Securities"
+      - claim: named institution Samsung Securities
+        kind: named_institution
+        value: Samsung Securities
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Samsung Group's financial affiliates — including Samsung Life, Samsung Fire & Marine, Samsung Card, and Samsung Securities"
+      - claim: number of major financial groups counted
+        kind: numerical
+        value: "seven"
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Across the seven major financial groups (Samsung, KB, Shinhan, Hana, Woori, NH, MG)"
+      - claim: named institution KB financial group
+        kind: named_institution
+        value: KB
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Across the seven major financial groups (Samsung, KB, Shinhan, Hana, Woori, NH, MG)"
+      - claim: named institution Shinhan financial group
+        kind: named_institution
+        value: Shinhan
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Across the seven major financial groups (Samsung, KB, Shinhan, Hana, Woori, NH, MG)"
+      - claim: named institution Hana financial group
+        kind: named_institution
+        value: Hana
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Across the seven major financial groups (Samsung, KB, Shinhan, Hana, Woori, NH, MG)"
+      - claim: named institution Woori financial group
+        kind: named_institution
+        value: Woori
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Across the seven major financial groups (Samsung, KB, Shinhan, Hana, Woori, NH, MG)"
+      - claim: named institution NH financial group
+        kind: named_institution
+        value: NH
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Across the seven major financial groups (Samsung, KB, Shinhan, Hana, Woori, NH, MG)"
+      - claim: named institution MG financial group
+        kind: named_institution
+        value: MG
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Across the seven major financial groups (Samsung, KB, Shinhan, Hana, Woori, NH, MG)"
+      - claim: combined capital of seven major financial groups
+        kind: numerical_with_unit
+        value: "212.5 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "combined capital reached 212.5 trillion won"
+      - claim: year-on-year increase in combined capital of seven groups
+        kind: numerical_with_unit
+        value: "24.2%"
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "a 24.2% year-on-year increase"
+      - claim: combined assets of seven major financial groups
+        kind: numerical_with_unit
+        value: "1,518.7 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Combined assets totaled 1,518.7 trillion won"
+      - claim: combined net profit of seven major financial groups
+        kind: numerical_with_unit
+        value: "15.1 trillion won"
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "combined net profit 15.1 trillion won"
+      - claim: byline author
+        kind: named_person
+        value: Choi Yeon-jae
+        source_urls: [https://www.koreaherald.com/article/10787026]
+        verbatim_excerpt: "Korea Herald, byline Choi Yeon-jae, 2026-06-24 16:26 KST"
+    quotes: []
+
+  - story_id: ruling-party-chief-resigns-seeks-reelection
+    category: politics
+    headline_en: Ruling party chief resigns, expected to seek reelection
+    lead_url: https://www.koreaherald.com/article/10786253
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786253
+    hard_facts:
+      - claim: Democratic Party chairman resignation date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls: [https://www.koreaherald.com/article/10786253]
+        verbatim_excerpt: "Democratic Party chairman Rep. Jung Chung-rae formally resigned his post on June 24, 2026"
+      - claim: party leadership election date
+        kind: temporal
+        value: August 17
+        source_urls: [https://www.koreaherald.com/article/10786253]
+        verbatim_excerpt: "triggering a party leadership election scheduled for August 17"
+      - claim: Democratic Party chairman who resigned
+        kind: named_person
+        value: Rep. Jung Chung-rae
+        source_urls: [https://www.koreaherald.com/article/10786253]
+        verbatim_excerpt: "Democratic Party chairman Rep. Jung Chung-rae formally resigned his post on June 24, 2026"
+      - claim: named institution Democratic Party
+        kind: named_institution
+        value: Democratic Party
+        source_urls: [https://www.koreaherald.com/article/10786253]
+        verbatim_excerpt: "Democratic Party chairman Rep. Jung Chung-rae formally resigned his post"
+      - claim: leadership race candidate Prime Minister
+        kind: named_person
+        value: Kim Min-seok
+        source_urls: [https://www.koreaherald.com/article/10786253]
+        verbatim_excerpt: "a three-way contest between Rep. Jung Chung-rae, Prime Minister Kim Min-seok, and former party leader Song Young-gil"
+      - claim: leadership race candidate former party leader
+        kind: named_person
+        value: Song Young-gil
+        source_urls: [https://www.koreaherald.com/article/10786253]
+        verbatim_excerpt: "a three-way contest between Rep. Jung Chung-rae, Prime Minister Kim Min-seok, and former party leader Song Young-gil"
+      - claim: interim chairman designated
+        kind: named_person
+        value: Rep. Han Byung-do
+        source_urls: [https://www.koreaherald.com/article/10786253]
+        verbatim_excerpt: "Rep. Han Byung-do was designated as acting/interim chairman"
+      - claim: President of South Korea
+        kind: named_person
+        value: Lee Jae-myung
+        source_urls: [https://www.koreaherald.com/article/10786253]
+        verbatim_excerpt: "The DP holds a parliamentary majority under President Lee Jae-myung"
+    quotes: []
+
+  - story_id: impeachment-petition-tops-150000-signatures
+    category: politics
+    headline_en: "Opposition piles pressure on defense minister as impeachment petition tops 150,000 signatures"
+    lead_url: https://www.koreaherald.com/article/10786777
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786777
+    hard_facts:
+      - claim: signatures on petition to impeach Defense Minister
+        kind: numerical_with_unit
+        value: "150,000 signatures"
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "A public petition to impeach Defense Minister Ahn Gyu-back has exceeded 150,000 signatures"
+      - claim: Defense Minister named in impeachment petition
+        kind: named_person
+        value: Ahn Gyu-back
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "A public petition to impeach Defense Minister Ahn Gyu-back has exceeded 150,000 signatures"
+      - claim: signatures on petition opposing military academy merger
+        kind: numerical_with_unit
+        value: "68,000 signatures"
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "A separate petition opposing the planned merger of military academies has garnered more than 68,000 signatures"
+      - claim: named institution PPP (People Power Party)
+        kind: named_institution
+        value: PPP (People Power Party)
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "The PPP (People Power Party) has criticized the Lee administration's defense reforms"
+      - claim: PPP representative who made statement
+        kind: named_person
+        value: Rep. Jeong Jeom-sig
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "with Rep. Jeong Jeom-sig stating"
+      - claim: named institution Defense Counterintelligence Command
+        kind: named_institution
+        value: Defense Counterintelligence Command
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "The government's defense reform includes dissolving the Defense Counterintelligence Command"
+      - claim: Korean War anniversary date
+        kind: temporal
+        value: June 25
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "The 76th anniversary of the Korean War begins June 25"
+      - claim: Korean War anniversary number
+        kind: numerical_with_unit
+        value: "76th anniversary"
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "The 76th anniversary of the Korean War begins June 25"
+      - claim: byline author
+        kind: named_person
+        value: Hwang Joo-young
+        source_urls: [https://www.koreaherald.com/article/10786777]
+        verbatim_excerpt: "Korea Herald, byline Hwang Joo-young, 2026-06-24 14:36 KST"
+    quotes:
+      - speaker_name: Jeong Jeom-sig
+        speaker_title: Representative, PPP (People Power Party)
+        verbatim_en: "People are growing increasingly uneasy."
+        source_url: https://www.koreaherald.com/article/10786777
+        context: PPP criticism of Lee administration defense reforms
+
+  - story_id: lee-calls-shift-conscription-professional-military
+    category: politics
+    headline_en: At front-line base, Lee calls for shift from conscription to professional military
+    lead_url: https://www.koreaherald.com/article/10786903
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786903
+    hard_facts:
+      - claim: location of President Lee's visit
+        kind: named_institution
+        value: Yeonpyeong Island Marine Corps base
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "President Lee Jae-myung visited the Yeonpyeong Island Marine Corps base on June 24, 2026"
+      - claim: date of President Lee's visit to front-line base
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "President Lee Jae-myung visited the Yeonpyeong Island Marine Corps base on June 24, 2026"
+      - claim: President Lee Jae-myung named person
+        kind: named_person
+        value: Lee Jae-myung
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "President Lee Jae-myung visited the Yeonpyeong Island Marine Corps base"
+      - claim: Korean War anniversary being commemorated
+        kind: temporal
+        value: "June 25, 1950"
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "the eve of the 76th anniversary of the start of the Korean War (June 25, 1950)"
+      - claim: Korean War anniversary number
+        kind: numerical_with_unit
+        value: "76th anniversary"
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "the eve of the 76th anniversary of the start of the Korean War (June 25, 1950)"
+      - claim: rifle rounds fired by President Lee
+        kind: numerical_with_unit
+        value: "10 rifle rounds"
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "Lee fired 10 rifle rounds"
+      - claim: named product K1E1 tanks
+        kind: named_product
+        value: K1E1 tanks
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "inspected K1E1 tanks, Spike anti-tank missiles, and K9A1 self-propelled howitzers"
+      - claim: named product Spike anti-tank missiles
+        kind: named_product
+        value: Spike anti-tank missiles
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "inspected K1E1 tanks, Spike anti-tank missiles, and K9A1 self-propelled howitzers"
+      - claim: named product K9A1 self-propelled howitzers
+        kind: named_product
+        value: K9A1 self-propelled howitzers
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "inspected K1E1 tanks, Spike anti-tank missiles, and K9A1 self-propelled howitzers"
+      - claim: defense spending pledge as GDP percentage
+        kind: numerical_with_unit
+        value: "3.5% of GDP"
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "He pledged to increase defense spending to 3.5% of GDP"
+      - claim: byline author
+        kind: named_person
+        value: Ji Da-gyum
+        source_urls: [https://www.koreaherald.com/article/10786903]
+        verbatim_excerpt: "Korea Herald, byline Ji Da-gyum, 2026-06-24 15:23 KST"
+    quotes:
+      - speaker_name: Lee Jae-myung
+        speaker_title: President of South Korea
+        verbatim_en: "We will minimize the number of conscripts and create a system in which people can choose military service as their profession."
+        source_url: https://www.koreaherald.com/article/10786903
+        context: visit to Yeonpyeong Island Marine Corps base on June 24, 2026
+
+  - story_id: north-korea-deploys-new-destroyer
+    category: politics
+    headline_en: "North Korea deploys new destroyer, stresses push for nuclear-capable navy"
+    lead_url: https://www.koreaherald.com/article/10786752
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786752
+    hard_facts:
+      - claim: displacement of North Korea's new destroyer
+        kind: numerical_with_unit
+        value: "5,000-ton"
+        source_urls: [https://www.koreaherald.com/article/10786752]
+        verbatim_excerpt: "North Korea commissioned a new 5,000-ton destroyer named the Choe Hyun"
+      - claim: named product North Korea new destroyer
+        kind: named_product
+        value: Choe Hyun
+        source_urls: [https://www.koreaherald.com/article/10786752]
+        verbatim_excerpt: "North Korea commissioned a new 5,000-ton destroyer named the Choe Hyun"
+      - claim: North Korean leader who attended commissioning
+        kind: named_person
+        value: Kim Jong-un
+        source_urls: [https://www.koreaherald.com/article/10786752]
+        verbatim_excerpt: "with Kim Jong-un personally attending the commissioning ceremony"
+      - claim: defense analyst who assessed deployment
+        kind: named_person
+        value: Yu Ji-hoon
+        source_urls: [https://www.koreaherald.com/article/10786752]
+        verbatim_excerpt: "Defense analyst Yu Ji-hoon at the Korea Institute for Defense Analyses (KIDA) assessed the deployment"
+      - claim: named institution Korea Institute for Defense Analyses
+        kind: named_institution
+        value: Korea Institute for Defense Analyses (KIDA)
+        source_urls: [https://www.koreaherald.com/article/10786752]
+        verbatim_excerpt: "Defense analyst Yu Ji-hoon at the Korea Institute for Defense Analyses (KIDA)"
+      - claim: byline author
+        kind: named_person
+        value: Hwang Joo-young
+        source_urls: [https://www.koreaherald.com/article/10786752]
+        verbatim_excerpt: "Korea Herald, byline Hwang Joo-young, 2026-06-24 14:25 KST"
+    quotes:
+      - speaker_name: Kim Jong-un
+        speaker_title: Supreme Leader of North Korea
+        verbatim_en: "strategic assets"
+        source_url: https://www.koreaherald.com/article/10786752
+        context: commissioning ceremony for the Choe Hyun destroyer
+      - speaker_name: Yu Ji-hoon
+        speaker_title: Defense Analyst, Korea Institute for Defense Analyses (KIDA)
+        verbatim_en: "North Korea's attempt to become a maritime power."
+        source_url: https://www.koreaherald.com/article/10786752
+        context: assessment of North Korea's Choe Hyun destroyer commissioning
+
+  - story_id: unc-reaffirms-nk-border-measures-not-violation
+    category: politics
+    headline_en: "UNC reaffirms N. Korea's border-hardening measures not in violation of Armistice Agreement"
+    lead_url: https://www.koreaherald.com/article/10786433
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786433
+    hard_facts:
+      - claim: named institution United Nations Command
+        kind: named_institution
+        value: United Nations Command (UNC)
+        source_urls: [https://www.koreaherald.com/article/10786433]
+        verbatim_excerpt: "The United Nations Command (UNC) formally stated that North Korea's border-hardening measures"
+      - claim: year Korean War Armistice Agreement signed
+        kind: temporal
+        value: "1953"
+        source_urls: [https://www.koreaherald.com/article/10786433]
+        verbatim_excerpt: "do not constitute a violation of the 1953 Korean War Armistice Agreement"
+      - claim: distance of fencing from Military Demarcation Line
+        kind: numerical_with_unit
+        value: "less than 100 meters"
+        source_urls: [https://www.koreaherald.com/article/10786433]
+        verbatim_excerpt: "The fencing has been installed less than 100 meters from the Military Demarcation Line (MDL)"
+      - claim: named institution Military Demarcation Line
+        kind: named_institution
+        value: Military Demarcation Line (MDL)
+        source_urls: [https://www.koreaherald.com/article/10786433]
+        verbatim_excerpt: "The fencing has been installed less than 100 meters from the Military Demarcation Line (MDL)"
+    quotes:
+      - speaker_name: United Nations Command
+        speaker_title: United Nations Command (UNC) official statement
+        verbatim_en: "applies the same standard to both sides."
+        source_url: https://www.koreaherald.com/article/10786433
+        context: UNC formal statement on North Korea's DMZ border-hardening measures
+
+  - story_id: korea-nears-unveiling-next-chip-hub
+    category: tech
+    headline_en: Korea nears unveiling of next chip hub outside Seoul area
+    lead_url: https://www.koreaherald.com/article/10786815
+    body_source: full
+    corroborated_by:
+      - https://en.sedaily.com/finance/2026/06/24/samsung-sk-to-invest-more-than-300-trillion-won-in-honam
+      - https://www.koreaherald.com/article/10786840
+      - https://www.koreaherald.com/article/10786518
+    locked_urls:
+      - https://www.koreaherald.com/article/10786815
+      - https://en.sedaily.com/finance/2026/06/24/samsung-sk-to-invest-more-than-300-trillion-won-in-honam
+      - https://www.koreaherald.com/article/10786840
+      - https://www.koreaherald.com/article/10786518
+    hard_facts:
+      - claim: new semiconductor mega-cluster region
+        kind: named_institution
+        value: Honam region
+        source_urls:
+          - https://www.koreaherald.com/article/10786815
+          - https://en.sedaily.com/finance/2026/06/24/samsung-sk-to-invest-more-than-300-trillion-won-in-honam
+        verbatim_excerpt: "a new semiconductor mega-cluster in the Honam region, outside the greater Seoul/Gyeonggi cluster"
+      - claim: Presidential Chief of Staff who briefed Kwanhun Club
+        kind: named_person
+        value: Kim Yong-beom
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "Presidential Chief of Staff Kim Yong-beom said at the Kwanhun Club briefing on June 24"
+      - claim: named institution Kwanhun Club
+        kind: named_institution
+        value: Kwanhun Club
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "Kim Yong-beom said at the Kwanhun Club briefing on June 24"
+      - claim: date of Kwanhun Club briefing
+        kind: temporal
+        value: June 24
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "Kim Yong-beom said at the Kwanhun Club briefing on June 24"
+      - claim: Samsung Electronics Chairman identity
+        kind: named_person
+        value: Lee Jae-yong
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "President Lee Jae-myung is expected to meet Samsung Electronics Chairman Lee Jae-yong on Friday (June 27)"
+      - claim: expected date of President Lee meeting Samsung Chairman
+        kind: temporal
+        value: "Friday (June 27)"
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "President Lee Jae-myung is expected to meet Samsung Electronics Chairman Lee Jae-yong on Friday (June 27)"
+      - claim: date of regional development planning meeting
+        kind: temporal
+        value: June 29
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "A regional development planning meeting is scheduled for June 29"
+      - claim: total projected investment in Honam chip cluster
+        kind: numerical_with_unit
+        value: "300 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10786815
+          - https://en.sedaily.com/finance/2026/06/24/samsung-sk-to-invest-more-than-300-trillion-won-in-honam
+        verbatim_excerpt: "Total projected investment exceeds 300 trillion won across Samsung and SK hynix"
+      - claim: named institution SK hynix as investor
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10786815
+          - https://en.sedaily.com/finance/2026/06/24/samsung-sk-to-invest-more-than-300-trillion-won-in-honam
+        verbatim_excerpt: "Total projected investment exceeds 300 trillion won across Samsung and SK hynix"
+      - claim: Korea semiconductor exports year-on-year growth
+        kind: numerical_with_unit
+        value: "186.6%"
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "Korea's semiconductor exports rose 186.6% year-on-year to $8.15 billion in April 2026"
+      - claim: Korea semiconductor exports value in April 2026
+        kind: numerical_with_unit
+        value: "$8.15 billion"
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "Korea's semiconductor exports rose 186.6% year-on-year to $8.15 billion in April 2026"
+      - claim: Korea semiconductor exports reference month
+        kind: temporal
+        value: April 2026
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "Korea's semiconductor exports rose 186.6% year-on-year to $8.15 billion in April 2026"
+      - claim: named product HBM4 chips
+        kind: named_product
+        value: HBM4
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "driven by HBM4 demand. SK hynix reported delivering $1 billion in HBM4 chips"
+      - claim: SK hynix HBM4 deliveries value
+        kind: numerical_with_unit
+        value: "$1 billion"
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "SK hynix reported delivering $1 billion in HBM4 chips within its first four months of production"
+      - claim: SK hynix HBM4 production duration when milestone hit
+        kind: temporal
+        value: first four months of production
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "SK hynix reported delivering $1 billion in HBM4 chips within its first four months of production"
+      - claim: byline author
+        kind: named_person
+        value: Ji Da-gyum
+        source_urls: [https://www.koreaherald.com/article/10786815]
+        verbatim_excerpt: "Korea Herald, byline Ji Da-gyum, 2026-06-24 14:51 KST"
+    quotes:
+      - speaker_name: Kim Yong-beom
+        speaker_title: Presidential Chief of Staff, South Korea
+        verbatim_en: "discussions have moved beyond the initial stage and are approaching completion."
+        source_url: https://www.koreaherald.com/article/10786815
+        context: Kwanhun Club briefing on June 24 regarding Honam semiconductor cluster
+
+  - story_id: korea-ai-treasure-factory-data-siemens
+    category: tech
+    headline_en: "Korea's AI treasure is its factory data: Siemens top executive"
+    lead_url: https://www.koreaherald.com/article/10786849
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786849
+    hard_facts:
+      - claim: Siemens Digital Industries CEO identity
+        kind: named_person
+        value: Cedrik Neike
+        source_urls: [https://www.koreaherald.com/article/10786849]
+        verbatim_excerpt: "Cedrik Neike, CEO of Siemens Digital Industries, told the Korea Herald"
+      - claim: named institution Siemens Digital Industries
+        kind: named_institution
+        value: Siemens Digital Industries
+        source_urls: [https://www.koreaherald.com/article/10786849]
+        verbatim_excerpt: "Cedrik Neike, CEO of Siemens Digital Industries, told the Korea Herald"
+      - claim: named institution Naver Cloud
+        kind: named_institution
+        value: Naver Cloud
+        source_urls: [https://www.koreaherald.com/article/10786849]
+        verbatim_excerpt: "Siemens and Naver Cloud signed a partnership agreement to develop localized industrial AI solutions"
+    quotes:
+      - speaker_name: Cedrik Neike
+        speaker_title: CEO, Siemens Digital Industries
+        verbatim_en: "The treasure we are sitting on as industrial countries is industrial data."
+        source_url: https://www.koreaherald.com/article/10786849
+        context: interview with Korea Herald on South Korea's industrial AI potential
+      - speaker_name: Cedrik Neike
+        speaker_title: CEO, Siemens Digital Industries
+        verbatim_en: "there will always be a human in the loop."
+        source_url: https://www.koreaherald.com/article/10786849
+        context: remarks on AI deployment in manufacturing, Korea Herald interview
+
+  - story_id: korea-expands-malpractice-safety-net-doctors
+    category: society
+    headline_en: Korea expands malpractice safety net for doctors in high-risk specialties
+    lead_url: https://www.koreaherald.com/article/10786803
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786803
+    hard_facts:
+      - claim: announcement date of malpractice insurance policy
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls: [https://www.koreaherald.com/article/10786803]
+        verbatim_excerpt: "The South Korean government announced on June 24, 2026"
+      - claim: annual malpractice insurance premium to be covered per physician
+        kind: numerical_with_unit
+        value: "1.75 million won"
+        source_urls: [https://www.koreaherald.com/article/10786803]
+        verbatim_excerpt: "it will cover the full annual malpractice insurance premium of 1.75 million won per physician"
+      - claim: maximum coverage per specialist per incident
+        kind: numerical_with_unit
+        value: "1.8 billion won"
+        source_urls: [https://www.koreaherald.com/article/10786803]
+        verbatim_excerpt: "Maximum coverage per specialist is 1.8 billion won per incident"
+      - claim: Q1 2026 births count
+        kind: numerical_with_unit
+        value: "75,013"
+        source_urls: [https://www.koreaherald.com/article/10786803]
+        verbatim_excerpt: "The government cited Q1 2026 births of 75,013"
+      - claim: Q1 2026 births year-on-year increase
+        kind: numerical_with_unit
+        value: "14.8%"
+        source_urls: [https://www.koreaherald.com/article/10786803]
+        verbatim_excerpt: "Q1 2026 births of 75,013 — a 14.8% year-on-year increase"
+      - claim: percentage of OB/GYN clinics filing no childbirth insurance claims
+        kind: numerical_with_unit
+        value: "89%"
+        source_urls: [https://www.koreaherald.com/article/10786803]
+        verbatim_excerpt: "Data showed 89% of OB/GYN clinics filed no childbirth insurance claims between January and August 2025"
+      - claim: period of OB/GYN insurance claims data
+        kind: temporal
+        value: January and August 2025
+        source_urls: [https://www.koreaherald.com/article/10786803]
+        verbatim_excerpt: "Data showed 89% of OB/GYN clinics filed no childbirth insurance claims between January and August 2025"
+      - claim: byline author
+        kind: named_person
+        value: Choi Jeong-yoon
+        source_urls: [https://www.koreaherald.com/article/10786803]
+        verbatim_excerpt: "Korea Herald, byline Choi Jeong-yoon, 2026-06-24"
+    quotes: []
+
+  - story_id: govt-strengthen-oversight-meal-cards-children
+    category: society
+    headline_en: "Govt. to strengthen oversight of meal cards for children in need"
+    lead_url: https://www.koreaherald.com/article/10786357
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786357
+    hard_facts:
+      - claim: named institution Ministry of Health and Welfare
+        kind: named_institution
+        value: "Ministry of Health and Welfare"
+        source_urls: [https://www.koreaherald.com/article/10786357]
+        verbatim_excerpt: "South Korea's Ministry of Health and Welfare announced June 24 it will strengthen monitoring"
+      - claim: announcement date of meal card oversight policy
+        kind: temporal
+        value: June 24
+        source_urls: [https://www.koreaherald.com/article/10786357]
+        verbatim_excerpt: "South Korea's Ministry of Health and Welfare announced June 24 it will strengthen monitoring"
+      - claim: fraudulent payments detected in meal card program
+        kind: numerical_with_unit
+        value: "170 million won"
+        source_urls: [https://www.koreaherald.com/article/10786357]
+        verbatim_excerpt: "with 170 million won ($110,800) in fraudulent payments detected"
+      - claim: fraudulent payments detected in USD equivalent
+        kind: numerical_with_unit
+        value: "$110,800"
+        source_urls: [https://www.koreaherald.com/article/10786357]
+        verbatim_excerpt: "with 170 million won ($110,800) in fraudulent payments detected"
+      - claim: First Vice Minister of Health and Welfare
+        kind: named_person
+        value: Kim Young-su
+        source_urls: [https://www.koreaherald.com/article/10786357]
+        verbatim_excerpt: "First Vice Minister Kim Young-su acknowledged systemic fraud"
+    quotes:
+      - speaker_name: Kim Young-su
+        speaker_title: First Vice Minister, Ministry of Health and Welfare
+        verbatim_en: "Local governments have focused more on issuing the cards, they have fallen short of making sure they are used as intended."
+        source_url: https://www.koreaherald.com/article/10786357
+        context: government announcement on meal card monitoring reform, June 24
+
+  - story_id: north-korean-soldier-crossing-mdl-overnight
+    category: society
+    headline_en: North Korean soldier under investigation after crossing MDL overnight
+    lead_url: https://www.koreaherald.com/article/10786674
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786674
+    hard_facts:
+      - claim: date of North Korean soldier MDL crossing
+        kind: temporal
+        value: overnight on June 23-24, 2026
+        source_urls: [https://www.koreaherald.com/article/10786674]
+        verbatim_excerpt: "A North Korean soldier crossed the Military Demarcation Line (MDL) overnight on June 23-24, 2026"
+      - claim: section of DMZ where crossing occurred
+        kind: named_institution
+        value: central section of the DMZ
+        source_urls: [https://www.koreaherald.com/article/10786674]
+        verbatim_excerpt: "entering the central section of the DMZ"
+      - claim: named institution Joint Chiefs of Staff
+        kind: named_institution
+        value: "South Korea's Joint Chiefs of Staff (JCS)"
+        source_urls: [https://www.koreaherald.com/article/10786674]
+        verbatim_excerpt: "according to South Korea's Joint Chiefs of Staff (JCS)"
+      - claim: total MDL crossing incidents since President Lee took office
+        kind: numerical_with_unit
+        value: "4th MDL crossing incident"
+        source_urls: [https://www.koreaherald.com/article/10786674]
+        verbatim_excerpt: "This is the 4th MDL crossing incident since President Lee's administration took office in June 2025"
+      - claim: date President Lee took office
+        kind: temporal
+        value: June 2025
+        source_urls: [https://www.koreaherald.com/article/10786674]
+        verbatim_excerpt: "since President Lee's administration took office in June 2025"
+      - claim: number of incidents involving active-duty North Korean military member
+        kind: numerical_with_unit
+        value: "2nd involving an active-duty North Korean military member"
+        source_urls: [https://www.koreaherald.com/article/10786674]
+        verbatim_excerpt: "the 2nd involving an active-duty North Korean military member"
+      - claim: byline author
+        kind: named_person
+        value: Hwang Joo-young
+        source_urls: [https://www.koreaherald.com/article/10786674]
+        verbatim_excerpt: "Korea Herald, byline Hwang Joo-young, 2026-06-24 13:33 KST"
+    quotes:
+      - speaker_name: South Korea's Joint Chiefs of Staff
+        speaker_title: Joint Chiefs of Staff (JCS), South Korea
+        verbatim_en: "Relevant details are under investigation by related authorities."
+        source_url: https://www.koreaherald.com/article/10786674
+        context: JCS statement on North Korean soldier MDL crossing, June 24
+
+  - story_id: childbirths-soar-highest-level-7-years-april
+    category: society
+    headline_en: Childbirths soar to highest level in 7 years in April
+    lead_url: https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april
+    hard_facts:
+      - claim: South Korea births in April 2026
+        kind: numerical_with_unit
+        value: "24,521 births"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "South Korea recorded 24,521 births in April 2026"
+      - claim: year-on-year increase in April 2026 births
+        kind: numerical_with_unit
+        value: "approximately 18%"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "a year-on-year increase of approximately 18%"
+      - claim: last time April birth count was this high
+        kind: temporal
+        value: "since 2019"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "the highest April birth count since 2019"
+      - claim: cumulative births January to April 2026
+        kind: numerical_with_unit
+        value: "99,534 births"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "The cumulative January-to-April total of 99,534 births also marked a 7-year high"
+      - claim: year-on-year gain in cumulative January-April births
+        kind: numerical_with_unit
+        value: "15.5%"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "with a 15.5% year-on-year gain"
+      - claim: total fertility rate for January-April 2026
+        kind: numerical_with_unit
+        value: "0.93"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "The total fertility rate for the period reached 0.93"
+      - claim: year-on-year increase in total fertility rate
+        kind: numerical_with_unit
+        value: "0.13"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "up 0.13 from the prior year"
+      - claim: marriages in April 2026
+        kind: numerical_with_unit
+        value: "20,622"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "Marriages in April totaled 20,622"
+      - claim: year-on-year increase in marriages April 2026
+        kind: numerical_with_unit
+        value: "approximately 9%"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "Marriages in April totaled 20,622, up approximately 9% year-on-year"
+      - claim: consecutive months of birth increases
+        kind: numerical_with_unit
+        value: "22 consecutive months"
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "Births have increased for 22 consecutive months since July 2024"
+      - claim: start of consecutive birth increase streak
+        kind: temporal
+        value: July 2024
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "Births have increased for 22 consecutive months since July 2024"
+      - claim: named institution Statistics Korea
+        kind: named_institution
+        value: Statistics Korea (KOSTAT)
+        source_urls: [https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april]
+        verbatim_excerpt: "Data released by Statistics Korea (KOSTAT)"
+    quotes: []
+
+  - story_id: korean-vessels-clear-hormuz-18-remain
+    category: other
+    headline_en: "4 more S. Korean-operated vessels clear Hormuz, 18 remain"
+    lead_url: https://www.koreaherald.com/article/10786597
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786597
+    hard_facts:
+      - claim: additional Korean-operated vessels that transited Strait of Hormuz on June 24
+        kind: numerical_with_unit
+        value: "Four"
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "Four additional Korean-operated vessels transited the Strait of Hormuz on June 24, 2026"
+      - claim: date of vessels transiting Strait of Hormuz
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "Four additional Korean-operated vessels transited the Strait of Hormuz on June 24, 2026"
+      - claim: total Korean-operated vessels that have cleared since ceasefire
+        kind: numerical_with_unit
+        value: "six"
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "bringing the total to six since the US-Iran ceasefire/negotiation agreement"
+      - claim: Korean-linked vessels remaining in Persian Gulf
+        kind: numerical_with_unit
+        value: "Eighteen"
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "Eighteen Korean-linked vessels remain in the Persian Gulf"
+      - claim: named product VLCC tanker type
+        kind: named_product
+        value: VLCC
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "The four departing vessels included at least one VLCC"
+      - claim: sailors aboard the departing ships
+        kind: numerical_with_unit
+        value: "26 sailors"
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "26 sailors were aboard the departing ships"
+      - claim: Korean sailors remaining in the region
+        kind: numerical_with_unit
+        value: "108 Korean sailors"
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "108 Korean sailors remain in the region"
+      - claim: Foreign Ministry spokesperson identity
+        kind: named_person
+        value: Park Il
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "Foreign Ministry spokesperson Park Il stated"
+      - claim: named institution Foreign Ministry
+        kind: named_institution
+        value: Foreign Ministry
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "Foreign Ministry spokesperson Park Il stated"
+      - claim: byline author
+        kind: named_person
+        value: Jung Min-kyung
+        source_urls: [https://www.koreaherald.com/article/10786597]
+        verbatim_excerpt: "Korea Herald, byline Jung Min-kyung, 2026-06-24 11:56 KST"
+    quotes:
+      - speaker_name: Park Il
+        speaker_title: Spokesperson, South Korea Foreign Ministry
+        verbatim_en: "The safety of our vessels and crew members is our top priority."
+        source_url: https://www.koreaherald.com/article/10786597
+        context: Foreign Ministry statement on Korean vessels in the Persian Gulf, June 24
+
+  - story_id: hanmiglobal-eyes-us-smr-market
+    category: other
+    headline_en: HanmiGlobal eyes US SMR market with development arm
+    lead_url: https://www.koreaherald.com/article/10786775
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10786775
+    hard_facts:
+      - claim: named institution HanmiGlobal
+        kind: named_institution
+        value: HanmiGlobal
+        source_urls: [https://www.koreaherald.com/article/10786775]
+        verbatim_excerpt: "HanmiGlobal, South Korea's largest construction management firm"
+      - claim: description of HanmiGlobal
+        kind: named_institution
+        value: "South Korea's largest construction management firm"
+        source_urls: [https://www.koreaherald.com/article/10786775]
+        verbatim_excerpt: "HanmiGlobal, South Korea's largest construction management firm, announced plans to establish a dedicated project development entity"
+      - claim: named institution Dominion Energy
+        kind: named_institution
+        value: Dominion Energy
+        source_urls: [https://www.koreaherald.com/article/10786775]
+        verbatim_excerpt: "US utility representatives from Dominion Energy and EdgeCore"
+      - claim: named institution EdgeCore
+        kind: named_institution
+        value: EdgeCore
+        source_urls: [https://www.koreaherald.com/article/10786775]
+        verbatim_excerpt: "US utility representatives from Dominion Energy and EdgeCore"
+      - claim: named institution TerraPower
+        kind: named_institution
+        value: TerraPower
+        source_urls: [https://www.koreaherald.com/article/10786775]
+        verbatim_excerpt: "SMR developers including TerraPower and ARC Clean Technology"
+      - claim: named institution ARC Clean Technology
+        kind: named_institution
+        value: ARC Clean Technology
+        source_urls: [https://www.koreaherald.com/article/10786775]
+        verbatim_excerpt: "SMR developers including TerraPower and ARC Clean Technology"
+      - claim: named product SMR (small modular reactor)
+        kind: named_product
+        value: SMR (small modular reactor)
+        source_urls: [https://www.koreaherald.com/article/10786775]
+        verbatim_excerpt: "to enter the US small modular reactor (SMR) market"
+    quotes: []
