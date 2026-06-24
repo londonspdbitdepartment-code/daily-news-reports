@@ -1,0 +1,540 @@
+version: 1
+generated_at: "2026-06-24T12:00:00Z"
+country: Europe
+date: "2026-06-24"
+total_stories: 17
+stories:
+  - story_id: ecb-convergence-report-five-non-euro-states
+    category: econ
+    headline_en: ECB Reports Limited Progress by Five Non-Euro EU States Toward Euro Adoption in 2026 Convergence Report
+    lead_url: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+    hard_facts:
+      - claim: ECB Convergence Report publication date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "The European Central Bank published its biennial Convergence Report on 24 June 2026"
+      - claim: number of non-euro EU member states assessed
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "assessing five non-euro EU member states — the Czech Republic, Hungary, Poland, Romania, and Sweden"
+      - claim: named institution — European Central Bank
+        kind: named_institution
+        value: European Central Bank
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "The European Central Bank published its biennial Convergence Report"
+      - claim: countries assessed — Czech Republic
+        kind: named_institution
+        value: Czech Republic
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "the Czech Republic, Hungary, Poland, Romania, and Sweden"
+      - claim: countries assessed — Hungary
+        kind: named_institution
+        value: Hungary
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "the Czech Republic, Hungary, Poland, Romania, and Sweden"
+      - claim: countries assessed — Poland
+        kind: named_institution
+        value: Poland
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "the Czech Republic, Hungary, Poland, Romania, and Sweden"
+      - claim: countries assessed — Romania
+        kind: named_institution
+        value: Romania
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "the Czech Republic, Hungary, Poland, Romania, and Sweden"
+      - claim: countries assessed — Sweden
+        kind: named_institution
+        value: Sweden
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "the Czech Republic, Hungary, Poland, Romania, and Sweden"
+      - claim: price stability reference threshold
+        kind: numerical_with_unit
+        value: "2.7%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "three of five countries exceeded the 2.7% reference threshold"
+      - claim: number of countries exceeding price stability threshold
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "three of five countries exceeded the 2.7% reference threshold: Romania significantly, Hungary and Poland moderately"
+      - claim: fiscal deficit reference value
+        kind: numerical_with_unit
+        value: "3% GDP"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "Hungary, Poland, and Romania all surpassed the 3% GDP deficit reference value in 2025"
+      - claim: fiscal breach year
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "all surpassed the 3% GDP deficit reference value in 2025 and are all now subject to excessive deficit procedures"
+      - claim: expected compliance deadline for excessive deficit procedures
+        kind: temporal
+        value: end-2027
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "with no expected compliance before end-2027"
+      - claim: debt ratio threshold
+        kind: numerical_with_unit
+        value: "60% of GDP"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "Debt ratios in Poland and Romania are projected to rise above 60% of GDP by 2026"
+      - claim: projected debt breach year
+        kind: temporal
+        value: "2026"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "projected to rise above 60% of GDP by 2026"
+      - claim: long-term interest rate reference value
+        kind: numerical_with_unit
+        value: "5.1%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "On long-term interest rates (reference value: 5.1%)"
+      - claim: Poland long-term interest rate
+        kind: numerical_with_unit
+        value: "5.4%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "Poland (5.4%), Hungary (6.7%), and Romania (6.7%) all exceeded the benchmark"
+      - claim: Hungary long-term interest rate
+        kind: numerical_with_unit
+        value: "6.7%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "Poland (5.4%), Hungary (6.7%), and Romania (6.7%) all exceeded the benchmark"
+      - claim: Romania long-term interest rate
+        kind: numerical_with_unit
+        value: "6.7%"
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "Poland (5.4%), Hungary (6.7%), and Romania (6.7%) all exceeded the benchmark"
+      - claim: media contact person
+        kind: named_person
+        value: Benoît Deeg
+        source_urls:
+          - https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        verbatim_excerpt: "No byline (media contact: Benoît Deeg)"
+    quotes:
+      - speaker_name: European Central Bank
+        speaker_title: Institutional author, ECB Convergence Report 2026
+        verbatim_en: "limited progress has been made on economic convergence with the euro area since 2024."
+        source_url: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        context: ECB 2026 Convergence Report, published 24 June 2026
+      - speaker_name: European Central Bank
+        speaker_title: Institutional author, ECB Convergence Report 2026
+        verbatim_en: "has shown resilience, but the pace of growth has differed across countries."
+        source_url: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        context: ECB 2026 Convergence Report, published 24 June 2026
+      - speaker_name: European Central Bank
+        speaker_title: Institutional author, ECB Convergence Report 2026
+        verbatim_en: "none of the five countries under review was fully compatible with the requirements for the adoption of the euro."
+        source_url: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html
+        context: ECB 2026 Convergence Report, published 24 June 2026
+
+  - story_id: kazakhstan-10bn-deals-brussels-tokayev
+    category: econ
+    headline_en: Kazakhstan Signs €10 Billion in Commercial Deals With European Partners as President Tokayev Concludes Brussels Visit
+    lead_url: https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+    body_source: full
+    corroborated_by:
+      - https://astanatimes.com/2026/06/tokayevs-brussels-visit-yields-12-billion-in-eu-deals/
+    locked_urls:
+      - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+      - https://astanatimes.com/2026/06/tokayevs-brussels-visit-yields-12-billion-in-eu-deals/
+    hard_facts:
+      - claim: visit date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Kazakhstan President Kassym-Jomart Tokayev concluded a Brussels visit on 24 June 2026"
+      - claim: Kazakhstan President
+        kind: named_person
+        value: Kassym-Jomart Tokayev
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Kazakhstan President Kassym-Jomart Tokayev concluded a Brussels visit"
+      - claim: number of agreements signed
+        kind: numerical
+        value: "approximately 30"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "ministers and business leaders signed approximately 30 agreements worth approximately €10 billion"
+      - claim: total deal value
+        kind: numerical_with_unit
+        value: "€10 billion"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "approximately 30 agreements worth approximately €10 billion"
+      - claim: Air Astana aircraft order — number of planes
+        kind: numerical_with_unit
+        value: "50 Airbus A320-family aircraft"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Air Astana's order of 50 Airbus A320-family aircraft valued at €7.3 billion"
+      - claim: Air Astana aircraft order value
+        kind: numerical_with_unit
+        value: "€7.3 billion"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Air Astana's order of 50 Airbus A320-family aircraft valued at €7.3 billion"
+      - claim: Air Astana delivery start
+        kind: temporal
+        value: "2031"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "with deliveries beginning in 2031"
+      - claim: Samruk Kazyna total deal value
+        kind: numerical_with_unit
+        value: "€8.4 billion"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "The Samruk Kazyna sovereign wealth fund signed deals totalling €8.4 billion overall"
+      - claim: Alstom service contract value
+        kind: numerical_with_unit
+        value: "€967 million"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "including an Alstom service contract worth €967 million for locomotive maintenance"
+      - claim: named institution — Air Astana
+        kind: named_institution
+        value: Air Astana
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "The largest single deal was Air Astana's order of 50 Airbus A320-family aircraft"
+      - claim: named product — Airbus A320-family
+        kind: named_product
+        value: Airbus A320-family
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Air Astana's order of 50 Airbus A320-family aircraft"
+      - claim: named institution — Samruk Kazyna
+        kind: named_institution
+        value: Samruk Kazyna
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "The Samruk Kazyna sovereign wealth fund signed deals totalling €8.4 billion overall"
+      - claim: named institution — Alstom
+        kind: named_institution
+        value: Alstom
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "including an Alstom service contract worth €967 million for locomotive maintenance"
+      - claim: European Commission President
+        kind: named_person
+        value: Ursula von der Leyen
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "European Commission President Ursula von der Leyen"
+      - claim: European Council President
+        kind: named_person
+        value: António Costa
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "European Council President António Costa"
+      - claim: EU Commissioner for Sustainable Transport
+        kind: named_person
+        value: Apostolos Tzitzikostas
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "EU Commissioner for Sustainable Transport Apostolos Tzitzikostas"
+      - claim: EU Commissioner for Trade
+        kind: named_person
+        value: Maros Šefčovič
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "EU Commissioner for Trade Maros Šefčovič"
+      - claim: Kazakhstan Deputy Prime Minister
+        kind: named_person
+        value: Serik Zhumangarin
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Kazakhstan Deputy Prime Minister Serik Zhumangarin attended"
+      - claim: Kazakhstan Transport Minister
+        kind: named_person
+        value: Nurlan Sauranbayev
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Kazakhstan Transport Minister Nurlan Sauranbayev"
+      - claim: EU member states covered by Horizontal Aviation Agreement
+        kind: numerical_with_unit
+        value: "17 EU member states"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "enabling any EU airline to operate between Kazakhstan and the 17 EU member states with existing bilateral air services agreements"
+      - claim: named product — Horizontal Aviation Agreement
+        kind: named_product
+        value: Horizontal Aviation Agreement
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "A Horizontal Aviation Agreement was signed by Tzitzikostas and Kazakhstan Transport Minister Nurlan Sauranbayev"
+      - claim: named institution — EU Investment Bank
+        kind: named_institution
+        value: EU Investment Bank
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "The EU Investment Bank agreed a framework loan of up to €150 million"
+      - claim: EU Investment Bank framework loan
+        kind: numerical_with_unit
+        value: "€150 million"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "a framework loan of up to €150 million to improve rail and road infrastructure along the Trans-Caspian Transport Corridor"
+      - claim: named product — Trans-Caspian Transport Corridor
+        kind: named_product
+        value: Trans-Caspian Transport Corridor
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "along the Trans-Caspian Transport Corridor"
+      - claim: bilateral trade value EU-Kazakhstan in 2025
+        kind: numerical_with_unit
+        value: "$45 billion"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Bilateral trade between the EU and Kazakhstan exceeded $45 billion in 2025"
+      - claim: bilateral trade year
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        verbatim_excerpt: "Bilateral trade between the EU and Kazakhstan exceeded $45 billion in 2025"
+    quotes:
+      - speaker_name: Ursula von der Leyen
+        speaker_title: President, European Commission
+        verbatim_en: "Kazakhstan and Central Asia as a whole is a natural global gateway."
+        source_url: https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        context: Brussels commercial forum, 24 June 2026
+      - speaker_name: Kassym-Jomart Tokayev
+        speaker_title: President, Republic of Kazakhstan
+        verbatim_en: "the European Union is our largest trading and investment partner."
+        source_url: https://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit
+        context: Brussels commercial forum, 24 June 2026
+
+  - story_id: mica-july-deadline-210-of-1200-firms-licensed
+    category: econ
+    headline_en: EU Crypto Market Faces Exodus as MiCA July Deadline Approaches With Only 210 of 1,200 Firms Licensed
+    lead_url: https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+    hard_facts:
+      - claim: MiCA transitional window closure date
+        kind: temporal
+        value: 1 July 2026
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "As of 1 July 2026, the EU's Markets in Crypto-Assets Regulation (MiCA) transitional window closes"
+      - claim: named product — Markets in Crypto-Assets Regulation
+        kind: named_product
+        value: Markets in Crypto-Assets Regulation (MiCA)
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "the EU's Markets in Crypto-Assets Regulation (MiCA) transitional window closes"
+      - claim: ESMA no-extension announcement date
+        kind: temporal
+        value: April 2026
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "ESMA confirmed in April 2026 that no extension would be granted"
+      - claim: named institution — ESMA
+        kind: named_institution
+        value: ESMA
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "ESMA confirmed in April 2026 that no extension would be granted"
+      - claim: firms with full authorisation as of May 2026
+        kind: numerical
+        value: "fewer than 210"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "As of May 2026, fewer than 210 of the 1,200-plus firms that previously held national crypto registrations"
+      - claim: total firms previously holding national registrations
+        kind: numerical
+        value: "1,200-plus"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "fewer than 210 of the 1,200-plus firms that previously held national crypto registrations across the EU"
+      - claim: conversion rate
+        kind: numerical_with_unit
+        value: "below 18%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "had obtained full authorisation — a conversion rate below 18%"
+      - claim: MiCA coverage — number of EU member states
+        kind: numerical_with_unit
+        value: "all 27 member states"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "covering exchanges, brokers, and digital wallet providers across all 27 member states"
+      - claim: data point — May 2026 assessment
+        kind: temporal
+        value: May 2026
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "As of May 2026, fewer than 210 of the 1,200-plus firms"
+      - claim: named institution — Coinbase (Ireland)
+        kind: named_institution
+        value: Coinbase
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "Licensed firms include Coinbase (Ireland), Kraken (Ireland and Luxembourg), and Revolut (Cyprus)"
+      - claim: named institution — Kraken
+        kind: named_institution
+        value: Kraken
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "Licensed firms include Coinbase (Ireland), Kraken (Ireland and Luxembourg), and Revolut (Cyprus)"
+      - claim: named institution — Revolut
+        kind: named_institution
+        value: Revolut
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "Licensed firms include Coinbase (Ireland), Kraken (Ireland and Luxembourg), and Revolut (Cyprus)"
+      - claim: named institution — Binance (Greece licence rejection expected)
+        kind: named_institution
+        value: Binance
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "Greece's regulator is expected to reject Binance's licence application"
+      - claim: named product — Crypto-Asset Reporting Framework (CARF)
+        kind: named_product
+        value: Crypto-Asset Reporting Framework (CARF)
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "The Crypto-Asset Reporting Framework (CARF) under DAC8 also took effect from 1 January 2026"
+      - claim: CARF effective date
+        kind: temporal
+        value: 1 January 2026
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "CARF under DAC8 also took effect from 1 January 2026"
+      - claim: first CARF cross-border exchanges year
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "with first cross-border exchanges in 2027"
+      - claim: named person — Yamal Kalaf, co-founder MiCAR Whitepapers Europe
+        kind: named_person
+        value: Yamal Kalaf
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "Yamal Kalaf (co-founder, MiCAR Whitepapers Europe)"
+      - claim: named person — Roshan Dharia, CEO Echo Base
+        kind: named_person
+        value: Roshan Dharia
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "Roshan Dharia (CEO, Echo Base)"
+      - claim: named person — Floortje Nagelkerke, Norton Rose Fulbright
+        kind: named_person
+        value: Floortje Nagelkerke
+        source_urls:
+          - https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        verbatim_excerpt: "Floortje Nagelkerke (Norton Rose Fulbright)"
+    quotes:
+      - speaker_name: Yamal Kalaf
+        speaker_title: Co-founder, MiCAR Whitepapers Europe
+        verbatim_en: "a genuine single market replacing the old patchwork of 27 national regimes."
+        source_url: https://www.euronews.com/business/2026/06/24/europes-crypto-reset-mica-creates-a-single-market-as-hundreds-of-firms-face-exit
+        context: commentary on MiCA post-July 1 2026 outcome
+
+  - story_id: ribera-warns-against-blocking-bank-mergers
+    category: econ
+    headline_en: EU Competition Chief Ribera Warns Governments Against Blocking Cross-Border Bank Mergers
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.retailbankerinternational.com/news/eu-cross-border-bank-mergers/
+      - https://www.investmentmonitor.ai/news/competition-chief-backs-cross-border-bank-mergers/
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+      - https://www.retailbankerinternational.com/news/eu-cross-border-bank-mergers/
+      - https://www.investmentmonitor.ai/news/competition-chief-backs-cross-border-bank-mergers/
+    hard_facts:
+      - claim: interview date
+        kind: temporal
+        value: 24 June 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "warned in a Bloomberg TV interview on 24 June 2026"
+      - claim: named person — Teresa Ribera, EU competition chief
+        kind: named_person
+        value: Teresa Ribera
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "EU competition chief Teresa Ribera, Executive Vice-President of the European Commission"
+      - claim: Ribera title
+        kind: named_person
+        value: Executive Vice-President of the European Commission
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "Teresa Ribera, Executive Vice-President of the European Commission"
+      - claim: named institution — UniCredit
+        kind: named_institution
+        value: UniCredit
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "responding directly to Germany's formal rejection of UniCredit's €39 billion takeover bid for Commerzbank"
+      - claim: named institution — Commerzbank
+        kind: named_institution
+        value: Commerzbank
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "UniCredit's €39 billion takeover bid for Commerzbank"
+      - claim: UniCredit bid value for Commerzbank
+        kind: numerical_with_unit
+        value: "€39 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "Germany's formal rejection of UniCredit's €39 billion takeover bid for Commerzbank"
+      - claim: UniCredit stake in Commerzbank
+        kind: numerical_with_unit
+        value: "42.5%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "UniCredit now holds 42.5% of Commerzbank following its voluntary exchange offer's conclusion on 16 June"
+      - claim: UniCredit exchange offer conclusion date
+        kind: temporal
+        value: 16 June
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "following its voluntary exchange offer's conclusion on 16 June"
+      - claim: UniCredit-Commerzbank episode start
+        kind: temporal
+        value: late 2024
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        verbatim_excerpt: "the UniCredit-Commerzbank episode began in late 2024"
+    quotes:
+      - speaker_name: Teresa Ribera
+        speaker_title: Executive Vice-President, European Commission (EU competition chief)
+        verbatim_en: "Cross-border mergers that help the single market should be welcome."
+        source_url: https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        context: Bloomberg TV interview, 24 June 2026
+      - speaker_name: Teresa Ribera
+        speaker_title: Executive Vice-President, European Commission (EU competition chief)
+        verbatim_en: "Member States should applaud these deals for the overall good."
+        source_url: https://www.bloomberg.com/news/articles/2026-06-24/eu-competition-chief-warns-governments-not-to-stymie-bank-deals
+        context: Bloomberg TV interview, 24 June 2026
+# ANCHOR_AFTER_STORY_4

@@ -1,0 +1,1125 @@
+version: 1
+generated_at: "2026-06-24T12:00:00Z"
+country: United States
+date: "2026-06-24"
+total_stories: 13
+stories:
+  - story_id: trump-doj-probe-oil-gasoline-price-gouging
+    category: econ
+    headline_en: Trump orders DOJ probe into oil company gasoline price gouging
+    lead_url: https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/politics/donald-trump/trump-gas-price-gouging-oil-iran-war-hormuz-doj-rcna351522
+      - https://www.washingtonexaminer.com/news/4622304/trump-blasts-oil-companies-for-not-lowering-prices/
+      - https://www.benzinga.com/news/politics/26/06/60062541/trump-orders-doj-probe-into-big-oil-says-americans-are-being-gouged-at-the-pump-gasoline-prices-better-start
+      - https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Gas-Price-Gouging-Probe.html
+    locked_urls:
+      - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+      - https://www.nbcnews.com/politics/donald-trump/trump-gas-price-gouging-oil-iran-war-hormuz-doj-rcna351522
+      - https://www.washingtonexaminer.com/news/4622304/trump-blasts-oil-companies-for-not-lowering-prices/
+      - https://www.benzinga.com/news/politics/26/06/60062541/trump-orders-doj-probe-into-big-oil-says-americans-are-being-gouged-at-the-pump-gasoline-prices-better-start
+      - https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Gas-Price-Gouging-Probe.html
+    hard_facts:
+      - claim: Trump post platform and timing
+        kind: temporal
+        value: "shortly after midnight on June 24, 2026"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "President Trump posted on Truth Social shortly after midnight on June 24, 2026"
+      - claim: Trump post platform
+        kind: named_product
+        value: Truth Social
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "President Trump posted on Truth Social shortly after midnight on June 24, 2026"
+      - claim: agency directed to investigate
+        kind: named_institution
+        value: Department of Justice
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "instructing the Department of Justice to immediately investigate major oil companies"
+      - claim: crude oil price decline percentage over one month
+        kind: numerical_with_unit
+        value: "approximately 27%"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "Crude oil prices have fallen approximately 27% over the past month"
+      - claim: crude oil price start of decline period
+        kind: numerical_with_unit
+        value: "$104 per barrel"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "from $104 per barrel to just under $76 per barrel"
+      - claim: crude oil price end of decline period
+        kind: numerical_with_unit
+        value: "just under $76 per barrel"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "from $104 per barrel to just under $76 per barrel"
+      - claim: gasoline pump price decline percentage
+        kind: numerical_with_unit
+        value: "approximately 13%"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "gasoline prices at the pump declined only approximately 13% over the same period"
+      - claim: national average regular gasoline price
+        kind: numerical_with_unit
+        value: "$3.93 per gallon"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "the national average for regular gas at $3.93 per gallon"
+      - claim: date when gas last below $4
+        kind: temporal
+        value: "March 30, 2026"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "below $4 for the first time since March 30, 2026"
+      - claim: crude price pass-through after one week
+        kind: numerical_with_unit
+        value: "13%"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "studies showing 13% pass-through after one week"
+      - claim: crude price pass-through after three months
+        kind: numerical_with_unit
+        value: "37%"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "37% after three months"
+      - claim: crude price pass-through long-term
+        kind: numerical_with_unit
+        value: "50%"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "50% over the long term"
+      - claim: share of global oil supply through Strait of Hormuz
+        kind: numerical_with_unit
+        value: "roughly one-fifth"
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "reopening the Strait of Hormuz through which roughly one-fifth of global oil supply flows"
+      - claim: Strait of Hormuz as geographic feature
+        kind: named_product
+        value: Strait of Hormuz
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "reopening the Strait of Hormuz through which roughly one-fifth of global oil supply flows"
+      - claim: Treasury Secretary identity
+        kind: named_person
+        value: Scott Bessent
+        source_urls:
+          - https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        verbatim_excerpt: "Treasury Secretary Scott Bessent separately stressed the need to"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "The big Oil Companies are not dropping their price at the pump commensurate with the sharply lower prices they are paying for Oil."
+        source_url: https://fortune.com/2026/06/24/trump-doj-probe-oil-price-consumers-affordability-bessent/
+        context: Truth Social post shortly after midnight on June 24, 2026
+
+  - story_id: fed-2026-bank-stress-test-32-large-banks
+    category: econ
+    headline_en: Federal Reserve releases 2026 annual bank stress test results for 32 large US banks
+    lead_url: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+    body_source: full
+    corroborated_by:
+      - https://www.investing.com/news/economy-news/us-fed-to-release-2026-bank-stress-test-results-on-june-24-4733998
+      - https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/2392913/federal-reserve-to-release-2026-bank-stress-test-results-on-june-24-for-32-major-lenders/
+    locked_urls:
+      - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+      - https://www.investing.com/news/economy-news/us-fed-to-release-2026-bank-stress-test-results-on-june-24-4733998
+      - https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/2392913/federal-reserve-to-release-2026-bank-stress-test-results-on-june-24-for-32-major-lenders/
+    hard_facts:
+      - claim: release date and time
+        kind: temporal
+        value: "Wednesday, June 24, at 4:00 p.m. EDT"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "release results of its 2026 annual bank stress test on Wednesday, June 24, at 4:00 p.m. EDT"
+      - claim: number of large US banks covered
+        kind: numerical
+        value: "32"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "The test covers 32 large U.S. banks"
+      - claim: institution covered — JPMorgan Chase
+        kind: named_institution
+        value: JPMorgan Chase
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "including JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, Goldman Sachs, and Morgan Stanley"
+      - claim: institution covered — Bank of America
+        kind: named_institution
+        value: Bank of America
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "including JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, Goldman Sachs, and Morgan Stanley"
+      - claim: institution covered — Citigroup
+        kind: named_institution
+        value: Citigroup
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "including JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, Goldman Sachs, and Morgan Stanley"
+      - claim: institution covered — Wells Fargo
+        kind: named_institution
+        value: Wells Fargo
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "including JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, Goldman Sachs, and Morgan Stanley"
+      - claim: institution covered — Goldman Sachs
+        kind: named_institution
+        value: Goldman Sachs
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "including JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, Goldman Sachs, and Morgan Stanley"
+      - claim: institution covered — Morgan Stanley
+        kind: named_institution
+        value: Morgan Stanley
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "including JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, Goldman Sachs, and Morgan Stanley"
+      - claim: severe adverse unemployment rise
+        kind: numerical_with_unit
+        value: "nearly 5.5 percentage points"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "unemployment rising nearly 5.5 percentage points to a peak of 10%"
+      - claim: severe adverse unemployment peak
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "unemployment rising nearly 5.5 percentage points to a peak of 10%"
+      - claim: severe adverse house price decline
+        kind: numerical_with_unit
+        value: "30%"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "a 30% decline in house prices"
+      - claim: severe adverse commercial real estate decline
+        kind: numerical_with_unit
+        value: "39%"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "a 39% decline in commercial real estate values"
+      - claim: date Fed voted to maintain SCB requirements
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "The Fed voted in February 2026 to maintain current stress capital buffer (SCB) requirements unchanged through 2027"
+      - claim: SCB requirements maintained through year
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "maintain current stress capital buffer (SCB) requirements unchanged through 2027"
+      - claim: number of banks in 2025 stress test
+        kind: numerical
+        value: "22"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "The 2025 test found that all 22 large banks tested were well-positioned"
+      - claim: number of banks in 2026 stress test expanded roster
+        kind: numerical
+        value: "32"
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "The 2026 test expanded the roster to 32 institutions"
+      - claim: named product — stress capital buffer
+        kind: named_product
+        value: stress capital buffer (SCB)
+        source_urls:
+          - https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+        verbatim_excerpt: "maintain current stress capital buffer (SCB) requirements unchanged through 2027"
+    quotes: []
+
+  - story_id: census-bureau-may-2026-new-residential-sales
+    category: econ
+    headline_en: Census Bureau releases May 2026 new residential sales data
+    lead_url: https://www.census.gov/construction/nrs/
+    body_source: full
+    corroborated_by:
+      - https://www.census.gov/economic-indicators/calendar-listview.html
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026
+    locked_urls:
+      - https://www.census.gov/construction/nrs/
+      - https://www.census.gov/economic-indicators/calendar-listview.html
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026
+    hard_facts:
+      - claim: release date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "scheduled to release May 2026 new residential sales data on June 24, 2026"
+      - claim: releasing institutions
+        kind: named_institution
+        value: U.S. Census Bureau
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "The U.S. Census Bureau, jointly with HUD, is scheduled to release"
+      - claim: co-releasing institution
+        kind: named_institution
+        value: HUD
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "The U.S. Census Bureau, jointly with HUD, is scheduled to release"
+      - claim: April 2026 new single-family house sales rate
+        kind: numerical_with_unit
+        value: "622,000"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "sales of new single-family houses at a seasonally adjusted annual rate of 622,000"
+      - claim: April 2026 sales decline from March 2026
+        kind: numerical_with_unit
+        value: "6.2%"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "a 6.2% decline from March 2026's 663,000 rate"
+      - claim: March 2026 new single-family house sales rate
+        kind: numerical_with_unit
+        value: "663,000"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "from March 2026's 663,000 rate"
+      - claim: April 2026 sales decline from April 2025
+        kind: numerical_with_unit
+        value: "11.3%"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "11.3% below the April 2025 rate"
+      - claim: existing home sales May 2026 change
+        kind: numerical_with_unit
+        value: "3.2%"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "Existing home sales in May 2026 rose 3.2% to 4.17 million"
+      - claim: existing home sales May 2026 total
+        kind: numerical_with_unit
+        value: "4.17 million"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "Existing home sales in May 2026 rose 3.2% to 4.17 million"
+      - claim: median existing home sales price May 2026
+        kind: numerical_with_unit
+        value: "$429,300"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "with a median sales price of $429,300"
+      - claim: months of supply May 2026
+        kind: numerical_with_unit
+        value: "4.5 months"
+        source_urls:
+          - https://www.census.gov/construction/nrs/
+        verbatim_excerpt: "and 4.5 months of supply"
+    quotes: []
+
+  - story_id: iaea-iran-nuclear-inspections-confirmed
+    category: politics
+    headline_en: IAEA chief confirms Iran nuclear inspections will proceed despite Tehran's denial
+    lead_url: https://www.euronews.com/my-europe/2026/06/24/iaea-chief-says-inspections-of-iran-nuclear-sites-will-happen-despite-tehrans-denial
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/24/iaea-iran-inspections
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/24/iaea-chief-says-inspections-of-iran-nuclear-sites-will-happen-despite-tehrans-denial
+      - https://www.npr.org/2026/06/24/iaea-iran-inspections
+    hard_facts:
+      - claim: IAEA Director General identity
+        kind: named_person
+        value: Rafael Mariano Grossi
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/iaea-chief-says-inspections-of-iran-nuclear-sites-will-happen-despite-tehrans-denial
+        verbatim_excerpt: "IAEA Director General Rafael Mariano Grossi confirmed on June 24, 2026"
+      - claim: confirmation date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/iaea-chief-says-inspections-of-iran-nuclear-sites-will-happen-despite-tehrans-denial
+        verbatim_excerpt: "IAEA Director General Rafael Mariano Grossi confirmed on June 24, 2026"
+      - claim: institution — IAEA
+        kind: named_institution
+        value: IAEA
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/iaea-chief-says-inspections-of-iran-nuclear-sites-will-happen-despite-tehrans-denial
+        verbatim_excerpt: "IAEA inspections of Iranian nuclear sites will proceed"
+      - claim: Iran ministry denial
+        kind: named_institution
+        value: Iran's foreign ministry
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/iaea-chief-says-inspections-of-iran-nuclear-sites-will-happen-despite-tehrans-denial
+        verbatim_excerpt: "Iran's foreign ministry had denied that any agreement allowing IAEA inspectors access to disputed sites was in place"
+      - claim: Grossi reassertion date
+        kind: temporal
+        value: "June 24"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/24/iaea-chief-says-inspections-of-iran-nuclear-sites-will-happen-despite-tehrans-denial
+        verbatim_excerpt: "Grossi's June 24 statement reasserted the IAEA's authority"
+    quotes: []
+
+  - story_id: trump-capitol-hill-save-act-senate-lunch
+    category: politics
+    headline_en: Trump visits Capitol Hill for tense SAVE Act Senate lunch amid narrow vote margin
+    lead_url: https://www.washingtonexaminer.com/news/4618866/trump-senate-lunch-save-act-republicans-vote-whip/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.washingtonexaminer.com/news/4618866/trump-senate-lunch-save-act-republicans-vote-whip/
+    hard_facts:
+      - claim: visit date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.washingtonexaminer.com/news/4618866/trump-senate-lunch-save-act-republicans-vote-whip/
+        verbatim_excerpt: "President Trump traveled to Capitol Hill on June 24, 2026"
+      - claim: legislation name
+        kind: named_product
+        value: SAVE Act
+        source_urls:
+          - https://www.washingtonexaminer.com/news/4618866/trump-senate-lunch-save-act-republicans-vote-whip/
+        verbatim_excerpt: "focused on the SAVE Act — legislation that would require documentary proof of citizenship to register to vote"
+      - claim: prior passage venue
+        kind: named_institution
+        value: House
+        source_urls:
+          - https://www.washingtonexaminer.com/news/4618866/trump-senate-lunch-save-act-republicans-vote-whip/
+        verbatim_excerpt: "The legislation passed the House in an earlier session"
+    quotes: []
+
+  - story_id: trump-signs-21st-century-road-housing-act
+    category: politics
+    headline_en: Trump signs 21st Century ROAD to Housing Act at Capitol
+    lead_url: https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill
+    body_source: full
+    corroborated_by:
+      - https://aniinternational.com/2026/06/24/trump-signs-road-to-housing-act
+      - https://www.washingtonexaminer.com/news/road-to-housing-act-trump-signing
+    locked_urls:
+      - https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill
+      - https://aniinternational.com/2026/06/24/trump-signs-road-to-housing-act
+      - https://www.washingtonexaminer.com/news/road-to-housing-act-trump-signing
+    hard_facts:
+      - claim: signing date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill
+        verbatim_excerpt: "President Trump signed the 21st Century ROAD to Housing Act on June 24, 2026"
+      - claim: legislation name
+        kind: named_product
+        value: 21st Century ROAD to Housing Act
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill
+        verbatim_excerpt: "President Trump signed the 21st Century ROAD to Housing Act on June 24, 2026"
+      - claim: Congress passage date
+        kind: temporal
+        value: "June 23"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill
+        verbatim_excerpt: "The legislation, passed by Congress on June 23"
+      - claim: national median home price
+        kind: numerical_with_unit
+        value: "$429,300"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill
+        verbatim_excerpt: "The national median home price stood at $429,300 in May 2026"
+      - claim: median home price reference month
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill
+        verbatim_excerpt: "The national median home price stood at $429,300 in May 2026"
+    quotes: []
+
+  - story_id: slate-auto-24950-ev-pickup-truck-preorders
+    category: tech
+    headline_en: "Slate Auto reveals $24,950 electric pickup truck with 150-mile range, opens preorders"
+    lead_url: https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+    hard_facts:
+      - claim: company name
+        kind: named_institution
+        value: Slate Auto
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "Slate Auto, the EV startup backed by Jeff Bezos"
+      - claim: Slate Auto backer
+        kind: named_person
+        value: Jeff Bezos
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "Slate Auto, the EV startup backed by Jeff Bezos"
+      - claim: unveil date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "unveiled its electric pickup truck on June 24, 2026"
+      - claim: truck entry price
+        kind: numerical_with_unit
+        value: "$24,950"
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "pricing it at $24,950"
+      - claim: truck range
+        kind: numerical_with_unit
+        value: "150-mile range"
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "The vehicle features a 150-mile range"
+      - claim: competing model — Ford F-150 Lightning price
+        kind: numerical_with_unit
+        value: "~$50K+"
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "Ford (F-150 Lightning ~$50K+)"
+      - claim: competing model — Ford F-150 Lightning
+        kind: named_product
+        value: F-150 Lightning
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "Ford (F-150 Lightning ~$50K+)"
+      - claim: competing model — Rivian R1T price
+        kind: numerical_with_unit
+        value: "~$70K+"
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "Rivian (R1T ~$70K+)"
+      - claim: competing model — Rivian R1T
+        kind: named_product
+        value: R1T
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "Rivian (R1T ~$70K+)"
+      - claim: competing manufacturer — Ford
+        kind: named_institution
+        value: Ford
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "Competing models from Ford (F-150 Lightning ~$50K+) and Rivian (R1T ~$70K+)"
+      - claim: competing manufacturer — Rivian
+        kind: named_institution
+        value: Rivian
+        source_urls:
+          - https://www.acquiremag.com/news/slate-auto-reveals-electric-pickup-truck-priced-at-24950.php
+        verbatim_excerpt: "Competing models from Ford (F-150 Lightning ~$50K+) and Rivian (R1T ~$70K+)"
+    quotes: []
+
+  - story_id: micron-q3-fy2026-earnings-june-24
+    category: tech
+    headline_en: Micron Technology reports Q3 FY2026 earnings after market close June 24
+    lead_url: https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+    body_source: full
+    corroborated_by:
+      - https://www.marketbeat.com/earnings/reports/2026-6-24-micron-technology-inc-stock/
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026
+      - https://www.ig.com/en/news-and-trade-ideas/micron-q3-fy2026-earnings-preview-260623
+    locked_urls:
+      - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+      - https://www.marketbeat.com/earnings/reports/2026-6-24-micron-technology-inc-stock/
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026
+      - https://www.ig.com/en/news-and-trade-ideas/micron-q3-fy2026-earnings-preview-260623
+    hard_facts:
+      - claim: company name
+        kind: named_institution
+        value: Micron Technology
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "Micron Technology is scheduled to report Q3 FY2026 results on June 24, 2026"
+      - claim: results release date and time
+        kind: temporal
+        value: "June 24, 2026, at 4:30 p.m. ET"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "on June 24, 2026, at 4:30 p.m. ET"
+      - claim: CEO identity
+        kind: named_person
+        value: Sanjay Mehrotra
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "earnings call with CEO Sanjay Mehrotra and CFO Mark Murphy"
+      - claim: CFO identity
+        kind: named_person
+        value: Mark Murphy
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "earnings call with CEO Sanjay Mehrotra and CFO Mark Murphy"
+      - claim: number of analysts in consensus
+        kind: numerical
+        value: "31"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "Consensus estimates (31 analysts)"
+      - claim: consensus revenue estimate range low
+        kind: numerical_with_unit
+        value: "$34.5 billion"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "project Q3 revenue of approximately $34.5–$35.75 billion"
+      - claim: consensus revenue estimate range high
+        kind: numerical_with_unit
+        value: "$35.75 billion"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "project Q3 revenue of approximately $34.5–$35.75 billion"
+      - claim: consensus revenue YoY growth estimate
+        kind: numerical_with_unit
+        value: "~283% YoY growth"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "(~283% YoY growth)"
+      - claim: consensus adjusted EPS estimate range low
+        kind: numerical_with_unit
+        value: "$19.72"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "adjusted EPS of approximately $19.72–$20.98"
+      - claim: consensus adjusted EPS estimate range high
+        kind: numerical_with_unit
+        value: "$20.98"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "adjusted EPS of approximately $19.72–$20.98"
+      - claim: Micron guidance revenue midpoint
+        kind: numerical_with_unit
+        value: "$33.5 billion"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "Micron's own guidance was revenue of $33.5 billion ±$750 million"
+      - claim: Micron guidance revenue tolerance
+        kind: numerical_with_unit
+        value: "±$750 million"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "$33.5 billion ±$750 million"
+      - claim: Micron guidance non-GAAP EPS midpoint
+        kind: numerical_with_unit
+        value: "$19.15"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "non-GAAP EPS $19.15 ±$0.40"
+      - claim: Micron guidance non-GAAP EPS tolerance
+        kind: numerical_with_unit
+        value: "±$0.40"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "non-GAAP EPS $19.15 ±$0.40"
+      - claim: Micron guidance gross margin
+        kind: numerical_with_unit
+        value: "~81%"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "~81% gross margins"
+      - claim: HBM revenue milestone quarter
+        kind: temporal
+        value: "Q2 FY2026"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "HBM revenue trajectory (crossed $1 billion quarterly in Q2 FY2026)"
+      - claim: HBM quarterly revenue milestone
+        kind: numerical_with_unit
+        value: "$1 billion"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "crossed $1 billion quarterly in Q2 FY2026"
+      - claim: Q4 consensus revenue estimate range
+        kind: numerical_with_unit
+        value: "$38–$40 billion"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "Q4 guidance (consensus $38–$40 billion)"
+      - claim: Micron premarket price change on June 24
+        kind: numerical_with_unit
+        value: "4.1%"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "Micron rebounded 4.1% after falling 13% on June 23"
+      - claim: Micron price drop on June 23
+        kind: numerical_with_unit
+        value: "13%"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "after falling 13% on June 23 amid chip sector pressure"
+      - claim: South Korea KOSPI drop
+        kind: numerical_with_unit
+        value: "9.99%"
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "following South Korea's KOSPI dropping 9.99%"
+      - claim: named product — HBM4
+        kind: named_product
+        value: HBM4
+        source_urls:
+          - https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html
+        verbatim_excerpt: "HBM4 progress"
+    quotes: []
+
+  - story_id: appeals-court-trump-expedited-deportation
+    category: society
+    headline_en: Federal appeals court upholds Trump's expanded expedited deportation authority
+    lead_url: https://www.npr.org/2026/06/24/nx-s1-5869125/appeals-court-expedited-removal-trump-immigration
+    body_source: full
+    corroborated_by:
+      - https://www.foxnews.com/politics/biden-judge-overruled-key-trump-immigration-policy
+      - https://www.pbs.org/newshour/nation/appeals-court-allows-trump-expedited-removal
+    locked_urls:
+      - https://www.npr.org/2026/06/24/nx-s1-5869125/appeals-court-expedited-removal-trump-immigration
+      - https://www.foxnews.com/politics/biden-judge-overruled-key-trump-immigration-policy
+      - https://www.pbs.org/newshour/nation/appeals-court-allows-trump-expedited-removal
+    hard_facts:
+      - claim: ruling date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/24/nx-s1-5869125/appeals-court-expedited-removal-trump-immigration
+        verbatim_excerpt: "A federal appeals court on June 24, 2026 upheld the Trump administration's expanded use of expedited removal"
+      - claim: named product — policy
+        kind: named_product
+        value: expedited removal
+        source_urls:
+          - https://www.npr.org/2026/06/24/nx-s1-5869125/appeals-court-expedited-removal-trump-immigration
+        verbatim_excerpt: "upheld the Trump administration's expanded use of expedited removal"
+    quotes: []
+
+  - story_id: spacex-25-billion-investment-grade-bond
+    category: ipo_ma
+    headline_en: SpaceX prices $25 billion inaugural investment-grade bond offering
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/amp/2026/06/23/spacex-debt-bond-market-ipo.html
+      - https://qz.com/spacex-bond-sale-25-billion-investment-grade-062326
+      - https://www.stocktitan.net/sec-filings/SPCX/8-k-space-exploration-technologies-corp-reports-material-event-8ac863272dc9.html
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+      - https://www.cnbc.com/amp/2026/06/23/spacex-debt-bond-market-ipo.html
+      - https://qz.com/spacex-bond-sale-25-billion-investment-grade-062326
+      - https://www.stocktitan.net/sec-filings/SPCX/8-k-space-exploration-technologies-corp-reports-material-event-8ac863272dc9.html
+    hard_facts:
+      - claim: company name
+        kind: named_institution
+        value: SpaceX
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "SpaceX (Nasdaq: SPCX) priced $25 billion in inaugural investment-grade senior unsecured notes"
+      - claim: stock ticker
+        kind: named_product
+        value: "SPCX"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "SpaceX (Nasdaq: SPCX)"
+      - claim: bond pricing date
+        kind: temporal
+        value: "June 23, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "priced $25 billion in inaugural investment-grade senior unsecured notes on June 23, 2026"
+      - claim: total bond size
+        kind: numerical_with_unit
+        value: "$25 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "SpaceX (Nasdaq: SPCX) priced $25 billion in inaugural investment-grade senior unsecured notes"
+      - claim: investor demand
+        kind: numerical_with_unit
+        value: "approximately $89 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "demand reaching approximately $89 billion"
+      - claim: original bond target
+        kind: numerical_with_unit
+        value: "$20 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "nearly quadrupling the original $20 billion target"
+      - claim: bond upsizing amount
+        kind: numerical_with_unit
+        value: "$5 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "allowing a $5 billion upsizing"
+      - claim: number of tranches
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "The five-tranche structure"
+      - claim: tranche 1 size and coupon and maturity
+        kind: named_product
+        value: "$7.0 billion 5.350% notes due 2031"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "$7.0 billion 5.350% notes due 2031"
+      - claim: tranche 2 size and coupon and maturity
+        kind: named_product
+        value: "$6.0 billion 5.650% notes due 2033"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "$6.0 billion 5.650% notes due 2033"
+      - claim: tranche 3 size and coupon and maturity
+        kind: named_product
+        value: "$6.0 billion 5.875% notes due 2036"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "$6.0 billion 5.875% notes due 2036"
+      - claim: tranche 4 size and coupon and maturity
+        kind: named_product
+        value: "$2.5 billion 6.600% notes due 2046"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "$2.5 billion 6.600% notes due 2046"
+      - claim: tranche 5 size and coupon and maturity
+        kind: named_product
+        value: "$3.5 billion 6.650% notes due 2056"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "$3.5 billion 6.650% notes due 2056"
+      - claim: SpaceX cash position
+        kind: numerical_with_unit
+        value: "approximately $100.8 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "SpaceX holds approximately $100.8 billion in cash (as of June 19, 2026)"
+      - claim: cash position date
+        kind: temporal
+        value: "June 19, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "as of June 19, 2026"
+      - claim: Moody's credit rating
+        kind: named_product
+        value: "Baa1"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "ratings Moody's Baa1, S&P BBB+, Fitch BBB"
+      - claim: rating agency — Moody's
+        kind: named_institution
+        value: "Moody's"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "ratings Moody's Baa1, S&P BBB+, Fitch BBB"
+      - claim: S&P credit rating
+        kind: named_product
+        value: "BBB+"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "S&P BBB+"
+      - claim: rating agency — S&P
+        kind: named_institution
+        value: "S&P"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "ratings Moody's Baa1, S&P BBB+, Fitch BBB"
+      - claim: Fitch credit rating
+        kind: named_product
+        value: "BBB"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "Fitch BBB"
+      - claim: rating agency — Fitch
+        kind: named_institution
+        value: "Fitch"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "ratings Moody's Baa1, S&P BBB+, Fitch BBB"
+      - claim: SpaceX IPO date
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "SpaceX's IPO on June 12, 2026"
+      - claim: SpaceX IPO price
+        kind: numerical_with_unit
+        value: "$135/share"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "SpaceX's IPO on June 12, 2026 at $135/share"
+      - claim: SpaceX valuation at IPO
+        kind: numerical_with_unit
+        value: "approximately $2 trillion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "valuing the company at approximately $2 trillion"
+      - claim: acquisition funded by bond proceeds — X
+        kind: named_institution
+        value: X
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "repay the bridge loan that funded SpaceX's pre-IPO debt (including acquisition of X and xAI financing)"
+      - claim: acquisition funded by bond proceeds — xAI
+        kind: named_institution
+        value: xAI
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-24/spacex-bond-deal-debt-market-analysis
+        verbatim_excerpt: "including acquisition of X and xAI financing"
+    quotes: []
+
+  - story_id: france-first-ebola-case-europe-2026
+    category: other
+    headline_en: France confirms first Ebola case in Europe in current outbreak; CDC maintains US travel alert
+    lead_url: https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+    body_source: full
+    corroborated_by:
+      - https://www.france24.com/en/france/20260624-france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo-mission
+      - https://gulfnews.com/world/europe/france-confirms-first-ebola-case-on-its-territory-in-current-outbreak-1.500585139
+      - https://www.cdc.gov/ebola/situation-summary/index.html
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+      - https://www.france24.com/en/france/20260624-france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo-mission
+      - https://gulfnews.com/world/europe/france-confirms-first-ebola-case-on-its-territory-in-current-outbreak-1.500585139
+      - https://www.cdc.gov/ebola/situation-summary/index.html
+    hard_facts:
+      - claim: confirmation date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+        verbatim_excerpt: "France confirmed its first Ebola case on June 24, 2026"
+      - claim: case origin country
+        kind: named_institution
+        value: Democratic Republic of Congo
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+        verbatim_excerpt: "a healthcare worker who returned from a humanitarian mission in the Democratic Republic of Congo"
+      - claim: contact isolation period
+        kind: numerical_with_unit
+        value: "21 days"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+        verbatim_excerpt: "close contacts must self-isolate for 21 days"
+      - claim: Ebola strain in current outbreak
+        kind: named_product
+        value: Bundibugyo virus
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+        verbatim_excerpt: "The current strain is Bundibugyo virus"
+      - claim: DRC outbreak deaths
+        kind: numerical_with_unit
+        value: "more than 260 people"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+        verbatim_excerpt: "has killed more than 260 people and infected more than 1,000"
+      - claim: DRC outbreak infections
+        kind: numerical_with_unit
+        value: "more than 1,000"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+        verbatim_excerpt: "infected more than 1,000"
+      - claim: DRC outbreak province
+        kind: named_institution
+        value: Ituri province
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+        verbatim_excerpt: "centered in Ituri province since May 2026"
+      - claim: DRC outbreak start
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo
+        verbatim_excerpt: "centered in Ituri province since May 2026"
+      - claim: CDC Title 42 order date
+        kind: temporal
+        value: "June 21, 2026"
+        source_urls:
+          - https://www.cdc.gov/ebola/situation-summary/index.html
+        verbatim_excerpt: "The US CDC issued a Title 42 order on June 21, 2026"
+      - claim: CDC institution
+        kind: named_institution
+        value: CDC
+        source_urls:
+          - https://www.cdc.gov/ebola/situation-summary/index.html
+        verbatim_excerpt: "The US CDC issued a Title 42 order on June 21, 2026"
+    quotes: []
+
+  - story_id: alan-wilson-wins-sc-gop-governor-runoff
+    category: other
+    headline_en: Alan Wilson wins South Carolina Republican gubernatorial primary runoff
+    lead_url: https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+    body_source: full
+    corroborated_by:
+      - https://thehill.com/homenews/campaign/5923288-live-results-south-carolina-republican-gubernatorial-runoff/
+      - https://www.washingtonpost.com/elections/results/2026/06/23/south-carolina-runoff-primary-election-results-2026-live-updates/
+      - https://www.foxnews.com/politics/trump-endorsement-streak-gets-unusual-boost-south-carolina-gop-governor-nomination
+    locked_urls:
+      - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+      - https://thehill.com/homenews/campaign/5923288-live-results-south-carolina-republican-gubernatorial-runoff/
+      - https://www.washingtonpost.com/elections/results/2026/06/23/south-carolina-runoff-primary-election-results-2026-live-updates/
+      - https://www.foxnews.com/politics/trump-endorsement-streak-gets-unusual-boost-south-carolina-gop-governor-nomination
+    hard_facts:
+      - claim: winner identity
+        kind: named_person
+        value: Alan Wilson
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "State Attorney General Alan Wilson defeated Lt. Gov. Pamela Evette"
+      - claim: winner title
+        kind: named_person
+        value: State Attorney General
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "State Attorney General Alan Wilson defeated Lt. Gov. Pamela Evette"
+      - claim: loser identity
+        kind: named_person
+        value: Pamela Evette
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "State Attorney General Alan Wilson defeated Lt. Gov. Pamela Evette"
+      - claim: loser title
+        kind: named_person
+        value: Lt. Gov.
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "Lt. Gov. Pamela Evette"
+      - claim: runoff date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "South Carolina's Republican gubernatorial primary runoff held on June 24, 2026"
+      - claim: first-round primary date
+        kind: temporal
+        value: "June 9"
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "neither secured a majority in the June 9 first-round primary"
+      - claim: first-round primary leader
+        kind: named_person
+        value: Pamela Evette
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "in which Evette finished first"
+      - claim: Democratic nominee identity
+        kind: named_person
+        value: Jermaine Johnson
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "Wilson will face Democratic nominee Jermaine Johnson"
+      - claim: general election date
+        kind: temporal
+        value: "November 2026"
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "in the November 2026 general election"
+      - claim: incumbent governor identity
+        kind: named_person
+        value: Henry McMaster
+        source_urls:
+          - https://www.nbcnews.com/politics/2026-primary-elections/south-carolina-governor-runoff-results
+        verbatim_excerpt: "to succeed term-limited Gov. Henry McMaster"
+    quotes: []
+
+  - story_id: depo-provera-mld-3140-daubert-hearing
+    category: other
+    headline_en: Depo-Provera MDL-3140 general causation Daubert hearing commences in Northern District of Florida
+    lead_url: https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+    body_source: full
+    corroborated_by:
+      - https://mdlupdate.com/mdl/3140-depo-provera/
+      - https://www.seegerweiss.com/product-liability/depo-provera-lawsuit/
+    locked_urls:
+      - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+      - https://mdlupdate.com/mdl/3140-depo-provera/
+      - https://www.seegerweiss.com/product-liability/depo-provera-lawsuit/
+    hard_facts:
+      - claim: hearing start date
+        kind: temporal
+        value: "June 24, 2026"
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "General causation Daubert hearings in MDL-3140 (Depo-Provera meningioma litigation) are scheduled to commence on June 24, 2026"
+      - claim: MDL case number
+        kind: named_product
+        value: MDL-3140
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "General causation Daubert hearings in MDL-3140 (Depo-Provera meningioma litigation)"
+      - claim: presiding judge
+        kind: named_person
+        value: M. Casey Rodgers
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "before U.S. District Judge M. Casey Rodgers in the Northern District of Florida"
+      - claim: court
+        kind: named_institution
+        value: Northern District of Florida
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "before U.S. District Judge M. Casey Rodgers in the Northern District of Florida"
+      - claim: hearing end date
+        kind: temporal
+        value: "June 24-26"
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "running June 24-26"
+      - claim: number of MDL cases pending
+        kind: numerical_with_unit
+        value: "5,508 cases"
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "As of June 2026, the MDL has 5,508 cases pending"
+      - claim: BMJ study odds ratio
+        kind: numerical_with_unit
+        value: "5.55x odds ratio"
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "A BMJ study found a 5.55x odds ratio linking Depo-Provera to meningioma"
+      - claim: BMJ study publisher
+        kind: named_institution
+        value: BMJ
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "A BMJ study found a 5.55x odds ratio linking Depo-Provera to meningioma"
+      - claim: JAMA study risk ratio
+        kind: numerical_with_unit
+        value: "2.43x risk"
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "a JAMA study found a 2.43x risk"
+      - claim: JAMA study publisher
+        kind: named_institution
+        value: JAMA
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "a JAMA study found a 2.43x risk"
+      - claim: FDA warning addition date
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "The FDA added a meningioma warning to Depo-Provera in December 2025"
+      - claim: regulator that added warning
+        kind: named_institution
+        value: FDA
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "The FDA added a meningioma warning to Depo-Provera in December 2025"
+      - claim: bellwether trial case name
+        kind: named_product
+        value: "Blonski v. Pfizer et al."
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "Bellwether trials (Blonski v. Pfizer et al.) are scheduled to begin December 7, 2026"
+      - claim: bellwether trial start date
+        kind: temporal
+        value: "December 7, 2026"
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "scheduled to begin December 7, 2026"
+      - claim: primary defendant
+        kind: named_institution
+        value: Pfizer
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "Pfizer is the primary defendant"
+      - claim: drug at issue
+        kind: named_product
+        value: Depo-Provera
+        source_urls:
+          - https://www.aboutlawsuits.com/depo-provera-lawsuit/hearings-evidence-depo-provera-causes-meningioma-brain-tumors-june-2026/
+        verbatim_excerpt: "The FDA added a meningioma warning to Depo-Provera in December 2025"
+    quotes: []
