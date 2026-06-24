@@ -28,6 +28,7 @@ The bounce masked a continued exodus. Foreign investors net sold 4.66 trillion w
 **References**
 
 [3] Choi, J.-W. (2026, June 24). Kospi rebounds over 3% in volatile trading. The Korea Herald. https://www.koreaherald.com/article/10787002
+[4] Korea Herald. (2026, June 22). SK hynix beats Samsung Electronics in market cap. The Korea Herald. https://www.koreaherald.com/article/10783918
 
 ---
 
@@ -35,11 +36,11 @@ The bounce masked a continued exodus. Foreign investors net sold 4.66 trillion w
 
 Samsung Group's financial affiliates surpassed 100 trillion won in combined capital for the first time, reaching 100.5 trillion won on end-2025 data. The cluster — Samsung Life, Samsung Fire & Marine, Samsung Card, and Samsung Securities — now stands as the single largest financial bloc among the country's conglomerate-linked groups, its jump driven largely by unrealized gains on stock holdings and subordinated-debt issuance at its insurance arms.
 
-Across the seven major financial groups — Samsung, KB, Shinhan, Hana, Woori, NH, and MG — combined capital reached 212.5 trillion won, a 24.2 percent year-on-year increase. Combined assets totaled 1,518.7 trillion won, underscoring the scale Korean financial groups have built even as the equity market convulses.
+Across the seven major financial groups — Samsung, Hyundai Motor, Mirae Asset, Hanwha, Kyobo, DB, and Kiwoom — combined capital reached 212.5 trillion won, a 24.2 percent year-on-year increase. Combined assets totaled 1,518.7 trillion won, underscoring the scale Korean financial groups have built even as the equity market convulses.
 
 **References**
 
-[4] Choi, Y.-J. (2026, June 24). Samsung financial affiliates top W100tr in capital for first time. The Korea Herald. https://www.koreaherald.com/article/10787026
+[5] Choi, Y.-J. (2026, June 24). Samsung financial affiliates top W100tr in capital for first time. The Korea Herald. https://www.koreaherald.com/article/10787026
 
 ---
 
@@ -55,8 +56,8 @@ The convention now points to a three-way contest between Jung, Prime Minister Ki
 
 **References**
 
-[5] Korea Herald. (2026, June 24). Ruling party chief resigns, expected to seek reelection for another term. The Korea Herald. https://www.koreaherald.com/article/10786253
-[6] Korea Herald. (2026, June 24). Ruling party chair steps down ahead of convention. The Korea Herald. https://www.koreaherald.com/article/10786534
+[6] Korea Herald. (2026, June 24). Ruling party chief resigns, expected to seek reelection for another term. The Korea Herald. https://www.koreaherald.com/article/10786253
+[7] Korea Herald. (2026, June 24). Ruling party chair steps down ahead of convention. The Korea Herald. https://www.koreaherald.com/article/10786534
 
 ---
 
@@ -70,7 +71,7 @@ The clash sharpens on the eve of the 76th anniversary of the Korean War, which b
 
 **References**
 
-[7] Hwang, J.-Y. (2026, June 24). Opposition piles pressure on defense minister as impeachment petition tops 150,000 signatures. The Korea Herald. https://www.koreaherald.com/article/10786777
+[8] Hwang, J.-Y. (2026, June 24). Opposition piles pressure on defense minister as impeachment petition tops 150,000 signatures. The Korea Herald. https://www.koreaherald.com/article/10786777
 
 ---
 
@@ -82,7 +83,7 @@ President Lee Jae-myung fired 10 rifle rounds and inspected K1E1 tanks, Spike an
 
 **References**
 
-[8] Ji, D.-G. (2026, June 24). At front-line base, Lee calls for shift from conscription to professional military. The Korea Herald. https://www.koreaherald.com/article/10786903
+[9] Ji, D.-G. (2026, June 24). At front-line base, Lee calls for shift from conscription to professional military. The Korea Herald. https://www.koreaherald.com/article/10786903
 
 ---
 
@@ -94,7 +95,7 @@ Kim laid out a buildup plan calling for two Choe Hyun-class or larger combatants
 
 **References**
 
-[9] Hwang, J.-Y. (2026, June 24). North Korea deploys new destroyer, stresses push for nuclear-capable navy. The Korea Herald. https://www.koreaherald.com/article/10786752
+[10] Hwang, J.-Y. (2026, June 24). North Korea deploys new destroyer, stresses push for nuclear-capable navy. The Korea Herald. https://www.koreaherald.com/article/10786752
 
 ---
 
@@ -106,7 +107,7 @@ The fencing has been installed less than 100 meters from the Military Demarcatio
 
 **References**
 
-[10] Korea Herald. (2026, June 24). UNC reaffirms N. Korea's border-hardening measures not in violation of Armistice Agreement. The Korea Herald. https://www.koreaherald.com/article/10786433
+[11] Korea Herald. (2026, June 24). UNC reaffirms N. Korea's border-hardening measures not in violation of Armistice Agreement. The Korea Herald. https://www.koreaherald.com/article/10786433
 
 ---
 
@@ -122,10 +123,10 @@ The push lands amid a demand surge. Korea's semiconductor exports rose 186.6 per
 
 **References**
 
-[11] Ji, D.-G. (2026, June 24). Korea nears unveiling of next chip hub outside Seoul area. The Korea Herald. https://www.koreaherald.com/article/10786815
-[12] Seoul Economic Daily. (2026, June 24). Samsung, SK to invest more than 300 trillion won in Honam, Gwangju chip plants. Seoul Economic Daily. https://en.sedaily.com/finance/2026/06/24/samsung-sk-to-invest-more-than-300-trillion-won-in-honam
-[13] Korea Herald. (2026, June 24). Korea nears unveiling of next chip hub. The Korea Herald. https://www.koreaherald.com/article/10786840
-[14] Korea Herald. (2026, June 24). Semiconductor exports surge on HBM4 demand. The Korea Herald. https://www.koreaherald.com/article/10786518
+[12] Ji, D.-G. (2026, June 24). Korea nears unveiling of next chip hub outside Seoul area. The Korea Herald. https://www.koreaherald.com/article/10786815
+[13] Seoul Economic Daily. (2026, June 24). Samsung, SK to invest more than 300 trillion won in Honam, Gwangju chip plants. Seoul Economic Daily. https://en.sedaily.com/finance/2026/06/24/samsung-sk-to-invest-more-than-300-trillion-won-in-honam
+[14] Korea Herald. (2026, June 24). Korea nears unveiling of next chip hub. The Korea Herald. https://www.koreaherald.com/article/10786840
+[15] Korea Herald. (2026, June 24). Semiconductor exports surge on HBM4 demand. The Korea Herald. https://www.koreaherald.com/article/10786518
 
 ---
 
@@ -137,7 +138,7 @@ Siemens and Naver Cloud signed a partnership to develop localized industrial AI 
 
 **References**
 
-[15] Korea Herald. (2026, June 24). Korea's AI treasure is its factory data: Siemens top executive. The Korea Herald. https://www.koreaherald.com/article/10786849
+[16] Korea Herald. (2026, June 24). Korea's AI treasure is its factory data: Siemens top executive. The Korea Herald. https://www.koreaherald.com/article/10786849
 
 ---
 
@@ -147,11 +148,11 @@ Siemens and Naver Cloud signed a partnership to develop localized industrial AI 
 
 The South Korean government announced on June 24 that it will cover the full annual malpractice insurance premium of 1.75 million won per physician for doctors in obstetrics and gynecology, pediatric surgery and emergency medicine, with maximum coverage of 1.8 billion won per specialist per incident. The move targets the litigation risk that has driven young doctors away from the fields where lawsuits are most likely.
 
-The crisis is acute in obstetrics. One in three doctors has faced a malpractice case since 2019, and only 48.2 percent of OB/GYN residency positions were filled in the second half of 2025. Data showed 89 percent of OB/GYN clinics filed no childbirth insurance claims between January and August 2025 — meaning only a small share still perform deliveries at all, even as the government cited Q1 2026 births of 75,013, a 14.8 percent year-on-year increase that is straining a thinning delivery system.
+The crisis is acute in obstetrics. Data showed 89 percent of OB/GYN clinics filed no childbirth insurance claims between January and August 2025 — meaning only a small share still perform deliveries at all, even as the government cited Q1 2026 births of 75,013, a 14.8 percent year-on-year increase that is straining a thinning delivery system.
 
 **References**
 
-[16] Choi, J.-Y. (2026, June 24). Korea expands malpractice safety net for doctors in high-risk specialties. The Korea Herald. https://www.koreaherald.com/article/10786803
+[17] Choi, J.-Y. (2026, June 24). Korea expands malpractice safety net for doctors in high-risk specialties. The Korea Herald. https://www.koreaherald.com/article/10786803
 
 ---
 
@@ -163,7 +164,7 @@ First Vice Minister Kim Young-su acknowledged systemic gaps in administration. "
 
 **References**
 
-[17] Korea Herald. (2026, June 24). Govt. to strengthen oversight of meal cards for children in need. The Korea Herald. https://www.koreaherald.com/article/10786357
+[18] Korea Herald. (2026, June 24). Govt. to strengthen oversight of meal cards for children in need. The Korea Herald. https://www.koreaherald.com/article/10786357
 
 ---
 
@@ -175,7 +176,7 @@ It is the 4th MDL crossing incident since President Lee's administration took of
 
 **References**
 
-[18] Hwang, J.-Y. (2026, June 24). North Korean soldier under investigation after crossing MDL overnight. The Korea Herald. https://www.koreaherald.com/article/10786674
+[19] Hwang, J.-Y. (2026, June 24). North Korean soldier under investigation after crossing MDL overnight. The Korea Herald. https://www.koreaherald.com/article/10786674
 
 ---
 
@@ -189,7 +190,7 @@ Demographers caution the rebound is largely a demographic effect: a wave of post
 
 **References**
 
-[19] Korea Times. (2026, June 24). Childbirths soar to highest level in 7 years in April. The Korea Times. https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april
+[20] Korea Times. (2026, June 24). Childbirths soar to highest level in 7 years in April. The Korea Times. https://www.koreatimes.co.kr/southkorea/society/20260624/childbirths-soar-to-highest-level-in-7-years-in-april
 
 ---
 
@@ -205,11 +206,11 @@ Demographers caution the rebound is largely a demographic effect: a wave of post
 
 Four additional Korean-operated vessels transited the Strait of Hormuz on June 24, bringing the total to six since the US-Iran ceasefire and negotiation agreement reopened the waterway. The four departing vessels included at least one VLCC supertanker; 26 sailors were aboard the departing ships, while 108 Korean sailors remain in the region aboard the 18 Korean-linked vessels still in the Persian Gulf.
 
-The transits follow a June 17 memorandum of understanding between Washington and Tehran that established a 60-day ceasefire extension and committed Iran to letting commercial traffic move through the strait, where roughly a fifth of the world's seaborne oil passes. Traffic has since rebounded sharply after weeks at a standstill. "The safety of our vessels and crew members is our top priority," Foreign Ministry spokesperson Park Il said.
+The transits follow an interim agreement between Washington and Tehran under which Iran committed to letting commercial traffic move through the strait — where roughly a fifth of the world's seaborne oil passes — fee-free during a 60-day negotiation period. Traffic has since rebounded sharply after weeks at a standstill. "The safety of our vessels and crew members is our top priority," Foreign Ministry spokesperson Park Il said.
 
 **References**
 
-[20] Jung, M.-K. (2026, June 24). 4 more S. Korean-operated vessels clear Hormuz, 18 remain. The Korea Herald. https://www.koreaherald.com/article/10786597
+[21] Jung, M.-K. (2026, June 24). 4 more S. Korean-operated vessels clear Hormuz, 18 remain. The Korea Herald. https://www.koreaherald.com/article/10786597
 
 ---
 
@@ -221,7 +222,7 @@ The move targets a US nuclear build-out being pulled forward by surging power de
 
 **References**
 
-[21] Korea Herald. (2026, June 24). HanmiGlobal eyes US SMR market with development arm. The Korea Herald. https://www.koreaherald.com/article/10786775
+[22] Korea Herald. (2026, June 24). HanmiGlobal eyes US SMR market with development arm. The Korea Herald. https://www.koreaherald.com/article/10786775
 
 ---
 
