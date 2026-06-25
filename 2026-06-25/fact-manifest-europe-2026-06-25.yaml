@@ -1,0 +1,1552 @@
+version: 1
+generated_at: "2026-06-25T12:00:00Z"
+country: Europe
+date: "2026-06-25"
+total_stories: 18
+stories:
+  - story_id: eu-us-trade-deal-final-approval
+    category: econ
+    headline_en: EU Council gives US-EU trade deal final approval ahead of Trump deadline
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+    hard_facts:
+      - claim: date of EU member states vote
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+        verbatim_excerpt: "EU member states voted on June 25, 2026 to give final approval to a trade agreement with the United States"
+      - claim: duration of ratification proceedings
+        kind: temporal
+        value: approximately one year
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+        verbatim_excerpt: "ending approximately one year of ratification proceedings"
+      - claim: US tariff ceiling on EU exports under deal
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+        verbatim_excerpt: "the US applies a 15% tariff ceiling on EU exports"
+      - claim: threatened US tariff on EU cars if deal not approved
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+        verbatim_excerpt: "President Trump, who had threatened to impose 25% tariffs on EU cars as of July 4, 2026"
+      - claim: Trump tariff threat deadline date
+        kind: temporal
+        value: July 4, 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+        verbatim_excerpt: "threatened to impose 25% tariffs on EU cars as of July 4, 2026"
+      - claim: named person — US President
+        kind: named_person
+        value: President Trump
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+        verbatim_excerpt: "President Trump, who had threatened to impose 25% tariffs on EU cars"
+      - claim: US pressure tactics start year
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-25/eu-gives-us-trade-deal-final-approval-ahead-of-trump-deadline
+        verbatim_excerpt: "US pressure tactics applied since 2025"
+    quotes: []
+
+  - story_id: european-shares-gain-micron-ai-stoxx600
+    category: econ
+    headline_en: European shares gain on Micron AI forecast; STOXX 600 +0.46%
+    lead_url: https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+    body_source: full
+    corroborated_by:
+      - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+    locked_urls:
+      - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+      - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+    hard_facts:
+      - claim: STOXX 600 index percentage gain
+        kind: numerical_with_unit
+        value: "+0.46%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "The STOXX 600 index rose 0.46% to 638.11"
+      - claim: STOXX 600 index level
+        kind: numerical_with_unit
+        value: "638.11"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "The STOXX 600 index rose 0.46% to 638.11"
+      - claim: technology sector gain on the day
+        kind: numerical_with_unit
+        value: "2.4%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "Technology stocks gained 2.4%, up 32% for the quarter"
+      - claim: technology sector quarterly gain
+        kind: numerical_with_unit
+        value: "32%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "Technology stocks gained 2.4%, up 32% for the quarter"
+      - claim: Infineon Technologies share move
+        kind: numerical_with_unit
+        value: "+5.6%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "Infineon Technologies +5.6%"
+      - claim: STMicroelectronics share move
+        kind: numerical_with_unit
+        value: "+4.2%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "STMicroelectronics +4.2%"
+      - claim: ASML share move
+        kind: numerical_with_unit
+        value: "+4.5%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "ASML +4.5%"
+      - claim: BE Semiconductor share move
+        kind: numerical_with_unit
+        value: "+5.1%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "BE Semiconductor +5.1%"
+      - claim: Volkswagen share move
+        kind: numerical_with_unit
+        value: "+3.01%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "Volkswagen +3.01% after the Everllence stake sale to Bain Capital"
+      - claim: easyJet share move
+        kind: numerical_with_unit
+        value: "+6.3%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "easyJet +6.3% after Castlelake's latest bid"
+      - claim: H&M share move
+        kind: numerical_with_unit
+        value: "-2.1%"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+          - https://www.tradingview.com/news/reuters.com/newsml_L6N42X0HY/
+        verbatim_excerpt: "H&M -2.1% after a disappointing quarterly sales update"
+      - claim: named institution — Micron Technology
+        kind: named_institution
+        value: Micron Technology
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+        verbatim_excerpt: "after Micron Technology's upbeat quarterly results and AI-driven demand forecast"
+      - claim: named institution — Bain Capital (Volkswagen Everllence)
+        kind: named_institution
+        value: Bain Capital
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+        verbatim_excerpt: "Volkswagen +3.01% after the Everllence stake sale to Bain Capital"
+      - claim: named institution — Castlelake (easyJet)
+        kind: named_institution
+        value: Castlelake
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+        verbatim_excerpt: "easyJet +6.3% after Castlelake's latest bid"
+    quotes: []
+
+  - story_id: eurostat-eu-construction-prices-48pct-since-2015
+    category: econ
+    headline_en: "Eurostat: EU residential construction prices rose 48.2% since 2015"
+    lead_url: https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+    hard_facts:
+      - claim: EU residential construction price rise 2015-2025
+        kind: numerical_with_unit
+        value: "48.2%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "residential construction prices in the EU rose 48.2% between 2015 and 2025"
+      - claim: publication date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Eurostat published data June 25, 2026"
+      - claim: reference period for price measurement
+        kind: temporal
+        value: "2015 and 2025"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "between 2015 and 2025"
+      - claim: Bulgaria construction price rise (highest)
+        kind: numerical_with_unit
+        value: "+166.1%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Highest: Bulgaria (+166.1%)"
+      - claim: Hungary construction price rise
+        kind: numerical_with_unit
+        value: "+155.4%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Hungary (+155.4%)"
+      - claim: Romania construction price rise
+        kind: numerical_with_unit
+        value: "+130.7%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Romania (+130.7%)"
+      - claim: Lithuania construction price rise
+        kind: numerical_with_unit
+        value: "+125.3%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Lithuania (+125.3%)"
+      - claim: Estonia construction price rise
+        kind: numerical_with_unit
+        value: "+118.5%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Estonia (+118.5%)"
+      - claim: Italy construction price rise (lowest)
+        kind: numerical_with_unit
+        value: "+17.0%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Lowest: Italy (+17.0%)"
+      - claim: Greece construction price rise
+        kind: numerical_with_unit
+        value: "+17.3%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Greece (+17.3%)"
+      - claim: Finland construction price rise
+        kind: numerical_with_unit
+        value: "+22.1%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Finland (+22.1%)"
+      - claim: France construction price rise
+        kind: numerical_with_unit
+        value: "+28.8%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "France (+28.8%)"
+      - claim: Germany construction price rise
+        kind: numerical_with_unit
+        value: "+31.0%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Germany (+31.0%)"
+      - claim: peak annual growth rate year 2022
+        kind: numerical_with_unit
+        value: "+12.2%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Annual growth peaked at +12.2% in 2022"
+      - claim: annual growth 2023
+        kind: numerical_with_unit
+        value: "+6.9%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "+6.9% in 2023"
+      - claim: annual growth 2024
+        kind: numerical_with_unit
+        value: "+2.3%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "slowing to +2.3% in 2024"
+      - claim: annual growth 2025
+        kind: numerical_with_unit
+        value: "+1.3%"
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "+1.3% in 2025"
+      - claim: named institution — Eurostat
+        kind: named_institution
+        value: Eurostat
+        source_urls:
+          - https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260625-1
+        verbatim_excerpt: "Eurostat published data June 25, 2026"
+    quotes: []
+
+  - story_id: ukraine-recovery-conference-gdansk-2026
+    category: politics
+    headline_en: Ukraine Recovery Conference opens in Gdańsk
+    lead_url: https://en.interfax.com.ua/news/economic/1179470.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://en.interfax.com.ua/news/economic/1179470.html
+    hard_facts:
+      - claim: conference opening date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "The Ukraine Recovery Conference (URC 2026) opened June 25, 2026 in Gdańsk, Poland"
+      - claim: conference location
+        kind: named_institution
+        value: Gdańsk, Poland
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "opened June 25, 2026 in Gdańsk, Poland"
+      - claim: Ukrainian PM leading delegation
+        kind: named_person
+        value: Yuliia Svyrydenko
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "Ukrainian PM Yuliia Svyrydenko leads the delegation"
+      - claim: Ukrainian President did not attend
+        kind: named_person
+        value: Zelensky
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "President Zelensky did not attend following a diplomatic row with incoming Polish President Nawrocki"
+      - claim: incoming Polish President
+        kind: named_person
+        value: Nawrocki
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "a diplomatic row with incoming Polish President Nawrocki"
+      - claim: EC President at opening
+        kind: named_person
+        value: von der Leyen
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "EC President von der Leyen, Polish PM Tusk, and European Council President Costa gave opening remarks"
+      - claim: Polish PM at opening
+        kind: named_person
+        value: Tusk
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "Polish PM Tusk"
+      - claim: European Council President at opening
+        kind: named_person
+        value: Costa
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "European Council President Costa gave opening remarks"
+      - claim: number of participants
+        kind: numerical_with_unit
+        value: "~5,000 participants"
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "~5,000 participants from ~100 country delegations"
+      - claim: number of country delegations
+        kind: numerical_with_unit
+        value: "~100 country delegations"
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "~5,000 participants from ~100 country delegations"
+      - claim: expected number of agreements to be signed
+        kind: numerical_with_unit
+        value: "~160 agreements"
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "Ukraine expects to sign ~160 agreements worth over €10 billion"
+      - claim: expected value of agreements
+        kind: numerical_with_unit
+        value: "over €10 billion"
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "Ukraine expects to sign ~160 agreements worth over €10 billion"
+      - claim: EC tranche disbursed from Ukraine Support Loan mechanism
+        kind: numerical_with_unit
+        value: "€3.2 billion"
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "The European Commission disbursed a €3.2 billion tranche from the Ukraine Support Loan mechanism"
+      - claim: number of Ukrainian companies in business forum
+        kind: numerical_with_unit
+        value: "Over 80"
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "Over 80 Ukrainian companies participate in a business forum"
+      - claim: named institution — European Commission
+        kind: named_institution
+        value: European Commission
+        source_urls:
+          - https://en.interfax.com.ua/news/economic/1179470.html
+        verbatim_excerpt: "The European Commission disbursed a €3.2 billion tranche from the Ukraine Support Loan mechanism"
+    quotes: []
+
+  - story_id: eu-environment-council-luxembourg-june-2026
+    category: politics
+    headline_en: EU Environment Council meets in Luxembourg
+    lead_url: https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://agenceurope.eu/en/bulletin/article/13895/8/environment-ministers-to-debate-reach-regulation-water-resilience-and-climate-on-thursday-25-june
+    locked_urls:
+      - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+      - https://agenceurope.eu/en/bulletin/article/13895/8/environment-ministers-to-debate-reach-regulation-water-resilience-and-climate-on-thursday-25-june
+    hard_facts:
+      - claim: meeting date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "The EU Environment Council convened in Luxembourg June 25, 2026"
+      - claim: meeting location
+        kind: named_institution
+        value: Luxembourg
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "The EU Environment Council convened in Luxembourg June 25, 2026 under the Cyprus Presidency"
+      - claim: current EU Council presidency
+        kind: named_institution
+        value: Cyprus Presidency
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "under the Cyprus Presidency"
+      - claim: Commission proposal date for CO2 standard revision
+        kind: temporal
+        value: December 2025
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "Commission's December 2025 proposal to revise CO2 emission standards for cars and vans"
+      - claim: proposed 2035 zero-emission target (revised)
+        kind: numerical_with_unit
+        value: "90%"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "lowering the 2035 zero-emission target from 100% to 90%"
+      - claim: prior 2035 zero-emission target (original)
+        kind: numerical_with_unit
+        value: "100%"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "lowering the 2035 zero-emission target from 100% to 90%"
+      - claim: offset allowance via sustainable fuels and low-carbon steel
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "allowing 10% offset via sustainable fuels and low-carbon steel"
+      - claim: European Water Resilience Strategy water consumption reduction target
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "10% water consumption reduction target by 2030"
+      - claim: water consumption reduction target deadline
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "10% water consumption reduction target by 2030"
+      - claim: COP31 date and location
+        kind: temporal
+        value: November 2026, Antalya
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "COP31 (November 2026, Antalya)"
+      - claim: named product — European Water Resilience Strategy
+        kind: named_product
+        value: European Water Resilience Strategy
+        source_urls:
+          - https://www.consilium.europa.eu/en/meetings/env/2026/06/25/
+        verbatim_excerpt: "Policy debate on the European Water Resilience Strategy"
+    quotes: []
+
+  - story_id: eu-council-restricts-visas-somali-nationals
+    category: politics
+    headline_en: EU Council restricts visas for Somali nationals
+    lead_url: https://consilium.europa.eu/en/press/press-releases/2026/06/25/somalia-council-restricts-visa-provision/
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://consilium.europa.eu/en/press/press-releases/2026/06/25/somalia-council-restricts-visa-provision/
+    hard_facts:
+      - claim: decision adoption date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://consilium.europa.eu/en/press/press-releases/2026/06/25/somalia-council-restricts-visa-provision/
+        verbatim_excerpt: "The Council of the EU adopted a decision June 25, 2026 restricting visa provision for Somali nationals"
+      - claim: previous visa processing time
+        kind: numerical_with_unit
+        value: "15 calendar days"
+        source_urls:
+          - https://consilium.europa.eu/en/press/press-releases/2026/06/25/somalia-council-restricts-visa-provision/
+        verbatim_excerpt: "extension of visa processing from 15 to 45 calendar days"
+      - claim: new extended visa processing time
+        kind: numerical_with_unit
+        value: "45 calendar days"
+        source_urls:
+          - https://consilium.europa.eu/en/press/press-releases/2026/06/25/somalia-council-restricts-visa-provision/
+        verbatim_excerpt: "extension of visa processing from 15 to 45 calendar days"
+      - claim: named institution — Council of the EU
+        kind: named_institution
+        value: Council of the EU
+        source_urls:
+          - https://consilium.europa.eu/en/press/press-releases/2026/06/25/somalia-council-restricts-visa-provision/
+        verbatim_excerpt: "The Council of the EU adopted a decision June 25, 2026"
+    quotes: []
+
+  - story_id: france-intercepts-russian-shadow-fleet-tanker
+    category: politics
+    headline_en: "France intercepts Russian shadow fleet oil tanker \"Deliver\" off Sicily"
+    lead_url: https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+        verbatim_excerpt: "French President Emmanuel Macron announced June 25, 2026"
+      - claim: named person — French President
+        kind: named_person
+        value: Emmanuel Macron
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+        verbatim_excerpt: "French President Emmanuel Macron announced June 25, 2026"
+      - claim: intercepted tanker name
+        kind: named_product
+        value: Deliver
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+        verbatim_excerpt: "French naval forces intercepted a Cameroonian-flagged oil tanker named \"Deliver\" off the coast of Sicily"
+      - claim: tanker flag state
+        kind: named_institution
+        value: Cameroonian-flagged
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+        verbatim_excerpt: "a Cameroonian-flagged oil tanker named \"Deliver\""
+      - claim: tanker Russian oil export start year
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+        verbatim_excerpt: "The tanker had exported Russian oil since 2024 in violation of EU and G7 sanctions"
+      - claim: previously intercepted tanker by UK
+        kind: named_product
+        value: Smyrtos
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+        verbatim_excerpt: "the UK previously detained the tanker \"Smyrtos\" in the English Channel"
+      - claim: article byline
+        kind: named_person
+        value: Nathan Rennolds
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+        verbatim_excerpt: "Byline: Nathan Rennolds"
+    quotes:
+      - speaker_name: Emmanuel Macron
+        speaker_title: French President
+        verbatim_en: "We will not allow the 'shadow fleet' to circumvent sanctions and finance Russia's war effort."
+        source_url: https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily
+        context: June 25, 2026 announcement of interception of tanker Deliver
+
+  - story_id: eu-commission-aws-azure-dma-gatekeepers
+    category: tech
+    headline_en: EU Commission preliminary position — AWS and Azure to be designated DMA gatekeepers
+    lead_url: https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+    hard_facts:
+      - claim: notification date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "The European Commission informed Amazon and Microsoft June 25, 2026 of its preliminary view"
+      - claim: named institution — Amazon (AWS)
+        kind: named_institution
+        value: Amazon
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "The European Commission informed Amazon and Microsoft June 25, 2026"
+      - claim: named institution — Microsoft (Azure)
+        kind: named_institution
+        value: Microsoft
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "The European Commission informed Amazon and Microsoft June 25, 2026"
+      - claim: named product — AWS
+        kind: named_product
+        value: AWS
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "AWS is the largest and Azure the second-largest cloud provider in the EU"
+      - claim: named product — Azure
+        kind: named_product
+        value: Azure
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "AWS is the largest and Azure the second-largest cloud provider in the EU"
+      - claim: AWS market ranking in EU cloud
+        kind: numerical
+        value: largest
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "AWS is the largest and Azure the second-largest cloud provider in the EU"
+      - claim: Azure market ranking in EU cloud
+        kind: numerical
+        value: second-largest
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "AWS is the largest and Azure the second-largest cloud provider in the EU"
+      - claim: investigation duration
+        kind: temporal
+        value: Seven-month investigation
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "Seven-month investigation"
+      - claim: named product — DMA (Digital Markets Act)
+        kind: named_product
+        value: DMA
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "they should be designated gatekeepers under the DMA for their cloud services"
+      - claim: named institution — Google Cloud (Microsoft statement)
+        kind: named_institution
+        value: Google Cloud
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "Microsoft stated it was \"concerned that Google Cloud and Gemini are being ignored.\""
+      - claim: named product — Gemini (Microsoft statement)
+        kind: named_product
+        value: Gemini
+        source_urls:
+          - https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        verbatim_excerpt: "Microsoft stated it was \"concerned that Google Cloud and Gemini are being ignored.\""
+    quotes:
+      - speaker_name: Amazon (spokesperson)
+        speaker_title: Amazon corporate spokesperson
+        verbatim_en: "disregards the breadth of cloud services available in the market."
+        source_url: https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        context: Response to EU Commission's preliminary DMA gatekeeper designation, June 25, 2026
+      - speaker_name: Microsoft (spokesperson)
+        speaker_title: Microsoft corporate spokesperson
+        verbatim_en: "concerned that Google Cloud and Gemini are being ignored."
+        source_url: https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should
+        context: Response to EU Commission's preliminary DMA gatekeeper designation, June 25, 2026
+
+  - story_id: eu-govsatcom-hub-groundbreaking-cologne
+    category: tech
+    headline_en: EU GOVSATCOM Hub permanent site breaks ground in Cologne
+    lead_url: https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+    hard_facts:
+      - claim: groundbreaking ceremony date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "The European Commission's groundbreaking ceremony for the permanent EU GOVSATCOM Hub site in Cologne, Germany took place June 25, 2026"
+      - claim: hub operational since date
+        kind: temporal
+        value: January 2026
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "The hub has been operational since January 2026"
+      - claim: permanent hub locations
+        kind: named_institution
+        value: Cologne and Athens
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Permanent hubs in Cologne and Athens"
+      - claim: named person — EC Director for Secured and Connected Space
+        kind: named_person
+        value: Catherine Kavvada
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Catherine Kavvada (Director, Secured and Connected Space, EC)"
+      - claim: named person — EUSPA Executive Director
+        kind: named_person
+        value: Rodrigo da Costa
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Rodrigo da Costa (EUSPA Executive Director)"
+      - claim: named person — Minister-President of North Rhine-Westphalia
+        kind: named_person
+        value: Hendrik Wüst
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Hendrik Wüst (Minister-President of North Rhine-Westphalia)"
+      - claim: named person — Parliamentary State Secretary German Federal Government
+        kind: named_person
+        value: Matthias Hauer
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Matthias Hauer (Parliamentary State Secretary, German Federal Government)"
+      - claim: named person — Deputy Chair DLR
+        kind: named_person
+        value: Stéphane Beemelmans
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Stéphane Beemelmans (Deputy Chair, DLR)"
+      - claim: named institution — EUSPA
+        kind: named_institution
+        value: EUSPA
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Rodrigo da Costa (EUSPA Executive Director)"
+      - claim: named institution — DLR
+        kind: named_institution
+        value: DLR
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Stéphane Beemelmans (Deputy Chair, DLR)"
+      - claim: named product — GOVSATCOM
+        kind: named_product
+        value: GOVSATCOM
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "GOVSATCOM provides secure satellite communications for EU institutions"
+      - claim: named product — IRIS² constellation
+        kind: named_product
+        value: "IRIS²"
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Precursor to the IRIS² multi-orbit broadband constellation, Europe's answer to Starlink"
+      - claim: named product — Starlink (comparison)
+        kind: named_product
+        value: Starlink
+        source_urls:
+          - https://defence-industry-space.ec.europa.eu/eu-govsatcom-hub-site-cologne-further-strengthen-europes-secure-satellite-communications-2026-06-25_en
+        verbatim_excerpt: "Europe's answer to Starlink"
+    quotes: []
+
+  - story_id: micron-record-q3-results-european-chip-rally
+    category: tech
+    headline_en: "Micron posts record quarterly results; European chip stocks rally"
+    lead_url: https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+    body_source: full
+    corroborated_by:
+      - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+      - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+    hard_facts:
+      - claim: results reporting date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Micron Technology reported record Q3 results June 25, 2026"
+      - claim: reporting quarter
+        kind: temporal
+        value: Q3
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Micron Technology reported record Q3 results June 25, 2026"
+      - claim: Micron Q3 revenue
+        kind: numerical_with_unit
+        value: "$41.4 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "revenue $41.4 billion (up from $9.3 billion a year earlier; consensus $35.7 billion)"
+      - claim: Micron Q3 revenue year-ago comparison
+        kind: numerical_with_unit
+        value: "$9.3 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "up from $9.3 billion a year earlier"
+      - claim: Micron Q3 revenue consensus estimate
+        kind: numerical_with_unit
+        value: "$35.7 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "consensus $35.7 billion"
+      - claim: Micron Q3 net income
+        kind: numerical_with_unit
+        value: "$28.24 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Net income $28.24 billion"
+      - claim: Micron Q3 EPS
+        kind: numerical_with_unit
+        value: "$25.11"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "EPS $25.11 (consensus $20.49)"
+      - claim: Micron Q3 EPS consensus estimate
+        kind: numerical_with_unit
+        value: "$20.49"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "EPS $25.11 (consensus $20.49)"
+      - claim: Micron share after-hours surge
+        kind: numerical_with_unit
+        value: "~15%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Shares surged ~15% after-hours to ~$1,213"
+      - claim: Micron after-hours share price
+        kind: numerical_with_unit
+        value: "~$1,213"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Shares surged ~15% after-hours to ~$1,213"
+      - claim: Micron implied market cap
+        kind: numerical_with_unit
+        value: "~$1.16 trillion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "implying ~$1.16 trillion market cap"
+      - claim: Micron Q4 revenue guidance
+        kind: numerical_with_unit
+        value: "~$50 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Q4 revenue guidance ~$50 billion"
+      - claim: Micron FY capex
+        kind: numerical_with_unit
+        value: "$27 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "FY capex $27 billion"
+      - claim: Micron gross margin
+        kind: numerical_with_unit
+        value: "~85%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Gross margin ~85%"
+      - claim: article byline
+        kind: named_person
+        value: Quirino Mealha
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Byline: Quirino Mealha"
+      - claim: named institution — Micron Technology
+        kind: named_institution
+        value: Micron Technology
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/micron-posts-record-results-as-ai-boom-drives-15-fold-jump-in-net-profit
+        verbatim_excerpt: "Micron Technology reported record Q3 results June 25, 2026"
+    quotes: []
+
+  - story_id: europe-second-consecutive-extreme-heat-day
+    category: society
+    headline_en: Europe faces second consecutive day of extreme heat
+    lead_url: https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+    hard_facts:
+      - claim: event date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "On June 25, 2026, Europe faced a second consecutive day of record heat"
+      - claim: people facing 35°C+ temperatures
+        kind: numerical_with_unit
+        value: "101 million people"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "with 101 million people facing 35°C+"
+      - claim: people affected in France
+        kind: numerical_with_unit
+        value: "~50 million"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "~50 million in France and 18 million in Germany affected"
+      - claim: people affected in Germany
+        kind: numerical_with_unit
+        value: "18 million"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "~50 million in France and 18 million in Germany affected"
+      - claim: people facing 30°C+ temperatures
+        kind: numerical_with_unit
+        value: "Over 380 million"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "Over 380 million faced 30°C+"
+      - claim: heat-related deaths in Spain
+        kind: numerical_with_unit
+        value: "212 heat-related deaths"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "Spain reported 212 heat-related deaths Sunday-Wednesday"
+      - claim: Spain death count period
+        kind: temporal
+        value: Sunday-Wednesday
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "Spain reported 212 heat-related deaths Sunday-Wednesday"
+      - claim: location of child fatality in France
+        kind: named_institution
+        value: Saint-Gratien
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "a three-year-old child was found dead in a car in Saint-Gratien"
+      - claim: age of child fatality in France
+        kind: numerical_with_unit
+        value: "three-year-old"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "a three-year-old child was found dead in a car in Saint-Gratien"
+      - claim: child fatality ordinal that week
+        kind: numerical
+        value: third child fatality
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "the third child fatality that week attributed to heat"
+      - claim: proportion of France under red heat alert
+        kind: numerical_with_unit
+        value: "Three-quarters"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set
+        verbatim_excerpt: "Three-quarters of France under red heat alert"
+    quotes: []
+
+  - story_id: uk-great-british-summer-savings-vat-cut
+    category: society
+    headline_en: "UK Great British Summer Savings: VAT cut takes effect"
+    lead_url: https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+    hard_facts:
+      - claim: scheme effective date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "The UK government's \"Great British Summer Savings\" scheme came into effect June 25, 2026"
+      - claim: VAT reduced from
+        kind: numerical_with_unit
+        value: "20%"
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "reducing VAT on children's restaurant meals and selected family leisure services from 20% to 5%"
+      - claim: VAT reduced to
+        kind: numerical_with_unit
+        value: "5%"
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "reducing VAT on children's restaurant meals and selected family leisure services from 20% to 5%"
+      - claim: scheme end date
+        kind: temporal
+        value: September 1, 2026
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "June 25 to September 1, 2026"
+      - claim: Haven pledged savings amount
+        kind: numerical_with_unit
+        value: "up to £5 million"
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "Haven pledged up to £5 million savings"
+      - claim: Treasury cost of scheme
+        kind: numerical_with_unit
+        value: "~£300 million"
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "Treasury cost ~£300 million"
+      - claim: named person — UK Prime Minister
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "PM Keir Starmer"
+      - claim: named person — Chancellor
+        kind: named_person
+        value: Rachel Reeves
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "Chancellor Rachel Reeves cited the scheme"
+      - claim: named institution — Butlin's (participating)
+        kind: named_institution
+        value: "Butlin's"
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "Participating: Butlin's, McDonald's, KFC, Burger King, Wetherspoons, Vue, Picturehouse"
+      - claim: named institution — McDonald's (participating)
+        kind: named_institution
+        value: "McDonald's"
+        source_urls:
+          - https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        verbatim_excerpt: "Participating: Butlin's, McDonald's, KFC, Burger King, Wetherspoons, Vue, Picturehouse"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister of the United Kingdom
+        verbatim_en: "The cost of living isn't just about paying the bills, it's about being able to afford the moments that matter with your family."
+        source_url: https://www.gov.uk/government/news/great-british-summer-savings-tax-cut-on-kids-meals-and-days-out-goes-live
+        context: Statement on Great British Summer Savings scheme launch, June 25, 2026
+
+  - story_id: parisians-roasting-historic-zinc-rooftops
+    category: society
+    headline_en: Parisians roasting under historic zinc rooftops
+    lead_url: https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+    hard_facts:
+      - claim: publication date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "A Euronews investigation published June 25, 2026"
+      - claim: attic dweller mortality risk multiplier — 2003 heatwave study
+        kind: numerical_with_unit
+        value: "4x higher mortality risk"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "A 2003 French heatwave study found attic dwellers had 4x higher mortality risk"
+      - claim: 2003 heatwave study year
+        kind: temporal
+        value: "2003"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "A 2003 French heatwave study found attic dwellers had 4x higher mortality risk"
+      - claim: Lancet study year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "A 2023 Lancet study ranked Paris highest heat-related death risk among 30 European capitals"
+      - claim: Paris ranking for heat-related death risk among European capitals
+        kind: numerical
+        value: highest
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "A 2023 Lancet study ranked Paris highest heat-related death risk among 30 European capitals"
+      - claim: number of European capitals in Lancet study
+        kind: numerical
+        value: "30"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "ranked Paris highest heat-related death risk among 30 European capitals"
+      - claim: proportion of Paris rooftops that are zinc-clad
+        kind: numerical_with_unit
+        value: "~75%"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "~75% of Paris rooftops are zinc-clad"
+      - claim: named institution — UNESCO (cultural heritage recognition)
+        kind: named_institution
+        value: UNESCO
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "UNESCO recognises Parisian zinc roofwork as intangible cultural heritage"
+      - claim: named person — resident Amelie Kenney
+        kind: named_person
+        value: Amelie Kenney
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "Residents Amelie Kenney and Francesca Pilia (age 23)"
+      - claim: named person — resident Francesca Pilia and age
+        kind: named_person
+        value: Francesca Pilia
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "Residents Amelie Kenney and Francesca Pilia (age 23)"
+      - claim: Francesca Pilia age
+        kind: numerical_with_unit
+        value: "age 23"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "Francesca Pilia (age 23)"
+      - claim: monthly rent paid by residents
+        kind: numerical_with_unit
+        value: "€735/month"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "paying €735/month rent"
+      - claim: apartment daytime temperatures described
+        kind: numerical_with_unit
+        value: "exceeding 40°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "described apartment temperatures exceeding 40°C"
+      - claim: apartment nighttime temperatures described
+        kind: numerical_with_unit
+        value: "~25°C"
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "nighttime ~25°C"
+      - claim: article byline
+        kind: named_person
+        value: Angela Symons
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "Byline: Angela Symons"
+      - claim: named institution — Lancet (journal)
+        kind: named_institution
+        value: Lancet
+        source_urls:
+          - https://www.euronews.com/2026/06/25/parisians-living-in-attic-apartments-are-roasting-under-the-citys-pretty-zinc-roofs
+        verbatim_excerpt: "A 2023 Lancet study ranked Paris highest heat-related death risk"
+    quotes: []
+
+  - story_id: volkswagen-sells-51pct-everllence-bain-capital
+    category: ipo_ma
+    headline_en: Volkswagen sells 51% stake in Everllence to Bain Capital
+    lead_url: https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-25/volkswagen-verkauft-everllence-mehrheit-bain-capital-ubernimmt-51-anteil
+      - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+    locked_urls:
+      - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+      - https://www.bloomberg.com/news/articles/2026-06-25/volkswagen-verkauft-everllence-mehrheit-bain-capital-ubernimmt-51-anteil
+      - https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "Volkswagen Group announced June 25, 2026 an exclusive arrangement with Bain Capital"
+      - claim: Bain Capital stake acquired
+        kind: numerical_with_unit
+        value: "51%"
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+          - https://www.bloomberg.com/news/articles/2026-06-25/volkswagen-verkauft-everllence-mehrheit-bain-capital-ubernimmt-51-anteil
+        verbatim_excerpt: "to sell a 51% majority stake in Everllence GmbH"
+      - claim: VW retained stake
+        kind: numerical_with_unit
+        value: "49%"
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "VW retains 49%"
+      - claim: total proceeds from sale
+        kind: numerical_with_unit
+        value: "~€7.4 billion"
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "Total proceeds ~€7.4 billion"
+      - claim: Everllence employee count
+        kind: numerical_with_unit
+        value: "~16,000"
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "Everllence employs ~16,000"
+      - claim: Everllence revenue
+        kind: numerical_with_unit
+        value: "€4.9 billion"
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "generated revenue of €4.9 billion"
+      - claim: Everllence book value reference date
+        kind: temporal
+        value: May 31, 2026
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "book value ~€3.4 billion as of May 31, 2026"
+      - claim: Everllence book value
+        kind: numerical_with_unit
+        value: "~€3.4 billion"
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "book value ~€3.4 billion as of May 31, 2026"
+      - claim: expected completion year
+        kind: temporal
+        value: year-end 2026
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "Completion expected year-end 2026 subject to regulatory approvals"
+      - claim: no-redundancy guarantee period for German sites
+        kind: temporal
+        value: through 2030
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "No compulsory redundancies at German sites through 2030"
+      - claim: named institution — Bain Capital (buyer)
+        kind: named_institution
+        value: Bain Capital
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "an exclusive arrangement with Bain Capital to sell a 51% majority stake"
+      - claim: named institution — Everllence GmbH (formerly MAN Energy Solutions GmbH)
+        kind: named_institution
+        value: Everllence GmbH
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "51% majority stake in Everllence GmbH (formerly MAN Energy Solutions GmbH)"
+      - claim: named institution — CVC (bidder not selected)
+        kind: named_institution
+        value: CVC
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "Bain selected over CVC and EQT"
+      - claim: named institution — EQT (bidder not selected)
+        kind: named_institution
+        value: EQT
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "Bain selected over CVC and EQT"
+      - claim: named person — VW CEO
+        kind: named_person
+        value: Oliver Blume
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "VW CEO Oliver Blume"
+      - claim: named person — VW CFO
+        kind: named_person
+        value: Arno Antlitz
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "CFO Arno Antlitz and Everllence CEO Dr. Uwe Lauber issued supporting statements"
+      - claim: named person — Everllence CEO
+        kind: named_person
+        value: Dr. Uwe Lauber
+        source_urls:
+          - https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        verbatim_excerpt: "CFO Arno Antlitz and Everllence CEO Dr. Uwe Lauber issued supporting statements"
+    quotes:
+      - speaker_name: Oliver Blume
+        speaker_title: CEO, Volkswagen Group
+        verbatim_en: "Now is the right time to take the next step — to transfer the majority stake to a new, strong partner."
+        source_url: https://www.everllence.com/company/press-releases/details/2026/06/25/volkswagen-group-enters-into-exclusive-arrangement-with-bain-capital-for-sale-of-majority-stake-in-everllence
+        context: Volkswagen Group announcement of Everllence stake sale to Bain Capital, June 25, 2026
+
+  - story_id: easyjet-rejects-castlelake-fourth-takeover-bid
+    category: ipo_ma
+    headline_en: easyJet rejects Castlelake's fourth takeover bid
+    lead_url: https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+    hard_facts:
+      - claim: rejection date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "easyJet's board rejected a fourth takeover proposal from US private equity firm Castlelake June 25, 2026"
+      - claim: bid ordinal number
+        kind: numerical
+        value: fourth
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "easyJet's board rejected a fourth takeover proposal"
+      - claim: fourth bid price per share
+        kind: numerical_with_unit
+        value: "£6.50 per share"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "at £6.50 per share (~£4.93 billion equity value)"
+      - claim: implied equity value at fourth bid
+        kind: numerical_with_unit
+        value: "~£4.93 billion"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "at £6.50 per share (~£4.93 billion equity value)"
+      - claim: prior bid price per share
+        kind: numerical_with_unit
+        value: "£6.25"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "up from £6.25"
+      - claim: formal offer deadline extended to
+        kind: temporal
+        value: July 5, 2026
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "extended the deadline for a formal offer to July 5, 2026"
+      - claim: Brookfield Asset Management co-investor stake
+        kind: numerical_with_unit
+        value: "49%/51% structure"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "Brookfield Asset Management as co-investor (49%/51% structure)"
+      - claim: easyJet share price rise on the day
+        kind: numerical_with_unit
+        value: ">5%"
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "easyJet shares rose >5% on the day"
+      - claim: named institution — Castlelake
+        kind: named_institution
+        value: Castlelake
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "US private equity firm Castlelake"
+      - claim: named institution — Brookfield Asset Management
+        kind: named_institution
+        value: Brookfield Asset Management
+        source_urls:
+          - https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        verbatim_excerpt: "Brookfield Asset Management as co-investor"
+    quotes:
+      - speaker_name: easyJet board (spokesperson)
+        speaker_title: easyJet board of directors
+        verbatim_en: "substantially undervalues"
+        source_url: https://uk.finance.yahoo.com/news/easyjet-rejects-castlelake-apos-fourth-082718296.html
+        context: easyJet board statement rejecting Castlelake's fourth bid, June 25, 2026
+
+  - story_id: life-wetlands4climate-wins-life-awards-2026
+    category: other
+    headline_en: "EU LIFE Awards 2026: LIFE WetLands4CLIMATE wins top Climate Action prize"
+    lead_url: https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+    hard_facts:
+      - claim: ceremony date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "Ceremony held June 25, 2026"
+      - claim: award category won
+        kind: named_institution
+        value: Climate Action
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "The LIFE WetLands4CLIMATE project won the Climate Action category award at the LIFE Awards 2026"
+      - claim: Spanish autonomous communities covered
+        kind: named_institution
+        value: "Castilla y León, Castilla-La Mancha, Comunitat Valenciana"
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "operated across three Spanish autonomous communities — Castilla y León, Castilla-La Mancha, Comunitat Valenciana"
+      - claim: project duration
+        kind: temporal
+        value: four years
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "over four years with a €2.1 million budget"
+      - claim: project budget
+        kind: numerical_with_unit
+        value: "€2.1 million"
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "with a €2.1 million budget"
+      - claim: CO2e savings achieved
+        kind: numerical_with_unit
+        value: "3,690 tonnes CO2e"
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "3,690 tonnes CO2e saved"
+      - claim: coastal lagoons restored
+        kind: numerical_with_unit
+        value: "58 hectares"
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "58 hectares of coastal lagoons restored"
+      - claim: vegetation restored
+        kind: numerical_with_unit
+        value: "75 hectares"
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "75 hectares vegetation restored"
+      - claim: salt meadows restored
+        kind: numerical_with_unit
+        value: "213 hectares"
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "213 hectares salt meadows restored"
+      - claim: sediment management climate mitigation improvement range
+        kind: numerical_with_unit
+        value: "25-45%"
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "Sediment management achieved 25-45% improvement in climate mitigation"
+      - claim: companies in knowledge-transfer workshops
+        kind: numerical_with_unit
+        value: "Over 50 companies"
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "Over 50 companies in knowledge-transfer workshops"
+      - claim: named product — LIFE WetLands4CLIMATE project
+        kind: named_product
+        value: LIFE WetLands4CLIMATE
+        source_urls:
+          - https://cinea.ec.europa.eu/news-events/news/life-wetlands4climate-wins-top-climate-action-prize-life-awards-2026-2026-06-25_en
+        verbatim_excerpt: "The LIFE WetLands4CLIMATE project won the Climate Action category award"
+    quotes: []
+
+  - story_id: ferrari-marketing-chief-quits-luce-ev-backlash
+    category: other
+    headline_en: "Ferrari's marketing chief quits after Luce EV launch backlash"
+    lead_url: https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+    body_source: full
+    corroborated_by:
+      - https://finance.yahoo.com/media-advertising/articles/ferrari-announces-change-leadership-143200812.html
+      - https://electrek.co/2026/06/23/ferrari-replaces-marketing-chief-luce-ev-backlash/
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+      - https://finance.yahoo.com/media-advertising/articles/ferrari-announces-change-leadership-143200812.html
+      - https://electrek.co/2026/06/23/ferrari-replaces-marketing-chief-luce-ev-backlash/
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "Ferrari announced June 25, 2026 that Chief Marketing and Commercial Officer Enrico Galliera is stepping down"
+      - claim: departing executive name and title
+        kind: named_person
+        value: Enrico Galliera
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+          - https://finance.yahoo.com/media-advertising/articles/ferrari-announces-change-leadership-143200812.html
+        verbatim_excerpt: "Chief Marketing and Commercial Officer Enrico Galliera is stepping down"
+      - claim: Galliera's tenure duration
+        kind: temporal
+        value: more than 16 years
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "stepping down after more than 16 years"
+      - claim: successor name
+        kind: named_person
+        value: Massimiliano Di Silvestre
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+          - https://finance.yahoo.com/media-advertising/articles/ferrari-announces-change-leadership-143200812.html
+        verbatim_excerpt: "Successor Massimiliano Di Silvestre, former head of BMW Italy, takes over July 1, 2026"
+      - claim: successor's prior role
+        kind: named_institution
+        value: BMW Italy
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "Massimiliano Di Silvestre, former head of BMW Italy"
+      - claim: successor start date
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "takes over July 1, 2026"
+      - claim: Ferrari Luce unveiling date
+        kind: temporal
+        value: May 2026
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "following the May 2026 unveiling of the Ferrari Luce"
+      - claim: named product — Ferrari Luce
+        kind: named_product
+        value: Ferrari Luce
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+          - https://finance.yahoo.com/media-advertising/articles/ferrari-announces-change-leadership-143200812.html
+          - https://electrek.co/2026/06/23/ferrari-replaces-marketing-chief-luce-ev-backlash/
+        verbatim_excerpt: "following the May 2026 unveiling of the Ferrari Luce, the company's first fully electric model"
+      - claim: named institution — LoveFrom (design studio)
+        kind: named_institution
+        value: LoveFrom
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "designed with LoveFrom (Jony Ive's studio)"
+      - claim: named person — Jony Ive
+        kind: named_person
+        value: Jony Ive
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "LoveFrom (Jony Ive's studio)"
+      - claim: Ferrari share fall after Luce reveal
+        kind: numerical_with_unit
+        value: ">8%"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "Ferrari shares fell >8% after the reveal"
+      - claim: named person — former Ferrari chairman (critic)
+        kind: named_person
+        value: Luca Cordero di Montezemolo
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "Former chairman Luca Cordero di Montezemolo warned of \"destruction of a legend.\""
+      - claim: named person — Italy Deputy PM (critic)
+        kind: named_person
+        value: Matteo Salvini
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "Italy's Deputy PM Matteo Salvini questioned its €550,000 price point"
+      - claim: Ferrari Luce price
+        kind: numerical_with_unit
+        value: "€550,000"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "Italy's Deputy PM Matteo Salvini questioned its €550,000 price point"
+      - claim: named person — Ferrari CEO
+        kind: named_person
+        value: Benedetto Vigna
+        source_urls:
+          - https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        verbatim_excerpt: "CEO Benedetto Vigna framed it as brand evolution"
+    quotes:
+      - speaker_name: Luca Cordero di Montezemolo
+        speaker_title: Former Chairman, Ferrari
+        verbatim_en: "destruction of a legend."
+        source_url: https://www.euronews.com/business/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in
+        context: Response to Ferrari Luce EV unveiling, May 2026
+
+  - story_id: uk-windrush-day-2026-commons-debate
+    category: other
+    headline_en: UK Windrush Day 2026 parliamentary debate in the House of Commons
+    lead_url: https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+    hard_facts:
+      - claim: debate date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+        verbatim_excerpt: "The UK House of Commons held a general debate on Windrush Day 2026 on June 25, 2026"
+      - claim: named person — MP who applied for debate
+        kind: named_person
+        value: Helen Hayes
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+        verbatim_excerpt: "following an application from Labour MP Helen Hayes"
+      - claim: Helen Hayes party affiliation
+        kind: named_institution
+        value: Labour
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+        verbatim_excerpt: "following an application from Labour MP Helen Hayes"
+      - claim: HMT Empire Windrush arrival year at Tilbury Docks
+        kind: temporal
+        value: "1948"
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+        verbatim_excerpt: "Windrush Day marks the 1948 arrival of HMT Empire Windrush at Tilbury Docks"
+      - claim: named product — HMT Empire Windrush
+        kind: named_product
+        value: HMT Empire Windrush
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+        verbatim_excerpt: "Windrush Day marks the 1948 arrival of HMT Empire Windrush at Tilbury Docks"
+      - claim: named institution — Tilbury Docks (arrival location)
+        kind: named_institution
+        value: Tilbury Docks
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+        verbatim_excerpt: "1948 arrival of HMT Empire Windrush at Tilbury Docks"
+      - claim: national Windrush Day date
+        kind: temporal
+        value: June 22
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/june-2026/coming-up-in-the-commons-22-26-june/
+        verbatim_excerpt: "national Windrush Day is June 22"
+    quotes: []
