@@ -1,0 +1,1129 @@
+version: 1
+generated_at: "2026-06-26T12:00:00Z"
+country: United States
+date: "2026-06-26"
+total_stories: 17
+stories:
+
+  - story_id: umich-consumer-sentiment-june-2026-49-5
+    category: econ
+    headline_en: University of Michigan Consumer Sentiment Final June 2026 Reading Revised Up to 49.5
+    lead_url: https://www.sca.isr.umich.edu/
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html
+      - https://tradingeconomics.com/united-states/consumer-confidence
+    locked_urls:
+      - https://www.sca.isr.umich.edu/
+      - https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html
+      - https://tradingeconomics.com/united-states/consumer-confidence
+    hard_facts:
+      - claim: Final June 2026 Index of Consumer Sentiment reading
+        kind: numerical_with_unit
+        value: "49.5"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "revising it upward to 49.5 from the preliminary reading of 48.9"
+      - claim: Preliminary June 2026 ICS reading (released June 12)
+        kind: numerical_with_unit
+        value: "48.9"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "from the preliminary reading of 48.9 released June 12"
+      - claim: Month-over-month increase from May 2026
+        kind: numerical_with_unit
+        value: "9.2%"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "9.2% month-over-month increase from May 2026's record low of 44.8"
+      - claim: May 2026 record low ICS
+        kind: numerical_with_unit
+        value: "44.8"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "May 2026's record low of 44.8"
+      - claim: Year-over-year decline vs June 2025
+        kind: numerical_with_unit
+        value: "19.4%"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "sentiment remains 19.4% below the level recorded one year ago (June 2025: 60.7)"
+      - claim: June 2025 ICS for comparison
+        kind: numerical_with_unit
+        value: "60.7"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "(June 2025: 60.7)"
+      - claim: Year-ahead inflation expectations
+        kind: numerical_with_unit
+        value: "4.6%"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "Year-ahead inflation expectations edged down to 4.6% from 4.8% in May"
+      - claim: Long-run inflation expectations
+        kind: numerical_with_unit
+        value: "3.4%"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "long-run inflation expectations fell to 3.4% from 3.9%"
+      - claim: Consensus forecast for June ICS
+        kind: numerical_with_unit
+        value: "50.0"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "fell short of the consensus forecast of 50.0 points"
+      - claim: Release date
+        kind: temporal
+        value: "June 26, 2026"
+        source_urls: [https://www.sca.isr.umich.edu/]
+        verbatim_excerpt: "released the final June 2026 reading of the Index of Consumer Sentiment on June 26, 2026"
+    quotes: []
+
+  - story_id: treasury-yields-energy-prices-iran-june-2026
+    category: econ
+    headline_en: Treasury Yields Little Changed as Energy Prices Slide; Traders Monitor Iran Peace Deal and Inflation Trajectory
+    lead_url: https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html
+    body_source: full
+    corroborated_by:
+      - https://tradingeconomics.com/united-states/government-bond-yield
+    locked_urls:
+      - https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html
+      - https://tradingeconomics.com/united-states/government-bond-yield
+    hard_facts:
+      - claim: 10-year Treasury note yield on the week
+        kind: numerical_with_unit
+        value: "approximately 4.45%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "yield on the 10-year U.S. Treasury note fell to approximately 4.45% on the week"
+      - claim: Fed benchmark overnight borrowing rate range (June 17 decision)
+        kind: numerical_with_unit
+        value: "3.5%–3.75%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "keep the benchmark overnight borrowing rate in a range of 3.5%–3.75%"
+      - claim: FOMC 2026 headline PCE outlook
+        kind: numerical_with_unit
+        value: "3.6%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "FOMC officials raised their 2026 inflation outlook to 3.6% headline"
+      - claim: FOMC 2026 core PCE outlook
+        kind: numerical_with_unit
+        value: "3.3%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "3.3% core PCE versus 2.7% rates anticipated in March"
+      - claim: Core PCE year-over-year May 2026
+        kind: numerical_with_unit
+        value: "3.4%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "core PCE price index rose 3.4% year-over-year"
+      - claim: Overall PCE year-over-year May 2026
+        kind: numerical_with_unit
+        value: "4.1%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "overall PCE index rose 4.1% year-over-year (+0.4% month-over-month)"
+      - claim: S&P 500 decline on the day
+        kind: numerical_with_unit
+        value: "0.75%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "S&P 500 was down 0.75%"
+      - claim: Nasdaq Composite decline on the day
+        kind: numerical_with_unit
+        value: "1.25%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "the Nasdaq Composite down 1.25%"
+      - claim: DJIA decline on the day
+        kind: numerical_with_unit
+        value: "0.44%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "the Dow Jones Industrial Average down 0.44% on the day"
+      - claim: Probability of September rate hike assigned by traders
+        kind: numerical_with_unit
+        value: "68%"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "Traders currently assign a roughly 68% probability that rates will be increased in September"
+      - claim: Fed Chair identity
+        kind: named_person
+        value: Kevin Warsh
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "Fed Chair Kevin Warsh's Federal Open Market Committee voted unanimously on June 17"
+      - claim: FOMC vote date
+        kind: temporal
+        value: "June 17"
+        source_urls: [https://www.cnbc.com/2026/06/26/treasury-yields-edge-lower-as-energy-prices-slide.html]
+        verbatim_excerpt: "voted unanimously on June 17 to keep the benchmark overnight borrowing rate"
+    quotes: []
+
+  - story_id: apple-microsoft-hike-prices-ai-memory-chip
+    category: econ
+    headline_en: Apple and Microsoft Hike Consumer Hardware Prices as AI-Driven Memory Chip Costs Quadruple
+    lead_url: https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs
+    body_source: full
+    corroborated_by:
+      - https://www.cbsnews.com/news/apple-price-hikes-macbook-ipad-2026/
+      - https://www.cbc.ca/news/business/apple-price-hike-ipad-macbook-ai-memory-chip-2026-9.7248577
+      - https://www.axios.com/2026/06/26/apple-microsoft-prices-ai
+      - https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs
+      - https://www.cbsnews.com/news/apple-price-hikes-macbook-ipad-2026/
+      - https://www.cbc.ca/news/business/apple-price-hike-ipad-macbook-ai-memory-chip-2026-9.7248577
+      - https://www.axios.com/2026/06/26/apple-microsoft-prices-ai
+      - https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern
+    hard_facts:
+      - claim: Apple price increase magnitude
+        kind: numerical_with_unit
+        value: "as much as 25%"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "Apple Inc. raised prices by as much as 25% across its range of Macs and iPads"
+      - claim: MacBook Air new price
+        kind: numerical_with_unit
+        value: "$1,299"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "base model MacBook Air increased from $1,099 to $1,299"
+      - claim: MacBook Pro new price
+        kind: numerical_with_unit
+        value: "$1,999"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "base MacBook Pro rose from $1,699 to $1,999"
+      - claim: iPad Air new price
+        kind: numerical_with_unit
+        value: "$749"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "iPad Air base price increased from $599 to $749"
+      - claim: Mac Studio M3 Ultra new price
+        kind: numerical_with_unit
+        value: "$5,299"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "Mac Studio M3 Ultra saw the steepest increase, from $3,999 to $5,299"
+      - claim: Xbox Series S new price
+        kind: numerical_with_unit
+        value: "$500"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "Xbox Series S rising to $500 and the Xbox Series X rising to as much as $800"
+      - claim: Xbox Series X new price
+        kind: numerical_with_unit
+        value: "$800"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "the Xbox Series X rising to as much as $800"
+      - claim: Memory chip cost increase since 2025
+        kind: numerical_with_unit
+        value: "quadrupled"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "Memory chip costs — particularly DRAM and NAND flash — have quadrupled since 2025"
+      - claim: Apple share decline on the news
+        kind: numerical_with_unit
+        value: "more than 6%"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "Apple shares fell more than 6% on the news"
+      - claim: MSCI Asia Pacific Infotech gauge drop
+        kind: numerical_with_unit
+        value: "6.4%"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "leading to a 6.4% drop in the MSCI Asia Pacific Infotech gauge"
+      - claim: Named institution — SK Hynix
+        kind: named_institution
+        value: SK Hynix
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "South Korean memory chipmakers SK Hynix and Samsung Electronics both slid more than 10%"
+      - claim: Named institution — Kioxia decline
+        kind: numerical_with_unit
+        value: "as much as 14%"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "Japan's Kioxia sank as much as 14%"
+      - claim: Microsoft Xbox price effective date
+        kind: temporal
+        value: "August 1"
+        source_urls: [https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs]
+        verbatim_excerpt: "parallel Xbox console price increases effective August 1"
+    quotes:
+      - speaker_name: Apple spokesperson
+        speaker_title: Apple Inc. spokesperson
+        verbatim_en: "The rapid expansion of AI data centres has created an extraordinary surge in demand for memory and storage"
+        source_url: https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs
+        context: Apple statement June 26 announcing price increases
+
+  - story_id: iaea-demands-iran-nuclear-verification-june-2026
+    category: politics
+    headline_en: IAEA Chief Demands Verification of Iran's Nuclear Programme Amid Dispute Over Inspection Access
+    lead_url: https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/26/us-iran-peace-deal-nuclear-access.html
+      - https://www.aljazeera.com/news/2026/6/23/what-the-us-and-iran-agreed-and-disagreed-on-first-day-of-talks
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme
+      - https://www.cnbc.com/2026/06/26/us-iran-peace-deal-nuclear-access.html
+      - https://www.aljazeera.com/news/2026/6/23/what-the-us-and-iran-agreed-and-disagreed-on-first-day-of-talks
+    hard_facts:
+      - claim: IAEA Director General identity
+        kind: named_person
+        value: Rafael Grossi
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "International Atomic Energy Agency Director General Rafael Grossi called on June 26, 2026"
+      - claim: Statement date
+        kind: temporal
+        value: "June 26, 2026"
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "called on June 26, 2026, for 'a very strong system of verification'"
+      - claim: Iranian Deputy Foreign Minister identity
+        kind: named_person
+        value: Kazem Gharibabadi
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "Iranian Deputy Foreign Minister Kazem Gharibabadi said on June 25"
+      - claim: Iranian President identity
+        kind: named_person
+        value: Masoud Pezeshkian
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "signed remotely by President Trump and Iranian President Masoud Pezeshkian on June 17"
+      - claim: MOU signing date
+        kind: temporal
+        value: "June 17"
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "14-point memorandum of understanding signed remotely by President Trump and Iranian President Masoud Pezeshkian on June 17"
+      - claim: MOU point count
+        kind: numerical
+        value: "14"
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "14-point memorandum of understanding"
+      - claim: Iran's enriched uranium stockpile pre-conflict
+        kind: numerical_with_unit
+        value: "440.9 kg"
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "IAEA estimates Iran held 440.9 kg of uranium enriched to up to 60% before the conflict"
+      - claim: Uranium enrichment level
+        kind: numerical_with_unit
+        value: "up to 60%"
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "440.9 kg of uranium enriched to up to 60%"
+      - claim: Date Iran suspended IAEA cooperation
+        kind: temporal
+        value: "June 2025"
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "Iran suspended IAEA cooperation after U.S. and Israeli strikes on Iranian nuclear infrastructure in June 2025"
+      - claim: Date limited inspector access resumed
+        kind: temporal
+        value: "September 2025"
+        source_urls: [https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme]
+        verbatim_excerpt: "limited inspector access resumed in September 2025"
+    quotes:
+      - speaker_name: Rafael Grossi
+        speaker_title: IAEA Director General
+        verbatim_en: "There is a bit of a war of statements here"
+        source_url: https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme
+        context: news conference in Japan, June 26 2026
+      - speaker_name: Rafael Grossi
+        speaker_title: IAEA Director General
+        verbatim_en: "We must verify everywhere"
+        source_url: https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme
+        context: news conference in Japan, June 26 2026
+      - speaker_name: Rafael Grossi
+        speaker_title: IAEA Director General
+        verbatim_en: "There is an agreement and to comply with that agreement, the IAEA will have to have access and inspect."
+        source_url: https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme
+        context: news conference in Japan, June 26 2026
+
+  - story_id: judge-orders-doj-unredact-epstein-files-july-2
+    category: politics
+    headline_en: Federal Judge Orders DOJ to Unredact Epstein Files or Explain Redactions by July 2
+    lead_url: https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order
+    body_source: full
+    corroborated_by:
+      - https://thehill.com/regulation/court-battles/5941665-doj-epstein-files-lawsuit/
+      - https://www.cbsnews.com/news/judge-orders-doj-unredact-more-epstein-files-or-explain-why-blanche/
+      - https://abcnews.com/Politics/judge-orders-doj-turn-unredacted-epstein-files/story?id=134228532
+      - https://www.notus.org/trump-white-house/justice-department-violate-law-federal-judge-epstein-files
+    locked_urls:
+      - https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order
+      - https://thehill.com/regulation/court-battles/5941665-doj-epstein-files-lawsuit/
+      - https://www.cbsnews.com/news/judge-orders-doj-unredact-more-epstein-files-or-explain-why-blanche/
+      - https://abcnews.com/Politics/judge-orders-doj-turn-unredacted-epstein-files/story?id=134228532
+      - https://www.notus.org/trump-white-house/justice-department-violate-law-federal-judge-epstein-files
+    hard_facts:
+      - claim: Presiding judge identity
+        kind: named_person
+        value: Emmet Sullivan
+        source_urls: [https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order]
+        verbatim_excerpt: "U.S. District Judge Emmet Sullivan in Washington, D.C., ruled on June 26, 2026"
+      - claim: Ruling date
+        kind: temporal
+        value: "June 26, 2026"
+        source_urls: [https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order]
+        verbatim_excerpt: "ruled on June 26, 2026, ordering the U.S. Department of Justice"
+      - claim: Compliance deadline
+        kind: temporal
+        value: "July 2"
+        source_urls: [https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order]
+        verbatim_excerpt: "The DOJ was given until July 2, 2026, to comply or file explanations"
+      - claim: Plaintiff identity
+        kind: named_person
+        value: Katie Phang
+        source_urls: [https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order]
+        verbatim_excerpt: "lawsuit filed by independent journalist and legal commentator Katie Phang in April 2026"
+      - claim: Lawsuit filing date
+        kind: temporal
+        value: "April 2026"
+        source_urls: [https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order]
+        verbatim_excerpt: "lawsuit filed by independent journalist and legal commentator Katie Phang in April 2026"
+      - claim: Acting Attorney General identity
+        kind: named_person
+        value: Todd Blanche
+        source_urls: [https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order]
+        verbatim_excerpt: "acting Attorney General Todd Blanche is likely violating the statute"
+      - claim: Named law at issue
+        kind: named_institution
+        value: Epstein Files Transparency Act
+        source_urls: [https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order]
+        verbatim_excerpt: "ongoing violation of the federal Epstein Files Transparency Act passed by Congress"
+      - claim: Number of email exchanges ordered unredacted
+        kind: numerical
+        value: "at least eight"
+        source_urls: [https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order]
+        verbatim_excerpt: "remove redactions from 'at least eight email exchanges with Mr. Epstein'"
+    quotes:
+      - speaker_name: Katie Phang
+        speaker_title: plaintiff, independent journalist and legal commentator
+        verbatim_en: "a brazen, shocking, and ongoing violation"
+        source_url: https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order
+        context: characterizing DOJ conduct in the lawsuit
+      - speaker_name: Brendan Ballou
+        speaker_title: plaintiff attorney
+        verbatim_en: "The government thought that it could ignore its own law and blow off a judge's order, all for the sake of protecting the very powerful and the very rich."
+        source_url: https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order
+        context: statement on the ruling, June 26 2026
+
+  - story_id: venezuela-earthquake-us-150m-aid-sanctions-waiver
+    category: politics
+    headline_en: "Venezuela Earthquake: US Mobilizes $150 Million in Aid, Treasury Waives Sanctions for Relief Through October"
+    lead_url: https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-what-happens-in-the-first-72-hours
+      - https://www.cnn.com/2026/06/26/world/live-news/venezuela-earthquake-hnk
+      - https://ofac.treasury.gov/recent-actions/20260625_33
+    locked_urls:
+      - https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c
+      - https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-what-happens-in-the-first-72-hours
+      - https://www.cnn.com/2026/06/26/world/live-news/venezuela-earthquake-hnk
+      - https://ofac.treasury.gov/recent-actions/20260625_33
+    hard_facts:
+      - claim: Death toll as of June 26
+        kind: numerical
+        value: "589"
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "Venezuela's acting President Delcy Rodríguez confirmed at least 589 people had been killed"
+      - claim: Injured count
+        kind: numerical
+        value: "over 4,300"
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "over 4,300 injured following twin earthquakes"
+      - claim: First earthquake magnitude
+        kind: numerical_with_unit
+        value: "7.2"
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "twin earthquakes of magnitudes 7.2 and 7.5 that struck near San Felipe"
+      - claim: Second earthquake magnitude
+        kind: numerical_with_unit
+        value: "7.5"
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "magnitudes 7.2 and 7.5 that struck near San Felipe in western Venezuela"
+      - claim: Earthquake local time
+        kind: temporal
+        value: "18:04 local time on June 25, 2026"
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "at 18:04 local time on June 25, 2026"
+      - claim: Venezuelans potentially affected
+        kind: numerical_with_unit
+        value: "approximately 6.76 million"
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "Approximately 6.76 million Venezuelans were potentially affected"
+      - claim: US aid mobilized
+        kind: numerical_with_unit
+        value: "$150 million"
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "U.S. State Department announced it was mobilizing $150 million in aid"
+      - claim: US contribution to OCHA fund
+        kind: numerical_with_unit
+        value: "$100 million"
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "including a $100 million contribution to a UN Office for the Coordination of Humanitarian Affairs fund"
+      - claim: OFAC Venezuela General License number
+        kind: named_product
+        value: Venezuela General License 60
+        source_urls: [https://ofac.treasury.gov/recent-actions/20260625_33]
+        verbatim_excerpt: "OFAC issued Venezuela General License 60 on June 25"
+      - claim: License humanitarian corridor end date
+        kind: temporal
+        value: "October 23, 2026"
+        source_urls: [https://ofac.treasury.gov/recent-actions/20260625_33]
+        verbatim_excerpt: "authorizing all transactions related to earthquake relief from June 26 through October 23, 2026"
+      - claim: Acting President identity
+        kind: named_person
+        value: Delcy Rodríguez
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "Venezuela's acting President Delcy Rodríguez confirmed at least 589 people had been killed"
+      - claim: Secretary of State identity
+        kind: named_person
+        value: Marco Rubio
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "Secretary of State Marco Rubio deployed a Disaster Assistance Response Team"
+      - claim: Named ship — USS Fort Lauderdale
+        kind: named_product
+        value: USS Fort Lauderdale (LPD 28)
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "amphibious transport ship USS Fort Lauderdale (LPD 28)"
+      - claim: Named ship — USS Billings
+        kind: named_product
+        value: USS Billings (LCS 15)
+        source_urls: [https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c]
+        verbatim_excerpt: "the littoral combat ship USS Billings (LCS 15)"
+    quotes:
+      - speaker_name: Delcy Rodríguez
+        speaker_title: Venezuela acting President
+        verbatim_en: "We are going to rescue the people who are trapped. We are working tirelessly."
+        source_url: https://www.euronews.com/2026/06/26/deal-toll-from-venezuela-earthquakes-rises-to-235-as-state-led-search-and-rescue-efforts-c
+        context: statement on earthquake response, June 26 2026
+
+  - story_id: openai-ipo-delay-2027-altman-1-trillion-softbank
+    category: tech
+    headline_en: OpenAI Weighs Delaying IPO to 2027 as Altman Holds Firm on $1 Trillion Valuation; SoftBank Shares Plunge
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.businesstoday.in/technology/artificial-intelligence/story/openai-may-delay-ipo-to-2027-as-sam-altman-holds-firm-on-1-trillion-valuation-539340-2026-06-26
+      - https://www.fxleaders.com/news/2026/06/26/openai-may-delay-ipo-after-spacex-stock-drop/
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay
+      - https://www.businesstoday.in/technology/artificial-intelligence/story/openai-may-delay-ipo-to-2027-as-sam-altman-holds-firm-on-1-trillion-valuation-539340-2026-06-26
+      - https://www.fxleaders.com/news/2026/06/26/openai-may-delay-ipo-after-spacex-stock-drop/
+    hard_facts:
+      - claim: SoftBank share decline peak
+        kind: numerical_with_unit
+        value: "approximately 13%"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "SoftBank Group Corp.'s stock fell the most since August 2024 — approximately 13% at peak"
+      - claim: SoftBank largest decline since
+        kind: temporal
+        value: "August 2024"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "fell the most since August 2024 — approximately 13% at peak"
+      - claim: OpenAI target valuation
+        kind: numerical_with_unit
+        value: "$1 trillion"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "CEO Sam Altman has pushed advisers to achieve a $1 trillion valuation"
+      - claim: SpaceX IPO date
+        kind: temporal
+        value: "June 12"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "SpaceX's IPO on June 12"
+      - claim: SpaceX IPO amount raised
+        kind: numerical_with_unit
+        value: "more than $85 billion"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "raising more than $85 billion at a $2.77 trillion valuation"
+      - claim: SpaceX IPO valuation
+        kind: numerical_with_unit
+        value: "$2.77 trillion"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "raising more than $85 billion at a $2.77 trillion valuation"
+      - claim: SPCX peak price
+        kind: numerical_with_unit
+        value: "$225.64"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "SPCX shares drop from a peak of $225.64 to an intraday low of $147.11"
+      - claim: SPCX intraday low
+        kind: numerical_with_unit
+        value: "$147.11"
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "to an intraday low of $147.11 within three sessions"
+      - claim: OpenAI CEO identity
+        kind: named_person
+        value: Sam Altman
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "CEO Sam Altman has pushed advisers to achieve a $1 trillion valuation"
+      - claim: OpenAI CFO identity
+        kind: named_person
+        value: Sarah Friar
+        source_urls: [https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay]
+        verbatim_excerpt: "OpenAI CFO Sarah Friar has told some associates the company is now aiming for a 2027 listing"
+    quotes: []
+
+  - story_id: ai-tokenmaxxing-era-ends-enterprise-cost-shift
+    category: tech
+    headline_en: AI Spending Era of "Tokenmaxxing" Ends as Enterprises Shift to Cost Efficiency, Pressuring OpenAI and Anthropic
+    lead_url: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://letsdatascience.com/news/openai-and-anthropic-face-spending-driven-growth-slowdown-66455060
+      - https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/
+    locked_urls:
+      - https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
+      - https://letsdatascience.com/news/openai-and-anthropic-face-spending-driven-growth-slowdown-66455060
+      - https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/
+    hard_facts:
+      - claim: Lindy API traffic migration — percentage moved to DeepSeek
+        kind: numerical_with_unit
+        value: "100 percent"
+        source_urls: [https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html]
+        verbatim_excerpt: "moved 100 percent of its API traffic from Anthropic's Claude models to DeepSeek"
+      - claim: Lindy CEO identity
+        kind: named_person
+        value: Flo Crivello
+        source_urls: [https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html]
+        verbatim_excerpt: "Lindy CEO Flo Crivello told CNBC"
+      - claim: Uber AI spending tier base per employee per month
+        kind: numerical_with_unit
+        value: "$1,500 per month per employee"
+        source_urls: [https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html]
+        verbatim_excerpt: "starting at a base of $1,500 per month per employee"
+      - claim: Uber AI budget burn timeframe
+        kind: temporal
+        value: "just four months"
+        source_urls: [https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html]
+        verbatim_excerpt: "burned through its entire annual AI budget in just four months"
+      - claim: Analyst identity — D.A. Davidson
+        kind: named_person
+        value: Gil Luria
+        source_urls: [https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html]
+        verbatim_excerpt: "D.A. Davidson analyst Gil Luria warned"
+      - claim: Named institution — DeepSeek
+        kind: named_institution
+        value: DeepSeek
+        source_urls: [https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html]
+        verbatim_excerpt: "moved 100 percent of its API traffic from Anthropic's Claude models to DeepSeek"
+    quotes:
+      - speaker_name: Gil Luria
+        speaker_title: analyst, D.A. Davidson
+        verbatim_en: "some of their largest enterprise customers may start limiting their out-of-control token spend"
+        source_url: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
+        context: CNBC report, June 26 2026
+
+  - story_id: ai-memory-chip-shortage-consumer-electronics-prices
+    category: tech
+    headline_en: AI Memory Chip Shortage Drives Up Consumer Electronics Prices, Squeezing Retailers Ahead of Holiday Season
+    lead_url: https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.emekce.com/memory-chip-prices-surge-raising-laptop-and-phone-retail-costs/
+      - https://www.cbc.ca/news/business/apple-price-hike-ipad-macbook-ai-memory-chip-2026-9.7248577
+    locked_urls:
+      - https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html
+      - https://www.emekce.com/memory-chip-prices-surge-raising-laptop-and-phone-retail-costs/
+      - https://www.cbc.ca/news/business/apple-price-hike-ipad-macbook-ai-memory-chip-2026-9.7248577
+    hard_facts:
+      - claim: Data centre share of global memory production in 2026
+        kind: numerical_with_unit
+        value: "70 percent"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "Data centres consumed an estimated 70 percent of global memory production in 2026"
+      - claim: DRAM contract price increase Q2 2026
+        kind: numerical_with_unit
+        value: "approximately 64 percent quarter-on-quarter"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "DRAM contract prices rising approximately 64 percent quarter-on-quarter in Q2 2026"
+      - claim: NAND contract price increase Q2 2026
+        kind: numerical_with_unit
+        value: "about 60 percent"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "NAND contract prices climbing about 60 percent in the same period"
+      - claim: IDC forecast consumer PC price increase
+        kind: numerical_with_unit
+        value: "approximately 17 percent"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "IDC expects consumer PC prices to rise by approximately 17 percent"
+      - claim: IDC forecast smartphone price increase
+        kind: numerical_with_unit
+        value: "about 13 percent"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "smartphone prices to increase by about 13 percent, compared with 2025 levels"
+      - claim: Memory share of HP laptop materials cost now
+        kind: numerical_with_unit
+        value: "roughly 35 percent"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "Memory now accounts for roughly 35 percent of materials costs in building a laptop at HP Inc."
+      - claim: Expected PC shipment reduction 2026
+        kind: numerical_with_unit
+        value: "10.4 percent"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "expected to reduce global PC shipments by 10.4 percent"
+      - claim: Expected smartphone shipment reduction 2026
+        kind: numerical_with_unit
+        value: "8.4 percent"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "smartphone shipments by 8.4 percent in 2026"
+      - claim: Memory price normalisation expected date
+        kind: temporal
+        value: "end of 2027"
+        source_urls: [https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html]
+        verbatim_excerpt: "prices are not expected to normalise until the end of 2027"
+    quotes: []
+
+  - story_id: resistance-rangers-black-history-exhibit-trump
+    category: society
+    headline_en: Former National Park Rangers Teach Cancelled Black History Exhibit as "Resistance Rangers"
+    lead_url: https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history
+    body_source: full
+    corroborated_by:
+      - https://www.houstonpublicmedia.org/npr/2026/06/26/nx-s1-5867415/trump-axed-a-black-history-exhibit-former-park-rangers-are-teaching-it-anyway/
+    locked_urls:
+      - https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history
+      - https://www.houstonpublicmedia.org/npr/2026/06/26/nx-s1-5867415/trump-axed-a-black-history-exhibit-former-park-rangers-are-teaching-it-anyway/
+    hard_facts:
+      - claim: Named former ranger — Harpers Ferry exhibit builder
+        kind: named_person
+        value: Elizabeth Kerwin
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history]
+        verbatim_excerpt: "former National Park ranger Elizabeth Kerwin, who spent years building a 'wall of remembrance'"
+      - claim: Named park — exhibit location
+        kind: named_institution
+        value: Harpers Ferry National Historic Park
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history]
+        verbatim_excerpt: "enslaved people with ties to Harpers Ferry National Historic Park in West Virginia"
+      - claim: Coalition name
+        kind: named_institution
+        value: America 433+
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history]
+        verbatim_excerpt: "helping to found an education coalition dubbed 'America 433+'"
+      - claim: National Park System site count referenced
+        kind: numerical
+        value: "433"
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history]
+        verbatim_excerpt: "a reference to the 433 sites comprising the National Park System"
+      - claim: Resistance Rangers launch date
+        kind: temporal
+        value: "June 19, 2026"
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history]
+        verbatim_excerpt: "Resistance Rangers picked Juneteenth (June 19, 2026) to launch their public education campaign"
+      - claim: Named Resistance Ranger spokesperson
+        kind: named_person
+        value: Melissa Dalley
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history]
+        verbatim_excerpt: "according to Melissa Dalley, a Resistance Ranger and former park guide"
+      - claim: Named park — Dalley's former site
+        kind: named_institution
+        value: Martin Van Buren National Historic Site
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history]
+        verbatim_excerpt: "former park guide at the Martin Van Buren National Historic Site in New York state"
+    quotes: []
+
+  - story_id: lincoln-reflecting-pool-liner-cut-seven-arrests
+    category: society
+    headline_en: Lincoln Memorial Reflecting Pool Liner Cut with Sharp Knife or Razor; Seven Arrests Made
+    lead_url: https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says
+    body_source: full
+    corroborated_by:
+      - https://www.pbs.org/newshour/politics/reflecting-pool-liner-was-cut-with-a-sharp-knife-or-razor-national-park-service-says
+      - https://thehill.com/homenews/administration/5934651-arrests-vandalism-lincoln-memorial-reflecting-pool/
+    locked_urls:
+      - https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says
+      - https://www.pbs.org/newshour/politics/reflecting-pool-liner-was-cut-with-a-sharp-knife-or-razor-national-park-service-says
+      - https://thehill.com/homenews/administration/5934651-arrests-vandalism-lincoln-memorial-reflecting-pool/
+    hard_facts:
+      - claim: Renovation cost
+        kind: numerical_with_unit
+        value: "$16 million"
+        source_urls: [https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says]
+        verbatim_excerpt: "damage to the foam sealant installed as part of a $16 million rehabilitation project"
+      - claim: Initial complaint response date
+        kind: temporal
+        value: "June 9"
+        source_urls: [https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says]
+        verbatim_excerpt: "U.S. Park Police responded June 9 to an initial complaint"
+      - claim: Total arrests
+        kind: numerical
+        value: "seven"
+        source_urls: [https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says]
+        verbatim_excerpt: "Interior Department reported seven arrests, seven federal citations, and 18 police reports"
+      - claim: Federal citations issued
+        kind: numerical
+        value: "seven"
+        source_urls: [https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says]
+        verbatim_excerpt: "seven arrests, seven federal citations, and 18 police reports filed"
+      - claim: Police reports filed
+        kind: numerical
+        value: "18"
+        source_urls: [https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says]
+        verbatim_excerpt: "18 police reports filed related to alleged pool damage"
+      - claim: Pool surface coating colour
+        kind: named_product
+        value: "American Flag Blue"
+        source_urls: [https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says]
+        verbatim_excerpt: "'American Flag Blue' surface coating before reopening in early June 2026"
+    quotes: []
+
+  - story_id: noaa-ex-employees-launch-climate-us-data-site
+    category: society
+    headline_en: Former NOAA Employees Launch Climate.us to Restore US Climate Data Site Shut Down by Trump Administration
+    lead_url: https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge
+    body_source: full
+    corroborated_by:
+      - https://www.kpbs.org/news/politics/2026/06/26/ex-noaa-employees-re-create-a-valuable-climate-data-site-shut-down-by-trump
+      - https://www.wfae.org/united-states-world/2026-06-26/ex-noaa-employees-re-create-a-valuable-climate-data-site-shut-down-by-trump
+    locked_urls:
+      - https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge
+      - https://www.kpbs.org/news/politics/2026/06/26/ex-noaa-employees-re-create-a-valuable-climate-data-site-shut-down-by-trump
+      - https://www.wfae.org/united-states-world/2026-06-26/ex-noaa-employees-re-create-a-valuable-climate-data-site-shut-down-by-trump
+    hard_facts:
+      - claim: Named nonprofit website launched
+        kind: named_institution
+        value: Climate.us
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "Former employees of the National Oceanic and Atmospheric Administration (NOAA) have launched a nonprofit website called Climate.us"
+      - claim: Project head identity
+        kind: named_person
+        value: Rebecca Lindsey
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "Rebecca Lindsey, a former program director for Climate.gov, now heads the Climate.us project"
+      - claim: Rebuild start date
+        kind: temporal
+        value: "August 2025"
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "began rebuilding the site in August 2025 alongside two other former NOAA colleagues"
+      - claim: Crowdfunded amount
+        kind: numerical_with_unit
+        value: "approximately $280,000"
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "crowdsourced approximately $280,000 for technical development"
+      - claim: Funding sustainability through date
+        kind: temporal
+        value: "February 2027"
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "received one anonymous grant to sustain operations through February 2027"
+      - claim: Climate key climate-change graphs on dashboard
+        kind: numerical
+        value: "more than 15"
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "climate dashboard with more than 15 key climate-change graphs"
+      - claim: Monthly visitors to Climate.gov as recently as 2021
+        kind: numerical_with_unit
+        value: "nearly one million"
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "attracted nearly one million monthly visitors to Climate.gov as recently as 2021"
+      - claim: Scientists volunteering on science panel
+        kind: numerical
+        value: "about 80"
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "About 80 scientists have volunteered to serve on the site's science panel"
+      - claim: Climate scientist endorsing effort
+        kind: named_person
+        value: Katharine Hayhoe
+        source_urls: [https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge]
+        verbatim_excerpt: "Climate scientist Katharine Hayhoe of Texas Tech University praised the effort"
+    quotes:
+      - speaker_name: Katharine Hayhoe
+        speaker_title: climate scientist, Texas Tech University
+        verbatim_en: "people connect what's happening at the global scale to how it matters"
+        source_url: https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge
+        context: comment praising Climate.us, June 26 2026
+
+  - story_id: elroy-air-spac-800m-cmii-nasdaq-elry
+    category: ipo_ma
+    headline_en: Elroy Air to Go Public via $800 Million SPAC Combination with Columbus Circle Capital Corp II
+    lead_url: https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm
+    body_source: full
+    corroborated_by:
+      - https://stockhouse.com/news/press-releases/2026/06/26/elroy-air-to-become-publicly-traded-company-via-business-combination-with
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42Y0AO:0-drone-startup-elroy-air-nearing-800-million-spac-deal-bloomberg-news-reports/
+    locked_urls:
+      - https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm
+      - https://stockhouse.com/news/press-releases/2026/06/26/elroy-air-to-become-publicly-traded-company-via-business-combination-with
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42Y0AO:0-drone-startup-elroy-air-nearing-800-million-spac-deal-bloomberg-news-reports/
+    hard_facts:
+      - claim: Elroy Air pre-money equity value
+        kind: numerical_with_unit
+        value: "$800 million"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "values Elroy Air at an $800 million pre-money equity value"
+      - claim: Post-transaction enterprise value
+        kind: numerical_with_unit
+        value: "approximately $1.0 billion"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "post-transaction enterprise value of approximately $1.0 billion"
+      - claim: Committed PIPE capital
+        kind: numerical_with_unit
+        value: "more than $165 million"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "more than $165 million in committed PIPE capital (with up to $230 million additional)"
+      - claim: Capital committed upon signing
+        kind: numerical_with_unit
+        value: "$65 million"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "$65 million committed upon signing the Business Combination Agreement"
+      - claim: New ticker symbol
+        kind: named_product
+        value: ELRY
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "combined company will trade on Nasdaq under the ticker ELRY"
+      - claim: Transaction expected close
+        kind: temporal
+        value: "Q4 2026"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "transaction is expected to close in Q4 2026"
+      - claim: Demand pipeline size
+        kind: numerical_with_unit
+        value: "exceeding 1,400 aircraft"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "demand pipeline exceeding 1,400 aircraft, a $5+ billion potential revenue opportunity"
+      - claim: Potential revenue opportunity
+        kind: numerical_with_unit
+        value: "$5+ billion"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "a $5+ billion potential revenue opportunity"
+      - claim: Elroy Air CEO identity
+        kind: named_person
+        value: Andrew Clare
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "Elroy Air CEO Andrew Clare, PhD stated"
+      - claim: CMII/Inflection Point CIO identity
+        kind: named_person
+        value: Michael Blitzer
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "CMII/Inflection Point CIO Michael Blitzer added"
+      - claim: Manufacturing partner
+        kind: named_institution
+        value: Kratos Defense & Security Solutions
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm]
+        verbatim_excerpt: "manufacturing partnership with Kratos Defense & Security Solutions"
+    quotes:
+      - speaker_name: Andrew Clare
+        speaker_title: CEO, Elroy Air
+        verbatim_en: "Autonomous flight is the next great logistics revolution — and Elroy Air intends to lead it."
+        source_url: https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm
+        context: announcement of SPAC combination, June 26 2026
+      - speaker_name: Michael Blitzer
+        speaker_title: CIO, Inflection Point / Columbus Circle Capital Corp II
+        verbatim_en: "Elroy Air is emerging at the intersection of two massive secular shifts: the modernization of defense technology and the automation of global supply chains."
+        source_url: https://www.sec.gov/Archives/edgar/data/0002088805/000121390026072373/ea029605301ex99-2.htm
+        context: announcement of SPAC combination, June 26 2026
+
+  - story_id: onsemi-acquires-synaptics-7-billion-all-stock
+    category: ipo_ma
+    headline_en: "Onsemi to Acquire Synaptics in $7 Billion All-Stock Deal; Largest in Company's History"
+    lead_url: https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html
+    body_source: full
+    corroborated_by:
+      - https://www.sec.gov/Archives/edgar/data/0000817720/000114036126026434/ef20076748_8k.htm
+      - https://www.sec.gov/Archives/edgar/data/0001097864/000114036126026395/ef20076747_ex2-1.htm
+      - https://www.electronicsweekly.com/news/business/onsemi-buys-synaptics-2026-06/
+    locked_urls:
+      - https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html
+      - https://www.sec.gov/Archives/edgar/data/0000817720/000114036126026434/ef20076748_8k.htm
+      - https://www.sec.gov/Archives/edgar/data/0001097864/000114036126026395/ef20076747_ex2-1.htm
+      - https://www.electronicsweekly.com/news/business/onsemi-buys-synaptics-2026-06/
+    hard_facts:
+      - claim: Deal total enterprise value
+        kind: numerical_with_unit
+        value: "approximately $7 billion"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "total enterprise value of approximately $7 billion — the largest deal in onsemi's history"
+      - claim: Exchange ratio
+        kind: numerical_with_unit
+        value: "1.350 shares of onsemi common stock"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "Each Synaptics share will be exchanged for 1.350 shares of onsemi common stock"
+      - claim: Implied premium
+        kind: numerical_with_unit
+        value: "approximately 19%"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "implying approximately a 19% premium over the 10-day volume-weighted average closing prices"
+      - claim: Synaptics shareholder post-deal ownership
+        kind: numerical_with_unit
+        value: "approximately 12%"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "Synaptics shareholders are expected to own approximately 12% of the combined company"
+      - claim: Agreement date
+        kind: temporal
+        value: "June 25, 2026"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "entered into a definitive Agreement and Plan of Reorganization on June 25, 2026"
+      - claim: Expected close
+        kind: temporal
+        value: "mid-2027"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "expected to close in mid-2027, pending Synaptics shareholder approval and regulatory clearance"
+      - claim: TAM expansion by 2030
+        kind: numerical_with_unit
+        value: "$30 billion to $243 billion"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "expand its total addressable market by $30 billion to $243 billion by 2030"
+      - claim: EPS accretion timeframe
+        kind: temporal
+        value: "within 18 months of closing"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "accretive to non-GAAP earnings per share within 18 months of closing"
+      - claim: Annual synergies projected
+        kind: numerical_with_unit
+        value: "$200 million"
+        source_urls: [https://uk.finance.yahoo.com/news/onsemi-buy-synaptics-7-billion-103844164.html]
+        verbatim_excerpt: "with $200 million in annual synergies projected"
+    quotes: []
+
+  - story_id: futurewave-acquisition-corp-75m-ipo-filing
+    category: ipo_ma
+    headline_en: Futurewave Acquisition Corp Files $75 Million IPO Prospectus
+    lead_url: https://www.sec.gov/Archives/edgar/data/0002131853/000121390026068397/ea0294611-8k_futurecorp1.htm
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.sec.gov/Archives/edgar/data/0002131853/000121390026068397/ea0294611-8k_futurecorp1.htm
+    hard_facts:
+      - claim: IPO offering size
+        kind: numerical_with_unit
+        value: "$75 million"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002131853/000121390026068397/ea0294611-8k_futurecorp1.htm]
+        verbatim_excerpt: "filed a 424B4 IPO prospectus on June 26, 2026, for a $75 million unit offering"
+      - claim: Prospectus type
+        kind: named_product
+        value: 424B4
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002131853/000121390026068397/ea0294611-8k_futurecorp1.htm]
+        verbatim_excerpt: "filed a 424B4 IPO prospectus"
+      - claim: Filing date
+        kind: temporal
+        value: "June 26, 2026"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002131853/000121390026068397/ea0294611-8k_futurecorp1.htm]
+        verbatim_excerpt: "filed a 424B4 IPO prospectus on June 26, 2026"
+      - claim: Target sector
+        kind: named_institution
+        value: "technology, media, or telecommunications"
+        source_urls: [https://www.sec.gov/Archives/edgar/data/0002131853/000121390026068397/ea0294611-8k_futurecorp1.htm]
+        verbatim_excerpt: "targeting a business combination in the technology, media, or telecommunications sector"
+    quotes: []
+
+  - story_id: trump-great-american-state-fair-250th-anniversary
+    category: other
+    headline_en: "Trump's Great American State Fair Opens on National Mall for the US 250th Anniversary"
+    lead_url: https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579
+    body_source: full
+    corroborated_by:
+      - https://www.usnews.com/news/national-news/articles/2026-06-25/trumps-great-american-state-fair-kicks-off-despite-canceled-performances-algae-blooms-and-political-setbacks
+      - https://thehill.com/homenews/administration/5939686-president-trump-kicks-off-great-american-state-fair-sticks-to-script-with-speech/
+      - https://www.cnn.com/2026/06/25/politics/what-we-know-great-american-state-fair-trump-250
+    locked_urls:
+      - https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579
+      - https://www.usnews.com/news/national-news/articles/2026-06-25/trumps-great-american-state-fair-kicks-off-despite-canceled-performances-algae-blooms-and-political-setbacks
+      - https://thehill.com/homenews/administration/5939686-president-trump-kicks-off-great-american-state-fair-sticks-to-script-with-speech/
+      - https://www.cnn.com/2026/06/25/politics/what-we-know-great-american-state-fair-trump-250
+    hard_facts:
+      - claim: Event organizer
+        kind: named_institution
+        value: Freedom 250
+        source_urls: [https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579]
+        verbatim_excerpt: "free 16-day event — organized by Freedom 250"
+      - claim: Event duration
+        kind: numerical_with_unit
+        value: "16-day"
+        source_urls: [https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579]
+        verbatim_excerpt: "free 16-day event — organized by Freedom 250 — runs June 25 through July 10"
+      - claim: Event date range
+        kind: temporal
+        value: "June 25 through July 10"
+        source_urls: [https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579]
+        verbatim_excerpt: "runs June 25 through July 10"
+      - claim: Event location on National Mall
+        kind: named_institution
+        value: "National Mall between 4th Street and 14th Street"
+        source_urls: [https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579]
+        verbatim_excerpt: "The event occupies the National Mall between 4th Street and 14th Street"
+      - claim: Number of states and territories represented
+        kind: numerical
+        value: "56"
+        source_urls: [https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579]
+        verbatim_excerpt: "exhibits from all 56 states and U.S. territories"
+      - claim: Event open date
+        kind: temporal
+        value: "June 25, 2026"
+        source_urls: [https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579]
+        verbatim_excerpt: "President Trump kicked off the Great American State Fair on the National Mall in Washington, D.C. on June 25, 2026"
+      - claim: Agriculture Secretary identity
+        kind: named_person
+        value: Brooke Rollins
+        source_urls: [https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579]
+        verbatim_excerpt: "Agriculture Secretary Brooke Rollins and Ambassador Monica Crowley joined"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "Tonight, as we stand on the edge of our 250th year of independence, I am thrilled to declare that America is back."
+        source_url: https://www.nbcnews.com/politics/donald-trump/trump-great-american-state-fair-musicians-rcna351579
+        context: remarks to supporters at National Mall opening, June 25 2026
+
+  - story_id: national-geographic-museum-of-exploration-opens-dc
+    category: other
+    headline_en: National Geographic Museum of Exploration Opens in Washington DC in $300 Million Campus Revamp
+    lead_url: https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/
+    body_source: full
+    corroborated_by:
+      - https://news.nationalgeographic.org/museum-of-exploration-opening-date-announcement/
+      - https://abc13.com/amp/post/national-geographic-opens-museum-exploration-washington/19312505/
+      - https://www.dcnewsnow.com/news/local-news/washington-dc/national-geographic-museum-of-exploration-to-open-june-26/
+    locked_urls:
+      - https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/
+      - https://news.nationalgeographic.org/museum-of-exploration-opening-date-announcement/
+      - https://abc13.com/amp/post/national-geographic-opens-museum-exploration-washington/19312505/
+      - https://www.dcnewsnow.com/news/local-news/washington-dc/national-geographic-museum-of-exploration-to-open-june-26/
+    hard_facts:
+      - claim: Campus revitalisation cost
+        kind: numerical_with_unit
+        value: "$300-million-plus"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "four-year, $300-million-plus revitalisation"
+      - claim: Museum public space area
+        kind: numerical_with_unit
+        value: "more than 100,000 square feet"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "more than 100,000 square feet of public space — a sixfold expansion"
+      - claim: Space expansion factor
+        kind: numerical_with_unit
+        value: "sixfold"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "a sixfold expansion from the previous footprint"
+      - claim: Number of Explorer objects
+        kind: numerical
+        value: "more than 650"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "houses more than 650 'Explorer objects'"
+      - claim: National Geographic Explorers count
+        kind: numerical
+        value: "more than 15,000"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "work of more than 15,000 National Geographic Explorers across the Society's history"
+      - claim: Museum opening date
+        kind: temporal
+        value: "June 26, 2026"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "opened its doors to the public on June 26, 2026"
+      - claim: Museum address
+        kind: named_institution
+        value: "1600 M Street NW"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "National Geographic Society's reimagined campus at 1600 M Street NW in downtown Washington DC"
+      - claim: Society founding year
+        kind: temporal
+        value: "1888"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "an institution established in 1888"
+      - claim: Theater seat count
+        kind: numerical
+        value: "near-400-seat"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "a near-400-seat theater"
+      - claim: Adult admission price
+        kind: numerical_with_unit
+        value: "$29.99"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "Admission starts at $29.99 for adults"
+      - claim: National Geographic Society CEO identity
+        kind: named_person
+        value: Jill Tiefenthaler
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "National Geographic Society CEO Jill Tiefenthaler said"
+      - claim: Yellow Borders campaign end date
+        kind: temporal
+        value: "July 5, 2026"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "citywide 'Yellow Borders' outdoor selfie-frame campaign at eight DMV-area locations running through July 5, 2026"
+      - claim: Yellow Borders locations count
+        kind: numerical
+        value: "eight"
+        source_urls: [https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/]
+        verbatim_excerpt: "at eight DMV-area locations"
+    quotes:
+      - speaker_name: Jill Tiefenthaler
+        speaker_title: CEO, National Geographic Society
+        verbatim_en: "The Museum of Exploration is where our legacy of storytelling meets the experiential technology of today, inviting everyone to step into the worlds of National Geographic Explorers."
+        source_url: https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/
+        context: grand opening remarks, June 26 2026
+      - speaker_name: James Cameron
+        speaker_title: filmmaker and deep-sea explorer
+        verbatim_en: "The beautiful thing about exploration is, you've gotta tell the tale when you come back."
+        source_url: https://www.nbcwashington.com/news/local/national-geographic-museum-celebrates-reopening-with-selfie-pop-ups-around-dc/4121532/
+        context: museum opening, June 26 2026
