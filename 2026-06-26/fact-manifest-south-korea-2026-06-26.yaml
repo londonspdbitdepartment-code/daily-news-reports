@@ -1,0 +1,1644 @@
+version: 1
+generated_at: "2026-06-26T12:00:00Z"
+country: South Korea
+date: "2026-06-26"
+total_stories: 18
+stories:
+  - story_id: south-korea-1-trillion-won-living-costs
+    category: econ
+    headline_en: South Korea Deploys 1 Trillion Won to Ease Living Costs, Lowers Fuel Price Caps and Freezes Utility Rates in H2
+    lead_url: https://www.koreaherald.com/article/10789513
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/southkorea/20260626/govt-to-lower-cap-on-fuel-prices-freeze-utility-rates-in-h2
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42Y002:0-south-korea-to-lower-fuel-price-caps-finance-minister-says/
+    locked_urls:
+      - https://www.koreaherald.com/article/10789513
+      - https://www.koreatimes.co.kr/southkorea/20260626/govt-to-lower-cap-on-fuel-prices-freeze-utility-rates-in-h2
+      - https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42Y002:0-south-korea-to-lower-fuel-price-caps-finance-minister-says/
+    hard_facts:
+      - claim: fiscal spending package size
+        kind: numerical_with_unit
+        value: "1 trillion won ($647 million)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "South Korea will deploy 1 trillion won ($647 million) to ease high living costs"
+      - claim: sixth-round gasoline price ceiling
+        kind: numerical_with_unit
+        value: "1,934 won/litre gasoline"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "sixth-round levels of 1,934 won/litre gasoline, 1,923 won diesel, 1,530 won kerosene"
+      - claim: sixth-round diesel price ceiling
+        kind: numerical_with_unit
+        value: "1,923 won diesel"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "sixth-round levels of 1,934 won/litre gasoline, 1,923 won diesel, 1,530 won kerosene"
+      - claim: sixth-round kerosene price ceiling
+        kind: numerical_with_unit
+        value: "1,530 won kerosene"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "sixth-round levels of 1,934 won/litre gasoline, 1,923 won diesel, 1,530 won kerosene"
+      - claim: egg import expansion multiplier
+        kind: numerical_with_unit
+        value: "more than sixfold"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "expand fresh egg imports more than sixfold, adding 200 million eggs"
+      - claim: additional eggs imported
+        kind: numerical_with_unit
+        value: "200 million eggs"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "adding 200 million eggs"
+      - claim: mackerel direct import volume from Norway
+        kind: numerical_with_unit
+        value: "2,000 metric tons"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "send delegation to Norway in July for 2,000 metric tons of direct mackerel imports"
+      - claim: small-merchant loan support new level
+        kind: numerical_with_unit
+        value: "3 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "Small-merchant loan support doubled to 3 trillion won from 1.5 trillion won"
+      - claim: small-merchant loan support previous level
+        kind: numerical_with_unit
+        value: "1.5 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "Small-merchant loan support doubled to 3 trillion won from 1.5 trillion won"
+      - claim: energy voucher expansion amount
+        kind: numerical_with_unit
+        value: "147,000 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "Energy vouchers expanded by 147,000 won"
+      - claim: AI specialists to be trained in H2 2026
+        kind: numerical_with_unit
+        value: "1,000 AI specialists"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "1,000 AI specialists trained in H2 2026"
+      - claim: fuel price cap system introduction date
+        kind: temporal
+        value: "mid-March"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "Fuel price cap system introduced mid-March amid Middle East disruptions"
+      - claim: consumer inflation target for H2 2026
+        kind: numerical_with_unit
+        value: "below-3-percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "targets below-3-percent consumer inflation for H2 2026"
+      - claim: petroleum price ceiling round number
+        kind: numerical
+        value: "seventh"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "Government will lower the seventh round of petroleum price ceilings from sixth-round levels"
+      - claim: Norway mackerel import delegation timing
+        kind: temporal
+        value: "July"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "send delegation to Norway in July for 2,000 metric tons of direct mackerel imports"
+      - claim: agricultural discount campaign timing
+        kind: temporal
+        value: "July-August"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "Largest-ever discount campaign for agricultural, livestock, seafood products in July-August"
+      - claim: Finance Minister and Deputy Prime Minister name
+        kind: named_person
+        value: "Koo Yun-cheol"
+        source_urls:
+          - https://www.koreaherald.com/article/10789513
+        verbatim_excerpt: "Finance Minister and Deputy Prime Minister Koo Yun-cheol announced Friday at an emergency economic meeting"
+    quotes:
+      - speaker_name: Koo Yun-cheol
+        speaker_title: Finance Minister and Deputy Prime Minister, South Korea
+        verbatim_en: "The government will adjust the emergency measures currently in place in phases by closely monitoring developments in the Middle East and the South Korean economy."
+        source_url: https://www.koreaherald.com/article/10789513
+        context: emergency economic meeting, June 26 2026
+      - speaker_name: Koo Yun-cheol
+        speaker_title: Finance Minister and Deputy Prime Minister, South Korea
+        verbatim_en: "We will inject 1 trillion won in fiscal spending to support small merchants hit by high oil prices and mobilize all available measures to do our utmost to keep consumer inflation below 3 percent in the second half."
+        source_url: https://www.koreaherald.com/article/10789513
+        context: emergency economic meeting, June 26 2026
+
+  - story_id: kospi-circuit-breaker-plunge-5-81-pct
+    category: econ
+    headline_en: KOSPI Triggers Circuit Breaker After Plunging More Than 8%, Closes Down 5.81%
+    lead_url: https://www.koreaherald.com/article/10789600
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10789692
+      - https://www.koreatimes.co.kr/economy/20260626/bourse-operator-issues-circuit-breaker-for-kospi-on-sharp-fall
+      - https://www.koreajoongangdaily.com/business/korean-stocks-plunge-triggering-automatic-trading-brake/12742327
+    locked_urls:
+      - https://www.koreaherald.com/article/10789600
+      - https://www.koreaherald.com/article/10789692
+      - https://www.koreatimes.co.kr/economy/20260626/bourse-operator-issues-circuit-breaker-for-kospi-on-sharp-fall
+      - https://www.koreajoongangdaily.com/business/korean-stocks-plunge-triggering-automatic-trading-brake/12742327
+    hard_facts:
+      - claim: circuit breaker activation time
+        kind: temporal
+        value: "~12:10 p.m. Friday"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Korea Exchange activated a circuit breaker at ~12:10 p.m. Friday after KOSPI declined more than 8 percent"
+      - claim: KOSPI decline threshold triggering circuit breaker
+        kind: numerical_with_unit
+        value: "more than 8 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "after KOSPI declined more than 8 percent"
+      - claim: circuit breaker halt duration
+        kind: temporal
+        value: "20-minute halt"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "triggering 20-minute halt of all KOSPI-listed shares, futures, options"
+      - claim: KOSPI points fallen at suspension
+        kind: numerical_with_unit
+        value: "731.97 points (8.19 percent)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "At suspension the Kospi had fallen 731.97 points (8.19 percent) to 8,198.33"
+      - claim: KOSPI index level at suspension
+        kind: numerical_with_unit
+        value: "8,198.33"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "At suspension the Kospi had fallen 731.97 points (8.19 percent) to 8,198.33"
+      - claim: KOSPI closing decline in points
+        kind: numerical_with_unit
+        value: "519.09 points (5.81 percent)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "index down 519.09 points (5.81 percent) at 8,411.21"
+      - claim: KOSPI closing level
+        kind: numerical_with_unit
+        value: "8,411.21"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "index down 519.09 points (5.81 percent) at 8,411.21"
+      - claim: trade volume in shares
+        kind: numerical_with_unit
+        value: "508.9 million shares"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "trade volume 508.9 million shares worth 51.5 trillion won ($33.5 billion)"
+      - claim: trade volume in won
+        kind: numerical_with_unit
+        value: "51.5 trillion won ($33.5 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "trade volume 508.9 million shares worth 51.5 trillion won ($33.5 billion)"
+      - claim: decliners count
+        kind: numerical
+        value: "777"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "decliners outnumbered gainers 777 to 111"
+      - claim: gainers count
+        kind: numerical
+        value: "111"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "decliners outnumbered gainers 777 to 111"
+      - claim: Samsung Electronics decline percentage
+        kind: numerical_with_unit
+        value: "5.3 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Samsung Electronics fell 5.3 percent to 339,500 won"
+      - claim: Samsung Electronics closing price
+        kind: numerical_with_unit
+        value: "339,500 won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Samsung Electronics fell 5.3 percent to 339,500 won"
+      - claim: SK hynix decline percentage
+        kind: numerical_with_unit
+        value: "8.36 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "SK hynix slumped 8.36 percent to 2.67 million won"
+      - claim: SK hynix closing price
+        kind: numerical_with_unit
+        value: "2.67 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "SK hynix slumped 8.36 percent to 2.67 million won"
+      - claim: SK Square decline percentage
+        kind: numerical_with_unit
+        value: "9.43 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "SK Square dropped 9.43 percent to 1.72 million won"
+      - claim: SK Square closing price
+        kind: numerical_with_unit
+        value: "1.72 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "SK Square dropped 9.43 percent to 1.72 million won"
+      - claim: individual investors net buy
+        kind: numerical_with_unit
+        value: "8.2 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Individual investors net-bought 8.2 trillion won"
+      - claim: foreign investors net sell
+        kind: numerical_with_unit
+        value: "4.6 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "foreign investors net-sold 4.6 trillion won"
+      - claim: institutions net sell
+        kind: numerical_with_unit
+        value: "3.8 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "institutions net-sold 3.8 trillion won"
+      - claim: sidecar halt time
+        kind: temporal
+        value: "11:12 a.m."
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "sell-side sidecar halted trading 5 minutes at 11:12 a.m. after KOSPI 200 futures fell 5 percent"
+      - claim: sidecar halt duration
+        kind: temporal
+        value: "5 minutes"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "sidecar halted trading 5 minutes at 11:12 a.m."
+      - claim: KOSPI 200 futures decline triggering sidecar
+        kind: numerical_with_unit
+        value: "5 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "KOSPI 200 futures fell 5 percent"
+      - claim: sidecar count in 2026
+        kind: numerical
+        value: "14th sidecar of 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "14th sidecar of 2026"
+      - claim: circuit breaker count on KRX in 2026
+        kind: numerical
+        value: "Fifth circuit-breaker on KRX in 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Fifth circuit-breaker on KRX in 2026"
+      - claim: Kosdaq closing level
+        kind: numerical_with_unit
+        value: "851.37"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Kosdaq shed 4.10 percent to 851.37"
+      - claim: Kosdaq decline percentage
+        kind: numerical_with_unit
+        value: "4.10 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Kosdaq shed 4.10 percent to 851.37"
+      - claim: analyst name
+        kind: named_person
+        value: "Han Ji-young"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Han Ji-young (Kiwoom Securities)"
+      - claim: analyst institution
+        kind: named_institution
+        value: "Kiwoom Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Han Ji-young (Kiwoom Securities)"
+      - claim: Korea Exchange institution
+        kind: named_institution
+        value: "Korea Exchange"
+        source_urls:
+          - https://www.koreaherald.com/article/10789600
+        verbatim_excerpt: "Korea Exchange activated a circuit breaker"
+    quotes:
+      - speaker_name: Han Ji-young
+        speaker_title: Analyst, Kiwoom Securities
+        verbatim_en: "Most of today's sharp decline can be explained by the market's heavy concentration in semiconductor stocks and the resulting volatility in fund flows."
+        source_url: https://www.koreaherald.com/article/10789600
+        context: commentary on June 26 KOSPI sell-off
+      - speaker_name: Han Ji-young
+        speaker_title: Analyst, Kiwoom Securities
+        verbatim_en: "Investors are worried that too expensive memory chips would raise prices of end-use products and undermine demand for memory chips."
+        source_url: https://www.koreaherald.com/article/10789600
+        context: commentary on June 26 KOSPI sell-off
+
+  - story_id: foreign-investors-record-47-trillion-won-outflow
+    category: econ
+    headline_en: Foreign Investors Dump Record 47 Trillion Won in Korean Stocks in May
+    lead_url: https://www.koreaherald.com/article/10789796
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10789796
+    hard_facts:
+      - claim: foreign net sell on KOSPI in May
+        kind: numerical_with_unit
+        value: "49 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "Foreign investors sold net 49 trillion won on KOSPI"
+      - claim: foreign net buy on KOSDAQ in May
+        kind: numerical_with_unit
+        value: "2 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "while buying 2 trillion won on KOSDAQ in May"
+      - claim: net foreign outflow in May
+        kind: numerical_with_unit
+        value: "47 trillion won ($30.6 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "net outflow of 47 trillion won ($30.6 billion) — record monthly outflow"
+      - claim: year-to-date net foreign selling through May
+        kind: numerical_with_unit
+        value: "114.224 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "Year-to-date net foreign selling through May reached 114.224 trillion won"
+      - claim: full-year 2025 foreign selling total
+        kind: numerical_with_unit
+        value: "11.077 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "exceeding full-year 2025 total of 11.077 trillion won by more than tenfold"
+      - claim: foreign ownership share of total market cap
+        kind: numerical_with_unit
+        value: "35.3 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "Foreign ownership climbed to all-time high 35.3 percent of total market cap"
+      - claim: US investors net selling in May
+        kind: numerical_with_unit
+        value: "28.9 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "U.S. investors largest sellers at 28.9 trillion won"
+      - claim: US investor holdings current
+        kind: numerical_with_unit
+        value: "1,188 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "holdings more than doubled to 1,188 trillion won from 546 trillion won at year-end 2025"
+      - claim: US investor holdings at year-end 2025
+        kind: numerical_with_unit
+        value: "546 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "holdings more than doubled to 1,188 trillion won from 546 trillion won at year-end 2025"
+      - claim: Americas-based investor net selling
+        kind: numerical_with_unit
+        value: "33.2 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "Americas-based investors led regional selling at 33.2 trillion won"
+      - claim: European investor net selling
+        kind: numerical_with_unit
+        value: "7.4 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "Europe 7.4 trillion won"
+      - claim: foreign bond purchases
+        kind: numerical_with_unit
+        value: "8.8 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789796
+        verbatim_excerpt: "Foreign bond purchases totalled 8.8 trillion won for second consecutive month"
+    quotes:
+      - speaker_name: "(unnamed source)"
+        speaker_title: "(not specified)"
+        verbatim_en: "the value of foreign-held listed equities increased by 730.9 trillion won from a month earlier"
+        source_url: https://www.koreaherald.com/article/10789796
+        context: commentary on May foreign equity flows
+
+  - story_id: nps-could-sell-74-trillion-won-kospi-9000
+    category: econ
+    headline_en: National Pension Service Could Sell Up to 74 Trillion Won in Stocks If KOSPI Tops 9,000
+    lead_url: https://www.koreaherald.com/article/10789594
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10789594
+    hard_facts:
+      - claim: NPS potential selling at KOSPI 9,000
+        kind: numerical_with_unit
+        value: "74 trillion won ($47.9 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS could be required to sell as much as 74 trillion won ($47.9 billion) of domestic equities if KOSPI rises above 9,000"
+      - claim: NPS potential selling at KOSPI 10,000
+        kind: numerical_with_unit
+        value: "121 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "up to 121 trillion won should index reach 10,000"
+      - claim: NPS target allocation for domestic equities (new)
+        kind: numerical_with_unit
+        value: "20.8 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS Management Committee raised target allocation for domestic equities to 20.8 percent from 14.9 percent on May 28"
+      - claim: NPS target allocation for domestic equities (previous)
+        kind: numerical_with_unit
+        value: "14.9 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS Management Committee raised target allocation for domestic equities to 20.8 percent from 14.9 percent on May 28"
+      - claim: NPS Management Committee decision date
+        kind: temporal
+        value: "May 28"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS Management Committee raised target allocation for domestic equities to 20.8 percent from 14.9 percent on May 28"
+      - claim: NPS tolerance band (new)
+        kind: numerical_with_unit
+        value: "±6 percentage points"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "expanded tolerance band to ±6 percentage points from ±3"
+      - claim: NPS tolerance band (previous)
+        kind: numerical_with_unit
+        value: "±3"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "expanded tolerance band to ±6 percentage points from ±3"
+      - claim: NPS rebalancing deadline
+        kind: temporal
+        value: "end-June"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS postponed rebalancing deadline until end-June"
+      - claim: domestic equity weighting at KOSPI 8,500
+        kind: numerical_with_unit
+        value: "29.6 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "At KOSPI 8,500, domestic equity weighting reaches 29.6 percent"
+      - claim: domestic equity weighting at KOSPI 9,000
+        kind: numerical_with_unit
+        value: "30.8 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "at 9,000, 30.8 percent — triggering mandatory rebalancing"
+      - claim: NPS recent share sales
+        kind: numerical_with_unit
+        value: "~$920 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS sold ~$920 million of shares over four straight trading days ahead of deadline"
+      - claim: NPS rebalancing trading days window (new)
+        kind: temporal
+        value: "20 trading days"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS extended rebalancing execution window to 20 trading days from 10"
+      - claim: NPS rebalancing trading days window (previous)
+        kind: temporal
+        value: "10"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS extended rebalancing execution window to 20 trading days from 10"
+      - claim: analyst name
+        kind: named_person
+        value: "Cho Yong-gu"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "Cho Yong-gu (Shinyoung Securities)"
+      - claim: analyst institution
+        kind: named_institution
+        value: "Shinyoung Securities"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "Cho Yong-gu (Shinyoung Securities)"
+      - claim: institution name
+        kind: named_institution
+        value: "National Pension Service"
+        source_urls:
+          - https://www.koreaherald.com/article/10789594
+        verbatim_excerpt: "NPS could be required to sell as much as 74 trillion won"
+    quotes: []
+
+  - story_id: kim-keon-hee-sentenced-7-years-prison
+    category: politics
+    headline_en: Former First Lady Kim Keon Hee Sentenced to 7 Years in Prison for Influence Peddling
+    lead_url: https://www.koreaherald.com/article/10789757
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10789757
+    hard_facts:
+      - claim: prison sentence length
+        kind: numerical_with_unit
+        value: "seven years"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Seoul Central District Court sentenced Kim Keon Hee — former first lady, wife of ousted President Yoon Suk Yeol — to seven years in prison Friday"
+      - claim: court name
+        kind: named_institution
+        value: "Seoul Central District Court"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Seoul Central District Court sentenced Kim Keon Hee"
+      - claim: convicted person name
+        kind: named_person
+        value: "Kim Keon Hee"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "sentenced Kim Keon Hee — former first lady, wife of ousted President Yoon Suk Yeol — to seven years in prison Friday"
+      - claim: former president name
+        kind: named_person
+        value: "Yoon Suk Yeol"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "former first lady, wife of ousted President Yoon Suk Yeol"
+      - claim: gifts value total
+        kind: numerical_with_unit
+        value: "~103.8 million won (~$68,000)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Court ruled Kim knowingly accepted ~103.8 million won (~$68,000) in luxury jewellery from Suh Hee Construction Chairman Lee Bong-kwan"
+      - claim: gift period
+        kind: temporal
+        value: "March and May 2022"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "between March and May 2022"
+      - claim: Suh Hee Construction chairman name
+        kind: named_person
+        value: "Lee Bong-kwan"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Suh Hee Construction Chairman Lee Bong-kwan"
+      - claim: Suh Hee Construction institution
+        kind: named_institution
+        value: "Suh Hee Construction"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Suh Hee Construction Chairman Lee Bong-kwan"
+      - claim: Van Cleef necklace value
+        kind: numerical_with_unit
+        value: "55.6 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Van Cleef & Arpels necklace worth 55.6 million won"
+      - claim: jewelry brand 1
+        kind: named_institution
+        value: "Van Cleef & Arpels"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Van Cleef & Arpels necklace worth 55.6 million won"
+      - claim: jewelry brand 2
+        kind: named_institution
+        value: "Tiffany & Co."
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Tiffany & Co. brooch"
+      - claim: jewelry brand 3
+        kind: named_institution
+        value: "Graff"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Graff earrings"
+      - claim: gold turtle figurine value
+        kind: numerical_with_unit
+        value: "2.65 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "gold turtle figurine (2.65 million won)"
+      - claim: government commission for Lee's son-in-law
+        kind: named_institution
+        value: "National Education Commission"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Lee Bae-yong's appointment to the National Education Commission"
+      - claim: Lee Bae-yong name
+        kind: named_person
+        value: "Lee Bae-yong"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Lee Bae-yong's appointment to the National Education Commission"
+      - claim: prosecution sentence request
+        kind: numerical_with_unit
+        value: "seven years and six months"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "Prosecutors sought seven years and six months"
+      - claim: statute name
+        kind: named_institution
+        value: "Act on the Aggravated Punishment of Specific Crimes"
+        source_urls:
+          - https://www.koreaherald.com/article/10789757
+        verbatim_excerpt: "guilty of peddling influence under the Act on the Aggravated Punishment of Specific Crimes"
+    quotes:
+      - speaker_name: Seoul Central District Court
+        speaker_title: Court ruling
+        verbatim_en: "The defendant must have recognized that the gifts went beyond ordinary social courtesy and were given in anticipation of a quid pro quo."
+        source_url: https://www.koreaherald.com/article/10789757
+        context: verdict delivered June 26 2026
+
+  - story_id: north-korea-kim-oversees-weapons-tests-76th
+    category: politics
+    headline_en: "North Korea's Kim Jong-un Oversees Weapons Tests on 76th Anniversary of Korean War"
+    lead_url: https://www.koreaherald.com/article/10788918
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260626/n-koreas-kim-oversees-tests-of-key-weapons-seen-as-aimed-at-s-korea
+    locked_urls:
+      - https://www.koreaherald.com/article/10788918
+      - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260626/n-koreas-kim-oversees-tests-of-key-weapons-seen-as-aimed-at-s-korea
+    hard_facts:
+      - claim: weapons system 1 calibre
+        kind: numerical_with_unit
+        value: "240mm-calibre"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "tests of a new 240mm-calibre 24-tubular multiple rocket launcher system"
+      - claim: weapons system 1 tubes
+        kind: numerical_with_unit
+        value: "24-tubular"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "a new 240mm-calibre 24-tubular multiple rocket launcher system"
+      - claim: weapons system 2 calibre
+        kind: numerical_with_unit
+        value: "155mm howitzer"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "a 155mm howitzer with extended-range shells"
+      - claim: rocket launcher extended firing range
+        kind: numerical_with_unit
+        value: "90 kilometres"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "Upgraded multiple rocket launcher's firing range extended to 90 kilometres"
+      - claim: howitzer extended-range shell range
+        kind: numerical_with_unit
+        value: "65 kilometres"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "155mm howitzer tested extended-range shells to 65 kilometres"
+      - claim: rounds fired from multiple rocket launchers
+        kind: numerical_with_unit
+        value: "~10 rounds"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "~10 rounds fired from multiple rocket launchers"
+      - claim: Korean War anniversary
+        kind: temporal
+        value: "76th anniversary of the Korean War outbreak (1950-53)"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "the 76th anniversary of the Korean War outbreak (1950-53)"
+      - claim: test overseer
+        kind: named_person
+        value: "Kim Jong-un"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "Kim Jong-un oversaw tests of a new 240mm-calibre 24-tubular multiple rocket launcher system"
+      - claim: South Korea's military institution confirming rounds
+        kind: named_institution
+        value: "South Korea's Joint Chiefs of Staff"
+        source_urls:
+          - https://www.koreaherald.com/article/10788918
+        verbatim_excerpt: "~10 rounds fired from multiple rocket launchers, per South Korea's Joint Chiefs of Staff"
+    quotes:
+      - speaker_name: Kim Jong-un
+        speaker_title: Supreme Leader, North Korea
+        verbatim_en: "To make the enemies feel constant uneasiness and fear is just an important aspect of the exercise of war deterrent."
+        source_url: https://www.koreaherald.com/article/10788918
+        context: weapons test, June 26 2026
+
+  - story_id: skorea-japan-defence-ministers-talks-seoul
+    category: politics
+    headline_en: South Korean, Japanese Defence Ministers to Hold Talks in Seoul
+    lead_url: https://www.koreaherald.com/article/10789194
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10789000
+    locked_urls:
+      - https://www.koreaherald.com/article/10789194
+      - https://www.koreaherald.com/article/10789000
+    hard_facts:
+      - claim: South Korean Defence Minister name
+        kind: named_person
+        value: "Ahn Gyu-back"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Defence Minister Ahn Gyu-back will meet Japanese Defence Minister Shinjiro Koizumi in Seoul on Sunday"
+      - claim: Japanese Defence Minister name
+        kind: named_person
+        value: "Shinjiro Koizumi"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Defence Minister Ahn Gyu-back will meet Japanese Defence Minister Shinjiro Koizumi in Seoul on Sunday"
+      - claim: Koizumi visit start date
+        kind: temporal
+        value: "Saturday"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Koizumi's two-day visit beginning Saturday"
+      - claim: Koizumi visit duration
+        kind: temporal
+        value: "two-day visit"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Koizumi's two-day visit beginning Saturday"
+      - claim: previous meeting venue
+        kind: named_institution
+        value: "Shangri-La Dialogue in Singapore"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "their previous meeting at the Shangri-La Dialogue in Singapore on May 30"
+      - claim: previous meeting date
+        kind: temporal
+        value: "May 30"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "their previous meeting at the Shangri-La Dialogue in Singapore on May 30"
+      - claim: Ahn's earlier visit to Japan
+        kind: temporal
+        value: "January"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Ahn's trip to Yokosuka in January"
+      - claim: agreement under discussion
+        kind: named_product
+        value: "Acquisition and Cross-Servicing Agreement (ACSA)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Ministers will discuss an Acquisition and Cross-Servicing Agreement (ACSA), a bilateral military logistics support pact proposed by Japan"
+      - claim: SAREX suspension duration
+        kind: temporal
+        value: "nine-year suspension"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Two countries resumed bilateral maritime search-and-rescue exercises (SAREX) this month after a nine-year suspension"
+      - claim: SAREX resumption timing
+        kind: temporal
+        value: "this month"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Two countries resumed bilateral maritime search-and-rescue exercises (SAREX) this month"
+      - claim: Japanese colonial rule of Korea dates
+        kind: temporal
+        value: "1910–1945"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "Japan addresses historical grievances with sincere apologies for its 1910–1945 colonial rule of Korea"
+      - claim: South Korean President name
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10789194
+        verbatim_excerpt: "President Lee Jae Myung stated deepening military cooperation would face constraints"
+    quotes: []
+
+  - story_id: president-lee-calls-us-north-korea-dialogue
+    category: politics
+    headline_en: President Lee Calls for Resumption of US–North Korea and Inter-Korean Dialogue at Washington Peace Forum
+    lead_url: https://www.koreaherald.com/article/10788923
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10788923
+    hard_facts:
+      - claim: President name
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreaherald.com/article/10788923
+        verbatim_excerpt: "President Lee Jae Myung delivered a written message to a peace forum in Washington"
+      - claim: forum host organisation
+        kind: named_institution
+        value: "Korean American Public Action Committee"
+        source_urls:
+          - https://www.koreaherald.com/article/10788923
+        verbatim_excerpt: "hosted by the Korean American Public Action Committee"
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "For a peaceful Korean Peninsula, the restoration of trust is needed. To this end, inter-Korean dialogue and talks between North Korea and the US must reopen."
+        source_url: https://www.koreaherald.com/article/10788923
+        context: written message to Washington peace forum, June 26 2026
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "A state in which there is no need for conflict — in other words, the establishment of peace — is the best security policy."
+        source_url: https://www.koreaherald.com/article/10788923
+        context: written message to Washington peace forum, June 26 2026
+
+  - story_id: skorea-fast-track-k-lucas-drone-500k-troops
+    category: politics
+    headline_en: South Korea to Fast-Track K-Lucas Suicide Drones and Train 500,000 Drone Troops
+    lead_url: https://www.koreaherald.com/article/10789064
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10789467
+    locked_urls:
+      - https://www.koreaherald.com/article/10789064
+      - https://www.koreaherald.com/article/10789467
+    hard_facts:
+      - claim: drone troop training target
+        kind: numerical_with_unit
+        value: "500,000 drone warriors"
+        source_urls:
+          - https://www.koreaherald.com/article/10789064
+        verbatim_excerpt: "train 500,000 'drone warriors' across all service branches"
+      - claim: low-cost drone acquisition target before 2030
+        kind: numerical_with_unit
+        value: "over 20,000 low-cost drones"
+        source_urls:
+          - https://www.koreaherald.com/article/10789064
+        verbatim_excerpt: "Government plans to acquire over 20,000 low-cost drones before 2030"
+      - claim: drone acquisition deadline
+        kind: temporal
+        value: "before 2030"
+        source_urls:
+          - https://www.koreaherald.com/article/10789064
+        verbatim_excerpt: "Government plans to acquire over 20,000 low-cost drones before 2030"
+      - claim: drone system product name
+        kind: named_product
+        value: "K-Lucas"
+        source_urls:
+          - https://www.koreaherald.com/article/10789064
+        verbatim_excerpt: "South Korea will fast-track the K-Lucas long-range loitering munition"
+      - claim: reverse-engineered source drone
+        kind: named_product
+        value: "Shahed-136"
+        source_urls:
+          - https://www.koreaherald.com/article/10789064
+        verbatim_excerpt: "K-Lucas is a long-range loitering munition reverse-engineered from Iran's Shahed-136 drone"
+      - claim: new command organisation name
+        kind: named_institution
+        value: "National Defence Drone Headquarters"
+        source_urls:
+          - https://www.koreaherald.com/article/10789064
+        verbatim_excerpt: "Drone Operations Command to be reformed into the National Defence Drone Headquarters"
+      - claim: current command name
+        kind: named_institution
+        value: "Drone Operations Command"
+        source_urls:
+          - https://www.koreaherald.com/article/10789064
+        verbatim_excerpt: "Drone Operations Command to be reformed into the National Defence Drone Headquarters"
+      - claim: Defence Minister name
+        kind: named_person
+        value: "Ahn Gyu-back"
+        source_urls:
+          - https://www.koreaherald.com/article/10789064
+        verbatim_excerpt: "Defence Minister Ahn Gyu-back announced Friday"
+    quotes:
+      - speaker_name: Ahn Gyu-back
+        speaker_title: Defence Minister, South Korea
+        verbatim_en: "Low-cost drones are being deployed in large numbers, fundamentally changing the nature of warfare. North Korea also continues to advance its diverse unmanned aerial capabilities."
+        source_url: https://www.koreaherald.com/article/10789064
+        context: announcement of drone policy, June 26 2026
+
+  - story_id: samsung-1000-trillion-won-chip-ai-expansion
+    category: tech
+    headline_en: Samsung Group Plans 1,000 Trillion Won Chip and AI Expansion Beyond Seoul Metropolitan Area
+    lead_url: https://www.koreaherald.com/article/10789340
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-26/samsung-and-sk-hynix-prepare-huge-spending-increase-reports-say
+      - https://www.digitimes.com/news/a20260626VL207/samsung-south-korea-data-investment-production-region.html
+    locked_urls:
+      - https://www.koreaherald.com/article/10789340
+      - https://www.bloomberg.com/news/articles/2026-06-26/samsung-and-sk-hynix-prepare-huge-spending-increase-reports-say
+      - https://www.digitimes.com/news/a20260626VL207/samsung-south-korea-data-investment-production-region.html
+    hard_facts:
+      - claim: Samsung Group domestic investment plan total
+        kind: numerical_with_unit
+        value: "1,000 trillion won ($646 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "Samsung Group drawing up a long-term domestic investment plan worth up to 1,000 trillion won ($646 billion) over the next decade"
+      - claim: investment plan timeframe
+        kind: temporal
+        value: "over the next decade"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "long-term domestic investment plan worth up to 1,000 trillion won ($646 billion) over the next decade"
+      - claim: semiconductor and AI ecosystem allocation
+        kind: numerical_with_unit
+        value: "over 350 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "over 350 trillion won directed toward the semiconductor and AI ecosystem"
+      - claim: southwest chip factory sub-allocation
+        kind: numerical_with_unit
+        value: "300 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "A potential 300 trillion won sub-allocation earmarked for new chip factories in the southwest"
+      - claim: South Korea 2026 government budget
+        kind: numerical_with_unit
+        value: "728 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "exceeding South Korea's entire 2026 government budget of 728 trillion won"
+      - claim: presidential briefing date
+        kind: temporal
+        value: "Monday June 29"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "present plans at a presidential briefing chaired by President Lee Jae Myung on Monday June 29"
+      - claim: Samsung Electronics Chairman name
+        kind: named_person
+        value: "Lee Jae-yong"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "Samsung Electronics Chairman Lee Jae-yong and SK hynix CEO Kwak Noh-jung to present plans"
+      - claim: SK hynix CEO name
+        kind: named_person
+        value: "Kwak Noh-jung"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "Samsung Electronics Chairman Lee Jae-yong and SK hynix CEO Kwak Noh-jung to present plans"
+      - claim: presidential chief of staff for policy name
+        kind: named_person
+        value: "Kim Yong-beom"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "Kim Yong-beom (presidential chief of staff for policy)"
+      - claim: Samsung Group institution
+        kind: named_institution
+        value: "Samsung Group"
+        source_urls:
+          - https://www.koreaherald.com/article/10789340
+        verbatim_excerpt: "Samsung Group drawing up a long-term domestic investment plan"
+    quotes:
+      - speaker_name: Kim Yong-beom
+        speaker_title: Presidential chief of staff for policy, South Korea
+        verbatim_en: "The numbers are so big that there will be a heated debate over whether they are real."
+        source_url: https://www.koreaherald.com/article/10789340
+        context: comment on Samsung Group investment plans, June 26 2026
+
+  - story_id: sk-telecom-738-billion-won-sk-hynix-us-ai
+    category: tech
+    headline_en: SK Telecom Invests 738 Billion Won in SK Hynix's US AI Unit
+    lead_url: https://www.koreaherald.com/article/10789055
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10789055
+    hard_facts:
+      - claim: SK Telecom investment amount
+        kind: numerical_with_unit
+        value: "738.4 billion won ($477 million)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "SK Telecom will invest 738.4 billion won ($477 million) in SK hynix NAND Product Solutions"
+      - claim: US entity establishment date
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "a US-based entity established jointly by SK hynix and Solidigm in January 2026"
+      - claim: SK hynix commitment to US entity
+        kind: numerical_with_unit
+        value: "$10 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "SK hynix committing $10 billion"
+      - claim: SK Telecom stake to be acquired
+        kind: numerical_with_unit
+        value: "0.9 percent stake"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "SK Telecom to acquire a 0.9 percent stake through 1,198 newly issued shares"
+      - claim: number of newly issued shares
+        kind: numerical_with_unit
+        value: "1,198 newly issued shares"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "through 1,198 newly issued shares via a capital-call arrangement"
+      - claim: capital-call commitment period
+        kind: temporal
+        value: "four-year commitment period"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "via a capital-call arrangement over a four-year commitment period"
+      - claim: SK Inc. contribution
+        kind: numerical_with_unit
+        value: "$250 million from SK Inc. (March)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "$250 million from SK Inc. (March)"
+      - claim: SK Innovation contribution
+        kind: numerical_with_unit
+        value: "$380 million from SK Innovation (March)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "$380 million from SK Innovation (March)"
+      - claim: total SK Group affiliate commitments
+        kind: numerical_with_unit
+        value: "over $1.1 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "total SK Group affiliate commitments over $1.1 billion"
+      - claim: US entity name
+        kind: named_institution
+        value: "SK hynix NAND Product Solutions"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "SK Telecom will invest 738.4 billion won ($477 million) in SK hynix NAND Product Solutions"
+      - claim: joint establishment partner
+        kind: named_institution
+        value: "Solidigm"
+        source_urls:
+          - https://www.koreaherald.com/article/10789055
+        verbatim_excerpt: "a US-based entity established jointly by SK hynix and Solidigm in January 2026"
+    quotes:
+      - speaker_name: SK Telecom official
+        speaker_title: Official, SK Telecom
+        verbatim_en: "SK Group has capabilities across the AI data center value chain, and we expect joint investment among affiliates to help us find business opportunities."
+        source_url: https://www.koreaherald.com/article/10789055
+        context: statement on SK Telecom investment in SK hynix NAND Product Solutions
+
+  - story_id: president-lee-2030-security-tech-palantir-anduril
+    category: tech
+    headline_en: President Lee Sets 2030 Goal to Build Korean Security-Tech Giants Rivalling Palantir and Anduril
+    lead_url: https://www.koreaherald.com/article/10789732
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10789732
+    hard_facts:
+      - claim: target number of firms valued over 1 trillion won by 2030
+        kind: numerical
+        value: "five firms"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "setting a 2030 goal of five firms valued at over 1 trillion won ($650 million)"
+      - claim: firm valuation threshold
+        kind: numerical_with_unit
+        value: "over 1 trillion won ($650 million)"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "five firms valued at over 1 trillion won ($650 million)"
+      - claim: target number of firms with annual sales over 100 billion won
+        kind: numerical
+        value: "50 firms"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "50 firms with annual sales exceeding 100 billion won"
+      - claim: annual sales threshold
+        kind: numerical_with_unit
+        value: "100 billion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "50 firms with annual sales exceeding 100 billion won"
+      - claim: fast-track acquisition initial deployment period
+        kind: temporal
+        value: "one-year initial deployment"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "a fast-track acquisition system enabling one-year initial deployment of defence technologies"
+      - claim: military innovation testing units expansion
+        kind: numerical
+        value: "from 1 to 9"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "expansion of military innovation testing units from 1 to 9"
+      - claim: drone-capable troops training target
+        kind: numerical_with_unit
+        value: "500,000 drone-capable troops"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "training of 500,000 drone-capable troops"
+      - claim: Palantir valuation benchmark
+        kind: numerical_with_unit
+        value: "480 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "Lee cited Palantir (valued at 480 trillion won)"
+      - claim: Helsing valuation benchmark
+        kind: numerical_with_unit
+        value: "26 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "Helsing of Germany (26 trillion won) as benchmarks"
+      - claim: benchmark company 1
+        kind: named_institution
+        value: "Palantir"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "Lee cited Palantir (valued at 480 trillion won)"
+      - claim: benchmark company 2
+        kind: named_institution
+        value: "Helsing"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "Helsing of Germany (26 trillion won) as benchmarks"
+      - claim: Korean In-Q-Tel analog
+        kind: named_institution
+        value: "In-Q-Tel"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "a Korean version of the CIA-backed In-Q-Tel"
+      - claim: goal year
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - https://www.koreaherald.com/article/10789732
+        verbatim_excerpt: "setting a 2030 goal of five firms valued at over 1 trillion won ($650 million)"
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "Just as the US' Palantir and Anduril grew from conviction and passion of young entrepreneurs into world-leading security innovators, we will spare no effort in supporting Korean innovation companies."
+        source_url: https://www.koreaherald.com/article/10789732
+        context: policy announcement, June 26 2026
+
+  - story_id: seoul-metro-ban-e-scooters-lithium-july-1
+    category: society
+    headline_en: Seoul Metro to Ban E-Scooters and Large Lithium Batteries from Subway from July 1
+    lead_url: https://www.koreaherald.com/article/10789553
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10789553
+    hard_facts:
+      - claim: ban effective date
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10789553
+        verbatim_excerpt: "Starting July 1, 2026, passengers prohibited from bringing lithium battery-powered personal mobility devices"
+      - claim: lithium battery capacity ban threshold
+        kind: numerical_with_unit
+        value: "160 watt-hours"
+        source_urls:
+          - https://www.koreaherald.com/article/10789553
+        verbatim_excerpt: "lithium batteries exceeding 160 watt-hours (roughly a 43,000 mAh portable power bank)"
+      - claim: equivalent mAh capacity for 160Wh
+        kind: numerical_with_unit
+        value: "43,000 mAh"
+        source_urls:
+          - https://www.koreaherald.com/article/10789553
+        verbatim_excerpt: "roughly a 43,000 mAh portable power bank"
+      - claim: permitted portable charger range
+        kind: numerical_with_unit
+        value: "10,000–20,000 mAh"
+        source_urls:
+          - https://www.koreaherald.com/article/10789553
+        verbatim_excerpt: "portable chargers (10,000–20,000 mAh) remain permitted"
+      - claim: battery-related incidents in 2026
+        kind: numerical
+        value: "Four"
+        source_urls:
+          - https://www.koreaherald.com/article/10789553
+        verbatim_excerpt: "Four battery-related incidents reported in 2026"
+      - claim: Hapjeong Station fire date
+        kind: temporal
+        value: "September 2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10789553
+        verbatim_excerpt: "September 2025 fire at Hapjeong Station heightened safety concerns"
+      - claim: Hapjeong Station fire location
+        kind: named_institution
+        value: "Hapjeong Station"
+        source_urls:
+          - https://www.koreaherald.com/article/10789553
+        verbatim_excerpt: "September 2025 fire at Hapjeong Station heightened safety concerns"
+      - claim: Seoul Metro CEO name
+        kind: named_person
+        value: "Kim Tae-kyun"
+        source_urls:
+          - https://www.koreaherald.com/article/10789553
+        verbatim_excerpt: "Seoul Metro CEO Kim Tae-kyun"
+    quotes:
+      - speaker_name: Kim Tae-kyun
+        speaker_title: CEO, Seoul Metro
+        verbatim_en: "Lithium batteries have become an essential part of everyday life, but fires involving them are more difficult to extinguish and pose greater risks than ordinary fires."
+        source_url: https://www.koreaherald.com/article/10789553
+        context: announcement of subway ban on lithium battery devices, June 26 2026
+
+  - story_id: skorea-interagency-taskforce-ai-powered-crimes
+    category: society
+    headline_en: South Korea Launches Interagency Task Force to Combat AI-Powered Crimes
+    lead_url: https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+    hard_facts:
+      - claim: deepfake sex crime cases in the past year
+        kind: numerical_with_unit
+        value: "1,553 cases"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        verbatim_excerpt: "1,553 cases recorded in the past year"
+      - claim: women and girls share of deepfake support seekers
+        kind: numerical_with_unit
+        value: "97 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        verbatim_excerpt: "women and girls comprising 97 percent of those seeking support"
+      - claim: convening body
+        kind: named_institution
+        value: "Korea Media and Communications Commission"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        verbatim_excerpt: "Korea Media and Communications Commission convened an inaugural interagency consultative meeting Friday"
+      - claim: participating ministry 1
+        kind: named_institution
+        value: "Ministry of Science and ICT"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        verbatim_excerpt: "officials from Ministry of Science and ICT"
+      - claim: participating ministry 2
+        kind: named_institution
+        value: "Ministry of Foreign Affairs"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        verbatim_excerpt: "Ministry of Foreign Affairs"
+      - claim: participating ministry 3
+        kind: named_institution
+        value: "Ministry of Justice"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        verbatim_excerpt: "Ministry of Justice"
+      - claim: participating ministry 4
+        kind: named_institution
+        value: "Ministry of Gender Equality and Family"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        verbatim_excerpt: "Ministry of Gender Equality and Family"
+      - claim: participating body — police
+        kind: named_institution
+        value: "National Police Agency"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        verbatim_excerpt: "National Police Agency"
+    quotes:
+      - speaker_name: Korea Media and Communications Commission
+        speaker_title: Government agency, South Korea
+        verbatim_en: "AI-related crimes increasingly span multiple sectors, including online platforms, telecommunications, finance and law enforcement."
+        source_url: https://www.koreajoongangdaily.com/korea/govt-launches-interagency-consultative-body-to-combat-aipowered-crimes/12742705
+        context: inaugural interagency meeting on AI-powered crimes, June 26 2026
+
+  - story_id: chey-tae-won-ex-wife-1-38-trillion-asset-case
+    category: society
+    headline_en: Court to Rule on SK Group Chairman Chey Tae-won and Ex-Wife's 1.38 Trillion Won Asset Division Case in July
+    lead_url: https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10789421
+    locked_urls:
+      - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+      - https://www.koreaherald.com/article/10789421
+    hard_facts:
+      - claim: verdict date
+        kind: temporal
+        value: "July 24"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "Seoul High Court will deliver its verdict July 24"
+      - claim: court name
+        kind: named_institution
+        value: "Seoul High Court"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "Seoul High Court will deliver its verdict July 24"
+      - claim: SK Group Chairman name
+        kind: named_person
+        value: "Chey Tae-won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "asset division dispute between SK Group Chairman Chey Tae-won and former wife Roh Soh-yeong"
+      - claim: former wife name
+        kind: named_person
+        value: "Roh Soh-yeong"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "former wife Roh Soh-yeong"
+      - claim: Supreme Court remand timing
+        kind: temporal
+        value: "October"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "Supreme Court remanded the case to the appellate court in October"
+      - claim: Chey's SK stake percentage
+        kind: numerical_with_unit
+        value: "17.9 percent stake in SK"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "Chey's 17.9 percent stake in SK"
+      - claim: SK share price April 2024
+        kind: numerical_with_unit
+        value: "160,000 won per share (April 2024)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "Chey's 17.9 percent stake in SK surged from 160,000 won per share (April 2024)"
+      - claim: SK share price current
+        kind: numerical_with_unit
+        value: "over 800,000 won currently"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "to over 800,000 won currently"
+      - claim: Seoul High Court earlier award amount
+        kind: numerical_with_unit
+        value: "~1.38 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "In May 2024, Seoul High Court ordered Chey to pay ~1.38 trillion won"
+      - claim: earlier award date
+        kind: temporal
+        value: "May 2024"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "In May 2024, Seoul High Court ordered Chey to pay ~1.38 trillion won"
+      - claim: marriage year
+        kind: temporal
+        value: "1988"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "Couple married 1988, three children"
+      - claim: number of children
+        kind: numerical
+        value: "three children"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "Couple married 1988, three children"
+      - claim: divorce initiation year
+        kind: temporal
+        value: "2015"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/court-to-rule-on-sk-group-chief-exwifes-asset-division-case-next-month/12742350
+        verbatim_excerpt: "Chey initiated divorce 2015"
+    quotes: []
+
+  - story_id: sk-hynix-29-billion-nasdaq-adr-listing
+    category: ipo_ma
+    headline_en: "SK Hynix's Planned $29 Billion Nasdaq ADR Listing Seen as Potential Support for Korean Won"
+    lead_url: https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html
+    locked_urls:
+      - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+      - https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html
+    hard_facts:
+      - claim: ADR listing fundraise target
+        kind: numerical_with_unit
+        value: "$29.4 billion"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "SK hynix's planned Nasdaq ADR listing could raise up to $29.4 billion"
+      - claim: new shares to be issued
+        kind: numerical_with_unit
+        value: "17.79 million new shares"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "through issuance of 17.79 million new shares (~2.5 percent of outstanding stock)"
+      - claim: new shares as percentage of outstanding
+        kind: numerical_with_unit
+        value: "~2.5 percent of outstanding stock"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "17.79 million new shares (~2.5 percent of outstanding stock)"
+      - claim: won value of shares
+        kind: numerical_with_unit
+        value: "45.45 trillion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "issuance of 17.79 million new shares (~2.5 percent of outstanding stock) at 45.45 trillion won"
+      - claim: won-dollar exchange rate Thursday close
+        kind: numerical_with_unit
+        value: "1,542.7 per dollar"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "Won-dollar exchange rate stood at 1,542.7 per dollar on Thursday's close"
+      - claim: won-dollar rate intraday high Friday
+        kind: numerical_with_unit
+        value: "1,550 won"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "briefly reaching 1,550 won Friday — highest closing level since March 2009"
+      - claim: highest closing level reference date
+        kind: temporal
+        value: "March 2009"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "highest closing level since March 2009"
+      - claim: ADR trading start date
+        kind: temporal
+        value: "July 10"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "ADR trading begins July 10"
+      - claim: subscription and settlement date
+        kind: temporal
+        value: "July 14"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "subscription and settlement July 14"
+      - claim: underwriter 1
+        kind: named_institution
+        value: "BofA Securities"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "BofA Securities, Citigroup Global Markets, Goldman Sachs, JP Morgan Securities underwriting"
+      - claim: underwriter 2
+        kind: named_institution
+        value: "Citigroup Global Markets"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "BofA Securities, Citigroup Global Markets, Goldman Sachs, JP Morgan Securities underwriting"
+      - claim: underwriter 3
+        kind: named_institution
+        value: "Goldman Sachs"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "BofA Securities, Citigroup Global Markets, Goldman Sachs, JP Morgan Securities underwriting"
+      - claim: underwriter 4
+        kind: named_institution
+        value: "JP Morgan Securities"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "BofA Securities, Citigroup Global Markets, Goldman Sachs, JP Morgan Securities underwriting"
+      - claim: Yongin fab name
+        kind: named_product
+        value: "Yongin semiconductor cluster Y1 fab"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "proceeds earmarked for the Yongin semiconductor cluster Y1 fab"
+      - claim: Cheongju fab name
+        kind: named_product
+        value: "Cheongju P&T7 advanced-packaging fab"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "the Cheongju P&T7 advanced-packaging fab for HBM"
+      - claim: EUV scanner supplier
+        kind: named_institution
+        value: "ASML"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "acquiring EUV scanners from ASML"
+      - claim: analyst name
+        kind: named_person
+        value: "Seo Jeong-hoon"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "Seo Jeong-hoon (Hana Bank senior researcher)"
+      - claim: analyst institution
+        kind: named_institution
+        value: "Hana Bank"
+        source_urls:
+          - https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        verbatim_excerpt: "Seo Jeong-hoon (Hana Bank senior researcher)"
+    quotes:
+      - speaker_name: Seo Jeong-hoon
+        speaker_title: Senior researcher, Hana Bank
+        verbatim_en: "If proceeds raised through ADR issuance are fully brought back into Korea, they would be supportive for the won."
+        source_url: https://www.koreatimes.co.kr/economy/others/20260626/sk-hynix-nasdaq-adr-listing-seen-as-potential-support-for-won-amid-prolonged-weakness
+        context: analyst commentary on SK hynix Nasdaq ADR listing, June 26 2026
+
+  - story_id: south-korean-vessels-exit-strait-of-hormuz
+    category: other
+    headline_en: 8 More South Korean-Operated Vessels Exit Strait of Hormuz Following US-Iran Ceasefire
+    lead_url: https://www.koreaherald.com/article/10789649
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10789649
+    hard_facts:
+      - claim: vessels exiting Strait of Hormuz on Friday
+        kind: numerical
+        value: "Eight"
+        source_urls:
+          - https://www.koreaherald.com/article/10789649
+        verbatim_excerpt: "Eight more South Korean-operated vessels exited the Strait of Hormuz Friday"
+      - claim: ceasefire agreement date
+        kind: temporal
+        value: "June 17"
+        source_urls:
+          - https://www.koreaherald.com/article/10789649
+        verbatim_excerpt: "following a ceasefire agreement between the United States and Iran signed June 17"
+      - claim: South Korean-linked ships remaining in strait
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.koreaherald.com/article/10789649
+        verbatim_excerpt: "bringing total South Korean-linked ships remaining inside the strait to five"
+      - claim: South Korean sailors aboard departing vessels
+        kind: numerical_with_unit
+        value: "37 South Korean sailors"
+        source_urls:
+          - https://www.koreaherald.com/article/10789649
+        verbatim_excerpt: "37 South Korean sailors aboard departing vessels"
+      - claim: South Korean sailors remaining in Persian Gulf
+        kind: numerical_with_unit
+        value: "47 South Korean sailors"
+        source_urls:
+          - https://www.koreaherald.com/article/10789649
+        verbatim_excerpt: "47 South Korean sailors remain in the Persian Gulf"
+      - claim: sailors aboard foreign-flagged vessels
+        kind: numerical
+        value: "30"
+        source_urls:
+          - https://www.koreaherald.com/article/10789649
+        verbatim_excerpt: "including 30 aboard foreign-flagged vessels"
+      - claim: ceasefire fee waiver period
+        kind: temporal
+        value: "60 days"
+        source_urls:
+          - https://www.koreaherald.com/article/10789649
+        verbatim_excerpt: "Tehran agreed to allow vessels to transit the Strait of Hormuz without fees for 60 days following signing"
+      - claim: confirming ministry
+        kind: named_institution
+        value: "Ministry of Oceans and Fisheries"
+        source_urls:
+          - https://www.koreaherald.com/article/10789649
+        verbatim_excerpt: "Ministry of Oceans and Fisheries confirmed figures"
+    quotes: []
+
+  - story_id: jaishankar-five-step-plan-jeju-forum
+    category: other
+    headline_en: Indian Foreign Minister Jaishankar Proposes Five-Step Plan at Jeju Forum
+    lead_url: https://www.koreaherald.com/article/10789328
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10789328
+    hard_facts:
+      - claim: Indian Foreign Minister name
+        kind: named_person
+        value: "Subrahmanyam Jaishankar"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "India's Foreign Minister Subrahmanyam Jaishankar unveiled a five-step plan"
+      - claim: forum edition
+        kind: numerical
+        value: "21st Jeju Forum for Peace and Prosperity"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "at the 21st Jeju Forum for Peace and Prosperity"
+      - claim: forum dates
+        kind: temporal
+        value: "June 24–26"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "21st Jeju Forum for Peace and Prosperity (June 24–26, Jeju Island)"
+      - claim: forum location
+        kind: named_institution
+        value: "Jeju Island"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "21st Jeju Forum for Peace and Prosperity (June 24–26, Jeju Island)"
+      - claim: forum sessions count
+        kind: numerical_with_unit
+        value: "70-plus sessions"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "Forum convened 70-plus sessions"
+      - claim: participating countries count
+        kind: numerical_with_unit
+        value: "~60 countries"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "participants from ~60 countries"
+      - claim: Jaishankar meeting with South Korean FM
+        kind: temporal
+        value: "Wednesday"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "Jaishankar met South Korean Foreign Minister Cho Hyun on Wednesday"
+      - claim: South Korean Foreign Minister name
+        kind: named_person
+        value: "Cho Hyun"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "Jaishankar met South Korean Foreign Minister Cho Hyun on Wednesday"
+      - claim: partnership framework slogan
+        kind: named_product
+        value: "ships to chips"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "a 'ships to chips' framework"
+      - claim: UNCLOS reference
+        kind: named_institution
+        value: "UNCLOS"
+        source_urls:
+          - https://www.koreaherald.com/article/10789328
+        verbatim_excerpt: "strengthen respect for international law citing UNCLOS"
+    quotes:
+      - speaker_name: Subrahmanyam Jaishankar
+        speaker_title: Foreign Minister, India
+        verbatim_en: "Resilience and redundancy are key."
+        source_url: https://www.koreaherald.com/article/10789328
+        context: 21st Jeju Forum for Peace and Prosperity, June 24-26 2026
