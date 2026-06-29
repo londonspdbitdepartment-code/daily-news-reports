@@ -1,0 +1,700 @@
+version: 1
+generated_at: "2026-06-29T12:00:00Z"
+country: China
+date: "2026-06-29"
+total_stories: 10
+stories:
+  - story_id: china-pboc-overnight-reverse-repo-debut
+    category: econ
+    headline_en: "China's central bank debuts overnight reverse repo in policy framework shift"
+    lead_url: https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-29/china-central-bank-debuts-overnight-operation-surprises-with-no-rate-released
+    locked_urls:
+      - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+      - https://www.bloomberg.com/news/articles/2026-06-29/china-central-bank-debuts-overnight-operation-surprises-with-no-rate-released
+    hard_facts:
+      - claim: PBOC overnight reverse repo operation date
+        kind: temporal
+        value: "June 29 2026"
+        source_urls:
+          - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+        verbatim_excerpt: "conducted overnight reverse repo operations for the first time on June 29 2026"
+      - claim: PBOC overnight reverse repo offer size
+        kind: numerical_with_unit
+        value: "300 billion yuan"
+        source_urls:
+          - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+        verbatim_excerpt: "offering 300 billion yuan ($44.1 billion) to financial institutions"
+      - claim: PBOC overnight reverse repo offer size in USD
+        kind: numerical_with_unit
+        value: "$44.1 billion"
+        source_urls:
+          - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+        verbatim_excerpt: "offering 300 billion yuan ($44.1 billion) to financial institutions"
+      - claim: overnight reverse repo rate set at inaugural operation
+        kind: numerical_with_unit
+        value: "1.25%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+        verbatim_excerpt: "the overnight reverse repo rate on the inaugural operation was set at 1.25%"
+      - claim: basis-point spread below seven-day reverse repo rate
+        kind: numerical_with_unit
+        value: "15 basis points"
+        source_urls:
+          - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+        verbatim_excerpt: "which is 15 basis points below the seven-day reverse repo rate of 1.40%"
+      - claim: seven-day reverse repo rate
+        kind: numerical_with_unit
+        value: "1.40%"
+        source_urls:
+          - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+        verbatim_excerpt: "the seven-day reverse repo rate of 1.40%"
+      - claim: quarter in which operation took place
+        kind: temporal
+        value: "Q2 2026"
+        source_urls:
+          - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+        verbatim_excerpt: "The operation took place on the final trading day of Q2 2026"
+      - claim: central bank conducting the operation
+        kind: named_institution
+        value: "PBOC"
+        source_urls:
+          - https://www.investing.com/news/economy-news/china-debuts-overnight-reverse-repos-at-125-sources-say-4764218
+        verbatim_excerpt: "China's central bank (PBOC) conducted overnight reverse repo operations"
+    quotes: []
+
+  - story_id: china-tech-growth-energy-demand-challenge
+    category: econ
+    headline_en: "China says tech sector growth complicates energy demand forecasting"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-29/china-says-tech-growth-a-challenge-to-predicting-energy-demand
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-29/china-says-tech-growth-a-challenge-to-predicting-energy-demand
+    hard_facts:
+      - claim: government statement date
+        kind: temporal
+        value: "June 29 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/china-says-tech-growth-a-challenge-to-predicting-energy-demand
+        verbatim_excerpt: "China's government stated on June 29 2026"
+      - claim: China June LNG imports (estimated)
+        kind: numerical_with_unit
+        value: "5.29 million tons"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/china-says-tech-growth-a-challenge-to-predicting-energy-demand
+        verbatim_excerpt: "China's June LNG imports are expected to come in at approximately 5.29 million tons"
+      - claim: data provider for LNG import tracking
+        kind: named_institution
+        value: "Kpler"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/china-says-tech-growth-a-challenge-to-predicting-energy-demand
+        verbatim_excerpt: "per Kpler tracking data, Bloomberg June 29"
+    quotes: []
+
+  - story_id: china-state-developers-shenzhen-construction
+    category: econ
+    headline_en: "China's state developers power Shenzhen construction despite property market weakness"
+    lead_url: https://asia.nikkei.com/business/markets/property/china-s-state-developers-power-shenzhen-construction-despite-market-woes
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://asia.nikkei.com/business/markets/property/china-s-state-developers-power-shenzhen-construction-despite-market-woes
+    hard_facts:
+      - claim: city where state developers are sustaining construction
+        kind: named_institution
+        value: "Shenzhen"
+        source_urls:
+          - https://asia.nikkei.com/business/markets/property/china-s-state-developers-power-shenzhen-construction-despite-market-woes
+        verbatim_excerpt: "sustaining construction activity in Shenzhen despite continued weakness"
+    quotes: []
+
+  - story_id: china-russia-11th-joint-air-patrol-japan-korea
+    category: politics
+    headline_en: "China and Russia conduct 11th joint strategic air patrol near Japan and South Korea"
+    lead_url: https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-29/japan-protests-china-maritime-claims-near-southern-island
+    locked_urls:
+      - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+      - https://www.bloomberg.com/news/articles/2026-06-29/japan-protests-china-maritime-claims-near-southern-island
+    hard_facts:
+      - claim: joint patrol sequence number
+        kind: numerical
+        value: "11th"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "China and Russia conducted their 11th joint strategic air patrol"
+      - claim: patrol start date
+        kind: temporal
+        value: "Saturday June 28"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "conducted their 11th joint strategic air patrol on Saturday June 28"
+      - claim: patrol end date
+        kind: temporal
+        value: "Sunday June 29"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "continuing through Sunday June 29"
+      - claim: total military aircraft count
+        kind: numerical_with_unit
+        value: "over 10 military aircraft"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "The patrol involved over 10 military aircraft"
+      - claim: Russian Tu-95 strategic bombers count
+        kind: numerical_with_unit
+        value: "2 Russian Tu-95 strategic bombers"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "2 Russian Tu-95 strategic bombers"
+      - claim: Russian Tu-142 maritime patrol aircraft
+        kind: named_product
+        value: "Tu-142"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "2 Russian Tu-142 maritime patrol aircraft"
+      - claim: Russian Tu-95 aircraft model
+        kind: named_product
+        value: "Tu-95"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "2 Russian Tu-95 strategic bombers"
+      - claim: Chinese H-6 bombers first formation count
+        kind: numerical_with_unit
+        value: "2 Chinese H-6 bombers"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "2 Chinese H-6 bombers (first formation)"
+      - claim: Chinese H-6 aircraft model
+        kind: named_product
+        value: "H-6"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "2 Chinese H-6 bombers (first formation)"
+      - claim: Chinese J-16 fighter escorts
+        kind: named_product
+        value: "J-16"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "Chinese J-16 fighter escorts"
+      - claim: Russian Su-35 count
+        kind: numerical_with_unit
+        value: "1 Russian Su-35"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "1 Russian Su-35"
+      - claim: Russian Su-35 aircraft model
+        kind: named_product
+        value: "Su-35"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "1 Russian Su-35"
+      - claim: South Korea diplomatic protest date
+        kind: temporal
+        value: "June 29"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "filed diplomatic protests with Chinese and Russian embassies in Seoul on June 29"
+      - claim: Japanese Defense Minister name
+        kind: named_person
+        value: "Shinjiro Koizumi"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "Japanese Defense Minister Shinjiro Koizumi stated"
+      - claim: Japan ASDF unit that scrambled aircraft
+        kind: named_institution
+        value: "Japan's ASDF Western Air Defense Force"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        verbatim_excerpt: "Japan's ASDF Western Air Defense Force scrambled aircraft"
+    quotes:
+      - speaker_name: Shinjiro Koizumi
+        speaker_title: Japanese Defense Minister
+        verbatim_en: "an expansion and intensification of their activities"
+        source_url: https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        context: statement on the June 28-29 China-Russia joint air patrol
+      - speaker_name: Shinjiro Koizumi
+        speaker_title: Japanese Defense Minister
+        verbatim_en: "a show of force directed at our country"
+        source_url: https://www.stripes.com/theaters/asia_pacific/2026-06-29/china-japan-adiz-south-korea-russia-aircraft-22113024.html
+        context: statement on the June 28-29 China-Russia joint air patrol
+
+  - story_id: hong-kong-beijing-tightens-social-control-hrw
+    category: society
+    headline_en: "Hong Kong: Beijing tightens social control — HRW annual report"
+    lead_url: https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+    body_source: full
+    corroborated_by:
+      - https://asia.nikkei.com/spotlight/hong-kong-security-law/how-hong-kong-quietly-rehabilitates-former-protesters
+    locked_urls:
+      - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+      - https://asia.nikkei.com/spotlight/hong-kong-security-law/how-hong-kong-quietly-rehabilitates-former-protesters
+    hard_facts:
+      - claim: HRW report publication date
+        kind: temporal
+        value: "June 29 2026"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "Human Rights Watch published a major Hong Kong conditions report on June 29 2026"
+      - claim: HRW Asia Director (report author)
+        kind: named_person
+        value: "Elaine Pearson"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "authored by Asia Director Elaine Pearson"
+      - claim: authoring organization
+        kind: named_institution
+        value: "Human Rights Watch"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "Human Rights Watch published a major Hong Kong conditions report"
+      - claim: police device-password authority date
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "Police gained statutory authority to demand device passwords from suspects in March 2026"
+      - claim: national security budget
+        kind: numerical_with_unit
+        value: "HK$18 billion"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "The national security budget was increased to HK$18 billion ($2.3 billion)"
+      - claim: national security budget in USD
+        kind: numerical_with_unit
+        value: "$2.3 billion"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "The national security budget was increased to HK$18 billion ($2.3 billion)"
+      - claim: number of legislators with concurrent Chinese national institution positions
+        kind: numerical_with_unit
+        value: "27 of 90 legislators"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "27 of 90 legislators hold concurrent positions in Chinese national institutions"
+      - claim: lawmakers on Chinese SOE boards
+        kind: numerical_with_unit
+        value: "at least 45 lawmakers"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "At least 45 lawmakers serve on Chinese state-owned enterprise boards"
+      - claim: increase in lawmakers on SOE boards vs prior term
+        kind: numerical_with_unit
+        value: "60% increase"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "At least 45 lawmakers serve on Chinese state-owned enterprise boards (60% increase from prior term)"
+      - claim: national security law arrests for speech acts
+        kind: numerical
+        value: "401"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "401 arrests under national security law for speech acts, 182 convictions"
+      - claim: national security law convictions
+        kind: numerical
+        value: "182"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "401 arrests under national security law for speech acts, 182 convictions"
+      - claim: Tai Po housing fire date
+        kind: temporal
+        value: "November 2025"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "The November 2025 Tai Po housing fire is cited as evidence"
+      - claim: month Chief Executive given national security case designation authority
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+        verbatim_excerpt: "In June 2026, the Hong Kong government bypassed the legislature"
+    quotes: []
+
+  - story_id: hong-kong-rehabilitates-2019-protest-detainees
+    category: society
+    headline_en: "Hong Kong quietly rehabilitates former 2019 protest detainees"
+    lead_url: https://asia.nikkei.com/spotlight/hong-kong-security-law/how-hong-kong-quietly-rehabilitates-former-protesters
+    body_source: full
+    corroborated_by:
+      - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+    locked_urls:
+      - https://asia.nikkei.com/spotlight/hong-kong-security-law/how-hong-kong-quietly-rehabilitates-former-protesters
+      - https://www.hrw.org/news/2026/06/29/hong-kong-beijing-tightens-social-control
+    hard_facts:
+      - claim: Nikkei Asia correspondent (byline)
+        kind: named_person
+        value: "Anne Chan"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/hong-kong-security-law/how-hong-kong-quietly-rehabilitates-former-protesters
+        verbatim_excerpt: "Nikkei Asia correspondent Anne Chan reports"
+      - claim: protest year being referenced
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/hong-kong-security-law/how-hong-kong-quietly-rehabilitates-former-protesters
+        verbatim_excerpt: "former 2019 protest detainees who were released without prosecution"
+      - claim: approximate time since initial detention of subject "Jon"
+        kind: temporal
+        value: "approximately six years"
+        source_urls:
+          - https://asia.nikkei.com/spotlight/hong-kong-security-law/how-hong-kong-quietly-rehabilitates-former-protesters
+        verbatim_excerpt: "received police contact approximately six years after his initial detention"
+    quotes: []
+
+  - story_id: china-export-blacklist-40-japanese-defense-entities
+    category: china_nexus
+    headline_en: "China expands export blacklist to 40 Japanese defense-linked entities amid Takaichi feud"
+    lead_url: https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+    body_source: full
+    corroborated_by:
+      - https://hongkongfp.com/2026/06/29/china-adds-20-japanese-organisations-to-export-blacklist/
+      - https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-restricts-exports-to-mitsubishi-hitachi-komatsu-units
+      - https://www.bloomberg.com/news/articles/2026-06-29/china-blacklists-more-japan-entities-as-takaichi-feud-deepens
+      - https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html
+    locked_urls:
+      - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+      - https://hongkongfp.com/2026/06/29/china-adds-20-japanese-organisations-to-export-blacklist/
+      - https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-restricts-exports-to-mitsubishi-hitachi-komatsu-units
+      - https://www.bloomberg.com/news/articles/2026-06-29/china-blacklists-more-japan-entities-as-takaichi-feud-deepens
+      - https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: "June 29 2026"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "China's Ministry of Commerce announced on June 29 2026"
+      - claim: announcing institution
+        kind: named_institution
+        value: "China's Ministry of Commerce"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "China's Ministry of Commerce announced on June 29 2026"
+      - claim: first round blacklist entity count
+        kind: numerical
+        value: "20"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "First, 20 Japanese entities were placed on China's export control blacklist"
+      - claim: National Institute for Defense Studies placed on blacklist
+        kind: named_institution
+        value: "National Institute for Defense Studies"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "including the National Institute for Defense Studies and Mitsubishi Electric Defense and Space Technologies Corporation"
+      - claim: Mitsubishi Electric unit placed on blacklist
+        kind: named_institution
+        value: "Mitsubishi Electric Defense and Space Technologies Corporation"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "including the National Institute for Defense Studies and Mitsubishi Electric Defense and Space Technologies Corporation"
+      - claim: second round watch-list entity count
+        kind: numerical
+        value: "20"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "Second, 20 additional Japanese entities were added to a 'watch list'"
+      - claim: Mitsui entity on watch list
+        kind: named_institution
+        value: "Mitsui E&S"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "including Mitsui E&S, Fujitsu divisions, and Komatsu divisions"
+      - claim: total entities count per Bloomberg
+        kind: numerical_with_unit
+        value: "40+"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/china-blacklists-more-japan-entities-as-takaichi-feud-deepens
+        verbatim_excerpt: "Bloomberg reports the total count is 40+ entities"
+      - claim: earlier round of restrictions date
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "This follows an earlier February 2026 round targeting 20 Japanese institutions"
+      - claim: earlier round of restrictions entity count
+        kind: numerical
+        value: "20"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "an earlier February 2026 round targeting 20 Japanese institutions"
+      - claim: Japanese PM who made Taiwan intervention statement
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "Japanese PM Sanae Takaichi's November 2025 statement"
+      - claim: date of Takaichi Taiwan intervention statement
+        kind: temporal
+        value: "November 2025"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "Japanese PM Sanae Takaichi's November 2025 statement suggesting Japan might intervene militarily"
+      - claim: AP byline author
+        kind: named_person
+        value: "Simina Mistreanu"
+        source_urls:
+          - https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        verbatim_excerpt: "Simina Mistreanu, Associated Press"
+    quotes:
+      - speaker_name: China Ministry of Commerce spokesperson
+        speaker_title: Official spokesperson, China Ministry of Commerce
+        verbatim_en: "China's measures are entirely justified, reasonable and lawful. They are aimed at firmly deterring Japan's reckless pursuit of 'new militarism.'"
+        source_url: https://www.local10.com/news/2026/06/29/china-imposes-export-controls-on-40-japanese-entities-as-tensions-with-tokyo-rise/
+        context: official statement on June 29 2026 export restriction announcement
+
+  - story_id: crealights-technology-hkex-ipo-listing
+    category: ipo_ma
+    headline_en: "Crealights Technology lists on Hong Kong Stock Exchange — semiconductor/optoelectronics IPO"
+    lead_url: https://www.ipox.com/upcoming-ipos
+    body_source: full
+    corroborated_by:
+      - https://thestandard.com.hk
+    locked_urls:
+      - https://www.ipox.com/upcoming-ipos
+      - https://thestandard.com.hk
+    hard_facts:
+      - claim: Crealights listing date
+        kind: temporal
+        value: "June 29 2026"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "Crealights Technology Co., Ltd. listed on the Hong Kong Stock Exchange (Main Board) on June 29 2026"
+      - claim: listing venue
+        kind: named_institution
+        value: "Hong Kong Stock Exchange"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "listed on the Hong Kong Stock Exchange (Main Board)"
+      - claim: shares offered
+        kind: numerical_with_unit
+        value: "13.43 million H shares"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "Crealights priced 13.43 million H shares at HKD 114.00 per share"
+      - claim: IPO price per share
+        kind: numerical_with_unit
+        value: "HKD 114.00"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "priced 13.43 million H shares at HKD 114.00 per share"
+      - claim: market cap at offer in HKD
+        kind: numerical_with_unit
+        value: "HKD 10.21 billion"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "resulting in a market capitalization at offer of approximately HKD 10.21 billion"
+      - claim: market cap at offer in USD
+        kind: numerical_with_unit
+        value: "~$1.31 billion USD"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "approximately HKD 10.21 billion (~$1.31 billion USD)"
+      - claim: company name
+        kind: named_institution
+        value: "Crealights Technology Co., Ltd."
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "Crealights Technology Co., Ltd. listed on the Hong Kong Stock Exchange"
+    quotes: []
+
+  - story_id: momenta-hk-ipo-752m-autonomous-driving
+    category: ipo_ma
+    headline_en: "Momenta autonomous driving firm seeks $752M in Hong Kong IPO"
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.investing.com/news/stock-market-news/chinas-momenta-seeks-up-to-751-million-in-hong-kong-ipo-to-boost-autonomous-driving-rd-4764186
+      - https://cryptobriefing.com/momenta-hong-kong-ipo-751m/
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+      - https://www.investing.com/news/stock-market-news/chinas-momenta-seeks-up-to-751-million-in-hong-kong-ipo-to-boost-autonomous-driving-rd-4764186
+      - https://cryptobriefing.com/momenta-hong-kong-ipo-751m/
+    hard_facts:
+      - claim: Momenta IPO launch date
+        kind: temporal
+        value: "June 29 2026"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Momenta Global Ltd. ... launched its Hong Kong IPO on June 29 2026"
+      - claim: IPO fundraising target in HKD
+        kind: numerical_with_unit
+        value: "HK$5.89 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "seeking to raise approximately HK$5.89 billion (~$752 million USD)"
+      - claim: IPO fundraising target in USD
+        kind: numerical_with_unit
+        value: "~$752 million USD"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "seeking to raise approximately HK$5.89 billion (~$752 million USD)"
+      - claim: shares offered
+        kind: numerical_with_unit
+        value: "approximately 19.9 million shares"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "The company is offering approximately 19.9 million shares at HKD 295.60 each"
+      - claim: IPO price per share
+        kind: numerical_with_unit
+        value: "HKD 295.60"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "offering approximately 19.9 million shares at HKD 295.60 each"
+      - claim: implied valuation
+        kind: numerical_with_unit
+        value: "nearly $9 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "implying a valuation of nearly $9 billion"
+      - claim: IPO proceeds allocation to R&D
+        kind: numerical_with_unit
+        value: "60%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Momenta plans to allocate 60% of IPO proceeds to R&D"
+      - claim: IPO proceeds allocation to Robotaxi services
+        kind: numerical_with_unit
+        value: "20%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "20% to Robotaxi services"
+      - claim: Momenta founding year
+        kind: temporal
+        value: "2016"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Founded in 2016 by Cao Xudong"
+      - claim: Momenta founder
+        kind: named_person
+        value: "Cao Xudong"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Founded in 2016 by Cao Xudong"
+      - claim: vehicles running Momenta software as of end-2025
+        kind: numerical_with_unit
+        value: "over 680,000 vehicles"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "As of end-2025, Momenta's software runs in over 680,000 vehicles"
+      - claim: allocation results expected date
+        kind: temporal
+        value: "July 7"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Allocation results expected July 7"
+      - claim: trading commencement date
+        kind: temporal
+        value: "July 8"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "trading to begin July 8"
+      - claim: cornerstone investor — Mercedes-Benz
+        kind: named_institution
+        value: "Mercedes-Benz"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Cornerstone investors: Mercedes-Benz, BlackRock, Boyu Capital, GIC, and Fidelity International"
+      - claim: cornerstone investor — BlackRock
+        kind: named_institution
+        value: "BlackRock"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Cornerstone investors: Mercedes-Benz, BlackRock, Boyu Capital, GIC, and Fidelity International"
+      - claim: cornerstone investor — Boyu Capital
+        kind: named_institution
+        value: "Boyu Capital"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Cornerstone investors: Mercedes-Benz, BlackRock, Boyu Capital, GIC, and Fidelity International"
+      - claim: cornerstone investor — GIC
+        kind: named_institution
+        value: "GIC"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Cornerstone investors: Mercedes-Benz, BlackRock, Boyu Capital, GIC, and Fidelity International"
+      - claim: cornerstone investor — Fidelity International
+        kind: named_institution
+        value: "Fidelity International"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Cornerstone investors: Mercedes-Benz, BlackRock, Boyu Capital, GIC, and Fidelity International"
+      - claim: strategic investor — General Motors
+        kind: named_institution
+        value: "General Motors"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Backed by General Motors and Tencent Holdings"
+      - claim: strategic investor — Tencent Holdings
+        kind: named_institution
+        value: "Tencent Holdings"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "Backed by General Motors and Tencent Holdings"
+      - claim: company headquarters city
+        kind: named_institution
+        value: "Suzhou"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing
+        verbatim_excerpt: "a Suzhou-based autonomous driving technology firm"
+    quotes: []
+
+  - story_id: alebund-photonics-hkex-ipo-listing
+    category: ipo_ma
+    headline_en: "Alebund Photonics lists on Hong Kong Stock Exchange — silicon photonics/optical connectivity"
+    lead_url: https://www.ipox.com/upcoming-ipos
+    body_source: full
+    corroborated_by:
+      - https://thestandard.com.hk
+    locked_urls:
+      - https://www.ipox.com/upcoming-ipos
+      - https://thestandard.com.hk
+    hard_facts:
+      - claim: Alebund Photonics listing date
+        kind: temporal
+        value: "June 29 2026"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "Alebund Photonics Ltd. listed on the Hong Kong Stock Exchange on June 29 2026"
+      - claim: listing venue
+        kind: named_institution
+        value: "Hong Kong Stock Exchange"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "listed on the Hong Kong Stock Exchange on June 29 2026"
+      - claim: shares offered
+        kind: numerical_with_unit
+        value: "56.76 million H shares"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "Alebund priced 56.76 million H shares at HKD 22.60 per share"
+      - claim: IPO price per share
+        kind: numerical_with_unit
+        value: "HKD 22.60"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "priced 56.76 million H shares at HKD 22.60 per share"
+      - claim: funds raised in HKD
+        kind: numerical_with_unit
+        value: "approximately HKD 1.28 billion"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "raising approximately HKD 1.28 billion (~$164 million USD)"
+      - claim: funds raised in USD
+        kind: numerical_with_unit
+        value: "~$164 million USD"
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "raising approximately HKD 1.28 billion (~$164 million USD)"
+      - claim: company name
+        kind: named_institution
+        value: "Alebund Photonics Ltd."
+        source_urls:
+          - https://www.ipox.com/upcoming-ipos
+        verbatim_excerpt: "Alebund Photonics Ltd. listed on the Hong Kong Stock Exchange"
+    quotes: []
