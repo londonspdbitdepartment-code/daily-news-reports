@@ -1,0 +1,1433 @@
+version: 1
+generated_at: "2026-06-30T12:00:00Z"
+country: South Korea
+date: "2026-06-30"
+total_stories: 16
+stories:
+  - story_id: south-korea-lowers-crude-oil-security-alert
+    category: econ
+    headline_en: South Korea Lowers Crude Oil Security Alert to Level 2 as U.S.-Iran Tensions Ease
+    lead_url: https://www.koreaherald.com/article/10792757
+    body_source: full
+    corroborated_by:
+      - https://www.koreajoongangdaily.com/korea/govt-to-lower-security-alert-on-crude-by-a-notch-as-usiran-tensions-ease/12747221
+    locked_urls:
+      - https://www.koreaherald.com/article/10792757
+      - https://www.koreajoongangdaily.com/korea/govt-to-lower-security-alert-on-crude-by-a-notch-as-usiran-tensions-ease/12747221
+    hard_facts:
+      - claim: crude oil security warning level downgraded to
+        kind: numerical_with_unit
+        value: Level 2
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "lower the national resource security crisis warning for crude oil from Level 3 to Level 2"
+      - claim: crude oil security warning level prior
+        kind: numerical_with_unit
+        value: Level 3
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "lower the national resource security crisis warning for crude oil from Level 3 to Level 2"
+      - claim: number of tiers in national resource security crisis warning system
+        kind: numerical
+        value: four-tier
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "South Korea operates a four-tier national resource security crisis warning system"
+      - claim: date first lowest crude alert issued
+        kind: temporal
+        value: early March 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "The government first issued the lowest alert for crude in early March 2026"
+      - claim: date crude alert escalated to Level 2
+        kind: temporal
+        value: later that month
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "escalated it to Level 2 later that month"
+      - claim: date crude alert raised to Level 3
+        kind: temporal
+        value: April
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "then raised it to Level 3 in April following Middle East tensions"
+      - claim: natural gas alert level since April
+        kind: numerical_with_unit
+        value: Level 2
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "Natural gas had maintained Level 2 status since April"
+      - claim: Vice Industry Minister who made the announcement
+        kind: named_person
+        value: Moon Shin-hak
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "Vice Industry Minister Moon Shin-hak making the announcement during a Cabinet meeting"
+      - claim: announcement venue
+        kind: named_institution
+        value: presidential office
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "Cabinet meeting at the presidential office on Tuesday"
+      - claim: alternative crude import route country
+        kind: named_institution
+        value: United States
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "South Korea is securing crude imports through routes bypassing the Strait of Hormuz, including the United States"
+      - claim: strait being bypassed for crude imports
+        kind: named_institution
+        value: Strait of Hormuz
+        source_urls:
+          - https://www.koreaherald.com/article/10792757
+        verbatim_excerpt: "South Korea is securing crude imports through routes bypassing the Strait of Hormuz"
+    quotes:
+      - speaker_name: Moon Shin-hak
+        speaker_title: Vice Industry Minister
+        verbatim_en: "the alert for natural gas will be fully lifted as well."
+        source_url: https://www.koreaherald.com/article/10792757
+        context: Cabinet meeting at the presidential office
+
+  - story_id: south-korea-may-tax-revenue-surges-19pct
+    category: econ
+    headline_en: South Korea May Tax Revenue Surges 19% Driven by Higher Income and Bullish Stock Market
+    lead_url: https://www.koreaherald.com/article/10792767
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/amp/economy/20260630/tax-revenue-up-19-in-may-on-higher-income-bullish-stock-market
+    locked_urls:
+      - https://www.koreaherald.com/article/10792767
+      - https://www.koreatimes.co.kr/amp/economy/20260630/tax-revenue-up-19-in-may-on-higher-income-bullish-stock-market
+    hard_facts:
+      - claim: May 2026 total tax collection
+        kind: numerical_with_unit
+        value: 35.8 trillion won ($23.2 billion)
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "South Korea collected 35.8 trillion won ($23.2 billion) in taxes in May 2026"
+      - claim: May 2026 tax collection year-over-year increase
+        kind: numerical_with_unit
+        value: nearly 19 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "a nearly 19 percent increase compared with 30.1 trillion won a year earlier"
+      - claim: May 2025 total tax collection (prior year)
+        kind: numerical_with_unit
+        value: 30.1 trillion won
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "compared with 30.1 trillion won a year earlier"
+      - claim: May 2026 income tax collections
+        kind: numerical_with_unit
+        value: 22 trillion won
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "Income tax collections reached 22 trillion won in May"
+      - claim: income tax year-over-year increase
+        kind: numerical_with_unit
+        value: 16.5 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "up 16.5 percent year-over-year"
+      - claim: May 2026 securities transaction tax
+        kind: numerical_with_unit
+        value: 1.3 trillion won
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "Securities transaction tax surged to 1.3 trillion won from 300 billion won a year earlier"
+      - claim: May 2025 securities transaction tax (prior year)
+        kind: numerical_with_unit
+        value: 300 billion won
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "Securities transaction tax surged to 1.3 trillion won from 300 billion won a year earlier"
+      - claim: corporate tax revenue year-over-year increase
+        kind: numerical_with_unit
+        value: 9.6 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "Corporate tax revenue climbed 9.6 percent to 7.6 trillion won"
+      - claim: May 2026 corporate tax revenue
+        kind: numerical_with_unit
+        value: 7.6 trillion won
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "Corporate tax revenue climbed 9.6 percent to 7.6 trillion won"
+      - claim: January–May 2026 cumulative tax revenue
+        kind: numerical_with_unit
+        value: 199.9 trillion won
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "cumulative tax revenue totalled 199.9 trillion won"
+      - claim: January–May cumulative tax revenue year-over-year increase
+        kind: numerical_with_unit
+        value: 16 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "up 16 percent"
+      - claim: reporting institution
+        kind: named_institution
+        value: Ministry of Economy and Finance
+        source_urls:
+          - https://www.koreaherald.com/article/10792767
+        verbatim_excerpt: "according to the Ministry of Economy and Finance"
+    quotes: []
+
+  - story_id: seoul-shares-rise-1pct-on-tech-gains
+    category: econ
+    headline_en: Seoul Shares Rise Nearly 1% on Tech Gains as Investors Watch U.S.-Iran Talks
+    lead_url: https://www.koreaherald.com/article/10793358
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10793358
+    hard_facts:
+      - claim: KOSPI closing level on June 30
+        kind: numerical_with_unit
+        value: 8,476.47
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "The Korea Composite Stock Price Index (KOSPI) closed at 8,476.47 on June 30"
+      - claim: KOSPI points gained
+        kind: numerical_with_unit
+        value: 81.83 points
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "gaining 81.83 points or 0.97 percent"
+      - claim: KOSPI percentage gain
+        kind: numerical_with_unit
+        value: 0.97 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "gaining 81.83 points or 0.97 percent"
+      - claim: Samsung Electronics share price gain
+        kind: numerical_with_unit
+        value: 3.41 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "Samsung Electronics rose 3.41 percent"
+      - claim: SK hynix share price gain
+        kind: numerical_with_unit
+        value: 0.84 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "SK hynix gained 0.84 percent"
+      - claim: Dow Jones gain overnight
+        kind: numerical_with_unit
+        value: 0.59 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "the Dow gained 0.59 percent to a record high"
+      - claim: Nasdaq gain overnight
+        kind: numerical_with_unit
+        value: 2.07 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "Nasdaq jumped 2.07 percent"
+      - claim: trade volume shares
+        kind: numerical_with_unit
+        value: 444.61 million shares
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "Trade volume reached 444.61 million shares worth 41.08 trillion won"
+      - claim: trade volume value
+        kind: numerical_with_unit
+        value: 41.08 trillion won
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "Trade volume reached 444.61 million shares worth 41.08 trillion won"
+      - claim: LG Energy Solution share decline
+        kind: numerical_with_unit
+        value: 9.61 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "LG Energy Solution dropped 9.61 percent"
+      - claim: won/USD exchange rate
+        kind: numerical_with_unit
+        value: 1,549.4 per USD
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "The won weakened to 1,549.4 per USD"
+      - claim: KOSPI index name
+        kind: named_product
+        value: Korea Composite Stock Price Index (KOSPI)
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "The Korea Composite Stock Price Index (KOSPI) closed at 8,476.47"
+      - claim: named institution — Samsung Electronics
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "Samsung Electronics rose 3.41 percent"
+      - claim: named institution — SK hynix
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "SK hynix gained 0.84 percent"
+      - claim: named institution — LG Energy Solution
+        kind: named_institution
+        value: LG Energy Solution
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "LG Energy Solution dropped 9.61 percent"
+      - claim: location of U.S.-Iran negotiations resumption
+        kind: named_institution
+        value: Qatar
+        source_urls:
+          - https://www.koreaherald.com/article/10793358
+        verbatim_excerpt: "U.S.-Iran negotiations resumed in Qatar"
+    quotes: []
+
+  - story_id: sp-global-raises-korea-2026-gdp-forecast-3pct
+    category: econ
+    headline_en: "S&P Global Raises South Korea 2026 GDP Forecast to 3% as Corporate Earnings Concentrate in Chips"
+    lead_url: https://www.koreaherald.com/article/10793233
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10793233
+    hard_facts:
+      - claim: combined operating profit of Korea's 100 largest companies in Q1 2026
+        kind: numerical_with_unit
+        value: nearly 140 trillion won ($90 billion)
+        source_urls:
+          - https://www.koreaherald.com/article/10793233
+        verbatim_excerpt: "The combined operating profit of Korea's 100 largest companies reached nearly 140 trillion won ($90 billion) in Q1 2026"
+      - claim: reporting period for combined operating profit
+        kind: temporal
+        value: Q1 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10793233
+        verbatim_excerpt: "reached nearly 140 trillion won ($90 billion) in Q1 2026"
+      - claim: S&P forecast for AI-driven semiconductor supercycle end year
+        kind: temporal
+        value: at least 2028
+        source_urls:
+          - https://www.koreaherald.com/article/10793233
+        verbatim_excerpt: "S&P forecasts the AI-driven semiconductor supercycle will extend through at least 2028"
+      - claim: South Korea 2026 GDP growth forecast
+        kind: numerical_with_unit
+        value: 3 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10793233
+        verbatim_excerpt: "The agency raised South Korea's growth forecast to 3 percent for 2026"
+      - claim: S&P analyst name
+        kind: named_person
+        value: Jeremy Kim
+        source_urls:
+          - https://www.koreaherald.com/article/10793233
+        verbatim_excerpt: "S&P analyst Jeremy Kim stated"
+      - claim: reporting institution
+        kind: named_institution
+        value: S&P Global Ratings
+        source_urls:
+          - https://www.koreaherald.com/article/10793233
+        verbatim_excerpt: "S&P Global Ratings reported South Korea's corporate earnings are increasingly concentrated in semiconductors"
+    quotes:
+      - speaker_name: Jeremy Kim
+        speaker_title: Analyst, S&P Global Ratings
+        verbatim_en: "Growth is concentrated in semiconductors, while most other sectors are either growing modestly or remain under external pressure."
+        source_url: https://www.koreaherald.com/article/10793233
+        context: S&P Global Ratings report on South Korea corporate earnings
+
+  - story_id: south-korea-accelerate-nuclear-plant-construction
+    category: econ
+    headline_en: South Korea to Accelerate Nuclear Plant Construction to Power Surging AI Electricity Demand
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand
+    hard_facts:
+      - claim: typical nuclear power plant construction time in South Korea
+        kind: numerical_with_unit
+        value: nine to 10 years
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand
+        verbatim_excerpt: "it typically takes nine to 10 years to build a nuclear power plant"
+      - claim: South Korea average nuclear construction period
+        kind: numerical_with_unit
+        value: 56 months
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand
+        verbatim_excerpt: "South Korea has an average construction period of 56 months"
+      - claim: Presidential Chief of Staff name
+        kind: named_person
+        value: Kang Hoon-sik
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand
+        verbatim_excerpt: "Presidential Chief of Staff Kang Hoon-sik stated"
+    quotes:
+      - speaker_name: Kang Hoon-sik
+        speaker_title: Presidential Chief of Staff
+        verbatim_en: "We will examine ways to shorten that timeline."
+        source_url: https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand
+        context: Statement on nuclear power construction timelines for AI energy demand
+
+  - story_id: president-lee-gwangju-ai-896-trillion-won-chip-hub
+    category: econ
+    headline_en: President Lee Goes to Gwangju to Launch Korea's AI Industrial Revolution with 896 Trillion Won Chip Hub
+    lead_url: https://www.koreaherald.com/article/10793367
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive
+      - https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
+    locked_urls:
+      - https://www.koreaherald.com/article/10793367
+      - https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive
+      - https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
+    hard_facts:
+      - claim: total investment target announced
+        kind: numerical_with_unit
+        value: 896 trillion won ($579 billion)
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+          - https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive
+          - https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
+        verbatim_excerpt: "plans targeting 896 trillion won ($579 billion) in total investment"
+      - claim: Samsung and SK hynix combined investment to build chip fabs
+        kind: numerical_with_unit
+        value: 800 trillion won ($518 billion)
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+          - https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
+        verbatim_excerpt: "Samsung and SK hynix announced combined plans to invest 800 trillion won ($518 billion) to build four new chip fabrication sites"
+      - claim: number of new chip fabrication sites planned in Jeonnam-Gwangju area
+        kind: numerical
+        value: four
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+        verbatim_excerpt: "to build four new chip fabrication sites in the Jeonnam-Gwangju area"
+      - claim: date of President Lee's visit to Gwangju
+        kind: temporal
+        value: June 30
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+        verbatim_excerpt: "President Lee Jae Myung visited Gwangju on June 30"
+      - claim: date special committee on semiconductor competitiveness launches
+        kind: temporal
+        value: August
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+        verbatim_excerpt: "special committee on semiconductor competitiveness launching in August"
+      - claim: date Gwangju and South Jeolla Province merge into Jeonnam-Gwangju Special City
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+        verbatim_excerpt: "Gwangju and South Jeolla Province merge into Jeonnam-Gwangju Special City on July 1, 2026"
+      - claim: Jeonnam-Gwangju Special City population
+        kind: numerical_with_unit
+        value: 3.2 million people
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+        verbatim_excerpt: "encompassing 3.2 million people and 159 trillion won ($104 billion) in GRDP"
+      - claim: Jeonnam-Gwangju Special City GRDP
+        kind: numerical_with_unit
+        value: 159 trillion won ($104 billion)
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+        verbatim_excerpt: "encompassing 3.2 million people and 159 trillion won ($104 billion) in GRDP"
+      - claim: President of South Korea
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+          - https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive
+        verbatim_excerpt: "President Lee Jae Myung visited Gwangju on June 30"
+      - claim: named institution — Samsung Electronics
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+          - https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
+        verbatim_excerpt: "The government, Samsung Electronics, and SK hynix announced plans"
+      - claim: named institution — SK hynix
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+          - https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
+        verbatim_excerpt: "Samsung and SK hynix announced combined plans to invest"
+      - claim: location of semiconductor cluster
+        kind: named_institution
+        value: Honam region
+        source_urls:
+          - https://www.koreaherald.com/article/10793367
+        verbatim_excerpt: "creates a second semiconductor cluster in the Honam region"
+    quotes:
+      - speaker_name: Lee Jae Myung
+        speaker_title: President of South Korea
+        verbatim_en: "historic and national recompense for Honam."
+        source_url: https://www.koreaherald.com/article/10793367
+        context: Visit to Gwangju on June 30 to unveil semiconductor and AI development vision
+
+  - story_id: korea-ukraine-foreign-ministers-north-korean-pows
+    category: politics
+    headline_en: South Korean and Ukrainian Foreign Ministers Discuss North Korean POWs and Bilateral Cooperation
+    lead_url: https://www.koreaherald.com/article/10793249
+    body_source: full
+    corroborated_by:
+      - https://www.upi.com/Top_News/World-News/2026/06/30/korea-Korea-Ukraine-Cho-Hyun-Andrii-Sybiha-foreign-ministers-talks-North-Korea-POWs-Cho-Hyun/3231782801916/
+    locked_urls:
+      - https://www.koreaherald.com/article/10793249
+      - https://www.upi.com/Top_News/World-News/2026/06/30/korea-Korea-Ukraine-Cho-Hyun-Andrii-Sybiha-foreign-ministers-talks-North-Korea-POWs-Cho-Hyun/3231782801916/
+    hard_facts:
+      - claim: date of foreign ministers' talks
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10793249
+          - https://www.upi.com/Top_News/World-News/2026/06/30/korea-Korea-Ukraine-Cho-Hyun-Andrii-Sybiha-foreign-ministers-talks-North-Korea-POWs-Cho-Hyun/3231782801916/
+        verbatim_excerpt: "held talks on June 30, 2026, at the Foreign Ministry in Seoul"
+      - claim: meeting venue
+        kind: named_institution
+        value: Foreign Ministry in Seoul
+        source_urls:
+          - https://www.koreaherald.com/article/10793249
+        verbatim_excerpt: "at the Foreign Ministry in Seoul"
+      - claim: date Russia's invasion of Ukraine
+        kind: temporal
+        value: 2022
+        source_urls:
+          - https://www.koreaherald.com/article/10793249
+        verbatim_excerpt: "the first visit by a Ukrainian foreign minister since Russia's 2022 invasion"
+      - claim: date North Korean soldiers captured by Ukrainian forces
+        kind: temporal
+        value: January 2025
+        source_urls:
+          - https://www.koreaherald.com/article/10793249
+        verbatim_excerpt: "Two North Korean soldiers were captured by Ukrainian forces in Russia's Kursk region in January 2025"
+      - claim: number of North Korean soldiers captured
+        kind: numerical
+        value: Two
+        source_urls:
+          - https://www.koreaherald.com/article/10793249
+        verbatim_excerpt: "Two North Korean soldiers were captured by Ukrainian forces"
+      - claim: location where North Korean soldiers were captured
+        kind: named_institution
+        value: Russia's Kursk region
+        source_urls:
+          - https://www.koreaherald.com/article/10793249
+        verbatim_excerpt: "captured by Ukrainian forces in Russia's Kursk region"
+      - claim: South Korean Foreign Minister
+        kind: named_person
+        value: Cho Hyun
+        source_urls:
+          - https://www.koreaherald.com/article/10793249
+          - https://www.upi.com/Top_News/World-News/2026/06/30/korea-Korea-Ukraine-Cho-Hyun-Andrii-Sybiha-foreign-ministers-talks-North-Korea-POWs-Cho-Hyun/3231782801916/
+        verbatim_excerpt: "South Korean Foreign Minister Cho Hyun and Ukrainian Foreign Minister Andrii Sybiha held talks"
+      - claim: Ukrainian Foreign Minister
+        kind: named_person
+        value: Andrii Sybiha
+        source_urls:
+          - https://www.koreaherald.com/article/10793249
+          - https://www.upi.com/Top_News/World-News/2026/06/30/korea-Korea-Ukraine-Cho-Hyun-Andrii-Sybiha-foreign-ministers-talks-North-Korea-POWs-Cho-Hyun/3231782801916/
+        verbatim_excerpt: "South Korean Foreign Minister Cho Hyun and Ukrainian Foreign Minister Andrii Sybiha held talks"
+    quotes:
+      - speaker_name: Ministry spokesperson
+        speaker_title: Spokesperson, South Korean Foreign Ministry
+        verbatim_en: "The ministers are holding broad discussions on issues of mutual interest and bilateral cooperation."
+        source_url: https://www.koreaherald.com/article/10793249
+        context: June 30, 2026 talks at the Foreign Ministry in Seoul
+
+  - story_id: canada-rules-out-splitting-submarine-contract
+    category: politics
+    headline_en: Canada Rules Out Splitting Submarine Contract Between South Korea's Hanwha and Germany's ThyssenKrupp
+    lead_url: https://www.koreaherald.com/article/10793220
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10793220
+    hard_facts:
+      - claim: Canadian Patrol Submarine Project contract value
+        kind: numerical_with_unit
+        value: roughly 60 trillion won ($39 billion)
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "The Canadian Patrol Submarine Project (CPSP), valued at roughly 60 trillion won ($39 billion)"
+      - claim: number of submarines sought
+        kind: numerical_with_unit
+        value: up to 12
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "seeks up to 12 diesel-electric submarines"
+      - claim: Hanwha projected jobs claim
+        kind: numerical_with_unit
+        value: over 433,000 potential jobs
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "Hanwha claimed over 433,000 potential jobs and CA$96.3 billion GDP"
+      - claim: Hanwha GDP impact claim
+        kind: numerical_with_unit
+        value: CA$96.3 billion GDP
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "Hanwha claimed over 433,000 potential jobs and CA$96.3 billion GDP"
+      - claim: TKMS projected jobs claim
+        kind: numerical_with_unit
+        value: 650,000 jobs
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "TKMS cited 650,000 jobs and CA$160 billion"
+      - claim: TKMS GDP impact claim
+        kind: numerical_with_unit
+        value: CA$160 billion
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "TKMS cited 650,000 jobs and CA$160 billion"
+      - claim: expected announcement deadline
+        kind: temporal
+        value: before the NATO summit in Ankara on July 7
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "PM Mark Carney is expected to announce the decision before the NATO summit in Ankara on July 7"
+      - claim: Canadian Defense Minister
+        kind: named_person
+        value: David McGuinty
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "Canadian Defense Minister David McGuinty dismissed speculation"
+      - claim: Canadian Prime Minister
+        kind: named_person
+        value: Mark Carney
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "PM Mark Carney is expected to announce the decision"
+      - claim: named institution — Hanwha Ocean
+        kind: named_institution
+        value: Hanwha Ocean
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "a Hanwha Ocean-led consortium offering a KSS-III variant"
+      - claim: named institution — Thyssenkrupp Marine Systems
+        kind: named_institution
+        value: Thyssenkrupp Marine Systems (TKMS)
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "Germany's Thyssenkrupp Marine Systems (TKMS) pitching the Type 212CD"
+      - claim: named product — Hanwha submarine variant
+        kind: named_product
+        value: KSS-III
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "a Hanwha Ocean-led consortium offering a KSS-III variant"
+      - claim: named product — TKMS submarine model
+        kind: named_product
+        value: Type 212CD
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "Germany's Thyssenkrupp Marine Systems (TKMS) pitching the Type 212CD"
+      - claim: named product — submarine project name
+        kind: named_product
+        value: Canadian Patrol Submarine Project (CPSP)
+        source_urls:
+          - https://www.koreaherald.com/article/10793220
+        verbatim_excerpt: "The Canadian Patrol Submarine Project (CPSP)"
+    quotes:
+      - speaker_name: David McGuinty
+        speaker_title: Canadian Defense Minister
+        verbatim_en: "If you split a fleet of any kind, you end up in many ways with compounding costs."
+        source_url: https://www.koreaherald.com/article/10793220
+        context: Statement dismissing speculation about dividing the CPSP submarine contract
+
+  - story_id: ppp-chair-jang-dong-hyeok-resists-resignation
+    category: politics
+    headline_en: "South Korea's PPP Chair Jang Dong-hyeok Resists Calls for Resignation After Local Election Defeats"
+    lead_url: https://www.koreaherald.com/article/10793108
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10793108
+    hard_facts:
+      - claim: date of local elections
+        kind: temporal
+        value: June 3
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "after the party's poor June 3 local elections"
+      - claim: metropolitan races won by Democratic Party
+        kind: numerical_with_unit
+        value: 12 of 16 metropolitan races
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "where the Democratic Party won 12 of 16 metropolitan races"
+      - claim: metropolitan races won by PPP
+        kind: numerical
+        value: 4
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "while the PPP held only 4"
+      - claim: signatures on petition for Jang's resignation
+        kind: numerical_with_unit
+        value: over 10,000 signatures
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "Reformists collected over 10,000 signatures on a petition started June 22"
+      - claim: date petition started
+        kind: temporal
+        value: June 22
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "a petition started June 22"
+      - claim: PPP Chair
+        kind: named_person
+        value: Jang Dong-hyeok
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "People Power Party Chair Rep. Jang Dong-hyeok faces resignation demands"
+      - claim: named person — Han Dong-hoon
+        kind: named_person
+        value: Han Dong-hoon
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "reformist lawmakers who supported Han Dong-hoon, who won a by-election in Busan"
+      - claim: named institution — People Power Party
+        kind: named_institution
+        value: People Power Party
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "People Power Party Chair Rep. Jang Dong-hyeok"
+      - claim: named institution — Democratic Party
+        kind: named_institution
+        value: Democratic Party
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "the Democratic Party won 12 of 16 metropolitan races"
+      - claim: location of Han Dong-hoon's by-election
+        kind: named_institution
+        value: Busan
+        source_urls:
+          - https://www.koreaherald.com/article/10793108
+        verbatim_excerpt: "who won a by-election in Busan"
+    quotes:
+      - speaker_name: Jang Dong-hyeok
+        speaker_title: Chair, People Power Party
+        verbatim_en: "not resign no matter what conclusion (our party's) lawmakers reached."
+        source_url: https://www.koreaherald.com/article/10793108
+        context: Statement via Facebook in response to resignation demands
+
+  - story_id: democratic-party-bill-2pct-digital-services-tax
+    category: politics
+    headline_en: "South Korea's Ruling Democratic Party Files Bill to Impose 2% Digital Services Tax on Foreign Big Tech"
+    lead_url: https://www.kedglobal.com/league-table/newsView/ked202606300004
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.kedglobal.com/league-table/newsView/ked202606300004
+    hard_facts:
+      - claim: proposed digital services tax rate
+        kind: numerical_with_unit
+        value: up to 2 percent
+        source_urls:
+          - https://www.kedglobal.com/league-table/newsView/ked202606300004
+        verbatim_excerpt: "to impose a digital services tax of up to 2 percent on domestic revenue"
+      - claim: date legislation introduced
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://www.kedglobal.com/league-table/newsView/ked202606300004
+        verbatim_excerpt: "South Korea's ruling Democratic Party introduced legislation on June 30, 2026"
+      - claim: named institution — ruling party
+        kind: named_institution
+        value: Democratic Party
+        source_urls:
+          - https://www.kedglobal.com/league-table/newsView/ked202606300004
+        verbatim_excerpt: "South Korea's ruling Democratic Party introduced legislation"
+      - claim: named institution — Google
+        kind: named_institution
+        value: Google
+        source_urls:
+          - https://www.kedglobal.com/league-table/newsView/ked202606300004
+        verbatim_excerpt: "large foreign technology firms including Google and Netflix"
+      - claim: named institution — Netflix
+        kind: named_institution
+        value: Netflix
+        source_urls:
+          - https://www.kedglobal.com/league-table/newsView/ked202606300004
+        verbatim_excerpt: "large foreign technology firms including Google and Netflix"
+    quotes: []
+
+  - story_id: lg-electronics-ceo-level-robotics-unit-july-1
+    category: tech
+    headline_en: LG Electronics Establishes CEO-Level Robotics Unit for Physical AI Push, Launching July 1
+    lead_url: https://www.koreaherald.com/article/10793237
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10793237
+    hard_facts:
+      - claim: launch date of Robotics Business Center
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10793237
+        verbatim_excerpt: "established a new Robotics Business Center reporting directly to the CEO, launching July 1, 2026"
+      - claim: head of new Robotics Business Center
+        kind: named_person
+        value: Song Si-yong
+        source_urls:
+          - https://www.koreaherald.com/article/10793237
+        verbatim_excerpt: "Song Si-yong will lead the unit"
+      - claim: named institution — LG Electronics
+        kind: named_institution
+        value: LG Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10793237
+        verbatim_excerpt: "LG Electronics established a new Robotics Business Center"
+      - claim: named institution — Robostar (industrial robots)
+        kind: named_institution
+        value: Robostar
+        source_urls:
+          - https://www.koreaherald.com/article/10793237
+        verbatim_excerpt: "industrial robots via Robostar"
+      - claim: named institution — Bear Robotics (commercial robots)
+        kind: named_institution
+        value: Bear Robotics
+        source_urls:
+          - https://www.koreaherald.com/article/10793237
+        verbatim_excerpt: "commercial robots through Bear Robotics"
+      - claim: location of LG data factory for robot training
+        kind: named_institution
+        value: Yangjae R&D campus
+        source_urls:
+          - https://www.koreaherald.com/article/10793237
+        verbatim_excerpt: "LG intends to build a data factory for robot training at its Yangjae R&D campus"
+    quotes: []
+
+  - story_id: us-class-action-dram-lawsuit-samsung-skhynix-micron
+    category: tech
+    headline_en: U.S. Class-Action DRAM Lawsuit Against Samsung, SK Hynix, and Micron Unlikely to Derail AI Memory Boom
+    lead_url: https://www.koreaherald.com/article/10793202
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10793202
+    hard_facts:
+      - claim: court where lawsuit was filed
+        kind: named_institution
+        value: U.S. District Court for Northern California
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "A proposed class-action lawsuit filed in U.S. District Court for Northern California"
+      - claim: number of plaintiffs in class-action
+        kind: numerical
+        value: 17
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "The 17 plaintiffs allege"
+      - claim: combined DRAM market share of defendants
+        kind: numerical_with_unit
+        value: roughly 90 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "which collectively control roughly 90 percent of the global DRAM market"
+      - claim: DRAM price analyst forecast period
+        kind: temporal
+        value: through 2027
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "Analysts forecast DRAM prices will continue climbing through 2027"
+      - claim: named institution — Samsung Electronics
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "names Samsung Electronics, SK hynix, and Micron Technology"
+      - claim: named institution — SK hynix
+        kind: named_institution
+        value: SK hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "names Samsung Electronics, SK hynix, and Micron Technology"
+      - claim: named institution — Micron Technology
+        kind: named_institution
+        value: Micron Technology
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "names Samsung Electronics, SK hynix, and Micron Technology"
+      - claim: named product — memory types allegedly limited
+        kind: named_product
+        value: DDR3 and DDR4
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "deliberately limited production of conventional memory products such as DDR3 and DDR4"
+      - claim: named product — memory type capacity shifted toward
+        kind: named_product
+        value: high-bandwidth memory
+        source_urls:
+          - https://www.koreaherald.com/article/10793202
+        verbatim_excerpt: "while shifting capacity toward high-bandwidth memory used in AI accelerators"
+    quotes: []
+
+  - story_id: samsung-electro-mechanics-294m-mlcc-deal-ai-servers
+    category: tech
+    headline_en: Samsung Electro-Mechanics Bags $294 Million MLCC Supply Deal with U.S. Big Tech for AI Servers
+    lead_url: https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+    body_source: full
+    corroborated_by:
+      - https://www.kedglobal.com/electronics/newsView/ked202606290003
+    locked_urls:
+      - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+      - https://www.kedglobal.com/electronics/newsView/ked202606290003
+    hard_facts:
+      - claim: MLCC supply contract value
+        kind: numerical_with_unit
+        value: $294 million (454 billion won)
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+          - https://www.kedglobal.com/electronics/newsView/ked202606290003
+        verbatim_excerpt: "Samsung Electro-Mechanics secured a $294 million (454 billion won) contract"
+      - claim: supply deal commencement date
+        kind: temporal
+        value: January 1, 2027
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        verbatim_excerpt: "The one-year supply deal commences January 1, 2027"
+      - claim: supply deal duration
+        kind: temporal
+        value: one-year
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        verbatim_excerpt: "The one-year supply deal commences January 1, 2027"
+      - claim: contract as share of division's 2025 revenue
+        kind: numerical_with_unit
+        value: roughly 9 percent
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        verbatim_excerpt: "representing roughly 9 percent of the division's 2025 revenue of 5.2 trillion won"
+      - claim: division's 2025 revenue
+        kind: numerical_with_unit
+        value: 5.2 trillion won
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        verbatim_excerpt: "the division's 2025 revenue of 5.2 trillion won"
+      - claim: MLCCs required per GPU in AI servers
+        kind: numerical_with_unit
+        value: over 20,000 MLCCs per GPU
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        verbatim_excerpt: "AI servers require over 20,000 MLCCs per GPU"
+      - claim: Samsung Electro-Mechanics global MLCC market share
+        kind: numerical_with_unit
+        value: ~25 percent
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        verbatim_excerpt: "The company controls ~25 percent of the global MLCC market"
+      - claim: Samsung Electro-Mechanics AI server MLCC market share
+        kind: numerical_with_unit
+        value: "more than 40 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        verbatim_excerpt: "leads the AI server segment with \"more than 40 percent\" market share"
+      - claim: Samsung Electro-Mechanics CEO
+        kind: named_person
+        value: Chang Duck-hyun
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        verbatim_excerpt: "CEO Chang Duck-hyun emphasized"
+      - claim: named institution — Samsung Electro-Mechanics
+        kind: named_institution
+        value: Samsung Electro-Mechanics
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+          - https://www.kedglobal.com/electronics/newsView/ked202606290003
+        verbatim_excerpt: "Samsung Electro-Mechanics secured a $294 million (454 billion won) contract"
+      - claim: named product — MLCC
+        kind: named_product
+        value: MLCC
+        source_urls:
+          - https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+          - https://www.kedglobal.com/electronics/newsView/ked202606290003
+        verbatim_excerpt: "Samsung Electro-Mechanics secured a $294 million (454 billion won) contract to supply MLCCs for AI servers"
+    quotes:
+      - speaker_name: Chang Duck-hyun
+        speaker_title: CEO, Samsung Electro-Mechanics
+        verbatim_en: "a key component in the AI era."
+        source_url: https://www.koreatimes.co.kr/amp/business/tech-science/20260630/samsung-electro-mechanics-bags-294-mil-mlcc-supply-deal-with-us-big-tech-firm
+        context: Statement on MLCC supply deal with unnamed U.S. cloud service provider
+
+  - story_id: haenyeo-pohang-protest-harbor-construction-damage
+    category: society
+    headline_en: Haenyeo Female Divers from Pohang Protest, Seeking Compensation for Harbor Construction Damage
+    lead_url: https://www.koreaherald.com/article/10793285
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10793285
+    hard_facts:
+      - claim: number of haenyeo protesters
+        kind: numerical
+        value: Fifty-two
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "Fifty-two haenyeo from Homigot in Pohang protested"
+      - claim: location of protest
+        kind: named_institution
+        value: Ssangyong Engineering & Construction's Seoul headquarters
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "protested outside Ssangyong Engineering & Construction's Seoul headquarters on June 29–30, 2026"
+      - claim: dates of protest
+        kind: temporal
+        value: June 29–30, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "protested outside Ssangyong Engineering & Construction's Seoul headquarters on June 29–30, 2026"
+      - claim: harbor renovation project period
+        kind: temporal
+        value: April 2021–June 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "environmental damage from a harbor renovation project (April 2021–June 2026)"
+      - claim: diver daily yield before construction
+        kind: numerical_with_unit
+        value: ~10 kilograms daily
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "yields dropped from ~10 kilograms daily to barely 2 kilograms"
+      - claim: diver daily yield after construction
+        kind: numerical_with_unit
+        value: barely 2 kilograms
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "yields dropped from ~10 kilograms daily to barely 2 kilograms"
+      - claim: divers' previous monthly earnings
+        kind: numerical_with_unit
+        value: about 1 million won monthly
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "Divers previously earned about 1 million won monthly"
+      - claim: age range of divers
+        kind: numerical_with_unit
+        value: 60s to 80s
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "The divers, aged 60s to 80s"
+      - claim: location of haenyeo community
+        kind: named_institution
+        value: Homigot in Pohang
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "Fifty-two haenyeo from Homigot in Pohang"
+      - claim: named institution — construction company
+        kind: named_institution
+        value: Ssangyong Engineering & Construction
+        source_urls:
+          - https://www.koreaherald.com/article/10793285
+        verbatim_excerpt: "outside Ssangyong Engineering & Construction's Seoul headquarters"
+    quotes:
+      - speaker_name: Diver protester
+        speaker_title: Haenyeo diver, Homigot, Pohang
+        verbatim_en: "We make our living from the sea, and if there is nothing to harvest, there is nothing to earn."
+        source_url: https://www.koreaherald.com/article/10793285
+        context: Protest outside Ssangyong Engineering & Construction's Seoul headquarters, June 29-30, 2026
+
+  - story_id: korean-domestic-tourism-rebounds-2025-spending-up
+    category: society
+    headline_en: Korean Domestic Tourism Rebounds in 2025 as 97% Take Local Trips, Spending Up 7.3%
+    lead_url: https://www.koreaherald.com/article/10792918
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10792918
+    hard_facts:
+      - claim: share of Koreans taking domestic trip in 2025
+        kind: numerical_with_unit
+        value: 97 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "97 percent of Koreans took at least one domestic trip in 2025"
+      - claim: year-over-year change in domestic trip participation rate
+        kind: numerical_with_unit
+        value: up 1.6 points
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "97 percent of Koreans took at least one domestic trip in 2025, up 1.6 points"
+      - claim: total domestic trips taken in 2025
+        kind: numerical_with_unit
+        value: 300.9 million domestic trips
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "Koreans made 300.9 million domestic trips spanning 472.5 million days"
+      - claim: total domestic trip days in 2025
+        kind: numerical_with_unit
+        value: 472.5 million days
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "300.9 million domestic trips spanning 472.5 million days"
+      - claim: total domestic tourism spending in 2025
+        kind: numerical_with_unit
+        value: 39.5 trillion won ($25.5 billion)
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "spent 39.5 trillion won ($25.5 billion)"
+      - claim: year-over-year increase in domestic trips
+        kind: numerical_with_unit
+        value: 3.1 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "up 3.1, 5.4, and 7.3 percent respectively"
+      - claim: year-over-year increase in domestic trip days
+        kind: numerical_with_unit
+        value: 5.4 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "up 3.1, 5.4, and 7.3 percent respectively"
+      - claim: year-over-year increase in domestic tourism spending
+        kind: numerical_with_unit
+        value: 7.3 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "up 3.1, 5.4, and 7.3 percent respectively"
+      - claim: per-person average domestic trips in 2025
+        kind: numerical_with_unit
+        value: 6.5 trips
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "Per-person average was 6.5 trips and 10.2 days at 852,000 won"
+      - claim: per-person average domestic trip days in 2025
+        kind: numerical_with_unit
+        value: 10.2 days
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "Per-person average was 6.5 trips and 10.2 days at 852,000 won"
+      - claim: per-person average domestic tourism spending in 2025
+        kind: numerical_with_unit
+        value: 852,000 won
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "Per-person average was 6.5 trips and 10.2 days at 852,000 won"
+      - claim: share of domestic trips including overnight stay
+        kind: numerical_with_unit
+        value: 41.3 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "The share including an overnight stay rose to 41.3 percent from 40 percent"
+      - claim: prior year share of domestic trips including overnight stay
+        kind: numerical_with_unit
+        value: 40 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "The share including an overnight stay rose to 41.3 percent from 40 percent"
+      - claim: share of Koreans who traveled abroad
+        kind: numerical_with_unit
+        value: 21.5 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "Only 21.5 percent traveled abroad"
+      - claim: outbound tourism spending in 2025
+        kind: numerical_with_unit
+        value: 36.1 trillion won
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "yet spent 36.1 trillion won"
+      - claim: report publication date
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "The Ministry of Culture, Sports and Tourism's 2025 National Travel Survey published June 30, 2026"
+      - claim: reporting institution
+        kind: named_institution
+        value: Ministry of Culture, Sports and Tourism
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "The Ministry of Culture, Sports and Tourism's 2025 National Travel Survey"
+      - claim: named product — survey name
+        kind: named_product
+        value: 2025 National Travel Survey
+        source_urls:
+          - https://www.koreaherald.com/article/10792918
+        verbatim_excerpt: "The Ministry of Culture, Sports and Tourism's 2025 National Travel Survey"
+    quotes: []
+
+  - story_id: samsung-union-chair-choi-survives-confidence-vote
+    category: society
+    headline_en: Samsung Electronics Union Chief Survives Confidence Vote After Member Backlash Over Wage Deal
+    lead_url: https://www.koreaherald.com/article/10792932
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10792932
+    hard_facts:
+      - claim: confidence vote period
+        kind: temporal
+        value: June 24–30, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "retained his position through a confidence vote held June 24–30, 2026"
+      - claim: votes in favor of union chair
+        kind: numerical_with_unit
+        value: 33,550 votes in favor (87.5 percent)
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "with 33,550 votes in favor (87.5 percent)"
+      - claim: number of members who voted
+        kind: numerical
+        value: 38,336
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "The vote involved 38,336 of 54,165 members"
+      - claim: total union membership at time of vote
+        kind: numerical
+        value: 54,165
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "The vote involved 38,336 of 54,165 members"
+      - claim: voter turnout
+        kind: numerical_with_unit
+        value: 70.8 percent
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "a 70.8 percent turnout"
+      - claim: tentative wage increase agreed in May
+        kind: temporal
+        value: May
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "a May tentative wage agreement (6.2 percent average pay increase)"
+      - claim: average pay increase in tentative agreement
+        kind: numerical_with_unit
+        value: 6.2 percent average pay increase
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "a May tentative wage agreement (6.2 percent average pay increase)"
+      - claim: bonus range for memory chip employees
+        kind: numerical_with_unit
+        value: 210–600 million won
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "memory chip employees could receive 210–600 million won"
+      - claim: shares anticipated by DX division workers
+        kind: numerical_with_unit
+        value: about 6 million won in shares
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "DX division workers anticipated only about 6 million won in shares"
+      - claim: prior union membership
+        kind: numerical
+        value: 76,000
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "Membership declined from 76,000 to 55,200"
+      - claim: current union membership (decline)
+        kind: numerical
+        value: 55,200
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "Membership declined from 76,000 to 55,200"
+      - claim: Samsung Electronics Labor Union Chair
+        kind: named_person
+        value: Choi Seung-ho
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "Samsung Electronics Labor Union Chair Choi Seung-ho retained his position"
+      - claim: named institution — Samsung Electronics Labor Union
+        kind: named_institution
+        value: Samsung Electronics Labor Union
+        source_urls:
+          - https://www.koreaherald.com/article/10792932
+        verbatim_excerpt: "Samsung Electronics Labor Union Chair Choi Seung-ho"
+    quotes: []
+
+  - story_id: hanwha-life-wins-preferred-bidder-acuon-capital
+    category: ipo_ma
+    headline_en: Hanwha Life Insurance Wins Preferred Bidder Status for Acuon Capital in Near $700 Million Deal
+    lead_url: https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+    hard_facts:
+      - claim: transaction value
+        kind: numerical_with_unit
+        value: near $700 million (~1 trillion won)
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "in a transaction valued near $700 million (~1 trillion won)"
+      - claim: deal context — largest financial sector acquisition in H1 2026
+        kind: temporal
+        value: H1 2026
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "the largest financial sector acquisition in H1 2026"
+      - claim: EQT Partners stake in Acuon Capital being sold
+        kind: numerical_with_unit
+        value: 96.06 percent stake
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "EQT Partners, the largest shareholder of Acuon Capital, selected Hanwha Life as preferred bidder for the sale of its 96.06 percent stake"
+      - claim: Acuon Capital ownership of Acuon Savings Bank
+        kind: numerical_with_unit
+        value: 100 percent
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "Acuon Capital owns 100 percent of Acuon Savings Bank"
+      - claim: named institution — Hanwha Life Insurance
+        kind: named_institution
+        value: Hanwha Life Insurance
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "Hanwha Life Insurance emerged as the preferred bidder for Acuon Capital"
+      - claim: named institution — Meritz Securities (runner-up)
+        kind: named_institution
+        value: Meritz Securities
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "surpassing Meritz Securities"
+      - claim: named institution — EQT Partners (seller)
+        kind: named_institution
+        value: EQT Partners
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "EQT Partners, the largest shareholder of Acuon Capital"
+      - claim: named institution — Acuon Capital
+        kind: named_institution
+        value: Acuon Capital
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "Hanwha Life Insurance emerged as the preferred bidder for Acuon Capital"
+      - claim: named institution — Acuon Savings Bank
+        kind: named_institution
+        value: Acuon Savings Bank
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "Acuon Capital owns 100 percent of Acuon Savings Bank"
+      - claim: named institution — Hanwha Group
+        kind: named_institution
+        value: Hanwha Group
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "The acquisition provides Hanwha Group its inaugural captive finance operation"
+      - claim: named institution — KakaoBank (prior interested party)
+        kind: named_institution
+        value: KakaoBank
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "KakaoBank and Suhyup had previously expressed interest"
+      - claim: named institution — Suhyup (prior interested party)
+        kind: named_institution
+        value: Suhyup
+        source_urls:
+          - https://www.kedglobal.com/mergers-acquisitions/newsView/ked202606300002
+        verbatim_excerpt: "KakaoBank and Suhyup had previously expressed interest"
+    quotes: []
+
+  - story_id: son-heung-min-apology-world-cup-exit
+    category: other
+    headline_en: "Son Heung-min Apologizes to South Korean Fans After National Team's Group-Stage World Cup Exit"
+    lead_url: https://www.koreaherald.com/article/10792302
+    body_source: full
+    corroborated_by:
+      - https://www.koreajoongangdaily.com/sports/son-heungmin-apologizes-to-fans-after-koreas-world-cup-exit/12746995
+      - https://www.aljazeera.com/news/2026/6/29/south-korean-president-ex-players-fans-demand-change-after-world-cup-exit
+    locked_urls:
+      - https://www.koreaherald.com/article/10792302
+      - https://www.koreajoongangdaily.com/sports/son-heungmin-apologizes-to-fans-after-koreas-world-cup-exit/12746995
+      - https://www.aljazeera.com/news/2026/6/29/south-korean-president-ex-players-fans-demand-change-after-world-cup-exit
+    hard_facts:
+      - claim: date of Son Heung-min's public apology
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+          - https://www.koreajoongangdaily.com/sports/son-heungmin-apologizes-to-fans-after-koreas-world-cup-exit/12746995
+        verbatim_excerpt: "Son Heung-min issued a public apology via Instagram on June 30, 2026"
+      - claim: South Korea World Cup group placement
+        kind: numerical_with_unit
+        value: third in Group A
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "South Korea finished third in Group A"
+      - claim: South Korea win vs Czech Republic score
+        kind: numerical_with_unit
+        value: 2-1 vs Czech Republic
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "one win (2-1 vs Czech Republic)"
+      - claim: South Korea loss vs Mexico score
+        kind: numerical_with_unit
+        value: 0-1 vs Mexico
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "two losses (0-1 vs Mexico, 0-1 vs South Africa)"
+      - claim: South Korea loss vs South Africa score
+        kind: numerical_with_unit
+        value: 0-1 vs South Africa
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "two losses (0-1 vs Mexico, 0-1 vs South Africa)"
+      - claim: Son Heung-min's age
+        kind: numerical_with_unit
+        value: 33-year-old
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "The 33-year-old LAFC forward"
+      - claim: Son Heung-min's club team
+        kind: named_institution
+        value: LAFC
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "The 33-year-old LAFC forward"
+      - claim: Son Heung-min goals in World Cup 2026
+        kind: numerical
+        value: no goals or assists across three matches
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "The 33-year-old LAFC forward recorded no goals or assists across three matches"
+      - claim: South Korea head coach who resigned
+        kind: named_person
+        value: Hong Myung-bo
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+          - https://www.aljazeera.com/news/2026/6/29/south-korean-president-ex-players-fans-demand-change-after-world-cup-exit
+        verbatim_excerpt: "Head coach Hong Myung-bo resigned the day before"
+      - claim: South Korean national football captain
+        kind: named_person
+        value: Son Heung-min
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+          - https://www.koreajoongangdaily.com/sports/son-heungmin-apologizes-to-fans-after-koreas-world-cup-exit/12746995
+        verbatim_excerpt: "South Korea's national football team captain Son Heung-min issued a public apology"
+      - claim: president who called for formal investigation
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+          - https://www.aljazeera.com/news/2026/6/29/south-korean-president-ex-players-fans-demand-change-after-world-cup-exit
+        verbatim_excerpt: "President Lee Jae Myung called for a formal investigation"
+      - claim: named institution — Korea Football Association (subject of audit)
+        kind: named_institution
+        value: Korea Football Association
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "the Ministry of Culture, Sports and Tourism announced a special audit of the Korea Football Association"
+      - claim: named institution — Ministry of Culture, Sports and Tourism
+        kind: named_institution
+        value: Ministry of Culture, Sports and Tourism
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+        verbatim_excerpt: "the Ministry of Culture, Sports and Tourism announced a special audit"
+      - claim: named product — FIFA World Cup 2026
+        kind: named_product
+        value: FIFA World Cup 2026
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+          - https://www.koreajoongangdaily.com/sports/son-heungmin-apologizes-to-fans-after-koreas-world-cup-exit/12746995
+        verbatim_excerpt: "the team's group-stage elimination from the FIFA World Cup 2026"
+      - claim: platform of apology
+        kind: named_product
+        value: Instagram
+        source_urls:
+          - https://www.koreaherald.com/article/10792302
+          - https://www.koreajoongangdaily.com/sports/son-heungmin-apologizes-to-fans-after-koreas-world-cup-exit/12746995
+        verbatim_excerpt: "Son Heung-min issued a public apology via Instagram on June 30, 2026"
+    quotes:
+      - speaker_name: Son Heung-min
+        speaker_title: Captain, South Korea national football team; Forward, LAFC
+        verbatim_en: "I can't pretend I don't know what happened, nor do I want to escape reality."
+        source_url: https://www.koreaherald.com/article/10792302
+        context: Public apology via Instagram on June 30, 2026 following group-stage World Cup elimination

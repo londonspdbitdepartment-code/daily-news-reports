@@ -1,0 +1,1187 @@
+version: 1
+generated_at: "2026-06-30T12:00:00Z"
+country: Japan
+date: 2026-06-30
+total_stories: 13
+stories:
+  - story_id: japan-gdp-target-3pct-2040-blueprint
+    category: econ
+    headline_en: "Japan Government Targets Nominal GDP Growth Above 3 Percent in Long-Term Economic Blueprint to 2040"
+    lead_url: "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+    body_source: full
+    corroborated_by:
+      - "https://www.investing.com/news/economy-news/japan-targets-more-than-doubling-real-growth-to-over-1-in-economic-blueprint-4764200"
+    locked_urls:
+      - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+      - "https://www.investing.com/news/economy-news/japan-targets-more-than-doubling-real-growth-to-over-1-in-economic-blueprint-4764200"
+    hard_facts:
+      - claim: "Date draft outline unveiled"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        verbatim_excerpt: "The Japanese government on June 30, 2026 unveiled a draft outline"
+      - claim: "Nominal GDP growth target"
+        kind: numerical_with_unit
+        value: "more than 3 percent"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+          - "https://www.investing.com/news/economy-news/japan-targets-more-than-doubling-real-growth-to-over-1-in-economic-blueprint-4764200"
+        verbatim_excerpt: "formally targeting nominal GDP growth of more than 3 percent"
+      - claim: "Real GDP growth target"
+        kind: numerical_with_unit
+        value: "more than 1 percent"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+          - "https://www.investing.com/news/economy-news/japan-targets-more-than-doubling-real-growth-to-over-1-in-economic-blueprint-4764200"
+        verbatim_excerpt: "real GDP growth of more than 1 percent sustained consistently from fiscal 2027 through fiscal 2040"
+      - claim: "Strategy target period start"
+        kind: temporal
+        value: "fiscal 2027"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        verbatim_excerpt: "sustained consistently from fiscal 2027 through fiscal 2040"
+      - claim: "Strategy target period end"
+        kind: temporal
+        value: "fiscal 2040"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        verbatim_excerpt: "from fiscal 2027 through fiscal 2040"
+      - claim: "Target nominal GDP level"
+        kind: numerical_with_unit
+        value: "1.1 quadrillion yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        verbatim_excerpt: "The target nominal GDP level is 1.1 quadrillion yen — more than double Japan's current nominal output"
+      - claim: "Combined public and private investment projected"
+        kind: numerical_with_unit
+        value: "370 trillion yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        verbatim_excerpt: "Combined public and private investment is projected to exceed 370 trillion yen across 17 strategic fields"
+      - claim: "Number of strategic investment fields"
+        kind: numerical
+        value: "17"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        verbatim_excerpt: "370 trillion yen across 17 strategic fields"
+      - claim: "Prime Minister name"
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        verbatim_excerpt: "Prime Minister Sanae Takaichi stated"
+      - claim: "Replaced policy framework"
+        kind: named_product
+        value: "Honebuto"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        verbatim_excerpt: "The strategy replaces the previous \"Honebuto\" basic policy framework"
+    quotes:
+      - speaker_name: "Sanae Takaichi"
+        speaker_title: "Prime Minister of Japan"
+        verbatim_en: "The Japanese government will aim to consistently achieve economic growth of more than 3 pct in nominal gross domestic product and more than 1 pct in real GDP at an early date."
+        source_url: "https://www.nippon.com/en/news/yjj2026063000278/japan-to-target-stable-nominal-gdp-growth-of-over-3-pct.html"
+        context: "Takaichi's statement on the draft economic blueprint unveiled June 30, 2026"
+
+  - story_id: boj-output-gap-consumption-index-revisions
+    category: econ
+    headline_en: "Bank of Japan Revises Output Gap and Consumption Index Methodologies in Dual Research Release"
+    lead_url: "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630a.htm"
+    body_source: full
+    corroborated_by:
+      - "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630b.htm"
+    locked_urls:
+      - "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630a.htm"
+      - "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630b.htm"
+    hard_facts:
+      - claim: "Date of dual research paper release"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630a.htm"
+        verbatim_excerpt: "The Bank of Japan's Research and Statistics Department simultaneously released two research papers on June 30, 2026"
+      - claim: "BOJ releasing institution"
+        kind: named_institution
+        value: "Bank of Japan"
+        source_urls:
+          - "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630a.htm"
+        verbatim_excerpt: "The Bank of Japan's Research and Statistics Department"
+      - claim: "GDP base revision year used"
+        kind: temporal
+        value: "2020"
+        source_urls:
+          - "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630a.htm"
+        verbatim_excerpt: "Japan's 2020 GDP base revision"
+      - claim: "Second paper subject"
+        kind: named_product
+        value: "Consumption Activity Index"
+        source_urls:
+          - "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630b.htm"
+        verbatim_excerpt: "Revision of the Consumption Activity Index Following the 2020 Base Revision of GDP Statistics"
+      - claim: "Statistics release also published same date"
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630a.htm"
+        verbatim_excerpt: "The Bank of Japan also released May 2026 Payment and Settlement Statistics"
+    quotes:
+      - speaker_name: "Bank of Japan Research and Statistics Department"
+        speaker_title: "Research and Statistics Department, Bank of Japan"
+        verbatim_en: "developments in labor input and labor market tightness appear to exert an increasingly significant influence on economic activity in labor-intensive sectors and price trends amid intensifying labor supply constraints."
+        source_url: "https://www.boj.or.jp/en/research/brp/ron_2026/ron260630a.htm"
+        context: "Paper finding on labor market influence on economic activity amid structural change"
+
+  - story_id: mof-2yr-jgb-auction-q3-inflation-bond
+    category: econ
+    headline_en: "Japan Ministry of Finance Holds 2-Year JGB Auction and Sets Q3 Inflation-Indexed Bond Schedule"
+    lead_url: "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+    body_source: full
+    corroborated_by:
+      - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+      - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-02e.htm"
+    locked_urls:
+      - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+      - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+      - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-02e.htm"
+    hard_facts:
+      - claim: "JGB auction date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "The Japanese Ministry of Finance conducted a 2-year Japanese Government Bond (JGB) auction on June 30, 2026"
+      - claim: "Issuing institution"
+        kind: named_institution
+        value: "Japanese Ministry of Finance"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "The Japanese Ministry of Finance conducted a 2-year Japanese Government Bond (JGB) auction"
+      - claim: "JGB issue number"
+        kind: numerical
+        value: "486"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "Issue number 486"
+      - claim: "JGB issue date"
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "with issue date July 1, 2026"
+      - claim: "JGB maturity date"
+        kind: temporal
+        value: "July 1, 2028"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "maturity July 1, 2028"
+      - claim: "Nominal coupon rate"
+        kind: numerical_with_unit
+        value: "1.4 percent"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "carried a nominal coupon of 1.4 percent"
+      - claim: "Yield at lowest accepted price"
+        kind: numerical_with_unit
+        value: "1.410 percent"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "The yield at the lowest accepted price was 1.410 percent"
+      - claim: "Weighted average accepted yield"
+        kind: numerical_with_unit
+        value: "1.407 percent"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "the weighted average accepted yield was 1.407 percent"
+      - claim: "Total competitive bids"
+        kind: numerical_with_unit
+        value: "10,374.4 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "Competitive bids totaled 10,374.4 billion yen"
+      - claim: "Accepted competitive amount"
+        kind: numerical_with_unit
+        value: "2,153.4 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "against an accepted competitive amount of 2,153.4 billion yen"
+      - claim: "Bid-to-cover ratio"
+        kind: numerical_with_unit
+        value: "approximately 4.82x"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "implying a bid-to-cover ratio of approximately 4.82x"
+      - claim: "Market special participants additional allocation"
+        kind: numerical_with_unit
+        value: "646.2 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "Market special participants received an additional 646.2 billion yen"
+      - claim: "Lowest accepted price"
+        kind: numerical_with_unit
+        value: "99.980 per 100 yen par value"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "The lowest accepted price was 99.980 per 100 yen par value"
+      - claim: "Weighted average accepted price"
+        kind: numerical_with_unit
+        value: "99.985"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20260630.htm"
+        verbatim_excerpt: "the weighted average accepted price was 99.985"
+      - claim: "Q3 inflation-indexed bond primary issuance month"
+        kind: temporal
+        value: "August 2026"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+        verbatim_excerpt: "scheduling a primary issuance of approximately 250 billion yen in August 2026"
+      - claim: "Q3 inflation-indexed bond primary issuance amount"
+        kind: numerical_with_unit
+        value: "approximately 250 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+        verbatim_excerpt: "scheduling a primary issuance of approximately 250 billion yen in August 2026"
+      - claim: "July buy-back amount"
+        kind: numerical_with_unit
+        value: "approximately 15 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+        verbatim_excerpt: "Buy-back operations are planned for approximately 15 billion yen in July"
+      - claim: "September buy-back amount"
+        kind: numerical_with_unit
+        value: "15 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+        verbatim_excerpt: "15 billion yen in September"
+      - claim: "Total Q3 buy-back amount"
+        kind: numerical_with_unit
+        value: "approximately 30 billion yen"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+        verbatim_excerpt: "totaling approximately 30 billion yen for the quarter"
+      - claim: "Eligible buy-back issue numbers"
+        kind: numerical
+        value: "22 through 30"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+        verbatim_excerpt: "Eligible issues for buy-backs are limited to those numbered 22 through 30"
+      - claim: "JGB Market Special Participants meeting number"
+        kind: numerical
+        value: "119th"
+        source_urls:
+          - "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-02e.htm"
+        verbatim_excerpt: "key points of the 119th meeting of JGB Market Special Participants"
+    quotes:
+      - speaker_name: "Japanese Ministry of Finance"
+        speaker_title: "Ministry of Finance, Japan"
+        verbatim_en: "The plan could be changed owing to market conditions and others."
+        source_url: "https://www.mof.go.jp/english/policy/jgbs/topics/press_release/20260630-01e.htm"
+        context: "Ministry caveat on Q3 inflation-indexed bond issuance plan"
+
+  - story_id: yen-breaks-162-per-dollar-1986-low
+    category: econ
+    headline_en: "Japanese Yen Breaks 162 Per Dollar for First Time Since 1986, Finance Minister Issues Warning"
+    lead_url: "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+    body_source: full
+    corroborated_by:
+      - "https://www.japantimes.co.jp/business/2026/06/30/markets/yen-breakout-162/"
+      - "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan"
+    locked_urls:
+      - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+      - "https://www.japantimes.co.jp/business/2026/06/30/markets/yen-breakout-162/"
+      - "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan"
+    hard_facts:
+      - claim: "Yen threshold breached"
+        kind: numerical_with_unit
+        value: "162 per dollar"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+          - "https://www.japantimes.co.jp/business/2026/06/30/markets/yen-breakout-162/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan"
+        verbatim_excerpt: "The Japanese yen broke through the 162 per dollar threshold during Tokyo trading on June 30, 2026"
+      - claim: "Date of yen breach"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "during Tokyo trading on June 30, 2026"
+      - claim: "Intraday low yen rate"
+        kind: numerical_with_unit
+        value: "162.36"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "reaching as low as 162.36"
+      - claim: "Last time yen was this weak"
+        kind: temporal
+        value: "December 1986"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "the weakest level since December 1986, nearly four decades ago"
+      - claim: "Prior session New York piercing level"
+        kind: numerical_with_unit
+        value: "161.97"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "The currency had initially pierced 161.97 in New York trading on the previous session"
+      - claim: "Highest rate recorded on June 30"
+        kind: numerical_with_unit
+        value: "162.1950 yen per dollar"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "The highest rate recorded on June 30 was 162.1950 yen per dollar"
+      - claim: "Finance Minister name"
+        kind: named_person
+        value: "Satsuki Katayama"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "Japan's Finance Minister Satsuki Katayama addressed the currency weakness"
+      - claim: "Japan policy rate"
+        kind: numerical_with_unit
+        value: "1.0 percent"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "Japan's policy rate currently stands at 1.0 percent — the highest since 1995"
+      - claim: "Last time Japan policy rate was this high"
+        kind: temporal
+        value: "1995"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "the highest since 1995 following the Bank of Japan's June 16 rate hike"
+      - claim: "BOJ rate hike date"
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "the Bank of Japan's June 16 rate hike"
+      - claim: "US federal funds rate range"
+        kind: numerical_with_unit
+        value: "3.50 to 3.75 percent"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "the U.S. federal funds rate range of 3.50 to 3.75 percent"
+      - claim: "Institution Bank of Japan"
+        kind: named_institution
+        value: "Bank of Japan"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "following the Bank of Japan's June 16 rate hike"
+      - claim: "Institution citing 162 as intervention line"
+        kind: named_institution
+        value: "ING"
+        source_urls:
+          - "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        verbatim_excerpt: "Analysts at ING described 162 as a \"new intervention line\" for the yen"
+    quotes:
+      - speaker_name: "Satsuki Katayama"
+        speaker_title: "Finance Minister of Japan"
+        verbatim_en: "It all comes down to being ready to respond appropriately to currency moves at any time."
+        source_url: "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
+        context: "Katayama's remarks to reporters on June 30, 2026 following yen breach of 162"
+
+  - story_id: japan-may-factory-output-rises-0pt5pct
+    category: econ
+    headline_en: "Japan May Factory Output Rises 0.5% Month-on-Month, Below Forecast as Middle East Uncertainty Weighs"
+    lead_url: "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+    body_source: full
+    corroborated_by:
+      - "https://www.meti.go.jp/english/statistics/tyo/iip/index.html"
+      - "https://www.bloomberg.com/news/articles/2026-06-29/japan-s-factory-output-rises-as-iran-fallout-remains-manageable"
+    locked_urls:
+      - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+      - "https://www.meti.go.jp/english/statistics/tyo/iip/index.html"
+      - "https://www.bloomberg.com/news/articles/2026-06-29/japan-s-factory-output-rises-as-iran-fallout-remains-manageable"
+    hard_facts:
+      - claim: "Data release date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "Japan's Ministry of Economy, Trade and Industry released May 2026 industrial production data on June 30, 2026"
+      - claim: "Reporting institution"
+        kind: named_institution
+        value: "Ministry of Economy, Trade and Industry"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+          - "https://www.meti.go.jp/english/statistics/tyo/iip/index.html"
+        verbatim_excerpt: "Japan's Ministry of Economy, Trade and Industry released May 2026 industrial production data"
+      - claim: "May factory output month-on-month change"
+        kind: numerical_with_unit
+        value: "0.5 percent month-on-month"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+          - "https://www.meti.go.jp/english/statistics/tyo/iip/index.html"
+        verbatim_excerpt: "factory output rose 0.5 percent month-on-month"
+      - claim: "Economists median forecast for May output"
+        kind: numerical_with_unit
+        value: "1.1 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "falling short of economists' median forecast of 1.1 percent"
+      - claim: "May year-on-year production change"
+        kind: numerical_with_unit
+        value: "1.7 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "On a year-on-year basis, production fell 1.7 percent"
+      - claim: "April year-on-year gain reversed"
+        kind: numerical_with_unit
+        value: "2.0 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "reversing a 2.0 percent gain in April"
+      - claim: "Transport equipment ex-motor vehicles MoM change"
+        kind: numerical_with_unit
+        value: "4.6 percent month-on-month"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "transport equipment excluding motor vehicles rose 4.6 percent month-on-month"
+      - claim: "Inorganic and organic chemicals MoM change"
+        kind: numerical_with_unit
+        value: "3.7 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "inorganic and organic chemicals rose 3.7 percent"
+      - claim: "Petroleum and coal products MoM change"
+        kind: numerical_with_unit
+        value: "9.1 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "petroleum and coal products surged 9.1 percent"
+      - claim: "General-purpose and business-oriented machinery MoM change"
+        kind: numerical_with_unit
+        value: "6.2 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "general-purpose and business-oriented machinery fell 6.2 percent"
+      - claim: "Electrical machinery and ICE equipment MoM change"
+        kind: numerical_with_unit
+        value: "5.1 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "electrical machinery and information and communication electronics equipment declined 5.1 percent"
+      - claim: "Production machinery MoM change"
+        kind: numerical_with_unit
+        value: "3.6 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "production machinery dropped 3.6 percent"
+      - claim: "Manufacturers' June 2026 output forecast"
+        kind: numerical_with_unit
+        value: "3.7 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "Manufacturers surveyed by METI expect seasonally adjusted output to rise 3.7 percent in June 2026"
+      - claim: "BOJ current policy rate"
+        kind: numerical_with_unit
+        value: "1.0 percent"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "the current 1.0 percent policy rate established at the June 16 Monetary Policy Meeting"
+      - claim: "BOJ policy rate establishment date"
+        kind: temporal
+        value: "June 16"
+        source_urls:
+          - "https://www.businesstoday.com.my/2026/06/30/japan-factory-output-grows-slower-than-expected-in-may/"
+        verbatim_excerpt: "the current 1.0 percent policy rate established at the June 16 Monetary Policy Meeting"
+    quotes: []
+
+  - story_id: japan-arctic-policy-revision-since-2015
+    category: politics
+    headline_en: "Japan to Conduct First Arctic Policy Revision Since 2015, Citing China and Russia Intensification"
+    lead_url: "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+    hard_facts:
+      - claim: "Announcement date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        verbatim_excerpt: "Prime Minister Sanae Takaichi on June 30, 2026 announced that Japan will revise its Arctic policy"
+      - claim: "Prime Minister name"
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        verbatim_excerpt: "Prime Minister Sanae Takaichi on June 30, 2026 announced"
+      - claim: "Arctic policy revision fiscal year"
+        kind: temporal
+        value: "fiscal 2027"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        verbatim_excerpt: "Japan will revise its Arctic policy in fiscal 2027, beginning next April"
+      - claim: "Year of original Arctic policy formulation"
+        kind: temporal
+        value: "2015"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        verbatim_excerpt: "the first such revision since the policy was originally formulated in 2015"
+      - claim: "Minister instructed for Arctic policy"
+        kind: named_person
+        value: "Jiro Akama"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        verbatim_excerpt: "Takaichi instructed Minister of State for Ocean Policy Jiro Akama to take charge"
+      - claim: "Arctic research ship name"
+        kind: named_product
+        value: "Mirai II"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        verbatim_excerpt: "the Japan Agency for Marine-Earth Science and Technology's (JAMSTEC's) Arctic research ship Mirai II"
+      - claim: "Research ship expected service entry"
+        kind: temporal
+        value: "March 2027"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        verbatim_excerpt: "the vessel is expected to enter service by March 2027"
+      - claim: "Institution operating research ship"
+        kind: named_institution
+        value: "Japan Agency for Marine-Earth Science and Technology"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        verbatim_excerpt: "the Japan Agency for Marine-Earth Science and Technology's (JAMSTEC's) Arctic research ship Mirai II"
+    quotes:
+      - speaker_name: "Sanae Takaichi"
+        speaker_title: "Prime Minister of Japan"
+        verbatim_en: "The significance (of the Arctic) is increasing in light of rising geopolitical concern, and potential resources and waterways."
+        source_url: "https://www.japantimes.co.jp/news/2026/06/30/japan/politics/japan-arctic-policy-revise/"
+        context: "Takaichi's statement announcing the Arctic policy revision on June 30, 2026"
+
+  - story_id: japan-lawmakers-avg-income-record-30m-yen
+    category: politics
+    headline_en: "Japanese Lawmakers' Average Income Reaches Record 30.03 Million Yen in 2025 Disclosure"
+    lead_url: "https://www.nippon.com/en/news/yjj2026063000422/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.nippon.com/en/news/yjj2026063000422/"
+    hard_facts:
+      - claim: "Disclosure release date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Japan's National Diet released statutory income disclosures for fiscal year 2025 on June 30, 2026"
+      - claim: "Disclosure institution"
+        kind: named_institution
+        value: "Japan's National Diet"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Japan's National Diet released statutory income disclosures"
+      - claim: "Average lawmaker income increase"
+        kind: numerical_with_unit
+        value: "4.9 million yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "the average income of Japanese lawmakers rose by 4.9 million yen from the previous year"
+      - claim: "Average lawmaker income"
+        kind: numerical_with_unit
+        value: "30.03 million yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "to 30.03 million yen — the highest level recorded under the annual disclosure requirement"
+      - claim: "Number of legislators reporting over 1 billion yen"
+        kind: numerical
+        value: "Two"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Two legislators reported income exceeding 1 billion yen"
+      - claim: "Top income legislator name"
+        kind: named_person
+        value: "Kenji Nakanishi"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Kenji Nakanishi (LDP), who disclosed 1,140.15 million yen in total income"
+      - claim: "Nakanishi total income"
+        kind: numerical_with_unit
+        value: "1,140.15 million yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Kenji Nakanishi (LDP), who disclosed 1,140.15 million yen in total income"
+      - claim: "Nakanishi stock-derived income share"
+        kind: numerical_with_unit
+        value: "approximately 90 percent"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "approximately 90 percent derived from stock sales gains and dividends"
+      - claim: "Second over-1-billion legislator name"
+        kind: named_person
+        value: "Norihisa Tamura"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Norihisa Tamura (LDP), who also surpassed 1 billion yen"
+      - claim: "Total lawmakers reporting above 100 million yen"
+        kind: numerical
+        value: "Seven"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Seven lawmakers in total reported income above 100 million yen"
+      - claim: "LDP members among top earners"
+        kind: numerical
+        value: "six"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "six from the ruling LDP"
+      - claim: "Opposition high earner name"
+        kind: named_person
+        value: "Yoshihiro Suzuki"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Yoshihiro Suzuki of the opposition Democratic Party for the People (DPFP)"
+      - claim: "Suzuki declared income"
+        kind: numerical_with_unit
+        value: "110.02 million yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Yoshihiro Suzuki of the opposition Democratic Party for the People (DPFP), who declared 110.02 million yen"
+      - claim: "LDP average income"
+        kind: numerical_with_unit
+        value: "35.12 million yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "LDP members averaged 35.12 million yen"
+      - claim: "Democratic Party for the People average income"
+        kind: numerical_with_unit
+        value: "24.38 million yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Democratic Party for the People averaged 24.38 million yen"
+      - claim: "Japan Innovation Party average income"
+        kind: numerical_with_unit
+        value: "23.52 million yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "Japan Innovation Party averaged 23.52 million yen"
+      - claim: "Social Democratic Party average income"
+        kind: numerical_with_unit
+        value: "22.66 million yen"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "the Social Democratic Party averaged 22.66 million yen"
+      - claim: "LDP lower house seats won February 2026"
+        kind: numerical
+        value: "316"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "the party's commanding victory in February 2026, when it secured 316 lower house seats"
+      - claim: "LDP + coalition majority description"
+        kind: numerical_with_unit
+        value: "three-quarters majority"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "holds a three-quarters majority"
+      - claim: "LDP coalition partner"
+        kind: named_institution
+        value: "Japan Innovation Party"
+        source_urls:
+          - "https://www.nippon.com/en/news/yjj2026063000422/"
+        verbatim_excerpt: "with coalition partner Japan Innovation Party"
+    quotes: []
+
+  - story_id: japan-national-intelligence-council-passed
+    category: politics
+    headline_en: "Japan Passes Legislation Creating Unified National Intelligence Council Under Prime Minister"
+    lead_url: "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+    hard_facts:
+      - claim: "Date legislation passed"
+        kind: temporal
+        value: "May 27, 2026"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "Japan's Diet passed legislation on May 27, 2026 to establish a national intelligence council"
+      - claim: "Passing institution"
+        kind: named_institution
+        value: "Japan's Diet"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "Japan's Diet passed legislation on May 27, 2026"
+      - claim: "Agencies consolidated under new council"
+        kind: numerical
+        value: "five"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "consolidating five previously fragmented agencies under one secretariat"
+      - claim: "Agency 1 consolidated"
+        kind: named_institution
+        value: "Cabinet Intelligence and Research Office"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "the Cabinet Intelligence and Research Office (CIRO)"
+      - claim: "Agency 2 consolidated"
+        kind: named_institution
+        value: "National Police Agency's Security Bureau"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "the National Police Agency's Security Bureau"
+      - claim: "Agency 3 consolidated"
+        kind: named_institution
+        value: "Public Security Intelligence Agency"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "the Public Security Intelligence Agency"
+      - claim: "Agency 4 consolidated"
+        kind: named_institution
+        value: "Foreign Ministry's Intelligence and Analysis Service"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "the Foreign Ministry's Intelligence and Analysis Service"
+      - claim: "Agency 5 consolidated"
+        kind: named_institution
+        value: "Defense Intelligence Headquarters"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "the Defense Intelligence Headquarters"
+      - claim: "Prime Minister name"
+        kind: named_person
+        value: "Takaichi Sanae"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "Prime Minister Takaichi Sanae described the initiative"
+      - claim: "Number of additional ministers on council"
+        kind: numerical
+        value: "nine"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "includes nine additional ministers from finance, justice, foreign affairs, defense, and related portfolios"
+      - claim: "Model for new secretariat"
+        kind: named_institution
+        value: "National Security Secretariat"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "modeled on the National Security Secretariat (NSS) established by former Prime Minister Abe Shinzō in 2014"
+      - claim: "NSS established by"
+        kind: named_person
+        value: "Abe Shinzō"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "established by former Prime Minister Abe Shinzō in 2014"
+      - claim: "NSS establishment year"
+        kind: temporal
+        value: "2014"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "established by former Prime Minister Abe Shinzō in 2014"
+      - claim: "Defense budget target"
+        kind: numerical_with_unit
+        value: "2 percent of GDP"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "a 2 percent of GDP defense budget"
+      - claim: "Nippon.com analysis publication date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        verbatim_excerpt: "A Nippon.com in-depth analysis was published on June 30, 2026"
+    quotes:
+      - speaker_name: "Takaichi Sanae"
+        speaker_title: "Prime Minister of Japan"
+        verbatim_en: "first step"
+        source_url: "https://www.nippon.com/en/in-depth/d01242/japan-moves-to-centralize-intelligence-amid-mounting-strategic-challenges.html"
+        context: "Takaichi described the intelligence council initiative as the first step in strengthening Japan's intelligence capabilities"
+
+  - story_id: japan-jfic-foreign-investment-review-panel
+    category: tech
+    headline_en: "Japan Launches CFIUS-Style Foreign Investment Review Panel to Prevent Technology Leakage"
+    lead_url: "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+    body_source: full
+    corroborated_by:
+      - "https://www.nippon.com/en/news/yjj2026062900710/japan-launches-panel-to-review-foreign-investment.html"
+    locked_urls:
+      - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+      - "https://www.nippon.com/en/news/yjj2026062900710/japan-launches-panel-to-review-foreign-investment.html"
+    hard_facts:
+      - claim: "JFIC inaugural meeting date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+          - "https://www.nippon.com/en/news/yjj2026062900710/japan-launches-panel-to-review-foreign-investment.html"
+        verbatim_excerpt: "The Japanese government convened the inaugural meeting of the Japan Foreign Investment Committee (JFIC) on June 30, 2026"
+      - claim: "Committee name"
+        kind: named_institution
+        value: "Japan Foreign Investment Committee"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+          - "https://www.nippon.com/en/news/yjj2026062900710/japan-launches-panel-to-review-foreign-investment.html"
+        verbatim_excerpt: "the Japan Foreign Investment Committee (JFIC)"
+      - claim: "US equivalent body"
+        kind: named_institution
+        value: "Committee on Foreign Investment in the United States"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+        verbatim_excerpt: "Japan's equivalent of the U.S. Committee on Foreign Investment in the United States (CFIUS)"
+      - claim: "Co-chair institution 1"
+        kind: named_institution
+        value: "Finance Ministry"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+        verbatim_excerpt: "The committee is co-chaired by the Finance Ministry and the National Security Secretariat"
+      - claim: "Co-chair institution 2"
+        kind: named_institution
+        value: "National Security Secretariat"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+        verbatim_excerpt: "co-chaired by the Finance Ministry and the National Security Secretariat"
+      - claim: "Participating ministry 1"
+        kind: named_institution
+        value: "Ministry of Economy, Trade and Industry"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+        verbatim_excerpt: "includes the Ministry of Economy, Trade and Industry and the Ministry of Defense"
+      - claim: "Participating ministry 2"
+        kind: named_institution
+        value: "Ministry of Defense"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+        verbatim_excerpt: "includes the Ministry of Economy, Trade and Industry and the Ministry of Defense"
+      - claim: "Prime Minister name"
+        kind: named_person
+        value: "Takaichi"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+        verbatim_excerpt: "Prime Minister Takaichi stated at the inaugural meeting"
+    quotes:
+      - speaker_name: "Takaichi"
+        speaker_title: "Prime Minister of Japan"
+        verbatim_en: "Conducting consistent reviews across ministries and agencies will also enhance predictability for foreign investors, thereby contributing to both promoting sound investment and ensuring economic security."
+        source_url: "https://www.japantimes.co.jp/business/2026/06/30/jfic-first-meeting/"
+        context: "Takaichi's statement at the inaugural JFIC meeting on June 30, 2026"
+
+  - story_id: riken-taiwan-nstc-compound-semiconductor
+    category: tech
+    headline_en: "Riken and Taiwan NSTC Launch Joint Research on Next-Generation Compound Semiconductors"
+    lead_url: "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+    hard_facts:
+      - claim: "Japanese research institution"
+        kind: named_institution
+        value: "Riken"
+        source_urls:
+          - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+        verbatim_excerpt: "Japan's Riken research institute has entered into a collaboration"
+      - claim: "Taiwan partner institution"
+        kind: named_institution
+        value: "Taiwan's National Science and Technology Council"
+        source_urls:
+          - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+        verbatim_excerpt: "a collaboration with Taiwan's National Science and Technology Council (NSTC)"
+      - claim: "Details publication date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+        verbatim_excerpt: "with details published June 30, 2026"
+      - claim: "Riken quantum computer name"
+        kind: named_product
+        value: "Ei-II"
+        source_urls:
+          - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+        verbatim_excerpt: "Riken's superconducting quantum computer \"Ei-II,\" developed jointly with the University of Osaka"
+      - claim: "Ei-II co-developer"
+        kind: named_institution
+        value: "University of Osaka"
+        source_urls:
+          - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+        verbatim_excerpt: "developed jointly with the University of Osaka"
+      - claim: "Ei-II online date"
+        kind: temporal
+        value: "late March 2026"
+        source_urls:
+          - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+        verbatim_excerpt: "officially went online with 144 qubits and 99.9 percent fidelity in late March 2026"
+      - claim: "Ei-II qubit count"
+        kind: numerical_with_unit
+        value: "144 qubits"
+        source_urls:
+          - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+        verbatim_excerpt: "officially went online with 144 qubits and 99.9 percent fidelity"
+      - claim: "Ei-II fidelity"
+        kind: numerical_with_unit
+        value: "99.9 percent fidelity"
+        source_urls:
+          - "https://www.digitimes.com/news/a20260629PD228/taiwan-japan-academia-quantum-computer-semiconductors-nstc-2026.html"
+        verbatim_excerpt: "144 qubits and 99.9 percent fidelity in late March 2026"
+    quotes: []
+
+  - story_id: japan-smartphone-traffic-deaths-record-2025
+    category: society
+    headline_en: "Japan Records Highest-Ever Smartphone-Related Traffic Deaths in 2025, National Police Agency Discloses"
+    lead_url: "https://www.nippon.com/en/japan-data/h02813/"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.nippon.com/en/japan-data/h02813/"
+    hard_facts:
+      - claim: "Disclosure date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "Japan's National Police Agency disclosed on June 30, 2026"
+      - claim: "Disclosing institution"
+        kind: named_institution
+        value: "National Police Agency"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "Japan's National Police Agency disclosed on June 30, 2026"
+      - claim: "Total serious/fatal accidents from smartphone use in 2025"
+        kind: numerical
+        value: "148"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "the number of serious injury and fatal automobile accidents caused by drivers using smartphones while driving reached 148 cases in 2025"
+      - claim: "Fatal accidents from smartphone use in 2025"
+        kind: numerical
+        value: "26"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "including 26 fatal accidents — the highest figure since record-keeping commenced in 2015"
+      - claim: "Record-keeping commencement year"
+        kind: temporal
+        value: "2015"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "the highest figure since record-keeping commenced in 2015"
+      - claim: "Fatality rate for smartphone-related accidents"
+        kind: numerical_with_unit
+        value: "2.7 percent"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "The fatality rate for smartphone-related accidents was 2.7 percent"
+      - claim: "Fatality rate for all other accidents"
+        kind: numerical_with_unit
+        value: "0.8 percent"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "compared with 0.8 percent for all other accidents"
+      - claim: "Relative fatality risk multiplier"
+        kind: numerical_with_unit
+        value: "3.4 times"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "meaning drivers distracted by smartphones are 3.4 times more likely to cause a fatal crash"
+      - claim: "High-risk smartphone viewing duration"
+        kind: temporal
+        value: "more than two seconds"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "drivers face heightened risk when viewing a smartphone for more than two seconds"
+      - claim: "Distance covered at 60 km/h in two seconds"
+        kind: numerical_with_unit
+        value: "approximately 33.3 meters"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "a vehicle traveling at 60 km/h covers approximately 33.3 meters during this interval"
+      - claim: "Notable incident date"
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "a March 2026 tunnel collision on the Shin-Meishin Expressway"
+      - claim: "Notable incident location"
+        kind: named_product
+        value: "Shin-Meishin Expressway"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "a March 2026 tunnel collision on the Shin-Meishin Expressway"
+      - claim: "Truck driver smartphone viewing duration in incident"
+        kind: temporal
+        value: "approximately 13 seconds"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "a truck driver viewed her smartphone for approximately 13 seconds"
+      - claim: "Vehicle speed in incident"
+        kind: numerical_with_unit
+        value: "82 km/h"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "while traveling at 82 km/h"
+      - claim: "Deaths in notable incident"
+        kind: numerical
+        value: "six"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "resulting in six deaths"
+      - claim: "Maximum fine for smartphone use while driving"
+        kind: numerical_with_unit
+        value: "180,000 yen"
+        source_urls:
+          - "https://www.nippon.com/en/japan-data/h02813/"
+        verbatim_excerpt: "Current Japanese traffic law imposes fines of up to 180,000 yen"
+    quotes: []
+
+  - story_id: godiva-japan-75bn-loan-extension-mbk
+    category: ipo_ma
+    headline_en: "Godiva Japan Lenders Extend ¥75 Billion Buyout Loans by Nine Months as MBK Partners Seeks Exit"
+    lead_url: "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+    body_source: paywall-stub
+    corroborated_by:
+      - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+    locked_urls:
+      - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+      - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+    hard_facts:
+      - claim: "Agreement date"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "A syndicate of approximately 25 lenders to Godiva Japan Inc. agreed on June 30, 2026"
+      - claim: "Borrower entity"
+        kind: named_institution
+        value: "Godiva Japan Inc."
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "A syndicate of approximately 25 lenders to Godiva Japan Inc."
+      - claim: "Number of lenders in syndicate"
+        kind: numerical
+        value: "approximately 25"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "A syndicate of approximately 25 lenders"
+      - claim: "Loan extension duration"
+        kind: temporal
+        value: "nine months"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "to extend by nine months the maturity of approximately ¥75 billion ($463 million) in leveraged buyout loans"
+      - claim: "Total LBO loan amount"
+        kind: numerical_with_unit
+        value: "approximately ¥75 billion ($463 million)"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "approximately ¥75 billion ($463 million) in leveraged buyout loans"
+      - claim: "Original maturity deadline"
+        kind: temporal
+        value: "end-June 2026"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+        verbatim_excerpt: "postponing the repayment deadline from end-June 2026 to March 2027"
+      - claim: "Extended maturity deadline"
+        kind: temporal
+        value: "March 2027"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "postponing the repayment deadline from end-June 2026 to March 2027"
+      - claim: "Lead lender institution"
+        kind: named_institution
+        value: "MUFG Bank Ltd."
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "MUFG Bank Ltd. holds approximately ¥25 billion of the senior loans"
+      - claim: "MUFG senior loan holding"
+        kind: numerical_with_unit
+        value: "approximately ¥25 billion"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "MUFG Bank Ltd. holds approximately ¥25 billion of the senior loans"
+      - claim: "MUFG new super-senior loan amount"
+        kind: numerical_with_unit
+        value: "¥5 billion"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "will additionally provide ¥5 billion in new super-senior loans"
+      - claim: "Second major lender"
+        kind: named_institution
+        value: "Sumitomo Mitsui Banking Corporation"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "Sumitomo Mitsui Banking Corporation (SMBC) holds approximately ¥19 billion of senior loans"
+      - claim: "SMBC senior loan holding"
+        kind: numerical_with_unit
+        value: "approximately ¥19 billion"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "Sumitomo Mitsui Banking Corporation (SMBC) holds approximately ¥19 billion of senior loans"
+      - claim: "Total senior loans"
+        kind: numerical_with_unit
+        value: "¥60.5 billion"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "Total borrowings comprise ¥60.5 billion in senior loans"
+      - claim: "Mezzanine debt amount"
+        kind: numerical_with_unit
+        value: "¥14 billion"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "¥14 billion in mezzanine debt"
+      - claim: "Sponsor seeking exit"
+        kind: named_institution
+        value: "MBK Partners"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "Asian private equity fund MBK Partners, which originally acquired Godiva Japan and has been seeking an exit"
+      - claim: "Godiva Japan net loss for fiscal year ended December 2025"
+        kind: numerical_with_unit
+        value: "approximately ¥30 billion"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "Godiva Japan reported a net loss of approximately ¥30 billion for the fiscal year ended December 2025"
+      - claim: "Fiscal year end date"
+        kind: temporal
+        value: "December 2025"
+        source_urls:
+          - "https://www.japantimes.co.jp/business/2026/06/30/companies/godiva-loan-extension-agreement/"
+          - "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension"
+        verbatim_excerpt: "for the fiscal year ended December 2025"
+    quotes: []
+
+  - story_id: us-iran-doha-ceasefire-japan-energy
+    category: other
+    headline_en: "U.S. and Iran Negotiators Arrive in Doha as Interim Ceasefire Holds, Easing Japan Energy-Cost Pressure"
+    lead_url: "https://www.japantimes.co.jp/news/2026/06/30/world/politics/us-iran-negotiators-doha/"
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - "https://www.japantimes.co.jp/news/2026/06/30/world/politics/us-iran-negotiators-doha/"
+    hard_facts:
+      - claim: "Date negotiators arrived in Doha"
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/world/politics/us-iran-negotiators-doha/"
+        verbatim_excerpt: "U.S. and Iranian negotiating teams arrived in Doha, Qatar on June 30, 2026"
+      - claim: "Negotiation location"
+        kind: named_institution
+        value: "Doha, Qatar"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/world/politics/us-iran-negotiators-doha/"
+        verbatim_excerpt: "arrived in Doha, Qatar on June 30, 2026"
+      - claim: "Duration of US-Iran conflict at time of article"
+        kind: temporal
+        value: "four-month-old"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/world/politics/us-iran-negotiators-doha/"
+        verbatim_excerpt: "aimed at consolidating an interim ceasefire to end the four-month-old U.S.-Iran conflict"
+      - claim: "Crude oil price range following memorandum"
+        kind: numerical_with_unit
+        value: "low $70 per barrel"
+        source_urls:
+          - "https://www.japantimes.co.jp/news/2026/06/30/world/politics/us-iran-negotiators-doha/"
+        verbatim_excerpt: "crude oil prices had plunged to the low $70 per barrel range"
+    quotes: []
