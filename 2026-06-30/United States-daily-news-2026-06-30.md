@@ -249,6 +249,7 @@ This is the larger sequel to a 2024 move. In November 2024 Comcast hived off a p
 [50] Ray, S. (2026, June 29). Comcast announces plan to split tech and media business with NBCUniversal spinoff. Forbes. https://www.forbes.com/sites/siladityaray/2026/06/29/comcast-announces-plan-to-split-tech-and-media-business-with-nbcuniversal-spinoff/
 [51] CNN Business. (2026, June 29). Comcast spinoff of NBCUniversal. CNN. https://www.cnn.com/2026/06/29/media/comcast-spinoff-nbc-universal
 [52] TechTimes. (2026, June 29). Comcast NBCUniversal spinoff splits 65 million subscribers across two new companies. TechTimes. https://www.techtimes.com/articles/319337/20260629/comcast-nbcuniversal-spinoff-splits-65-million-subscribers-across-two-new-companies.htm
+[53] CNBC. (2026, January 5). Comcast spinoff Versant starts trading on Nasdaq in rare media debut. CNBC. https://www.cnbc.com/2026/01/05/comcast-spinoff-versant-vsnt-trading-debut-nasdaq.html
 
 ---
 
@@ -262,9 +263,9 @@ The contradiction is the story: Trump won broad executive power, but the Court s
 
 **References**
 
-[53] Axios. (2026, June 30). Trump's Supreme Court wins hit one wall: the economy. Axios. https://www.axios.com/2026/06/30/trump-supreme-court-economy
-[54] Political Wire. (2026, June 30). Trump's Supreme Court wins hit one wall: the economy. Political Wire. https://politicalwire.com/2026/06/30/trumps-supreme-court-wins-hit-one-wall-the-economy/
-[55] Newsweek. (2026, June 30). Supreme Court Trump powers rulings as term ends. Newsweek. https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+[54] Axios. (2026, June 30). Trump's Supreme Court wins hit one wall: the economy. Axios. https://www.axios.com/2026/06/30/trump-supreme-court-economy
+[55] Political Wire. (2026, June 30). Trump's Supreme Court wins hit one wall: the economy. Political Wire. https://politicalwire.com/2026/06/30/trumps-supreme-court-wins-hit-one-wall-the-economy/
+[56] Newsweek. (2026, June 30). Supreme Court Trump powers rulings as term ends. Newsweek. https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
 
 ---
 
@@ -276,11 +277,11 @@ Utah wildfires have burned over 180,000 acres in 2026, the busiest fire year sin
 
 **References**
 
-[56] ABC4 Utah. (2026, June 30). Cottonwood Fire activity expected. ABC4 Utah. https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
-[57] KSL.com. (2026, June 30). Fires spread across Utah, burning more than 180,000 acres. KSL.com. https://www.ksl.com/article/51563796/fires-spread-across-utah-burning-more-than-180000-acres
-[58] NPR. (2026, June 28). 3 firefighters killed on Colorado-Utah border as wildfires intensify. NPR. https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder
-[59] CBS News. (2026, June). High winds, heat fuel Utah wildfires. CBS News. https://www.cbsnews.com/video/high-winds-heat-fuel-utah-wildfires/
-[60] National Interagency Fire Center. (2026, June 29). NICC Situation Report. National Interagency Fire Center. https://www.nifc.gov/nicc-files/sitreprt.pdf
+[57] ABC4 Utah. (2026, June 30). Cottonwood Fire activity expected. ABC4 Utah. https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+[58] KSL.com. (2026, June 30). Fires spread across Utah, burning more than 180,000 acres. KSL.com. https://www.ksl.com/article/51563796/fires-spread-across-utah-burning-more-than-180000-acres
+[59] NPR. (2026, June 28). 3 firefighters killed on Colorado-Utah border as wildfires intensify. NPR. https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder
+[60] CBS News. (2026, June). High winds, heat fuel Utah wildfires. CBS News. https://www.cbsnews.com/video/high-winds-heat-fuel-utah-wildfires/
+[61] National Interagency Fire Center. (2026, June 29). NICC Situation Report. National Interagency Fire Center. https://www.nifc.gov/nicc-files/sitreprt.pdf
 
 ---
 
@@ -292,7 +293,7 @@ The pattern is two-sided: the Court expanded presidential power while drawing sp
 
 **References**
 
-[61] Newsweek. (2026, June 30). Supreme Court Trump powers rulings as term ends. Newsweek. https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
-[62] Vladeck, S. (2026, June 29). Decision day summary: June 29, 2026. Steve Vladeck Substack. https://www.stevevladeck.com/p/decision-day-summary-june-29-2026
-[63] SCOTUSblog. (2026, June). The home stretch. SCOTUSblog. https://www.scotusblog.com/2026/06/the-home-stretch/
-[64] CNN. (2026, June 29). Supreme Court issues opinions. CNN. https://www.cnn.com/2026/06/29/politics/live-news/supreme-court-issues-opinions
+[62] Newsweek. (2026, June 30). Supreme Court Trump powers rulings as term ends. Newsweek. https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+[63] Vladeck, S. (2026, June 29). Decision day summary: June 29, 2026. Steve Vladeck Substack. https://www.stevevladeck.com/p/decision-day-summary-june-29-2026
+[64] SCOTUSblog. (2026, June). The home stretch. SCOTUSblog. https://www.scotusblog.com/2026/06/the-home-stretch/
+[65] CNN. (2026, June 29). Supreme Court issues opinions. CNN. https://www.cnn.com/2026/06/29/politics/live-news/supreme-court-issues-opinions
