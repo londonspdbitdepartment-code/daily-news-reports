@@ -1,0 +1,869 @@
+version: 1
+generated_at: "2026-06-30T00:00:00Z"
+country: China
+date: "2026-06-30"
+total_stories: 8
+stories:
+  - story_id: china-factory-activity-returns-to-expansion-june
+    category: econ
+    headline_en: China factory activity returns to expansion in June driven by AI-linked high-tech exports
+    lead_url: https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+    body_source: full
+    corroborated_by:
+      - https://finance.yahoo.com/economy/articles/chinas-june-non-manufacturing-pmi-014138663.html
+      - https://abcnews.com/Business/wireStory/chinas-factory-activity-expands-june-boost-tech-exports-134331296
+      - https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html
+    locked_urls:
+      - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+      - https://finance.yahoo.com/economy/articles/chinas-june-non-manufacturing-pmi-014138663.html
+      - https://abcnews.com/Business/wireStory/chinas-factory-activity-expands-june-boost-tech-exports-134331296
+      - https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html
+    hard_facts:
+      - claim: China official manufacturing PMI June 2026
+        kind: numerical_with_unit
+        value: "50.3"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+          - https://finance.yahoo.com/economy/articles/chinas-june-non-manufacturing-pmi-014138663.html
+          - https://abcnews.com/Business/wireStory/chinas-factory-activity-expands-june-boost-tech-exports-134331296
+          - https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html
+        verbatim_excerpt: "China's official manufacturing purchasing managers' index (PMI) rose to 50.3 in June from 50.0 in May"
+      - claim: China official manufacturing PMI May 2026
+        kind: numerical_with_unit
+        value: "50.0"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "rose to 50.3 in June from 50.0 in May"
+      - claim: Reuters poll median PMI forecast for June
+        kind: numerical_with_unit
+        value: "50.1"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "beating the median forecast of 50.1 in a Reuters poll"
+      - claim: PMI expansion threshold
+        kind: numerical_with_unit
+        value: "50-point"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "above the 50-point threshold separating growth from contraction"
+      - claim: consecutive months of PMI expansion
+        kind: temporal
+        value: third straight month of expansion
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "third straight month of expansion"
+      - claim: high-tech manufacturing PMI sub-index June
+        kind: numerical_with_unit
+        value: "53.5"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "The high-tech manufacturing PMI sub-index rose to 53.5"
+      - claim: high-tech manufacturing PMI sub-index change from May
+        kind: numerical_with_unit
+        value: "up 0.6 points from May"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "up 0.6 points from May"
+      - claim: consecutive months high-tech PMI rising
+        kind: temporal
+        value: four consecutive months
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "rising for four consecutive months"
+      - claim: PMI output sub-index
+        kind: numerical_with_unit
+        value: "51.4"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "Output sub-index: 51.4"
+      - claim: PMI new orders sub-index June
+        kind: numerical_with_unit
+        value: "51.2"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "new orders: 51.2 (returning to expansion from 49.9 in May)"
+      - claim: PMI new orders sub-index May
+        kind: numerical_with_unit
+        value: "49.9"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "returning to expansion from 49.9 in May"
+      - claim: PMI foreign orders sub-index June
+        kind: numerical_with_unit
+        value: "50.1"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "foreign orders: 50.1 (returning to expansion from 48.6)"
+      - claim: PMI foreign orders sub-index prior reading
+        kind: numerical_with_unit
+        value: "48.6"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "returning to expansion from 48.6"
+      - claim: PMI employment sub-index
+        kind: numerical_with_unit
+        value: "48.4"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "Employment subdued at 48.4"
+      - claim: PMI input cost inflation June
+        kind: numerical_with_unit
+        value: "54.2"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "Input cost inflation eased to a six-month low (54.2 vs 60.5)"
+      - claim: PMI input cost inflation prior reading
+        kind: numerical_with_unit
+        value: "60.5"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "54.2 vs 60.5"
+      - claim: input cost inflation six-month low period
+        kind: temporal
+        value: six-month low
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "Input cost inflation eased to a six-month low"
+      - claim: NBS statistician identity
+        kind: named_person
+        value: Huo Lihui
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "NBS chief statistician Huo Lihui said"
+      - claim: NBS non-manufacturing PMI June
+        kind: numerical_with_unit
+        value: "50.2"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+          - https://finance.yahoo.com/economy/articles/chinas-june-non-manufacturing-pmi-014138663.html
+        verbatim_excerpt: "The NBS non-manufacturing PMI rose to 50.2 from 50.1"
+      - claim: NBS non-manufacturing PMI May
+        kind: numerical_with_unit
+        value: "50.1"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+          - https://finance.yahoo.com/economy/articles/chinas-june-non-manufacturing-pmi-014138663.html
+        verbatim_excerpt: "non-manufacturing PMI rose to 50.2 from 50.1"
+      - claim: NBS composite PMI June
+        kind: numerical_with_unit
+        value: "50.6"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "composite PMI rose to 50.6 from 50.5"
+      - claim: NBS composite PMI May
+        kind: numerical_with_unit
+        value: "50.5"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "composite PMI rose to 50.6 from 50.5"
+      - claim: automated data-processing-equipment exports y/y surge May
+        kind: numerical_with_unit
+        value: "about 60% y/y"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "Automated data-processing-equipment exports surged about 60% y/y in May"
+      - claim: furniture exports y/y growth May
+        kind: numerical_with_unit
+        value: "1.9%"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "furniture exports rose only 1.9%"
+      - claim: Bank of America 2026 China export-growth forecast
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "Bank of America lifted its 2026 China export-growth forecast to 15%"
+      - claim: NBS data release date
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "NBS data released June 30, 2026"
+      - claim: named institution NBS
+        kind: named_institution
+        value: NBS
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "NBS chief statistician Huo Lihui said"
+      - claim: named institution Bank of America
+        kind: named_institution
+        value: Bank of America
+        source_urls:
+          - https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        verbatim_excerpt: "Bank of America lifted its 2026 China export-growth forecast to 15%"
+    quotes:
+      - speaker_name: Huo Lihui
+        speaker_title: NBS chief statistician
+        verbatim_en: "the June data reflected that China's economic climate was warming."
+        source_url: https://finance.yahoo.com/economy/articles/chinas-factory-activity-expands-june-015451418.html
+        context: NBS June 30 2026 PMI data release statement
+
+  - story_id: asian-equities-record-quarter-csi300-10pct-gain
+    category: econ
+    headline_en: Asian equities surge to record-breaking quarter as China's CSI300 posts 10% gain; yuan steadies post-PMI
+    lead_url: https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+    hard_facts:
+      - claim: CSI300 quarterly gain Q2 2026
+        kind: numerical_with_unit
+        value: "approximately 10%"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "China's mainland blue-chip CSI300 index posted approximately 10% gains for the quarter"
+      - claim: named institution CSI300
+        kind: named_institution
+        value: CSI300
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "China's mainland blue-chip CSI300 index posted approximately 10% gains for the quarter"
+      - claim: Japan Nikkei daily gain
+        kind: numerical_with_unit
+        value: "1.6%"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "Japan's Nikkei was up 1.6% on the day"
+      - claim: Japan Nikkei quarterly surge (record)
+        kind: numerical_with_unit
+        value: "exceeding 38%"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "set for a record quarterly surge exceeding 38%"
+      - claim: South Korea KOSPI daily gain
+        kind: numerical_with_unit
+        value: "3%"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "South Korea's KOSPI rose 3%"
+      - claim: South Korea KOSPI Q2 2026 gain
+        kind: numerical_with_unit
+        value: "near-71%"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "on track for a near-71% second-quarter gain"
+      - claim: Taiwan benchmark Q2 2026 gain
+        kind: numerical_with_unit
+        value: "more than 46%"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "Taiwan's benchmark surged more than 46% for the quarter"
+      - claim: Hong Kong Hang Seng Q2 2026 performance
+        kind: numerical_with_unit
+        value: "7.5% quarterly decline"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "Hong Kong's Hang Seng underperformed with a 7.5% quarterly decline"
+      - claim: China yuan daily move post-PMI
+        kind: numerical_with_unit
+        value: "0.1%"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "China's yuan firmed 0.1% after stronger-than-expected PMI data"
+      - claim: US dollar index level
+        kind: numerical_with_unit
+        value: "101.32"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "The dollar index rose 0.2% to 101.32"
+      - claim: US dollar index daily move
+        kind: numerical_with_unit
+        value: "0.2%"
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "The dollar index rose 0.2% to 101.32"
+      - claim: trading date context
+        kind: temporal
+        value: Final trading day of Q2 2026
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "Final trading day of Q2 2026"
+      - claim: named institution Nikkei
+        kind: named_institution
+        value: Nikkei
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "Japan's Nikkei was up 1.6% on the day"
+      - claim: named institution KOSPI
+        kind: named_institution
+        value: KOSPI
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "South Korea's KOSPI rose 3%"
+      - claim: named institution Hang Seng
+        kind: named_institution
+        value: Hang Seng
+        source_urls:
+          - https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html
+        verbatim_excerpt: "Hong Kong's Hang Seng underperformed with a 7.5% quarterly decline"
+    quotes: []
+
+  - story_id: china-broker-stocks-best-month-since-october
+    category: econ
+    headline_en: China broker stocks set for best month since October as trading boom and IPO pipeline drive rally
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+    hard_facts:
+      - claim: Bloomberg Intelligence brokerage gauge June gain
+        kind: numerical_with_unit
+        value: "approximately 4.3%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "A Bloomberg Intelligence gauge of onshore brokerages rose approximately 4.3% in June"
+      - claim: Bloomberg Intelligence brokerage gauge May decline
+        kind: numerical_with_unit
+        value: "more than 3%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "after falling more than 3% in May"
+      - claim: prior best month for brokerage gauge
+        kind: temporal
+        value: October 2025
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "set for the best monthly gain since October 2025"
+      - claim: securities transaction stamp duty revenue y/y surge Jan-May 2026
+        kind: numerical_with_unit
+        value: "88.8% year-on-year"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "88.8% year-on-year surge in securities transaction stamp duty revenue for the first five months of 2026"
+      - claim: period of stamp duty revenue data
+        kind: temporal
+        value: first five months of 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "for the first five months of 2026"
+      - claim: PBOC Governor identity
+        kind: named_person
+        value: Pan Gongsheng
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "PBOC Governor Pan Gongsheng noted at the Lujiazui Forum"
+      - claim: forum venue
+        kind: named_institution
+        value: Lujiazui Forum
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "noted at the Lujiazui Forum"
+      - claim: named institution China Securities Co.
+        kind: named_institution
+        value: China Securities Co.
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "China Securities Co. and GF Securities among stocks hitting daily trading limits"
+      - claim: named institution GF Securities
+        kind: named_institution
+        value: GF Securities
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "China Securities Co. and GF Securities among stocks hitting daily trading limits earlier in June"
+      - claim: named institution PBOC
+        kind: named_institution
+        value: PBOC
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "PBOC Governor Pan Gongsheng noted at the Lujiazui Forum"
+      - claim: named institution Bloomberg Intelligence
+        kind: named_institution
+        value: Bloomberg Intelligence
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-broker-stocks-eye-best-month-since-october-on-trading-boom
+        verbatim_excerpt: "A Bloomberg Intelligence gauge of onshore brokerages"
+    quotes: []
+
+  - story_id: china-clamps-down-offshore-debt-ndrc-caps
+    category: econ
+    headline_en: China clamps down on higher-yielding offshore debt; NDRC caps underwriting at 4% CNH / 5% USD as LGFV risks mount
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+    hard_facts:
+      - claim: NDRC offshore yuan note yield cap
+        kind: numerical_with_unit
+        value: "4%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+        verbatim_excerpt: "instructed select Chinese bankers to avoid underwriting offshore yuan notes yielding more than 4%"
+      - claim: NDRC offshore dollar security yield cap
+        kind: numerical_with_unit
+        value: "5%"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+        verbatim_excerpt: "dollar securities yielding more than 5%"
+      - claim: total municipal overseas bond debt
+        kind: numerical_with_unit
+        value: "more than $100 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+        verbatim_excerpt: "municipal borrowers shouldering more than $100 billion of overseas bond debt"
+      - claim: approval time for long-term debt quotas (new)
+        kind: temporal
+        value: between four and nine months
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+        verbatim_excerpt: "Approval times for long-term debt quotas have doubled to between four and nine months"
+      - claim: approval time doubling
+        kind: numerical_with_unit
+        value: doubled
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+        verbatim_excerpt: "Approval times for long-term debt quotas have doubled"
+      - claim: named institution NDRC
+        kind: named_institution
+        value: NDRC
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+        verbatim_excerpt: "China's National Development and Reform Commission (NDRC) has instructed select Chinese bankers"
+      - claim: named institution National Development and Reform Commission
+        kind: named_institution
+        value: National Development and Reform Commission
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/china-clamps-down-on-issuance-of-higher-yielding-offshore-debt
+        verbatim_excerpt: "China's National Development and Reform Commission (NDRC)"
+    quotes: []
+
+  - story_id: laifual-drive-03952hk-ipo-us147m-hkex
+    category: ipo_ma
+    headline_en: Laifual Drive (03952.HK) raises ~US$147M in HKEX debut, China's #2 harmonic reducer maker for robots
+    lead_url: https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+    body_source: full
+    corroborated_by:
+      - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+    locked_urls:
+      - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+      - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+    hard_facts:
+      - claim: named institution Laifual Drive full legal name
+        kind: named_institution
+        value: Zhejiang Laifual Drive Co., Ltd.
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "Zhejiang Laifual Drive Co., Ltd. (03952.HK) began trading on the HKEX Main Board"
+      - claim: Laifual Drive HKEX ticker
+        kind: named_product
+        value: 03952.HK
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "Zhejiang Laifual Drive Co., Ltd. (03952.HK)"
+      - claim: Laifual Drive trading start date
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "began trading on the HKEX Main Board on June 30, 2026"
+      - claim: Laifual Drive H-shares offered
+        kind: numerical_with_unit
+        value: "13.4419 million H-shares"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "The company offered 13.4419 million H-shares"
+      - claim: Laifual Drive IPO price range low
+        kind: numerical_with_unit
+        value: "HK$77.00"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "priced at HK$77.00–HK$85.50/share"
+      - claim: Laifual Drive IPO price range high
+        kind: numerical_with_unit
+        value: "HK$85.50"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "priced at HK$77.00–HK$85.50/share"
+      - claim: Laifual Drive IPO gross proceeds at top end incl greenshoe (HKD)
+        kind: numerical_with_unit
+        value: "~HK$1.149 billion"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "top end raises ~HK$1.149 billion, ~US$147M incl. greenshoe"
+      - claim: Laifual Drive IPO gross proceeds at top end incl greenshoe (USD)
+        kind: numerical_with_unit
+        value: "~US$147M"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "~US$147M incl. greenshoe"
+      - claim: Laifual Drive China harmonic reducer market rank
+        kind: numerical
+        value: "#2"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "ranked #2 in China by harmonic reducer shipment volume"
+      - claim: Laifual Drive China harmonic reducer market share (2025)
+        kind: numerical_with_unit
+        value: "21.4% market share, 2025"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "21.4% market share, 2025"
+      - claim: Laifual Drive global harmonic reducer market rank
+        kind: numerical
+        value: "#3 globally"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "#3 globally"
+      - claim: Laifual Drive 2025 revenue
+        kind: numerical_with_unit
+        value: "260.9 million yuan"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "Revenue of 260.9 million yuan in 2025"
+      - claim: Laifual Drive 2025 revenue y/y growth
+        kind: numerical_with_unit
+        value: "142.2% y/y"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "up 142.2% y/y"
+      - claim: IPO proceeds allocation capacity expansion
+        kind: numerical_with_unit
+        value: "55%"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "Use of proceeds: 55% capacity expansion"
+      - claim: IPO proceeds allocation R&D
+        kind: numerical_with_unit
+        value: "20%"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "20% R&D"
+      - claim: IPO proceeds allocation overseas sales
+        kind: numerical_with_unit
+        value: "5%"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "5% overseas sales"
+      - claim: IPO proceeds allocation strategic acquisitions
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "10% strategic acquisitions"
+      - claim: IPO proceeds allocation working capital
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "10% working capital"
+      - claim: named institution HKEX
+        kind: named_institution
+        value: HKEX
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "began trading on the HKEX Main Board on June 30, 2026"
+      - claim: named product harmonic reducer
+        kind: named_product
+        value: harmonic reducers
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "Core products: harmonic reducers, joint modules, robotic arms, automated workstations"
+      - claim: named product joint modules
+        kind: named_product
+        value: joint modules
+        source_urls:
+          - https://autonews.gasgoo.com/articles/news/laifual-drive-launches-ipo-plans-to-list-on-june-30-2069799357594185729
+        verbatim_excerpt: "Core products: harmonic reducers, joint modules, robotic arms, automated workstations"
+    quotes: []
+
+  - story_id: th-medical-02697hk-ipo-us62m-hkex
+    category: ipo_ma
+    headline_en: TH Medical (02697.HK) raises ~US$62M in HKEX debut with AI-based percutaneous puncture surgical robot
+    lead_url: https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+    hard_facts:
+      - claim: TH Medical full legal name
+        kind: named_institution
+        value: Guangdong True Health Medical Technology Development Co., Ltd.
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "Guangdong True Health Medical Technology Development Co., Ltd. (02697.HK)"
+      - claim: TH Medical HKEX ticker
+        kind: named_product
+        value: 02697.HK
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "Guangdong True Health Medical Technology Development Co., Ltd. (02697.HK)"
+      - claim: TH Medical trading start date
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "began trading on the HKEX Main Board on June 30, 2026"
+      - claim: TH Medical H-shares offered
+        kind: numerical_with_unit
+        value: "3.56 million H-shares"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "The company offered 3.56 million H-shares"
+      - claim: TH Medical IPO price range low
+        kind: numerical_with_unit
+        value: "HK$119.30"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "priced at HK$119.30–HK$135.60/share"
+      - claim: TH Medical IPO price range high
+        kind: numerical_with_unit
+        value: "HK$135.60"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "priced at HK$119.30–HK$135.60/share"
+      - claim: TH Medical IPO gross proceeds HKD
+        kind: numerical_with_unit
+        value: "~HK$482.7M"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "raising up to ~HK$482.7M (~US$62M)"
+      - claim: TH Medical IPO gross proceeds USD
+        kind: numerical_with_unit
+        value: "~US$62M"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "raising up to ~HK$482.7M (~US$62M)"
+      - claim: global surgical robots market size 2026
+        kind: numerical_with_unit
+        value: "US$33.6 billion"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "Global surgical robots market expected to reach US$33.6 billion in 2026"
+      - claim: China surgical robots market size 2026
+        kind: numerical_with_unit
+        value: "US$3.8 billion"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "China market US$3.8 billion"
+      - claim: China surgical robots global share 2026
+        kind: numerical_with_unit
+        value: "11% global share"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "11% global share, up from 5% in 2020"
+      - claim: China surgical robots global share 2020
+        kind: numerical_with_unit
+        value: "5% in 2020"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "up from 5% in 2020"
+      - claim: named product TH-S1 surgical robot model
+        kind: named_product
+        value: TH-S1
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "models TH-S1, TH-S, TH-S Pro, TH-SA"
+      - claim: named product TH-S surgical robot model
+        kind: named_product
+        value: TH-S
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "models TH-S1, TH-S, TH-S Pro, TH-SA"
+      - claim: named product TH-S Pro surgical robot model
+        kind: named_product
+        value: TH-S Pro
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "models TH-S1, TH-S, TH-S Pro, TH-SA"
+      - claim: named product TH-SA surgical robot model
+        kind: named_product
+        value: TH-SA
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "models TH-S1, TH-S, TH-S Pro, TH-SA"
+    quotes: []
+
+  - story_id: jiangxi-biological-06915hk-ipo-us60m-hkex
+    category: ipo_ma
+    headline_en: Jiangxi Institute of Biological Products (06915.HK) raises ~US$60M in HKEX debut, controls 65.8% of China tetanus antitoxin market
+    lead_url: https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+    hard_facts:
+      - claim: Jiangxi Biological Products full legal name
+        kind: named_institution
+        value: Jiangxi Institute of Biological Products Inc.
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "Jiangxi Institute of Biological Products Inc. (06915.HK)"
+      - claim: Jiangxi Biological Products HKEX ticker
+        kind: named_product
+        value: 06915.HK
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "Jiangxi Institute of Biological Products Inc. (06915.HK)"
+      - claim: Jiangxi Biological Products trading start date
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "began trading on the HKEX Main Board on June 30, 2026"
+      - claim: Jiangxi Biological Products H-shares offered
+        kind: numerical_with_unit
+        value: "36.23 million H-shares"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "The company offered 36.23 million H-shares"
+      - claim: Jiangxi Biological Products IPO price range low
+        kind: numerical_with_unit
+        value: "HK$9.33"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "priced at HK$9.33–HK$13.06/share"
+      - claim: Jiangxi Biological Products IPO price range high
+        kind: numerical_with_unit
+        value: "HK$13.06"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "priced at HK$9.33–HK$13.06/share"
+      - claim: greenshoe percentage
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "with a 15% greenshoe"
+      - claim: Jiangxi Biological Products IPO gross proceeds HKD
+        kind: numerical_with_unit
+        value: "~HK$473M"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "raising up to ~HK$473M (~US$60M)"
+      - claim: Jiangxi Biological Products IPO gross proceeds USD
+        kind: numerical_with_unit
+        value: "~US$60M"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "raising up to ~HK$473M (~US$60M)"
+      - claim: named product human tetanus antitoxin
+        kind: named_product
+        value: human tetanus antitoxin
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "Core product: human tetanus antitoxin"
+      - claim: China tetanus antitoxin market share
+        kind: numerical_with_unit
+        value: "65.8%"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "65.8% share in China"
+      - claim: global tetanus antitoxin market share
+        kind: numerical_with_unit
+        value: "45.8% global"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "45.8% global"
+      - claim: revenue 2023
+        kind: numerical_with_unit
+        value: "198 million yuan"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "Revenue grew from 198 million yuan (2023)"
+      - claim: revenue 2025
+        kind: numerical_with_unit
+        value: "235 million yuan"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "to 235 million yuan (2025)"
+      - claim: net profit 2023
+        kind: numerical_with_unit
+        value: "55.5 million yuan"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "net profit rose from 55.5 million yuan"
+      - claim: net profit 2025
+        kind: numerical_with_unit
+        value: "94.8 million yuan"
+        source_urls:
+          - https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=en
+        verbatim_excerpt: "to 94.8 million yuan"
+    quotes: []
+
+  - story_id: guo-wengui-sentenced-30-years-889m-fraud
+    category: other
+    headline_en: Chinese billionaire Guo Wengui sentenced to 30 years in US prison for $889M fraud targeting 1,000+ investors
+    lead_url: https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+    hard_facts:
+      - claim: named person Guo Wengui
+        kind: named_person
+        value: Guo Wengui
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "Guo Wengui (also known as Ho Wan Kwok and Miles Guo)"
+      - claim: named person alias Ho Wan Kwok
+        kind: named_person
+        value: Ho Wan Kwok
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "also known as Ho Wan Kwok and Miles Guo"
+      - claim: named person alias Miles Guo
+        kind: named_person
+        value: Miles Guo
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "also known as Ho Wan Kwok and Miles Guo"
+      - claim: sentence length
+        kind: numerical_with_unit
+        value: "30 years"
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "sentenced on June 30, 2026 in Manhattan federal court to 30 years in prison"
+      - claim: sentencing date
+        kind: temporal
+        value: June 30, 2026
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "sentenced on June 30, 2026"
+      - claim: sentencing venue
+        kind: named_institution
+        value: Manhattan federal court
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "sentenced on June 30, 2026 in Manhattan federal court"
+      - claim: number of victims defrauded
+        kind: numerical_with_unit
+        value: "more than 1,000 people"
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "defrauded more than 1,000 people worldwide"
+      - claim: forfeiture amount
+        kind: numerical_with_unit
+        value: "$889 million"
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "Guo was ordered to forfeit $889 million"
+      - claim: fraud scheme period
+        kind: temporal
+        value: "2018 to 2023"
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "running from 2018 to 2023"
+      - claim: named person presiding judge
+        kind: named_person
+        value: Analisa Torres
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "Judge Analisa Torres presided"
+      - claim: period since Guo fled China
+        kind: temporal
+        value: a decade ago
+        source_urls:
+          - https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        verbatim_excerpt: "Guo fled China a decade ago"
+    quotes:
+      - speaker_name: Prosecutors
+        speaker_title: US Federal Prosecutors
+        verbatim_en: "astonishing"
+        source_url: https://www.aljazeera.com/amp/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud
+        context: description of fraud scheme at sentencing June 30 2026 Manhattan federal court
