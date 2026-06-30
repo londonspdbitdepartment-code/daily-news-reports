@@ -1,0 +1,1038 @@
+version: 1
+generated_at: "2026-06-30T00:00:00Z"
+country: United Kingdom
+date: "2026-06-30"
+total_stories: 8
+stories:
+  - story_id: uk-gdp-q1-2026-saving-ratio
+    category: econ
+    headline_en: "UK economy grew 0.6% in Q1 2026 as household saving ratio falls to 8.9%"
+    lead_url: "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+    body_source: full
+    corroborated_by:
+      - "https://www.bloomberg.com/news/articles/2026-06-30/uk-s-saving-ratio-dips-as-spending-rises-on-bills-and-going-out"
+    locked_urls:
+      - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+      - "https://www.bloomberg.com/news/articles/2026-06-30/uk-s-saving-ratio-dips-as-spending-rises-on-bills-and-going-out"
+    hard_facts:
+      - claim: UK real GDP growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.6%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "increased by an unrevised 0.6% in Quarter 1 (January to March) 2026"
+      - claim: UK real GDP growth Q4 2025
+        kind: numerical_with_unit
+        value: "0.2%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "following revised growth of 0.2% in Quarter 4 (October to December) 2025"
+      - claim: Annual GDP growth full-year 2025 revised
+        kind: numerical_with_unit
+        value: "1.3%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "Annual GDP growth for full-year 2025 was revised down to 1.3% from the previously published 1.4%"
+      - claim: Annual GDP growth full-year 2025 previously published
+        kind: numerical_with_unit
+        value: "1.4%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "revised down to 1.3% from the previously published 1.4%"
+      - claim: Annual GDP growth 2024
+        kind: numerical_with_unit
+        value: "1.0%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "2024 growth was an unrevised 1.0%"
+      - claim: Services sector growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "services grew 0.8%"
+      - claim: Production sector growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.2%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "production grew 0.2%"
+      - claim: Construction sector growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.4%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "construction grew 0.4%"
+      - claim: Nominal GDP quarterly increase
+        kind: numerical_with_unit
+        value: "1.7%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "Nominal GDP increased 1.7% in the quarter"
+      - claim: Nominal GDP year-on-year increase
+        kind: numerical_with_unit
+        value: "4.4%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "stands 4.4% higher year-on-year"
+      - claim: Real GDP per head rise Q1 2026
+        kind: numerical_with_unit
+        value: "0.6%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "Real GDP per head rose 0.6% in Q1 2026"
+      - claim: Real GDP per head year-on-year
+        kind: numerical_with_unit
+        value: "0.7%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "up 0.7% compared with the same quarter a year ago"
+      - claim: Household saving ratio Q1 2026
+        kind: numerical_with_unit
+        value: "8.9%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "The household saving ratio declined by 0.7 percentage points to 8.9% in Q1 2026"
+      - claim: Household saving ratio decline in percentage points
+        kind: numerical_with_unit
+        value: "0.7 percentage points"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "declined by 0.7 percentage points to 8.9% in Q1 2026"
+      - claim: Household saving ratio Q4 2025
+        kind: numerical_with_unit
+        value: "9.6%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "down from 9.6% in Q4 2025"
+      - claim: Non-pension saving contribution Q1 2026
+        kind: numerical_with_unit
+        value: "4.1 percentage points"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "non-pension saving, which decreased to 4.1 percentage points from 5.4 percentage points"
+      - claim: Non-pension saving contribution Q4 2025
+        kind: numerical_with_unit
+        value: "5.4 percentage points"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "decreased to 4.1 percentage points from 5.4 percentage points"
+      - claim: Pension saving contribution
+        kind: numerical_with_unit
+        value: "4.8 percentage points"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "pension saving contributed 4.8 percentage points"
+      - claim: Real household disposable income per head change Q1 2026
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "Real household disposable income per head contracted by 0.8% in the quarter"
+      - claim: Real household disposable income per head change Q4 2025
+        kind: numerical_with_unit
+        value: "1.2%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "following a 1.2% rise at the end of 2025"
+      - claim: Business investment quarterly increase
+        kind: numerical_with_unit
+        value: "0.9%"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "Business investment was revised upward to a 0.9% quarterly increase"
+      - claim: Publication date of ONS Quarterly National Accounts
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "published on 30 June 2026"
+      - claim: Named institution ONS
+        kind: named_institution
+        value: "ONS"
+        source_urls:
+          - "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026"
+        verbatim_excerpt: "The data were released as part of the ONS Quarterly National Accounts"
+    quotes: []
+
+  - story_id: legal-general-bond-tender-offer
+    category: econ
+    headline_en: "Legal & General launches multi-tranche bond tender offer across five note series"
+    lead_url: "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+    hard_facts:
+      - claim: Named institution Legal & General Group Plc
+        kind: named_institution
+        value: "Legal & General Group Plc"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "Legal & General Group Plc (with L&G Finance PLC) launched a cash tender offer"
+      - claim: Named institution L&G Finance PLC
+        kind: named_institution
+        value: "L&G Finance PLC"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "Legal & General Group Plc (with L&G Finance PLC) launched a cash tender offer"
+      - claim: Launch date of tender offer
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "launched a cash tender offer on 30 June 2026"
+      - claim: Number of note series in tender offer
+        kind: numerical
+        value: "five"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "across five note series"
+      - claim: USD subordinated note face value
+        kind: numerical_with_unit
+        value: "USD 850 million"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "a USD 850 million subordinated note due 2047"
+      - claim: USD subordinated note maturity year
+        kind: temporal
+        value: "2047"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "subordinated note due 2047"
+      - claim: USD subordinated note offer price
+        kind: numerical_with_unit
+        value: "100.55%"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "offered at 100.55%"
+      - claim: GBP series 1 face value
+        kind: numerical_with_unit
+        value: "£350 million"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "four GBP series of £350 million, £200 million, £40 million and £10 million"
+      - claim: GBP series 2 face value
+        kind: numerical_with_unit
+        value: "£200 million"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "four GBP series of £350 million, £200 million, £40 million and £10 million"
+      - claim: GBP series 3 face value
+        kind: numerical_with_unit
+        value: "£40 million"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "four GBP series of £350 million, £200 million, £40 million and £10 million"
+      - claim: GBP series 4 face value
+        kind: numerical_with_unit
+        value: "£10 million"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "four GBP series of £350 million, £200 million, £40 million and £10 million"
+      - claim: GBP pricing date
+        kind: temporal
+        value: "8 July"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "GBP pricing is set for 8 July"
+      - claim: Offer expiry date
+        kind: temporal
+        value: "7 July"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "the offer expires 7 July"
+      - claim: Settlement date
+        kind: temporal
+        value: "10 July 2026"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "settlement is 10 July 2026"
+      - claim: Publication date verified
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer/9644115"
+        verbatim_excerpt: "Publication date verified: 30 June 2026"
+    quotes: []
+
+  - story_id: starmer-defence-investment-plan-298bn
+    category: politics
+    headline_en: "Outgoing PM Starmer unveils £298 billion Defence Investment Plan with £15bn extra funding"
+    lead_url: "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+    body_source: full
+    corroborated_by:
+      - "https://www.euronews.com/my-europe/2026/06/30/uk-to-spend-record-348-billion-on-defence-over-next-four-years-pm-starmer-says"
+      - "https://www.bloomberg.com/news/articles/2026-06-30/starmer-defense-plan-gives-successor-tools-to-fight-uk-s-threats"
+      - "https://www.france24.com/en/live-news/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending"
+    locked_urls:
+      - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+      - "https://www.euronews.com/my-europe/2026/06/30/uk-to-spend-record-348-billion-on-defence-over-next-four-years-pm-starmer-says"
+      - "https://www.bloomberg.com/news/articles/2026-06-30/starmer-defense-plan-gives-successor-tools-to-fight-uk-s-threats"
+      - "https://www.france24.com/en/live-news/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending"
+    hard_facts:
+      - claim: Named person Prime Minister
+        kind: named_person
+        value: "Keir Starmer"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Prime Minister Keir Starmer announced on 30 June 2026"
+      - claim: Announcement date
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Prime Minister Keir Starmer announced on 30 June 2026"
+      - claim: Total defence spending commitment over four years
+        kind: numerical_with_unit
+        value: "£298 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "committing £298 billion in defence spending over the next four years"
+      - claim: Additional defence funding above previous plan
+        kind: numerical_with_unit
+        value: "£15 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "an additional £15 billion above what was previously planned"
+      - claim: Annual defence spending current
+        kind: numerical_with_unit
+        value: "£54 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Annual defence spending will increase from £54 billion"
+      - claim: Annual defence spending target by 2029
+        kind: numerical_with_unit
+        value: "nearly £80 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "to nearly £80 billion by 2029"
+      - claim: Real-terms increase in defence spending
+        kind: numerical_with_unit
+        value: "27%"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "a 27% real-terms increase"
+      - claim: Defence spending as share of GDP by 2029
+        kind: numerical_with_unit
+        value: "2.7%"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "defence spending is set to reach 2.7% by 2029"
+      - claim: Target year for 2.7% GDP defence spending
+        kind: temporal
+        value: "2029"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "set to reach 2.7% by 2029"
+      - claim: Highest GDP share for defence in years
+        kind: numerical
+        value: "30 years"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "the highest in 30 years"
+      - claim: Defence spending trajectory next Parliament
+        kind: numerical_with_unit
+        value: "3%"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "with a trajectory toward 3% next Parliament"
+      - claim: Defence spending target by 2035 (NATO)
+        kind: numerical_with_unit
+        value: "3.5%"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "3.5% by 2035 to meet NATO's target"
+      - claim: Target year 3.5% GDP defence
+        kind: temporal
+        value: "2035"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "3.5% by 2035 to meet NATO's target"
+      - claim: Named institution NATO
+        kind: named_institution
+        value: "NATO"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "3.5% by 2035 to meet NATO's target"
+      - claim: Drones and autonomous systems investment
+        kind: numerical_with_unit
+        value: "more than £5 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "The plan commits more than £5 billion to drones and autonomous systems"
+      - claim: Named product Global Combat Air Programme
+        kind: named_product
+        value: "Global Combat Air Programme"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Global Combat Air Programme (with Italy and Japan) £8 billion-plus"
+      - claim: Global Combat Air Programme partners
+        kind: named_institution
+        value: "Italy and Japan"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Global Combat Air Programme (with Italy and Japan)"
+      - claim: Global Combat Air Programme allocation
+        kind: numerical_with_unit
+        value: "£8 billion-plus"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Global Combat Air Programme (with Italy and Japan) £8 billion-plus"
+      - claim: Nuclear deterrent and submarine renewal allocation
+        kind: numerical_with_unit
+        value: "£63 billion-plus"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "nuclear deterrent and submarine renewal £63 billion-plus"
+      - claim: Naval base upgrades project name
+        kind: named_product
+        value: "Project Royal Oak"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "naval base upgrades (Project Royal Oak) £26 billion over a decade"
+      - claim: Naval base upgrades allocation
+        kind: numerical_with_unit
+        value: "£26 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "naval base upgrades (Project Royal Oak) £26 billion over a decade"
+      - claim: Digital targeting web allocation
+        kind: numerical_with_unit
+        value: "£2 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "digital targeting web £2 billion"
+      - claim: Munitions allocation
+        kind: numerical_with_unit
+        value: "£11 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "munitions £11 billion"
+      - claim: Defence export fund
+        kind: numerical_with_unit
+        value: "£50 billion"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "a £50 billion defence export fund via UK Export Finance"
+      - claim: Named institution UK Export Finance
+        kind: named_institution
+        value: "UK Export Finance"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "a £50 billion defence export fund via UK Export Finance"
+      - claim: UK defence industry jobs supported
+        kind: numerical_with_unit
+        value: "nearly 60,000"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "expected to support nearly 60,000 direct and indirect UK defence-industry jobs"
+      - claim: Named person Defence Secretary
+        kind: named_person
+        value: "Dan Jarvis"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Defence Secretary Dan Jarvis secured the package"
+      - claim: Named person predecessor Defence Secretary
+        kind: named_person
+        value: "John Healey"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "after his predecessor John Healey and Armed Forces Minister Al Carns resigned in June"
+      - claim: Named person Armed Forces Minister
+        kind: named_person
+        value: "Al Carns"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Armed Forces Minister Al Carns resigned in June over funding adequacy"
+      - claim: Named person Conservative Shadow Defence Secretary
+        kind: named_person
+        value: "James Cartlidge"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Conservative Shadow Defence Secretary James Cartlidge called it"
+      - claim: Named person Liberal Democrat leader
+        kind: named_person
+        value: "Sir Ed Davey"
+        source_urls:
+          - "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        verbatim_excerpt: "Liberal Democrat leader Sir Ed Davey described it as"
+    quotes:
+      - speaker_name: "Keir Starmer"
+        speaker_title: "Prime Minister, United Kingdom"
+        verbatim_en: "The paradox of peace is that when the world is arming and aggression is rising, the best way to avoid war is to prepare for it."
+        source_url: "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        context: "Announcing the UK Defence Investment Plan on 30 June 2026"
+      - speaker_name: "Keir Starmer"
+        speaker_title: "Prime Minister, United Kingdom"
+        verbatim_en: "This record investment puts the security of the British public first, transforming our Armed Forces."
+        source_url: "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        context: "Announcing the UK Defence Investment Plan on 30 June 2026"
+      - speaker_name: "Rachel Reeves"
+        speaker_title: "Chancellor, United Kingdom"
+        verbatim_en: "I have boosted defence spending to the highest level since the Cold War."
+        source_url: "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        context: "Statement accompanying the Defence Investment Plan announcement"
+      - speaker_name: "Dan Jarvis"
+        speaker_title: "Defence Secretary, United Kingdom"
+        verbatim_en: "Britain is stepping up on security."
+        source_url: "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        context: "Statement accompanying the Defence Investment Plan announcement"
+      - speaker_name: "James Cartlidge"
+        speaker_title: "Conservative Shadow Defence Secretary"
+        verbatim_en: "The plan is now almost a year overdue and only being rushed through because Keir Starmer is desperate for a legacy."
+        source_url: "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe"
+        context: "Opposition response to the Defence Investment Plan"
+
+  - story_id: dwp-estimates-day-debate-commons
+    category: politics
+    headline_en: "House of Commons holds DWP Estimates Day debate on welfare spending"
+    lead_url: "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+    body_source: paywall-stub
+    corroborated_by: []
+    locked_urls:
+      - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+    hard_facts:
+      - claim: Date of DWP Estimates Day debate
+        kind: temporal
+        value: "Tuesday 30 June 2026"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "On Tuesday 30 June 2026 the House of Commons debated Department for Work and Pensions (DWP) spending priorities"
+      - claim: Named institution House of Commons
+        kind: named_institution
+        value: "House of Commons"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "On Tuesday 30 June 2026 the House of Commons debated"
+      - claim: Named institution Department for Work and Pensions
+        kind: named_institution
+        value: "Department for Work and Pensions"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "Department for Work and Pensions (DWP) spending priorities"
+      - claim: Named person debate opener
+        kind: named_person
+        value: "Debbie Abrahams"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "opened by Debbie Abrahams MP, chair of the Work and Pensions Committee"
+      - claim: Named institution Work and Pensions Committee
+        kind: named_institution
+        value: "Work and Pensions Committee"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "chair of the Work and Pensions Committee"
+      - claim: Named institution Backbench Business Committee
+        kind: named_institution
+        value: "Backbench Business Committee"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "allocated via the Backbench Business Committee"
+      - claim: Named institution Department of Health and Social Care
+        kind: named_institution
+        value: "Department of Health and Social Care"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "A parallel Estimates debate on Department of Health and Social Care (DHSC) pharmaceutical procurement"
+      - claim: Named person Prime Minister who resigned
+        kind: named_person
+        value: "Keir Starmer"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "Prime Minister Keir Starmer's resignation"
+      - claim: Named person Labour leadership candidate
+        kind: named_person
+        value: "Andy Burnham"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "the Labour leadership contest involving Andy Burnham"
+      - claim: Labour leadership nominations opening date
+        kind: temporal
+        value: "9 July"
+        source_urls:
+          - "https://commonslibrary.parliament.uk/research-briefings/cbp-10912/"
+        verbatim_excerpt: "with nominations opening 9 July"
+    quotes: []
+
+  - story_id: uk-maternity-neonatal-commissioner-41m
+    category: society
+    headline_en: "UK appoints first Maternity and Neonatal Commissioner with £41m safety investment"
+    lead_url: "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+    hard_facts:
+      - claim: Announcement date
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "The UK government announced on 30 June 2026"
+      - claim: Named institution National Maternity and Neonatal Taskforce
+        kind: named_institution
+        value: "National Maternity and Neonatal Taskforce"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "The Commissioner will co-chair the National Maternity and Neonatal Taskforce"
+      - claim: Named person Health Secretary
+        kind: named_person
+        value: "James Murray"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "alongside Health Secretary James Murray"
+      - claim: Safety investment announced
+        kind: numerical_with_unit
+        value: "£41 million"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "an additional £41 million investment in safety improvements"
+      - claim: Total government investment since April 2025
+        kind: numerical_with_unit
+        value: "£145 million"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "This brings total government investment since April 2025 to £145 million"
+      - claim: Start date of total investment period
+        kind: temporal
+        value: "April 2025"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "total government investment since April 2025"
+      - claim: Funding for temporary midwifery posts
+        kind: numerical_with_unit
+        value: "£10 million"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "a further £10 million earmarked for 1,000 temporary midwifery posts"
+      - claim: Number of temporary midwifery posts
+        kind: numerical_with_unit
+        value: "1,000"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "£10 million earmarked for 1,000 temporary midwifery posts"
+      - claim: Number of NHS trusts in independent review
+        kind: numerical
+        value: "12"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "experiences of thousands of women and families across 12 NHS trusts"
+      - claim: Named product Martha's Rule
+        kind: named_product
+        value: "Martha's Rule"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "Martha's Rule — giving patients and families the right to call for an urgent review"
+      - claim: Martha's Rule extension date
+        kind: temporal
+        value: "24 June 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "was extended to all maternity services on 24 June 2026"
+      - claim: National Action Plan publication date
+        kind: temporal
+        value: "December 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "A National Action Plan will be published in December 2026"
+      - claim: Named person Chief Midwifery Officer
+        kind: named_person
+        value: "Kate Brintworth"
+        source_urls:
+          - "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        verbatim_excerpt: "Chief Midwifery Officer for England Kate Brintworth"
+    quotes:
+      - speaker_name: "James Murray"
+        speaker_title: "Health Secretary, United Kingdom"
+        verbatim_en: "For too long women, babies and families have been failed by a system that didn't listen. The appointment of our first-ever Maternity and Neonatal Commissioner will provide the independent leadership needed to deliver real and lasting change."
+        source_url: "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        context: "Announcing the first Maternity and Neonatal Commissioner on 30 June 2026"
+      - speaker_name: "Kate Brintworth"
+        speaker_title: "Chief Midwifery Officer for England"
+        verbatim_en: "Women and families must be taken seriously when they say something is wrong."
+        source_url: "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed"
+        context: "Statement on the Maternity and Neonatal Commissioner announcement"
+
+  - story_id: anti-migrant-rhetoric-racism-resurgence-uk
+    category: society
+    headline_en: "Anti-migrant rhetoric fuels resurgence of racism in UK, trade unions report"
+    lead_url: "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+    body_source: full
+    corroborated_by:
+      - "https://www.arabnews.com/node/2649045/world"
+      - "https://www.usnews.com/news/world/articles/2026-06-30/anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour"
+    locked_urls:
+      - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+      - "https://www.arabnews.com/node/2649045/world"
+      - "https://www.usnews.com/news/world/articles/2026-06-30/anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour"
+    hard_facts:
+      - claim: Publication date of Reuters investigation
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "A Reuters investigation published on 30 June 2026"
+      - claim: Number of trade unions whose members reported rising racist incidents
+        kind: numerical
+        value: "10"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "representatives of 10 trade unions, whose members reported rising racist incidents"
+      - claim: Named institution Royal College of Nursing
+        kind: named_institution
+        value: "Royal College of Nursing"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "The Royal College of Nursing reported a 55% rise in staff experiencing racial discrimination"
+      - claim: Rise in staff experiencing racial discrimination since 2022
+        kind: numerical_with_unit
+        value: "55%"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "a 55% rise in staff experiencing racial discrimination since 2022"
+      - claim: Base year for nursing discrimination rise
+        kind: temporal
+        value: "2022"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "racial discrimination since 2022"
+      - claim: Share of nursing sector staff from ethnic minorities
+        kind: numerical_with_unit
+        value: "One-third"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "One-third of nursing sector staff are Black, Asian, or minority ethnic"
+      - claim: Racially motivated hate crimes England and Wales year ending March 2025
+        kind: numerical_with_unit
+        value: "82,490"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Racially motivated hate crimes in England and Wales rose 6% to 82,490"
+      - claim: Rise in racially motivated hate crimes
+        kind: numerical_with_unit
+        value: "6%"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Racially motivated hate crimes in England and Wales rose 6% to 82,490"
+      - claim: Period of hate crime data
+        kind: temporal
+        value: "year ending March 2025"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "in the year ending March 2025"
+      - claim: Share believing immigration benefits UK economy and culture in 2022
+        kind: numerical_with_unit
+        value: "50%"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "fell from 50% to 32% between 2022 and 2025"
+      - claim: Share believing immigration benefits UK economy and culture in 2025
+        kind: numerical_with_unit
+        value: "32%"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "fell from 50% to 32% between 2022 and 2025"
+      - claim: UK net migration 2025
+        kind: numerical_with_unit
+        value: "approximately 171,000"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "UK net migration in 2025 stood at approximately 171,000"
+      - claim: UK net migration previous year
+        kind: numerical_with_unit
+        value: "331,000"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "sharply down from 331,000 the previous year"
+      - claim: Small boat arrivals rise 2025
+        kind: numerical_with_unit
+        value: "13%"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Small boat arrivals rose 13% in 2025 to 41,000"
+      - claim: Small boat arrivals total 2025
+        kind: numerical_with_unit
+        value: "41,000"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Small boat arrivals rose 13% in 2025 to 41,000"
+      - claim: Named person Deputy Director Network of Sikh Organisations
+        kind: named_person
+        value: "Hardeep Singh"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Hardeep Singh, Deputy Director of the Network of Sikh Organisations"
+      - claim: Named institution Network of Sikh Organisations
+        kind: named_institution
+        value: "Network of Sikh Organisations"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Deputy Director of the Network of Sikh Organisations"
+      - claim: Named person head of Nursing and Midwifery Council
+        kind: named_person
+        value: "Paul Rees"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Paul Rees, head of the Nursing and Midwifery Council"
+      - claim: Named institution Nursing and Midwifery Council
+        kind: named_institution
+        value: "Nursing and Midwifery Council"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Paul Rees, head of the Nursing and Midwifery Council"
+      - claim: Named person political figure driving anti-migrant sentiment
+        kind: named_person
+        value: "Nigel Farage"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Nigel Farage of Reform UK was cited as a political figure driving anti-migrant sentiment"
+      - claim: Named institution Reform UK
+        kind: named_institution
+        value: "Reform UK"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Nigel Farage of Reform UK was cited"
+      - claim: Named person Prime Minister
+        kind: named_person
+        value: "Keir Starmer"
+        source_urls:
+          - "https://www.timeslive.co.za/news/world/2026-06-30-anti-migrant-politics-spark-resurgence-of-racism-say-some-britons-of-colour/"
+        verbatim_excerpt: "Prime Minister Keir Starmer has repeatedly condemned racism"
+    quotes: []
+
+  - story_id: barclays-canary-wharf-999yr-leasehold-750m
+    category: ipo_ma
+    headline_en: "Barclays acquires 999-year leasehold of Canary Wharf global headquarters for £750m"
+    lead_url: "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+    body_source: full
+    corroborated_by:
+      - "https://www.bloomberg.com/news/articles/2026-06-30/barclays-buys-london-hq-in-999-year-750-million-lease-deal"
+      - "https://greenstreetnews.com/article/barclays-strikes-750m-deal-for-canary-wharf-hq/"
+    locked_urls:
+      - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+      - "https://www.bloomberg.com/news/articles/2026-06-30/barclays-buys-london-hq-in-999-year-750-million-lease-deal"
+      - "https://greenstreetnews.com/article/barclays-strikes-750m-deal-for-canary-wharf-hq/"
+    hard_facts:
+      - claim: Named institution acquirer
+        kind: named_institution
+        value: "Barclays Bank plc"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        verbatim_excerpt: "Barclays Bank plc announced on 30 June 2026 the acquisition"
+      - claim: Announcement date
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        verbatim_excerpt: "Barclays Bank plc announced on 30 June 2026"
+      - claim: Leasehold term
+        kind: numerical_with_unit
+        value: "999-year"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+          - "https://www.bloomberg.com/news/articles/2026-06-30/barclays-buys-london-hq-in-999-year-750-million-lease-deal"
+        verbatim_excerpt: "acquisition of a 999-year leasehold interest"
+      - claim: Named product property acquired
+        kind: named_product
+        value: "One Churchill Place"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+          - "https://www.bloomberg.com/news/articles/2026-06-30/barclays-buys-london-hq-in-999-year-750-million-lease-deal"
+        verbatim_excerpt: "leasehold interest in its global headquarters at One Churchill Place, Canary Wharf, London"
+      - claim: Named institution seller
+        kind: named_institution
+        value: "Canary Wharf Group plc"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+          - "https://www.bloomberg.com/news/articles/2026-06-30/barclays-buys-london-hq-in-999-year-750-million-lease-deal"
+        verbatim_excerpt: "from Canary Wharf Group plc"
+      - claim: Acquisition price GBP
+        kind: numerical_with_unit
+        value: "£750 million"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+          - "https://www.bloomberg.com/news/articles/2026-06-30/barclays-buys-london-hq-in-999-year-750-million-lease-deal"
+          - "https://greenstreetnews.com/article/barclays-strikes-750m-deal-for-canary-wharf-hq/"
+        verbatim_excerpt: "The acquisition price is £750 million"
+      - claim: Building size
+        kind: numerical_with_unit
+        value: "1 million square-foot"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        verbatim_excerpt: "a 1 million square-foot office building"
+      - claim: Year building became Barclays headquarters
+        kind: temporal
+        value: "2005"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        verbatim_excerpt: "has served as Barclays' global headquarters since 2005"
+      - claim: Previous lease expiry year
+        kind: temporal
+        value: "2039"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        verbatim_excerpt: "previously held under a lease set to expire in 2039"
+      - claim: Acquisition price USD equivalent
+        kind: numerical_with_unit
+        value: "approximately USD 950 million"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        verbatim_excerpt: "Estimated value approximately £750 million (approximately USD 950 million)"
+      - claim: Named institution departed tenant referenced
+        kind: named_institution
+        value: "HSBC"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        verbatim_excerpt: "following the departure of several large financial institutions, including HSBC"
+      - claim: Named person Barclays CEO
+        kind: named_person
+        value: "CS Venkatakrishnan"
+        source_urls:
+          - "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        verbatim_excerpt: "Barclays CEO CS Venkatakrishnan"
+    quotes:
+      - speaker_name: "CS Venkatakrishnan"
+        speaker_title: "CEO, Barclays"
+        verbatim_en: "This acquisition gives us long-term certainty, greater flexibility over our London footprint and reinforces our continued confidence in London as one of the world's leading global financial centres."
+        source_url: "https://www.cityam.com/barclays-takes-control-of-canary-wharf-base-in-strong-endorsement-of-london/"
+        context: "Announcing Barclays' acquisition of the 999-year leasehold of One Churchill Place on 30 June 2026"
+
+  - story_id: uk-housebuilders-45bn-class-action-collusion
+    category: other
+    headline_en: "UK housebuilders face potential £4.5 billion class action over alleged price collusion"
+    lead_url: "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+    body_source: full
+    corroborated_by:
+      - "https://www.irishnews.com/news/uk/housebuilders-face-potential-45-billion-class-action-legal-case-HP2WMZKN7RKOFGC5EMCAPYEX6U/"
+    locked_urls:
+      - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+      - "https://www.irishnews.com/news/uk/housebuilders-face-potential-45-billion-class-action-legal-case-HP2WMZKN7RKOFGC5EMCAPYEX6U/"
+    hard_facts:
+      - claim: Minimum claim value
+        kind: numerical_with_unit
+        value: "£2.2 billion"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "valued at between £2.2 billion and £4.5 billion"
+      - claim: Maximum claim value
+        kind: numerical_with_unit
+        value: "£4.5 billion"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+          - "https://www.irishnews.com/news/uk/housebuilders-face-potential-45-billion-class-action-legal-case-HP2WMZKN7RKOFGC5EMCAPYEX6U/"
+        verbatim_excerpt: "valued at between £2.2 billion and £4.5 billion"
+      - claim: Filing date
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "was filed on 30 June 2026"
+      - claim: Number of housebuilders named
+        kind: numerical
+        value: "seven"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "against seven UK housebuilders"
+      - claim: Named institution defendant 1
+        kind: named_institution
+        value: "Barratt Redrow"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Barratt Redrow, Bellway, The Berkeley Group, Bloor Homes, Persimmon, Taylor Wimpey and Vistry Group"
+      - claim: Named institution defendant 2
+        kind: named_institution
+        value: "Bellway"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Barratt Redrow, Bellway, The Berkeley Group, Bloor Homes, Persimmon, Taylor Wimpey and Vistry Group"
+      - claim: Named institution defendant 3
+        kind: named_institution
+        value: "The Berkeley Group"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Barratt Redrow, Bellway, The Berkeley Group, Bloor Homes, Persimmon, Taylor Wimpey and Vistry Group"
+      - claim: Named institution defendant 4
+        kind: named_institution
+        value: "Bloor Homes"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Barratt Redrow, Bellway, The Berkeley Group, Bloor Homes, Persimmon, Taylor Wimpey and Vistry Group"
+      - claim: Named institution defendant 5
+        kind: named_institution
+        value: "Persimmon"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Barratt Redrow, Bellway, The Berkeley Group, Bloor Homes, Persimmon, Taylor Wimpey and Vistry Group"
+      - claim: Named institution defendant 6
+        kind: named_institution
+        value: "Taylor Wimpey"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Barratt Redrow, Bellway, The Berkeley Group, Bloor Homes, Persimmon, Taylor Wimpey and Vistry Group"
+      - claim: Named institution defendant 7
+        kind: named_institution
+        value: "Vistry Group"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Barratt Redrow, Bellway, The Berkeley Group, Bloor Homes, Persimmon, Taylor Wimpey and Vistry Group"
+      - claim: Claim period start date
+        kind: temporal
+        value: "October 2015"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "covers purchases made between October 2015 and 24 June 2026"
+      - claim: Claim period end date
+        kind: temporal
+        value: "24 June 2026"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "covers purchases made between October 2015 and 24 June 2026"
+      - claim: Number of consumers potentially affected
+        kind: numerical_with_unit
+        value: "around 700,000"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "could affect around 700,000 consumers"
+      - claim: Minimum individual compensation
+        kind: numerical_with_unit
+        value: "£3,100"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Individual eligible homebuyers could receive compensation of between £3,100 and £6,200"
+      - claim: Maximum individual compensation
+        kind: numerical_with_unit
+        value: "£6,200"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "Individual eligible homebuyers could receive compensation of between £3,100 and £6,200"
+      - claim: Named person class representative
+        kind: named_person
+        value: "Mark McLaren"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "led by Mark McLaren, a former parliamentary manager at consumer group Which?"
+      - claim: Named institution McLaren's former employer
+        kind: named_institution
+        value: "Which?"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "a former parliamentary manager at consumer group Which?"
+      - claim: Named institution Competition and Markets Authority
+        kind: named_institution
+        value: "Competition and Markets Authority"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "a Competition and Markets Authority (CMA) investigation"
+      - claim: CMA settlement value toward affordable housing
+        kind: numerical_with_unit
+        value: "£100 million"
+        source_urls:
+          - "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        verbatim_excerpt: "the housebuilders agreed to pay £100 million toward affordable housing"
+    quotes:
+      - speaker_name: "Mark McLaren"
+        speaker_title: "Class representative, former parliamentary manager at Which?"
+        verbatim_en: "Buying a home is one of the biggest financial commitments most of us will make. If, as seems to be the case, housebuilders shared sensitive pricing and sales information with one another instead of competing properly, homeowners across Great Britain may well have been left out of pocket as a result. This claim is about standing up for those buyers and ensuring that compensation is delivered to those who deserve it. For most homeowners, bringing an individual claim simply isn't realistic, as the cost and complexity put it out of reach. That's why this collective action is so important. It provides a practical route for hundreds of thousands of consumers to seek compensation where they may otherwise have had no way of doing so."
+        source_url: "https://www.lse.co.uk/news/uk-housebuilders-face-potential-gbp45-billion-class-action-legal-case-hyab0yoeq17fp4q.html"
+        context: "Statement on filing the collective class action against seven UK housebuilders on 30 June 2026"

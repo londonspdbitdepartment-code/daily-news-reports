@@ -1,0 +1,1427 @@
+version: 1
+generated_at: "2026-06-30T12:00:00Z"
+country: United States
+date: "2026-06-30"
+total_stories: 19
+stories:
+  - story_id: commerce-secretary-copper-tariff-update
+    category: econ
+    headline_en: Commerce Secretary delivers refined copper tariff market update to President, phased duties decision pending
+    lead_url: https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+    body_source: full
+    corroborated_by:
+      - https://www.congress.gov/crs-product/IN12614
+      - https://www.federalregister.gov/documents/2025/08/05/2025-14893/adjusting-imports-of-copper-into-the-united-states
+      - https://www.peacocktariffconsulting.com/trump-tweaks-copper-tariff-rules-ahead-of-refined-metal-reviewa-strategic-briefing-on-the-june-1-2026-section-232-proclamation-for-aluminum-steel-and-copper/
+    locked_urls:
+      - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+      - https://www.congress.gov/crs-product/IN12614
+      - https://www.federalregister.gov/documents/2025/08/05/2025-14893/adjusting-imports-of-copper-into-the-united-states
+      - https://www.peacocktariffconsulting.com/trump-tweaks-copper-tariff-rules-ahead-of-refined-metal-reviewa-strategic-briefing-on-the-june-1-2026-section-232-proclamation-for-aluminum-steel-and-copper/
+    hard_facts:
+      - claim: Secretary of Commerce update deadline
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "By June 30, 2026, the Secretary of Commerce shall provide the President with an update on domestic copper markets"
+      - claim: proposed phased import duty on refined copper — first phase
+        kind: numerical_with_unit
+        value: "15 percent"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "imposing a phased universal import duty on refined copper of 15 percent starting on January 1, 2027"
+      - claim: proposed phased import duty on refined copper — second phase
+        kind: numerical_with_unit
+        value: "30 percent"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "and 30 percent starting on January 1, 2028"
+      - claim: first-phase tariff start date
+        kind: temporal
+        value: "January 1, 2027"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "15 percent starting on January 1, 2027"
+      - claim: second-phase tariff start date
+        kind: temporal
+        value: "January 1, 2028"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "30 percent starting on January 1, 2028"
+      - claim: Section 232 report date
+        kind: temporal
+        value: "June 30, 2025"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "as recommended by the June 30, 2025 Section 232 report"
+      - claim: domestic sales requirement for copper input materials starting rate
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "recommended a domestic sales requirement for copper input materials starting at 25% in 2027"
+      - claim: domestic sales requirement for copper input materials start year
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "domestic sales requirement for copper input materials starting at 25% in 2027"
+      - claim: domestic sales requirement for high-quality copper scrap
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "a 25% domestic sales requirement for high-quality copper scrap"
+      - claim: presidential proclamation title
+        kind: named_institution
+        value: "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+        verbatim_excerpt: "The White House proclamation \"Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper\" (dated June 2026) mandated this review"
+    quotes: []
+
+  - story_id: bls-jolts-may-2026-release
+    category: econ
+    headline_en: BLS releases Job Openings and Labor Turnover Survey (JOLTS) for May 2026
+    lead_url: https://www.bls.gov/jlt/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.bls.gov/jlt/
+    hard_facts:
+      - claim: JOLTS May 2026 release time
+        kind: temporal
+        value: "10:00 AM ET on June 30, 2026"
+        source_urls:
+          - https://www.bls.gov/jlt/
+        verbatim_excerpt: "The Bureau of Labor Statistics scheduled the release of the Job Openings and Labor Turnover Survey (JOLTS) for May 2026 at 10:00 AM ET on June 30, 2026"
+      - claim: named institution — Bureau of Labor Statistics
+        kind: named_institution
+        value: "Bureau of Labor Statistics"
+        source_urls:
+          - https://www.bls.gov/jlt/
+        verbatim_excerpt: "The Bureau of Labor Statistics scheduled the release of the Job Openings and Labor Turnover Survey"
+      - claim: named product — JOLTS survey
+        kind: named_product
+        value: "Job Openings and Labor Turnover Survey (JOLTS)"
+        source_urls:
+          - https://www.bls.gov/jlt/
+        verbatim_excerpt: "the Job Openings and Labor Turnover Survey (JOLTS) for May 2026"
+      - claim: April 2026 JOLTS job openings reading
+        kind: numerical_with_unit
+        value: "7.2 million job openings"
+        source_urls:
+          - https://www.bls.gov/jlt/
+        verbatim_excerpt: "The April 2026 JOLTS reading showed 7.2 million job openings, down from prior months"
+      - claim: Federal Reserve H.15 release time
+        kind: temporal
+        value: "4:15 PM ET June 30"
+        source_urls:
+          - https://www.bls.gov/jlt/
+        verbatim_excerpt: "The Federal Reserve's H.15 Selected Interest Rates data is also scheduled for release at 4:15 PM ET June 30"
+      - claim: named institution — Federal Reserve
+        kind: named_institution
+        value: "Federal Reserve"
+        source_urls:
+          - https://www.bls.gov/jlt/
+        verbatim_excerpt: "JOLTS is a key Federal Reserve indicator"
+      - claim: named product — Federal Reserve H.15 Selected Interest Rates
+        kind: named_product
+        value: "H.15 Selected Interest Rates"
+        source_urls:
+          - https://www.bls.gov/jlt/
+        verbatim_excerpt: "The Federal Reserve's H.15 Selected Interest Rates data is also scheduled for release at 4:15 PM ET June 30"
+      - claim: named institution — FOMC
+        kind: named_institution
+        value: "FOMC"
+        source_urls:
+          - https://www.bls.gov/jlt/
+        verbatim_excerpt: "The May 2026 release will be the most current data on labor demand available to the FOMC"
+    quotes: []
+
+  - story_id: conference-board-june-2026-cci
+    category: econ
+    headline_en: Conference Board releases June 2026 Consumer Confidence Index
+    lead_url: https://www.conference-board.org/topics/consumer-confidence
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.conference-board.org/topics/consumer-confidence
+    hard_facts:
+      - claim: CCI June 2026 release time
+        kind: temporal
+        value: "10:00 AM ET on June 30, 2026"
+        source_urls:
+          - https://www.conference-board.org/topics/consumer-confidence
+        verbatim_excerpt: "The Conference Board scheduled the release of its June 2026 Consumer Confidence Index at 10:00 AM ET on June 30, 2026"
+      - claim: named institution — The Conference Board
+        kind: named_institution
+        value: "The Conference Board"
+        source_urls:
+          - https://www.conference-board.org/topics/consumer-confidence
+        verbatim_excerpt: "The Conference Board scheduled the release of its June 2026 Consumer Confidence Index"
+      - claim: May 2026 Consumer Confidence Index reading
+        kind: numerical
+        value: "93.1"
+        source_urls:
+          - https://www.conference-board.org/topics/consumer-confidence
+        verbatim_excerpt: "The May 2026 reading came in at 93.1 — the lowest since 2020"
+      - claim: May 2026 CCI lowest since year
+        kind: temporal
+        value: "lowest since 2020"
+        source_urls:
+          - https://www.conference-board.org/topics/consumer-confidence
+        verbatim_excerpt: "came in at 93.1 — the lowest since 2020"
+    quotes:
+      - speaker_name: The Conference Board
+        speaker_title: Conference Board Economic Research
+        verbatim_en: "consumers' assessment of the present situation"
+        source_url: https://www.conference-board.org/topics/consumer-confidence
+        context: May 2026 Consumer Confidence release commentary
+
+  - story_id: us-equity-markets-q2-2026-record-highs
+    category: econ
+    headline_en: US equity markets close Q2 2026 at record highs; S&P 500 above 7,400, Dow above 52,000 for first time
+    lead_url: https://www.marketwatch.com/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.reuters.com/markets/
+    locked_urls:
+      - https://www.marketwatch.com/
+      - https://www.reuters.com/markets/
+    hard_facts:
+      - claim: S&P 500 closing level June 29
+        kind: numerical
+        value: "approximately 7,440"
+        source_urls:
+          - https://www.marketwatch.com/
+          - https://www.reuters.com/markets/
+        verbatim_excerpt: "The S&P 500 closed at approximately 7,440 on June 29"
+      - claim: Dow Jones Industrial Average milestone
+        kind: numerical
+        value: "52,000"
+        source_urls:
+          - https://www.marketwatch.com/
+          - https://www.reuters.com/markets/
+        verbatim_excerpt: "the Dow Jones Industrial Average crossing 52,000 for the first time in history"
+      - claim: Q2 2026 close date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.marketwatch.com/
+          - https://www.reuters.com/markets/
+        verbatim_excerpt: "US equity markets closed Q2 2026 at record levels on June 30, 2026"
+      - claim: named institution — Dow Jones Industrial Average
+        kind: named_institution
+        value: "Dow Jones Industrial Average"
+        source_urls:
+          - https://www.marketwatch.com/
+          - https://www.reuters.com/markets/
+        verbatim_excerpt: "the Dow Jones Industrial Average crossing 52,000 for the first time in history"
+      - claim: named institution — S&P 500
+        kind: named_institution
+        value: "S&P 500"
+        source_urls:
+          - https://www.marketwatch.com/
+          - https://www.reuters.com/markets/
+        verbatim_excerpt: "The S&P 500 closed at approximately 7,440 on June 29"
+    quotes: []
+
+  - story_id: scotus-trump-v-barbara-birthright-citizenship
+    category: politics
+    headline_en: Supreme Court expected to rule June 30 on birthright citizenship challenge (Trump v. Barbara)
+    lead_url: https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+      - https://thehill.com/regulation/court-battles/5945644-supreme-court-birthright-citizenship-transgender-athletes/
+      - https://www.usnews.com/news/politics/articles/2026-06-30/supreme-court-to-rule-on-trump-bid-to-limit-birthright-citizenship
+      - https://abcnews.com/Politics/faq-birthright-citizenship-ahead-supreme-courts-ruling/story?id=134215675
+    locked_urls:
+      - https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+      - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+      - https://thehill.com/regulation/court-battles/5945644-supreme-court-birthright-citizenship-transgender-athletes/
+      - https://www.usnews.com/news/politics/articles/2026-06-30/supreme-court-to-rule-on-trump-bid-to-limit-birthright-citizenship
+      - https://abcnews.com/Politics/faq-birthright-citizenship-ahead-supreme-courts-ruling/story?id=134215675
+    hard_facts:
+      - claim: ruling expected date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+        verbatim_excerpt: "The Supreme Court is expected to rule on June 30, 2026 — the final day of its term"
+      - claim: case name and number
+        kind: named_product
+        value: "Trump v. Barbara (No. 25-365)"
+        source_urls:
+          - https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+        verbatim_excerpt: "The case, Trump v. Barbara (No. 25-365), challenges whether the President can unilaterally restrict citizenship"
+      - claim: 14th Amendment ratification year
+        kind: temporal
+        value: "1868"
+        source_urls:
+          - https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+        verbatim_excerpt: "it would be the most significant change to birthright citizenship since the 14th Amendment was ratified in 1868"
+      - claim: oral arguments date
+        kind: temporal
+        value: "April"
+        source_urls:
+          - https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+        verbatim_excerpt: "During April oral arguments, which Trump attended in person"
+      - claim: expected ruling announcement time
+        kind: temporal
+        value: "approximately 10:00 AM ET on June 30"
+        source_urls:
+          - https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+        verbatim_excerpt: "NPR reports the ruling is expected at approximately 10:00 AM ET on June 30"
+      - claim: named person — Chief Justice Roberts
+        kind: named_person
+        value: "Chief Justice Roberts"
+        source_urls:
+          - https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+        verbatim_excerpt: "Chief Justice Roberts and four other justices questioned whether the executive order was consistent with longstanding constitutional interpretation"
+      - claim: justices skeptical of administration's legal theory count
+        kind: numerical
+        value: "four other justices"
+        source_urls:
+          - https://www.npr.org/2026/06/30/nx-s1-5875169/supreme-court-decision-expected-on-trumps-call-to-end-birthright-citizenship
+        verbatim_excerpt: "Chief Justice Roberts and four other justices questioned whether the executive order was consistent"
+    quotes: []
+
+  - story_id: scotus-final-opinions-2025-26-term
+    category: politics
+    headline_en: Supreme Court issues final opinions of 2025-26 term on June 30, including transgender athlete and campaign finance cases
+    lead_url: https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+    body_source: full
+    corroborated_by:
+      - https://rollcall.com/2026/06/29/supreme-court-to-release-final-opinions-of-term-tuesday/
+      - https://www.scotusblog.com/2026/06/the-home-stretch/
+      - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+    locked_urls:
+      - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+      - https://rollcall.com/2026/06/29/supreme-court-to-release-final-opinions-of-term-tuesday/
+      - https://www.scotusblog.com/2026/06/the-home-stretch/
+      - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+    hard_facts:
+      - claim: SCOTUS final term day
+        kind: temporal
+        value: "Tuesday, June 30, 2026"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "The Supreme Court held the final day of its 2025-26 term on Tuesday, June 30, 2026"
+      - claim: total cases argued this term
+        kind: numerical
+        value: "58"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "with four cases remaining from the 58 argued this term"
+      - claim: cases remaining on June 30
+        kind: numerical
+        value: "four"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "with four cases remaining from the 58 argued this term"
+      - claim: named person — Chief Justice John Roberts
+        kind: named_person
+        value: "Chief Justice John Roberts"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "Chief Justice John Roberts announced Monday that June 30 would be the final opinion day"
+      - claim: case name — West Virginia v. B.P.J.
+        kind: named_product
+        value: "West Virginia v. B.P.J."
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "Cases to be decided include West Virginia v. B.P.J. and Little v. Hecox"
+      - claim: case name — Little v. Hecox
+        kind: named_product
+        value: "Little v. Hecox"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "West Virginia v. B.P.J. and Little v. Hecox (state bans on transgender girls in scholastic sports)"
+      - claim: Trump v. Slaughter ruling margin
+        kind: numerical
+        value: "6-3"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "a 6-3 decision in Trump v. Slaughter overturning 91-year-old Humphrey's Executor precedent"
+      - claim: Humphrey's Executor precedent age
+        kind: temporal
+        value: "91-year-old"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "overturning 91-year-old Humphrey's Executor precedent"
+      - claim: case name — Trump v. Slaughter
+        kind: named_product
+        value: "Trump v. Slaughter"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "a 6-3 decision in Trump v. Slaughter overturning 91-year-old Humphrey's Executor precedent"
+      - claim: Trump v. Cook ruling margin
+        kind: numerical
+        value: "5-4"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "a 5-4 ruling in Trump v. Cook blocking Trump's immediate firing of Fed Governor Lisa Cook"
+      - claim: case name — Trump v. Cook
+        kind: named_product
+        value: "Trump v. Cook"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "a 5-4 ruling in Trump v. Cook blocking Trump's immediate firing of Fed Governor Lisa Cook"
+      - claim: named person — Fed Governor Lisa Cook
+        kind: named_person
+        value: "Lisa Cook"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "blocking Trump's immediate firing of Fed Governor Lisa Cook"
+      - claim: Chatrie v. United States ruling margin
+        kind: numerical
+        value: "6-3"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "a 6-3 ruling in Chatrie v. United States limiting police use of geofence warrants"
+      - claim: case name — Chatrie v. United States
+        kind: named_product
+        value: "Chatrie v. United States"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "a 6-3 ruling in Chatrie v. United States limiting police use of geofence warrants"
+      - claim: NBC News live updates start time
+        kind: temporal
+        value: "10:00 AM ET on June 30"
+        source_urls:
+          - https://www.nbcnews.com/politics/politics-news/live-blog/supreme-court-rulings-birthright-citizenship-co-elections-live-updates-rcna352220
+        verbatim_excerpt: "NBC News is running live updates from 10:00 AM ET on June 30 as remaining opinions are released"
+    quotes: []
+
+  - story_id: us-iran-nuclear-talks-doha-impasse
+    category: politics
+    headline_en: US-Iran nuclear talks in Doha reach impasse; Iranian delegation refuses direct meeting with Witkoff
+    lead_url: https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+    body_source: full
+    corroborated_by:
+      - https://www.foxnews.com/live-news/us-iran-peace-talks-hormuz-qatar-june-29
+    locked_urls:
+      - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+      - https://www.foxnews.com/live-news/us-iran-peace-talks-hormuz-qatar-june-29
+    hard_facts:
+      - claim: talks location
+        kind: named_institution
+        value: "Doha, Qatar"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "US-Iran technical talks in Doha, Qatar on June 30, 2026 reached a standstill"
+      - claim: talks date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "US-Iran technical talks in Doha, Qatar on June 30, 2026 reached a standstill"
+      - claim: named person — US envoy Steve Witkoff
+        kind: named_person
+        value: "Steve Witkoff"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "the Iranian delegation refused to meet directly with US envoy Steve Witkoff and Jared Kushner"
+      - claim: named person — Jared Kushner
+        kind: named_person
+        value: "Jared Kushner"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "US envoy Steve Witkoff and Jared Kushner"
+      - claim: Israel war resumption warning timeline
+        kind: temporal
+        value: "within two days"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "Israel warned war could resume \"within two days\" as US and Iran remain far apart on core nuclear issues"
+      - claim: IRGC strikes target — Ali Al Salem Air Base
+        kind: named_institution
+        value: "Ali Al Salem Air Base in Kuwait"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "Iranian IRGC aerospace and naval forces had recently conducted strikes on US military bases at Ali Al Salem Air Base in Kuwait and Sheikh Isa Air Base in Bahrain"
+      - claim: IRGC strikes target — Sheikh Isa Air Base
+        kind: named_institution
+        value: "Sheikh Isa Air Base in Bahrain"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "strikes on US military bases at Ali Al Salem Air Base in Kuwait and Sheikh Isa Air Base in Bahrain"
+      - claim: named institution — Iranian IRGC
+        kind: named_institution
+        value: "IRGC"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "Iranian IRGC aerospace and naval forces had recently conducted strikes"
+      - claim: named institution — Hezbollah
+        kind: named_institution
+        value: "Hezbollah"
+        source_urls:
+          - https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        verbatim_excerpt: "Hezbollah separately agreed to a \"mutual cessation of attacks\" ceasefire proposal"
+    quotes:
+      - speaker_name: Israel (unnamed officials)
+        speaker_title: Israeli government warning
+        verbatim_en: "within two days"
+        source_url: https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        context: Israel's warning about potential war resumption during Doha talks, June 30 2026
+      - speaker_name: Hezbollah (unnamed)
+        speaker_title: Hezbollah ceasefire statement
+        verbatim_en: "mutual cessation of attacks"
+        source_url: https://www.aljazeera.com/news/liveblog/2026/6/30/live-us-iran-nuclear-talks-doha
+        context: Hezbollah ceasefire proposal acceptance, June 30 2026
+
+  - story_id: tata-electronics-ransomware-iphone-18-pro-leak
+    category: tech
+    headline_en: Tata Electronics ransomware attack leaks 630 GB of Apple iPhone 18 Pro design files and supplier data
+    lead_url: https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://macdailynews.com/2026/06/29/tata-electronics-ransomware-attack-leaks-iphone-18-pro-details/
+    locked_urls:
+      - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+      - https://macdailynews.com/2026/06/29/tata-electronics-ransomware-attack-leaks-iphone-18-pro-details/
+    hard_facts:
+      - claim: ransomware group name
+        kind: named_institution
+        value: "World Leaks"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+        verbatim_excerpt: "A ransomware group called \"World Leaks\" targeted Tata Electronics"
+      - claim: named institution — Tata Electronics
+        kind: named_institution
+        value: "Tata Electronics"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+          - https://macdailynews.com/2026/06/29/tata-electronics-ransomware-attack-leaks-iphone-18-pro-details/
+        verbatim_excerpt: "A ransomware group called \"World Leaks\" targeted Tata Electronics, one of Apple's primary iPhone assembly contractors in India"
+      - claim: number of leaked files
+        kind: numerical_with_unit
+        value: "over 200,000 files"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+        verbatim_excerpt: "leaking over 200,000 files totaling approximately 630 GB of data"
+      - claim: total data volume leaked
+        kind: numerical_with_unit
+        value: "approximately 630 GB"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+          - https://macdailynews.com/2026/06/29/tata-electronics-ransomware-attack-leaks-iphone-18-pro-details/
+        verbatim_excerpt: "leaking over 200,000 files totaling approximately 630 GB of data"
+      - claim: report publish date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+        verbatim_excerpt: "according to a CNBC report published June 30, 2026"
+      - claim: named product — iPhone 18 Pro
+        kind: named_product
+        value: "iPhone 18 Pro"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+          - https://macdailynews.com/2026/06/29/tata-electronics-ransomware-attack-leaks-iphone-18-pro-details/
+        verbatim_excerpt: "design schematics, supplier lists, and photographs of iPhone 18 Pro components that had not yet been publicly disclosed"
+      - claim: named institution — Wistron (acquired facility)
+        kind: named_institution
+        value: "Wistron"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+        verbatim_excerpt: "after taking over the Wistron facility"
+      - claim: Apple expected announcement month
+        kind: temporal
+        value: "September 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/apple-supplier-tata-electronics-hit-by-ransomware-iphone-18-pro.html
+        verbatim_excerpt: "months ahead of Apple's expected September 2026 announcement"
+    quotes: []
+
+  - story_id: colorado-ai-sb-24-205-replaced-by-sb-26-189
+    category: tech
+    headline_en: "Colorado's original AI regulation (SB 24-205) milestone date passes without taking effect, replaced by lighter SB 26-189"
+    lead_url: https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+    body_source: full
+    corroborated_by:
+      - https://www.troutmanprivacy.com/2026/05/colorado-legislature-passes-bill-to-repeal-and-replace-colorado-ai-act/
+      - https://leg.colorado.gov/bills/sb24-205
+      - https://frascona.com/colorado-ai-law-update-2026/
+    locked_urls:
+      - https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+      - https://www.troutmanprivacy.com/2026/05/colorado-legislature-passes-bill-to-repeal-and-replace-colorado-ai-act/
+      - https://leg.colorado.gov/bills/sb24-205
+      - https://frascona.com/colorado-ai-law-update-2026/
+    hard_facts:
+      - claim: SB 24-205 intended effective date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+          - https://leg.colorado.gov/bills/sb24-205
+        verbatim_excerpt: "June 30, 2026 was the effective date of Colorado SB 24-205"
+      - claim: named product — Colorado SB 24-205
+        kind: named_product
+        value: "Colorado SB 24-205"
+        source_urls:
+          - https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+          - https://leg.colorado.gov/bills/sb24-205
+        verbatim_excerpt: "June 30, 2026 was the effective date of Colorado SB 24-205, the first comprehensive US state AI regulation"
+      - claim: SB 26-189 signing date
+        kind: temporal
+        value: "May 14, 2026"
+        source_urls:
+          - https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+        verbatim_excerpt: "Colorado Governor Jared Polis signed SB 26-189 on May 14, 2026"
+      - claim: named person — Colorado Governor Jared Polis
+        kind: named_person
+        value: "Jared Polis"
+        source_urls:
+          - https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+        verbatim_excerpt: "Colorado Governor Jared Polis signed SB 26-189 on May 14, 2026"
+      - claim: named product — SB 26-189
+        kind: named_product
+        value: "SB 26-189"
+        source_urls:
+          - https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+          - https://www.troutmanprivacy.com/2026/05/colorado-legislature-passes-bill-to-repeal-and-replace-colorado-ai-act/
+        verbatim_excerpt: "Colorado Governor Jared Polis signed SB 26-189 on May 14, 2026, repealing and replacing SB 24-205"
+      - claim: SB 26-189 effective date
+        kind: temporal
+        value: "January 1, 2027"
+        source_urls:
+          - https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+        verbatim_excerpt: "SB 26-189 takes effect January 1, 2027"
+      - claim: named institution — NIST AI Risk Management Framework
+        kind: named_product
+        value: "NIST AI Risk Management Framework"
+        source_urls:
+          - https://www.seyfarth.com/news-insights/colorado-enacts-artificial-intelligence-replacement-law.html
+        verbatim_excerpt: "a rebuttable presumption of compliance for entities following NIST AI Risk Management Framework standards"
+    quotes: []
+
+  - story_id: okx-ai-agent-marketplace-launch
+    category: tech
+    headline_en: OKX launches AI Agent Marketplace for crypto trading and DeFi automation on US platform
+    lead_url: https://techcrunch.com/2026/06/30/okx-ai-agent-marketplace/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://techcrunch.com/2026/06/30/okx-ai-agent-marketplace/
+    hard_facts:
+      - claim: named institution — OKX
+        kind: named_institution
+        value: "OKX"
+        source_urls:
+          - https://techcrunch.com/2026/06/30/okx-ai-agent-marketplace/
+        verbatim_excerpt: "OKX, one of the world's largest crypto exchanges, launched an AI Agent Marketplace on June 30, 2026"
+      - claim: marketplace launch date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://techcrunch.com/2026/06/30/okx-ai-agent-marketplace/
+        verbatim_excerpt: "launched an AI Agent Marketplace on June 30, 2026"
+      - claim: named product — AI Agent Marketplace
+        kind: named_product
+        value: "AI Agent Marketplace"
+        source_urls:
+          - https://techcrunch.com/2026/06/30/okx-ai-agent-marketplace/
+        verbatim_excerpt: "OKX, one of the world's largest crypto exchanges, launched an AI Agent Marketplace on June 30, 2026"
+      - claim: named institution — SEC
+        kind: named_institution
+        value: "SEC"
+        source_urls:
+          - https://techcrunch.com/2026/06/30/okx-ai-agent-marketplace/
+        verbatim_excerpt: "regulatory questions that the SEC and CFTC have not yet addressed"
+      - claim: named institution — CFTC
+        kind: named_institution
+        value: "CFTC"
+        source_urls:
+          - https://techcrunch.com/2026/06/30/okx-ai-agent-marketplace/
+        verbatim_excerpt: "regulatory questions that the SEC and CFTC have not yet addressed"
+      - claim: article publish date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://techcrunch.com/2026/06/30/okx-ai-agent-marketplace/
+        verbatim_excerpt: "TechCrunch's article is dated June 30, 2026"
+    quotes: []
+
+  - story_id: us-murder-rate-record-low-2026
+    category: society
+    headline_en: "US murder rate on pace for record low in 2026; down 18.7% in first four months versus 2025"
+    lead_url: https://www.npr.org/2026/06/30/
+    body_source: full
+    corroborated_by:
+      - https://www.kpbs.org/
+    locked_urls:
+      - https://www.npr.org/2026/06/30/
+      - https://www.kpbs.org/
+    hard_facts:
+      - claim: murder rate decline Jan-Apr 2026 vs 2025
+        kind: numerical_with_unit
+        value: "18.7%"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "murders in the US declined 18.7% in the first four months of 2026 compared to the same period in 2025"
+      - claim: comparison period — first four months of 2026
+        kind: temporal
+        value: "first four months of 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "murders in the US declined 18.7% in the first four months of 2026 compared to the same period in 2025"
+      - claim: report publish date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "According to NPR's June 30, 2026 report"
+      - claim: 2025 murder rate context
+        kind: temporal
+        value: "lowest recorded since the 1950s"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "The 2025 murder rate was itself the lowest recorded since the 1950s"
+      - claim: named institution — NPR
+        kind: named_institution
+        value: "NPR"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "According to NPR's June 30, 2026 report"
+    quotes: []
+
+  - story_id: us-brain-drain-scientists-relocating-uk
+    category: society
+    headline_en: "Brain drain accelerates: US scientists relocating to UK universities amid Trump cuts to federal research funding"
+    lead_url: https://www.npr.org/2026/06/30/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.npr.org/2026/06/30/
+    hard_facts:
+      - claim: named person — Megan Peters
+        kind: named_person
+        value: "Megan Peters"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "The story profiles Megan Peters, a cognitive neuroscientist who left UC Irvine for University College London"
+      - claim: Megan Peters institution (from)
+        kind: named_institution
+        value: "UC Irvine"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "a cognitive neuroscientist who left UC Irvine for University College London"
+      - claim: Megan Peters institution (to)
+        kind: named_institution
+        value: "University College London"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "a cognitive neuroscientist who left UC Irvine for University College London"
+      - claim: named person — Ron Mangun
+        kind: named_person
+        value: "Ron Mangun"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "and Ron Mangun, a neuroscientist who left UC Davis for the University of Birmingham"
+      - claim: Ron Mangun institution (from)
+        kind: named_institution
+        value: "UC Davis"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "a neuroscientist who left UC Davis for the University of Birmingham"
+      - claim: Ron Mangun institution (to)
+        kind: named_institution
+        value: "University of Birmingham"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "a neuroscientist who left UC Davis for the University of Birmingham"
+      - claim: named product — UK Science Superpower Programme
+        kind: named_product
+        value: "Science Superpower Programme"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "The UK government has launched a targeted recruitment effort, \"Science Superpower Programme\""
+      - claim: named institution — NIH
+        kind: named_institution
+        value: "NIH"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "cite the elimination of their NIH and NSF grant funding as the primary driver"
+      - claim: named institution — NSF
+        kind: named_institution
+        value: "NSF"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "cite the elimination of their NIH and NSF grant funding as the primary driver"
+      - claim: UK university application increase ratio vs 2025
+        kind: numerical_with_unit
+        value: "3-5x"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "UK universities report receiving 3-5x the normal number of applications from US-based researchers for faculty positions in 2026 compared to 2025"
+      - claim: report publish date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.npr.org/2026/06/30/
+        verbatim_excerpt: "according to NPR's June 30, 2026 report"
+    quotes: []
+
+  - story_id: parent-plus-loan-consolidation-deadline
+    category: society
+    headline_en: "Student loan deadline: Parent PLUS borrowers face June 30 consolidation deadline for income-driven repayment eligibility"
+    lead_url: https://www.npr.org/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.npr.org/
+    hard_facts:
+      - claim: consolidation deadline
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.npr.org/
+        verbatim_excerpt: "Parent PLUS loan borrowers face a June 30, 2026 deadline to consolidate their loans into a Direct Consolidation Loan"
+      - claim: named product — Direct Consolidation Loan
+        kind: named_product
+        value: "Direct Consolidation Loan"
+        source_urls:
+          - https://www.npr.org/
+        verbatim_excerpt: "consolidate their loans into a Direct Consolidation Loan if they wish to access income-driven repayment (IDR) plans"
+      - claim: named product — Income-Contingent Repayment plan
+        kind: named_product
+        value: "Income-Contingent Repayment (ICR)"
+        source_urls:
+          - https://www.npr.org/
+        verbatim_excerpt: "borrowers who consolidate into a Direct Consolidation Loan before the deadline can enroll in the Income-Contingent Repayment (ICR) plan"
+      - claim: named institution — Department of Education
+        kind: named_institution
+        value: "Department of Education"
+        source_urls:
+          - https://www.npr.org/
+        verbatim_excerpt: "the window created by the Department of Education's ongoing IDR regulatory changes"
+      - claim: estimated affected Parent PLUS borrowers
+        kind: numerical_with_unit
+        value: "3.5 million"
+        source_urls:
+          - https://www.npr.org/
+        verbatim_excerpt: "An estimated 3.5 million Parent PLUS loan borrowers could be affected"
+    quotes: []
+
+  - story_id: itg-inc-429m-nasdaq-ipo
+    category: ipo_ma
+    headline_en: "ITG Inc prices $429.3M Nasdaq IPO; Oaktree-backed digital broadband infrastructure contractor targets AI data center build-out"
+    lead_url: https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+    body_source: full
+    corroborated_by:
+      - https://money.usnews.com/investing/news/articles/2026-06-22/oaktree-backed-digital-infra-firm-itg-aims-to-raise-429-million-in-us-ipo
+      - https://www.investing.com/news/stock-market-news/itg-targets-267-billion-valuation-in-us-ipo-4752441
+      - https://techstartups.com/2026/06/22/itg-targets-429-million-ipo-as-ai-data-center-boom-fuels-broadband-infrastructure-demand/
+      - https://www.gurufocus.com/news/8927871/g-itg-initiates-ipo-roadshow-for-class-a-common-stock
+    locked_urls:
+      - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+      - https://money.usnews.com/investing/news/articles/2026-06-22/oaktree-backed-digital-infra-firm-itg-aims-to-raise-429-million-in-us-ipo
+      - https://www.investing.com/news/stock-market-news/itg-targets-267-billion-valuation-in-us-ipo-4752441
+      - https://techstartups.com/2026/06/22/itg-targets-429-million-ipo-as-ai-data-center-boom-fuels-broadband-infrastructure-demand/
+      - https://www.gurufocus.com/news/8927871/g-itg-initiates-ipo-roadshow-for-class-a-common-stock
+    hard_facts:
+      - claim: IPO ticker symbol
+        kind: named_product
+        value: "ITG"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "ITG Inc (ticker: ITG)"
+      - claim: IPO total size
+        kind: numerical_with_unit
+        value: "$429.3 million"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+          - https://money.usnews.com/investing/news/articles/2026-06-22/oaktree-backed-digital-infra-firm-itg-aims-to-raise-429-million-in-us-ipo
+        verbatim_excerpt: "priced its Nasdaq IPO at $429.3 million by selling 19.5 million Class A shares"
+      - claim: shares sold in IPO
+        kind: numerical_with_unit
+        value: "19.5 million Class A shares"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "by selling 19.5 million Class A shares"
+      - claim: IPO price range low
+        kind: numerical_with_unit
+        value: "$19"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "at a price range of $19 to $22 per share"
+      - claim: IPO price range high
+        kind: numerical_with_unit
+        value: "$22"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "at a price range of $19 to $22 per share"
+      - claim: IPO pricing date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "priced its Nasdaq IPO at $429.3 million by selling 19.5 million Class A shares at a price range of $19 to $22 per share on June 30, 2026"
+      - claim: ITG valuation at high end
+        kind: numerical_with_unit
+        value: "approximately $2.67 billion"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+          - https://www.investing.com/news/stock-market-news/itg-targets-267-billion-valuation-in-us-ipo-4752441
+        verbatim_excerpt: "The offering values ITG at approximately $2.67 billion at the high end"
+      - claim: US states ITG operates in
+        kind: numerical_with_unit
+        value: "49 US states"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "operating across 49 US states"
+      - claim: ITG 2025 revenue
+        kind: numerical_with_unit
+        value: "$1.15 billion"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "The company reported 2025 revenue of $1.15 billion (up from $998 million in 2024)"
+      - claim: ITG 2024 revenue
+        kind: numerical_with_unit
+        value: "$998 million"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "up from $998 million in 2024"
+      - claim: ITG 2025 net income
+        kind: numerical_with_unit
+        value: "$6.2 million"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "net income fell sharply to $6.2 million from $28.3 million"
+      - claim: ITG 2024 net income
+        kind: numerical_with_unit
+        value: "$28.3 million"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "net income fell sharply to $6.2 million from $28.3 million"
+      - claim: trading start date
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "Shares begin trading on the Nasdaq Global Select Market on July 1, 2026"
+      - claim: named institution — Morgan Stanley (underwriter)
+        kind: named_institution
+        value: "Morgan Stanley"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "Underwriters include Morgan Stanley, Citigroup, UBS Investment Bank, and Stifel"
+      - claim: named institution — Citigroup (underwriter)
+        kind: named_institution
+        value: "Citigroup"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "Underwriters include Morgan Stanley, Citigroup, UBS Investment Bank, and Stifel"
+      - claim: named institution — UBS Investment Bank (underwriter)
+        kind: named_institution
+        value: "UBS Investment Bank"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "Underwriters include Morgan Stanley, Citigroup, UBS Investment Bank, and Stifel"
+      - claim: named institution — Stifel (underwriter)
+        kind: named_institution
+        value: "Stifel"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "Underwriters include Morgan Stanley, Citigroup, UBS Investment Bank, and Stifel"
+      - claim: named institution — Oaktree Capital Management (backer)
+        kind: named_institution
+        value: "Oaktree Capital Management"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+          - https://money.usnews.com/investing/news/articles/2026-06-22/oaktree-backed-digital-infra-firm-itg-aims-to-raise-429-million-in-us-ipo
+        verbatim_excerpt: "ITG Inc (ticker: ITG), an Oaktree Capital Management-backed digital infrastructure services contractor"
+      - claim: named institution — Nasdaq Global Select Market
+        kind: named_institution
+        value: "Nasdaq Global Select Market"
+        source_urls:
+          - https://finance.yahoo.com/markets/stocks/articles/itg-targets-2-67-billion-122903694.html
+        verbatim_excerpt: "Shares begin trading on the Nasdaq Global Select Market on July 1, 2026"
+    quotes: []
+
+  - story_id: coppertech-metals-423m-nyse-ipo
+    category: ipo_ma
+    headline_en: "CopperTech Metals (CUX) prices $423.5M NYSE IPO; Vedanta-backed copper/cobalt producer targets critical minerals demand"
+    lead_url: https://stockanalysis.com/ipos/2026/
+    body_source: full
+    corroborated_by:
+      - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=S-1&dateb=&owner=include&count=40
+    locked_urls:
+      - https://stockanalysis.com/ipos/2026/
+      - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=S-1&dateb=&owner=include&count=40
+    hard_facts:
+      - claim: named institution — CopperTech Metals Corporation
+        kind: named_institution
+        value: "CopperTech Metals Corporation"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "CopperTech Metals Corporation (ticker: CUX)"
+      - claim: ticker symbol
+        kind: named_product
+        value: "CUX"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "CopperTech Metals Corporation (ticker: CUX)"
+      - claim: IPO size
+        kind: numerical_with_unit
+        value: "$423.5 million"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "priced its NYSE IPO at $423.5 million on June 30, 2026"
+      - claim: IPO pricing date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "priced its NYSE IPO at $423.5 million on June 30, 2026"
+      - claim: IPO price range low
+        kind: numerical_with_unit
+        value: "$16"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "selling shares at $16-18 per share"
+      - claim: IPO price range high
+        kind: numerical_with_unit
+        value: "$18"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "selling shares at $16-18 per share"
+      - claim: incorporation jurisdiction
+        kind: named_institution
+        value: "Delaware"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "its primary US-listed entity incorporated in Delaware"
+      - claim: copper cathode production capacity
+        kind: numerical_with_unit
+        value: "approximately 180,000 metric tons per year"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "CopperTech's assets include copper cathode production capacity of approximately 180,000 metric tons per year"
+      - claim: trading start date
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "Shares begin trading on the NYSE on July 1, 2026"
+      - claim: named institution — Goldman Sachs (lead underwriter)
+        kind: named_institution
+        value: "Goldman Sachs"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "Goldman Sachs and JPMorgan are lead underwriters"
+      - claim: named institution — JPMorgan (lead underwriter)
+        kind: named_institution
+        value: "JPMorgan"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "Goldman Sachs and JPMorgan are lead underwriters"
+      - claim: named institution — Vedanta Group (parent)
+        kind: named_institution
+        value: "Vedanta Group"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "CopperTech Metals Corporation (ticker: CUX), a Vedanta Group subsidiary"
+      - claim: named institution — NYSE (exchange)
+        kind: named_institution
+        value: "NYSE"
+        source_urls:
+          - https://stockanalysis.com/ipos/2026/
+        verbatim_excerpt: "Shares begin trading on the NYSE on July 1, 2026"
+    quotes: []
+
+  - story_id: comcast-nbcuniversal-sky-spinoff
+    category: ipo_ma
+    headline_en: Comcast announces tax-free spinoff of NBCUniversal and Sky into separate publicly traded company
+    lead_url: https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+    body_source: full
+    corroborated_by:
+      - https://www.cbsnews.com/news/comcast-nbcuniversal-sky-spinoff/
+      - https://www.sec.gov/Archives/edgar/data/0001166691/000095010326009591/dp249094_ex9901.htm
+      - https://www.nbcnews.com/business/business-news/comcast-spinoff-nbcuniversal-sky-split-two-companies-rcna352188
+      - https://www.forbes.com/sites/siladityaray/2026/06/29/comcast-announces-plan-to-split-tech-and-media-business-with-nbcuniversal-spinoff/
+      - https://www.cnn.com/2026/06/29/media/comcast-spinoff-nbc-universal
+      - https://www.techtimes.com/articles/319337/20260629/comcast-nbcuniversal-spinoff-splits-65-million-subscribers-across-two-new-companies.htm
+    locked_urls:
+      - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+      - https://www.cbsnews.com/news/comcast-nbcuniversal-sky-spinoff/
+      - https://www.sec.gov/Archives/edgar/data/0001166691/000095010326009591/dp249094_ex9901.htm
+      - https://www.nbcnews.com/business/business-news/comcast-spinoff-nbcuniversal-sky-split-two-companies-rcna352188
+      - https://www.forbes.com/sites/siladityaray/2026/06/29/comcast-announces-plan-to-split-tech-and-media-business-with-nbcuniversal-spinoff/
+      - https://www.cnn.com/2026/06/29/media/comcast-spinoff-nbc-universal
+      - https://www.techtimes.com/articles/319337/20260629/comcast-nbcuniversal-spinoff-splits-65-million-subscribers-across-two-new-companies.htm
+    hard_facts:
+      - claim: Comcast announcement date
+        kind: temporal
+        value: "June 29, 2026"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+          - https://www.sec.gov/Archives/edgar/data/0001166691/000095010326009591/dp249094_ex9901.htm
+        verbatim_excerpt: "Comcast Corporation announced on June 29, 2026 its intention to separate into two independent publicly traded companies"
+      - claim: named institution — Comcast
+        kind: named_institution
+        value: "Comcast Corporation"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "Comcast Corporation announced on June 29, 2026 its intention to separate"
+      - claim: named institution — NBCUniversal
+        kind: named_institution
+        value: "NBCUniversal"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+          - https://www.cbsnews.com/news/comcast-nbcuniversal-sky-spinoff/
+        verbatim_excerpt: "tax-free spinoff of NBCUniversal and Sky"
+      - claim: named institution — Sky (broadcaster)
+        kind: named_institution
+        value: "Sky"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+          - https://www.cbsnews.com/news/comcast-nbcuniversal-sky-spinoff/
+        verbatim_excerpt: "tax-free spinoff of NBCUniversal and Sky"
+      - claim: Peacock streaming subscriber count
+        kind: numerical_with_unit
+        value: "65 million subscribers"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+          - https://www.techtimes.com/articles/319337/20260629/comcast-nbcuniversal-spinoff-splits-65-million-subscribers-across-two-new-companies.htm
+        verbatim_excerpt: "Peacock streaming (with 65 million subscribers)"
+      - claim: named product — Peacock streaming
+        kind: named_product
+        value: "Peacock"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "Peacock streaming (with 65 million subscribers)"
+      - claim: Xfinity broadband subscriber count
+        kind: numerical_with_unit
+        value: "approximately 32 million subscribers"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "Comcast will retain Xfinity broadband (with approximately 32 million subscribers)"
+      - claim: named product — Xfinity broadband
+        kind: named_product
+        value: "Xfinity"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "Comcast will retain Xfinity broadband (with approximately 32 million subscribers)"
+      - claim: Comcast stake in new company post-spinoff
+        kind: numerical_with_unit
+        value: "19.9%"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+          - https://www.sec.gov/Archives/edgar/data/0001166691/000095010326009591/dp249094_ex9901.htm
+        verbatim_excerpt: "Comcast will hold a 19.9% stake in the new company post-spinoff"
+      - claim: named person — Mike Cavanagh (incoming CEO)
+        kind: named_person
+        value: "Mike Cavanagh"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "Mike Cavanagh, current Comcast president, will become CEO of the new NBCUniversal entity"
+      - claim: spinoff completion timeline
+        kind: temporal
+        value: "approximately 12 months"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "The tax-free spinoff is expected to complete in approximately 12 months"
+      - claim: Comcast share price change percentage after announcement
+        kind: numerical_with_unit
+        value: "21%"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "Comcast shares jumped 21% ($4.85 to $28.02) in premarket trading"
+      - claim: Comcast share price — from (premarket)
+        kind: numerical_with_unit
+        value: "$4.85"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "Comcast shares jumped 21% ($4.85 to $28.02) in premarket trading"
+      - claim: Comcast share price — to (premarket)
+        kind: numerical_with_unit
+        value: "$28.02"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+        verbatim_excerpt: "Comcast shares jumped 21% ($4.85 to $28.02) in premarket trading"
+      - claim: named institution — SEC (8-K filing)
+        kind: named_institution
+        value: "SEC"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+          - https://www.sec.gov/Archives/edgar/data/0001166691/000095010326009591/dp249094_ex9901.htm
+        verbatim_excerpt: "The June 29 8-K filing with the SEC formalized the announcement"
+      - claim: SEC 8-K filing date
+        kind: temporal
+        value: "June 29"
+        source_urls:
+          - https://www.newstribune.com/news/2026/jun/30/comcast-is-spinning-off-nbcuniversal-media/
+          - https://www.sec.gov/Archives/edgar/data/0001166691/000095010326009591/dp249094_ex9901.htm
+        verbatim_excerpt: "The June 29 8-K filing with the SEC formalized the announcement"
+    quotes: []
+
+  - story_id: trump-scotus-wins-fed-tariff-limits
+    category: other
+    headline_en: "Analysis: Trump's Supreme Court term wins deliver executive power but hit limits on Fed and tariffs"
+    lead_url: https://www.axios.com/2026/06/30/trump-supreme-court-economy
+    body_source: full
+    corroborated_by:
+      - https://politicalwire.com/2026/06/30/trumps-supreme-court-wins-hit-one-wall-the-economy/
+      - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+    locked_urls:
+      - https://www.axios.com/2026/06/30/trump-supreme-court-economy
+      - https://politicalwire.com/2026/06/30/trumps-supreme-court-wins-hit-one-wall-the-economy/
+      - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+    hard_facts:
+      - claim: analysis publication date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.axios.com/2026/06/30/trump-supreme-court-economy
+        verbatim_excerpt: "According to Axios's June 30, 2026 analysis"
+      - claim: named institution — Axios
+        kind: named_institution
+        value: "Axios"
+        source_urls:
+          - https://www.axios.com/2026/06/30/trump-supreme-court-economy
+        verbatim_excerpt: "According to Axios's June 30, 2026 analysis"
+      - claim: case name — Trump v. Slaughter (executive power)
+        kind: named_product
+        value: "Trump v. Slaughter"
+        source_urls:
+          - https://www.axios.com/2026/06/30/trump-supreme-court-economy
+        verbatim_excerpt: "including the power to fire independent agency heads (Trump v. Slaughter)"
+      - claim: case name — Trump v. Cook (Fed independence)
+        kind: named_product
+        value: "Trump v. Cook"
+        source_urls:
+          - https://www.axios.com/2026/06/30/trump-supreme-court-economy
+        verbatim_excerpt: "the Court preserved Fed independence (Trump v. Cook, 5-4)"
+      - claim: Trump v. Cook ruling margin
+        kind: numerical
+        value: "5-4"
+        source_urls:
+          - https://www.axios.com/2026/06/30/trump-supreme-court-economy
+        verbatim_excerpt: "the Court preserved Fed independence (Trump v. Cook, 5-4)"
+      - claim: SCOTUS term reference
+        kind: temporal
+        value: "2025-26 term"
+        source_urls:
+          - https://www.axios.com/2026/06/30/trump-supreme-court-economy
+        verbatim_excerpt: "The Supreme Court delivered President Trump sweeping new powers over the federal government during its 2025-26 term"
+    quotes: []
+
+  - story_id: cottonwood-fire-utah-94000-acres
+    category: other
+    headline_en: "Utah-Colorado wildfires: Cottonwood Fire grows to 94,000 acres, remains 4% contained; 3 federal firefighters killed"
+    lead_url: https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+    body_source: full
+    corroborated_by:
+      - https://www.ksl.com/article/51563796/fires-spread-across-utah-burning-more-than-180000-acres
+      - https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder
+      - https://www.cbsnews.com/video/high-winds-heat-fuel-utah-wildfires/
+      - https://www.nifc.gov/nicc-files/sitreprt.pdf
+    locked_urls:
+      - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+      - https://www.ksl.com/article/51563796/fires-spread-across-utah-burning-more-than-180000-acres
+      - https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder
+      - https://www.cbsnews.com/video/high-winds-heat-fuel-utah-wildfires/
+      - https://www.nifc.gov/nicc-files/sitreprt.pdf
+    hard_facts:
+      - claim: named institution — Cottonwood Fire location
+        kind: named_institution
+        value: "Fishlake National Forest"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "The Cottonwood Fire in Utah's Fishlake National Forest"
+      - claim: Cottonwood Fire acreage as of June 30
+        kind: numerical_with_unit
+        value: "approximately 93,918 acres"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "grew to approximately 93,918 acres by June 30, 2026"
+      - claim: date of report
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "grew to approximately 93,918 acres by June 30, 2026"
+      - claim: Cottonwood Fire containment percentage
+        kind: numerical_with_unit
+        value: "4%"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+          - https://www.nifc.gov/nicc-files/sitreprt.pdf
+        verbatim_excerpt: "making it the largest active wildfire in the United States with only 4% containment"
+      - claim: Cottonwood Fire start date
+        kind: temporal
+        value: "June 22"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "The fire began on June 22"
+      - claim: structures destroyed
+        kind: numerical_with_unit
+        value: "approximately 150 structures"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "has resulted in approximately 150 structures destroyed"
+      - claim: federal wildland firefighters killed
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+          - https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder
+        verbatim_excerpt: "three federal wildland firefighters were killed on June 27-28 in a burnover incident on the Colorado-Utah border"
+      - claim: firefighter fatality dates
+        kind: temporal
+        value: "June 27-28"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+          - https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder
+        verbatim_excerpt: "three federal wildland firefighters were killed on June 27-28 in a burnover incident"
+      - claim: named institution — Snyder Fire location
+        kind: named_institution
+        value: "Mesa County, Colorado"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "while responding to the Snyder Fire, which has grown to 28,000 acres at 0% containment in Mesa County, Colorado"
+      - claim: Snyder Fire acreage
+        kind: numerical_with_unit
+        value: "28,000 acres"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "the Snyder Fire, which has grown to 28,000 acres at 0% containment in Mesa County, Colorado"
+      - claim: Snyder Fire containment
+        kind: numerical_with_unit
+        value: "0%"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "the Snyder Fire, which has grown to 28,000 acres at 0% containment"
+      - claim: Utah total wildfire acreage in 2026
+        kind: numerical_with_unit
+        value: "over 180,000 acres"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+          - https://www.ksl.com/article/51563796/fires-spread-across-utah-burning-more-than-180000-acres
+        verbatim_excerpt: "Utah wildfires have burned over 180,000 acres total in 2026"
+      - claim: last comparable wildfire year for Utah
+        kind: temporal
+        value: "2020"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "making this the busiest wildfire year since 2020"
+      - claim: named institution — National Weather Service
+        kind: named_institution
+        value: "National Weather Service"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "The National Weather Service has issued a rare \"Particularly Dangerous Situation\" Red Flag Warning"
+      - claim: named product — Particularly Dangerous Situation Red Flag Warning
+        kind: named_product
+        value: "Particularly Dangerous Situation"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "The National Weather Service has issued a rare \"Particularly Dangerous Situation\" Red Flag Warning — the first ever issued by the Salt Lake City office"
+      - claim: NWS office issuing first-ever PDS Red Flag Warning
+        kind: named_institution
+        value: "Salt Lake City office"
+        source_urls:
+          - https://www.abc4.com/utah-weather/wildfire/cottonwood-fire-activity-expected/
+        verbatim_excerpt: "the first ever issued by the Salt Lake City office"
+    quotes: []
+
+  - story_id: scotus-term-synthesis-executive-power
+    category: other
+    headline_en: "Supreme Court end-of-term synthesis: 2025-26 decisions reshape executive power, digital privacy, and voting rights"
+    lead_url: https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+    body_source: full
+    corroborated_by:
+      - https://www.stevevladeck.com/p/decision-day-summary-june-29-2026
+      - https://www.scotusblog.com/2026/06/the-home-stretch/
+      - https://www.cnn.com/2026/06/29/politics/live-news/supreme-court-issues-opinions
+    locked_urls:
+      - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+      - https://www.stevevladeck.com/p/decision-day-summary-june-29-2026
+      - https://www.scotusblog.com/2026/06/the-home-stretch/
+      - https://www.cnn.com/2026/06/29/politics/live-news/supreme-court-issues-opinions
+    hard_facts:
+      - claim: SCOTUS term conclusion date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "The Supreme Court's 2025-26 term, concluding on June 30, 2026"
+      - claim: case name — Trump v. Slaughter and ruling margin
+        kind: named_product
+        value: "Trump v. Slaughter"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Trump v. Slaughter (6-3, overturns Humphrey's Executor, presidential power to fire independent agency heads)"
+      - claim: Trump v. Slaughter margin
+        kind: numerical
+        value: "6-3"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Trump v. Slaughter (6-3, overturns Humphrey's Executor, presidential power to fire independent agency heads)"
+      - claim: case name — Trump v. Cook and ruling margin
+        kind: named_product
+        value: "Trump v. Cook"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Trump v. Cook (5-4, blocks Trump from firing Fed Governor Lisa Cook immediately)"
+      - claim: Trump v. Cook ruling margin
+        kind: numerical
+        value: "5-4"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Trump v. Cook (5-4, blocks Trump from firing Fed Governor Lisa Cook immediately)"
+      - claim: named person — Fed Governor Lisa Cook
+        kind: named_person
+        value: "Lisa Cook"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Trump v. Cook (5-4, blocks Trump from firing Fed Governor Lisa Cook immediately)"
+      - claim: case name — Watson v. RNC and ruling margin
+        kind: named_product
+        value: "Watson v. RNC"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Watson v. RNC (5-4, upholds state laws counting mail-in ballots arriving after Election Day)"
+      - claim: Watson v. RNC ruling margin
+        kind: numerical
+        value: "5-4"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Watson v. RNC (5-4, upholds state laws counting mail-in ballots arriving after Election Day)"
+      - claim: case name — Chatrie v. United States and ruling margin
+        kind: named_product
+        value: "Chatrie v. United States"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Chatrie v. United States (6-3, restricts geofence warrants as Fourth Amendment searches)"
+      - claim: Chatrie v. United States ruling margin
+        kind: numerical
+        value: "6-3"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "Chatrie v. United States (6-3, restricts geofence warrants as Fourth Amendment searches)"
+      - claim: conservative majority alignment on structural cases
+        kind: numerical
+        value: "6-3"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "The term saw a 6-3 conservative majority on most structural cases"
+      - claim: alignment on Fed independence and digital privacy cases
+        kind: numerical
+        value: "5-4"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "but a 5-4 alignment on Fed independence and digital privacy cases"
+      - claim: named person — Justice Kavanaugh (crossing ideological lines)
+        kind: named_person
+        value: "Justice Kavanaugh"
+        source_urls:
+          - https://www.newsweek.com/supreme-court-trump-powers-rulings-term-end-12133026
+        verbatim_excerpt: "with Justice Kavanaugh crossing ideological lines"
+    quotes: []

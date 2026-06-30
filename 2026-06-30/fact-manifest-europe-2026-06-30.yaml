@@ -1,0 +1,929 @@
+version: 1
+generated_at: "2026-06-30T12:00:00Z"
+country: Europe
+date: "2026-06-30"
+total_stories: 15
+stories:
+  - story_id: uk-gdp-q1-2026-final-estimate
+    category: econ
+    headline_en: UK GDP Final Estimate Q1 2026
+    lead_url: https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+    hard_facts:
+      - claim: UK GDP growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.7%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+        verbatim_excerpt: "UK economy grew 0.7% in Q1 2026, unchanged from second estimate"
+      - claim: Q1 2026 coverage period
+        kind: temporal
+        value: "Q1 2026 (Jan–Mar 2026)"
+        source_urls:
+          - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+        verbatim_excerpt: "final estimate for UK GDP in Q1 2026 (Jan–Mar 2026)"
+      - claim: Services output growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+        verbatim_excerpt: "Services output rose 0.8%"
+      - claim: Construction output growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.6%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+        verbatim_excerpt: "construction up 0.6%"
+      - claim: Production change Q1 2026
+        kind: numerical_with_unit
+        value: "-0.2%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+        verbatim_excerpt: "production fell 0.2%"
+      - claim: UK GDP year-on-year growth vs Q1 2025
+        kind: numerical_with_unit
+        value: "1.7%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+        verbatim_excerpt: "Year-on-year UK economy grew 1.7% vs Q1 2025"
+      - claim: Household consumption growth Q1 2026
+        kind: numerical_with_unit
+        value: "0.4%"
+        source_urls:
+          - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+        verbatim_excerpt: "Household consumption rose 0.4% in Q1 2026"
+      - claim: Publishing institution
+        kind: named_institution
+        value: ONS
+        source_urls:
+          - https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/january2march2026
+        verbatim_excerpt: "ONS published the final estimate for UK GDP"
+    quotes: []
+
+  - story_id: germany-cpi-flash-june-2026
+    category: econ
+    headline_en: Germany CPI Flash June 2026
+    lead_url: https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+    hard_facts:
+      - claim: Germany annual CPI inflation June 2026 (flash)
+        kind: numerical_with_unit
+        value: "2.1%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "Annual CPI inflation expected 2.1% in June 2026"
+      - claim: Germany CPI May 2026 (prior month)
+        kind: numerical_with_unit
+        value: "2.4%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "down from 2.4% in May 2026"
+      - claim: Germany CPI monthly change June 2026
+        kind: numerical_with_unit
+        value: "+0.2%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "Monthly CPI expected +0.2%"
+      - claim: Germany energy prices YoY June 2026
+        kind: numerical_with_unit
+        value: "-3.2%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "Energy prices fell 3.2% YoY"
+      - claim: Germany food prices YoY June 2026
+        kind: numerical_with_unit
+        value: "1.8%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "Food prices rose 1.8% YoY"
+      - claim: Germany services inflation YoY June 2026
+        kind: numerical_with_unit
+        value: "3.6%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "Services inflation 3.6% YoY"
+      - claim: Germany HICP June 2026 (flash)
+        kind: numerical_with_unit
+        value: "2.3%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "HICP for Germany estimated 2.3% YoY in June 2026"
+      - claim: Number of German states in flash estimate sample
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "Flash estimate based on data from six German states"
+      - claim: Publishing institution
+        kind: named_institution
+        value: Destatis
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/06/PE26_261_611.html
+        verbatim_excerpt: "Destatis flash estimate for Germany CPI June 2026"
+    quotes: []
+
+  - story_id: france-cpi-flash-june-2026
+    category: econ
+    headline_en: France CPI Flash June 2026
+    lead_url: https://www.insee.fr/en/statistiques/8283551
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.insee.fr/en/statistiques/8283551
+    hard_facts:
+      - claim: France CPI YoY June 2026
+        kind: numerical_with_unit
+        value: "1.1%"
+        source_urls:
+          - https://www.insee.fr/en/statistiques/8283551
+        verbatim_excerpt: "Consumer prices rose 1.1% YoY in June 2026"
+      - claim: France CPI YoY May 2026
+        kind: numerical_with_unit
+        value: "0.9%"
+        source_urls:
+          - https://www.insee.fr/en/statistiques/8283551
+        verbatim_excerpt: "up from 0.9% in May 2026"
+      - claim: France CPI monthly change June 2026
+        kind: numerical_with_unit
+        value: "0.2%"
+        source_urls:
+          - https://www.insee.fr/en/statistiques/8283551
+        verbatim_excerpt: "Monthly prices rose 0.2%"
+      - claim: France energy prices YoY June 2026
+        kind: numerical_with_unit
+        value: "0.7%"
+        source_urls:
+          - https://www.insee.fr/en/statistiques/8283551
+        verbatim_excerpt: "Energy prices rose 0.7% YoY"
+      - claim: France food prices YoY June 2026
+        kind: numerical_with_unit
+        value: "1.3%"
+        source_urls:
+          - https://www.insee.fr/en/statistiques/8283551
+        verbatim_excerpt: "Food prices rose 1.3% YoY"
+      - claim: France manufactured goods prices YoY June 2026
+        kind: numerical_with_unit
+        value: "-0.7%"
+        source_urls:
+          - https://www.insee.fr/en/statistiques/8283551
+        verbatim_excerpt: "Manufactured goods prices fell 0.7% YoY"
+      - claim: France HICP June 2026
+        kind: numerical_with_unit
+        value: "1.3%"
+        source_urls:
+          - https://www.insee.fr/en/statistiques/8283551
+        verbatim_excerpt: "HICP for France estimated 1.3% YoY"
+      - claim: Publishing institution
+        kind: named_institution
+        value: INSEE
+        source_urls:
+          - https://www.insee.fr/en/statistiques/8283551
+        verbatim_excerpt: "INSEE preliminary estimate of CPI for France June 2026"
+    quotes: []
+
+  - story_id: uk-300b-defence-investment-plan
+    category: politics
+    headline_en: UK £300B Defence Investment Plan
+    lead_url: https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+    body_source: full
+    corroborated_by:
+      - https://www.france24.com/en/europe/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+      - https://www.france24.com/en/europe/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending
+    hard_facts:
+      - claim: UK defence investment total commitment
+        kind: numerical_with_unit
+        value: "£300 billion"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+          - https://www.france24.com/en/europe/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending
+        verbatim_excerpt: "committing £300 billion to defence and security through 2035"
+      - claim: Defence plan announcement date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+          - https://www.france24.com/en/europe/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending
+        verbatim_excerpt: "announced a landmark defence investment plan on June 30, 2026"
+      - claim: Defence spending end year of plan
+        kind: temporal
+        value: "2035"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+          - https://www.france24.com/en/europe/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending
+        verbatim_excerpt: "committing £300 billion to defence and security through 2035"
+      - claim: UK defence spending GDP target year
+        kind: temporal
+        value: "2030"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+          - https://www.france24.com/en/europe/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending
+        verbatim_excerpt: "on trajectory toward 3% of GDP in defence spending by 2030"
+      - claim: UK defence spending GDP target
+        kind: numerical_with_unit
+        value: "3% of GDP"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+          - https://www.france24.com/en/europe/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending
+        verbatim_excerpt: "on trajectory toward 3% of GDP in defence spending by 2030"
+      - claim: UK PM announcing the plan
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+          - https://www.france24.com/en/europe/20260630-outgoing-uk-pm-starmer-announces-record-defence-spending
+        verbatim_excerpt: "UK PM Keir Starmer announced a landmark defence investment plan"
+      - claim: Named institution — Royal Navy
+        kind: named_institution
+        value: Royal Navy
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+        verbatim_excerpt: "Plan covers Royal Navy, British Army, Royal Air Force, cyber capabilities, and UK nuclear deterrent"
+      - claim: Named institution — British Army
+        kind: named_institution
+        value: British Army
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+        verbatim_excerpt: "Plan covers Royal Navy, British Army, Royal Air Force, cyber capabilities, and UK nuclear deterrent"
+      - claim: Named institution — Royal Air Force
+        kind: named_institution
+        value: Royal Air Force
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+        verbatim_excerpt: "Plan covers Royal Navy, British Army, Royal Air Force, cyber capabilities, and UK nuclear deterrent"
+      - claim: Named product — Defence White Paper
+        kind: named_product
+        value: Defence White Paper
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+        verbatim_excerpt: "accompanied by a new Defence White Paper including deterring Russian aggression and contributing to European security"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: UK Prime Minister
+        verbatim_en: "the biggest sustained investment in British defence since the Cold War"
+        source_url: https://www.euronews.com/my-europe/2026/06/30/uk-pm-starmer-announces-landmark-defence-spending-plan
+        context: Announcement of UK defence investment plan, June 30 2026
+
+  - story_id: lithuania-sinkevicius-approved-as-pm
+    category: politics
+    headline_en: Lithuania Parliament Approves Linas Sinkevičius as PM
+    lead_url: https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+    hard_facts:
+      - claim: Date parliament approved Sinkevičius
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "Lithuanian parliament (Seimas) voted on June 30, 2026 to approve Linas Sinkevičius as new Prime Minister"
+      - claim: New Lithuanian PM
+        kind: named_person
+        value: Linas Sinkevičius
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "Lithuanian parliament (Seimas) voted on June 30, 2026 to approve Linas Sinkevičius as new Prime Minister"
+      - claim: Named institution — Lithuanian parliament
+        kind: named_institution
+        value: Seimas
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "Lithuanian parliament (Seimas) voted on June 30, 2026"
+      - claim: Prior role of Sinkevičius (EU Commissioner)
+        kind: temporal
+        value: "2019–2024"
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "formerly EU Commissioner for Environment, Oceans and Fisheries (2019–2024)"
+      - claim: Sinkevičius party affiliation
+        kind: named_institution
+        value: Lithuanian Social Democratic Party
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "member of Lithuanian Social Democratic Party"
+      - claim: Lithuanian President who nominated Sinkevičius
+        kind: named_person
+        value: Gitanas Nausėda
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "nominated by President Gitanas Nausėda"
+      - claim: Votes in favour of approval
+        kind: numerical
+        value: "78"
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "Vote passed with 78 in favour, 37 against, 10 abstentions"
+      - claim: Votes against approval
+        kind: numerical
+        value: "37"
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "Vote passed with 78 in favour, 37 against, 10 abstentions"
+      - claim: Abstentions
+        kind: numerical
+        value: "10"
+        source_urls:
+          - https://www.lrt.lt/en/news-in-english/19/2569350/lithuanian-parliament-approves-sinkevicius-as-pm
+        verbatim_excerpt: "Vote passed with 78 in favour, 37 against, 10 abstentions"
+    quotes: []
+
+  - story_id: eu-toughens-trade-stance-china
+    category: politics
+    headline_en: EU Toughens Trade Stance Against China
+    lead_url: https://www.aljazeera.com/economy/2026/6/30/eu-china-trade-tensions-steel-market-access
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.aljazeera.com/economy/2026/6/30/eu-china-trade-tensions-steel-market-access
+    hard_facts:
+      - claim: EU steel safeguard regime entry into force
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/30/eu-china-trade-tensions-steel-market-access
+        verbatim_excerpt: "EU's new steel safeguard regime enters force July 1, 2026"
+      - claim: EU Trade Commissioner
+        kind: named_person
+        value: Maros Sefcovic
+        source_urls:
+          - https://www.aljazeera.com/economy/2026/6/30/eu-china-trade-tensions-steel-market-access
+        verbatim_excerpt: "EU Trade Commissioner Maros Sefcovic warned Beijing"
+    quotes:
+      - speaker_name: Maros Sefcovic
+        speaker_title: EU Trade Commissioner
+        verbatim_en: "the bloc is prepared to expand punitive tariffs beyond existing EV duties"
+        source_url: https://www.aljazeera.com/economy/2026/6/30/eu-china-trade-tensions-steel-market-access
+        context: EU-China trade tensions, June 30 2026
+
+  - story_id: france-quantum-2026-quobly-anssi
+    category: tech
+    headline_en: France Quantum 2026 — Quobly €115M Series A, ANSSI
+    lead_url: https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+    hard_facts:
+      - claim: Quobly Series A funding round
+        kind: numerical_with_unit
+        value: "€115 million"
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "Quobly closed a €115 million Series A to commercialize silicon-based quantum computers"
+      - claim: Quobly commercial product target date
+        kind: temporal
+        value: "end of 2026"
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "targeting first commercial product by end of 2026"
+      - claim: GENCI-Alice & Bob quantum computer qubit count
+        kind: numerical_with_unit
+        value: "18-cat-qubit"
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "GENCI and Alice & Bob signed a procurement contract for an 18-cat-qubit quantum computer"
+      - claim: ANSSI certification deadline for quantum-resistant encryption
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "ANSSI announced it will stop certifying security products without quantum-resistant encryption from 2027"
+      - claim: France PROQCIMA programme funding
+        kind: numerical_with_unit
+        value: "€500M"
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "France's €500M PROQCIMA programme underpins the sector"
+      - claim: Named institution — Quobly
+        kind: named_institution
+        value: Quobly
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "Quobly closed a €115 million Series A to commercialize silicon-based quantum computers"
+      - claim: Named institution — GENCI
+        kind: named_institution
+        value: GENCI
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "GENCI and Alice & Bob signed a procurement contract"
+      - claim: Named institution — Alice & Bob
+        kind: named_institution
+        value: Alice & Bob
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "GENCI and Alice & Bob signed a procurement contract"
+      - claim: Named institution — ANSSI
+        kind: named_institution
+        value: ANSSI
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "ANSSI announced it will stop certifying security products without quantum-resistant encryption from 2027"
+      - claim: Named product — HQI initiative
+        kind: named_product
+        value: HQI initiative
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "under the HQI initiative"
+      - claim: Named institution — Quandela
+        kind: named_institution
+        value: Quandela
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "Quandela validated low-latency integration between photonic quantum processors and NVIDIA NVQLink"
+      - claim: Named product — NVIDIA NVQLink
+        kind: named_product
+        value: NVIDIA NVQLink
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "Quandela validated low-latency integration between photonic quantum processors and NVIDIA NVQLink"
+      - claim: Named institution — Pasqal
+        kind: named_institution
+        value: Pasqal
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "Pasqal appointed Stéphane Rougeot as CFO ahead of anticipated public market entry"
+      - claim: Pasqal new CFO
+        kind: named_person
+        value: Stéphane Rougeot
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "Pasqal appointed Stéphane Rougeot as CFO ahead of anticipated public market entry"
+      - claim: Named product — PROQCIMA programme
+        kind: named_product
+        value: PROQCIMA
+        source_urls:
+          - https://thequantuminsider.com/2026/06/30/french-national-quantum-update-june-2026/
+        verbatim_excerpt: "France's €500M PROQCIMA programme underpins the sector"
+    quotes: []
+
+  - story_id: greece-wildfire-detection-satellite-constellation
+    category: tech
+    headline_en: Greece World-First Wildfire-Detection Satellite Constellation
+    lead_url: https://www.euronews.com/2026/06/30/greece-is-leading-the-world-in-wildfire-prevention-thanks-to-satellites-and-ai
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/06/30/greece-is-leading-the-world-in-wildfire-prevention-thanks-to-satellites-and-ai
+    hard_facts:
+      - claim: Number of OroraTech nanosatellites deployed
+        kind: numerical
+        value: "Four"
+        source_urls:
+          - https://www.euronews.com/2026/06/30/greece-is-leading-the-world-in-wildfire-prevention-thanks-to-satellites-and-ai
+        verbatim_excerpt: "Four OroraTech nanosatellites placed in low Earth orbit in May 2026"
+      - claim: Satellite deployment date
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.euronews.com/2026/06/30/greece-is-leading-the-world-in-wildfire-prevention-thanks-to-satellites-and-ai
+        verbatim_excerpt: "Four OroraTech nanosatellites placed in low Earth orbit in May 2026"
+      - claim: Minimum fire size detectable
+        kind: numerical_with_unit
+        value: "four metres"
+        source_urls:
+          - https://www.euronews.com/2026/06/30/greece-is-leading-the-world-in-wildfire-prevention-thanks-to-satellites-and-ai
+        verbatim_excerpt: "Thermal sensors detect fires as small as four metres across"
+      - claim: Information update frequency
+        kind: temporal
+        value: "every hour"
+        source_urls:
+          - https://www.euronews.com/2026/06/30/greece-is-leading-the-world-in-wildfire-prevention-thanks-to-satellites-and-ai
+        verbatim_excerpt: "Information available every hour"
+      - claim: Named institution — OroraTech
+        kind: named_institution
+        value: OroraTech
+        source_urls:
+          - https://www.euronews.com/2026/06/30/greece-is-leading-the-world-in-wildfire-prevention-thanks-to-satellites-and-ai
+        verbatim_excerpt: "Four OroraTech nanosatellites placed in low Earth orbit in May 2026"
+    quotes:
+      - speaker_name: Greece's Minister of Digital Governance
+        speaker_title: Minister of Digital Governance, Greece
+        verbatim_en: "a fire in a remote area can now be identified within minutes of ignition"
+        source_url: https://www.euronews.com/2026/06/30/greece-is-leading-the-world-in-wildfire-prevention-thanks-to-satellites-and-ai
+        context: Announcement of Greece's wildfire satellite constellation, June 30 2026
+
+  - story_id: gtechplasma-graphene-stealth-coating
+    category: tech
+    headline_en: Portuguese Graphene Startup GTechPlasma Stealth Coating
+    lead_url: https://www.euronews.com/next/2026/06/30/from-lab-to-sky-portuguese-graphene-that-hides-jets-and-drones-may-transform-defence
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/next/2026/06/30/from-lab-to-sky-portuguese-graphene-that-hides-jets-and-drones-may-transform-defence
+    hard_facts:
+      - claim: Named institution — GTechPlasma
+        kind: named_institution
+        value: GTechPlasma
+        source_urls:
+          - https://www.euronews.com/next/2026/06/30/from-lab-to-sky-portuguese-graphene-that-hides-jets-and-drones-may-transform-defence
+        verbatim_excerpt: "Portuguese deep-tech company GTechPlasma, a spin-off from Instituto Superior Técnico in Lisbon"
+      - claim: Named institution — Instituto Superior Técnico
+        kind: named_institution
+        value: Instituto Superior Técnico
+        source_urls:
+          - https://www.euronews.com/next/2026/06/30/from-lab-to-sky-portuguese-graphene-that-hides-jets-and-drones-may-transform-defence
+        verbatim_excerpt: "a spin-off from Instituto Superior Técnico in Lisbon"
+      - claim: Graphene production rate
+        kind: numerical_with_unit
+        value: "40 milligrams per minute"
+        source_urls:
+          - https://www.euronews.com/next/2026/06/30/from-lab-to-sky-portuguese-graphene-that-hides-jets-and-drones-may-transform-defence
+        verbatim_excerpt: "Plasma-based system produces graphene at 40 milligrams per minute"
+    quotes: []
+
+  - story_id: extreme-heat-eastern-europe-over-40c
+    category: society
+    headline_en: Extreme Heat Eastern Europe >40°C
+    lead_url: https://www.aljazeera.com/news/2026/6/30/heatwave-europe-temperatures-june-2026
+    body_source: full
+    corroborated_by:
+      - https://www.euronews.com/2026/06/30/europe-electricity-demand-heatwave
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/6/30/heatwave-europe-temperatures-june-2026
+      - https://www.euronews.com/2026/06/30/europe-electricity-demand-heatwave
+    hard_facts:
+      - claim: Maximum temperatures in Balkans, Greece, Turkey, Italy
+        kind: numerical_with_unit
+        value: ">40°C"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/30/heatwave-europe-temperatures-june-2026
+          - https://www.euronews.com/2026/06/30/europe-electricity-demand-heatwave
+        verbatim_excerpt: "temperatures exceeding 40°C in parts of the Balkans, Greece, Turkey and Italy"
+      - claim: Heatwave expected duration end date
+        kind: temporal
+        value: "July 3"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/30/heatwave-europe-temperatures-june-2026
+        verbatim_excerpt: "Heatwave expected to persist through at least July 3"
+      - claim: Countries reporting heat-related fatalities
+        kind: named_institution
+        value: Romania
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/30/heatwave-europe-temperatures-june-2026
+        verbatim_excerpt: "Romania, Bulgaria and Serbia reported heat-related fatalities"
+      - claim: Countries reporting heat-related fatalities
+        kind: named_institution
+        value: Bulgaria
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/30/heatwave-europe-temperatures-june-2026
+        verbatim_excerpt: "Romania, Bulgaria and Serbia reported heat-related fatalities"
+      - claim: Countries reporting heat-related fatalities
+        kind: named_institution
+        value: Serbia
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/30/heatwave-europe-temperatures-june-2026
+        verbatim_excerpt: "Romania, Bulgaria and Serbia reported heat-related fatalities"
+      - claim: Named site closed in Greece — Acropolis
+        kind: named_institution
+        value: Acropolis
+        source_urls:
+          - https://www.aljazeera.com/news/2026/6/30/heatwave-europe-temperatures-june-2026
+        verbatim_excerpt: "Greece closed archaeological sites including the Acropolis during peak afternoon hours"
+    quotes: []
+
+  - story_id: spain-one-million-migrant-regularisation
+    category: society
+    headline_en: Spain One Million Migrant Regularisation Applications
+    lead_url: https://www.france24.com/en/europe/20260630-spain-migrant-regularisation-one-million-applications
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.france24.com/en/europe/20260630-spain-migrant-regularisation-one-million-applications
+    hard_facts:
+      - claim: Number of regularisation applications received
+        kind: numerical_with_unit
+        value: "more than one million"
+        source_urls:
+          - https://www.france24.com/en/europe/20260630-spain-migrant-regularisation-one-million-applications
+        verbatim_excerpt: "Spain received more than one million applications for its mass regularisation programme"
+      - claim: Spain PM who launched programme
+        kind: named_person
+        value: Pedro Sánchez
+        source_urls:
+          - https://www.france24.com/en/europe/20260630-spain-migrant-regularisation-one-million-applications
+        verbatim_excerpt: "Programme launched by PM Pedro Sánchez's government"
+      - claim: Minimum residency required for eligibility
+        kind: temporal
+        value: "at least two years"
+        source_urls:
+          - https://www.france24.com/en/europe/20260630-spain-migrant-regularisation-one-million-applications
+        verbatim_excerpt: "allows undocumented migrants resident at least two years with labour-market ties to apply for temporary residency"
+      - claim: Named institution confirming milestone — Interior Ministry
+        kind: named_institution
+        value: Interior Ministry
+        source_urls:
+          - https://www.france24.com/en/europe/20260630-spain-migrant-regularisation-one-million-applications
+        verbatim_excerpt: "Interior Ministry confirmed the one-million milestone"
+      - claim: Named opposition party
+        kind: named_institution
+        value: PP
+        source_urls:
+          - https://www.france24.com/en/europe/20260630-spain-migrant-regularisation-one-million-applications
+        verbatim_excerpt: "Conservative PP opposition accused the government of \"unlawful mass amnesty\""
+    quotes:
+      - speaker_name: Conservative PP opposition
+        speaker_title: Partido Popular (PP), main opposition party Spain
+        verbatim_en: "unlawful mass amnesty"
+        source_url: https://www.france24.com/en/europe/20260630-spain-migrant-regularisation-one-million-applications
+        context: Response to Spain's migrant regularisation programme reaching one million applications
+
+  - story_id: eu-ends-de-minimis-exemption-shein-temu
+    category: society
+    headline_en: EU Ends De Minimis Exemption for Shein/Temu Parcels
+    lead_url: https://www.euronews.com/business/2026/06/30/eu-shein-temu-tax-loophole-ends-customs-duties
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/business/2026/06/30/eu-shein-temu-tax-loophole-ends-customs-duties
+    hard_facts:
+      - claim: Prior de minimis duty-free threshold
+        kind: numerical_with_unit
+        value: "€150"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/30/eu-shein-temu-tax-loophole-ends-customs-duties
+        verbatim_excerpt: "customs duty exemption allowing goods valued under €150 to enter EU without import taxes"
+      - claim: Date change takes effect
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/30/eu-shein-temu-tax-loophole-ends-customs-duties
+        verbatim_excerpt: "Change takes effect July 1, 2026"
+      - claim: Parcel volume threshold for customs registration
+        kind: numerical_with_unit
+        value: "5 million parcels per year"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/30/eu-shein-temu-tax-loophole-ends-customs-duties
+        verbatim_excerpt: "Platforms sending more than 5 million parcels per year must register with EU customs"
+      - claim: Annual cost of exemption to EU member states
+        kind: numerical_with_unit
+        value: "€3.2 billion"
+        source_urls:
+          - https://www.euronews.com/business/2026/06/30/eu-shein-temu-tax-loophole-ends-customs-duties
+        verbatim_excerpt: "Commission estimates the exemption cost EU member states €3.2 billion annually"
+      - claim: Named institution — Shein
+        kind: named_institution
+        value: Shein
+        source_urls:
+          - https://www.euronews.com/business/2026/06/30/eu-shein-temu-tax-loophole-ends-customs-duties
+        verbatim_excerpt: "Shein and Temu indicated they will pass on costs to EU consumers"
+      - claim: Named institution — Temu
+        kind: named_institution
+        value: Temu
+        source_urls:
+          - https://www.euronews.com/business/2026/06/30/eu-shein-temu-tax-loophole-ends-customs-duties
+        verbatim_excerpt: "Shein and Temu indicated they will pass on costs to EU consumers"
+    quotes: []
+
+  - story_id: vodafone-telekom-romania-merger-completion
+    category: ipo_ma
+    headline_en: Vodafone Romania / Telekom Romania Mobile Merger Completion
+    lead_url: https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+    hard_facts:
+      - claim: Merger legal completion date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "Vodafone Romania and Telekom Romania Mobile Communications completed their legal merger on June 30, 2026"
+      - claim: Vodafone's original acquisition date of Telekom Romania
+        kind: temporal
+        value: "October 1, 2025"
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "concluding integration begun when Vodafone acquired Telekom Romania on October 1, 2025"
+      - claim: Price paid by Vodafone for postpaid/business segment
+        kind: numerical_with_unit
+        value: "€30 million"
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "Vodafone paid €30 million for Telekom's postpaid/business customers, store network and technical infrastructure"
+      - claim: Price paid by Digi for prepaid/spectrum/towers
+        kind: numerical_with_unit
+        value: "€40 million"
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "Digi separately acquired Telekom's prepaid customers, spectrum and towers for €40 million"
+      - claim: Combined deal value
+        kind: numerical_with_unit
+        value: "€70 million"
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "combined €70 million"
+      - claim: Vodafone Romania customer count post-merger
+        kind: numerical_with_unit
+        value: "approximately 8.4 million customers"
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "Vodafone Romania reaches approximately 8.4 million customers"
+      - claim: Named institution — Vodafone Romania
+        kind: named_institution
+        value: Vodafone Romania
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "Vodafone Romania and Telekom Romania Mobile Communications completed their legal merger"
+      - claim: Named institution — Telekom Romania Mobile Communications
+        kind: named_institution
+        value: Telekom Romania Mobile Communications
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "Vodafone Romania and Telekom Romania Mobile Communications completed their legal merger"
+      - claim: Named institution — Digi
+        kind: named_institution
+        value: Digi
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "Digi separately acquired Telekom's prepaid customers, spectrum and towers"
+      - claim: Vodafone Romania CEO
+        kind: named_person
+        value: Nedim Baytorun
+        source_urls:
+          - https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        verbatim_excerpt: "Vodafone Romania CEO Nedim Baytorun said"
+    quotes:
+      - speaker_name: Nedim Baytorun
+        speaker_title: CEO, Vodafone Romania
+        verbatim_en: "We are building a unified structure, prepared to offer the best possible experience and services at the highest standards."
+        source_url: https://www.romania-insider.com/vodafone-merge-telekom-mobile-communications-romania-june
+        context: Statement on merger completion, June 30 2026
+
+  - story_id: monaco-bomb-assassination-yermolaiev
+    category: other
+    headline_en: Monaco Attempted Assassination Bomb — Vadym Yermolaiev
+    lead_url: https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+    body_source: full
+    corroborated_by:
+      - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+      - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+    hard_facts:
+      - claim: Bombing date
+        kind: temporal
+        value: "evening of June 29"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "A bomb planted in a residential building in Monaco detonated on the evening of June 29"
+      - claim: Number of people injured
+        kind: numerical
+        value: "three"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "injuring three people"
+      - claim: Primary victim
+        kind: named_person
+        value: Vadym Yermolaiev
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "Ukrainian-born businessman Vadym Yermolaiev (58), his partner, and a 13-year-old child"
+      - claim: Age of primary victim
+        kind: numerical
+        value: "58"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "Ukrainian-born businessman Vadym Yermolaiev (58)"
+      - claim: Age of child victim
+        kind: numerical
+        value: "13"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "a 13-year-old child"
+      - claim: Monaco Prosecutor General
+        kind: named_person
+        value: Stéphane Thibault
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "Monaco's Prosecutor General Stéphane Thibault described the attack"
+      - claim: Yermolaiev's citizenship
+        kind: named_institution
+        value: Cypriot citizen
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "Yermolaiev is a Cypriot citizen (renounced Ukrainian citizenship in 2019)"
+      - claim: Year Yermolaiev renounced Ukrainian citizenship
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "renounced Ukrainian citizenship in 2019"
+      - claim: Date of Zelenskyy sanctions on Yermolaiev
+        kind: temporal
+        value: "December 2023"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "sanctioned by Ukrainian President Zelenskyy in December 2023"
+      - claim: Ukrainian President who sanctioned Yermolaiev
+        kind: named_person
+        value: Zelenskyy
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "sanctioned by Ukrainian President Zelenskyy in December 2023"
+      - claim: Named institution — Alef Group
+        kind: named_institution
+        value: Alef Group
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "He built his fortune through Alef Group in Dnipro"
+      - claim: Location of Alef Group
+        kind: named_institution
+        value: Dnipro
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "He built his fortune through Alef Group in Dnipro"
+      - claim: Attacker's escape destination
+        kind: named_institution
+        value: Beausoleil
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "The suspected attacker fled on foot to Beausoleil, a French border town"
+      - claim: Hospital location for victims
+        kind: named_institution
+        value: Nice
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+          - https://www.cnn.com/2026/06/30/world/monaco-manhunt-explosion-intl-hnk
+        verbatim_excerpt: "Victims hospitalised in Nice in critical condition"
+    quotes:
+      - speaker_name: Stéphane Thibault
+        speaker_title: Prosecutor General, Monaco
+        verbatim_en: "attempted assassination"
+        source_url: https://www.bloomberg.com/news/articles/2026-06-30/bomb-explosion-in-monaco-wounds-tycoon-sanctioned-by-ukraine
+        context: Describing the Monaco bombing attack, June 30 2026
+
+  - story_id: fan-violence-hague-morocco-eliminates-netherlands
+    category: other
+    headline_en: Fan Violence in The Hague after Morocco eliminates Netherlands
+    lead_url: https://www.business-standard.com/sports/fifa-world-cup/police-soccer-fans-clash-in-the-hague-after-morocco-stuns-netherlands-126063000530_1.html
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo
+    locked_urls:
+      - https://www.business-standard.com/sports/fifa-world-cup/police-soccer-fans-clash-in-the-hague-after-morocco-stuns-netherlands-126063000530_1.html
+      - https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo
+    hard_facts:
+      - claim: Location of clashes
+        kind: named_institution
+        value: "Schilderswijk district"
+        source_urls:
+          - https://www.business-standard.com/sports/fifa-world-cup/police-soccer-fans-clash-in-the-hague-after-morocco-stuns-netherlands-126063000530_1.html
+        verbatim_excerpt: "Violent clashes erupted in The Hague's Schilderswijk district"
+      - claim: Match score after extra time
+        kind: numerical_with_unit
+        value: "1-1 after extra time"
+        source_urls:
+          - https://www.business-standard.com/sports/fifa-world-cup/police-soccer-fans-clash-in-the-hague-after-morocco-stuns-netherlands-126063000530_1.html
+          - https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo
+        verbatim_excerpt: "Morocco's penalty shootout elimination of the Netherlands (1-1 after extra time; 3-2 on penalties)"
+      - claim: Penalty shootout score
+        kind: numerical_with_unit
+        value: "3-2 on penalties"
+        source_urls:
+          - https://www.business-standard.com/sports/fifa-world-cup/police-soccer-fans-clash-in-the-hague-after-morocco-stuns-netherlands-126063000530_1.html
+          - https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo
+        verbatim_excerpt: "Morocco's penalty shootout elimination of the Netherlands (1-1 after extra time; 3-2 on penalties)"
+      - claim: Tournament round
+        kind: named_product
+        value: "FIFA World Cup 2026 Round of 32"
+        source_urls:
+          - https://www.business-standard.com/sports/fifa-world-cup/police-soccer-fans-clash-in-the-hague-after-morocco-stuns-netherlands-126063000530_1.html
+          - https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo
+        verbatim_excerpt: "the FIFA World Cup 2026 Round of 32 on June 29"
+      - claim: Match date
+        kind: temporal
+        value: "June 29"
+        source_urls:
+          - https://www.business-standard.com/sports/fifa-world-cup/police-soccer-fans-clash-in-the-hague-after-morocco-stuns-netherlands-126063000530_1.html
+          - https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo
+        verbatim_excerpt: "the FIFA World Cup 2026 Round of 32 on June 29"
+      - claim: Prior similar incident date referenced
+        kind: temporal
+        value: "November 2024"
+        source_urls:
+          - https://www.business-standard.com/sports/fifa-world-cup/police-soccer-fans-clash-in-the-hague-after-morocco-stuns-netherlands-126063000530_1.html
+        verbatim_excerpt: "Incidents drew parallels with unrest following Netherlands-Israel football tensions in Amsterdam in November 2024"
+    quotes: []
