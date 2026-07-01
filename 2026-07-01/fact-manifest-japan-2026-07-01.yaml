@@ -1,0 +1,956 @@
+version: 1
+generated_at: "2026-07-01T00:00:00Z"
+country: Japan
+date: 2026-07-01
+total_stories: 10
+stories:
+  - story_id: japan-q2-2026-tankan-large-manufacturer
+    category: econ
+    headline_en: "Japan Q2 2026 Tankan: Large-Manufacturer Sentiment Rises to 8-Year High; Inflation Expectations at Record"
+    lead_url: https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+    body_source: full
+    corroborated_by:
+      - https://www.news4jax.com/business/2026/07/01/survey-shows-japans-business-sentiment-improving-for-a-5th-straight-quarter/
+      - https://www.japantimes.co.jp/business/2026/07/01/companies/japan-manufacturer-mood-improve/
+      - https://www.investing.com/news/economy-news/japan-business-mood-improves-despite-middle-east-war-boj-survey-shows-4769291
+    locked_urls:
+      - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+      - https://www.news4jax.com/business/2026/07/01/survey-shows-japans-business-sentiment-improving-for-a-5th-straight-quarter/
+      - https://www.japantimes.co.jp/business/2026/07/01/companies/japan-manufacturer-mood-improve/
+      - https://www.investing.com/news/economy-news/japan-business-mood-improves-despite-middle-east-war-boj-survey-shows-4769291
+    hard_facts:
+      - claim: Tankan large-manufacturer DI June 2026
+        kind: numerical
+        value: "+22"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+          - https://www.news4jax.com/business/2026/07/01/survey-shows-japans-business-sentiment-improving-for-a-5th-straight-quarter/
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/japan-manufacturer-mood-improve/
+          - https://www.investing.com/news/economy-news/japan-business-mood-improves-despite-middle-east-war-boj-survey-shows-4769291
+        verbatim_excerpt: "diffusion index (DI) for large manufacturers' business conditions rising to +22 from +17 in March"
+      - claim: Tankan large-manufacturer DI March 2026
+        kind: numerical
+        value: "+17"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "rising to +22 from +17 in March"
+      - claim: Highest large-manufacturer DI reading since
+        kind: temporal
+        value: "March 2018"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "the highest reading since March 2018"
+      - claim: Bloomberg median forecast for large-manufacturer DI
+        kind: numerical
+        value: "+16"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "beating a Bloomberg median forecast of +16"
+      - claim: Consecutive quarters of improvement
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "marking five consecutive quarters of improvement"
+      - claim: Large non-manufacturer DI June 2026
+        kind: numerical
+        value: "+37"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "The DI for large non-manufacturers edged to +37 from +36"
+      - claim: Large non-manufacturer DI March 2026
+        kind: numerical
+        value: "+36"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "edged to +37 from +36"
+      - claim: Input price DI June 2026
+        kind: numerical
+        value: "+62"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "Input price DI surged to +62 points from +46 in March"
+      - claim: Input price DI March 2026
+        kind: numerical
+        value: "+46"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "Input price DI surged to +62 points from +46 in March"
+      - claim: Yen exchange rate
+        kind: numerical_with_unit
+        value: "¥162 per dollar"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "yen trading around ¥162 per dollar"
+      - claim: Large-manufacturer current-profit forecast FY2026
+        kind: numerical_with_unit
+        value: "–6.7%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "large enterprises forecast current-profit declines of –6.7% for manufacturers"
+      - claim: Large non-manufacturer current-profit forecast FY2026
+        kind: numerical_with_unit
+        value: "–6.3%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "–6.3% for non-manufacturers in fiscal 2026"
+      - claim: Large-manufacturer FY2026 sales growth revision
+        kind: numerical_with_unit
+        value: "3.3 percentage points"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "Large manufacturers revised FY2026 sales growth projections up 3.3 percentage points to +4.0%"
+      - claim: Large-manufacturer FY2026 sales growth projection
+        kind: numerical_with_unit
+        value: "+4.0%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "up 3.3 percentage points to +4.0%"
+      - claim: Large-enterprise inflation expectation 3-year ahead
+        kind: numerical_with_unit
+        value: "2.6%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "firms forecast consumer prices 2.6% higher both three and five years ahead"
+      - claim: Large-enterprise inflation expectation 5-year ahead
+        kind: numerical_with_unit
+        value: "2.6%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "firms forecast consumer prices 2.6% higher both three and five years ahead"
+      - claim: Inflation expectation change vs March
+        kind: numerical_with_unit
+        value: "10 basis points"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "up 10 basis points from March"
+      - claim: Employment DI all enterprises
+        kind: numerical
+        value: "–37"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "Employment DI for all enterprises remained at –37 points"
+      - claim: BOJ policy rate after June 16 2026 hike
+        kind: numerical_with_unit
+        value: "1.0%"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "The BOJ raised its policy rate to 1.0% on June 16, 2026"
+      - claim: BOJ rate hike size
+        kind: numerical_with_unit
+        value: "25 basis-point"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "a 25 basis-point hike and the highest since 1995"
+      - claim: BOJ rate hike date
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "The BOJ raised its policy rate to 1.0% on June 16, 2026"
+      - claim: Next BOJ policy meeting date
+        kind: temporal
+        value: "July 31, 2026"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "The next policy meeting is July 31, 2026"
+      - claim: Named institution - Bank of Japan
+        kind: named_institution
+        value: "Bank of Japan"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "The Bank of Japan's quarterly Short-Term Economic Survey of Enterprises (Tankan)"
+      - claim: Named institution - Bloomberg
+        kind: named_institution
+        value: "Bloomberg"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "beating a Bloomberg median forecast of +16"
+      - claim: Named person - Naomi Fink
+        kind: named_person
+        value: "Naomi Fink"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "Naomi Fink (Amova Asset Management)"
+      - claim: Named institution - Amova Asset Management
+        kind: named_institution
+        value: "Amova Asset Management"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "Naomi Fink (Amova Asset Management)"
+      - claim: Named person - Naoki Tamura
+        kind: named_person
+        value: "Naoki Tamura"
+        source_urls:
+          - https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        verbatim_excerpt: "BOJ board member Naoki Tamura"
+    quotes:
+      - speaker_name: Naoki Tamura
+        speaker_title: "Board Member, Bank of Japan"
+        verbatim_en: "gradually move toward a neutral level of around 2%"
+        source_url: https://www.boj.or.jp/en/statistics/tk/tankan06a.htm
+        context: BOJ board member on policy rate path
+
+  - story_id: japan-consumer-confidence-june-2026
+    category: econ
+    headline_en: "Japan Cabinet Office: Consumer Confidence Index Edges Up to 33.8 in June 2026"
+    lead_url: https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+    hard_facts:
+      - claim: Consumer Confidence Index June 2026
+        kind: numerical
+        value: "33.8"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "headline Consumer Confidence Index (seasonally adjusted) rising 0.2 points from May to 33.8"
+      - claim: Change in CCI from May to June 2026
+        kind: numerical
+        value: "0.2 points"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "rising 0.2 points from May to 33.8"
+      - claim: Survey household coverage
+        kind: numerical_with_unit
+        value: "8,400 households"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "The survey covered 8,400 households"
+      - claim: Survey response rate
+        kind: numerical_with_unit
+        value: "78.7%"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "with a 78.7% response rate"
+      - claim: "Overall livelihood" component index
+        kind: numerical
+        value: "32.0"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: '"overall livelihood" +0.8 to 32.0'
+      - claim: "Overall livelihood" change
+        kind: numerical
+        value: "+0.8"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: '"overall livelihood" +0.8 to 32.0'
+      - claim: "Employment" component index
+        kind: numerical
+        value: "38.4"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: '"employment" rose to 38.4'
+      - claim: "Income growth" component index
+        kind: numerical
+        value: "40.3"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: '"income growth" stable at 40.3'
+      - claim: "Willingness to buy durable goods" component index
+        kind: numerical
+        value: "24.6"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: '"willingness to buy durable goods" 24.6'
+      - claim: Respondents expecting prices to go up
+        kind: numerical_with_unit
+        value: "93.3%"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "93.3% of respondents expect prices to \"go up\" in the coming year"
+      - claim: Change in price-up expectations from May
+        kind: numerical_with_unit
+        value: "0.2 percentage points"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "a slight decrease of 0.2 percentage points from May"
+      - claim: Food and beverage items flagged for July 2026 price increases
+        kind: numerical_with_unit
+        value: "2,566"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "2,566 food and beverage items were flagged for price increases entering July 2026"
+      - claim: Shunto nominal wage growth
+        kind: numerical_with_unit
+        value: "5%+"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "Nominal wage growth was 5%+ Shunto increases"
+      - claim: Named institution - Cabinet Office Economic and Social Research Institute
+        kind: named_institution
+        value: "Cabinet Office Economic and Social Research Institute"
+        source_urls:
+          - https://www.esri.cao.go.jp/en/stat/shouhi/shouhi-e.html
+        verbatim_excerpt: "Japan's Cabinet Office Economic and Social Research Institute released the Consumer Confidence Survey"
+    quotes: []
+
+  - story_id: japan-nta-rosenka-2026-land-prices
+    category: econ
+    headline_en: "Japan NTA Releases 2026 Rosenka: Nationwide Road Land Prices Up 2.9%, Ski Resorts Post 30%+ Gains"
+    lead_url: https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+    hard_facts:
+      - claim: Nationwide road land price increase year-on-year
+        kind: numerical_with_unit
+        value: "2.9%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "The average of land prices facing major roads rose 2.9% year-on-year"
+      - claim: Rosenka reference date
+        kind: temporal
+        value: "January 1, 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "as of the January 1, 2026 reference date"
+      - claim: Consecutive years of nationwide increase
+        kind: numerical
+        value: "fifth"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "showing a fifth consecutive year of nationwide increase"
+      - claim: Publication date
+        kind: temporal
+        value: "Tuesday, July 1, 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "published its annual roadside land price valuations (rosenka) on Tuesday, July 1, 2026"
+      - claim: Hakuba village land price increase
+        kind: numerical_with_unit
+        value: "+32.7%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "Hakuba village, Nagano Prefecture, led all locations with +32.7%"
+      - claim: Hakuba village consecutive years at top
+        kind: numerical
+        value: "third"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "its third straight year at the top"
+      - claim: Hakuba village 2025 land price increase
+        kind: numerical_with_unit
+        value: "32.4%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "up from 32.4% in 2025"
+      - claim: Nozawaonsen village land price increase
+        kind: numerical_with_unit
+        value: "+31.3%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "Nozawaonsen village, Nagano, placed second at +31.3%"
+      - claim: Kitanomine Furano land price increase
+        kind: numerical_with_unit
+        value: "+28%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "Kitanomine, Furano, Hokkaido, third at +28%"
+      - claim: Named institution - National Tax Agency
+        kind: named_institution
+        value: "National Tax Agency"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/economy/japan-roadside-land-prices-rise/
+        verbatim_excerpt: "The National Tax Agency of Japan published its annual roadside land price valuations"
+    quotes: []
+
+  - story_id: pm-takaichi-new-delhi-16th-india-japan
+    category: politics
+    headline_en: "PM Takaichi Arrives in New Delhi for 16th India-Japan Annual Summit; AI, Semiconductors, and Indo-Pacific Security on Agenda"
+    lead_url: https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+    body_source: full
+    corroborated_by:
+      - https://ianslive.in/japanese-pm-takaichi-to-visit-new-delhi-today-for-india-japan-annual-summit--20260701065011
+      - https://www.mofa.go.jp/press/release/pressite_000001_02290.html
+    locked_urls:
+      - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+      - https://ianslive.in/japanese-pm-takaichi-to-visit-new-delhi-today-for-india-japan-annual-summit--20260701065011
+      - https://www.mofa.go.jp/press/release/pressite_000001_02290.html
+    hard_facts:
+      - claim: Visit dates
+        kind: temporal
+        value: "July 1–3"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "a three-day official visit (July 1–3)"
+      - claim: Summit number
+        kind: numerical
+        value: "16th"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+          - https://ianslive.in/japanese-pm-takaichi-to-visit-new-delhi-today-for-india-japan-annual-summit--20260701065011
+          - https://www.mofa.go.jp/press/release/pressite_000001_02290.html
+        verbatim_excerpt: "the 16th India-Japan Annual Summit"
+      - claim: Named person - Sanae Takaichi
+        kind: named_person
+        value: "Sanae Takaichi"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "Japanese Prime Minister Sanae Takaichi arrived in New Delhi"
+      - claim: Named person - Narendra Modi
+        kind: named_person
+        value: "Narendra Modi"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "at PM Narendra Modi's invitation"
+      - claim: Strategic partnership status established year
+        kind: temporal
+        value: "2014"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "hold \"Special Strategic and Global Partnership\" status since 2014"
+      - claim: Expected Memorandums of Cooperation
+        kind: numerical_with_unit
+        value: "approximately 12"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "Approximately 12 Memorandums of Cooperation are expected"
+      - claim: Expected private-sector business agreements
+        kind: numerical_with_unit
+        value: "roughly 120"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "with roughly 120 private-sector business agreements"
+      - claim: Takaichi-Modi sideline meeting date
+        kind: temporal
+        value: "June 16, 2026"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "Takaichi and Modi met on the sidelines of the G7 in France on June 16, 2026"
+      - claim: Modi August 2025 Tokyo trip
+        kind: temporal
+        value: "August 2025"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "following PM Modi's August 2025 Tokyo trip"
+      - claim: Named product - Japan-India AI Cooperation Initiative
+        kind: named_product
+        value: "Japan-India AI Cooperation Initiative"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "AI cooperation under the Japan-India AI Cooperation Initiative"
+      - claim: Named product - 1st Japan-India AI Strategic Dialogue
+        kind: named_product
+        value: "1st Japan-India AI Strategic Dialogue"
+        source_urls:
+          - https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        verbatim_excerpt: "including the 1st Japan-India AI Strategic Dialogue"
+    quotes:
+      - speaker_name: Narendra Modi
+        speaker_title: "Prime Minister, India"
+        verbatim_en: "will continue to deepen ties in diverse sectors, with a priority on trade and investment"
+        source_url: https://www.tribuneindia.com/news/16th-india-japan-summit/semiconductors-ai-and-indo-pacific-security-japanese-pm-sanae-takaichi-to-arrive-in-delhi-for-16th-annual-summit
+        context: Modi statement at G7 sideline meeting June 16 2026 on India-Japan relations
+
+  - story_id: japan-opposition-parties-merger-choice
+    category: politics
+    headline_en: "Japan's Three Main Opposition Parties Face Make-or-Break Choice on Merger"
+    lead_url: https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://newsonjapan.com
+      - https://www.nippon.com/en/news/yjj2026062600310/
+    locked_urls:
+      - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+      - https://newsonjapan.com
+      - https://www.nippon.com/en/news/yjj2026062600310/
+    hard_facts:
+      - claim: Named institution - Centrist Reform Alliance
+        kind: named_institution
+        value: "Centrist Reform Alliance (CRA)"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "the Centrist Reform Alliance (CRA), the Constitutional Democratic Party of Japan (CDP), and Komeito"
+      - claim: Named institution - Constitutional Democratic Party of Japan
+        kind: named_institution
+        value: "Constitutional Democratic Party of Japan (CDP)"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "the Centrist Reform Alliance (CRA), the Constitutional Democratic Party of Japan (CDP), and Komeito"
+      - claim: Named institution - Komeito
+        kind: named_institution
+        value: "Komeito"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "the Centrist Reform Alliance (CRA), the Constitutional Democratic Party of Japan (CDP), and Komeito"
+      - claim: Named person - Junya Ogawa
+        kind: named_person
+        value: "Junya Ogawa"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "CRA leader Junya Ogawa convened separate bilateral meetings"
+      - claim: LDP Lower House election victory
+        kind: temporal
+        value: "February 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "LDP's landslide February 2026 Lower House election victory"
+      - claim: LDP majority share
+        kind: numerical_with_unit
+        value: "two-thirds majority"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "a two-thirds majority"
+      - claim: CRA seats in Lower House
+        kind: numerical_with_unit
+        value: "49 seats"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "the CRA's poor showing of only 49 seats"
+      - claim: CRA formation date
+        kind: temporal
+        value: "January 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "The CRA was formed in January 2026 by the merger of the CDP and Komeito"
+      - claim: Diet session end date
+        kind: temporal
+        value: "July 17, 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        verbatim_excerpt: "the current Diet session, scheduled to end July 17, 2026"
+    quotes:
+      - speaker_name: Junya Ogawa
+        speaker_title: "Leader, Centrist Reform Alliance"
+        verbatim_en: "We are firmly determined to discuss organizational issues among the three parties from the perspective of what our centrist and liberal forces should become."
+        source_url: https://www.japantimes.co.jp/news/2026/07/01/japan/politics/cra-cdp-merger/
+        context: Ogawa statement on three-party merger consultative body formation
+
+  - story_id: japan-imperial-house-law-succession-bill
+    category: politics
+    headline_en: "Japan Cabinet's Imperial House Law Succession Bill Sparks Opposition Boycott"
+    lead_url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+    body_source: full
+    corroborated_by:
+      - https://www.japantimes.co.jp/news/2026/06/30/japan/imperial-family-law-bill-revise-adopt/
+    locked_urls:
+      - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+      - https://www.japantimes.co.jp/news/2026/06/30/japan/imperial-family-law-bill-revise-adopt/
+    hard_facts:
+      - claim: Cabinet approval date of bill
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+          - https://www.japantimes.co.jp/news/2026/06/30/japan/imperial-family-law-bill-revise-adopt/
+        verbatim_excerpt: "Japan's Cabinet approved on June 30, 2026 a bill to amend the Imperial House Law"
+      - claim: Original Imperial House Law year
+        kind: temporal
+        value: "1947"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        verbatim_excerpt: "the first substantive revision of the 1947 legislation"
+      - claim: Number of Diet parties endorsing proposals
+        kind: numerical_with_unit
+        value: "7 of Japan's 13 Diet parties"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        verbatim_excerpt: "Only 7 of Japan's 13 Diet parties endorsed the proposals"
+      - claim: Diet session end date
+        kind: temporal
+        value: "July 17, 2026"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        verbatim_excerpt: "The Diet session ends July 17, 2026"
+      - claim: Named person - Masayo Tanabu
+        kind: named_person
+        value: "Masayo Tanabu"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        verbatim_excerpt: "CDP Secretary General Masayo Tanabu stated"
+      - claim: Named person - Minoru Kihara
+        kind: named_person
+        value: "Minoru Kihara"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        verbatim_excerpt: "Chief Cabinet Secretary Minoru Kihara countered"
+      - claim: Named person - Yuji Otabe
+        kind: named_person
+        value: "Yuji Otabe"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        verbatim_excerpt: "Shizuoka University Professor Emeritus Yuji Otabe"
+      - claim: Named institution - Shizuoka University
+        kind: named_institution
+        value: "Shizuoka University"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        verbatim_excerpt: "Shizuoka University Professor Emeritus Yuji Otabe"
+      - claim: Named institution - Constitutional Democratic Party
+        kind: named_institution
+        value: "CDP"
+        source_urls:
+          - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        verbatim_excerpt: "CDP Secretary General Masayo Tanabu stated"
+    quotes:
+      - speaker_name: Masayo Tanabu
+        speaker_title: "Secretary General, Constitutional Democratic Party of Japan"
+        verbatim_en: "matters that had not been fully debated were suddenly inserted"
+        source_url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        context: CDP Secretary General on cabinet-approved Imperial House Law revision
+      - speaker_name: Minoru Kihara
+        speaker_title: "Chief Cabinet Secretary, Japan"
+        verbatim_en: "existing provisions of the Imperial House Law must apply"
+        source_url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        context: Chief Cabinet Secretary defending the Imperial House Law revision bill
+      - speaker_name: Yuji Otabe
+        speaker_title: "Professor Emeritus, Shizuoka University"
+        verbatim_en: "one-sided"
+        source_url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/01/cabinet-approved-imperial-house-law-revision-sparks-political-friction-by-wading-into-succession-rules
+        context: Professor characterising Cabinet's approach on succession process
+
+  - story_id: japan-softbank-noetra-ai-1-trillion-yen
+    category: tech
+    headline_en: "Japan Backs SoftBank-Led Noetra Consortium with Up to ¥1 Trillion ($6.16bn) for Domestic Physical AI Foundation Model"
+    lead_url: https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.digitimes.com/news/a20260701VL202/japan-ai-investment-industrial-infrastructure.html
+    locked_urls:
+      - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+      - https://www.digitimes.com/news/a20260701VL202/japan-ai-investment-industrial-infrastructure.html
+    hard_facts:
+      - claim: Total government funding commitment
+        kind: numerical_with_unit
+        value: "¥1 trillion ($6.16 billion)"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+          - https://www.digitimes.com/news/a20260701VL202/japan-ai-investment-industrial-infrastructure.html
+        verbatim_excerpt: "up to ¥1 trillion ($6.16 billion) for a nine-company consortium"
+      - claim: Number of consortium companies
+        kind: numerical
+        value: "nine"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "a nine-company consortium, led by SoftBank Corp."
+      - claim: Fiscal 2026 allocation
+        kind: numerical_with_unit
+        value: "¥387.3 billion"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "The fiscal 2026 allocation is ¥387.3 billion"
+      - claim: Funding instrument
+        kind: named_product
+        value: "GX Economy Transition Bonds"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "funded through GX Economy Transition Bonds"
+      - claim: Full funding commitment timeframe
+        kind: numerical_with_unit
+        value: "five years"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "with the full ¥1 trillion committed across five years"
+      - claim: Named institution - Noetra Corp.
+        kind: named_institution
+        value: "Noetra Corp."
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "The lead entity, Noetra Corp., was established by SoftBank"
+      - claim: Named institution - SoftBank Corp.
+        kind: named_institution
+        value: "SoftBank Corp."
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "led by SoftBank Corp."
+      - claim: Named institution - Honda Motor
+        kind: named_institution
+        value: "Honda Motor"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "SoftBank in consortium with Honda Motor, NEC, and Sony"
+      - claim: Named institution - NEC
+        kind: named_institution
+        value: "NEC"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "SoftBank in consortium with Honda Motor, NEC, and Sony"
+      - claim: Named institution - Sony
+        kind: named_institution
+        value: "Sony"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "SoftBank in consortium with Honda Motor, NEC, and Sony"
+      - claim: Named institution - Preferred Networks
+        kind: named_institution
+        value: "Preferred Networks"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "Engineers from SoftBank and Preferred Networks will join"
+      - claim: Named institution - AIST
+        kind: named_institution
+        value: "AIST"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "alongside researchers from AIST"
+      - claim: Named institution - MUFG
+        kind: named_institution
+        value: "MUFG"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "Industrial data contributors include NEC, Honda, Sony, MUFG, Sumitomo Mitsui Financial, Mizuho, Nippon Steel, and Kobe Steel"
+      - claim: Named institution - Sumitomo Mitsui Financial
+        kind: named_institution
+        value: "Sumitomo Mitsui Financial"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "Industrial data contributors include NEC, Honda, Sony, MUFG, Sumitomo Mitsui Financial, Mizuho, Nippon Steel, and Kobe Steel"
+      - claim: Named institution - Mizuho
+        kind: named_institution
+        value: "Mizuho"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "Industrial data contributors include NEC, Honda, Sony, MUFG, Sumitomo Mitsui Financial, Mizuho, Nippon Steel, and Kobe Steel"
+      - claim: Named institution - Nippon Steel
+        kind: named_institution
+        value: "Nippon Steel"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "Industrial data contributors include NEC, Honda, Sony, MUFG, Sumitomo Mitsui Financial, Mizuho, Nippon Steel, and Kobe Steel"
+      - claim: Named institution - Kobe Steel
+        kind: named_institution
+        value: "Kobe Steel"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "Industrial data contributors include NEC, Honda, Sony, MUFG, Sumitomo Mitsui Financial, Mizuho, Nippon Steel, and Kobe Steel"
+      - claim: Named institution - METI
+        kind: named_institution
+        value: "METI"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "METI's physical AI roadmap"
+      - claim: METI target for Japan global physical AI market share by 2040
+        kind: numerical_with_unit
+        value: "30%"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "targets a 30% share of the global physical AI market for Japan by 2040"
+      - claim: METI target year
+        kind: temporal
+        value: "2040"
+        source_urls:
+          - https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china
+        verbatim_excerpt: "targets a 30% share of the global physical AI market for Japan by 2040"
+    quotes: []
+
+  - story_id: panasonic-record-valuation-ai-infra
+    category: tech
+    headline_en: "Panasonic Holdings Achieves Record ¥11.5tn Valuation on AI Infrastructure Surge, Targets ¥1.4tn AI Sales"
+    lead_url: https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-07-01/panasonic-targets-further-ai-growth-to-build-on-record-valuation
+    locked_urls:
+      - https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+      - https://www.bloomberg.com/news/articles/2026-07-01/panasonic-targets-further-ai-growth-to-build-on-record-valuation
+    hard_facts:
+      - claim: Panasonic Holdings market capitalisation
+        kind: numerical_with_unit
+        value: "¥11.5 trillion ($71 billion)"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+          - https://www.bloomberg.com/news/articles/2026-07-01/panasonic-targets-further-ai-growth-to-build-on-record-valuation
+        verbatim_excerpt: "Panasonic Holdings Corp. has reached a record market capitalisation of approximately ¥11.5 trillion ($71 billion)"
+      - claim: Panasonic share price increase over 2026
+        kind: numerical_with_unit
+        value: "more than doubling"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+        verbatim_excerpt: "more than doubling its share price over 2026"
+      - claim: AI infrastructure-related sales target over next three years
+        kind: numerical_with_unit
+        value: "approximately ¥1.4 trillion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+          - https://www.bloomberg.com/news/articles/2026-07-01/panasonic-targets-further-ai-growth-to-build-on-record-valuation
+        verbatim_excerpt: "targeting approximately ¥1.4 trillion in sales from AI infrastructure-related businesses over the next three years"
+      - claim: Battery defect charge
+        kind: numerical_with_unit
+        value: "¥40 billion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+        verbatim_excerpt: "despite a ¥40 billion battery defect charge from fiscal 2025"
+      - claim: FY2025 AI infrastructure investment commitment
+        kind: numerical_with_unit
+        value: "¥500 billion"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+        verbatim_excerpt: "Panasonic's FY2025 earnings briefing disclosed a ¥500 billion AI infrastructure investment commitment"
+      - claim: FY2025 earnings briefing date
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+        verbatim_excerpt: "In May 2026, Panasonic's FY2025 earnings briefing"
+      - claim: Named institution - Panasonic Holdings Corp.
+        kind: named_institution
+        value: "Panasonic Holdings Corp."
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/panasonic-ai-interview/
+        verbatim_excerpt: "Panasonic Holdings Corp. has reached a record market capitalisation"
+    quotes: []
+
+  - story_id: japan-departure-tax-visa-fees-july-2026
+    category: society
+    headline_en: "Japan Triples International Departure Tax to ¥3,000 and Raises Visa Fees Fivefold, Effective July 1"
+    lead_url: https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.humanresourcesonline.net/japan-to-triple-tourist-tax-and-raise-visa-fees-fivefold-from-1-july-2026
+    locked_urls:
+      - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+      - https://www.humanresourcesonline.net/japan-to-triple-tourist-tax-and-raise-visa-fees-fivefold-from-1-july-2026
+    hard_facts:
+      - claim: New international departure tax
+        kind: numerical_with_unit
+        value: "¥3,000"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+          - https://www.humanresourcesonline.net/japan-to-triple-tourist-tax-and-raise-visa-fees-fivefold-from-1-july-2026
+        verbatim_excerpt: "Japan's international departure tax (\"sayonara tax\") tripled to ¥3,000 effective July 1, 2026"
+      - claim: Previous departure tax
+        kind: numerical_with_unit
+        value: "¥1,000"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "up from ¥1,000 introduced in 2019"
+      - claim: Departure tax introduction year
+        kind: temporal
+        value: "2019"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "up from ¥1,000 introduced in 2019"
+      - claim: Single-entry visa fee new
+        kind: numerical_with_unit
+        value: "¥15,000 ($93)"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+          - https://www.humanresourcesonline.net/japan-to-triple-tourist-tax-and-raise-visa-fees-fivefold-from-1-july-2026
+        verbatim_excerpt: "single-entry visas increased fivefold from ¥3,000 to ¥15,000 ($93)"
+      - claim: Single-entry visa fee old
+        kind: numerical_with_unit
+        value: "¥3,000"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "single-entry visas increased fivefold from ¥3,000 to ¥15,000 ($93)"
+      - claim: Multiple-entry visa fee new
+        kind: numerical_with_unit
+        value: "¥30,000"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+          - https://www.humanresourcesonline.net/japan-to-triple-tourist-tax-and-raise-visa-fees-fivefold-from-1-july-2026
+        verbatim_excerpt: "multiple-entry visas doubled from ¥6,000 to ¥30,000"
+      - claim: Multiple-entry visa fee old
+        kind: numerical_with_unit
+        value: "¥6,000"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "multiple-entry visas doubled from ¥6,000 to ¥30,000"
+      - claim: Last visa fee increase year
+        kind: temporal
+        value: "1978"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "Japan raised visa issuance fees for the first time since 1978"
+      - claim: Visa-free countries exempt from visa fee increase
+        kind: numerical_with_unit
+        value: "approximately 70"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "Citizens of approximately 70 visa-free countries"
+      - claim: Foreign visitor arrivals in 2025
+        kind: numerical_with_unit
+        value: "42.4 million"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "Japan recorded 42.4 million foreign visitor arrivals in 2025"
+      - claim: Adult 10-year passport fee cut
+        kind: numerical_with_unit
+        value: "43%"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "The government cut adult 10-year passport application fees by 43%"
+      - claim: Adult 10-year passport fee new
+        kind: numerical_with_unit
+        value: "¥9,300"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "from ¥16,300 to ¥9,300 effective July 1"
+      - claim: Adult 10-year passport fee old
+        kind: numerical_with_unit
+        value: "¥16,300"
+        source_urls:
+          - https://www.cnbc.com/2026/06/30/japan-visa-fees-fivefold-increase-tourism-yen-departure-tax.html
+        verbatim_excerpt: "from ¥16,300 to ¥9,300 effective July 1"
+    quotes: []
+
+  - story_id: kura-sushi-us-expansion-pre-empt-sushiro
+    category: other
+    headline_en: "Kura Sushi Accelerating US Market Expansion to Pre-empt Rival Sushiro Entry"
+    lead_url: https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-06-30/sushi-chain-in-which-trump-holds-stake-accelerates-us-expansion
+    locked_urls:
+      - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+      - https://www.bloomberg.com/news/articles/2026-06-30/sushi-chain-in-which-trump-holds-stake-accelerates-us-expansion
+    hard_facts:
+      - claim: Kura Sushi US annual growth target
+        kind: numerical_with_unit
+        value: "20%"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+          - https://www.bloomberg.com/news/articles/2026-06-30/sushi-chain-in-which-trump-holds-stake-accelerates-us-expansion
+        verbatim_excerpt: "targeting 20% annual growth in US store numbers"
+      - claim: Kura Sushi US current restaurant count
+        kind: numerical_with_unit
+        value: "88 restaurants"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+          - https://www.bloomberg.com/news/articles/2026-06-30/sushi-chain-in-which-trump-holds-stake-accelerates-us-expansion
+        verbatim_excerpt: "Kura Sushi US operates 88 restaurants"
+      - claim: Kura Sushi US long-term location target
+        kind: numerical_with_unit
+        value: "approximately 300 US locations"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+        verbatim_excerpt: "with a long-term target of approximately 300 US locations"
+      - claim: New US locations opened in 2026
+        kind: numerical_with_unit
+        value: "16"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+        verbatim_excerpt: "The chain opened 16 new US locations in 2026"
+      - claim: Named institution - Kura Sushi
+        kind: named_institution
+        value: "Kura Sushi"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+        verbatim_excerpt: "Kura Sushi — Japan's leading conveyor-belt sushi (kaiten-zushi) chain"
+      - claim: Named institution - Sushiro
+        kind: named_institution
+        value: "Sushiro"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+        verbatim_excerpt: "in anticipation of rival Sushiro entering the US market later in 2026"
+      - claim: Named person - Hajime Uba
+        kind: named_person
+        value: "Hajime Uba"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+        verbatim_excerpt: "U.S. operations CEO Hajime Uba stated"
+      - claim: Japan foreign arrivals 2025
+        kind: numerical_with_unit
+        value: "42.4 million"
+        source_urls:
+          - https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+        verbatim_excerpt: "Japan recorded 42.4 million foreign arrivals in 2025"
+    quotes:
+      - speaker_name: Hajime Uba
+        speaker_title: "CEO U.S. Operations, Kura Sushi"
+        verbatim_en: "Competitors will inevitably expand in the US, and we want to secure those markets before they do."
+        source_url: https://www.japantimes.co.jp/business/2026/07/01/companies/kura-sushi-us-growth/
+        context: Kura Sushi US CEO on strategy to pre-empt Sushiro US market entry
