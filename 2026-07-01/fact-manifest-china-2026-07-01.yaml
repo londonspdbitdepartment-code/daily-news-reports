@@ -1,0 +1,504 @@
+version: 1
+generated_at: "2026-07-01T00:00:00Z"
+country: China
+date: "2026-07-01"
+total_stories: 5
+stories:
+  - story_id: china-manufacturing-best-quarter-since-2020
+    category: econ
+    headline_en: "China Manufacturing Caps Best Quarter Since 2020, Survey Shows"
+    lead_url: https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+    body_source: paywall-stub
+    corroborated_by:
+      - https://investinglive.com/news/ratingdog-pmi-caps-chinas-strongest-quarter-for-manufacturing-since-2020-20260701/
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+      - https://investinglive.com/news/ratingdog-pmi-caps-chinas-strongest-quarter-for-manufacturing-since-2020-20260701/
+    hard_facts:
+      - claim: RatingDog manufacturing PMI for June 2026
+        kind: numerical_with_unit
+        value: "51.7"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+          - https://investinglive.com/news/ratingdog-pmi-caps-chinas-strongest-quarter-for-manufacturing-since-2020-20260701/
+        verbatim_excerpt: "China's RatingDog (S&P Global) manufacturing PMI for June 2026 came in at 51.7"
+      - claim: RatingDog manufacturing PMI for May 2026
+        kind: numerical_with_unit
+        value: "51.8"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+          - https://investinglive.com/news/ratingdog-pmi-caps-chinas-strongest-quarter-for-manufacturing-since-2020-20260701/
+        verbatim_excerpt: "slipping from 51.8 in May"
+      - claim: Q2 2026 average PMI
+        kind: numerical_with_unit
+        value: "51.9"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+          - https://investinglive.com/news/ratingdog-pmi-caps-chinas-strongest-quarter-for-manufacturing-since-2020-20260701/
+        verbatim_excerpt: "The Q2 2026 average PMI of 51.9 was the strongest quarter for Chinese factory activity since Q4 2020"
+      - claim: strongest quarter for Chinese factory activity since
+        kind: temporal
+        value: Q4 2020
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+          - https://investinglive.com/news/ratingdog-pmi-caps-chinas-strongest-quarter-for-manufacturing-since-2020-20260701/
+        verbatim_excerpt: "the strongest quarter for Chinese factory activity since Q4 2020"
+      - claim: period since which employment rose at fastest pace
+        kind: temporal
+        value: August 2023
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "employment rose at the fastest pace since August 2023"
+      - claim: consecutive months new export orders declined
+        kind: numerical
+        value: "second consecutive month"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "new export orders declined for the second consecutive month"
+      - claim: business confidence lowest since
+        kind: temporal
+        value: January 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "business confidence fell to its lowest level since January 2026"
+      - claim: official NBS Manufacturing PMI for June 2026
+        kind: numerical_with_unit
+        value: "50.3"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "the official NBS Manufacturing PMI of 50.3 for June"
+      - claim: official NBS Manufacturing PMI for May 2026
+        kind: numerical_with_unit
+        value: "50.0"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "up from 50.0 in May"
+      - claim: consecutive months of NBS PMI expansion
+        kind: numerical
+        value: "third consecutive expansion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "third consecutive expansion, beating the 50.1 consensus"
+      - claim: NBS PMI consensus forecast
+        kind: numerical_with_unit
+        value: "50.1"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "beating the 50.1 consensus"
+      - claim: RatingDog PMI in April 2026 (over-five-year high)
+        kind: numerical_with_unit
+        value: "52.2"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "down from an over-five-year high of 52.2 in April"
+      - claim: named institution — survey provider
+        kind: named_institution
+        value: RatingDog (S&P Global)
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+          - https://investinglive.com/news/ratingdog-pmi-caps-chinas-strongest-quarter-for-manufacturing-since-2020-20260701/
+        verbatim_excerpt: "China's RatingDog (S&P Global) manufacturing PMI"
+      - claim: named institution — official PMI publisher
+        kind: named_institution
+        value: NBS
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "the official NBS Manufacturing PMI"
+      - claim: date of survey rename from Caixin/S&P Global to RatingDog
+        kind: temporal
+        value: August 2025
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-01/china-factory-activity-grows-less-than-expected-survey-shows
+        verbatim_excerpt: "formerly the Caixin/S&P Global survey, renamed from the August 2025 release"
+    quotes: []
+
+  - story_id: xi-cpc-105th-anniversary-global-influence
+    category: politics
+    headline_en: "Xi touts Communist Party's global influence in speech marking CPC's 105th anniversary"
+    lead_url: https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
+    locked_urls:
+      - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+      - https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
+    hard_facts:
+      - claim: CPC anniversary being marked
+        kind: numerical
+        value: "105th"
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+          - https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
+        verbatim_excerpt: "marking the Chinese Communist Party's 105th anniversary"
+      - claim: date of speech
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+          - https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
+        verbatim_excerpt: "Xi Jinping delivered remarks on July 1, 2026"
+      - claim: duration of address
+        kind: temporal
+        value: roughly 40-minute
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+        verbatim_excerpt: "In the roughly 40-minute address"
+      - claim: venue of speech
+        kind: named_institution
+        value: Great Hall of the People
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+          - https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
+        verbatim_excerpt: "at the Great Hall of the People in Beijing"
+      - claim: named person — speaker
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+          - https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
+        verbatim_excerpt: "Xi Jinping delivered remarks on July 1, 2026"
+      - claim: named institution — party
+        kind: named_institution
+        value: Chinese Communist Party
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+          - https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html
+        verbatim_excerpt: "marking the Chinese Communist Party's 105th anniversary"
+      - claim: medal conferred at ceremony
+        kind: named_product
+        value: July 1 Medal
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+        verbatim_excerpt: "He conferred the July 1 Medal, the Party's highest honor, on model CPC members"
+      - claim: Xi's years in power
+        kind: numerical
+        value: "14th year"
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+        verbatim_excerpt: "Xi is in his 14th year in power"
+      - claim: reference year of prior centenary speech
+        kind: temporal
+        value: "2021"
+        source_urls:
+          - https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+        verbatim_excerpt: "more outward-looking than his 2021 centenary speech"
+    quotes:
+      - speaker_name: Xi Jinping
+        speaker_title: President of China / General Secretary, Chinese Communist Party
+        verbatim_en: "Chinese wisdom, Chinese solutions and Chinese strength"
+        source_url: https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+        context: "July 1, 2026 speech at the Great Hall of the People marking the CPC's 105th anniversary"
+      - speaker_name: Xi Jinping
+        speaker_title: President of China / General Secretary, Chinese Communist Party
+        verbatim_en: "community with a shared future for humanity"
+        source_url: https://www.clickondetroit.com/news/world/2026/07/01/xi-touts-chinese-wisdom-and-solutions-as-a-model-for-developing-nations/
+        context: "July 1, 2026 speech at the Great Hall of the People marking the CPC's 105th anniversary"
+
+  - story_id: north-korea-kim-hails-ties-with-china-xi
+    category: politics
+    headline_en: "North Korea's Kim hails 'unshakeable will' to develop ties with China's Xi"
+    lead_url: https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+    hard_facts:
+      - claim: occasion of message
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        verbatim_excerpt: "marking the 105th founding anniversary of the Chinese Communist Party on July 1, 2026"
+      - claim: CPC anniversary number in Kim message context
+        kind: numerical
+        value: "105th"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        verbatim_excerpt: "marking the 105th founding anniversary of the Chinese Communist Party"
+      - claim: named person — Kim Jong Un
+        kind: named_person
+        value: Kim Jong Un
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        verbatim_excerpt: "North Korean leader Kim Jong Un sent a congratulatory message"
+      - claim: named person — Xi Jinping
+        kind: named_person
+        value: Xi Jinping
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        verbatim_excerpt: "congratulatory message to Chinese President Xi Jinping"
+      - claim: dates of Xi's visit to Pyongyang
+        kind: temporal
+        value: June 8–9, 2026
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        verbatim_excerpt: "Xi visited Pyongyang on June 8–9, 2026"
+      - claim: years since Xi's prior Pyongyang visit
+        kind: temporal
+        value: nearly seven years
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        verbatim_excerpt: "his first visit to the North Korean capital in nearly seven years"
+      - claim: North Korea's reliance on China for foreign trade
+        kind: numerical_with_unit
+        value: "approximately 98 percent"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        verbatim_excerpt: "North Korea relies on China for approximately 98 percent of its foreign trade"
+      - claim: named institution — DPRK party name used in message
+        kind: named_institution
+        value: Chinese Communist Party
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        verbatim_excerpt: "marking the 105th founding anniversary of the Chinese Communist Party"
+    quotes:
+      - speaker_name: Kim Jong Un
+        speaker_title: Supreme Leader of North Korea / General Secretary, Korean Workers' Party
+        verbatim_en: "steadfast stand"
+        source_url: https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        context: "congratulatory message to Xi Jinping on the CPC's 105th anniversary, July 1, 2026"
+      - speaker_name: Kim Jong Un
+        speaker_title: Supreme Leader of North Korea / General Secretary, Korean Workers' Party
+        verbatim_en: "steadily develop the DPRK-China friendly relations"
+        source_url: https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        context: "congratulatory message to Xi Jinping on the CPC's 105th anniversary, July 1, 2026"
+      - speaker_name: Kim Jong Un
+        speaker_title: Supreme Leader of North Korea / General Secretary, Korean Workers' Party
+        verbatim_en: "unshakeable"
+        source_url: https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        context: "describing North Korea's will to strengthen ties in congratulatory message, July 1, 2026"
+      - speaker_name: Xi Jinping
+        speaker_title: President of China / General Secretary, Chinese Communist Party
+        verbatim_en: "deeply changed the trend and trajectory of the world's development"
+        source_url: https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi
+        context: "July 1, 2026 speech at the Great Hall of the People in Beijing, characterising the CCP"
+
+  - story_id: hong-kong-29th-handover-john-lee-priorities
+    category: society
+    headline_en: "Hong Kong marks 29th handover anniversary with flag-raising in Wan Chai; John Lee sets final-term priorities"
+    lead_url: https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+    hard_facts:
+      - claim: anniversary number of Hong Kong handover
+        kind: numerical
+        value: "29th"
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "Hong Kong commemorated the 29th anniversary of its return to Chinese sovereignty"
+      - claim: date of ceremony
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "flag-raising ceremony at Golden Bauhinia Square in Wan Chai on the morning of July 1, 2026"
+      - claim: venue of flag-raising ceremony
+        kind: named_institution
+        value: Golden Bauhinia Square
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "flag-raising ceremony at Golden Bauhinia Square in Wan Chai"
+      - claim: venue of CE's reception address
+        kind: named_institution
+        value: Hong Kong Convention and Exhibition Centre
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "at a reception at the Hong Kong Convention and Exhibition Centre"
+      - claim: named person — Chief Executive
+        kind: named_person
+        value: John Lee
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "Chief Executive John Lee delivered his annual handover address"
+      - claim: named person — former CE Donald Tsang
+        kind: named_person
+        value: Donald Tsang
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "Former chief executives Donald Tsang, Carrie Lam and Leung Chun-ying attended"
+      - claim: named person — former CE Carrie Lam
+        kind: named_person
+        value: Carrie Lam
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "Former chief executives Donald Tsang, Carrie Lam and Leung Chun-ying attended"
+      - claim: named person — former CE Leung Chun-ying
+        kind: named_person
+        value: Leung Chun-ying
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "Former chief executives Donald Tsang, Carrie Lam and Leung Chun-ying attended"
+      - claim: named person — founding CE absent
+        kind: named_person
+        value: Tung Chee-hwa
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "founding CE Tung Chee-hwa was absent for the sixth consecutive year"
+      - claim: consecutive years Tung Chee-hwa absent from ceremony
+        kind: temporal
+        value: sixth consecutive year
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "Tung Chee-hwa was absent for the sixth consecutive year"
+      - claim: Composite Waiting Time for subsidised rental housing
+        kind: numerical_with_unit
+        value: "4.7 years"
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "the Composite Waiting Time for subsidised rental housing fell to 4.7 years, the shortest in more than eight years"
+      - claim: period since shortest housing waiting time
+        kind: temporal
+        value: more than eight years
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "the shortest in more than eight years"
+      - claim: first-quarter GDP growth cited by Lee
+        kind: numerical_with_unit
+        value: "5.9%"
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "He cited 5.9% first-quarter growth, \"the strongest in five years\""
+      - claim: Q1 growth characterisation
+        kind: temporal
+        value: "the strongest in five years"
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "5.9% first-quarter growth, \"the strongest in five years\""
+      - claim: named product — Police Silver Band
+        kind: named_institution
+        value: Police Silver Band
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "music from the Police Silver Band"
+      - claim: named institution — Government Flying Service
+        kind: named_institution
+        value: Government Flying Service
+        source_urls:
+          - https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        verbatim_excerpt: "aerial displays by Government Flying Service helicopters over Victoria Harbour"
+    quotes:
+      - speaker_name: John Lee
+        speaker_title: Chief Executive of Hong Kong
+        verbatim_en: "the strongest in five years"
+        source_url: https://www.dimsumdaily.hk/hong-kong-marks-29th-handover-with-flag-raising-in-wan-chai/
+        context: "annual handover address at the Hong Kong Convention and Exhibition Centre, July 1, 2026"
+
+  - story_id: eu-3-euro-per-parcel-duty-china-ecommerce
+    category: china_nexus
+    headline_en: "EU €3 per-parcel customs duty on sub-€150 imports takes effect, hitting China direct-ship e-commerce"
+    lead_url: https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+    body_source: full
+    corroborated_by:
+      - https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+      - https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en
+    hard_facts:
+      - claim: new EU customs duty per parcel
+        kind: numerical_with_unit
+        value: "€3"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+          - https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en
+        verbatim_excerpt: "The European Union began enforcing a €3 duty per item on small parcels"
+      - claim: de-minimis threshold for small parcels
+        kind: numerical_with_unit
+        value: "€150"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+          - https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en
+        verbatim_excerpt: "small parcels valued under €150 entering the EU from outside the bloc"
+      - claim: effective date of measure
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+          - https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en
+        verbatim_excerpt: "effective July 1, 2026"
+      - claim: approximate annual small parcel entries into EU before measure
+        kind: numerical_with_unit
+        value: "roughly 2 billion small parcels per year"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "roughly 2 billion small parcels per year entered the EU, predominantly from China"
+      - claim: named institution — Chinese e-commerce platform (SHEIN)
+        kind: named_institution
+        value: SHEIN
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "primarily SHEIN, Temu (owned by PDD Holdings), and AliExpress (owned by Alibaba)"
+      - claim: named institution — Temu parent
+        kind: named_institution
+        value: PDD Holdings
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "Temu (owned by PDD Holdings)"
+      - claim: named product — Temu platform
+        kind: named_product
+        value: Temu
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "primarily SHEIN, Temu (owned by PDD Holdings), and AliExpress"
+      - claim: named product — AliExpress platform
+        kind: named_product
+        value: AliExpress
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "AliExpress (owned by Alibaba)"
+      - claim: named institution — AliExpress parent
+        kind: named_institution
+        value: Alibaba
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "AliExpress (owned by Alibaba)"
+      - claim: additional EU-wide handling fee amount
+        kind: numerical_with_unit
+        value: "~€2 per HS code"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "A separate EU-wide handling fee of ~€2 per HS code is to follow no later than November 1, 2026"
+      - claim: deadline for additional EU-wide handling fee
+        kind: temporal
+        value: November 1, 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "no later than November 1, 2026"
+      - claim: end date of transitional €3 flat duty
+        kind: temporal
+        value: July 1, 2028
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+          - https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en
+        verbatim_excerpt: "The €3 flat duty is transitional, running until July 1, 2028"
+      - claim: EU e-commerce imports total in 2025
+        kind: numerical_with_unit
+        value: "almost 5.9 billion items"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "EU e-commerce imports totalled almost 5.9 billion items in 2025"
+      - claim: date of European Council final legislative approval
+        kind: temporal
+        value: February 11, 2026
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "the European Council gave final legislative approval on February 11, 2026"
+      - claim: named institution — European Council
+        kind: named_institution
+        value: European Council
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "the European Council gave final legislative approval on February 11, 2026"
+      - claim: named institution — EU Commission
+        kind: named_institution
+        value: EU Commission
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        verbatim_excerpt: "An EU Commission spokesperson said"
+    quotes:
+      - speaker_name: EU Commission spokesperson
+        speaker_title: Spokesperson, European Commission
+        verbatim_en: "quietly distorting the market"
+        source_url: https://www.euronews.com/my-europe/2026/07/01/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports
+        context: "statement on the previous de-minimis customs system, reported July 1, 2026"
