@@ -174,7 +174,7 @@ The incentive sits in the settlement timeline. Design-endorsed applicants qualif
 
 NatWest Group plc announced on 1 July 2026 that it had completed its acquisition of UK wealth manager Evelyn Partners for total consideration of approximately £2.7 billion (about USD 3.4 billion), with completion having occurred the previous day, 30 June, after all required regulatory approvals were secured.
 
-Evelyn Partners manages about £62 billion in client assets, and the deal vaults NatWest into the ranks of the UK's largest wealth managers. The logic is margin: NatWest bolts Evelyn's investment-management and financial-planning arm onto its own retail and private-banking base, deepening its presence in a high-fee business that is less capital-intensive than lending. NatWest's chief executive called the deal a "significant milestone" in the group's strategy to grow wealth management.
+Evelyn Partners manages about £62 billion in client assets, and the deal vaults NatWest into the ranks of the UK's largest wealth managers. The logic is margin: NatWest bolts Evelyn's investment-management and financial-planning arm onto its own retail and private-banking base, deepening its presence in a high-fee business that is less capital-intensive than lending. NatWest's chief executive framed the deal as a significant step in the group's strategy to grow wealth management.
 
 **References**
 
