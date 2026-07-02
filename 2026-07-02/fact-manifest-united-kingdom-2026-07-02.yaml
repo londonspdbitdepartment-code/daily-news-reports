@@ -1263,3 +1263,701 @@ stories:
         verbatim_en: "The exceptional warmth was driven by an intense and record-breaking heatwave at the end of the month."
         source_url: "https://www.metoffice.gov.uk/blog/2026/10-day-trend-hot-spell-peaks-before-a-return-to-more-changeable-conditions"
         context: Met Office provisional June 2026 data release, 1 July 2026
+
+  - story_id: natwest-evelyn-partners-acquisition
+    category: ipo_ma
+    headline_en: "NatWest Completes £2.7 Billion Acquisition of Evelyn Partners, Creating UK's Largest Private Banking and Wealth Management Business"
+    lead_url: "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+    body_source: full
+    corroborated_by:
+      - "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC3R8QZQ:0-natwest-group-announces-completion-of-the-acquisition-of-evelyn-partners/"
+      - "https://www.moneymarketing.co.uk/news/natwest-completes-2-7bn-acquisition-of-evelyn-partners/"
+      - "https://www.proactiveinvestors.com/companies/news/1094775/natwest-eyes-profits-and-shareholder-returns-boost-as-evelyn-deal-completed-1094775.html"
+    locked_urls:
+      - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+      - "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC3R8QZQ:0-natwest-group-announces-completion-of-the-acquisition-of-evelyn-partners/"
+      - "https://www.moneymarketing.co.uk/news/natwest-completes-2-7bn-acquisition-of-evelyn-partners/"
+      - "https://www.proactiveinvestors.com/companies/news/1094775/natwest-eyes-profits-and-shareholder-returns-boost-as-evelyn-deal-completed-1094775.html"
+    hard_facts:
+      - claim: acquisition announcement date
+        kind: temporal
+        value: "1 July 2026"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "NatWest Group announced on 1 July 2026"
+      - claim: acquisition completion date
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "its £2.7 billion acquisition of Evelyn Partners completed on 30 June 2026"
+      - claim: acquisition price
+        kind: numerical_with_unit
+        value: "£2.7 billion"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+          - "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC3R8QZQ:0-natwest-group-announces-completion-of-the-acquisition-of-evelyn-partners/"
+        verbatim_excerpt: "its £2.7 billion acquisition of Evelyn Partners"
+      - claim: named institution — Evelyn Partners
+        kind: named_institution
+        value: Evelyn Partners
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "£2.7 billion acquisition of Evelyn Partners"
+      - claim: named institution — Permira
+        kind: named_institution
+        value: Permira
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "Evelyn Partners, owned by Permira and Warburg Pincus"
+      - claim: named institution — Warburg Pincus
+        kind: named_institution
+        value: Warburg Pincus
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "owned by Permira and Warburg Pincus (who agreed the sale on 9 February 2026)"
+      - claim: sale agreement date
+        kind: temporal
+        value: "9 February 2026"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "who agreed the sale on 9 February 2026"
+      - claim: Evelyn Partners AUMA end-2025
+        kind: numerical_with_unit
+        value: "£69 billion"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "had £69 billion AUMA at end-2025"
+      - claim: NatWest AUMA pre-deal
+        kind: numerical_with_unit
+        value: "£59 billion"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "Combined with NatWest's £59 billion"
+      - claim: combined AUMA post-deal
+        kind: numerical_with_unit
+        value: "approximately £127 billion"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "the group reaches approximately £127 billion AUMA"
+      - claim: combined Customer Assets and Liabilities
+        kind: numerical_with_unit
+        value: "£188 billion"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "£188 billion in Customer Assets and Liabilities"
+      - claim: CAL as proportion of Group CAL
+        kind: numerical_with_unit
+        value: "approximately 20%"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "(approximately 20% of Group CAL)"
+      - claim: expected fee income increase pre-revenue synergies
+        kind: numerical_with_unit
+        value: "approximately 20%"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "approximately 20% increase in fee income (pre-revenue synergies)"
+      - claim: annual run-rate cost synergies
+        kind: numerical_with_unit
+        value: "approximately £100 million"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "annual run-rate cost synergies of approximately £100 million"
+      - claim: costs to achieve synergies
+        kind: numerical_with_unit
+        value: "approximately £150 million"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "(costs to achieve approximately £150 million)"
+      - claim: CET1 ratio reduction
+        kind: numerical_with_unit
+        value: "approximately 130 basis points"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "reduces NatWest Group's CET1 ratio by approximately 130 basis points"
+      - claim: named person — Paul Thwaite
+        kind: named_person
+        value: Paul Thwaite
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "CEO Paul Thwaite"
+      - claim: named person — Chris Kenny
+        kind: named_person
+        value: Chris Kenny
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "Evelyn Partners CEO Chris Kenny"
+      - claim: named person — Emma Crystal
+        kind: named_person
+        value: Emma Crystal
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "NatWest Private Banking & Wealth CEO Emma Crystal"
+      - claim: interim results date
+        kind: temporal
+        value: "31 July 2026"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "guidance update will be given at Interim Results, 31 July 2026"
+      - claim: share buyback announced with deal
+        kind: numerical_with_unit
+        value: "£750 million"
+        source_urls:
+          - "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        verbatim_excerpt: "The deal announced alongside a £750 million share buyback on 9 February 2026"
+    quotes:
+      - speaker_name: Paul Thwaite
+        speaker_title: CEO, NatWest Group
+        verbatim_en: "This is a unique opportunity for the Group, delivering unmatched scale and capabilities in a market with considerable growth potential."
+        source_url: "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        context: NatWest Group press release, 1 July 2026
+      - speaker_name: Chris Kenny
+        speaker_title: CEO, Evelyn Partners
+        verbatim_en: "Becoming part of NatWest Group strengthens our ability to support [clients] over the long term."
+        source_url: "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        context: NatWest Group press release, 1 July 2026
+      - speaker_name: Emma Crystal
+        speaker_title: CEO, NatWest Private Banking & Wealth
+        verbatim_en: "This is a pivotal moment for our combined business, bringing complementary capabilities and scale."
+        source_url: "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html"
+        context: NatWest Group press release, 1 July 2026
+
+  - story_id: eqt-intertek-9-5bn-take-private
+    category: ipo_ma
+    headline_en: "EQT's Recommended £9.5 Billion Cash Offer for Intertek Advances: UK's Largest PE Take-Private Since 2007 Awaits Scheme Vote and CMA Clearance"
+    lead_url: "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+    body_source: full
+    corroborated_by:
+      - "https://www.bloomberg.com/news/articles/2026-06-18/eqt-buys-uk-s-intertek-for-9-3-billion-in-latest-lse-exit"
+      - "https://www.globalbankingandfinance.com/eqt-agrees-14-billion-takeover-intertek-ft-reports/"
+      - "https://www.privateequitywire.co.uk/uk-takeover-panel-extends-deadline-for-eqts-9-4bn-intertek-deal/"
+      - "https://angelinvestorsnetwork.com/private-equity/eqt-intertek-14-5-billion-uk-take-private-2026"
+    locked_urls:
+      - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+      - "https://www.bloomberg.com/news/articles/2026-06-18/eqt-buys-uk-s-intertek-for-9-3-billion-in-latest-lse-exit"
+      - "https://www.globalbankingandfinance.com/eqt-agrees-14-billion-takeover-intertek-ft-reports/"
+      - "https://www.privateequitywire.co.uk/uk-takeover-panel-extends-deadline-for-eqts-9-4bn-intertek-deal/"
+      - "https://angelinvestorsnetwork.com/private-equity/eqt-intertek-14-5-billion-uk-take-private-2026"
+    hard_facts:
+      - claim: named institution — EQT AB
+        kind: named_institution
+        value: EQT AB
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "Swedish private equity firm EQT AB"
+      - claim: named institution — ADIA
+        kind: named_institution
+        value: ADIA
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "backed by Abu Dhabi sovereign wealth funds ADIA and Mubadala"
+      - claim: named institution — Mubadala
+        kind: named_institution
+        value: Mubadala
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "Abu Dhabi sovereign wealth funds ADIA and Mubadala"
+      - claim: deal announcement date
+        kind: temporal
+        value: "18 June 2026"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+          - "https://www.bloomberg.com/news/articles/2026-06-18/eqt-buys-uk-s-intertek-for-9-3-billion-in-latest-lse-exit"
+        verbatim_excerpt: "agreed on 18 June 2026 to acquire Intertek Group plc"
+      - claim: named institution — Intertek Group plc
+        kind: named_institution
+        value: Intertek Group plc
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "agreed on 18 June 2026 to acquire Intertek Group plc"
+      - claim: offer value in GBP
+        kind: numerical_with_unit
+        value: "approximately £9.5 billion"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "valuing Intertek at approximately £9.5 billion"
+      - claim: offer price per share including dividends
+        kind: numerical_with_unit
+        value: "£61.077 per share including dividends"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "(£61.077 per share including dividends"
+      - claim: offer value in USD
+        kind: numerical_with_unit
+        value: "approximately $14.5 billion"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "approximately $14.5 billion at current exchange rates"
+      - claim: BAA airports take-private value (third-largest comparison)
+        kind: numerical_with_unit
+        value: "£10.3 billion"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "behind only the £10.3 billion BAA airports (2006)"
+      - claim: BAA airports take-private year
+        kind: temporal
+        value: "2006"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "£10.3 billion BAA airports (2006)"
+      - claim: Alliance Boots take-private value
+        kind: numerical_with_unit
+        value: "£12.4 billion"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "£12.4 billion Alliance Boots (2007)"
+      - claim: Alliance Boots take-private year
+        kind: temporal
+        value: "2007"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "£12.4 billion Alliance Boots (2007)"
+      - claim: number of countries Intertek operates in
+        kind: numerical_with_unit
+        value: "100+ countries"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "certifying defence, consumer goods, and food safety supply chains across 100+ countries"
+      - claim: expected completion
+        kind: temporal
+        value: "Q4 2026 or Q1 2027"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "Expected completion: Q4 2026 or Q1 2027"
+      - claim: Intertek half-year results date
+        kind: temporal
+        value: "31 July 2026"
+        source_urls:
+          - "https://www.intertek.com/siteassets/investors/offer/rule-2.7-announcement-dated-18-june-2026.pdf"
+        verbatim_excerpt: "Intertek is scheduled to publish half-year results 31 July 2026"
+    quotes: []
+
+  - story_id: uk-forced-adoption-apology-185000
+    category: society
+    headline_en: "UK Government Issues Historic State Apology for Forced Adoption Practices Affecting 185,000 Families"
+    lead_url: "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+    body_source: full
+    corroborated_by:
+      - "https://www.lbc.co.uk/article/prime-minister-forced-adoption-5HjdcPj_2/"
+      - "https://www.gov.uk/government/speeches/prime-ministers-statement-in-the-house-on-historic-forced-adoption-2-july-2026"
+    locked_urls:
+      - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+      - "https://www.lbc.co.uk/article/prime-minister-forced-adoption-5HjdcPj_2/"
+      - "https://www.gov.uk/government/speeches/prime-ministers-statement-in-the-house-on-historic-forced-adoption-2-july-2026"
+    hard_facts:
+      - claim: apology date
+        kind: temporal
+        value: "2 July 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+          - "https://www.gov.uk/government/speeches/prime-ministers-statement-in-the-house-on-historic-forced-adoption-2-july-2026"
+        verbatim_excerpt: "The UK government on 2 July 2026 formally apologised in Parliament"
+      - claim: estimated number of people affected
+        kind: numerical_with_unit
+        value: "estimated 185,000 mothers, adopted people, and their families"
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        verbatim_excerpt: "affected an estimated 185,000 mothers, adopted people, and their families"
+      - claim: primary period of forced adoption practices
+        kind: temporal
+        value: "1949 and 1976"
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        verbatim_excerpt: "primarily between 1949 and 1976"
+      - claim: named person — Keir Starmer (PM delivering apology)
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+          - "https://www.gov.uk/government/speeches/prime-ministers-statement-in-the-house-on-historic-forced-adoption-2-july-2026"
+        verbatim_excerpt: "Prime Minister Keir Starmer delivered the apology in the House of Commons"
+      - claim: named person — Bridget Phillipson
+        kind: named_person
+        value: Bridget Phillipson
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        verbatim_excerpt: "Education Secretary Bridget Phillipson"
+      - claim: support package amount
+        kind: numerical_with_unit
+        value: "£4 million"
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        verbatim_excerpt: "government announced a £4 million support package over three years"
+      - claim: support package duration
+        kind: temporal
+        value: "three years"
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        verbatim_excerpt: "£4 million support package over three years"
+      - claim: named institution — Coram BAAF
+        kind: named_institution
+        value: Coram BAAF
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        verbatim_excerpt: "improved access to adoption records via Coram BAAF"
+      - claim: named institution — FamilyConnect
+        kind: named_institution
+        value: FamilyConnect
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        verbatim_excerpt: "expanded family reconnection services through FamilyConnect"
+      - claim: Church of England apology timing relative to Westminster
+        kind: temporal
+        value: "two weeks before the Westminster statement"
+        source_urls:
+          - "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        verbatim_excerpt: "The Church of England apologised for its own institutional role two weeks before the Westminster statement"
+    quotes:
+      - speaker_name: Keir Starmer
+        speaker_title: Prime Minister of the United Kingdom
+        verbatim_en: "The shame is not yours. The shame is never yours. The shame is ours. We are deeply and profoundly sorry."
+        source_url: "https://www.gov.uk/government/speeches/prime-ministers-statement-in-the-house-on-historic-forced-adoption-2-july-2026"
+        context: House of Commons statement, 2 July 2026
+      - speaker_name: Bridget Phillipson
+        speaker_title: Education Secretary
+        verbatim_en: "This was wrong, and we are sorry. An apology cannot undo what happened, but it can be the start of real change."
+        source_url: "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices"
+        context: Government apology statement, 2 July 2026
+
+  - story_id: ofsted-unregistered-childrens-homes
+    category: society
+    headline_en: "Ofsted Announces Criminal Prosecutions and Registration Reform to Tackle Illegal Children's Homes"
+    lead_url: "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+    hard_facts:
+      - claim: named institution — Ofsted
+        kind: named_institution
+        value: Ofsted
+        source_urls:
+          - "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+        verbatim_excerpt: "Ofsted on 2 July 2026 outlined a package of measures"
+      - claim: announcement date
+        kind: temporal
+        value: "2 July 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+        verbatim_excerpt: "Ofsted on 2 July 2026 outlined a package of measures"
+      - claim: named person — Sir Martyn Oliver
+        kind: named_person
+        value: Sir Martyn Oliver
+        source_urls:
+          - "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+        verbatim_excerpt: "Sir Martyn Oliver, His Majesty's Chief Inspector"
+      - claim: children reported in unregistered homes 2020-21
+        kind: numerical_with_unit
+        value: "147"
+        source_urls:
+          - "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+        verbatim_excerpt: "rose from 147 during 2020–21"
+      - claim: children reported in unregistered homes 2023-24
+        kind: numerical_with_unit
+        value: "982"
+        source_urls:
+          - "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+        verbatim_excerpt: "to 982 during 2023–24"
+      - claim: Ofsted investigations into potential unregistered providers most recent period
+        kind: numerical_with_unit
+        value: "nearly 900 investigations"
+        source_urls:
+          - "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+        verbatim_excerpt: "Ofsted initiating nearly 900 investigations into potential unregistered providers"
+      - claim: named person — Josh MacAlister
+        kind: named_person
+        value: Josh MacAlister
+        source_urls:
+          - "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+        verbatim_excerpt: "Children's Minister Josh MacAlister expressed support for the targeted enforcement approach"
+    quotes:
+      - speaker_name: Sir Martyn Oliver
+        speaker_title: His Majesty's Chief Inspector, Ofsted
+        verbatim_en: "Illegal homes are a scourge on our society, placing profit above children's welfare and safety."
+        source_url: "https://www.gov.uk/government/news/ofsted-outlines-plans-to-tackle-sharp-growth-in-unregistered-childrens-homes"
+        context: Ofsted press release, 2 July 2026
+
+  - story_id: home-secretary-lessons-for-prevent
+    category: other
+    headline_en: "Home Secretary Issues Formal Government Response to Lord Anderson's Lessons for Prevent Counter-Terrorism Review"
+    lead_url: "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+    hard_facts:
+      - claim: named person — Shabana Mahmood
+        kind: named_person
+        value: Shabana Mahmood
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "Home Secretary Shabana Mahmood on 2 July 2026 published the government's formal response"
+      - claim: response publication date
+        kind: temporal
+        value: "2 July 2026"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "Home Secretary Shabana Mahmood on 2 July 2026 published the government's formal response"
+      - claim: named person — Lord Anderson of Ipswich
+        kind: named_person
+        value: Lord Anderson of Ipswich
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "Lord Anderson of Ipswich's independent report \"Lessons for Prevent\""
+      - claim: named product — report title
+        kind: named_product
+        value: "Lessons for Prevent"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "independent report \"Lessons for Prevent,\" released on 16 July 2025"
+      - claim: Lord Anderson report release date
+        kind: temporal
+        value: "16 July 2025"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "released on 16 July 2025"
+      - claim: named person — Sir David Amess MP
+        kind: named_person
+        value: Sir David Amess MP
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "the 2021 murder of Sir David Amess MP"
+      - claim: Amess murder year
+        kind: temporal
+        value: "2021"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "the 2021 murder of Sir David Amess MP by Ali Harbi Ali"
+      - claim: named person — Ali Harbi Ali
+        kind: named_person
+        value: Ali Harbi Ali
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "the 2021 murder of Sir David Amess MP by Ali Harbi Ali"
+      - claim: Southport attack year
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "the 2024 Southport attack by Axel Rudakubana"
+      - claim: named person — Axel Rudakubana
+        kind: named_person
+        value: Axel Rudakubana
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "the 2024 Southport attack by Axel Rudakubana"
+      - claim: victims in Southport attack
+        kind: numerical_with_unit
+        value: "three young girls"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "the 2024 Southport attack by Axel Rudakubana in which three young girls were killed"
+      - claim: Rudakubana school referrals count
+        kind: numerical
+        value: "three school referrals"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "three school referrals between 2019 and 2021 were all rejected by police"
+      - claim: Rudakubana school referral period
+        kind: temporal
+        value: "2019 and 2021"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "three school referrals between 2019 and 2021"
+      - claim: Lord Anderson recommendations count
+        kind: numerical
+        value: "ten recommendations"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "Lord Anderson's report made ten recommendations across five themes"
+      - claim: Lord Anderson recommendation themes count
+        kind: numerical
+        value: "five themes"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "ten recommendations across five themes"
+      - claim: total Prevent referrals 2023-24
+        kind: numerical_with_unit
+        value: "6,922"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "In 2023–24 there were 6,922 total referrals to Prevent"
+      - claim: Channel cases adopted from referrals 2023-24
+        kind: numerical_with_unit
+        value: "512 cases (7%)"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "512 cases (7%) were adopted into Channel"
+      - claim: share of referrals from education sector
+        kind: numerical_with_unit
+        value: "40%"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "40% of referrals originated from the education sector"
+      - claim: share of referrals that were male
+        kind: numerical_with_unit
+        value: "88%"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "88% of referrals were male"
+      - claim: Home Secretary letter date
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - "https://www.gov.uk/government/publications/response-to-a-report-on-lessons-for-prevent"
+        verbatim_excerpt: "The Home Secretary's letter, dated 30 June 2026"
+    quotes: []
+
+  - story_id: uk-venezuela-earthquake-aid-5-8m
+    category: other
+    headline_en: "UK Deploys Emergency Medical Team and £5.8 Million in Aid Following Venezuela Earthquakes"
+    lead_url: "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: "2 July 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "The UK government on 2 July 2026 announced a £5.8 million emergency aid package"
+      - claim: total aid package
+        kind: numerical_with_unit
+        value: "£5.8 million"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "a £5.8 million emergency aid package and the deployment of a UK Emergency Medical Team"
+      - claim: Venezuela earthquake date
+        kind: temporal
+        value: "24 June 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "two devastating earthquakes that struck on 24 June 2026"
+      - claim: DEC matched donation component
+        kind: numerical_with_unit
+        value: "£2 million"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "£2 million matched from public donations via a Disasters Emergency Committee (DEC) appeal"
+      - claim: named institution — Disasters Emergency Committee
+        kind: named_institution
+        value: "Disasters Emergency Committee (DEC)"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "via a Disasters Emergency Committee (DEC) appeal"
+      - claim: additional emergency funding component
+        kind: numerical_with_unit
+        value: "£3.8 million"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "£3.8 million in additional emergency funding direct from UK government budgets"
+      - claim: named institution — UK-Med
+        kind: named_institution
+        value: UK-Med
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "delivered by Manchester-based international medical charity UK-Med"
+      - claim: UK EMT daily outpatient capacity
+        kind: numerical_with_unit
+        value: "up to 100 outpatients daily"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "capable of treating up to 100 outpatients daily"
+      - claim: UK EMT inpatient ward capacity
+        kind: numerical_with_unit
+        value: "20-bed inpatient ward"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "accommodating a 20-bed inpatient ward"
+      - claim: named person — Chris Elmore MP
+        kind: named_person
+        value: Chris Elmore MP
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "Chris Elmore MP, Minister for Latin America and the Caribbean"
+      - claim: DEC public donation match ceiling
+        kind: numerical_with_unit
+        value: "£2 million"
+        source_urls:
+          - "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        verbatim_excerpt: "donations matched pound-for-pound by the UK government up to the £2 million ceiling"
+    quotes:
+      - speaker_name: Chris Elmore MP
+        speaker_title: Minister for Latin America and the Caribbean
+        verbatim_en: "The scale of destruction caused by these earthquakes is devastating, and the UK is stepping up support for the people of Venezuela."
+        source_url: "https://www.gov.uk/government/news/uk-steps-up-support-for-venezuela-following-devastating-earthquakes"
+        context: UK government press release, 2 July 2026
+
+  - story_id: aaib-dhc8-guernsey-runway-overrun
+    category: other
+    headline_en: "AAIB Publishes Safety Investigation Report on DHC-8 Runway Overrun at Guernsey Airport"
+    lead_url: "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+    hard_facts:
+      - claim: named institution — AAIB
+        kind: named_institution
+        value: "UK Air Accidents Investigation Branch (AAIB)"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "The UK Air Accidents Investigation Branch (AAIB) on 2 July 2026 published its safety investigation report"
+      - claim: report publication date
+        kind: temporal
+        value: "2 July 2026"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "on 2 July 2026 published its safety investigation report"
+      - claim: named product — aircraft type
+        kind: named_product
+        value: "De Havilland DHC-8"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "a De Havilland DHC-8 turboprop aircraft"
+      - claim: aircraft registration
+        kind: named_product
+        value: "9H-LWB"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "De Havilland DHC-8 turboprop aircraft (registration 9H-LWB)"
+      - claim: incident date
+        kind: temporal
+        value: "23 April 2024"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "runway overrun involving a De Havilland DHC-8 turboprop aircraft (registration 9H-LWB) at Guernsey Airport on 23 April 2024"
+      - claim: departure airport for the flight
+        kind: named_institution
+        value: London Gatwick
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "operating a return flight from London Gatwick"
+      - claim: named product — runway designation
+        kind: named_product
+        value: "Runway 27"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "During landing on Runway 27 at Guernsey"
+      - claim: number of formal safety recommendations
+        kind: numerical
+        value: "one formal Safety Recommendation"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "one formal Safety Recommendation addressing the location of emergency checklists"
+      - claim: number of safety actions carried out
+        kind: numerical
+        value: "Two safety actions"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "Two safety actions were carried out"
+      - claim: named product — Quick Reference Handbook
+        kind: named_product
+        value: "DHC-8 Quick Reference Handbook"
+        source_urls:
+          - "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb"
+        verbatim_excerpt: "the DHC-8 Quick Reference Handbook"
+    quotes: []

@@ -1,0 +1,1145 @@
+version: 1
+generated_at: "2026-07-02T09:00:00Z"
+country: United States
+date: "2026-07-02"
+total_stories: 12
+stories:
+  - story_id: bls-june-2026-employment-situation
+    category: econ
+    headline_en: BLS releases June 2026 Employment Situation — jobs report scheduled 8:30 AM ET
+    lead_url: https://www.bls.gov/news.release/empsit.nr0.htm
+    body_source: full
+    corroborated_by:
+      - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+      - https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect
+    locked_urls:
+      - https://www.bls.gov/news.release/empsit.nr0.htm
+      - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+      - https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect
+    hard_facts:
+      - claim: BLS Employment Situation release time
+        kind: temporal
+        value: "8:30 a.m. ET July 2, 2026"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "BLS Employment Situation for June 2026 scheduled 8:30 a.m. ET July 2, 2026"
+      - claim: Consensus nonfarm payrolls forecast
+        kind: numerical_with_unit
+        value: "+100,000–115,000"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+          - https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect
+        verbatim_excerpt: "Consensus: nonfarm payrolls +100,000–115,000"
+      - claim: May 2026 nonfarm payrolls (prior)
+        kind: numerical_with_unit
+        value: "+172,000"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+          - https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect
+        verbatim_excerpt: "nonfarm payrolls +100,000–115,000 (vs +172,000 May)"
+      - claim: Consensus unemployment rate forecast
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+          - https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect
+        verbatim_excerpt: "unemployment forecast 4.3%"
+      - claim: ADP private payrolls June 2026
+        kind: numerical_with_unit
+        value: "+98,000"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+          - https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect
+        verbatim_excerpt: "ADP private payrolls (July 1) +98,000"
+      - claim: ADP consensus expectation
+        kind: numerical_with_unit
+        value: "120,000"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+        verbatim_excerpt: "below 120,000 consensus"
+      - claim: ADP May 2026 reading
+        kind: numerical_with_unit
+        value: "122,000"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+        verbatim_excerpt: "down from 122,000 May"
+      - claim: ADP release date
+        kind: temporal
+        value: "July 1"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "ADP private payrolls (July 1) +98,000"
+      - claim: Fed Chair name
+        kind: named_person
+        value: Kevin Warsh
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+        verbatim_excerpt: "Fed Chair Kevin Warsh"
+      - claim: Federal funds rate range held at June FOMC
+        kind: numerical_with_unit
+        value: "3.5–3.75%"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+        verbatim_excerpt: "rates held 3.5–3.75% at June 17 FOMC"
+      - claim: June FOMC date
+        kind: temporal
+        value: "June 17"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+        verbatim_excerpt: "rates held 3.5–3.75% at June 17 FOMC"
+      - claim: Market-implied probability of September rate hike
+        kind: numerical_with_unit
+        value: "~77%"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+          - https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect
+        verbatim_excerpt: "markets pricing ~77% odds of September hike"
+      - claim: US inflation rate (May 2026 y/y)
+        kind: numerical_with_unit
+        value: "4.2% y/y"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+          - https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final
+        verbatim_excerpt: "Inflation 4.2% y/y (May 2026)"
+      - claim: Inflation reference period
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Inflation 4.2% y/y (May 2026)"
+      - claim: Education/health services share of ADP gains
+        kind: numerical_with_unit
+        value: "~half"
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Education/health services ~half of ADP gains"
+      - claim: Federal Reserve institution
+        kind: named_institution
+        value: Fed
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Fed Chair Kevin Warsh; rates held 3.5–3.75% at June 17 FOMC"
+      - claim: BLS institution
+        kind: named_institution
+        value: BLS
+        source_urls:
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "BLS Employment Situation for June 2026"
+    quotes: []
+
+  - story_id: treasury-yields-rise-june-jobs-report
+    category: econ
+    headline_en: U.S. Treasury yields rise ahead of June jobs report; markets cautious
+    lead_url: https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+    hard_facts:
+      - claim: Treasury yield movement date
+        kind: temporal
+        value: "July 2"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "U.S. Treasury yields rose July 2 as investors awaited BLS June jobs report"
+      - claim: BLS jobs report release time
+        kind: temporal
+        value: "8:30 AM ET"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "BLS June jobs report (8:30 AM ET)"
+      - claim: ADP private payrolls June 2026
+        kind: numerical_with_unit
+        value: "+98,000"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "Cautious positioning given ADP +98,000 (July 1)"
+      - claim: ADP release date
+        kind: temporal
+        value: "July 1"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "ADP +98,000 (July 1)"
+      - claim: Fed Chair name
+        kind: named_person
+        value: Kevin Warsh
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "Fed Chair Warsh reiterated July 1 at ECB Sintra Forum"
+      - claim: Warsh remarks date and venue
+        kind: temporal
+        value: "July 1 at ECB Sintra Forum"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "Fed Chair Warsh reiterated July 1 at ECB Sintra Forum"
+      - claim: ECB Sintra Forum institution
+        kind: named_institution
+        value: ECB Sintra Forum
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "Fed Chair Warsh reiterated July 1 at ECB Sintra Forum"
+      - claim: Market-implied probability of September rate hike
+        kind: numerical_with_unit
+        value: "~77%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "Markets pricing ~77% odds of September hike"
+      - claim: US inflation rate y/y
+        kind: numerical_with_unit
+        value: "4.2% y/y"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        verbatim_excerpt: "inflation 4.2% y/y"
+    quotes:
+      - speaker_name: Kevin Warsh
+        speaker_title: Fed Chair
+        verbatim_en: "too high"
+        source_url: https://www.cnbc.com/2026/07/02/treasury-yields-rise-investors-await-june-jobs-report.html
+        context: ECB Sintra Forum, July 1, describing inflation
+
+  - story_id: cnbc-daily-open-usmca-meta-fed-south-korea
+    category: econ
+    headline_en: "CNBC Daily Open: USMCA non-renewal, Meta cloud, Fed, South Korea"
+    lead_url: https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+    hard_facts:
+      - claim: USMCA non-renewal deadline
+        kind: temporal
+        value: "July 1"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        verbatim_excerpt: "Trump administration opted not to renew USMCA as of July 1 deadline"
+      - claim: USMCA institution
+        kind: named_institution
+        value: USMCA
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        verbatim_excerpt: "Trump administration opted not to renew USMCA as of July 1 deadline"
+      - claim: Meta stock price move date
+        kind: temporal
+        value: "July 1"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        verbatim_excerpt: "Meta (META) surged ~9% July 1 on reports it is building a cloud business"
+      - claim: Meta stock surge
+        kind: numerical_with_unit
+        value: "~9%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        verbatim_excerpt: "Meta (META) surged ~9% July 1 on reports it is building a cloud business to sell excess AI compute"
+      - claim: Meta ticker symbol
+        kind: named_product
+        value: META
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        verbatim_excerpt: "Meta (META) surged ~9% July 1"
+      - claim: Meta company name
+        kind: named_institution
+        value: Meta
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        verbatim_excerpt: "Meta (META) surged ~9% July 1 on reports it is building a cloud business"
+      - claim: Fed Chair name
+        kind: named_person
+        value: Kevin Warsh
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        verbatim_excerpt: "Fed Chair Warsh at ECB Sintra: inflation \"too high,\" no July hint"
+      - claim: ECB Sintra Forum institution
+        kind: named_institution
+        value: ECB Sintra
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        verbatim_excerpt: "Fed Chair Warsh at ECB Sintra: inflation \"too high,\" no July hint"
+    quotes:
+      - speaker_name: Kevin Warsh
+        speaker_title: Fed Chair
+        verbatim_en: "too high"
+        source_url: https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html
+        context: ECB Sintra forum, describing inflation
+
+  - story_id: us-iran-nuclear-talks-doha-continue
+    category: politics
+    headline_en: "US-Iran nuclear talks in Doha: separate sessions held, agreement to continue"
+    lead_url: https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-nuclear-talks-doha-qatar-continue
+    locked_urls:
+      - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+      - https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-nuclear-talks-doha-qatar-continue
+    hard_facts:
+      - claim: Doha talks date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+          - https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-nuclear-talks-doha-qatar-continue
+        verbatim_excerpt: "US and Iranian delegations held separate (indirect) meetings in Doha July 2, 2026"
+      - claim: Ceasefire MOU date
+        kind: temporal
+        value: "June 17"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+        verbatim_excerpt: "continuing nuclear/post-war normalization talks after the June 17 ceasefire MOU"
+      - claim: US-Israel-Iran war dates
+        kind: temporal
+        value: "Feb 28–March 11, 2026"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+        verbatim_excerpt: "12-day US-Israel-Iran war (Feb 28–March 11, 2026)"
+      - claim: Duration of US-Israel-Iran war
+        kind: numerical_with_unit
+        value: "12-day"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+        verbatim_excerpt: "12-day US-Israel-Iran war (Feb 28–March 11, 2026)"
+      - claim: Date of US-Israel strike on Iran
+        kind: temporal
+        value: "Feb 28"
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+        verbatim_excerpt: "Feb 28 US-Israel strike destroyed much of Iran's enrichment capacity"
+      - claim: Omani mediators institution
+        kind: named_institution
+        value: Oman
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+        verbatim_excerpt: "brokered by Omani mediators"
+      - claim: Qatar role
+        kind: named_institution
+        value: Qatar
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+        verbatim_excerpt: "Qatar and Oman serving as dual intermediary tracks"
+      - claim: Doha location country
+        kind: named_institution
+        value: Doha
+        source_urls:
+          - https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next
+        verbatim_excerpt: "US and Iranian delegations held separate (indirect) meetings in Doha July 2, 2026"
+    quotes: []
+
+  - story_id: openai-proposes-us-govt-5pct-equity-stake
+    category: politics
+    headline_en: OpenAI proposes giving US government a 5% equity stake in leading AI companies
+    lead_url: https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says
+      - https://www.rte.ie/news/business/2026/0702/1581359-openai-proposes-handing-us-government-5-stake-ft/
+    locked_urls:
+      - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+      - https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says
+      - https://www.rte.ie/news/business/2026/0702/1581359-openai-proposes-handing-us-government-5-stake-ft/
+    hard_facts:
+      - claim: Proposed US government equity stake
+        kind: numerical_with_unit
+        value: "5%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+          - https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says
+          - https://www.rte.ie/news/business/2026/0702/1581359-openai-proposes-handing-us-government-5-stake-ft/
+        verbatim_excerpt: "proposing the US government receive a 5% equity stake in OpenAI"
+      - claim: OpenAI CEO name
+        kind: named_person
+        value: Sam Altman
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+          - https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says
+        verbatim_excerpt: "OpenAI CEO Sam Altman and executives began preliminary discussions"
+      - claim: Report confirmation date
+        kind: temporal
+        value: "July 2"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+          - https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says
+        verbatim_excerpt: "CNBC and Bloomberg confirmed July 2"
+      - claim: FT as first to report
+        kind: named_institution
+        value: FT
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+        verbatim_excerpt: "FT first reported; CNBC and Bloomberg confirmed July 2"
+      - claim: OpenAI post-money valuation (March 2026)
+        kind: numerical_with_unit
+        value: "$852B"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+          - https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says
+        verbatim_excerpt: "OpenAI's $852B post-money valuation (March 2026)"
+      - claim: OpenAI valuation reference period
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+        verbatim_excerpt: "OpenAI's $852B post-money valuation (March 2026)"
+      - claim: Implied value of 5% stake
+        kind: numerical_with_unit
+        value: "≈ $42.6B"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+        verbatim_excerpt: "5% at OpenAI's $852B post-money valuation (March 2026) ≈ $42.6B"
+      - claim: OpenAI institution
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+        verbatim_excerpt: "OpenAI CEO Sam Altman and executives began preliminary discussions"
+      - claim: Anthropic institution named in proposal
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+        verbatim_excerpt: "potentially also Anthropic, Google, Meta"
+      - claim: Google institution named in proposal
+        kind: named_institution
+        value: Google
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+        verbatim_excerpt: "potentially also Anthropic, Google, Meta"
+      - claim: Alaska Permanent Fund model reference
+        kind: named_institution
+        value: Alaska Permanent Fund
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+        verbatim_excerpt: "modeled on the Alaska Permanent Fund"
+    quotes:
+      - speaker_name: Sam Altman
+        speaker_title: OpenAI CEO
+        verbatim_en: "financial interest"
+        source_url: https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
+        context: Altman framing the proposal as giving the public a "financial interest" in AI upside
+
+  - story_id: trump-ai-eo-14409-30-day-deadlines-july-2
+    category: politics
+    headline_en: Trump AI Executive Order (EO 14409) 30-day deadlines fall on July 2
+    lead_url: https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+    body_source: full
+    corroborated_by:
+      - https://www.forwardnetworks.com/blog/2026/06/29/executive-order-14409-starts-a-30-day-clock-on-federal-cyber-defense/
+      - https://www.wiley.law/alert-New-AI-Executive-Order-Addresses-Frontier-Models-and-Cybersecurity-Vulnerabilities
+    locked_urls:
+      - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+      - https://www.forwardnetworks.com/blog/2026/06/29/executive-order-14409-starts-a-30-day-clock-on-federal-cyber-defense/
+      - https://www.wiley.law/alert-New-AI-Executive-Order-Addresses-Frontier-Models-and-Cybersecurity-Vulnerabilities
+    hard_facts:
+      - claim: EO number
+        kind: named_product
+        value: EO 14409
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+          - https://www.forwardnetworks.com/blog/2026/06/29/executive-order-14409-starts-a-30-day-clock-on-federal-cyber-defense/
+          - https://www.wiley.law/alert-New-AI-Executive-Order-Addresses-Frontier-Models-and-Cybersecurity-Vulnerabilities
+        verbatim_excerpt: "EO 14409 \"Promoting Advanced Artificial Intelligence Innovation and Security\""
+      - claim: EO signing date
+        kind: temporal
+        value: "June 2, 2026"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+          - https://www.forwardnetworks.com/blog/2026/06/29/executive-order-14409-starts-a-30-day-clock-on-federal-cyber-defense/
+        verbatim_excerpt: "signed June 2, 2026"
+      - claim: Section 2 deliverables deadline period
+        kind: numerical_with_unit
+        value: "30 days"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+          - https://www.forwardnetworks.com/blog/2026/06/29/executive-order-14409-starts-a-30-day-clock-on-federal-cyber-defense/
+        verbatim_excerpt: "Section 2 deliverables due within 30 days — July 2, 2026"
+      - claim: Section 2 deliverables due date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+          - https://www.forwardnetworks.com/blog/2026/06/29/executive-order-14409-starts-a-30-day-clock-on-federal-cyber-defense/
+        verbatim_excerpt: "Section 2 deliverables due within 30 days — July 2, 2026"
+      - claim: Pre-release model access window for voluntary framework
+        kind: numerical_with_unit
+        value: "30-day"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+          - https://www.wiley.law/alert-New-AI-Executive-Order-Addresses-Frontier-Models-and-Cybersecurity-Vulnerabilities
+        verbatim_excerpt: "Voluntary framework for frontier developers to give government 30-day pre-release model access"
+      - claim: Committee on National Security Systems institution
+        kind: named_institution
+        value: Committee on National Security Systems
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Committee on National Security Systems + Secretary of War (DoD) + DHS prioritize cyber defense"
+      - claim: DoD agency reference
+        kind: named_institution
+        value: DoD
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Secretary of War (DoD) + DHS prioritize cyber defense"
+      - claim: DHS agency
+        kind: named_institution
+        value: DHS
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Secretary of War (DoD) + DHS prioritize cyber defense"
+      - claim: Treasury department
+        kind: named_institution
+        value: Treasury
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Treasury + NSA + CISA establish an \"AI cybersecurity clearinghouse\""
+      - claim: NSA agency
+        kind: named_institution
+        value: NSA
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Treasury + NSA + CISA establish an \"AI cybersecurity clearinghouse\""
+      - claim: CISA agency
+        kind: named_institution
+        value: CISA
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "Treasury + NSA + CISA establish an \"AI cybersecurity clearinghouse\""
+      - claim: OMB agency
+        kind: named_institution
+        value: OMB
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "OMB review whether federal grants can fund AI vulnerability detection"
+      - claim: EO full title
+        kind: named_product
+        value: "Promoting Advanced Artificial Intelligence Innovation and Security"
+        source_urls:
+          - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+        verbatim_excerpt: "EO 14409 \"Promoting Advanced Artificial Intelligence Innovation and Security\""
+    quotes: []
+
+  - story_id: chip-stocks-tumble-dram-antitrust-q3-selloff
+    category: tech
+    headline_en: Chip stocks tumble; memory sector selloff on DRAM antitrust suit + Q3 profit-taking
+    lead_url: https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+    body_source: full
+    corroborated_by:
+      - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+      - https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4770788
+      - https://seekingalpha.com/news/4601211-over-1t-erased-chip-selloff-impacts-nvidia-broadcom
+    locked_urls:
+      - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+      - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+      - https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4770788
+      - https://seekingalpha.com/news/4601211-over-1t-erased-chip-selloff-impacts-nvidia-broadcom
+    hard_facts:
+      - claim: Micron Q2 prior rally
+        kind: numerical_with_unit
+        value: ">240%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+        verbatim_excerpt: "Micron surged >240%"
+      - claim: Micron (MU) price drop
+        kind: numerical_with_unit
+        value: "6.4–9%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+        verbatim_excerpt: "Micron (MU) dropped 6.4–9% toward $1,060–1,080"
+      - claim: Micron price level
+        kind: numerical_with_unit
+        value: "$1,060–1,080"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+        verbatim_excerpt: "Micron (MU) dropped 6.4–9% toward $1,060–1,080 (from ATH $1,255)"
+      - claim: Micron all-time high price
+        kind: numerical_with_unit
+        value: "$1,255"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+        verbatim_excerpt: "from ATH $1,255"
+      - claim: SanDisk price drop
+        kind: numerical_with_unit
+        value: "~-10%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+        verbatim_excerpt: "SanDisk ~-10% to $2,051.10"
+      - claim: SanDisk price level
+        kind: numerical_with_unit
+        value: "$2,051.10"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+        verbatim_excerpt: "SanDisk ~-10% to $2,051.10"
+      - claim: Western Digital price drop
+        kind: numerical_with_unit
+        value: "-7%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+        verbatim_excerpt: "Western Digital -7% to $595.81"
+      - claim: Western Digital price level
+        kind: numerical_with_unit
+        value: "$595.81"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://247wallst.com/investing/2026/07/01/micron-drops-8-sandisk-slumps-10-western-digital-falls-7-as-memory-stocks-pull-back-with-the-nasdaq/
+        verbatim_excerpt: "Western Digital -7% to $595.81"
+      - claim: NVIDIA price drop
+        kind: numerical_with_unit
+        value: "~-2.5%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://seekingalpha.com/news/4601211-over-1t-erased-chip-selloff-impacts-nvidia-broadcom
+        verbatim_excerpt: "NVIDIA ~-2.5%"
+      - claim: Nasdaq 100 H2 opening move
+        kind: numerical_with_unit
+        value: "~1% lower"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://seekingalpha.com/news/4601211-over-1t-erased-chip-selloff-impacts-nvidia-broadcom
+        verbatim_excerpt: "Nasdaq 100 opened H2 ~1% lower after +20% YTD"
+      - claim: Nasdaq 100 YTD gain
+        kind: numerical_with_unit
+        value: "+20% YTD"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://seekingalpha.com/news/4601211-over-1t-erased-chip-selloff-impacts-nvidia-broadcom
+        verbatim_excerpt: "Nasdaq 100 opened H2 ~1% lower after +20% YTD"
+      - claim: Antitrust suit filing date
+        kind: temporal
+        value: "June 25"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4770788
+        verbatim_excerpt: "class-action antitrust suit filed June 25 in California federal court"
+      - claim: DRAM price increase alleged in antitrust suit
+        kind: numerical_with_unit
+        value: "+~700%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4770788
+        verbatim_excerpt: "alleging Samsung/SK Hynix/Micron coordinated to restrict DRAM supply (prices +~700% over four years)"
+      - claim: Antitrust suit duration of alleged conduct
+        kind: temporal
+        value: "four years"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+        verbatim_excerpt: "prices +~700% over four years"
+      - claim: Combined chip market cap erased
+        kind: numerical_with_unit
+        value: ">$1T"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://seekingalpha.com/news/4601211-over-1t-erased-chip-selloff-impacts-nvidia-broadcom
+        verbatim_excerpt: ">$1T combined chip market cap erased over multi-day period"
+      - claim: SK Hynix planned Nasdaq IPO amount
+        kind: numerical_with_unit
+        value: "$29.4B"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+        verbatim_excerpt: "SK Hynix's planned $29.4B Nasdaq IPO (from July 10)"
+      - claim: SK Hynix IPO start date
+        kind: temporal
+        value: "July 10"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+        verbatim_excerpt: "SK Hynix's planned $29.4B Nasdaq IPO (from July 10)"
+      - claim: ADP June payrolls
+        kind: numerical_with_unit
+        value: "+98,000"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+        verbatim_excerpt: "ADP June +98,000 below consensus"
+      - claim: Micron ticker
+        kind: named_product
+        value: MU
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+        verbatim_excerpt: "Micron (MU) dropped 6.4–9%"
+      - claim: Samsung institution
+        kind: named_institution
+        value: Samsung
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4770788
+        verbatim_excerpt: "alleging Samsung/SK Hynix/Micron coordinated to restrict DRAM supply"
+      - claim: SK Hynix institution
+        kind: named_institution
+        value: SK Hynix
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+          - https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4770788
+        verbatim_excerpt: "alleging Samsung/SK Hynix/Micron coordinated to restrict DRAM supply"
+      - claim: Morgan Stanley rating on Micron
+        kind: named_institution
+        value: Morgan Stanley
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+        verbatim_excerpt: "Morgan Stanley kept overweight on Micron"
+      - claim: Citrini Research warning
+        kind: named_institution
+        value: Citrini Research
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+        verbatim_excerpt: "Citrini Research warning on demand softening"
+      - claim: KOSPI index
+        kind: named_product
+        value: KOSPI
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html
+        verbatim_excerpt: "Samsung and SK Hynix slid on KOSPI"
+    quotes: []
+
+  - story_id: spacex-nasdaq-100-inclusion-july-7
+    category: tech
+    headline_en: "SpaceX scheduled for Nasdaq-100 inclusion July 7; ~$22–27B forced passive buying expected"
+    lead_url: https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+    body_source: full
+    corroborated_by:
+      - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+      - https://finance.yahoo.com/markets/stocks/articles/spacex-joins-nasdaq-100-july-124024457.html
+    locked_urls:
+      - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+      - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+      - https://finance.yahoo.com/markets/stocks/articles/spacex-joins-nasdaq-100-july-124024457.html
+    hard_facts:
+      - claim: SpaceX Nasdaq-100 inclusion effective date
+        kind: temporal
+        value: "July 7, 2026"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+          - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+          - https://finance.yahoo.com/markets/stocks/articles/spacex-joins-nasdaq-100-july-124024457.html
+        verbatim_excerpt: "SpaceX (SPCX) scheduled Nasdaq-100 inclusion effective July 7, 2026"
+      - claim: SpaceX ticker symbol
+        kind: named_product
+        value: SPCX
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+        verbatim_excerpt: "SpaceX (SPCX) scheduled Nasdaq-100 inclusion effective July 7, 2026"
+      - claim: SpaceX IPO date
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+          - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+          - https://finance.yahoo.com/markets/stocks/articles/spacex-joins-nasdaq-100-july-124024457.html
+        verbatim_excerpt: "SpaceX completed the largest IPO in history June 12, 2026"
+      - claim: SpaceX IPO price
+        kind: numerical_with_unit
+        value: "$135/share"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+          - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+        verbatim_excerpt: "June 12, 2026 at $135/share"
+      - claim: SpaceX IPO gross proceeds
+        kind: numerical_with_unit
+        value: "~$85.7B"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+          - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+          - https://finance.yahoo.com/markets/stocks/articles/spacex-joins-nasdaq-100-july-124024457.html
+        verbatim_excerpt: "raising ~$85.7B"
+      - claim: SpaceX Nasdaq-100 weight
+        kind: numerical_with_unit
+        value: "~just under 1%"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+          - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+        verbatim_excerpt: "Inclusion weight ~just under 1% of Nasdaq-100"
+      - claim: Forced passive buying from Nasdaq-100 inclusion alone
+        kind: numerical_with_unit
+        value: "≈ $4.3B"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+        verbatim_excerpt: "~just under 1% of Nasdaq-100 ≈ $4.3B forced passive buying"
+      - claim: Total mechanical buying across trackers
+        kind: numerical_with_unit
+        value: "~$22–27B"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+          - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+          - https://finance.yahoo.com/markets/stocks/articles/spacex-joins-nasdaq-100-july-124024457.html
+        verbatim_excerpt: "total mechanical buying across trackers ~$22–27B"
+      - claim: SpaceX free float percentage
+        kind: numerical_with_unit
+        value: "~4–5%"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+        verbatim_excerpt: "Free float only ~4–5%"
+      - claim: Lockup expiry window
+        kind: temporal
+        value: "70–180 days"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+        verbatim_excerpt: "lockup expiring 70–180 days"
+      - claim: SpaceX institution
+        kind: named_institution
+        value: SpaceX
+        source_urls:
+          - https://www.fool.com/investing/2026/07/02/will-spacex-soar-after-it-joins-the-nasdaq-100-his/
+        verbatim_excerpt: "SpaceX (SPCX) scheduled Nasdaq-100 inclusion effective July 7, 2026"
+    quotes: []
+
+  - story_id: us-grid-emergency-heat-energy-secretary-data-centers
+    category: society
+    headline_en: US electrical grid emergency declared amid record heat; Energy Secretary orders data centers to backup power
+    lead_url: https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+    body_source: full
+    corroborated_by:
+      - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+      - https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand
+      - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+    locked_urls:
+      - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+      - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+      - https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand
+      - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+    hard_facts:
+      - claim: Energy Secretary name
+        kind: named_person
+        value: Chris Wright
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+        verbatim_excerpt: "Energy Secretary Chris Wright signed two Section 202(c) Federal Power Act orders June 30"
+      - claim: Section 202(c) orders signing date
+        kind: temporal
+        value: "June 30"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "signed two Section 202(c) Federal Power Act orders June 30"
+      - claim: Orders effective start
+        kind: temporal
+        value: "11:59 PM EDT June 30"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "effective 11:59 PM EDT June 30"
+      - claim: Orders expiry
+        kind: temporal
+        value: "11:59 PM EDT July 3"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "expiring 11:59 PM EDT July 3"
+      - claim: PJM population served
+        kind: numerical_with_unit
+        value: "~65 million people"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "PJM Interconnection (serving ~65 million people across 13 states + DC)"
+      - claim: PJM states served
+        kind: numerical_with_unit
+        value: "13 states + DC"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "PJM Interconnection (serving ~65 million people across 13 states + DC)"
+      - claim: Data center/large consumer threshold for curtailment
+        kind: numerical_with_unit
+        value: "≥50 MW"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "curtail data centers and large consumers ≥50 MW peak load"
+      - claim: Backup generation switchover window
+        kind: numerical_with_unit
+        value: "15 minutes"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "switching to backup generation within 15 minutes of emergency signal"
+      - claim: PJM demand forecast for July 2 2026
+        kind: numerical_with_unit
+        value: "166,304 MW"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "PJM forecasting 166,304 MW demand July 2, 2026"
+      - claim: Previous PJM all-time demand record
+        kind: numerical_with_unit
+        value: "165,563 MW"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "exceeding all-time record 165,563 MW (2006)"
+      - claim: Previous PJM record year
+        kind: temporal
+        value: "2006"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+        verbatim_excerpt: "all-time record 165,563 MW (2006)"
+      - claim: Number of daily high-temp records potentially broken
+        kind: numerical_with_unit
+        value: "~58"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+        verbatim_excerpt: "NWS forecast ~58 daily high-temp records could be broken"
+      - claim: Heat index NYC
+        kind: numerical_with_unit
+        value: "110°F"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+        verbatim_excerpt: "heat indices to 110°F NYC"
+      - claim: Heat index Philadelphia
+        kind: numerical_with_unit
+        value: "112°F"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+        verbatim_excerpt: "112°F Philadelphia"
+      - claim: Heat index DC
+        kind: numerical_with_unit
+        value: "113°F"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+        verbatim_excerpt: "113°F DC"
+      - claim: People under heat alerts
+        kind: numerical_with_unit
+        value: "~160 million"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+        verbatim_excerpt: "~160 million people under heat alerts"
+      - claim: Power outages reported
+        kind: numerical_with_unit
+        value: ">70,000"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+        verbatim_excerpt: ">70,000 outages reported ahead of peak"
+      - claim: PJM Interconnection institution
+        kind: named_institution
+        value: PJM Interconnection
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "PJM Interconnection (serving ~65 million people across 13 states + DC)"
+      - claim: NWS institution
+        kind: named_institution
+        value: NWS
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+        verbatim_excerpt: "NWS forecast ~58 daily high-temp records could be broken"
+      - claim: Section 202(c) Federal Power Act legal authority
+        kind: named_product
+        value: "Section 202(c) Federal Power Act"
+        source_urls:
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/
+        verbatim_excerpt: "Energy Secretary Chris Wright signed two Section 202(c) Federal Power Act orders"
+    quotes: []
+
+  - story_id: philadelphia-heat-health-emergency-code-red
+    category: society
+    headline_en: "Philadelphia declares Heat Health Emergency; opens 50+ cooling centers under Code Red"
+    lead_url: https://whyy.org/articles/philadelphia-heat-health-emergency-july-2026/
+    body_source: full
+    corroborated_by:
+      - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+      - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+    locked_urls:
+      - https://whyy.org/articles/philadelphia-heat-health-emergency-july-2026/
+      - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+      - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+    hard_facts:
+      - claim: Philadelphia Heat Health Emergency effective date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://whyy.org/articles/philadelphia-heat-health-emergency-july-2026/
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+        verbatim_excerpt: "Philadelphia declared a Heat Health Emergency effective July 2, 2026"
+      - claim: Philadelphia heat index
+        kind: numerical_with_unit
+        value: "~112°F"
+        source_urls:
+          - https://whyy.org/articles/philadelphia-heat-health-emergency-july-2026/
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+          - https://www.upi.com/Top_News/US/2026/07/01/heat-wave-power-grid/5411782933240/
+        verbatim_excerpt: "Code Red as heat index climbed to ~112°F"
+      - claim: Number of cooling centers opened
+        kind: numerical_with_unit
+        value: "50+"
+        source_urls:
+          - https://whyy.org/articles/philadelphia-heat-health-emergency-july-2026/
+          - https://abcnews.go.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230
+        verbatim_excerpt: "Triggers opening of 50+ cooling centers citywide"
+      - claim: WHYY byline author
+        kind: named_person
+        value: Maria Pulcinella
+        source_urls:
+          - https://whyy.org/articles/philadelphia-heat-health-emergency-july-2026/
+        verbatim_excerpt: "Byline: Maria Pulcinella"
+    quotes:
+      - speaker_name: City spokesperson
+        speaker_title: Philadelphia city spokesperson
+        verbatim_en: "not the kind of heat event we see every year"
+        source_url: https://whyy.org/articles/philadelphia-heat-health-emergency-july-2026/
+        context: Philadelphia Heat Health Emergency declaration, July 2, 2026
+
+  - story_id: itg-inc-312m-nasdaq-ipo-closes
+    category: ipo_ma
+    headline_en: "ITG Inc. closes $312M Nasdaq IPO; broadband infrastructure provider prices below range"
+    lead_url: https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+    body_source: full
+    corroborated_by:
+      - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ITG&type=S-1
+    locked_urls:
+      - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+      - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ITG&type=S-1
+    hard_facts:
+      - claim: ITG IPO pricing date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "priced IPO June 30, 2026"
+      - claim: ITG shares offered
+        kind: numerical
+        value: "19,512,196"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "IPO June 30, 2026 of 19,512,196 shares"
+      - claim: ITG IPO price per share
+        kind: numerical_with_unit
+        value: "$16.00"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "19,512,196 shares at $16.00"
+      - claim: ITG IPO filing range
+        kind: numerical_with_unit
+        value: "$18–22"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "(below $18–22 range)"
+      - claim: ITG IPO gross proceeds
+        kind: numerical_with_unit
+        value: "~$312M"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "~$312M gross proceeds"
+      - claim: ITG trading start date
+        kind: temporal
+        value: "July 1, 2026"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "Shares began trading on Nasdaq Global Select Market July 1, 2026 under \"ITG\""
+      - claim: ITG offering expected close date
+        kind: temporal
+        value: "on/about July 2, 2026"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "Offering expected to close on/about July 2, 2026"
+      - claim: ITG states served
+        kind: numerical_with_unit
+        value: "49 states + DC"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "broadband/digital infrastructure services across 49 states + DC"
+      - claim: ITG ticker symbol
+        kind: named_product
+        value: ITG
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "Shares began trading on Nasdaq Global Select Market July 1, 2026 under \"ITG\""
+      - claim: Nasdaq Global Select Market exchange
+        kind: named_institution
+        value: Nasdaq Global Select Market
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "Shares began trading on Nasdaq Global Select Market July 1, 2026"
+      - claim: Book-runner Morgan Stanley
+        kind: named_institution
+        value: Morgan Stanley
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "Joint book-running managers: Morgan Stanley, Citigroup, with UBS and Stifel Nicolaus"
+      - claim: Book-runner Citigroup
+        kind: named_institution
+        value: Citigroup
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "Joint book-running managers: Morgan Stanley, Citigroup, with UBS and Stifel Nicolaus"
+      - claim: Book-runner UBS
+        kind: named_institution
+        value: UBS
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "with UBS and Stifel Nicolaus"
+      - claim: Book-runner Stifel Nicolaus
+        kind: named_institution
+        value: Stifel Nicolaus
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "with UBS and Stifel Nicolaus"
+      - claim: Primary-band floor for qualifying
+        kind: numerical_with_unit
+        value: "$300M"
+        source_urls:
+          - https://www.globenewswire.com/news-release/2026/06/30/3107484/0/en/ITG-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+        verbatim_excerpt: "Exceeds $300M primary-band floor"
+    quotes: []
+
+  - story_id: russia-missile-drone-strike-kyiv-poland-finland
+    category: other
+    headline_en: "Russia launches massive missile/drone strike on Kyiv; Poland scrambles jets, Finland restricts airspace"
+    lead_url: https://www.cnbc.com/2026/07/02/russia-ukraine-missile-drone-attack-poland-finland-airspace.html
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/07/02/g-s1-131681/russia-ukraine-kyiv-attack-oil-sector
+    locked_urls:
+      - https://www.cnbc.com/2026/07/02/russia-ukraine-missile-drone-attack-poland-finland-airspace.html
+      - https://www.npr.org/2026/07/02/g-s1-131681/russia-ukraine-kyiv-attack-oil-sector
+    hard_facts:
+      - claim: Attack date
+        kind: temporal
+        value: "overnight July 1–2, 2026"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/russia-ukraine-missile-drone-attack-poland-finland-airspace.html
+          - https://www.npr.org/2026/07/02/g-s1-131681/russia-ukraine-kyiv-attack-oil-sector
+        verbatim_excerpt: "Russia launched a large coordinated missile/drone attack on Kyiv overnight July 1–2, 2026"
+      - claim: Kyiv strike fatalities
+        kind: numerical_with_unit
+        value: "at least 17"
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/russia-ukraine-missile-drone-attack-poland-finland-airspace.html
+          - https://www.npr.org/2026/07/02/g-s1-131681/russia-ukraine-kyiv-attack-oil-sector
+        verbatim_excerpt: "striking residential areas and killing at least 17"
+      - claim: Poland response
+        kind: named_institution
+        value: Poland
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/russia-ukraine-missile-drone-attack-poland-finland-airspace.html
+        verbatim_excerpt: "Poland scrambled fighter jets"
+      - claim: Finland response
+        kind: named_institution
+        value: Finland
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/russia-ukraine-missile-drone-attack-poland-finland-airspace.html
+        verbatim_excerpt: "Finland temporarily restricted eastern airspace as precaution"
+      - claim: Ukraine counterattacks target
+        kind: named_institution
+        value: Russia
+        source_urls:
+          - https://www.cnbc.com/2026/07/02/russia-ukraine-missile-drone-attack-poland-finland-airspace.html
+          - https://www.npr.org/2026/07/02/g-s1-131681/russia-ukraine-kyiv-attack-oil-sector
+        verbatim_excerpt: "Ukraine continued striking Russian oil-sector infrastructure near Moscow"
+    quotes: []
