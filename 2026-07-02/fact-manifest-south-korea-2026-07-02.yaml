@@ -1,0 +1,1711 @@
+version: 1
+generated_at: "2026-07-02T00:00:00Z"
+country: South Korea
+date: 2026-07-02
+total_stories: 19
+stories:
+  - story_id: south-korea-june-cpi-30-month-high
+    category: econ
+    headline_en: "South Korea June CPI hits 30-month high of 3.2%; Bank of Korea signals July rate hike likely"
+    lead_url: https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+    body_source: full
+    corroborated_by:
+      - https://www.koreajoongangdaily.com/business/inflation-expected-to-drop-on-price-stabilization-measures-eased-iran-tensions/12751973
+      - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+      - https://www.koreajoongangdaily.com/business/inflation-expected-to-drop-on-price-stabilization-measures-eased-iran-tensions/12751973
+      - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+    hard_facts:
+      - claim: CPI year-on-year increase June 2026
+        kind: numerical_with_unit
+        value: "3.2 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "consumer price index (CPI) rose 3.2 percent year-on-year in June 2026"
+      - claim: previous CPI high reference month
+        kind: temporal
+        value: "December 2023"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "the steepest increase since December 2023"
+      - claim: May CPI year-on-year
+        kind: numerical_with_unit
+        value: "3.1 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "a step up from May's 3.1 percent"
+      - claim: industrial product prices increase
+        kind: numerical_with_unit
+        value: "4.4 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "Industrial product prices rose 4.4 percent"
+      - claim: fuel prices year-on-year surge
+        kind: numerical_with_unit
+        value: "24.7 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "fuel prices surged 24.7 percent year-on-year"
+      - claim: gasoline price increase
+        kind: numerical_with_unit
+        value: "23.1 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "gasoline up 23.1 percent"
+      - claim: diesel price increase
+        kind: numerical_with_unit
+        value: "33.7 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "diesel up 33.7 percent"
+      - claim: fuel contribution to headline inflation
+        kind: numerical_with_unit
+        value: "0.93 percentage points"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "contributing 0.93 percentage points to headline inflation"
+      - claim: agricultural and fishery product prices increase
+        kind: numerical_with_unit
+        value: "3.2 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "Agricultural and fishery product prices increased 3.2 percent"
+      - claim: service prices advance
+        kind: numerical_with_unit
+        value: "2.6 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "service prices advanced 2.6 percent"
+      - claim: core CPI excluding food and energy
+        kind: numerical_with_unit
+        value: "2.5 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "Core CPI, excluding volatile food and energy, rose 2.5 percent"
+      - claim: month-on-month CPI change
+        kind: numerical_with_unit
+        value: "plus 0.1 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "The month-on-month change was plus 0.1 percent"
+      - claim: BOK benchmark rate
+        kind: numerical_with_unit
+        value: "2.50 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "voted 5-2 to hold the benchmark rate at 2.50 percent"
+      - claim: BOK May meeting vote
+        kind: numerical
+        value: "5-2"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "monetary policy board voted 5-2"
+      - claim: BOK May meeting date
+        kind: temporal
+        value: "May 28"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "At its May 28 meeting"
+      - claim: next BOK policy meeting
+        kind: temporal
+        value: "July 16"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "at or before the July 16 policy meeting"
+      - claim: named person First Vice Finance Minister
+        kind: named_person
+        value: "Lee Hyoung-il"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "First Vice Finance Minister Lee Hyoung-il"
+      - claim: named person BOK Deputy Governor
+        kind: named_person
+        value: "Lee Ji-ho"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "Bank of Korea Deputy Governor Lee Ji-ho"
+      - claim: named person Prime Minister
+        kind: named_person
+        value: "Han Seong-sook"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "Prime Minister Han Seong-sook"
+      - claim: named institution Bank of Korea
+        kind: named_institution
+        value: "Bank of Korea"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        verbatim_excerpt: "Bank of Korea Deputy Governor"
+    quotes:
+      - speaker_name: Lee Ji-ho
+        speaker_title: "Deputy Governor, Bank of Korea"
+        verbatim_en: "Consumer prices in June expanded further from May as petroleum product prices remained elevated and the increase in agricultural product prices accelerated."
+        source_url: https://www.koreajoongangdaily.com/business/consumer-price-surge-hits-30month-high-in-june-on-middle-east-wars-impact/12751350
+        context: BOK Deputy Governor commenting on June CPI drivers
+      - speaker_name: Han Seong-sook
+        speaker_title: "Prime Minister, South Korea"
+        verbatim_en: "More than anything else, we should make it our highest priority to concentrate on managing prices."
+        source_url: https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        context: PM Han on her second day in office declaring inflation management top priority
+
+  - story_id: kospi-plunges-62-pct-circuit-breaker
+    category: econ
+    headline_en: "KOSPI plunges 6.2%, circuit-breaker activated, as Meta cloud report triggers AI demand fears and chip sell-off"
+    lead_url: https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10796221
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+      - https://www.koreaherald.com/article/10796221
+    hard_facts:
+      - claim: KOSPI point decline
+        kind: numerical_with_unit
+        value: "517.25 points"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "KOSPI fell 517.25 points (6.23 percent) to 7,790.16"
+      - claim: KOSPI percentage decline
+        kind: numerical_with_unit
+        value: "6.23 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "KOSPI fell 517.25 points (6.23 percent)"
+      - claim: KOSPI level at 9:15 a.m.
+        kind: numerical
+        value: "7,790.16"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "to 7,790.16 at 9:15 a.m. on July 2, 2026"
+      - claim: KOSPI opening decline
+        kind: numerical_with_unit
+        value: "4.46 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "opening 4.46 percent lower"
+      - claim: sidecar circuit breaker activation time
+        kind: temporal
+        value: "9:07 a.m."
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "triggering a sell-side sidecar circuit breaker at 9:07 a.m."
+      - claim: KOSPI 200 Futures decline
+        kind: numerical_with_unit
+        value: "6.05 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "The KOSPI 200 Futures index dropped 6.05 percent to 1,255.94"
+      - claim: KOSPI 200 Futures level
+        kind: numerical
+        value: "1,255.94"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "dropped 6.05 percent to 1,255.94"
+      - claim: KOSPI intraday low
+        kind: numerical
+        value: "7,723.57"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "The intraday low was 7,723.57"
+      - claim: Philadelphia Semiconductor Index overnight decline
+        kind: numerical_with_unit
+        value: "6.27 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "The Philadelphia Semiconductor Index fell 6.27 percent overnight"
+      - claim: Micron decline
+        kind: numerical_with_unit
+        value: "10.57 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "Micron down 10.57 percent"
+      - claim: Intel decline
+        kind: numerical_with_unit
+        value: "9.03 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "Intel down 9.03 percent"
+      - claim: AMD decline
+        kind: numerical_with_unit
+        value: "6.89 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "AMD down 6.89 percent"
+      - claim: Samsung Electronics decline
+        kind: numerical_with_unit
+        value: "6.84 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "Samsung Electronics fell 6.84 percent to 293,000 won"
+      - claim: Samsung Electronics share price
+        kind: numerical_with_unit
+        value: "293,000 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "Samsung Electronics fell 6.84 percent to 293,000 won"
+      - claim: SK hynix decline
+        kind: numerical_with_unit
+        value: "8.01 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "SK hynix dropped 8.01 percent to 2.355 million won"
+      - claim: SK hynix share price
+        kind: numerical_with_unit
+        value: "2.355 million won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "SK hynix dropped 8.01 percent to 2.355 million won"
+      - claim: SK Square decline
+        kind: numerical_with_unit
+        value: "10.23 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "SK Square sank 10.23 percent"
+      - claim: Hyundai Motor decline
+        kind: numerical_with_unit
+        value: "5.33 percent"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "Hyundai Motor shed 5.33 percent"
+      - claim: foreign investor net selling
+        kind: numerical_with_unit
+        value: "4.52 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "Foreign investors sold a net 4.52 trillion won on the main board"
+      - claim: retail investor net buying
+        kind: numerical_with_unit
+        value: "3.31 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "Retail investors bought 3.31 trillion won"
+      - claim: institutional investor net buying
+        kind: numerical_with_unit
+        value: "1.09 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "institutional investors bought 1.09 trillion won"
+      - claim: Korean won exchange rate
+        kind: numerical_with_unit
+        value: "1,554.3 per dollar"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "up 0.6 won to 1,554.3 per dollar"
+      - claim: named person Fed Chair
+        kind: named_person
+        value: "Kevin Warsh"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "Federal Reserve Chair Kevin Warsh"
+      - claim: named institution Meta Platforms
+        kind: named_institution
+        value: "Meta Platforms"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-on-us-tech-losses-triggers-sellside-sidecar/12751471
+        verbatim_excerpt: "a Bloomberg report that Meta Platforms was considering launching a cloud service"
+    quotes: []
+
+  - story_id: pm-han-opens-office-ai-transformation
+    category: econ
+    headline_en: "South Korea PM Han Seong-sook opens office pledging AI transformation, inclusive growth, and balanced regional development"
+    lead_url: https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+    hard_facts:
+      - claim: named person Prime Minister
+        kind: named_person
+        value: "Han Seong-sook"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        verbatim_excerpt: "Prime Minister Han Seong-sook"
+      - claim: National Assembly confirmation vote
+        kind: numerical
+        value: "166-to-1"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        verbatim_excerpt: "confirmed by the National Assembly on June 30, 2026 by a 166-to-1 vote"
+      - claim: confirmation date
+        kind: temporal
+        value: "June 30, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        verbatim_excerpt: "confirmed by the National Assembly on June 30, 2026"
+      - claim: named institution People Power Party
+        kind: named_institution
+        value: "People Power Party"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        verbatim_excerpt: "with the People Power Party boycotting"
+      - claim: named institution Naver (former employer)
+        kind: named_institution
+        value: "Naver"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        verbatim_excerpt: "Han, a former Naver CEO"
+      - claim: AI governance pilot ministries count
+        kind: numerical
+        value: "four"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        verbatim_excerpt: "an AI governance system currently piloting across four government ministries"
+      - claim: CPI June year-on-year
+        kind: numerical_with_unit
+        value: "3.2 percent"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        verbatim_excerpt: "Consumer prices rose 3.2 percent year-on-year in June"
+      - claim: named person former PM
+        kind: named_person
+        value: "Kim Byung-joon"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        verbatim_excerpt: "the resignation of former Prime Minister Kim Byung-joon"
+    quotes:
+      - speaker_name: Han Seong-sook
+        speaker_title: "Prime Minister, South Korea"
+        verbatim_en: "More than anything else, we should make it our highest priority to concentrate on managing prices."
+        source_url: https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        context: PM Han on inflation management priority on her second day in office
+      - speaker_name: Han Seong-sook
+        speaker_title: "Prime Minister, South Korea"
+        verbatim_en: "I will take the voices of 52 million people seriously and put in all my energy to resolve the outstanding issues facing ordinary people."
+        source_url: https://www.koreatimes.co.kr/southkorea/politics/20260702/pm-says-govt-should-put-top-priority-on-reining-in-inflation
+        context: PM Han on her commitment to addressing public concerns
+
+  - story_id: posco-w167-trillion-triple-core-pivot
+    category: econ
+    headline_en: "Posco Holdings unveils W16.7 trillion 'triple-core' pivot to lithium, LNG, and renewable energy at Seoul CEO Investor Day"
+    lead_url: https://www.koreaherald.com/article/10796208
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10796208
+    hard_facts:
+      - claim: named person Posco Holdings Chairman
+        kind: named_person
+        value: "Chang In-hwa"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "Posco Holdings Chairman Chang In-hwa"
+      - claim: event date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "on July 2, 2026 announced a portfolio transformation"
+      - claim: growth investment commitment 2026-2028
+        kind: numerical_with_unit
+        value: "16.7 trillion won ($10.7 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "pledging 16.7 trillion won ($10.7 billion) in growth investments over 2026–2028"
+      - claim: long-term consolidated revenue target
+        kind: numerical_with_unit
+        value: "187 trillion won ($120 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "consolidated revenue of 187 trillion won ($120 billion)"
+      - claim: long-term operating profit target
+        kind: numerical_with_unit
+        value: "13.1 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "operating profit of 13.1 trillion won by 2035"
+      - claim: target year for long-term goals
+        kind: temporal
+        value: "2035"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "and operating profit of 13.1 trillion won by 2035"
+      - claim: lithium annual production capacity target
+        kind: numerical_with_unit
+        value: "173,000 metric tons"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "lithium annual production capacity of 173,000 metric tons by 2033"
+      - claim: lithium production capacity target year
+        kind: temporal
+        value: "2033"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "173,000 metric tons by 2033"
+      - claim: lithium business operating profit forecast
+        kind: numerical_with_unit
+        value: "more than 1.8 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "forecast to generate more than 1.8 trillion won in operating profit by 2035"
+      - claim: Argentine brine lithium profitability date
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "The Argentine brine lithium operation became profitable in March 2026"
+      - claim: named institution joint venture partner
+        kind: named_institution
+        value: "Mineral Resources"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "a joint venture with Australia's Mineral Resources"
+      - claim: JV lithium concentrate annual output
+        kind: numerical_with_unit
+        value: "over 187,000 tons"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "Posco secured over 187,000 tons of annual lithium concentrate output"
+      - claim: overseas steel production capacity addition
+        kind: numerical_with_unit
+        value: "10 million tons"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "plans to add 10 million tons of overseas production capacity by 2031"
+      - claim: overseas steel expansion target year
+        kind: temporal
+        value: "2031"
+        source_urls:
+          - https://www.koreaherald.com/article/10796208
+        verbatim_excerpt: "10 million tons of overseas production capacity by 2031"
+    quotes:
+      - speaker_name: Chang In-hwa
+        speaker_title: "Chairman, Posco Holdings"
+        verbatim_en: "We will expand our business domain beyond steel and materials into resources and take the lead in strengthening Korea's industrial security and supply chain resilience."
+        source_url: https://www.koreaherald.com/article/10796208
+        context: Chairman Chang at 2026 CEO Investor Day announcing portfolio transformation
+
+  - story_id: parliamentary-committee-seoul-ballot-gymnasium
+    category: politics
+    headline_en: "Parliamentary committee enters blockaded Seoul ballot-counting gymnasium; identifies camera surveillance gaps"
+    lead_url: https://www.koreaherald.com/article/10796223
+    body_source: full
+    corroborated_by:
+      - https://www.koreajoongangdaily.com/korea/fracas-erupts-outside-gymnasium-ahead-of-lawmakers-inspection-into-ballot-shortage/12751943
+      - https://www.koreatimes.co.kr/southkorea/society/20260702/scuffles-break-out-among-protesters-ahead-of-parliamentary-on-site-probe-into-ballot-shortages
+    locked_urls:
+      - https://www.koreaherald.com/article/10796223
+      - https://www.koreajoongangdaily.com/korea/fracas-erupts-outside-gymnasium-ahead-of-lawmakers-inspection-into-ballot-shortage/12751943
+      - https://www.koreatimes.co.kr/southkorea/society/20260702/scuffles-break-out-among-protesters-ahead-of-parliamentary-on-site-probe-into-ballot-shortages
+    hard_facts:
+      - claim: election date investigated
+        kind: temporal
+        value: "June 3, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "investigating June 3, 2026 local election ballot shortages"
+      - claim: inspection date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "conducted its first on-site inspection of the Olympic Park Handball Gymnasium in Songpa-gu, Seoul on July 2, 2026"
+      - claim: days since committee blocked from facility
+        kind: numerical
+        value: "27 days"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "the committee's first access in 27 days"
+      - claim: blockade start date
+        kind: temporal
+        value: "June 5"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "blockaded by protesters since June 5"
+      - claim: polling stations with ballot shortages
+        kind: numerical
+        value: "50"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "ballot papers ran out at 50 of South Korea's approximately 14,300 polling stations"
+      - claim: total polling stations
+        kind: numerical
+        value: "approximately 14,300"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "approximately 14,300 polling stations"
+      - claim: stations where voting halted
+        kind: numerical
+        value: "22 stations"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "voting was temporarily halted at 22 stations"
+      - claim: stations in Songpa and Gangnam
+        kind: numerical
+        value: "19"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "19 of them in Songpa and Gangnam"
+      - claim: inspection duration
+        kind: numerical_with_unit
+        value: "40-minute"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "The 40-minute inspection"
+      - claim: ballot boxes at facility
+        kind: numerical
+        value: "approximately 380"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "Approximately 380 ballot boxes"
+      - claim: ballots stored at facility
+        kind: numerical_with_unit
+        value: "2.47 million ballots"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "2.47 million ballots from Songpa-gu"
+      - claim: police deployed
+        kind: numerical
+        value: "roughly 2,000"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "Police deployed roughly 2,000 personnel"
+      - claim: named institution Olympic Park Handball Gymnasium location
+        kind: named_institution
+        value: "Olympic Park Handball Gymnasium"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "Olympic Park Handball Gymnasium in Songpa-gu, Seoul"
+      - claim: named person Rep. Kim Yong-man
+        kind: named_person
+        value: "Kim Yong-man"
+        source_urls:
+          - https://www.koreaherald.com/article/10796223
+        verbatim_excerpt: "Rep. Kim Yong-man (DP)"
+    quotes:
+      - speaker_name: Kim Yong-man
+        speaker_title: "Representative, Democratic Party (DP)"
+        verbatim_en: "It is absurd for the NEC to store the ballots in such a place. The boxes are not being stored securely."
+        source_url: https://www.koreaherald.com/article/10796223
+        context: Rep. Kim commenting on ballot box storage conditions during inspection
+
+  - story_id: eu-ambassador-north-korea-russia-clear-risk
+    category: politics
+    headline_en: "EU ambassador warns North Korea–Russia military ties pose 'clear risk' and backs Seoul as 'like-minded partner'"
+    lead_url: https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+    hard_facts:
+      - claim: named person EU Ambassador
+        kind: named_person
+        value: "Ugo Astuto"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "EU Ambassador to South Korea Ugo Astuto"
+      - claim: remarks date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "on July 2, 2026 characterized the Russia–North Korea military partnership"
+      - claim: South Korea-EU summit date
+        kind: temporal
+        value: "June 10, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "the 11th South Korea–EU summit held June 10, 2026 in Brussels"
+      - claim: summit number
+        kind: numerical
+        value: "11th"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "the 11th South Korea–EU summit"
+      - claim: named person President Lee Jae Myung
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "President Lee Jae Myung met European Council President"
+      - claim: named person European Council President
+        kind: named_person
+        value: "António Costa"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "European Council President António Costa"
+      - claim: named person European Commission President
+        kind: named_person
+        value: "Ursula von der Leyen"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "European Commission President Ursula von der Leyen"
+      - claim: North Korea-Russia defense cooperation agreement duration
+        kind: temporal
+        value: "through 2031"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "a defense cooperation agreement extending through 2031"
+      - claim: North Korean soldiers fighting in Ukraine start year
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        verbatim_excerpt: "North Korean soldiers have fought alongside Russian forces in Ukraine from 2024 onward"
+    quotes:
+      - speaker_name: Ugo Astuto
+        speaker_title: "EU Ambassador to South Korea"
+        verbatim_en: "Russia, despite being a permanent member of the UN Security Council, is systematically violating UN resolutions."
+        source_url: https://www.koreajoongangdaily.com/korea/eu-envoy-calls-northrussia-military-ties-clear-risk-backs-south-korea-as-likeminded-partner/12749345
+        context: EU Ambassador criticizing Russia's conduct in context of North Korea military cooperation
+
+  - story_id: north-korea-korean-war-73rd-anniversary
+    category: politics
+    headline_en: "North Korea highlights Korean War naval feats ahead of 73rd armistice anniversary; military parade signaled"
+    lead_url: https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+    hard_facts:
+      - claim: state media report date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "North Korea's state media on July 2, 2026"
+      - claim: Korean War years
+        kind: temporal
+        value: "1950–53"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "military achievements from the 1950–53 Korean War"
+      - claim: armistice anniversary number
+        kind: numerical
+        value: "73rd"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "73rd anniversary of the armistice signing"
+      - claim: Victory Day date
+        kind: temporal
+        value: "July 27"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "Pyongyang designates as 'Victory Day' on July 27"
+      - claim: named institution Korean Central News Agency
+        kind: named_institution
+        value: "Korean Central News Agency"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "The Korean Central News Agency highlighted a 1950 naval engagement near Jumunjin"
+      - claim: 1950 naval engagement location
+        kind: temporal
+        value: "1950"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "a 1950 naval engagement near Jumunjin"
+      - claim: named product Hwasong-17 ICBM
+        kind: named_product
+        value: "Hwasong-17"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "The 2023 parade on the 70th anniversary featured Hwasong-17"
+      - claim: named product Hwasong-18 ICBM
+        kind: named_product
+        value: "Hwasong-18"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "Hwasong-17 and Hwasong-18 intercontinental ballistic missiles"
+      - claim: 70th anniversary parade year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "The 2023 parade on the 70th anniversary"
+      - claim: named person President Lee Jae Myung
+        kind: named_person
+        value: "Lee Jae Myung"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "South Korean President Lee Jae Myung, separately on July 1"
+      - claim: North Korea-Russia defense cooperation agreement duration
+        kind: temporal
+        value: "through 2031"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260702/n-korea-highlights-feats-during-korean-war-ahead-of-anniv-of-armistice-signing
+        verbatim_excerpt: "defense cooperation with Russia under an agreement running through 2031"
+    quotes: []
+
+  - story_id: samsung-skhynix-celltrion-w392-trillion-chungcheong
+    category: tech
+    headline_en: "Samsung, SK hynix, Celltrion announce W392 trillion Chungcheong mega-investment in HBM fabs, NAND, displays, and AI data centers"
+    lead_url: https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10795719
+      - https://www.koreaherald.com/article/10795959
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+      - https://www.koreaherald.com/article/10795719
+      - https://www.koreaherald.com/article/10795959
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "on July 2, 2026 announced combined investments"
+      - claim: combined investment total
+        kind: numerical_with_unit
+        value: "392 trillion won ($252 billion)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "combined investments of 392 trillion won ($252 billion)"
+      - claim: Samsung Group total commitment
+        kind: numerical_with_unit
+        value: "140 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Samsung Group committed 140 trillion won"
+      - claim: Samsung Electronics HBM investment
+        kind: numerical_with_unit
+        value: "56 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Samsung Electronics 56 trillion won in HBM fabrication in Onyang-dong and Cheonan"
+      - claim: Samsung Display OLED investment
+        kind: numerical_with_unit
+        value: "67 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Samsung Display 67 trillion won in OLED lines in Asan"
+      - claim: Samsung Electro-Mechanics investment
+        kind: numerical_with_unit
+        value: "8 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Samsung Electro-Mechanics 8 trillion won in package substrates in Sejong"
+      - claim: Samsung SDI battery investment
+        kind: numerical_with_unit
+        value: "9 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Samsung SDI 9 trillion won in battery production in Cheonan"
+      - claim: Samsung expected jobs created
+        kind: numerical
+        value: "approximately 250,000"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Samsung expects to create approximately 250,000 jobs"
+      - claim: SK hynix total commitment
+        kind: numerical_with_unit
+        value: "100 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "SK hynix committed 100 trillion won"
+      - claim: SK hynix M17 NAND investment
+        kind: numerical_with_unit
+        value: "80 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "80 trillion won for the M17 NAND flash plant in Cheongju"
+      - claim: SK hynix P&T7 packaging investment
+        kind: numerical_with_unit
+        value: "20 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "20 trillion won for the P&T7 advanced packaging plant"
+      - claim: Celltrion biopharmaceutical investment
+        kind: numerical_with_unit
+        value: "2 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Celltrion will invest 2 trillion won in a biopharmaceutical facility in North Chungcheong"
+      - claim: other companies combined investment
+        kind: numerical_with_unit
+        value: "150 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Other companies will invest a combined 150 trillion won"
+      - claim: named person Samsung Executive Chairman
+        kind: named_person
+        value: "Lee Jae-yong"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        verbatim_excerpt: "Samsung Executive Chairman Lee Jae-yong"
+    quotes:
+      - speaker_name: Lee Jae-yong
+        speaker_title: "Executive Chairman, Samsung"
+        verbatim_en: "The region will continue to achieve greater growth as a global hub for IT materials and components."
+        source_url: https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        context: Samsung Executive Chairman Lee commenting on Chungcheong investment announcement
+      - speaker_name: Lee Jae Myung
+        speaker_title: "President, South Korea"
+        verbatim_en: "Chungcheong possesses infinite growth potential."
+        source_url: https://www.koreajoongangdaily.com/business/samsung-sk-hynix-and-celltrion-to-invest-a-combined-392-trillion-won-in-chungcheong-region/12751907
+        context: President Lee at Chungcheong investment announcement event
+
+  - story_id: amcham-korea-ai-leadership-council-launch
+    category: tech
+    headline_en: "AmCham Korea launches AI Leadership Council with Apple, OpenAI, Qualcomm, and Tesla to position Korea as global AI hub"
+    lead_url: https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10796251
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+      - https://www.koreaherald.com/article/10796251
+    hard_facts:
+      - claim: named institution AmCham AI Leadership Council established
+        kind: named_institution
+        value: "AmCham AI Leadership Council"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "The American Chamber of Commerce in Korea (AmCham) established the AmCham AI Leadership Council"
+      - claim: establishment date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "established the AmCham AI Leadership Council on July 2, 2026"
+      - claim: named product venue
+        kind: named_institution
+        value: "Grand Hyatt Seoul"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "at the 2026 AmCham AI Forum at Grand Hyatt Seoul"
+      - claim: forum attendance
+        kind: numerical
+        value: "Approximately 150"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "Approximately 150 participants attended"
+      - claim: named person council chair
+        kind: named_person
+        value: "James Kim"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "chaired by AmCham Korea Chairman and CEO James Kim"
+      - claim: named person Apple Korea President
+        kind: named_person
+        value: "Mark Lee"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "Mark Lee (Apple Korea President)"
+      - claim: named person AWS Korea Head
+        kind: named_person
+        value: "Ham Kee-ho"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "Ham Kee-ho (AWS Korea Head)"
+      - claim: named person OpenAI Korea Head
+        kind: named_person
+        value: "Harrison Kim"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "Harrison Kim (OpenAI Korea Head)"
+      - claim: named person Qualcomm Korea President
+        kind: named_person
+        value: "Spencer Kim"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "Spencer Kim (Qualcomm Korea President)"
+      - claim: named person Tesla Korea Director
+        kind: named_person
+        value: "Yvonne Chan"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        verbatim_excerpt: "Yvonne Chan (Tesla Korea and Taiwan Regional Director)"
+    quotes:
+      - speaker_name: James Kim
+        speaker_title: "Chairman and CEO, AmCham Korea"
+        verbatim_en: "Korea has a unique opportunity to help shape the next era of global innovation."
+        source_url: https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        context: AmCham Korea CEO at launch of AI Leadership Council
+      - speaker_name: Helen Teixeira
+        speaker_title: "Representative, Palo Alto Networks"
+        verbatim_en: "Now is the time to establish defenses against cyberattacks before they become equipped with advanced weaponized AI."
+        source_url: https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285
+        context: Palo Alto Networks representative at 2026 AmCham AI Forum on cybersecurity preparedness
+
+  - story_id: samsung-sdi-solid-state-battery-h2-2027
+    category: tech
+    headline_en: "Samsung SDI gets early client nod for solid-state batteries; mass production targeted H2 2027 for EV and humanoid robotics markets"
+    lead_url: https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-executive-says/12748083
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-executive-says/12748083
+    hard_facts:
+      - claim: mass production target
+        kind: temporal
+        value: "second half of 2027"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "targeting mass production of all-solid-state batteries in the second half of 2027"
+      - claim: named person VP and interview subject
+        kind: named_person
+        value: "Kim Eun-ha"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "Kim Eun-ha, vice president and head of all-solid-state battery production development"
+      - claim: interview publication date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "in an exclusive interview published July 2, 2026"
+      - claim: pilot line location and built date
+        kind: temporal
+        value: "March 2023"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "The pilot line at Suwon was built in March 2023"
+      - claim: pilot line location
+        kind: named_institution
+        value: "Suwon"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "The pilot line at Suwon was built in March 2023"
+      - claim: BMW partnership announcement date
+        kind: temporal
+        value: "October 2025"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "In October 2025, the company announced a partnership with BMW and Solid Power"
+      - claim: named institution BMW partnership
+        kind: named_institution
+        value: "BMW"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "a partnership with BMW and Solid Power for real-world vehicle testing"
+      - claim: named institution Solid Power
+        kind: named_institution
+        value: "Solid Power"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "a partnership with BMW and Solid Power"
+      - claim: solid-state battery cost per kWh
+        kind: numerical_with_unit
+        value: "$400–$600 per kilowatt-hour"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "Current solid-state battery costs are $400–$600 per kilowatt-hour"
+      - claim: conventional lithium-ion cost per kWh
+        kind: numerical_with_unit
+        value: "$81–$128 per kilowatt-hour"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/exclusive-global-clients-give-early-nod-to-samsung-sdis-solidstate-batteries-exclusive-says/12748083
+        verbatim_excerpt: "versus $81–$128 per kilowatt-hour for conventional lithium-ion"
+    quotes: []
+
+  - story_id: korea-first-quantum-cloud-classiq-qai
+    category: tech
+    headline_en: "Korea launches first local quantum cloud service via Classiq–QAI partnership"
+    lead_url: https://www.koreaherald.com/article/10796226
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10796226
+    hard_facts:
+      - claim: named institution Classiq Technologies origin
+        kind: named_institution
+        value: "Classiq Technologies"
+        source_urls:
+          - https://www.koreaherald.com/article/10796226
+        verbatim_excerpt: "Classiq Technologies, an Israeli quantum software company"
+      - claim: Classiq funding
+        kind: numerical_with_unit
+        value: "over $200 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10796226
+        verbatim_excerpt: "an Israeli quantum software company with over $200 million in funding"
+      - claim: named institution QAI
+        kind: named_institution
+        value: "QAI"
+        source_urls:
+          - https://www.koreaherald.com/article/10796226
+        verbatim_excerpt: "QAI, a South Korean quantum AI data center specialist"
+      - claim: partnership agreement signing date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10796226
+        verbatim_excerpt: "signed a definitive partnership agreement on July 2, 2026"
+      - claim: named product platform type
+        kind: named_product
+        value: "Quantum-as-a-Service (QaaS)"
+        source_urls:
+          - https://www.koreaherald.com/article/10796226
+        verbatim_excerpt: "establish South Korea's first locally operated Quantum-as-a-Service (QaaS) platform"
+      - claim: Classiq security certification
+        kind: named_product
+        value: "SOC 2"
+        source_urls:
+          - https://www.koreaherald.com/article/10796226
+        verbatim_excerpt: "Classiq's SOC 2-certified quantum software stack"
+      - claim: named person QAI CEO
+        kind: named_person
+        value: "Im Se-man"
+        source_urls:
+          - https://www.koreaherald.com/article/10796226
+        verbatim_excerpt: "QAI CEO Im Se-man"
+    quotes:
+      - speaker_name: Im Se-man
+        speaker_title: "CEO, QAI"
+        verbatim_en: "This partnership is meaningful because it combines a global quantum software platform with QAI's infrastructure and commercialization capabilities to establish the foundation for a quantum cloud service optimized for the Korean market."
+        source_url: https://www.koreaherald.com/article/10796226
+        context: QAI CEO commenting on the Classiq-QAI partnership for Korea's first local QaaS platform
+
+  - story_id: wolsong-4-heavy-water-leak-208-kg
+    category: society
+    headline_en: "Wolsong-4 nuclear reactor heavy water leak: 208 kg contained within facility, no radiation detected, expert inspection dispatched"
+    lead_url: https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/business/20260702/208-kg-of-heavy-water-leaked-from-wolsong-4-reactor-no-radiation-issue-reported
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+      - https://www.koreatimes.co.kr/business/20260702/208-kg-of-heavy-water-leaked-from-wolsong-4-reactor-no-radiation-issue-reported
+    hard_facts:
+      - claim: named institution KHNP notification
+        kind: named_institution
+        value: "Korea Hydro & Nuclear Power (KHNP)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+        verbatim_excerpt: "Korea Hydro & Nuclear Power (KHNP)"
+      - claim: named institution NSSC
+        kind: named_institution
+        value: "Nuclear Safety and Security Commission (NSSC)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+        verbatim_excerpt: "notified the Nuclear Safety and Security Commission (NSSC)"
+      - claim: notification time
+        kind: temporal
+        value: "approximately 2:26 p.m. on Wednesday, July 1, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+        verbatim_excerpt: "notified the Nuclear Safety and Security Commission (NSSC) at approximately 2:26 p.m. on Wednesday, July 1, 2026"
+      - claim: named product reactor
+        kind: named_product
+        value: "Wolsong-4"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+        verbatim_excerpt: "a heavy water leak at the Wolsong-4 CANDU-type nuclear reactor"
+      - claim: reactor type
+        kind: named_product
+        value: "CANDU-type"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+        verbatim_excerpt: "Wolsong-4 CANDU-type nuclear reactor"
+      - claim: heavy water leaked amount
+        kind: numerical_with_unit
+        value: "approximately 208 kilograms (458 pounds)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+        verbatim_excerpt: "Approximately 208 kilograms (458 pounds) of heavy water leaked"
+      - claim: measurement time
+        kind: temporal
+        value: "9 p.m. Wednesday"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+        verbatim_excerpt: "as of 9 p.m. Wednesday"
+    quotes:
+      - speaker_name: NSSC official
+        speaker_title: "Official, Nuclear Safety and Security Commission"
+        verbatim_en: "No irregularities in external radiation levels have been detected."
+        source_url: https://www.koreajoongangdaily.com/business/heavy-water-leak-reported-at-wolsong4-reactor-no-radiation-issue-reported/12751355
+        context: NSSC official confirming no radiation issue from Wolsong-4 heavy water leak
+
+  - story_id: son-heung-min-benched-media-boycott-dispute
+    category: society
+    headline_en: "Son Heung-min and Lee Jae-sung benched vs South Africa over media boycott dispute, whistleblower alleges; KFA denies selection influence"
+    lead_url: https://www.koreaherald.com/article/10796063
+    body_source: full
+    corroborated_by:
+      - https://www.koreajoongangdaily.com/sports/was-son-heungmin-benched-over-media-boycott-whistleblower-claims-squad-rift-cost-korea-at-world-cup/12750483
+    locked_urls:
+      - https://www.koreaherald.com/article/10796063
+      - https://www.koreajoongangdaily.com/sports/was-son-heungmin-benched-over-media-boycott-whistleblower-claims-squad-rift-cost-korea-at-world-cup/12750483
+    hard_facts:
+      - claim: named person whistleblower allegations presenter
+        kind: named_person
+        value: "Jin Jong-oh"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "People Power Party Rep. Jin Jong-oh presented whistleblower allegations on July 2, 2026"
+      - claim: allegations presentation date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "presented whistleblower allegations on July 2, 2026"
+      - claim: named person Son Heung-min
+        kind: named_person
+        value: "Son Heung-min"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "South Korea's captain Son Heung-min"
+      - claim: named person Lee Jae-sung
+        kind: named_person
+        value: "Lee Jae-sung"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "midfielder Lee Jae-sung were excluded from the starting lineup"
+      - claim: match date
+        kind: temporal
+        value: "June 24"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "the June 24 World Cup group-stage match against South Africa"
+      - claim: broadcaster incident date
+        kind: temporal
+        value: "June 7"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "The controversy began on June 7 when a broadcaster accidentally livestreamed"
+      - claim: training camp location
+        kind: named_institution
+        value: "Guadalajara, Mexico"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "at the national team's training camp in Guadalajara, Mexico"
+      - claim: named person head coach
+        kind: named_person
+        value: "Hong Myung-bo"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "Head coach Hong Myung-bo reportedly told players"
+      - claim: South Korea group stage points
+        kind: numerical_with_unit
+        value: "three points"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "finishing third in Group A with three points"
+      - claim: South Korea third-place rank
+        kind: numerical
+        value: "10th of 12 third-place finishers"
+        source_urls:
+          - https://www.koreaherald.com/article/10796063
+        verbatim_excerpt: "ranked 10th of 12 third-place finishers"
+    quotes: []
+
+  - story_id: south-korea-k-tech-pass-visa-eased
+    category: society
+    headline_en: "South Korea eases K-Tech Pass visa screening for foreign tech workers: new qualitative track, TOPIK requirement eliminated"
+    lead_url: https://www.koreaherald.com/article/10795927
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10795927
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "The South Korean government on July 2, 2026 announced an expansion of the K-Tech Pass visa program"
+      - claim: named product visa program
+        kind: named_product
+        value: "K-Tech Pass"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "expansion of the K-Tech Pass visa program"
+      - claim: quantitative criteria score
+        kind: numerical_with_unit
+        value: "65 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "Track one combines 65 points for quantitative criteria"
+      - claim: qualitative assessment score
+        kind: numerical_with_unit
+        value: "35 points"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "with 35 points for qualitative assessment"
+      - claim: SME bonus points
+        kind: numerical_with_unit
+        value: "10 bonus points"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "SMEs receive an additional 10 bonus points"
+      - claim: named product eliminated language test
+        kind: named_product
+        value: "TOPIK"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "previously Level 1 on TOPIK) has been eliminated"
+      - claim: income tax reduction benefit
+        kind: numerical_with_unit
+        value: "50 percent"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "a 50 percent income tax reduction for up to 10 years"
+      - claim: income tax reduction duration
+        kind: numerical_with_unit
+        value: "up to 10 years"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "50 percent income tax reduction for up to 10 years"
+      - claim: Jeonse loan limit previous
+        kind: numerical_with_unit
+        value: "200 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "Jeonse loan limits expanded from 200 million won"
+      - claim: Jeonse loan limit new
+        kind: numerical_with_unit
+        value: "500 million won"
+        source_urls:
+          - https://www.koreaherald.com/article/10795927
+        verbatim_excerpt: "expanded from 200 million won to 500 million won"
+    quotes: []
+
+  - story_id: hanwha-ocean-kddx-preferred-bidder-w78-trillion
+    category: ipo_ma
+    headline_en: "Hanwha Ocean selected as preferred bidder for W7.8 trillion KDDX destroyer program after beating HD Hyundai by 0.59 points"
+    lead_url: https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10795419
+      - https://www.koreatimes.co.kr/business/companies/20260702/hanwha-ocean-picked-as-preferred-bidder-for-51-bil-navy-destroyer-project
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+      - https://www.koreaherald.com/article/10795419
+      - https://www.koreatimes.co.kr/business/companies/20260702/hanwha-ocean-picked-as-preferred-bidder-for-51-bil-navy-destroyer-project
+    hard_facts:
+      - claim: named institution DAPA confirmation
+        kind: named_institution
+        value: "Defense Acquisition Program Administration (DAPA)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "The Defense Acquisition Program Administration (DAPA) confirmed Hanwha Ocean as the preferred bidder"
+      - claim: confirmation date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "confirmed Hanwha Ocean as the preferred bidder for South Korea's Korea Destroyer Next Generation (KDDX) program on July 2, 2026"
+      - claim: named product KDDX program
+        kind: named_product
+        value: "Korea Destroyer Next Generation (KDDX)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "Korea Destroyer Next Generation (KDDX) program"
+      - claim: total program value
+        kind: numerical_with_unit
+        value: "7.8 trillion won ($5.1 billion)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "Total program value: 7.8 trillion won ($5.1 billion)"
+      - claim: development costs
+        kind: numerical_with_unit
+        value: "1.8 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "comprising 1.8 trillion won in development costs"
+      - claim: construction costs
+        kind: numerical_with_unit
+        value: "6 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "6 trillion won in construction costs"
+      - claim: destroyer count
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "six 6,000-ton-class Aegis destroyers"
+      - claim: destroyer class tonnage
+        kind: numerical_with_unit
+        value: "6,000-ton-class"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "six 6,000-ton-class Aegis destroyers"
+      - claim: lead vessel delivery date
+        kind: temporal
+        value: "end-2032"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "The lead vessel delivery is expected by end-2032"
+      - claim: evaluation date
+        kind: temporal
+        value: "June 11, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "DAPA evaluated Hanwha Ocean and HD Hyundai Heavy Industries on June 11, 2026"
+      - claim: HD Hyundai technical advantage
+        kind: numerical_with_unit
+        value: "0.6425 points"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "HD Hyundai scored 0.6425 points higher on technical capability"
+      - claim: HD Hyundai security deduction
+        kind: numerical_with_unit
+        value: "1.2-point"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "received a 1.2-point security deduction"
+      - claim: Hanwha Ocean net margin
+        kind: numerical_with_unit
+        value: "0.59 points"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "Net margin in Hanwha Ocean's favour: 0.59 points"
+      - claim: contract finalization target
+        kind: temporal
+        value: "end-August 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        verbatim_excerpt: "Contract finalization is targeted for end-August 2026"
+    quotes:
+      - speaker_name: DAPA official
+        speaker_title: "Official, Defense Acquisition Program Administration"
+        verbatim_en: "We reviewed [HD Hyundai's] objection and concluded that there were no irregularities in the evaluation."
+        source_url: https://www.koreajoongangdaily.com/business/hanwha-ocean-named-preferred-bidder-for-koreas-nextgeneration-destroyer-program/12751617
+        context: DAPA official responding to HD Hyundai's objection after KDDX preferred bidder announcement
+
+  - story_id: sk-hynix-f1a-sec-29-billion-nasdaq-adr
+    category: ipo_ma
+    headline_en: "SK Hynix files F-1/A prospectus amendment with SEC for up to $29 billion Nasdaq ADR offering; bookbuilding July 6, listing July 10"
+    lead_url: https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+    body_source: full
+    corroborated_by:
+      - https://www.thelec.net/news/articleView.html?idxno=11651
+      - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606240008
+    locked_urls:
+      - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+      - https://www.thelec.net/news/articleView.html?idxno=11651
+      - https://www.kedglobal.com/korean-chipmakers/newsView/ked202606240008
+    hard_facts:
+      - claim: filing type
+        kind: named_product
+        value: "Form F-1/A"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "SK hynix Inc. filed an amended Form F-1/A registration statement"
+      - claim: filing date
+        kind: temporal
+        value: "around July 2, 2026"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "around July 2, 2026 to list American Depositary Receipts (ADRs)"
+      - claim: exchange and ticker
+        kind: named_product
+        value: "Nasdaq Global Select Market under the symbol \"SKHY\""
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "on the Nasdaq Global Select Market under the symbol \"SKHY\""
+      - claim: new shares to be issued
+        kind: numerical_with_unit
+        value: "17.79 million new common shares"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "The company plans to issue 17.79 million new common shares"
+      - claim: share dilution percentage
+        kind: numerical_with_unit
+        value: "approximately 2.5 percent"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "representing approximately 2.5 percent of outstanding shares"
+      - claim: estimated offering size won
+        kind: numerical_with_unit
+        value: "up to 45.45 trillion won"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "estimated offering size of up to 45.45 trillion won ($29.65 billion)"
+      - claim: estimated offering size USD
+        kind: numerical_with_unit
+        value: "$29.65 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "up to 45.45 trillion won ($29.65 billion)"
+      - claim: ADR trading start date
+        kind: temporal
+        value: "July 10"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "ADR trading begins on Nasdaq July 10"
+      - claim: KRX share listing date
+        kind: temporal
+        value: "July 29"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "newly issued shares listed on Korea Exchange July 29"
+      - claim: comparison Alibaba offering size
+        kind: numerical_with_unit
+        value: "$21.8 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "surpassing Alibaba's $21.8 billion New York listing in 2014"
+      - claim: Alibaba listing year
+        kind: temporal
+        value: "2014"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "Alibaba's $21.8 billion New York listing in 2014"
+      - claim: named institution underwriter Bank of America
+        kind: named_institution
+        value: "Bank of America"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "Underwriters: Bank of America, Citigroup, Goldman Sachs, JPMorgan"
+      - claim: named institution underwriter Citigroup
+        kind: named_institution
+        value: "Citigroup"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "Bank of America, Citigroup, Goldman Sachs, JPMorgan"
+      - claim: named institution underwriter Goldman Sachs
+        kind: named_institution
+        value: "Goldman Sachs"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "Bank of America, Citigroup, Goldman Sachs, JPMorgan"
+      - claim: named institution underwriter JPMorgan
+        kind: named_institution
+        value: "JPMorgan"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "Bank of America, Citigroup, Goldman Sachs, JPMorgan"
+      - claim: SK hynix market cap YTD increase
+        kind: numerical_with_unit
+        value: "approximately 300 percent year-to-date"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/0002120882/000119312526289345/d32785df1a.htm
+        verbatim_excerpt: "SK hynix's market capitalization had risen approximately 300 percent year-to-date"
+    quotes: []
+
+  - story_id: samsung-skhynix-gwangju-chip-fab-800-trillion
+    category: ipo_ma
+    headline_en: "Samsung, SK hynix narrow Gwangju chip fab site search to two candidates under W800 trillion national semiconductor plan"
+    lead_url: https://www.koreaherald.com/article/10796287
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10796287
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "Samsung Electronics and SK hynix on July 2, 2026 narrowed their site search"
+      - claim: national semiconductor plan value
+        kind: numerical_with_unit
+        value: "800 trillion won ($514.7 billion)"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "its 800 trillion won ($514.7 billion) semiconductor ecosystem plan"
+      - claim: number of candidate sites
+        kind: numerical
+        value: "Two"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "Two candidate sites are under consideration"
+      - claim: site one name
+        kind: named_institution
+        value: "Cheomdan Industrial District 3 within Gwangju Innopolis"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "Cheomdan Industrial District 3 within Gwangju Innopolis"
+      - claim: site one area
+        kind: numerical_with_unit
+        value: "3.63 million square meters"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "Cheomdan Industrial District 3 within Gwangju Innopolis (3.63 million square meters)"
+      - claim: named institution Amkor Technology investment nearby
+        kind: named_institution
+        value: "Amkor Technology"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "close to an announced 1 trillion won Amkor Technology investment"
+      - claim: Amkor Technology nearby investment
+        kind: numerical_with_unit
+        value: "1 trillion won"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "close to an announced 1 trillion won Amkor Technology investment"
+      - claim: site two area
+        kind: numerical_with_unit
+        value: "8.2 million square meters"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "Gwangju's military airport site (8.2 million square meters)"
+      - claim: fab land requirement
+        kind: numerical_with_unit
+        value: "approximately 660,000 square meters"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "A single advanced chip fab requires approximately 660,000 square meters of land"
+      - claim: fab power requirement
+        kind: numerical_with_unit
+        value: "1 gigawatt"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "1 gigawatt of power"
+      - claim: fab water requirement
+        kind: numerical_with_unit
+        value: "200,000 tons of water daily"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "200,000 tons of water daily"
+      - claim: national plan announcement date
+        kind: temporal
+        value: "June 29"
+        source_urls:
+          - https://www.koreaherald.com/article/10796287
+        verbatim_excerpt: "The 800 trillion won national plan was announced June 29"
+    quotes: []
+
+  - story_id: bifan-30th-anniversary-321-films
+    category: other
+    headline_en: "BIFAN opens 30th-anniversary edition with record 321 films, world premieres, and AI-themed programming"
+    lead_url: https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/entertainment/films/20260702/bifan-set-to-open-for-11-day-run-with-record-321-films
+    locked_urls:
+      - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+      - https://www.koreatimes.co.kr/entertainment/films/20260702/bifan-set-to-open-for-11-day-run-with-record-321-films
+    hard_facts:
+      - claim: named product festival edition
+        kind: named_product
+        value: "30th Bucheon International Fantastic Film Festival (BIFAN)"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "The 30th Bucheon International Fantastic Film Festival (BIFAN)"
+      - claim: opening date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "officially opened on July 2, 2026"
+      - claim: closing date
+        kind: temporal
+        value: "July 12"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "will run through July 12 in Bucheon, Gyeonggi Province"
+      - claim: total films
+        kind: numerical
+        value: "321"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "a record 321 films from 50 countries"
+      - claim: countries represented
+        kind: numerical
+        value: "50 countries"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "321 films from 50 countries"
+      - claim: world premieres
+        kind: numerical
+        value: "93"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "including 93 world premieres"
+      - claim: named person opening film director
+        kind: named_person
+        value: "Yuen Woo-ping"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "directed by Yuen Woo-ping"
+      - claim: named person opening film star
+        kind: named_person
+        value: "Jet Li"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "starring Jet Li"
+      - claim: named product opening film
+        kind: named_product
+        value: "Blades of the Guardian"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "The opening film is \"Blades of the Guardian\""
+      - claim: South Korea-France diplomatic anniversary
+        kind: numerical
+        value: "140th"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "marks the 140th anniversary of South Korea–France diplomatic relations"
+      - claim: named person honorary award Josie Ho
+        kind: named_person
+        value: "Josie Ho"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "Honorary awards: Josie Ho, Fan Bingbing, and Isabelle Huppert"
+      - claim: named person honorary award Fan Bingbing
+        kind: named_person
+        value: "Fan Bingbing"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "Josie Ho, Fan Bingbing, and Isabelle Huppert"
+      - claim: named person lifetime achievement Isabelle Huppert
+        kind: named_person
+        value: "Isabelle Huppert"
+        source_urls:
+          - https://www.koreajoongangdaily.com/entertainment/bucheon-international-film-festivals-11day-run-to-feature-record-321-films/12751963
+        verbatim_excerpt: "Isabelle Huppert (lifetime achievement award)"
+    quotes: []
+
+  - story_id: us-iran-doha-talks-hormuz-no-breakthrough
+    category: other
+    headline_en: "US-Iran Doha talks end with no breakthrough on Strait of Hormuz as next round awaits Khamenei funeral"
+    lead_url: https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+    hard_facts:
+      - claim: talks duration
+        kind: temporal
+        value: "Two days"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "Two days of indirect US-Iran technical talks in Doha concluded on July 2, 2026"
+      - claim: talks conclusion date
+        kind: temporal
+        value: "July 2, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "Two days of indirect US-Iran technical talks in Doha concluded on July 2, 2026"
+      - claim: next meeting condition
+        kind: temporal
+        value: "July 9"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "Iran's Supreme Leader Ayatollah Khamenei's funeral, set for July 9"
+      - claim: named person Jared Kushner
+        kind: named_person
+        value: "Jared Kushner"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "High-level U.S. envoys Jared Kushner and Steve Witkoff did not attend"
+      - claim: named person Steve Witkoff
+        kind: named_person
+        value: "Steve Witkoff"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "Jared Kushner and Steve Witkoff did not attend"
+      - claim: named person Iranian delegation lead
+        kind: named_person
+        value: "Kazem Gharibabadi"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "Iran's Deputy Foreign Minister Kazem Gharibabadi led the Iranian delegation"
+      - claim: Strait of Hormuz global oil and LNG trade share
+        kind: numerical_with_unit
+        value: "approximately one-fifth"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "The Strait of Hormuz handles approximately one-fifth of global oil and LNG trade"
+      - claim: Iran toll assessment start date
+        kind: temporal
+        value: "mid-August"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "Iran plans to begin assessing tolls on shipping from mid-August"
+      - claim: named person Ayatollah Khamenei
+        kind: named_person
+        value: "Ayatollah Khamenei"
+        source_urls:
+          - https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        verbatim_excerpt: "Iran's Supreme Leader Ayatollah Khamenei's funeral"
+    quotes:
+      - speaker_name: Qatar's Foreign Ministry
+        speaker_title: "Foreign Ministry, Qatar"
+        verbatim_en: "positive progress"
+        source_url: https://www.koreatimes.co.kr/world/20260702/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz
+        context: Qatar's Foreign Ministry characterization of US-Iran Doha talks outcomes
