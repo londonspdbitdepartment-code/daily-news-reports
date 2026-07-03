@@ -1,0 +1,1568 @@
+version: 1
+generated_at: "2026-07-03T12:00:00Z"
+country: South Korea
+date: "2026-07-03"
+total_stories: 15
+stories:
+  - story_id: kospi-index-rebounds-above-8000
+    category: econ
+    headline_en: KOSPI Index Rebounds
+    lead_url: https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10797635
+      - https://www.koreatimes.co.kr/economy/20260703/kospi-snaps-back-to-8000-as-samsung-sk-hynix-rally
+      - https://www.bloomberg.com/news/articles/2026-07-03/south-korean-stocks-jump-5-after-turbulent-week-on-ai-swings
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+      - https://www.koreaherald.com/article/10797635
+      - https://www.koreatimes.co.kr/economy/20260703/kospi-snaps-back-to-8000-as-samsung-sk-hynix-rally
+      - https://www.bloomberg.com/news/articles/2026-07-03/south-korean-stocks-jump-5-after-turbulent-week-on-ai-swings
+    hard_facts:
+      - claim: KOSPI closing level July 3 2026
+        kind: numerical_with_unit
+        value: "8,058.69"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "KOSPI closed at 8,058.69 on July 3, 2026"
+      - claim: KOSPI daily percentage gain
+        kind: numerical_with_unit
+        value: "+5.37%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "KOSPI closed at 8,058.69 on July 3, 2026, +5.37%"
+      - claim: KOSPI intraday low
+        kind: numerical_with_unit
+        value: "7,378.10"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "recovering from intraday low 7,378.10"
+      - claim: KOSPI cumulative drop over two sessions
+        kind: numerical_with_unit
+        value: "~10%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "cumulative drop ~10% over two sessions on AI-cycle concerns"
+      - claim: Buy-side sidecar activation time
+        kind: temporal
+        value: "13:47:16 KST"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Buy-side sidecar activated 13:47:16 KST when Kospi 200 futures surged >5% above baseline for one minute"
+      - claim: Kospi 200 futures surge threshold for sidecar
+        kind: numerical_with_unit
+        value: ">5%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Kospi 200 futures surged >5% above baseline for one minute"
+      - claim: Samsung Electronics share price gain
+        kind: numerical_with_unit
+        value: "+9.27%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Samsung Electronics +9.27% to 312,500 won"
+      - claim: Samsung Electronics closing share price
+        kind: numerical_with_unit
+        value: "312,500 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Samsung Electronics +9.27% to 312,500 won"
+      - claim: SK Hynix share price gain
+        kind: numerical_with_unit
+        value: "+9.69%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "SK Hynix +9.69% to 2,399,000 won"
+      - claim: SK Hynix closing share price
+        kind: numerical_with_unit
+        value: "2,399,000 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "SK Hynix +9.69% to 2,399,000 won"
+      - claim: Net institutional buying
+        kind: numerical_with_unit
+        value: "2.6539 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Institutions bought net 2.6539 trillion won"
+      - claim: Net foreign selling
+        kind: numerical_with_unit
+        value: "1.479 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "foreign and retail sold 1.479 and 1.262 trillion won"
+      - claim: Net retail selling
+        kind: numerical_with_unit
+        value: "1.262 trillion won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "foreign and retail sold 1.479 and 1.262 trillion won"
+      - claim: Won-dollar closing rate
+        kind: numerical_with_unit
+        value: "1,525.6 per USD"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Won strengthened to 1,525.6 per USD, up 30.2 won"
+      - claim: Won appreciation magnitude
+        kind: numerical_with_unit
+        value: "30.2 won"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Won strengthened to 1,525.6 per USD, up 30.2 won"
+      - claim: Named institution — Samsung Electronics
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Samsung Electronics +9.27% to 312,500 won"
+      - claim: Named institution — SK Hynix
+        kind: named_institution
+        value: SK Hynix
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "SK Hynix +9.69% to 2,399,000 won"
+      - claim: Named institution — Anthropic
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Anthropic in early talks with Samsung on custom AI chip catalysed buying"
+      - claim: US June non-farm payrolls release date
+        kind: temporal
+        value: "July 2"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Weak US June non-farm payrolls (released July 2) boosted risk appetite"
+      - claim: Analyst name — Kim Jin-wook
+        kind: named_person
+        value: Kim Jin-wook
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Analyst Kim Jin-wook: won–dollar rate could move"
+      - claim: Byline author
+        kind: named_person
+        value: Cho Mun-gyu
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        verbatim_excerpt: "Byline: Cho Mun-gyu"
+    quotes:
+      - speaker_name: Kim Jin-wook
+        speaker_title: Analyst
+        verbatim_en: "toward the 1,500 level within the next three months"
+        source_url: https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253
+        context: commentary on won-dollar exchange rate outlook
+
+  - story_id: foreign-reserves-rise-june-2026
+    category: econ
+    headline_en: Foreign Reserves Rise
+    lead_url: https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+    hard_facts:
+      - claim: Foreign reserves change in June 2026
+        kind: numerical_with_unit
+        value: "$370 million"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Foreign reserves rose $370 million to $427.36 billion at end-June 2026"
+      - claim: Total foreign reserves end-June 2026
+        kind: numerical_with_unit
+        value: "$427.36 billion"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Foreign reserves rose $370 million to $427.36 billion at end-June 2026"
+      - claim: Bank of Korea report date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "per Bank of Korea report July 3, 2026"
+      - claim: Prior month reserves decline
+        kind: numerical_with_unit
+        value: "$880 million"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "reversing an $880 million May decline"
+      - claim: Foreign securities change
+        kind: numerical_with_unit
+        value: "$330 million"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Foreign securities fell $330 million to $380.34 billion"
+      - claim: Foreign securities total
+        kind: numerical_with_unit
+        value: "$380.34 billion"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Foreign securities fell $330 million to $380.34 billion (89% of total)"
+      - claim: Foreign securities share of total reserves
+        kind: numerical_with_unit
+        value: "89%"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Foreign securities fell $330 million to $380.34 billion (89% of total)"
+      - claim: Foreign currency deposits change
+        kind: numerical_with_unit
+        value: "$920 million"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Foreign currency deposits rose $920 million to $22.27 billion"
+      - claim: Foreign currency deposits total
+        kind: numerical_with_unit
+        value: "$22.27 billion"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Foreign currency deposits rose $920 million to $22.27 billion"
+      - claim: Gold reserves
+        kind: numerical_with_unit
+        value: "$4.79 billion"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Gold unchanged at $4.79 billion"
+      - claim: Won-dollar rate June 30
+        kind: numerical_with_unit
+        value: "1,549.4 per dollar"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Won weakened to 1,549.4 per dollar on June 30"
+      - claim: Date of weakest won since March 2009
+        kind: temporal
+        value: "June 30"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Won weakened to 1,549.4 per dollar on June 30 — weakest since March 2009"
+      - claim: Prior weakest won date reference
+        kind: temporal
+        value: "March 2009"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "Won weakened to 1,549.4 per dollar on June 30 — weakest since March 2009"
+      - claim: South Korea's global reserves ranking change
+        kind: numerical
+        value: "12th to 13th"
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "South Korea fell from 12th to 13th globally in reserves rankings"
+      - claim: Named institution — Bank of Korea
+        kind: named_institution
+        value: Bank of Korea
+        source_urls:
+          - https://www.koreajoongangdaily.com/business/koreas-foreign-reserves-rise-in-june-despite-marketstabilizing-measures/12753497
+        verbatim_excerpt: "per Bank of Korea report July 3, 2026"
+    quotes: []
+
+  - story_id: kotra-hallyu-exports-diversification
+    category: econ
+    headline_en: KOTRA Hallyu Exports
+    lead_url: https://www.koreaherald.com/article/10797359
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10797359
+    hard_facts:
+      - claim: KOTRA President name
+        kind: named_person
+        value: Kang Kyung-sung
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "KOTRA President Kang Kyung-sung on July 3, 2026 urged diversifying exports"
+      - claim: Date of KOTRA statement
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "KOTRA President Kang Kyung-sung on July 3, 2026 urged diversifying exports"
+      - claim: Current consumer goods share of exports
+        kind: numerical_with_unit
+        value: "6.4%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "growing consumer goods (cosmetics, food, pharma, fashion) under the Hallyu brand from 6.4% to 15–20% of total exports"
+      - claim: Target consumer goods share of exports
+        kind: numerical_with_unit
+        value: "15–20%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "growing consumer goods (cosmetics, food, pharma, fashion) under the Hallyu brand from 6.4% to 15–20% of total exports"
+      - claim: H1 2026 total exports
+        kind: numerical_with_unit
+        value: "$496.7 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "H1 2026 exports hit $496.7 billion — new H1 record"
+      - claim: H1 2026 semiconductor exports
+        kind: numerical_with_unit
+        value: "~$192.4 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "semiconductors ~$192.4 billion (~40%)"
+      - claim: Semiconductor share of total exports
+        kind: numerical_with_unit
+        value: "~40%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "semiconductors ~$192.4 billion (~40%)"
+      - claim: Korea Brand and Entertainment Expo opening date and location
+        kind: temporal
+        value: "July 3"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "Korea Brand and Entertainment Expo opened in Hanoi July 3 (27th edition)"
+      - claim: Korea Brand and Entertainment Expo edition number
+        kind: numerical
+        value: "27th edition"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "Korea Brand and Entertainment Expo opened in Hanoi July 3 (27th edition)"
+      - claim: New KOTRA offices planned locations
+        kind: named_institution
+        value: "Kyrgyzstan and Costa Rica"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "New KOTRA offices planned for Kyrgyzstan and Costa Rica"
+      - claim: Emergency naphtha supply deals secured
+        kind: numerical
+        value: "29"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "KOTRA secured 29 emergency naphtha supply deals totalling 870,000 tons"
+      - claim: Total naphtha supply secured
+        kind: numerical_with_unit
+        value: "870,000 tons"
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "KOTRA secured 29 emergency naphtha supply deals totalling 870,000 tons"
+      - claim: Named institution — KOTRA
+        kind: named_institution
+        value: KOTRA
+        source_urls:
+          - https://www.koreaherald.com/article/10797359
+        verbatim_excerpt: "KOTRA President Kang Kyung-sung on July 3, 2026 urged diversifying exports"
+    quotes:
+      - speaker_name: Kang Kyung-sung
+        speaker_title: KOTRA President
+        verbatim_en: "Consumer goods are ultimately industries shaped by a country's image and brand power."
+        source_url: https://www.koreaherald.com/article/10797359
+        context: July 3 2026 statement on export diversification
+
+  - story_id: hyundai-kia-us-sales-h1-2026
+    category: econ
+    headline_en: Hyundai/Kia US Sales
+    lead_url: https://www.koreaherald.com/article/10797364
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10797364
+    hard_facts:
+      - claim: Combined Hyundai and Kia H1 2026 US sales
+        kind: numerical_with_unit
+        value: "920,383 vehicles"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Hyundai and Kia sold combined 920,383 vehicles in US in H1 2026"
+      - claim: Combined sales YoY growth
+        kind: numerical_with_unit
+        value: "+3%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Hyundai and Kia sold combined 920,383 vehicles in US in H1 2026, +3% YoY"
+      - claim: Data release date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "data released July 3, 2026"
+      - claim: Hyundai H1 2026 US sales
+        kind: numerical_with_unit
+        value: "489,656"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Hyundai 489,656 (+2.7%)"
+      - claim: Hyundai sales YoY growth
+        kind: numerical_with_unit
+        value: "+2.7%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Hyundai 489,656 (+2.7%)"
+      - claim: Kia H1 2026 US sales
+        kind: numerical_with_unit
+        value: "430,727"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Kia 430,727 (+3.4%)"
+      - claim: Kia sales YoY growth
+        kind: numerical_with_unit
+        value: "+3.4%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Kia 430,727 (+3.4%)"
+      - claim: Genesis H1 2026 US sales
+        kind: numerical_with_unit
+        value: "39,088"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Genesis 39,088 (+4.6%)"
+      - claim: Genesis sales YoY growth
+        kind: numerical_with_unit
+        value: "+4.6%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Genesis 39,088 (+4.6%)"
+      - claim: Eco-friendly vehicle sales growth
+        kind: numerical_with_unit
+        value: "+47%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Eco-friendly +47% to 265,514 units"
+      - claim: Eco-friendly vehicle sales units
+        kind: numerical_with_unit
+        value: "265,514 units"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Eco-friendly +47% to 265,514 units (31.2% of sales)"
+      - claim: Eco-friendly share of total sales
+        kind: numerical_with_unit
+        value: "31.2%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Eco-friendly +47% to 265,514 units (31.2% of sales)"
+      - claim: Hybrid sales growth
+        kind: numerical_with_unit
+        value: "+65.5%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Hybrids +65.5% to 225,321 units"
+      - claim: Hybrid sales units
+        kind: numerical_with_unit
+        value: "225,321 units"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Hybrids +65.5% to 225,321 units"
+      - claim: EV sales decline
+        kind: numerical_with_unit
+        value: "9.7%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "offsetting 9.7% EV decline"
+      - claim: Top Hyundai model Tucson sales
+        kind: numerical_with_unit
+        value: "117,612"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Top Hyundai: Tucson (117,612)"
+      - claim: Top Hyundai model Elantra sales
+        kind: numerical_with_unit
+        value: "79,839"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Elantra (79,839)"
+      - claim: Top Kia model Sportage sales
+        kind: numerical_with_unit
+        value: "94,907"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Top Kia: Sportage (94,907)"
+      - claim: Top Kia model Telluride sales
+        kind: numerical_with_unit
+        value: "73,602"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Telluride (73,602)"
+      - claim: Q2 2026 combined sales
+        kind: numerical_with_unit
+        value: "489,663"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Q2 sales 489,663 (+3.5%)"
+      - claim: Q2 2026 combined sales YoY growth
+        kind: numerical_with_unit
+        value: "+3.5%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Q2 sales 489,663 (+3.5%)"
+      - claim: GM US H1 2026 sales
+        kind: numerical_with_unit
+        value: "1,335,461"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "GM led US with 1,335,461 (-6.8%)"
+      - claim: GM US sales YoY change
+        kind: numerical_with_unit
+        value: "-6.8%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "GM led US with 1,335,461 (-6.8%)"
+      - claim: US auto tariff on Korean exports original rate
+        kind: numerical_with_unit
+        value: "25%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "US auto tariff on Korean exports 25% reduced to 15% under July 2025 trade deal"
+      - claim: US auto tariff on Korean exports reduced rate
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "US auto tariff on Korean exports 25% reduced to 15% under July 2025 trade deal"
+      - claim: Trade deal date
+        kind: temporal
+        value: "July 2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "under July 2025 trade deal"
+      - claim: Named institution — Hyundai
+        kind: named_institution
+        value: Hyundai
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Hyundai and Kia sold combined 920,383 vehicles"
+      - claim: Named institution — Kia
+        kind: named_institution
+        value: Kia
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Hyundai and Kia sold combined 920,383 vehicles"
+      - claim: Named institution — Genesis
+        kind: named_institution
+        value: Genesis
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Genesis 39,088 (+4.6%)"
+      - claim: Named institution — GM
+        kind: named_institution
+        value: GM
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "GM led US with 1,335,461 (-6.8%)"
+      - claim: Named product — Tucson
+        kind: named_product
+        value: Tucson
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Top Hyundai: Tucson (117,612)"
+      - claim: Named product — Elantra
+        kind: named_product
+        value: Elantra
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Elantra (79,839)"
+      - claim: Named product — Sportage
+        kind: named_product
+        value: Sportage
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Top Kia: Sportage (94,907)"
+      - claim: Named product — Telluride
+        kind: named_product
+        value: Telluride
+        source_urls:
+          - https://www.koreaherald.com/article/10797364
+        verbatim_excerpt: "Telluride (73,602)"
+    quotes: []
+
+  - story_id: lee-nato-summit-ankara-july-2026
+    category: politics
+    headline_en: Lee NATO Summit
+    lead_url: https://www.koreaherald.com/article/10797520
+    body_source: full
+    corroborated_by:
+      - https://www.koreatimes.co.kr/foreignaffairs/20260703/president-to-embark-on-trip-to-nato-summit-mongolia
+    locked_urls:
+      - https://www.koreaherald.com/article/10797520
+      - https://www.koreatimes.co.kr/foreignaffairs/20260703/president-to-embark-on-trip-to-nato-summit-mongolia
+    hard_facts:
+      - claim: Named person — President Lee Jae Myung
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "President Lee Jae Myung will attend the NATO summit in Ankara July 7–8, 2026"
+      - claim: NATO summit dates
+        kind: temporal
+        value: "July 7–8, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "President Lee Jae Myung will attend the NATO summit in Ankara July 7–8, 2026"
+      - claim: NATO summit location
+        kind: named_institution
+        value: Ankara
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "NATO summit in Ankara July 7–8, 2026"
+      - claim: Date Lee took office
+        kind: temporal
+        value: "June 2025"
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "first since taking office June 2025"
+      - claim: NATO Secretary-General name
+        kind: named_person
+        value: Mark Rutte
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "Will meet NATO Secretary-General Mark Rutte"
+      - claim: Mongolia state visit dates
+        kind: temporal
+        value: "July 9–11"
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "state visit to Mongolia July 9–11"
+      - claim: Years since prior Korean presidential visit to Mongolia
+        kind: temporal
+        value: "15 years"
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "state visit to Mongolia July 9–11 (first in 15 years)"
+      - claim: Mongolian President name
+        kind: named_person
+        value: Ukhnaagiin Khürelsükh
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "meeting President Ukhnaagiin Khürelsükh"
+      - claim: Joint declaration name
+        kind: named_product
+        value: "The Golden Age of Korea-Mongolia Relations"
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "joint declaration \"The Golden Age of Korea-Mongolia Relations\""
+      - claim: NSA name — Wi Sung-lac
+        kind: named_person
+        value: Wi Sung-lac
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "NSA Wi Sung-lac: \"lay groundwork for Korea's entry into the world's largest defence market.\""
+      - claim: Named institution — NATO
+        kind: named_institution
+        value: NATO
+        source_urls:
+          - https://www.koreaherald.com/article/10797520
+        verbatim_excerpt: "President Lee Jae Myung will attend the NATO summit in Ankara July 7–8, 2026"
+    quotes:
+      - speaker_name: Wi Sung-lac
+        speaker_title: National Security Advisor
+        verbatim_en: "lay groundwork for Korea's entry into the world's largest defence market."
+        source_url: https://www.koreaherald.com/article/10797520
+        context: statement on goals of NATO summit attendance
+
+  - story_id: national-assembly-ppp-boycott-july-2026
+    category: politics
+    headline_en: National Assembly PPP Boycott
+    lead_url: https://www.koreaherald.com/article/10797640
+    body_source: full
+    corroborated_by:
+      - https://www.koreajoongangdaily.com/korea/national-assembly-elects-parliamentary-committee-chairs-prompting-backlash-from-ppp/12748831
+    locked_urls:
+      - https://www.koreaherald.com/article/10797640
+      - https://www.koreajoongangdaily.com/korea/national-assembly-elects-parliamentary-committee-chairs-prompting-backlash-from-ppp/12748831
+    hard_facts:
+      - claim: National Assembly session number
+        kind: numerical
+        value: "22nd"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "The 22nd National Assembly holds first special session Monday July 6"
+      - claim: Special session date
+        kind: temporal
+        value: "Monday July 6"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "The 22nd National Assembly holds first special session Monday July 6"
+      - claim: New Speaker name
+        kind: named_person
+        value: "Cho Jeong-sik"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "under new Speaker Rep. Cho Jeong-sik"
+      - claim: Former Speaker name
+        kind: named_person
+        value: "Woo Won-shik"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "after months-long pause since former Speaker Woo Won-shik's term ended late May 2026"
+      - claim: Former Speaker term end date
+        kind: temporal
+        value: "late May 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "former Speaker Woo Won-shik's term ended late May 2026"
+      - claim: Number of committee chairs DPK secured
+        kind: numerical
+        value: "11"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "Ruling DPK secured 11 committee chairs including Legislation and Judiciary Committee"
+      - claim: Named committee — Legislation and Judiciary
+        kind: named_institution
+        value: "Legislation and Judiciary Committee"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "Ruling DPK secured 11 committee chairs including Legislation and Judiciary Committee"
+      - claim: PPP floor leader name
+        kind: named_person
+        value: "Jeong Jeom-sig"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "floor leader Rep. Jeong Jeom-sig cited DPK's special counsel bill investigating President Lee Jae-myung"
+      - claim: Judiciary Committee inaugural session date
+        kind: temporal
+        value: "July 3"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "Judiciary Committee held inaugural July 3 session with zero PPP attendance"
+      - claim: DPK seats in 300-seat assembly
+        kind: numerical_with_unit
+        value: "170 of 300 seats"
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "DPK holds 170 of 300 seats"
+      - claim: Named institution — DPK
+        kind: named_institution
+        value: DPK
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "Ruling DPK secured 11 committee chairs"
+      - claim: Named institution — PPP
+        kind: named_institution
+        value: PPP
+        source_urls:
+          - https://www.koreaherald.com/article/10797640
+        verbatim_excerpt: "PPP declared \"all-out protest,\" will boycott committee activity"
+    quotes:
+      - speaker_name: Jeong Jeom-sig
+        speaker_title: PPP Floor Leader, Rep.
+        verbatim_en: "the Democratic Party's plan to pass a controversial special counsel bill regarding President Lee Jae-myung"
+        source_url: https://www.koreaherald.com/article/10797640
+        context: statement explaining PPP boycott rationale
+
+  - story_id: coupang-us-report-presidential-office
+    category: politics
+    headline_en: Coupang US Report
+    lead_url: https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+    body_source: full
+    corroborated_by:
+      - https://www.mlex.com/mlex/data-privacy-security/articles/2497018
+    locked_urls:
+      - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+      - https://www.mlex.com/mlex/data-privacy-security/articles/2497018
+    hard_facts:
+      - claim: Presidential office rejection date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "South Korea's presidential office July 3, 2026 rejected a US House Judiciary Committee interim report"
+      - claim: Named institution — US House Judiciary Committee
+        kind: named_institution
+        value: US House Judiciary Committee
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "a US House Judiciary Committee interim report alleging Seoul discriminated against Coupang and other US-listed firms"
+      - claim: NSA name
+        kind: named_person
+        value: Wi Sung-lac
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "NSA Wi Sung-lac: \"Korea does not discriminate against corporate activities based on nationality or single out specific companies.\""
+      - claim: Number of labour/civil-society groups in coalition
+        kind: numerical
+        value: "135"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "Coalition of 135 labour/civil-society groups protested outside US embassy"
+      - claim: Number of pages in US House report
+        kind: numerical_with_unit
+        value: "35-page"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "The 35-page report \"Closed for Competition\" (released July 1)"
+      - claim: US House report title
+        kind: named_product
+        value: "Closed for Competition"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "The 35-page report \"Closed for Competition\" (released July 1)"
+      - claim: US House report release date
+        kind: temporal
+        value: "July 1"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "The 35-page report \"Closed for Competition\" (released July 1)"
+      - claim: Number of Coupang customers affected by data breach
+        kind: numerical_with_unit
+        value: "33.7 million"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "2025 Coupang data breach exposing 33.7 million customers"
+      - claim: Coupang data breach year
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "a 2025 Coupang data breach exposing 33.7 million customers"
+      - claim: Coupang regulatory fine (won)
+        kind: numerical_with_unit
+        value: "625 billion won"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "regulators levied record 625 billion won ($403 million) fine"
+      - claim: Coupang regulatory fine (USD)
+        kind: numerical_with_unit
+        value: "$403 million"
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "regulators levied record 625 billion won ($403 million) fine"
+      - claim: Foreign Ministry spokesperson name
+        kind: named_person
+        value: Park Il
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "Foreign Ministry spokesperson Park Il: report \"reflected only Coupang's unilateral claims.\""
+      - claim: Named institution — Coupang
+        kind: named_institution
+        value: Coupang
+        source_urls:
+          - https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        verbatim_excerpt: "a US House Judiciary Committee interim report alleging Seoul discriminated against Coupang"
+    quotes:
+      - speaker_name: Wi Sung-lac
+        speaker_title: National Security Advisor
+        verbatim_en: "Korea does not discriminate against corporate activities based on nationality or single out specific companies."
+        source_url: https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        context: July 3 2026 statement rejecting US House Judiciary Committee report
+      - speaker_name: Park Il
+        speaker_title: Foreign Ministry Spokesperson
+        verbatim_en: "reflected only Coupang's unilateral claims."
+        source_url: https://www.koreatimes.co.kr/foreignaffairs/20260703/koreas-coupang-probe-not-discriminatory-presidential-office
+        context: July 3 2026 statement on US House Judiciary Committee report
+
+  - story_id: samsung-anthropic-custom-ai-chip-talks
+    category: tech
+    headline_en: Samsung-Anthropic
+    lead_url: https://www.koreaherald.com/article/10797311
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10797311
+    hard_facts:
+      - claim: Named institution — Samsung Electronics
+        kind: named_institution
+        value: Samsung Electronics
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Samsung Electronics in early-stage talks with Anthropic to manufacture a custom AI chip"
+      - claim: Named institution — Anthropic
+        kind: named_institution
+        value: Anthropic
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Samsung Electronics in early-stage talks with Anthropic to manufacture a custom AI chip"
+      - claim: Chip process node
+        kind: named_product
+        value: "2nm foundry process"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "manufacture a custom AI chip using Samsung's 2nm foundry process and advanced packaging"
+      - claim: Report date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Korea Herald reported July 3, 2026, citing The Information"
+      - claim: Original news source for Samsung-Anthropic story
+        kind: named_institution
+        value: The Information
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Korea Herald reported July 3, 2026, citing The Information"
+      - claim: TSMC global foundry market share Q1 2026
+        kind: numerical_with_unit
+        value: "38%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "TSMC (38% of global foundry market Q1 2026 vs Samsung's 4%)"
+      - claim: Samsung global foundry market share Q1 2026
+        kind: numerical_with_unit
+        value: "4%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "TSMC (38% of global foundry market Q1 2026 vs Samsung's 4%)"
+      - claim: Reference period for market share
+        kind: temporal
+        value: "Q1 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "38% of global foundry market Q1 2026"
+      - claim: Named person — Samsung Foundry president
+        kind: named_person
+        value: Han Jin-man
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Foundry president Han Jin-man projects profitability by 2028"
+      - claim: Samsung Foundry profitability target year
+        kind: temporal
+        value: "2028"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Foundry president Han Jin-man projects profitability by 2028"
+      - claim: Anthropic Series H funding amount
+        kind: numerical_with_unit
+        value: "$65 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Anthropic's $65 billion Series H (May 2026)"
+      - claim: Anthropic Series H date
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Anthropic's $65 billion Series H (May 2026)"
+      - claim: Named institution — SK Hynix
+        kind: named_institution
+        value: SK Hynix
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Samsung, SK Hynix, Micron were \"strategic infrastructure partners\" in Anthropic's $65 billion Series H"
+      - claim: Named institution — Micron
+        kind: named_institution
+        value: Micron
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Samsung, SK Hynix, Micron were \"strategic infrastructure partners\" in Anthropic's $65 billion Series H"
+      - claim: Anthropic silicon hire
+        kind: named_person
+        value: Clive Chan
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Anthropic hired Clive Chan (ex-OpenAI silicon)"
+      - claim: Clive Chan prior employer
+        kind: named_institution
+        value: OpenAI
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Anthropic hired Clive Chan (ex-OpenAI silicon)"
+      - claim: OpenAI inference processor name
+        kind: named_product
+        value: "Jalapeño"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Follows OpenAI's June 2026 \"Jalapeño\" inference processor with Broadcom"
+      - claim: OpenAI Jalapeño processor partnership
+        kind: named_institution
+        value: Broadcom
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Follows OpenAI's June 2026 \"Jalapeño\" inference processor with Broadcom"
+      - claim: OpenAI Jalapeño date
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "Follows OpenAI's June 2026 \"Jalapeño\" inference processor with Broadcom"
+      - claim: Named institution — TSMC
+        kind: named_institution
+        value: TSMC
+        source_urls:
+          - https://www.koreaherald.com/article/10797311
+        verbatim_excerpt: "TSMC (38% of global foundry market Q1 2026 vs Samsung's 4%)"
+    quotes:
+      - speaker_name: Han Jin-man
+        speaker_title: Samsung Foundry President
+        verbatim_en: "could become profitable by 2028 through improved yields and expanded customer relationships."
+        source_url: https://www.koreaherald.com/article/10797311
+        context: projection on Samsung Foundry profitability
+
+  - story_id: dprk-crypto-hackers-h1-2026
+    category: tech
+    headline_en: DPRK Crypto Hackers
+    lead_url: https://www.koreaherald.com/article/10797363
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10797363
+    hard_facts:
+      - claim: DPRK-linked crypto hack losses H1 2026
+        kind: numerical_with_unit
+        value: "$643 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "North Korea-linked hacking groups responsible for $643 million of $972 million total global crypto hack losses in H1 2026"
+      - claim: Total global crypto hack losses H1 2026
+        kind: numerical_with_unit
+        value: "$972 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "North Korea-linked hacking groups responsible for $643 million of $972 million total global crypto hack losses in H1 2026"
+      - claim: DPRK share of global crypto hack losses
+        kind: numerical_with_unit
+        value: "66.2%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "responsible for $643 million of $972 million total global crypto hack losses in H1 2026 (66.2%)"
+      - claim: TRM Labs report release date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "per TRM Labs report released July 3, 2026"
+      - claim: Named institution — TRM Labs
+        kind: named_institution
+        value: TRM Labs
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "per TRM Labs report released July 3, 2026"
+      - claim: Proportion of DPRK losses from two April 2026 attacks
+        kind: numerical_with_unit
+        value: "~60%"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "Two April 2026 attacks accounted for ~60% of DPRK-linked losses"
+      - claim: Two April 2026 attacks date
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "Two April 2026 attacks accounted for ~60% of DPRK-linked losses"
+      - claim: Drift hack amount
+        kind: numerical_with_unit
+        value: "$285 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "$285 million breach of Drift (Solana derivatives exchange)"
+      - claim: Named institution — Drift exchange
+        kind: named_institution
+        value: Drift
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "$285 million breach of Drift (Solana derivatives exchange)"
+      - claim: KelpDAO hack amount
+        kind: numerical_with_unit
+        value: "$292 million"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "$292 million hack of KelpDAO (Ethereum liquid restaking)"
+      - claim: Named institution — KelpDAO
+        kind: named_institution
+        value: KelpDAO
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "$292 million hack of KelpDAO (Ethereum liquid restaking)"
+      - claim: DPRK-linked crypto losses H1 2025 for comparison
+        kind: numerical_with_unit
+        value: "$1.7 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "Down from $1.7 billion in H1 2025"
+      - claim: Trilateral working group session number
+        kind: numerical
+        value: "fifth"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "South Korea, US, Japan held fifth trilateral working group on DPRK cyber threats in June 2026"
+      - claim: Trilateral working group date
+        kind: temporal
+        value: "June 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797363
+        verbatim_excerpt: "South Korea, US, Japan held fifth trilateral working group on DPRK cyber threats in June 2026"
+    quotes:
+      - speaker_name: TRM Labs
+        speaker_title: Blockchain intelligence firm
+        verbatim_en: "not be interpreted as weakened North Korean cyber capabilities."
+        source_url: https://www.koreaherald.com/article/10797363
+        context: TRM Labs caveat in July 3 2026 report on DPRK crypto losses
+
+  - story_id: climate-sponge-city-south-korea
+    category: society
+    headline_en: Climate Sponge City
+    lead_url: https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+    hard_facts:
+      - claim: Annual precipitation rise per decade 1912-2024
+        kind: numerical_with_unit
+        value: "17.83mm per decade"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "South Korea's annual precipitation rose average 17.83mm per decade 1912–2024"
+      - claim: Data period for precipitation rise
+        kind: temporal
+        value: "1912–2024"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "South Korea's annual precipitation rose average 17.83mm per decade 1912–2024"
+      - claim: Number of locations recording 100mm+/hour rainfall in 2024
+        kind: numerical
+        value: "16"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "16 locations recording rainfall exceeding 100mm/hour in 2024"
+      - claim: Rainfall intensity threshold
+        kind: numerical_with_unit
+        value: "100mm/hour"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "16 locations recording rainfall exceeding 100mm/hour in 2024"
+      - claim: Report date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "Korea Times reported July 3, 2026"
+      - claim: Named person — Professor Jang Dong-woo
+        kind: named_person
+        value: Jang Dong-woo
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "Professor Jang Dong-woo (Hanyang University)"
+      - claim: Named institution — Hanyang University
+        kind: named_institution
+        value: Hanyang University
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "Professor Jang Dong-woo (Hanyang University)"
+      - claim: Pakistan August 2025 monsoon deaths
+        kind: numerical_with_unit
+        value: "at least 1,000"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "Pakistan's August 2025 monsoon flooding killed at least 1,000"
+      - claim: Rise in Pakistan max rainfall intensity
+        kind: numerical_with_unit
+        value: "22%"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "22% rise in max rainfall intensity"
+      - claim: Pakistan monsoon date
+        kind: temporal
+        value: "August 2025"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "Pakistan's August 2025 monsoon flooding killed at least 1,000"
+      - claim: Named institution — Ministry of the Interior and Safety
+        kind: named_institution
+        value: Ministry of the Interior and Safety
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "Ministry of the Interior and Safety and Ministry of Climate and Environment formed joint task force"
+      - claim: Named institution — Ministry of Climate and Environment
+        kind: named_institution
+        value: Ministry of Climate and Environment
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "Ministry of the Interior and Safety and Ministry of Climate and Environment formed joint task force"
+      - claim: New design flood return period for small rivers
+        kind: numerical_with_unit
+        value: "200 years"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "government plans to raise design flood return period for small rivers from 100 to 200 years"
+      - claim: Prior design flood return period
+        kind: numerical_with_unit
+        value: "100 years"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        verbatim_excerpt: "government plans to raise design flood return period for small rivers from 100 to 200 years"
+    quotes:
+      - speaker_name: Jang Dong-woo
+        speaker_title: Professor, Hanyang University
+        verbatim_en: "a fundamentally different approach that stores, infiltrates and reuses rainwater."
+        source_url: https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready
+        context: academic commentary on sponge city infrastructure needs
+
+  - story_id: family-evidence-tampering-exemption-debate
+    category: society
+    headline_en: Family Evidence-Tampering
+    lead_url: https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+    hard_facts:
+      - claim: Named person — Jang Yoon-gi (murder suspect)
+        kind: named_person
+        value: Jang Yoon-gi
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "his 23-year-old son, Jang Yoon-gi"
+      - claim: Age of murder suspect
+        kind: numerical_with_unit
+        value: "23-year-old"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "his 23-year-old son, Jang Yoon-gi"
+      - claim: Location of murder
+        kind: named_institution
+        value: Gwangju
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "accused of killing a high school girl in Gwangju in May 2026"
+      - claim: Date of murder
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "accused of killing a high school girl in Gwangju in May 2026"
+      - claim: Named person — legal scholar Kim Dae-keun
+        kind: named_person
+        value: Kim Dae-keun
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "Legal scholar Kim Dae-keun (Korean Institute of Criminology and Justice)"
+      - claim: Named institution — Korean Institute of Criminology and Justice
+        kind: named_institution
+        value: Korean Institute of Criminology and Justice
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "Legal scholar Kim Dae-keun (Korean Institute of Criminology and Justice)"
+      - claim: Named person — Lee Yung-hyeock
+        kind: named_person
+        value: Lee Yung-hyeock
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "Lee Yung-hyeock (Konkuk University) advocated narrowing exemption to immediate family"
+      - claim: Named institution — Konkuk University
+        kind: named_institution
+        value: Konkuk University
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "Lee Yung-hyeock (Konkuk University) advocated narrowing exemption to immediate family"
+      - claim: Named person — Kim Do-woo
+        kind: named_person
+        value: Kim Do-woo
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "Kim Do-woo (Kyungnam University) preferred judicial discretion"
+      - claim: Named institution — Kyungnam University
+        kind: named_institution
+        value: Kyungnam University
+        source_urls:
+          - https://www.koreatimes.co.kr/southkorea/society/20260703/murder-suspects-father-evades-charges-fueling-debate-over-koreas-family-evidence-tampering-exemption
+        verbatim_excerpt: "Kim Do-woo (Kyungnam University) preferred judicial discretion"
+    quotes: []
+
+  - story_id: mbk-homeplus-fss-sanctions-process
+    category: ipo_ma
+    headline_en: MBK/Homeplus FSS
+    lead_url: https://www.koreaherald.com/article/10797429
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-07-03/mbk-partners-faces-sanctions-process-in-homeplus-case-fss-says
+    locked_urls:
+      - https://www.koreaherald.com/article/10797429
+      - https://www.bloomberg.com/news/articles/2026-07-03/mbk-partners-faces-sanctions-process-in-homeplus-case-fss-says
+    hard_facts:
+      - claim: FSS sanction recommendation date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "South Korea's FSS on July 3, 2026 recommended disciplinary sanctions against MBK Partners"
+      - claim: Named institution — FSS
+        kind: named_institution
+        value: FSS
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "South Korea's FSS on July 3, 2026 recommended disciplinary sanctions against MBK Partners"
+      - claim: Named institution — MBK Partners
+        kind: named_institution
+        value: MBK Partners
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "South Korea's FSS on July 3, 2026 recommended disciplinary sanctions against MBK Partners"
+      - claim: Named institution — FSC
+        kind: named_institution
+        value: FSC
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "Recommendation goes to FSC for enforcement"
+      - claim: Named institution — Homeplus Co.
+        kind: named_institution
+        value: Homeplus Co.
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "handling of Homeplus Co."
+      - claim: Named product — RCPS (redeemable convertible preferred shares)
+        kind: named_product
+        value: "redeemable convertible preferred shares (RCPS)"
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "altering redemption terms for Homeplus's redeemable convertible preferred shares (RCPS) around a credit downgrade"
+      - claim: MBK acquisition of Homeplus year
+        kind: temporal
+        value: "2015"
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "MBK acquired Homeplus from Tesco in 2015"
+      - claim: MBK acquisition price
+        kind: numerical_with_unit
+        value: "~$6 billion"
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "MBK acquired Homeplus from Tesco in 2015 for ~$6 billion"
+      - claim: Named institution — Tesco
+        kind: named_institution
+        value: Tesco
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "MBK acquired Homeplus from Tesco in 2015"
+      - claim: Maximum suspension duration
+        kind: temporal
+        value: "up to six months"
+        source_urls:
+          - https://www.koreaherald.com/article/10797429
+        verbatim_excerpt: "Sanctions escalate through institutional caution, warning, suspension (up to six months), dismissal recommendation"
+    quotes:
+      - speaker_name: MBK Partners
+        speaker_title: Private equity firm
+        verbatim_en: "a reasonable investment decision intended to improve its financial structure and preserve corporate valuation, thereby protecting investor interests."
+        source_url: https://www.koreaherald.com/article/10797429
+        context: MBK Partners response to FSS sanctions recommendation
+
+  - story_id: g-dragon-unesco-heritage-ambassador
+    category: other
+    headline_en: G-Dragon UNESCO
+    lead_url: https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+    body_source: full
+    corroborated_by:
+      - https://www.koreaherald.com/article/10796881
+    locked_urls:
+      - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+      - https://www.koreaherald.com/article/10796881
+    hard_facts:
+      - claim: Named person — G-Dragon (Kwon Ji-yong)
+        kind: named_person
+        value: "G-Dragon (Kwon Ji-yong)"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "K-pop musician G-Dragon (Kwon Ji-yong) appointed honorary ambassador"
+      - claim: UNESCO World Heritage Committee session number
+        kind: numerical
+        value: "48th"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "48th UNESCO World Heritage Committee session"
+      - claim: UNESCO session dates
+        kind: temporal
+        value: "July 19–29, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "48th UNESCO World Heritage Committee session (July 19–29, 2026, Busan)"
+      - claim: UNESCO session location
+        kind: named_institution
+        value: Busan
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "48th UNESCO World Heritage Committee session (July 19–29, 2026, Busan)"
+      - claim: Announcement date
+        kind: temporal
+        value: "July 3"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "Korea Heritage Service announced July 3"
+      - claim: Years since South Korea last hosted UNESCO committee
+        kind: numerical_with_unit
+        value: "38 years"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "first time South Korea hosted the committee in 38 years"
+      - claim: Campaign name
+        kind: named_product
+        value: "Heritage in Peace"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "Will support \"Heritage in Peace\" campaign (JusPeace Foundation + UNESCO)"
+      - claim: Named institution — JusPeace Foundation
+        kind: named_institution
+        value: JusPeace Foundation
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "\"Heritage in Peace\" campaign (JusPeace Foundation + UNESCO)"
+      - claim: Year G-Dragon donated music copyrights
+        kind: temporal
+        value: "2024"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "Donated his music copyrights in 2024 to establish JusPeace"
+      - claim: Prior G-Dragon ambassador role
+        kind: temporal
+        value: "2024 APEC summit in Gyeongju"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "Was honorary ambassador for 2024 APEC summit in Gyeongju"
+      - claim: Named institution — Korea Heritage Service
+        kind: named_institution
+        value: Korea Heritage Service
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "Korea Heritage Service announced July 3"
+      - claim: Named institution — UNESCO
+        kind: named_institution
+        value: UNESCO
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        verbatim_excerpt: "48th UNESCO World Heritage Committee session"
+    quotes:
+      - speaker_name: Korea Heritage Service
+        speaker_title: South Korean government heritage agency
+        verbatim_en: "an artist with global influence extending beyond K-pop."
+        source_url: https://www.koreatimes.co.kr/lifestyle/people-events/20260703/g-dragon-named-honorary-ambassador-for-unesco-heritage-committee-meeting-in-busan
+        context: July 3 2026 announcement of G-Dragon as honorary ambassador
+
+  - story_id: pope-leo-korean-peninsula-peace
+    category: other
+    headline_en: Pope Korean Peace
+    lead_url: https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+    hard_facts:
+      - claim: Named person — Cardinal You Heung-sik
+        kind: named_person
+        value: You Heung-sik
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        verbatim_excerpt: "Cardinal You Heung-sik reported July 3, 2026"
+      - claim: Report date
+        kind: temporal
+        value: "July 3, 2026"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        verbatim_excerpt: "Cardinal You Heung-sik reported July 3, 2026"
+      - claim: Named person — Pope Leo XIV
+        kind: named_person
+        value: Pope Leo XIV
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        verbatim_excerpt: "Pope Leo XIV is prepared to act for Korean Peninsula peace"
+      - claim: Named person — President Lee Jae Myung
+        kind: named_person
+        value: Lee Jae Myung
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        verbatim_excerpt: "President Lee Jae Myung's Vatican visit ~two weeks prior requesting a papal visit to North Korea"
+      - claim: President Lee's Vatican visit timing
+        kind: temporal
+        value: "~two weeks prior"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        verbatim_excerpt: "President Lee Jae Myung's Vatican visit ~two weeks prior requesting a papal visit to North Korea"
+      - claim: Seoul World Youth Day year
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        verbatim_excerpt: "Cooperation also around Seoul's 2027 World Youth Day"
+    quotes:
+      - speaker_name: You Heung-sik
+        speaker_title: Cardinal
+        verbatim_en: "has the will to be ready for anything for the sake of peace on the Korean Peninsula."
+        source_url: https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        context: July 3 2026 report on Pope Leo XIV and Korean Peninsula peace
+      - speaker_name: You Heung-sik
+        speaker_title: Cardinal
+        verbatim_en: "will depend entirely on what stances [North Korea] chooses to take"
+        source_url: https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        context: condition for papal visit to North Korea materialising
+      - speaker_name: You Heung-sik
+        speaker_title: Cardinal
+        verbatim_en: "Dialogue is stronger than confrontation, reconciliation stronger than hatred, and trust stronger than fear."
+        source_url: https://www.koreatimes.co.kr/lifestyle/others/20260703/pope-leo-ready-for-anything-for-peace-on-korean-peninsula-cardinal-you-says
+        context: Cardinal You Heung-sik on Korean Peninsula reconciliation
+
+  - story_id: korean-language-educators-conference
+    category: other
+    headline_en: Korean-Language Educators Conference
+    lead_url: https://www.koreaherald.com/article/10797528
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.koreaherald.com/article/10797528
+    hard_facts:
+      - claim: Conference edition number
+        kind: numerical
+        value: "24th"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "24th International Conference for Korean Language Educators Abroad"
+      - claim: Conference dates
+        kind: temporal
+        value: "June 29–July 4, 2026"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "convened June 29–July 4, 2026 at the National Assembly"
+      - claim: Conference venue
+        kind: named_institution
+        value: National Assembly
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "convened June 29–July 4, 2026 at the National Assembly"
+      - claim: Number of participants
+        kind: numerical
+        value: "117"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "117 participants from 44 countries"
+      - claim: Number of countries represented
+        kind: numerical
+        value: "44"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "117 participants from 44 countries"
+      - claim: Conference theme
+        kind: named_product
+        value: "Korean-language education in the era of artificial intelligence"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "theme \"Korean-language education in the era of artificial intelligence\""
+      - claim: Report date
+        kind: temporal
+        value: "July 3"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "Korea Herald reported July 3"
+      - claim: Number of educators receiving commendations
+        kind: numerical
+        value: "Five"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "Five educators received ministerial commendations"
+      - claim: Countries of commended educators
+        kind: named_institution
+        value: "Bulgaria, US, Colombia, China"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "Five educators received ministerial commendations (Bulgaria, US, Colombia, China)"
+      - claim: Named person — Asya Antova
+        kind: named_person
+        value: Asya Antova
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "Bulgaria's Asya Antova: \"our school has the biggest Korean-language program in Europe\""
+      - claim: Number of Korean-language students at Antova's school
+        kind: numerical_with_unit
+        value: "400+"
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "\"our school has the biggest Korean-language program in Europe\" (400+ students)"
+      - claim: Named person — Education Minister Choi Kyo-jin
+        kind: named_person
+        value: Choi Kyo-jin
+        source_urls:
+          - https://www.koreaherald.com/article/10797528
+        verbatim_excerpt: "Education Minister Choi Kyo-jin stressed international educator involvement"
+    quotes:
+      - speaker_name: Asya Antova
+        speaker_title: Korean-language educator, Bulgaria
+        verbatim_en: "our school has the biggest Korean-language program in Europe"
+        source_url: https://www.koreaherald.com/article/10797528
+        context: statement at 24th International Conference for Korean Language Educators Abroad
+      - speaker_name: Choi Kyo-jin
+        speaker_title: Education Minister
+        verbatim_en: "International educator involvement is essential for expanding Korean-language education globally."
+        source_url: https://www.koreaherald.com/article/10797528
+        context: statement at 24th International Conference for Korean Language Educators Abroad
