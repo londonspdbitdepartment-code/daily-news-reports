@@ -26,11 +26,13 @@ The European Central Bank published the euro area quarterly balance of payments 
 
 The retreat came almost entirely from trade. The goods surplus contracted from €344 billion to €313 billion, and the services surplus declined from €169 billion to €149 billion. Income flows barely moved, with the primary income surplus edging from €11 billion to €10 billion, while the secondary income deficit, which captures transfers such as remittances and EU budget contributions, widened from €171 billion to €197 billion.
 
-The bilateral breakdown underscored the eurozone's shifting trade map. Its largest surplus was recorded with the United Kingdom at €236 billion; its largest deficit was with China at €170 billion. On the stock side, the eurozone's net external assets rose to €1.80 trillion, or 11.2% of GDP, an increase of €147 billion from the €1.65 trillion booked in Q4 2025, while gross external debt reached €17.53 trillion, equivalent to 109% of eurozone GDP.
+The bilateral breakdown underscored the eurozone's shifting trade map. Its largest surplus was recorded with the United Kingdom at €236 billion, up from €217 billion a year earlier, while its largest deficit was with China at €170 billion. On the stock side, the eurozone's net external assets rose to €1.80 trillion, or 11.2% of GDP, an increase of €147 billion from the €1.65 trillion booked in Q4 2025, while gross external debt reached €17.53 trillion, equivalent to 109% of eurozone GDP.
 
 **References**
 
 [4] European Central Bank. (2026, July 3). Euro area quarterly balance of payments and international investment position: first quarter of 2026. ECB. https://www.ecb.europa.eu/press/stats/bop/2026/html/ecb.bq260703~7d2888b3ee.en.html
+
+[5] European Central Bank. (2026). Balance of payments and international investment position. ECB. https://www.ecb.europa.eu/stats/balance_of_payments_and_external/balance_of_payments/html/index.en.html
 
 ---
 
@@ -44,9 +46,9 @@ A separate Eurostat release the same day put the EU's seasonally adjusted curren
 
 **References**
 
-[5] Eurostat. (2026, July 3). Quarterly sector accounts: household saving rate and corporate profit share, first quarter 2026. European Commission. https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-03072026-ap
+[6] Eurostat. (2026, July 3). Quarterly sector accounts: household saving rate and corporate profit share, first quarter 2026. European Commission. https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-03072026-ap
 
-[6] Eurostat. (2026, July 3). Euro area and EU current account, first quarter 2026. European Commission. https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-03072026-bp
+[7] Eurostat. (2026, July 3). Euro area and EU current account, first quarter 2026. European Commission. https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-03072026-bp
 
 ---
 
@@ -60,9 +62,9 @@ The rewrite incorporates technical advice from EFRAG, the Commission's standards
 
 **References**
 
-[7] European Commission. (2026, July 3). Commission adopts revised sustainability reporting standards to reduce administrative burdens in the EU. European Commission. https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-reduce-administrative-burdens-eu-2026-07-03_en
+[8] European Commission. (2026, July 3). Commission adopts revised sustainability reporting standards to reduce administrative burdens in the EU. European Commission. https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-reduce-administrative-burdens-eu-2026-07-03_en
 
-[8] Council of the European Union. (2026, February 24). Council signs off simplification of sustainability reporting and due diligence requirements to boost EU competitiveness. Consilium. https://www.consilium.europa.eu/en/press/press-releases/2026/02/24/council-signs-off-simplification-of-sustainability-reporting-and-due-diligence-requirements-to-boost-eu-competitiveness/
+[9] Council of the European Union. (2026, February 24). Council signs off simplification of sustainability reporting and due diligence requirements to boost EU competitiveness. Consilium. https://www.consilium.europa.eu/en/press/press-releases/2026/02/24/council-signs-off-simplification-of-sustainability-reporting-and-due-diligence-requirements-to-boost-eu-competitiveness/
 
 ---
 
@@ -78,15 +80,15 @@ The stakes run beyond one cabinet. Moldova's EU accession process was formally l
 
 **References**
 
-[9] Al Jazeera. (2026, July 3). Moldova's prime minister quits, triggering government's resignation. Al Jazeera. https://www.aljazeera.com/news/2026/7/3/moldovas-prime-minister-quits-triggering-governments-resignation
+[10] Al Jazeera. (2026, July 3). Moldova's prime minister quits, triggering government's resignation. Al Jazeera. https://www.aljazeera.com/news/2026/7/3/moldovas-prime-minister-quits-triggering-governments-resignation
 
-[10] Euronews. (2026, July 3). Moldovan prime minister Alexandru Munteanu resigns after eight months in office. Euronews. https://www.euronews.com/my-europe/2026/07/03/moldovan-prime-minister-alexandru-munteanu-resigns-after-eight-months-in-office
+[11] Euronews. (2026, July 3). Moldovan prime minister Alexandru Munteanu resigns after eight months in office. Euronews. https://www.euronews.com/my-europe/2026/07/03/moldovan-prime-minister-alexandru-munteanu-resigns-after-eight-months-in-office
 
-[11] Washington Post. (2026, July 3). Moldova's prime minister resigns, collapsing pro-EU government. Washington Post. https://www.washingtonpost.com/world/2026/07/03/moldova-prime-minister-resignation-alexandru-munteanu-sandu/821484b6-76bf-11f1-b665-5f8be87f3787_story.html
+[12] Washington Post. (2026, July 3). Moldova's prime minister resigns, collapsing pro-EU government. Washington Post. https://www.washingtonpost.com/world/2026/07/03/moldova-prime-minister-resignation-alexandru-munteanu-sandu/821484b6-76bf-11f1-b665-5f8be87f3787_story.html
 
-[12] Balkan Insight. (2026, July 3). Moldova PM steps down abruptly as corruption scandals unfold. Balkan Insight. https://balkaninsight.com/2026/07/03/moldova-pm-steps-down-abruptly-as-corruption-scandals-unfold/bi/
+[13] Balkan Insight. (2026, July 3). Moldova PM steps down abruptly as corruption scandals unfold. Balkan Insight. https://balkaninsight.com/2026/07/03/moldova-pm-steps-down-abruptly-as-corruption-scandals-unfold/bi/
 
-[13] Atlantic Council. (2025, September 29). Moldova's pro-EU ruling party won despite Russian interference. Now what? Atlantic Council. https://www.atlanticcouncil.org/content-series/fastthinking/moldovas-pro-eu-ruling-party-won-despite-russian-interference-now-what/
+[14] Atlantic Council. (2025, September 29). Moldova's pro-EU ruling party won despite Russian interference. Now what? Atlantic Council. https://www.atlanticcouncil.org/content-series/fastthinking/moldovas-pro-eu-ruling-party-won-despite-russian-interference-now-what/
 
 ---
 
@@ -98,13 +100,13 @@ The target no longer formally exists. ID has dissolved and reconstituted as "Pat
 
 **References**
 
-[14] Euronews. (2026, July 3). Following the money: the EPPO investigation into the defunct far-right EU group. Euronews. https://www.euronews.com/my-europe/2026/07/03/watch-following-the-moneythe-eppo-investigation-into-defunct-far-right-eu-group
+[15] Euronews. (2026, July 3). Following the money: the EPPO investigation into the defunct far-right EU group. Euronews. https://www.euronews.com/my-europe/2026/07/03/watch-following-the-moneythe-eppo-investigation-into-defunct-far-right-eu-group
 
-[15] Brussels Signal. (2026, July 3). Raids in Europe over alleged embezzlement, RN is targeted. Brussels Signal. https://brusselssignal.eu/2026/07/raids-in-europe-over-alleged-embezzlement-rn-is-targeted/
+[16] Brussels Signal. (2026, July 3). Raids in Europe over alleged embezzlement, RN is targeted. Brussels Signal. https://brusselssignal.eu/2026/07/raids-in-europe-over-alleged-embezzlement-rn-is-targeted/
 
-[16] The Journal. (2026, July 3). EU prosecutors conduct raids in four countries over alleged misappropriation of funds by far right. The Journal. https://www.thejournal.ie/eu-prosecutors-conduct-raids-in-four-countries-over-alleged-misappropriation-of-funds-by-far-right-7086570-Jun2026/
+[17] The Journal. (2026, July 3). EU prosecutors conduct raids in four countries over alleged misappropriation of funds by far right. The Journal. https://www.thejournal.ie/eu-prosecutors-conduct-raids-in-four-countries-over-alleged-misappropriation-of-funds-by-far-right-7086570-Jun2026/
 
-[17] PBS News. (2025, March 31). 4 things to know about Marine Le Pen's embezzlement sentence and the political impact. PBS. https://www.pbs.org/newshour/world/4-things-to-know-about-marine-le-pens-embezzlement-sentence-and-the-political-impact
+[18] PBS News. (2025, March 31). 4 things to know about Marine Le Pen's embezzlement sentence and the political impact. PBS. https://www.pbs.org/newshour/world/4-things-to-know-about-marine-le-pens-embezzlement-sentence-and-the-political-impact
 
 ---
 
@@ -122,9 +124,9 @@ The findings feed a live argument in Brussels over whether Europe's caution come
 
 **References**
 
-[18] Euronews. (2026, July 3). Data protection rules slow LLM rollout in Europe, study says. Euronews. https://www.euronews.com/next/2026/07/03/data-protection-rules-slow-llm-rollout-in-europe-study-says
+[19] Euronews. (2026, July 3). Data protection rules slow LLM rollout in Europe, study says. Euronews. https://www.euronews.com/next/2026/07/03/data-protection-rules-slow-llm-rollout-in-europe-study-says
 
-[19] Crypto Briefing. (2026, July 3). EU GDPR delays LLM releases, study finds. Crypto Briefing. https://cryptobriefing.com/eu-gdpr-delays-llm-releases-defense/
+[20] Crypto Briefing. (2026, July 3). EU GDPR delays LLM releases, study finds. Crypto Briefing. https://cryptobriefing.com/eu-gdpr-delays-llm-releases-defense/
 
 ---
 
@@ -138,11 +140,11 @@ Citizen Lab found no evidence attributing the attack to the Greek government, an
 
 **References**
 
-[20] Scott-Railton, J., & Marczak, B. (2026, July 3). Espionage against the European Parliament: member of committee investigating spyware hacked with Pegasus. Citizen Lab, University of Toronto. https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/
+[21] Scott-Railton, J., & Marczak, B. (2026, July 3). Espionage against the European Parliament: member of committee investigating spyware hacked with Pegasus. Citizen Lab, University of Toronto. https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/
 
-[21] Al Jazeera. (2026, July 3). EU lawmaker investigating surveillance hacked by Israeli spyware, report says. Al Jazeera. https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says
+[22] Al Jazeera. (2026, July 3). EU lawmaker investigating surveillance hacked by Israeli spyware, report says. Al Jazeera. https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says
 
-[22] The Record. (2026, July 3). Spyware found on phone of European Parliament member probing it. The Record. https://therecord.media/pegasus-spyware-european-parliament-pega-committee-member
+[23] The Record. (2026, July 3). Spyware found on phone of European Parliament member probing it. The Record. https://therecord.media/pegasus-spyware-european-parliament-pega-committee-member
 
 ---
 
@@ -160,9 +162,9 @@ The scale of the loss has spilled into politics. French opposition figures filed
 
 **References**
 
-[23] Euronews. (2026, July 3). Heatwave leaves Europe with thousands of excess deaths. Euronews. https://www.euronews.com/health/2026/07/03/heatwave-leaves-europe-with-thousands-of-excess-deaths
+[24] Euronews. (2026, July 3). Heatwave leaves Europe with thousands of excess deaths. Euronews. https://www.euronews.com/health/2026/07/03/heatwave-leaves-europe-with-thousands-of-excess-deaths
 
-[24] The Week. (2026, July 1). More than 1,000 dead in destructive heatwave in Europe as roads and traffic signs melt. The Week. https://www.theweek.in/news/world/2026/07/01/more-than-1000-dead-in-destructive-heatwave-in-europe-roads-traffic-signs-melt-temperature-soars.html
+[25] The Week. (2026, July 1). More than 1,000 dead in destructive heatwave in Europe as roads and traffic signs melt. The Week. https://www.theweek.in/news/world/2026/07/01/more-than-1000-dead-in-destructive-heatwave-in-europe-roads-traffic-signs-melt-temperature-soars.html
 
 ---
 
@@ -176,9 +178,9 @@ The data lands three weeks after the New Pact on Migration and Asylum entered in
 
 **References**
 
-[25] Eurostat. (2026, July 3). Dublin statistics on countries responsible for asylum applications, 2025. European Commission. https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260703-1
+[26] Eurostat. (2026, July 3). Dublin statistics on countries responsible for asylum applications, 2025. European Commission. https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260703-1
 
-[26] European Commission. (2026, June 12). New migration and asylum rules enter into application: what is changing? Migration and Home Affairs. https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
+[27] European Commission. (2026, June 12). New migration and asylum rules enter into application: what is changing? Migration and Home Affairs. https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
 
 ---
 
@@ -192,9 +194,9 @@ The mortality trend runs in the same direction. The Lancet Countdown Europe's 20
 
 **References**
 
-[27] Al Jazeera. (2026, July 3). Are Europe's extreme summers the new normal? What the science says. Al Jazeera. https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says
+[28] Al Jazeera. (2026, July 3). Are Europe's extreme summers the new normal? What the science says. Al Jazeera. https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says
 
-[28] World Weather Attribution. (2026). Fossil fuel emissions have rapidly worsened European heatwaves in just a few decades. World Weather Attribution. https://www.worldweatherattribution.org/fossil-fuel-emissions-have-rapidly-worsened-european-heatwaves-in-just-a-few-decades/
+[29] World Weather Attribution. (2026). Fossil fuel emissions have rapidly worsened European heatwaves in just a few decades. World Weather Attribution. https://www.worldweatherattribution.org/fossil-fuel-emissions-have-rapidly-worsened-european-heatwaves-in-just-a-few-decades/
 
 ---
 
@@ -204,11 +206,13 @@ The mortality trend runs in the same direction. The Lancet Countdown Europe's 20
 
 European private equity deal value across sub-regions reached €319.7 billion in the first half of 2026, an 8.6% increase from €294.4 billion in the equivalent prior-year period, according to PitchBook data cited on 3 July 2026. The rise came even as the number of transactions fell 4.5%, from 4,399 to 4,202 — fewer deals, but bigger ones. Average deal size rose to approximately €76.1 million from €66.9 million, pointing to firms concentrating capital in larger, more defensible targets.
 
-That pattern held despite genuine headwinds, including Middle East conflict and higher energy costs. Rather than retreat, sponsors adopted a more cautious stance, syndicating risk and consolidating existing positions — spreading exposure across co-investors and building on companies they already own rather than chasing new platforms. The result is a market putting more money to work through steadier, larger commitments.
+That pattern held despite genuine headwinds, including Middle East conflict and higher energy costs. Rather than retreat, sponsors adopted a more cautious stance, syndicating risk and consolidating existing positions — spreading exposure across co-investors and building on companies they already own rather than chasing new platforms. PitchBook's own data shows the caution running deeper still, with add-ons reaching a decade-high 71.4% of buyout deal count. The result is a market putting more money to work through steadier, larger commitments.
 
 **References**
 
-[29] Chesnokova, S. (2026, July 3). European private equity deal value hit €319.7B in H1 2026, but the number of deals fell — here's why. Tech Funding News. https://techfundingnews.com/european-private-equity-deal-value-hit-e319-7b-in-h1-2026-but-the-number-of-deals-fell-heres-why/
+[30] Chesnokova, S. (2026, July 3). European private equity deal value hit €319.7B in H1 2026, but the number of deals fell — here's why. Tech Funding News. https://techfundingnews.com/european-private-equity-deal-value-hit-e319-7b-in-h1-2026-but-the-number-of-deals-fell-heres-why/
+
+[31] PitchBook. (2026). Surge in add-ons and club deals signal investor caution in Europe. PitchBook. https://pitchbook.com/news/articles/surge-in-add-ons-and-club-deals-signal-investor-caution-in-europe
 
 ---
 
@@ -226,7 +230,7 @@ The strikes follow the deadliest Russian air strike on Kyiv this year, which kil
 
 **References**
 
-[30] Al Jazeera. (2026, July 3). Russia's triumphant tone shifts as Ukraine deploys asymmetrical tactics. Al Jazeera. https://www.aljazeera.com/news/2026/7/3/russias-triumphant-tone-shifts-as-ukraine-deploys-asymmetrical-tactics
+[32] Al Jazeera. (2026, July 3). Russia's triumphant tone shifts as Ukraine deploys asymmetrical tactics. Al Jazeera. https://www.aljazeera.com/news/2026/7/3/russias-triumphant-tone-shifts-as-ukraine-deploys-asymmetrical-tactics
 
 ---
 
@@ -238,8 +242,8 @@ The DFB's preferred successor is Jürgen Klopp, 59, the former Liverpool, Dortmu
 
 **References**
 
-[31] Al Jazeera. (2026, July 3). Nagelsmann steps down as Germany coach after World Cup Round of 32 exit to Paraguay. Al Jazeera. https://www.aljazeera.com/sports/2026/7/3/nagelsmann-steps-down-germany-coach-klopp-paraguay-world-cup-round-of-32
+[33] Al Jazeera. (2026, July 3). Nagelsmann steps down as Germany coach after World Cup Round of 32 exit to Paraguay. Al Jazeera. https://www.aljazeera.com/sports/2026/7/3/nagelsmann-steps-down-germany-coach-klopp-paraguay-world-cup-round-of-32
 
-[32] ANI News. (2026, July 3). FIFA World Cup 2026: Coach Julian Nagelsmann resigns after Germany's shock R32 exit. ANI News. https://www.aninews.in/news/sports/football/fifa-world-cup-2026-coach-julian-nagelsmann-resigns-after-germanys-shock-r32-exit20260703112728/
+[34] ANI News. (2026, July 3). FIFA World Cup 2026: Coach Julian Nagelsmann resigns after Germany's shock R32 exit. ANI News. https://www.aninews.in/news/sports/football/fifa-world-cup-2026-coach-julian-nagelsmann-resigns-after-germanys-shock-r32-exit20260703112728/
 
 ---
