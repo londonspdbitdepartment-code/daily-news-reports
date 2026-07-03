@@ -1,0 +1,1529 @@
+version: 1
+generated_at: "2026-07-03T12:00:00Z"
+country: United States
+date: "2026-07-03"
+total_stories: 16
+stories:
+  - story_id: us-june-2026-jobs-report-bls
+    category: econ
+    headline_en: US June 2026 jobs report (BLS official release)
+    lead_url: https://www.bls.gov/news.release/empsit.nr0.htm
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.bls.gov/news.release/empsit.nr0.htm
+    hard_facts:
+      - claim: nonfarm payroll change June 2026
+        kind: numerical_with_unit
+        value: "+57,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Nonfarm payrolls +57,000 in June 2026"
+      - claim: unemployment rate June 2026
+        kind: numerical_with_unit
+        value: "4.2%"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "unemployment 4.2% (down from 4.3%)"
+      - claim: unemployment rate prior month
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "unemployment 4.2% (down from 4.3%)"
+      - claim: professional and business services job change
+        kind: numerical_with_unit
+        value: "+36,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Professional & business services +36,000"
+      - claim: social assistance job change
+        kind: numerical_with_unit
+        value: "+25,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "social assistance +25,000"
+      - claim: health care job change
+        kind: numerical_with_unit
+        value: "+22,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "health care +22,000"
+      - claim: leisure and hospitality job change
+        kind: numerical_with_unit
+        value: "-61,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "leisure & hospitality -61,000"
+      - claim: government job change
+        kind: numerical_with_unit
+        value: "+8,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "government +8,000"
+      - claim: April payrolls original vs revised
+        kind: numerical_with_unit
+        value: "179,000→148,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "April revised down 31,000 (179,000→148,000)"
+      - claim: April payroll revision amount
+        kind: numerical_with_unit
+        value: "31,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "April revised down 31,000 (179,000→148,000)"
+      - claim: May payrolls original vs revised
+        kind: numerical_with_unit
+        value: "172,000→129,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "May revised down 43,000 (172,000→129,000)"
+      - claim: May payroll revision amount
+        kind: numerical_with_unit
+        value: "43,000"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "May revised down 43,000 (172,000→129,000)"
+      - claim: average hourly earnings change in cents
+        kind: numerical_with_unit
+        value: "+13 cents"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Average hourly earnings +13 cents / +0.3% to $37.64"
+      - claim: average hourly earnings month-over-month change
+        kind: numerical_with_unit
+        value: "+0.3%"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Average hourly earnings +13 cents / +0.3% to $37.64"
+      - claim: average hourly earnings level
+        kind: numerical_with_unit
+        value: "$37.64"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Average hourly earnings +13 cents / +0.3% to $37.64"
+      - claim: average hourly earnings year-over-year change
+        kind: numerical_with_unit
+        value: "+3.5%"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "+3.5% over 12 months"
+      - claim: labor force participation rate change
+        kind: numerical_with_unit
+        value: "-0.3 ppt"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Labor force participation -0.3 ppt to 61.5%"
+      - claim: labor force participation rate level
+        kind: numerical_with_unit
+        value: "61.5%"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Labor force participation -0.3 ppt to 61.5%"
+      - claim: report publish date (early due to holiday)
+        kind: temporal
+        value: "2026-07-02"
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Released one day early due to July 4 holiday"
+      - claim: Acting Secretary of Labor
+        kind: named_person
+        value: Sonderling
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "Acting Secretary of Labor Sonderling issued a statement"
+      - claim: reporting agency
+        kind: named_institution
+        value: U.S. Bureau of Labor Statistics
+        source_urls: [https://www.bls.gov/news.release/empsit.nr0.htm]
+        verbatim_excerpt: "U.S. Bureau of Labor Statistics"
+    quotes: []
+
+  - story_id: weak-june-jobs-fed-pause-expectations
+    category: econ
+    headline_en: Weak June jobs growth and easing oil reinforce Fed pause expectations
+    lead_url: https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.bls.gov/news.release/empsit.nr0.htm
+      - https://www.bloomberg.com/news/articles/2026-07-02/us-jobs-report-june-2026-key-takeaways-on-employment-payrolls
+    locked_urls:
+      - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+      - https://www.bls.gov/news.release/empsit.nr0.htm
+      - https://www.bloomberg.com/news/articles/2026-07-02/us-jobs-report-june-2026-key-takeaways-on-employment-payrolls
+    hard_facts:
+      - claim: June payrolls actual
+        kind: numerical_with_unit
+        value: "+57,000"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "+57,000 payrolls vs Dow Jones consensus 115,000"
+      - claim: Dow Jones consensus forecast for June payrolls
+        kind: numerical_with_unit
+        value: "115,000"
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "+57,000 payrolls vs Dow Jones consensus 115,000"
+      - claim: May payrolls revised
+        kind: numerical_with_unit
+        value: "+129,000"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "May revised to +129,000"
+      - claim: unemployment rate June 2026
+        kind: numerical_with_unit
+        value: "4.2%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Unemployment 4.2% from 4.3%"
+      - claim: unemployment rate prior month
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Unemployment 4.2% from 4.3%"
+      - claim: labor force participation rate change
+        kind: numerical_with_unit
+        value: "-0.3 ppt"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "participation -0.3 ppt to 61.5%, lowest since March 2021"
+      - claim: labor force participation rate level
+        kind: numerical_with_unit
+        value: "61.5%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "participation -0.3 ppt to 61.5%, lowest since March 2021"
+      - claim: participation rate historical low reference
+        kind: temporal
+        value: lowest since March 2021
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "participation -0.3 ppt to 61.5%, lowest since March 2021"
+      - claim: leisure and hospitality job change
+        kind: numerical_with_unit
+        value: "-61,000"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Leisure & hospitality -61,000"
+      - claim: professional and business services job change
+        kind: numerical_with_unit
+        value: "+36,000"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "professional & business services +36,000"
+      - claim: social assistance job change
+        kind: numerical_with_unit
+        value: "+25,000"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "social assistance +25,000"
+      - claim: healthcare job change
+        kind: numerical_with_unit
+        value: "+22,000"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "healthcare +22,000"
+      - claim: average hourly earnings change in cents
+        kind: numerical_with_unit
+        value: "+13 cents"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Avg hourly earnings +13 cents / +0.3% to $37.64"
+      - claim: average hourly earnings month-over-month change
+        kind: numerical_with_unit
+        value: "+0.3%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Avg hourly earnings +13 cents / +0.3% to $37.64"
+      - claim: average hourly earnings level
+        kind: numerical_with_unit
+        value: "$37.64"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "Avg hourly earnings +13 cents / +0.3% to $37.64"
+      - claim: average hourly earnings year-over-year change
+        kind: numerical_with_unit
+        value: "+3.5% y/y"
+        source_urls:
+          - https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+          - https://www.bls.gov/news.release/empsit.nr0.htm
+        verbatim_excerpt: "+3.5% y/y"
+      - claim: 2-year Treasury yield change
+        kind: numerical_with_unit
+        value: "-2 bps"
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "2-year Treasury yield -2 bps to 4.137%"
+      - claim: 2-year Treasury yield level
+        kind: numerical_with_unit
+        value: "4.137%"
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "2-year Treasury yield -2 bps to 4.137%"
+      - claim: 10-year Treasury yield change
+        kind: numerical_with_unit
+        value: "+1 bp"
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "10-year +1 bp to 4.485%"
+      - claim: 10-year Treasury yield level
+        kind: numerical_with_unit
+        value: "4.485%"
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "10-year +1 bp to 4.485%"
+      - claim: oil price
+        kind: numerical_with_unit
+        value: "$67.20"
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "Oil $67.20"
+      - claim: Fed Chair identity
+        kind: named_person
+        value: Kevin Warsh
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "Fed Chair Kevin Warsh previously said prices 'too high'"
+      - claim: Ian Lyngen affiliation
+        kind: named_institution
+        value: Strategas
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "Ian Lyngen, Strategas"
+      - claim: UOB forecast period
+        kind: temporal
+        value: through 2026 before the Fed resumes easing in 2027
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "We expect an extended period of policy pause through 2026 before the Fed resumes easing in 2027"
+      - claim: UOB institution
+        kind: named_institution
+        value: UOB
+        source_urls: [https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html]
+        verbatim_excerpt: "UOB — 'We expect an extended period of policy pause through 2026 before the Fed resumes easing in 2027.'"
+    quotes:
+      - speaker_name: Ian Lyngen
+        speaker_title: Analyst, Strategas
+        verbatim_en: "Overall, this morning's data makes it difficult to envision a path toward a July Fed hike."
+        source_url: https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+        context: commentary on June 2026 jobs report, July 3 2026
+      - speaker_name: Kevin Warsh
+        speaker_title: Chair, Federal Reserve
+        verbatim_en: "too high"
+        source_url: https://www.cnbc.com/2026/07/03/fed-rate-hikes-unlikely-weaker-us-jobs-data-oil-prices.html
+        context: prior statement on prices
+
+  - story_id: us-eu-trade-deal-usmca-not-renewed
+    category: econ
+    headline_en: US-EU trade deal implemented July 1; USMCA not renewed
+    lead_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html
+      - https://www.bloomberg.com/news/articles/2026-07-01/us-decides-against-renewing-usmca-shifting-to-rolling-talks
+    locked_urls:
+      - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review
+      - https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html
+      - https://www.bloomberg.com/news/articles/2026-07-01/us-decides-against-renewing-usmca-shifting-to-rolling-talks
+    hard_facts:
+      - claim: USMCA Free Trade Commission meeting date
+        kind: temporal
+        value: July 1, 2026
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "USMCA Free Trade Commission met virtually July 1, 2026 (six-year joint review)"
+      - claim: USMCA review type
+        kind: temporal
+        value: six-year joint review
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "USMCA Free Trade Commission met virtually July 1, 2026 (six-year joint review)"
+      - claim: USTR Ambassador identity
+        kind: named_person
+        value: Jamieson Greer
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "USTR Ambassador Jamieson Greer declined to renew"
+      - claim: USMCA article governing annual reviews
+        kind: named_product
+        value: Article 34.7.4
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "Annual reviews under Article 34.7.4"
+      - claim: bilateral talks with Mexico date
+        kind: temporal
+        value: week of July 20
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "Bilateral talks with Mexico week of July 20"
+      - claim: Canada and Mexico extension sought
+        kind: temporal
+        value: 16-year extension to 2042
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review
+          - https://www.bloomberg.com/news/articles/2026-07-01/us-decides-against-renewing-usmca-shifting-to-rolling-talks
+        verbatim_excerpt: "Canada and Mexico sought 16-year extension to 2042"
+      - claim: EU trade deal implementation date
+        kind: temporal
+        value: July 1
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review
+          - https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html
+        verbatim_excerpt: "EU implemented US trade deal from July 1"
+      - claim: Turnberry agreement tariff on EU exports
+        kind: numerical_with_unit
+        value: "15%"
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "Turnberry agreement set 15% tariff on most EU exports"
+      - claim: EU commitment to buy American energy
+        kind: numerical_with_unit
+        value: "$750 billion"
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "EU to buy $750 billion in American energy"
+      - claim: Section 122 global surcharge range
+        kind: numerical_with_unit
+        value: "10-15%"
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "Section 122 global surcharge (10-15%, imposed Feb 24, 2026)"
+      - claim: Section 122 surcharge imposition date
+        kind: temporal
+        value: Feb 24, 2026
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "Section 122 global surcharge (10-15%, imposed Feb 24, 2026)"
+      - claim: Section 122 surcharge expiry date
+        kind: temporal
+        value: July 24, 2026
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "expires July 24, 2026 unless Congress extends"
+      - claim: Turnberry agreement name
+        kind: named_product
+        value: Turnberry agreement
+        source_urls: [https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review]
+        verbatim_excerpt: "Turnberry agreement set 15% tariff on most EU exports"
+    quotes:
+      - speaker_name: Jamieson Greer
+        speaker_title: USTR Ambassador
+        verbatim_en: "The United States did not agree to renew the USMCA in its current form. As a result, the USMCA is not renewed."
+        source_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-usmca-joint-review
+        context: statement on USMCA joint review, July 1, 2026
+
+  - story_id: us-iran-peace-talks-paused-khamenei-funeral
+    category: politics
+    headline_en: US-Iran peace talks paused for Khamenei funeral
+    lead_url: https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/
+    body_source: full
+    corroborated_by:
+      - https://www.nbcnews.com/world/iran/iran-funeral-supreme-leader-khamenei-rcna352664
+      - https://www.upi.com/Top_News/World-News/2026/07/02/iran-prepares-for-khamenei-funeral/4221783009620/
+    locked_urls:
+      - https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/
+      - https://www.nbcnews.com/world/iran/iran-funeral-supreme-leader-khamenei-rcna352664
+      - https://www.upi.com/Top_News/World-News/2026/07/02/iran-prepares-for-khamenei-funeral/4221783009620/
+    hard_facts:
+      - claim: Ayatollah Khamenei casket arrival date
+        kind: temporal
+        value: Friday July 3, 2026
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "Ayatollah Ali Khamenei's casket arrived at Tehran's Grand Mosalla Friday July 3, 2026"
+      - claim: Khamenei's death cause and date
+        kind: temporal
+        value: Feb 28, 2026
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "Khamenei killed in airstrike opening hours of US-Israeli war on Iran Feb 28, 2026"
+      - claim: ceremonies mourner estimate
+        kind: numerical_with_unit
+        value: "15-20 million"
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "Ceremonies expected to draw 15-20 million mourners across five cities"
+      - claim: ceremony end date
+        kind: temporal
+        value: through July 9
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "through July 9, burial in Mashhad"
+      - claim: burial location
+        kind: named_institution
+        value: Mashhad
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "through July 9, burial in Mashhad"
+      - claim: Iranian Revolutionary Guard head
+        kind: named_person
+        value: General Ahmad Vahidi
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "General Ahmad Vahidi, head of Iran's Revolutionary Guard, attended"
+      - claim: 60-day window start date
+        kind: temporal
+        value: June 17
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "60-day window began June 17 with Islamabad Memorandum"
+      - claim: memorandum name
+        kind: named_product
+        value: Islamabad Memorandum
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "60-day window began June 17 with Islamabad Memorandum"
+      - claim: ceasefire signed date
+        kind: temporal
+        value: June 17
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "Ceasefire signed June 17 declared 'permanent termination of military operations on all fronts'"
+      - claim: Ayatollah Khamenei identity
+        kind: named_person
+        value: Ayatollah Ali Khamenei
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "Ayatollah Ali Khamenei's casket arrived at Tehran's Grand Mosalla"
+      - claim: ceremony venue
+        kind: named_institution
+        value: Tehran's Grand Mosalla
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "Ayatollah Ali Khamenei's casket arrived at Tehran's Grand Mosalla"
+      - claim: byline authors
+        kind: named_person
+        value: Frank Andrews
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "Byline: Frank Andrews (with Khaled Wassef)"
+      - claim: number of mourner cities
+        kind: numerical
+        value: "five"
+        source_urls: [https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/]
+        verbatim_excerpt: "15-20 million mourners across five cities"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President, United States
+        verbatim_en: "The denuclearization of Iran is moving along well."
+        source_url: https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/
+        context: Wednesday statement, July 2026
+
+  - story_id: iran-warns-oil-tankers-strait-of-hormuz
+    category: politics
+    headline_en: Iran warns oil tankers in Strait of Hormuz
+    lead_url: https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039
+    body_source: full
+    corroborated_by:
+      - https://www.pbs.org/newshour/world/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-forceful-response
+      - https://thehill.com/policy/international/5950982-iran-warning-strait-of-hormuz-routes/
+    locked_urls:
+      - https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039
+      - https://www.pbs.org/newshour/world/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-forceful-response
+      - https://thehill.com/policy/international/5950982-iran-warning-strait-of-hormuz-routes/
+    hard_facts:
+      - claim: warning date
+        kind: temporal
+        value: Thursday July 3, 2026
+        source_urls:
+          - https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039
+          - https://www.pbs.org/newshour/world/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-forceful-response
+        verbatim_excerpt: "Iran's joint military command (Khatam al-Anbiya) warned Thursday July 3, 2026"
+      - claim: Iranian military command identity
+        kind: named_institution
+        value: Khatam al-Anbiya
+        source_urls: [https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039]
+        verbatim_excerpt: "Iran's joint military command (Khatam al-Anbiya) warned Thursday July 3, 2026"
+      - claim: interim agreement toll-free passage duration
+        kind: temporal
+        value: 60 days
+        source_urls: [https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039]
+        verbatim_excerpt: "Interim agreement allows 60 days toll-free passage"
+      - claim: ship traffic prior week
+        kind: numerical_with_unit
+        value: "258 vessels"
+        source_urls: [https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039]
+        verbatim_excerpt: "Ship traffic: 258 vessels prior week, up from 138, below pre-war ~130 daily"
+      - claim: ship traffic prior period comparison
+        kind: numerical_with_unit
+        value: "138"
+        source_urls: [https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039]
+        verbatim_excerpt: "Ship traffic: 258 vessels prior week, up from 138, below pre-war ~130 daily"
+      - claim: pre-war ship traffic level
+        kind: numerical_with_unit
+        value: "~130 daily"
+        source_urls: [https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039]
+        verbatim_excerpt: "Ship traffic: 258 vessels prior week, up from 138, below pre-war ~130 daily"
+      - claim: Iranian attacks on deviating vessels dates
+        kind: temporal
+        value: June 25 and 27
+        source_urls: [https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039]
+        verbatim_excerpt: "Iranian attacks June 25 and 27 targeted deviating vessels"
+      - claim: AP wire reporter (Jon Gambrell)
+        kind: named_person
+        value: Jon Gambrell
+        source_urls: [https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039]
+        verbatim_excerpt: "Jon Gambrell & David McHugh"
+      - claim: AP wire reporter (David McHugh)
+        kind: named_person
+        value: David McHugh
+        source_urls: [https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039]
+        verbatim_excerpt: "Jon Gambrell & David McHugh"
+    quotes:
+      - speaker_name: Khatam al-Anbiya (Iran joint military command)
+        speaker_title: Iran Joint Military Command
+        verbatim_en: "Any failure to comply, deviation from the designated route, or disregard for navigation protocols of the Islamic Republic of Iran in the Strait of Hormuz will be met with an immediate and forceful response from the armed forces."
+        source_url: https://www.thestar.com.my/news/world/2026/07/03/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-039forceful-response039
+        context: warning issued Thursday July 3, 2026
+
+  - story_id: divided-america-250th-anniversary-trump-rally
+    category: politics
+    headline_en: Divided America marks 250th anniversary eve; Trump Freedom 250 rally
+    lead_url: https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.cnn.com/2026/07/02/us/america-250-vibes-cec
+    locked_urls:
+      - https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis
+      - https://www.cnn.com/2026/07/02/us/america-250-vibes-cec
+    hard_facts:
+      - claim: anniversary date
+        kind: temporal
+        value: July 3, 2026
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "Eve of 250th anniversary July 3, 2026"
+      - claim: Trump keynote time
+        kind: temporal
+        value: 9:45 p.m. EST
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "Trump keynote 9:45 p.m. EST at Lincoln Memorial"
+      - claim: Trump keynote venue
+        kind: named_institution
+        value: Lincoln Memorial
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "Trump keynote 9:45 p.m. EST at Lincoln Memorial"
+      - claim: fireworks display duration
+        kind: temporal
+        value: 40-minute
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "40-minute fireworks display of 850,000 shells from 10 sites"
+      - claim: fireworks shells count
+        kind: numerical_with_unit
+        value: "850,000 shells"
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "40-minute fireworks display of 850,000 shells from 10 sites"
+      - claim: fireworks launch sites count
+        kind: numerical
+        value: "10"
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "850,000 shells from 10 sites"
+      - claim: House Democrats report page count
+        kind: numerical_with_unit
+        value: "55-page"
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "55-page House Democrats report accused Freedom 250 of exploiting celebrations for profit"
+      - claim: Pope Leo XIV distinction
+        kind: named_person
+        value: Pope Leo XIV
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "Pope Leo XIV (first US-born pope) received National Constitution Center's 38th annual Liberty Medal"
+      - claim: Liberty Medal edition
+        kind: numerical_with_unit
+        value: "38th annual"
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "National Constitution Center's 38th annual Liberty Medal via livestream July 3 in Philadelphia"
+      - claim: Liberty Medal ceremony date
+        kind: temporal
+        value: July 3
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "via livestream July 3 in Philadelphia, moved indoors due to extreme heat"
+      - claim: Liberty Medal ceremony location
+        kind: named_institution
+        value: National Constitution Center
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "National Constitution Center's 38th annual Liberty Medal"
+      - claim: Gallup American pride statistic
+        kind: temporal
+        value: 25-year record low
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "Gallup: only ~half of Americans 'extremely proud' or 'very proud' to be American — 25-year record low"
+      - claim: Gallup institution
+        kind: named_institution
+        value: Gallup
+        source_urls: [https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis]
+        verbatim_excerpt: "Gallup: only ~half of Americans 'extremely proud' or 'very proud' to be American"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President, United States
+        verbatim_en: "This will be THE LARGEST FIREWORKS SHOW IN HISTORY."
+        source_url: https://edition.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis
+        context: social media post ahead of July 4, 2026 celebrations
+
+  - story_id: scotus-term-trump-executive-power-birthright
+    category: politics
+    headline_en: Supreme Court term ends — Trump gains executive power, loses on birthright citizenship and tariffs
+    lead_url: https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/07/01/nx-s1-5876231/supreme-court-deals-some-blows-to-trumps-agenda-but-leaves-him-with-more-expansive-powers
+      - https://www.cnn.com/2026/07/02/politics/supreme-court-controversial-heated-term-takeaways
+    locked_urls:
+      - https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power
+      - https://www.npr.org/2026/07/01/nx-s1-5876231/supreme-court-deals-some-blows-to-trumps-agenda-but-leaves-him-with-more-expansive-powers
+      - https://www.cnn.com/2026/07/02/politics/supreme-court-controversial-heated-term-takeaways
+    hard_facts:
+      - claim: SCOTUS term concluded
+        kind: temporal
+        value: 2025-2026 term
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "SCOTUS concluded 2025-2026 term"
+      - claim: Trump v. Slaughter ruling majority
+        kind: numerical_with_unit
+        value: "6-3"
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "Trump v. Slaughter: 6-3 majority ruled Trump lawfully fired FTC Commissioner Rebecca Kelly Slaughter"
+      - claim: FTC Commissioner fired
+        kind: named_person
+        value: Rebecca Kelly Slaughter
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "ruled Trump lawfully fired FTC Commissioner Rebecca Kelly Slaughter"
+      - claim: Humphrey's Executor precedent age overturned
+        kind: temporal
+        value: 91-year-old
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "overturning 91-year-old Humphrey's Executor precedent"
+      - claim: overturned precedent name
+        kind: named_product
+        value: Humphrey's Executor
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "overturning 91-year-old Humphrey's Executor precedent"
+      - claim: birthright citizenship ruling majority
+        kind: numerical_with_unit
+        value: "6-3"
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "June 30, 6-3 ruling struck down Trump's executive order ending birthright citizenship (14th Amendment)"
+      - claim: birthright citizenship ruling date
+        kind: temporal
+        value: June 30
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "June 30, 6-3 ruling struck down Trump's executive order ending birthright citizenship (14th Amendment)"
+      - claim: constitutional amendment cited birthright citizenship
+        kind: named_product
+        value: 14th Amendment
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "struck down Trump's executive order ending birthright citizenship (14th Amendment)"
+      - claim: IEEPA tariff invalidation date
+        kind: temporal
+        value: Feb 20
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "IEEPA tariff authority invalidated earlier (Feb 20, Learning Resources v. Trump)"
+      - claim: IEEPA tariff case name
+        kind: named_product
+        value: Learning Resources v. Trump
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "IEEPA tariff authority invalidated earlier (Feb 20, Learning Resources v. Trump)"
+      - claim: TPS ruling date
+        kind: temporal
+        value: June 25
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "June 25 ruled courts cannot review DHS decisions to terminate Temporary Protected Status"
+      - claim: Haitians under TPS removal
+        kind: numerical_with_unit
+        value: "~350,000 Haitians"
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "removal of protections for ~350,000 Haitians and 6,000 Syrians effective July 27, 2026"
+      - claim: Syrians under TPS removal
+        kind: numerical_with_unit
+        value: "6,000 Syrians"
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "removal of protections for ~350,000 Haitians and 6,000 Syrians effective July 27, 2026"
+      - claim: TPS removal effective date
+        kind: temporal
+        value: July 27, 2026
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "removal of protections for ~350,000 Haitians and 6,000 Syrians effective July 27, 2026"
+      - claim: case name Trump v. Slaughter
+        kind: named_product
+        value: Trump v. Slaughter
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "Trump v. Slaughter: 6-3 majority"
+      - claim: case name NRSC v. FEC
+        kind: named_product
+        value: NRSC v. FEC
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "NRSC v. FEC loosened coordinated party expenditure limits"
+      - claim: FTC institution
+        kind: named_institution
+        value: FTC
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "FTC Commissioner Rebecca Kelly Slaughter"
+      - claim: DHS institution
+        kind: named_institution
+        value: DHS
+        source_urls: [https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power]
+        verbatim_excerpt: "courts cannot review DHS decisions to terminate Temporary Protected Status"
+    quotes:
+      - speaker_name: Elena Kagan
+        speaker_title: Associate Justice, Supreme Court of the United States
+        verbatim_en: "The statements fairly shout, in their racial undertones and overtones alike, that race entered into the president's resolve to remove Haitians from this country."
+        source_url: https://www.axios.com/2026/07/02/supreme-court-congress-trump-executive-power
+        context: dissent in TPS ruling, June 25 2026
+
+  - story_id: microsoft-frontier-company-2-5b-launch
+    category: tech
+    headline_en: Microsoft launches Frontier Company with $2.5B commitment
+    lead_url: https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
+    hard_facts:
+      - claim: launch date
+        kind: temporal
+        value: July 2, 2026
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "Microsoft launched Microsoft Frontier Company July 2, 2026"
+      - claim: capital committed
+        kind: numerical_with_unit
+        value: "$2.5 billion"
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "$2.5 billion committed"
+      - claim: number of industry and engineering experts
+        kind: numerical_with_unit
+        value: "6,000"
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "6,000 industry and engineering experts"
+      - claim: CEO Commercial Business
+        kind: named_person
+        value: Judson Althoff
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "CEO Commercial Business Judson Althoff"
+      - claim: early partner London Stock Exchange Group
+        kind: named_institution
+        value: London Stock Exchange Group
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "Early partners: London Stock Exchange Group, Unilever, Land O'Lakes, Accenture"
+      - claim: early partner Unilever
+        kind: named_institution
+        value: Unilever
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "Early partners: London Stock Exchange Group, Unilever, Land O'Lakes, Accenture"
+      - claim: early partner Land O'Lakes
+        kind: named_institution
+        value: "Land O'Lakes"
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "Early partners: London Stock Exchange Group, Unilever, Land O'Lakes, Accenture"
+      - claim: early partner Accenture
+        kind: named_institution
+        value: Accenture
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "Early partners: London Stock Exchange Group, Unilever, Land O'Lakes, Accenture"
+      - claim: Amazon commitment comparison
+        kind: numerical_with_unit
+        value: "$1 billion"
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "Follows Amazon ($1 billion commitment), OpenAI, Anthropic"
+      - claim: TechCrunch byline
+        kind: named_person
+        value: Russell Brandom
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "Byline: Russell Brandom"
+      - claim: product name
+        kind: named_product
+        value: Microsoft Frontier Company
+        source_urls: [https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/]
+        verbatim_excerpt: "Microsoft launched Microsoft Frontier Company July 2, 2026"
+    quotes:
+      - speaker_name: Judson Althoff
+        speaker_title: CEO Commercial Business, Microsoft
+        verbatim_en: "This goes beyond what has been labeled as Forward-Deployed Engineering. It will be the largest, most capable, outcome-driven engineering organization in the industry."
+        source_url: https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
+        context: Microsoft Frontier Company launch announcement, July 2, 2026
+
+  - story_id: zuckerberg-ai-agents-meta-layoffs-8000
+    category: tech
+    headline_en: Zuckerberg says AI agents haven't advanced as expected; 8,000 laid off
+    lead_url: https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
+    hard_facts:
+      - claim: town hall date
+        kind: temporal
+        value: July 2, 2026
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "Internal town hall July 2, 2026"
+      - claim: Meta CEO identity
+        kind: named_person
+        value: Mark Zuckerberg
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "Meta CEO Mark Zuckerberg said AI agent development"
+      - claim: Meta employees laid off in 2026
+        kind: numerical_with_unit
+        value: "~8,000 employees"
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "Meta laid off ~8,000 employees (10% of workforce) earlier in 2026"
+      - claim: layoff as percentage of workforce
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "Meta laid off ~8,000 employees (10% of workforce) earlier in 2026"
+      - claim: employees reassigned to AI groups
+        kind: numerical_with_unit
+        value: "7,000"
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "reassigned 7,000 to AI groups including 'Agent Transformation'"
+      - claim: AI group name
+        kind: named_product
+        value: Agent Transformation
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "reassigned 7,000 to AI groups including 'Agent Transformation'"
+      - claim: restructuring improvement timeframe
+        kind: temporal
+        value: 3 to 6 months
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "Restructuring 'could improve within 3 to 6 months'"
+      - claim: Meta 2026 AI infrastructure investment
+        kind: numerical_with_unit
+        value: "$145 billion"
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "Meta investing $145 billion in AI infrastructure in 2026"
+      - claim: AI-attributed US job cuts year-to-date
+        kind: numerical_with_unit
+        value: "88,000"
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "AI-attributed US job cuts 88,000 year-to-date"
+      - claim: TechCrunch byline
+        kind: named_person
+        value: Lucas Ropek
+        source_urls: [https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/]
+        verbatim_excerpt: "Byline: Lucas Ropek"
+    quotes: []
+
+  - story_id: google-amazon-carbon-emissions-ai-buildout
+    category: tech
+    headline_en: Google and Amazon carbon emissions surge 25% and 16% amid AI buildout
+    lead_url: https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/
+    hard_facts:
+      - claim: Google carbon emission change
+        kind: numerical_with_unit
+        value: "+25% y/y"
+        source_urls: [https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/]
+        verbatim_excerpt: "Google total carbon emissions +25% y/y"
+      - claim: Amazon carbon emission change
+        kind: numerical_with_unit
+        value: "+16%"
+        source_urls: [https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/]
+        verbatim_excerpt: "Amazon +16% as of 2026"
+      - claim: Amazon new data center capacity Q4 2025
+        kind: numerical_with_unit
+        value: "over 1.2 gigawatts"
+        source_urls: [https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/]
+        verbatim_excerpt: "Amazon added over 1.2 gigawatts new data center capacity in Q4 2025 alone"
+      - claim: Amazon data center capacity period
+        kind: temporal
+        value: Q4 2025
+        source_urls: [https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/]
+        verbatim_excerpt: "Amazon added over 1.2 gigawatts new data center capacity in Q4 2025 alone"
+      - claim: new data centers under construction across US
+        kind: numerical_with_unit
+        value: "~3,000"
+        source_urls: [https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/]
+        verbatim_excerpt: "~3,000 new data centers under construction across US, adding to ~4,000 operating"
+      - claim: operating data centers in US
+        kind: numerical_with_unit
+        value: "~4,000"
+        source_urls: [https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/]
+        verbatim_excerpt: "~3,000 new data centers under construction across US, adding to ~4,000 operating"
+      - claim: emission scope category
+        kind: named_product
+        value: Scope 3
+        source_urls: [https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/]
+        verbatim_excerpt: "Emissions growth mostly indirect Scope 3 (GPU purchases, construction materials, semiconductor manufacturing)"
+      - claim: TechCrunch byline
+        kind: named_person
+        value: Tim De Chant
+        source_urls: [https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/]
+        verbatim_excerpt: "Byline: Tim De Chant"
+    quotes: []
+
+  - story_id: dhs-hsin-hacked-data-breach-2026
+    category: tech
+    headline_en: DHS Homeland Security Information Network hacked
+    lead_url: https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/
+    body_source: full
+    corroborated_by:
+      - https://www.upguard.com/news/department-of-homeland-security-data-breach-2026-07-01
+    locked_urls:
+      - https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/
+      - https://www.upguard.com/news/department-of-homeland-security-data-breach-2026-07-01
+    hard_facts:
+      - claim: breach period
+        kind: temporal
+        value: late May-early June 2026
+        source_urls: [https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/]
+        verbatim_excerpt: "DHS Homeland Security Information Network (HSIN) breached late May-early June 2026"
+      - claim: DHS confirmation date
+        kind: temporal
+        value: July 2, 2026
+        source_urls: [https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/]
+        verbatim_excerpt: "DHS confirmed July 2, 2026"
+      - claim: system hacked name
+        kind: named_product
+        value: Homeland Security Information Network (HSIN)
+        source_urls:
+          - https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/
+          - https://www.upguard.com/news/department-of-homeland-security-data-breach-2026-07-01
+        verbatim_excerpt: "DHS Homeland Security Information Network (HSIN) breached"
+      - claim: Senator identity
+        kind: named_person
+        value: Mark Warner
+        source_urls: [https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/]
+        verbatim_excerpt: "Senator Mark Warner (D-VA)"
+      - claim: Senator state
+        kind: named_institution
+        value: D-VA
+        source_urls: [https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/]
+        verbatim_excerpt: "Senator Mark Warner (D-VA)"
+      - claim: FIFA World Cup host year
+        kind: temporal
+        value: 2026
+        source_urls: [https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/]
+        verbatim_excerpt: "Platform used to manage security for 2026 FIFA World Cup matches in the US"
+      - claim: TechCrunch byline
+        kind: named_person
+        value: Zack Whittaker
+        source_urls: [https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/]
+        verbatim_excerpt: "Byline: Zack Whittaker"
+      - claim: DHS institution
+        kind: named_institution
+        value: Department of Homeland Security
+        source_urls: [https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/]
+        verbatim_excerpt: "DHS Homeland Security Information Network (HSIN)"
+    quotes:
+      - speaker_name: Mark Warner
+        speaker_title: Senator (D-VA)
+        verbatim_en: "The information is highly sensitive, and its exposure risks national security."
+        source_url: https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/
+        context: statement on DHS HSIN breach, July 2026
+
+  - story_id: record-heat-wave-july-4th-records
+    category: society
+    headline_en: Record-breaking heat wave; July 4th records to shatter
+    lead_url: https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/
+    body_source: full
+    corroborated_by:
+      - https://www.newsweek.com/united-states-extreme-heat-wave-risk-map-life-threatening-temperatures-12110881
+      - https://time.com/article/2026/06/29/extreme-heat-wave-dome-high-temperatures-us-fourth-july-explainer/
+    locked_urls:
+      - https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/
+      - https://www.newsweek.com/united-states-extreme-heat-wave-risk-map-life-threatening-temperatures-12110881
+      - https://time.com/article/2026/06/29/extreme-heat-wave-dome-high-temperatures-us-fourth-july-explainer/
+    hard_facts:
+      - claim: records expected broken by Saturday
+        kind: numerical_with_unit
+        value: "over 300"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "over 300 temperature records expected broken by Saturday July 4"
+      - claim: deadline for records
+        kind: temporal
+        value: Saturday July 4
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "over 300 temperature records expected broken by Saturday July 4"
+      - claim: report publish date
+        kind: temporal
+        value: July 3, 2026
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "CBS reported July 3, 2026"
+      - claim: temperature deviation from normal
+        kind: numerical_with_unit
+        value: "20-30 degrees above normal"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "Temps 20-30 degrees above normal"
+      - claim: NYC record high temperature
+        kind: numerical_with_unit
+        value: "100 degrees"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "NYC tied record high 100 degrees Thursday (matching 1966)"
+      - claim: NYC record high historical comparison
+        kind: temporal
+        value: "1966"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "NYC tied record high 100 degrees Thursday (matching 1966)"
+      - claim: Boston 100-degree count
+        kind: numerical
+        value: "29th time"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "Boston hit 100 degrees for 29th time, new daily record"
+      - claim: Washington DC forecast Friday temperature
+        kind: numerical_with_unit
+        value: "103"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "Washington DC forecast 103 Friday, 101 on July 4"
+      - claim: Washington DC forecast Independence Day temperature
+        kind: numerical_with_unit
+        value: "101"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "Washington DC forecast 103 Friday, 101 on July 4"
+      - claim: Washington DC Independence Day temperature record
+        kind: numerical_with_unit
+        value: "100"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "Independence Day record 100, set 1919"
+      - claim: Washington DC Independence Day temperature record year
+        kind: temporal
+        value: "1919"
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "Independence Day record 100, set 1919"
+      - claim: Philadelphia event canceled
+        kind: named_institution
+        value: Philadelphia
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "Philadelphia canceled July 4 Salute to Independence parade"
+      - claim: Americans affected by heat wave
+        kind: numerical_with_unit
+        value: "up to 90 million Americans"
+        source_urls:
+          - https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/
+          - https://www.newsweek.com/united-states-extreme-heat-wave-risk-map-life-threatening-temperatures-12110881
+        verbatim_excerpt: "Heat wave affects up to 90 million Americans"
+      - claim: CBS byline
+        kind: named_person
+        value: Kiki Intarasuwan
+        source_urls: [https://www.cbsnews.com/news/heat-wave-hottest-july-4th-record-temperatures/]
+        verbatim_excerpt: "Byline: Kiki Intarasuwan"
+    quotes: []
+
+  - story_id: colorado-wildfires-129000-acres-aspen-fire
+    category: society
+    headline_en: Colorado wildfires burn over 129,000 acres; Aspen Acres Fire top priority
+    lead_url: https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/
+    body_source: full
+    corroborated_by:
+      - https://www.cnn.com/2026/06/30/weather/wildfire-utah-colorado-smoke-west-climate
+      - https://kdvr.com/news/local/100k-acres-destroyed-as-wildfires-burn-across-colorado/
+    locked_urls:
+      - https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/
+      - https://www.cnn.com/2026/06/30/weather/wildfire-utah-colorado-smoke-west-climate
+      - https://kdvr.com/news/local/100k-acres-destroyed-as-wildfires-burn-across-colorado/
+    hard_facts:
+      - claim: total acreage burned
+        kind: numerical_with_unit
+        value: "more than 129,000 acres"
+        source_urls:
+          - https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/
+          - https://kdvr.com/news/local/100k-acres-destroyed-as-wildfires-burn-across-colorado/
+        verbatim_excerpt: "Six large wildfires across Colorado scorched more than 129,000 acres (~200 sq mi)"
+      - claim: total acreage in square miles
+        kind: numerical_with_unit
+        value: "~200 sq mi"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Six large wildfires across Colorado scorched more than 129,000 acres (~200 sq mi)"
+      - claim: number of large wildfires
+        kind: numerical
+        value: "Six"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Six large wildfires across Colorado"
+      - claim: critical conditions end date
+        kind: temporal
+        value: through July 4 weekend
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "critical conditions through July 4 weekend"
+      - claim: Colorado Sun publish date
+        kind: temporal
+        value: July 2, 2026
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Colorado Sun July 2, 2026"
+      - claim: Aspen Acres Fire acreage
+        kind: numerical_with_unit
+        value: "50,187 acres"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Aspen Acres Fire, 10 miles NW of Rye in Pueblo and Custer counties, 50,187 acres, 0% containment"
+      - claim: Aspen Acres Fire containment
+        kind: numerical_with_unit
+        value: "0%"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "50,187 acres, 0% containment"
+      - claim: Aspen Acres Fire location
+        kind: temporal
+        value: "10 miles NW of Rye"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Aspen Acres Fire, 10 miles NW of Rye in Pueblo and Custer counties"
+      - claim: Aspen Acres Fire structures destroyed
+        kind: numerical_with_unit
+        value: "at least 180 structures"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "at least 180 structures destroyed"
+      - claim: Fire Division Director identity
+        kind: named_person
+        value: Mike Morgan
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Fire Division Director Mike Morgan"
+      - claim: firefighter experience cited
+        kind: temporal
+        value: 40 years
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "I've been a firefighter in Colorado for 40 years"
+      - claim: humidity level during conditions
+        kind: numerical_with_unit
+        value: "below 5%"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Humidity below 5%, triple-digit temps, winds 80-100 mph"
+      - claim: wind speeds
+        kind: numerical_with_unit
+        value: "80-100 mph"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "winds 80-100 mph"
+      - claim: Alaska crew size
+        kind: numerical_with_unit
+        value: "650-person"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "650-person Alaska crew took over"
+      - claim: California engines sent
+        kind: numerical_with_unit
+        value: "100 engines"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "California sent 100 engines"
+      - claim: federal firefighters killed on Snyder Fire
+        kind: numerical
+        value: "Three"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Three federal firefighters killed earlier on Snyder Fire (30,193 acres, 49% contained)"
+      - claim: Snyder Fire acreage
+        kind: numerical_with_unit
+        value: "30,193 acres"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Snyder Fire (30,193 acres, 49% contained)"
+      - claim: Snyder Fire containment
+        kind: numerical_with_unit
+        value: "49%"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Snyder Fire (30,193 acres, 49% contained)"
+      - claim: Gold Mountain Fire acreage
+        kind: numerical_with_unit
+        value: "18,005 acres"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Gold Mountain Fire (18,005 acres, 0%)"
+      - claim: Gold Mountain Fire containment
+        kind: numerical_with_unit
+        value: "0%"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Gold Mountain Fire (18,005 acres, 0%)"
+      - claim: Ferris Fire acreage
+        kind: numerical_with_unit
+        value: "27,382 acres"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Ferris Fire (27,382 acres, 0%)"
+      - claim: Ferris Fire containment
+        kind: numerical_with_unit
+        value: "0%"
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Ferris Fire (27,382 acres, 0%)"
+      - claim: Colorado Sun byline
+        kind: named_person
+        value: Olivia Prentzel
+        source_urls: [https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/]
+        verbatim_excerpt: "Byline: Olivia Prentzel"
+    quotes:
+      - speaker_name: Mike Morgan
+        speaker_title: Fire Division Director, Colorado
+        verbatim_en: "I've been a firefighter in Colorado for 40 years and I have never seen conditions like we're seeing out there right now."
+        source_url: https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/
+        context: statement on Colorado wildfire conditions, July 2, 2026
+
+  - story_id: student-loan-overhaul-obbba-july-2026
+    category: society
+    headline_en: Student loan overhaul takes effect July 1; OBBBA ends SAVE
+    lead_url: https://www.cbsnews.com/news/student-loan-changes-july-1-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan
+      - https://www.nbcnews.com/news/education/trump-big-beautiful-bill-student-loan-changes-rcna350126
+    locked_urls:
+      - https://www.cbsnews.com/news/student-loan-changes-july-1-2026/
+      - https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan
+      - https://www.nbcnews.com/news/education/trump-big-beautiful-bill-student-loan-changes-rcna350126
+    hard_facts:
+      - claim: OBBBA effective date
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.cbsnews.com/news/student-loan-changes-july-1-2026/
+          - https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan
+          - https://www.nbcnews.com/news/education/trump-big-beautiful-bill-student-loan-changes-rcna350126
+        verbatim_excerpt: "One Big Beautiful Bill Act (OBBBA) student loan provisions took effect July 1, 2026"
+      - claim: OBBBA name
+        kind: named_product
+        value: One Big Beautiful Bill Act (OBBBA)
+        source_urls:
+          - https://www.cbsnews.com/news/student-loan-changes-july-1-2026/
+          - https://www.nbcnews.com/news/education/trump-big-beautiful-bill-student-loan-changes-rcna350126
+        verbatim_excerpt: "One Big Beautiful Bill Act (OBBBA) student loan provisions took effect July 1, 2026"
+      - claim: SAVE plan status
+        kind: named_product
+        value: SAVE income-driven repayment plan
+        source_urls:
+          - https://www.cbsnews.com/news/student-loan-changes-july-1-2026/
+          - https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan
+        verbatim_excerpt: "SAVE income-driven repayment plan terminated for new borrowers"
+      - claim: SAVE enrollees receiving notices
+        kind: numerical_with_unit
+        value: "~7 million"
+        source_urls:
+          - https://www.cbsnews.com/news/student-loan-changes-july-1-2026/
+          - https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan
+        verbatim_excerpt: "~7 million SAVE enrollees receive 90-day notices"
+      - claim: SAVE notice duration
+        kind: temporal
+        value: 90-day notices
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "~7 million SAVE enrollees receive 90-day notices"
+      - claim: SAVE sunset date
+        kind: temporal
+        value: July 2028
+        source_urls:
+          - https://www.cbsnews.com/news/student-loan-changes-july-1-2026/
+          - https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan
+        verbatim_excerpt: "SAVE sunsets July 2028"
+      - claim: new repayment plan Tiered Standard Plan duration range
+        kind: temporal
+        value: 10-25 years
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "Tiered Standard Plan (10-25 years)"
+      - claim: new plan name RAP
+        kind: named_product
+        value: Repayment Assistance Plan (RAP)
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "new Repayment Assistance Plan (RAP)"
+      - claim: Parent PLUS loan annual cap
+        kind: numerical_with_unit
+        value: "$20,000/year"
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "Parent PLUS loans capped $20,000/year and $65,000 total"
+      - claim: Parent PLUS loan total cap
+        kind: numerical_with_unit
+        value: "$65,000 total"
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "Parent PLUS loans capped $20,000/year and $65,000 total"
+      - claim: graduate student annual loan cap
+        kind: numerical_with_unit
+        value: "$20,500/year"
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "graduate students up to $20,500/year with $100,000 lifetime cap"
+      - claim: graduate student lifetime loan cap
+        kind: numerical_with_unit
+        value: "$100,000 lifetime cap"
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "graduate students up to $20,500/year with $100,000 lifetime cap"
+      - claim: EV charging tax credit expiration
+        kind: temporal
+        value: expired June 30
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "OBBBA eliminated EV charging equipment tax credit (expired June 30)"
+      - claim: Trump accounts start date
+        kind: temporal
+        value: July 4, 2026
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "'Trump accounts' begin July 4, 2026"
+      - claim: new Tiered Standard Plan name
+        kind: named_product
+        value: Tiered Standard Plan
+        source_urls: [https://www.cbsnews.com/news/student-loan-changes-july-1-2026/]
+        verbatim_excerpt: "Tiered Standard Plan (10-25 years)"
+    quotes: []
+
+  - story_id: jersey-mikes-ipo-s1-12b-nyse
+    category: ipo_ma
+    headline_en: Jersey Mike's files S-1 for $1B+ IPO with $12B NYSE valuation
+    lead_url: https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+    body_source: paywall-stub
+    corroborated_by:
+      - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+      - https://www.forbes.com/sites/antoniopequenoiv/2026/07/02/jersey-mikes-ipo-filing-reveals-50-million-in-pay-for-a-stepson-a-41-million-aircraft-and-a-family-on-payroll/
+      - https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html
+      - https://njbiz.com/jersey-mikes-ipo-12b-valuation/
+    locked_urls:
+      - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+      - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+      - https://www.forbes.com/sites/antoniopequenoiv/2026/07/02/jersey-mikes-ipo-filing-reveals-50-million-in-pay-for-a-stepson-a-41-million-aircraft-and-a-family-on-payroll/
+      - https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html
+      - https://njbiz.com/jersey-mikes-ipo-12b-valuation/
+    hard_facts:
+      - claim: S-1 filing date
+        kind: temporal
+        value: July 2, 2026
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+        verbatim_excerpt: "Jersey Mike's Subs Inc. (Blackstone-backed) filed Form S-1 with SEC July 2, 2026"
+      - claim: NYSE ticker symbol
+        kind: named_product
+        value: JMKE
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+        verbatim_excerpt: "NYSE ticker 'JMKE'"
+      - claim: targeting valuation
+        kind: numerical_with_unit
+        value: ">=$12 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://njbiz.com/jersey-mikes-ipo-12b-valuation/
+        verbatim_excerpt: "Targeting valuation ≥$12 billion"
+      - claim: raising amount
+        kind: numerical_with_unit
+        value: ">$1 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html
+        verbatim_excerpt: "raising >$1 billion"
+      - claim: 2025 total revenue
+        kind: numerical_with_unit
+        value: "$724 million"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+        verbatim_excerpt: "2025 total revenue $724 million, net income $55 million"
+      - claim: 2025 net income
+        kind: numerical_with_unit
+        value: "$55 million"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+        verbatim_excerpt: "2025 total revenue $724 million, net income $55 million"
+      - claim: systemwide sales 2025
+        kind: numerical_with_unit
+        value: "$4.3 billion"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+        verbatim_excerpt: "systemwide sales $4.3 billion, +13% y/y"
+      - claim: systemwide sales year-over-year growth
+        kind: numerical_with_unit
+        value: "+13% y/y"
+        source_urls:
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+        verbatim_excerpt: "systemwide sales $4.3 billion, +13% y/y"
+      - claim: headquarters location
+        kind: named_institution
+        value: Manasquan, New Jersey
+        source_urls: [https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump]
+        verbatim_excerpt: "HQ Manasquan, New Jersey"
+      - claim: global coordinators
+        kind: named_institution
+        value: Morgan Stanley
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+        verbatim_excerpt: "Morgan Stanley, Jefferies, J.P. Morgan global coordinators"
+      - claim: global coordinator Jefferies
+        kind: named_institution
+        value: Jefferies
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+        verbatim_excerpt: "Morgan Stanley, Jefferies, J.P. Morgan global coordinators"
+      - claim: global coordinator J.P. Morgan
+        kind: named_institution
+        value: J.P. Morgan
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+        verbatim_excerpt: "Morgan Stanley, Jefferies, J.P. Morgan global coordinators"
+      - claim: stepson pay disclosed in filing
+        kind: numerical_with_unit
+        value: "$50 million"
+        source_urls: [https://www.forbes.com/sites/antoniopequenoiv/2026/07/02/jersey-mikes-ipo-filing-reveals-50-million-in-pay-for-a-stepson-a-41-million-aircraft-and-a-family-on-payroll/]
+        verbatim_excerpt: "Filing revealed $50 million pay for founder Peter Cancro's stepson"
+      - claim: aircraft value
+        kind: numerical_with_unit
+        value: "$41 million aircraft"
+        source_urls: [https://www.forbes.com/sites/antoniopequenoiv/2026/07/02/jersey-mikes-ipo-filing-reveals-50-million-in-pay-for-a-stepson-a-41-million-aircraft-and-a-family-on-payroll/]
+        verbatim_excerpt: "$41 million aircraft"
+      - claim: founder identity
+        kind: named_person
+        value: Peter Cancro
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.forbes.com/sites/antoniopequenoiv/2026/07/02/jersey-mikes-ipo-filing-reveals-50-million-in-pay-for-a-stepson-a-41-million-aircraft-and-a-family-on-payroll/
+        verbatim_excerpt: "founder Peter Cancro's stepson"
+      - claim: Blackstone majority stake price
+        kind: numerical_with_unit
+        value: "reported $8 billion"
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://njbiz.com/jersey-mikes-ipo-12b-valuation/
+        verbatim_excerpt: "Blackstone acquired majority stake for reported $8 billion earlier"
+      - claim: private equity backer
+        kind: named_institution
+        value: Blackstone
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+        verbatim_excerpt: "Jersey Mike's Subs Inc. (Blackstone-backed)"
+      - claim: company name
+        kind: named_institution
+        value: Jersey Mike's Subs Inc.
+        source_urls:
+          - https://www.bloomberg.com/news/articles/2026-07-02/blackstone-backed-jersey-mike-s-files-for-ipo-as-listings-jump
+          - https://www.sec.gov/Archives/edgar/data/2127043/000119312526293830/ck0002127043-20260702.htm
+        verbatim_excerpt: "Jersey Mike's Subs Inc. (Blackstone-backed) filed Form S-1"
+    quotes: []
+
+  - story_id: usmnt-beats-bosnia-2-0-first-wc-knockout-2002
+    category: other
+    headline_en: US men's soccer beats Bosnia-Herzegovina 2-0; first WC knockout win since 2002
+    lead_url: https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686
+    body_source: full
+    corroborated_by:
+      - https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32
+      - https://www.cbsnews.com/news/world-cup-us-bosnia-herzegovina-round-of-32/
+    locked_urls:
+      - https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686
+      - https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32
+      - https://www.cbsnews.com/news/world-cup-us-bosnia-herzegovina-round-of-32/
+    hard_facts:
+      - claim: match result
+        kind: numerical_with_unit
+        value: "2-0"
+        source_urls:
+          - https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686
+          - https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32
+          - https://www.cbsnews.com/news/world-cup-us-bosnia-herzegovina-round-of-32/
+        verbatim_excerpt: "US men's national team defeated Bosnia-Herzegovina 2-0 on July 1, 2026"
+      - claim: match date
+        kind: temporal
+        value: July 1, 2026
+        source_urls:
+          - https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686
+          - https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32
+        verbatim_excerpt: "US men's national team defeated Bosnia-Herzegovina 2-0 on July 1, 2026"
+      - claim: historical significance last knockout win
+        kind: temporal
+        value: "since 2002 (second in program history)"
+        source_urls:
+          - https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686
+          - https://www.cbsnews.com/news/world-cup-us-bosnia-herzegovina-round-of-32/
+        verbatim_excerpt: "first World Cup knockout win since 2002 (second in program history)"
+      - claim: Balogun goal timing
+        kind: temporal
+        value: just before halftime
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "Folarin Balogun scored just before halftime"
+      - claim: Tillman goal minute
+        kind: temporal
+        value: 82nd minute
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "Malik Tillman scored on free kick in 82nd minute"
+      - claim: match venue
+        kind: named_institution
+        value: "Levi's Stadium, Santa Clara, California"
+        source_urls:
+          - https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686
+          - https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32
+        verbatim_excerpt: "at Levi's Stadium, Santa Clara, California"
+      - claim: Balogun red card consequence
+        kind: named_person
+        value: Folarin Balogun
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "Balogun received red card late, suspended for Round of 16 vs Belgium July 6, 2026"
+      - claim: Round of 16 opponent
+        kind: named_institution
+        value: Belgium
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "suspended for Round of 16 vs Belgium July 6, 2026"
+      - claim: Round of 16 date
+        kind: temporal
+        value: July 6, 2026
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "suspended for Round of 16 vs Belgium July 6, 2026"
+      - claim: FIFA World Cup host countries
+        kind: named_institution
+        value: "US, Canada, Mexico"
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "2026 FIFA World Cup hosted across US, Canada, Mexico"
+      - claim: FIFA World Cup US GDP boost projection
+        kind: numerical_with_unit
+        value: "$17 billion"
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "FIFA projects $17 billion boost to US GDP and 185,000 jobs"
+      - claim: FIFA World Cup jobs projection
+        kind: numerical_with_unit
+        value: "185,000 jobs"
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "FIFA projects $17 billion boost to US GDP and 185,000 jobs"
+      - claim: scorer for second goal identity
+        kind: named_person
+        value: Malik Tillman
+        source_urls: [https://www.nbcnews.com/sports/soccer/us-world-cup-win-bosnia-balogun-red-card-tillman-belgium-rcna352686]
+        verbatim_excerpt: "Malik Tillman scored on free kick in 82nd minute"
+    quotes: []
