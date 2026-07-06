@@ -220,6 +220,7 @@ The market is not fully convinced: easyJet traded below the offer price even aft
 [38] Bloomberg News. (2026, July 6). easyJet agrees takeover by Castlelake for over £5 billion. Bloomberg. https://www.bloomberg.com/news/newsletters/2026-07-06/easyjet-agrees-takeover-by-castlelake-for-over-5-billion
 [39] Airways Magazine. (2026, July 6). easyJet: Yes to £5.2b Castlelake takeover offer. Airways Magazine. https://www.airwaysmag.com/new-post/easyjet-yes-ps5-2b-castlelake-takeover-offer
 [40] NewsCord. (2026, July 5). easyJet agrees in principle to Castlelake's £6.90 per share takeover bid. NewsCord. https://newscord.org/article/easyjet-agrees-in-principle-to-castlelakes-690-per-share-takeover-bid--Story_20260705_EasyJetreachesagreem56b3b79e
+[41] CNBC. (2026, July 5). UK budget airline easyJet ready to accept $7.3 billion takeover bid from Castlelake. CNBC. https://www.cnbc.com/2026/07/05/uk-budget-airline-easyjet-agrees-to-7point3-billion-takeover.html
 
 *Note: only 2 stories met T1-T4 standards for this category today.*
 
