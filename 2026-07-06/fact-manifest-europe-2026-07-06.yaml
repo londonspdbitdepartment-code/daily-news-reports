@@ -1,0 +1,1627 @@
+version: 1
+generated_at: "2026-07-06T12:00:00Z"
+country: Europe
+date: "2026-07-06"
+total_stories: 13
+stories:
+
+  - story_id: german-manufacturing-orders-rebound-1-9pct
+    category: econ
+    headline_en: "German Manufacturing Orders Rebound 1.9% in May, Beating Forecasts as Iran-War Effects Ease"
+    lead_url: https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+    body_source: full
+    corroborated_by:
+      - https://www.fxstreet.com/news/germany-factory-orders-rises-19-in-may-beats-12-estimates-202607060604
+      - https://www.bloomberg.com/news/articles/2026-07-06/german-factory-orders-rebound-as-iran-war-effects-start-to-fade
+      - https://finance.yahoo.com/economy/articles/german-factory-orders-rebound-more-081927760.html
+    locked_urls:
+      - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+      - https://www.fxstreet.com/news/germany-factory-orders-rises-19-in-may-beats-12-estimates-202607060604
+      - https://www.bloomberg.com/news/articles/2026-07-06/german-factory-orders-rebound-as-iran-war-effects-start-to-fade
+      - https://finance.yahoo.com/economy/articles/german-factory-orders-rebound-more-081927760.html
+    hard_facts:
+      - claim: manufacturing new orders month-on-month change May 2026
+        kind: numerical_with_unit
+        value: "1.9%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "Real (price-adjusted) new orders in manufacturing rose 1.9% month-on-month in May 2026"
+      - claim: data publication date
+        kind: temporal
+        value: "6 July 2026"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "provisional figures published 6 July 2026 by Germany's Federal Statistical Office (Destatis)"
+      - claim: Destatis press release number
+        kind: numerical
+        value: "235"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "Press Release No. 235 of 6 July 2026"
+      - claim: analyst forecast for May factory orders
+        kind: numerical_with_unit
+        value: "1.2%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "This beat analyst expectations of a 1.2% gain"
+      - claim: new orders ex-large-scale orders month-on-month
+        kind: numerical_with_unit
+        value: "1.0%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "Excluding large-scale orders, new orders still rose 1.0% from April"
+      - claim: factory orders year-on-year change May 2026
+        kind: numerical_with_unit
+        value: "6.2%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "Year-on-year, factory orders surged 6.2%"
+      - claim: factory orders year-on-year April revised
+        kind: numerical_with_unit
+        value: "2.1%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "up from a revised 2.1% in April"
+      - claim: factory orders year-on-year April initial estimate
+        kind: numerical_with_unit
+        value: "1.6%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "itself revised higher from 1.6%"
+      - claim: April month-on-month revised figure
+        kind: numerical_with_unit
+        value: "-3.2%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "April's month-on-month figure was revised to -3.2% from the initial estimate of -3.8%"
+      - claim: April month-on-month initial estimate
+        kind: numerical_with_unit
+        value: "-3.8%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "from the initial estimate of -3.8%"
+      - claim: transport equipment orders month-on-month
+        kind: numerical_with_unit
+        value: "+85.0%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "transport equipment orders soared +85.0% month-on-month"
+      - claim: machinery and equipment orders month-on-month
+        kind: numerical_with_unit
+        value: "+3.7%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "machinery and equipment gained +3.7%"
+      - claim: electrical equipment orders month-on-month
+        kind: numerical_with_unit
+        value: "+5.7%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "electrical equipment rose +5.7%"
+      - claim: automotive industry orders month-on-month
+        kind: numerical_with_unit
+        value: "-3.8%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "automotive industry orders fell -3.8%"
+      - claim: computer and electronic products orders month-on-month
+        kind: numerical_with_unit
+        value: "-7.8%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "computer and electronic products declined -7.8%"
+      - claim: foreign orders month-on-month
+        kind: numerical_with_unit
+        value: "+2.2%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "foreign orders grew +2.2%"
+      - claim: euro-area orders month-on-month
+        kind: numerical_with_unit
+        value: "+11.2%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "with euro-area orders up a notably strong +11.2%"
+      - claim: domestic orders month-on-month
+        kind: numerical_with_unit
+        value: "+1.3%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "domestic orders rose +1.3%"
+      - claim: manufacturing sector turnover month-on-month May
+        kind: numerical_with_unit
+        value: "1.8%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "Manufacturing sector turnover increased 1.8% month-on-month in May"
+      - claim: manufacturing sector turnover year-on-year May
+        kind: numerical_with_unit
+        value: "4.2%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "was 4.2% higher than May 2025"
+      - claim: EUR/USD rate at data release
+        kind: numerical_with_unit
+        value: "1.1425"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "EUR/USD trading approximately 0.1% lower at 1.1425"
+      - claim: EUR/USD change at data release
+        kind: numerical_with_unit
+        value: "0.1%"
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "EUR/USD trading approximately 0.1% lower at 1.1425"
+      - claim: chief economist at VP Bank
+        kind: named_person
+        value: Thomas Gitzel
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "Thomas Gitzel, chief economist at VP Bank"
+      - claim: VP Bank institution
+        kind: named_institution
+        value: VP Bank
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "Thomas Gitzel, chief economist at VP Bank"
+      - claim: Destatis institution
+        kind: named_institution
+        value: Federal Statistical Office (Destatis)
+        source_urls:
+          - https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        verbatim_excerpt: "Germany's Federal Statistical Office (Destatis)"
+    quotes:
+      - speaker_name: Thomas Gitzel
+        speaker_title: Chief Economist, VP Bank
+        verbatim_en: "These are not easy times for the German economy. The automotive industry is undergoing downsizing, creating difficulties for many supplier industries."
+        source_url: https://www.destatis.de/EN/Press/2026/07/PE26_235_421.html
+        context: commentary on German factory orders data release July 6 2026
+
+  - story_id: european-stocks-record-highs-easyjet-surges
+    category: econ
+    headline_en: "European Stocks Hold at Record Highs as Cyclicals Lead; easyJet Surges 10% on £5.5bn Take-Private Bid"
+    lead_url: https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-07-06/ai-cracks-risk-ruining-europe-s-goldilocks-moment-taking-stock
+    locked_urls:
+      - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+      - https://www.bloomberg.com/news/articles/2026-07-06/ai-cracks-risk-ruining-europe-s-goldilocks-moment-taking-stock
+    hard_facts:
+      - claim: STOXX 600 index move on July 6 2026
+        kind: numerical_with_unit
+        value: "0.1%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "inching up 0.1% to 654 points as of 0826 GMT"
+      - claim: STOXX 600 index level
+        kind: numerical
+        value: "654"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "inching up 0.1% to 654 points as of 0826 GMT"
+      - claim: STOXX 600 time of reading
+        kind: temporal
+        value: "0826 GMT"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "inching up 0.1% to 654 points as of 0826 GMT"
+      - claim: date of STOXX 600 record level
+        kind: temporal
+        value: "Monday July 6, 2026"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "The pan-European STOXX 600 index held at record highs on Monday July 6, 2026"
+      - claim: easyJet share surge on bid day
+        kind: numerical_with_unit
+        value: "approximately 10%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "easyJet plc shares surged approximately 10%"
+      - claim: easyJet take-private valuation
+        kind: numerical_with_unit
+        value: "£5.5 billion ($7.34 billion)"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "valuing the carrier at up to £5.5 billion ($7.34 billion)"
+      - claim: Castlelake bid price per share
+        kind: numerical_with_unit
+        value: "£6.90 per share"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "at £6.90 per share"
+      - claim: Castlelake bid premium to Friday close
+        kind: numerical_with_unit
+        value: "24%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "representing a 24% premium to Friday's close"
+      - claim: Castlelake bid premium to May 29 level
+        kind: numerical_with_unit
+        value: "73%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "73% above the May 29 level when Castlelake first disclosed its interest"
+      - claim: Castlelake first disclosed interest date
+        kind: temporal
+        value: "May 29"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "73% above the May 29 level when Castlelake first disclosed its interest"
+      - claim: firm offer deadline date
+        kind: temporal
+        value: "August 3"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "subject to a firm offer being made by August 3"
+      - claim: Airbus gain on delivery target news
+        kind: numerical_with_unit
+        value: "1.3%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "Airbus gained 1.3% after setting an internal delivery target of 900 aircraft for 2026"
+      - claim: Airbus 2026 internal delivery target
+        kind: numerical_with_unit
+        value: "900 aircraft"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "after setting an internal delivery target of 900 aircraft for 2026"
+      - claim: Exail Technologies share gain on Thales deal
+        kind: numerical_with_unit
+        value: "2.1%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "Exail Technologies rose 2.1%"
+      - claim: Gorgé family stake in Exail Technologies
+        kind: numerical_with_unit
+        value: "35.51%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "Thales agreed to acquire the Gorgé family's 35.51% controlling stake"
+      - claim: Exail Technologies enterprise value
+        kind: numerical_with_unit
+        value: "€3.9 billion"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "a transaction implying an enterprise value of €3.9 billion for the defence and navigation technology group"
+      - claim: easyJet acquirer
+        kind: named_institution
+        value: Castlelake LP
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "sweetened take-private bid from US investment firm Castlelake LP"
+      - claim: Mohit Kumar institution
+        kind: named_institution
+        value: Jefferies
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "Mohit Kumar (economist, Jefferies)"
+      - claim: Mohit Kumar name
+        kind: named_person
+        value: Mohit Kumar
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "Mohit Kumar (economist, Jefferies) stated"
+    quotes:
+      - speaker_name: Mohit Kumar
+        speaker_title: Economist, Jefferies
+        verbatim_en: "The upcoming earnings season should be a test for the AI theme and likely shape market performance over coming months."
+        source_url: https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        context: commentary on European equity market outlook July 6 2026
+
+  - story_id: ecb-champ-conference-five-papers-rome
+    category: econ
+    headline_en: "ECB Publishes Five Research Papers on Monetary Policy Transmission at ChaMP Closing Conference in Rome"
+    lead_url: https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+    body_source: full
+    corroborated_by:
+      - https://www.bancaditalia.it/media/agenda/2026-07-06_champ-conference-challenges-for-monetary-policy-transmission-in-a-changing-world/
+    locked_urls:
+      - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+      - https://www.bancaditalia.it/media/agenda/2026-07-06_champ-conference-challenges-for-monetary-policy-transmission-in-a-changing-world/
+    hard_facts:
+      - claim: number of ECB occasional papers published
+        kind: numerical
+        value: "five"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "The European Central Bank published five Occasional Papers on 6 July 2026"
+      - claim: publication date
+        kind: temporal
+        value: "6 July 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "published five Occasional Papers on 6 July 2026"
+      - claim: conference dates
+        kind: temporal
+        value: "July 6-7, 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+          - https://www.bancaditalia.it/media/agenda/2026-07-06_champ-conference-challenges-for-monetary-policy-transmission-in-a-changing-world/
+        verbatim_excerpt: "held at Banca d'Italia's Centro Convegni Ciampi in Rome (July 6-7, 2026)"
+      - claim: ChaMP network name
+        kind: named_product
+        value: ChaMP
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "ESCB ChaMP (Challenges for Monetary Policy Transmission in a Changing World) Research Network"
+      - claim: conference venue
+        kind: named_institution
+        value: "Banca d'Italia's Centro Convegni Ciampi"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+          - https://www.bancaditalia.it/media/agenda/2026-07-06_champ-conference-challenges-for-monetary-policy-transmission-in-a-changing-world/
+        verbatim_excerpt: "held at Banca d'Italia's Centro Convegni Ciampi in Rome"
+      - claim: ECB Occasional Paper number — monetary policy transmission to firms
+        kind: numerical
+        value: "389"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "Occasional Paper No. 389 — \"Monetary policy transmission via banks to firms\""
+      - claim: ECB Occasional Paper number — transmission to households
+        kind: numerical
+        value: "390"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "No. 390 — \"Monetary policy transmission through the financial system to households\""
+      - claim: ECB Occasional Paper number — non-bank financial intermediation
+        kind: numerical
+        value: "391"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "No. 391 — \"Monetary policy transmission and non-bank financial intermediation\""
+      - claim: ECB Occasional Paper number — propagation of shocks
+        kind: numerical
+        value: "392"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "No. 392 — \"The propagation of shocks across the production network and implications for monetary policy\""
+      - claim: ECB Occasional Paper number — structural changes
+        kind: numerical
+        value: "393"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "No. 393 — \"Monetary policy transmission and structural changes\""
+      - claim: ECB Executive Board conference dinner speaker
+        kind: named_person
+        value: Philip R. Lane
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "ECB Executive Board member Philip R. Lane delivered the conference dinner speech"
+      - claim: ECB Executive Board policy panel chair
+        kind: named_person
+        value: Isabel Schnabel
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "ECB Executive Board member Isabel Schnabel chaired a policy panel"
+      - claim: ECB rate decision date
+        kind: temporal
+        value: "June 11, 2026"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "the ECB's rate-setting framework following the June 11, 2026 decision"
+      - claim: ECB rate hike at June 2026 decision
+        kind: numerical_with_unit
+        value: "25 basis points"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "raise key ECB rates by 25 basis points"
+      - claim: ECB deposit facility rate post-June 2026 hike
+        kind: numerical_with_unit
+        value: "2.25%"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "deposit facility rate to 2.25%"
+      - claim: euro-area headline inflation 2026 per ECB projections
+        kind: numerical_with_unit
+        value: "3.0%"
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "with headline euro-area inflation running at 3.0% in 2026 per ECB projections"
+      - claim: ECB institution
+        kind: named_institution
+        value: European Central Bank
+        source_urls:
+          - https://www.ecb.europa.eu/pub/research/authors/profiles/zuzana-gric.en.html
+        verbatim_excerpt: "The European Central Bank published five Occasional Papers"
+    quotes: []
+
+  - story_id: russia-missiles-kyiv-nato-ankara-summit-eve
+    category: politics
+    headline_en: "Russian Missiles Kill 14+ in Kyiv on Eve of NATO Ankara Summit; Ukraine Intercepted Zero Ballistic Missiles"
+    lead_url: https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+    body_source: full
+    corroborated_by:
+      - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+      - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+    hard_facts:
+      - claim: attack date
+        kind: temporal
+        value: "Monday July 6, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "Russia launched a massive overnight strike on Kyiv on Monday July 6, 2026"
+      - claim: total deaths from attack
+        kind: numerical_with_unit
+        value: "at least 14"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "killing at least 14 people"
+      - claim: deaths within Kyiv city limits
+        kind: numerical
+        value: "9"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "At least 9 people were killed and 46 wounded (including 5 children) within Kyiv city limits"
+      - claim: wounded within Kyiv city limits
+        kind: numerical
+        value: "46"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "46 wounded (including 5 children) within Kyiv city limits"
+      - claim: children among wounded
+        kind: numerical
+        value: "5"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "46 wounded (including 5 children)"
+      - claim: Bucha district fatalities
+        kind: numerical
+        value: "1"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "1 fatality was recorded in Bucha district northwest of the capital"
+      - claim: number of Russian ballistic missiles launched
+        kind: numerical
+        value: "29"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "none of the 29 Russian ballistic missiles launched during the night were intercepted"
+      - claim: ballistic missiles intercepted
+        kind: numerical
+        value: "0"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "none of the 29 Russian ballistic missiles launched during the night were intercepted"
+      - claim: Lockheed Martin annual Patriot interceptor production
+        kind: numerical_with_unit
+        value: "approximately 600 Patriot interceptors annually"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "Lockheed Martin produces approximately 600 Patriot interceptors annually"
+      - claim: Russian ballistic missiles fired per month
+        kind: numerical_with_unit
+        value: "approximately 120 ballistic missiles per month"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "while Russia fires approximately 120 ballistic missiles per month"
+      - claim: global Patriot stockpile depletion from US-Israel Iran operations
+        kind: numerical_with_unit
+        value: "nearly one-third"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "US-Israel operations against Iran have depleted nearly one-third of global Patriot stockpiles"
+      - claim: Lockheed Martin institution
+        kind: named_institution
+        value: Lockheed Martin
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "Lockheed Martin produces approximately 600 Patriot interceptors"
+      - claim: Ukrainian air force spokesperson
+        kind: named_person
+        value: "Col. Yurii Ihnat"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "Air force spokesperson Col. Yurii Ihnat stated"
+      - claim: Kyiv Mayor name
+        kind: named_person
+        value: Vitali Klitschko
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "Kyiv Mayor Vitali Klitschko confirmed"
+      - claim: Ukraine EU Ambassador name
+        kind: named_person
+        value: Vsevolod Chentsov
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "Ukraine's EU Ambassador Vsevolod Chentsov told Euronews"
+      - claim: Head of Kyiv City Military Administration
+        kind: named_person
+        value: Tymur Tkachenko
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "Head of Kyiv's City Military Administration Tymur Tkachenko stated"
+      - claim: NATO summit dates
+        kind: temporal
+        value: "July 7-8"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "32 allied leaders were to gather July 7-8"
+      - claim: NATO summit location
+        kind: named_institution
+        value: Ankara, Turkey
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "the NATO summit in Ankara, Turkey"
+      - claim: number of NATO allied leaders at summit
+        kind: numerical
+        value: "32"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "32 allied leaders were to gather July 7-8"
+      - claim: PAC-2 interceptor missile type
+        kind: named_product
+        value: PAC-2
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "Ukraine's critical shortage of PAC-2 and PAC-3 Patriot interceptors"
+      - claim: PAC-3 interceptor missile type
+        kind: named_product
+        value: PAC-3
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        verbatim_excerpt: "Ukraine's critical shortage of PAC-2 and PAC-3 Patriot interceptors"
+      - claim: districts hit in Kyiv — hardest hit
+        kind: named_institution
+        value: Podilskyi district
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "with Podilskyi hardest hit"
+      - claim: district with damaged buildings and trapped people
+        kind: named_institution
+        value: Darnytsia district
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        verbatim_excerpt: "multiple multi-storey buildings in Darnytsia district were damaged with people trapped under rubble"
+    quotes:
+      - speaker_name: "Col. Yurii Ihnat"
+        speaker_title: Ukrainian Air Force Spokesperson
+        verbatim_en: "We have enough systems, but what we need is a steady supply of missiles."
+        source_url: https://www.euronews.com/my-europe/2026/07/06/ukraines-air-defences-failed-to-intercept-any-russian-ballistic-missiles-air-force-says
+        context: statement on Ukraine air defence failures July 6 2026
+      - speaker_name: Vsevolod Chentsov
+        speaker_title: Ukraine's EU Ambassador
+        verbatim_en: "Russia is sending its message that they want to continue this war."
+        source_url: https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        context: interview with Euronews July 6 2026 after Kyiv strike
+      - speaker_name: Volodymyr Zelenskyy
+        speaker_title: President of Ukraine
+        verbatim_en: "It is critically important that the world, first and foremost the United States and our European partners, come out of the NATO Summit in Ankara with strong decisions in support of our air defence."
+        source_url: https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        context: call to NATO allies following Kyiv missile strike July 6 2026
+      - speaker_name: Tymur Tkachenko
+        speaker_title: Head of Kyiv City Military Administration
+        verbatim_en: "These are residential buildings. Places where people slept and lived their ordinary lives."
+        source_url: https://www.euronews.com/my-europe/2026/07/06/at-least-eight-killed-in-massive-overnight-russian-attack-on-kyiv
+        context: statement on civilian damage from Russian missile strike July 6 2026
+
+  - story_id: trump-attacks-meloni-nato-ankara-summit
+    category: politics
+    headline_en: "Trump Attacks Italian PM Meloni Ahead of NATO Ankara Summit Over Sicily Air Base Dispute"
+    lead_url: https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+    hard_facts:
+      - claim: date of Trump social media post
+        kind: temporal
+        value: "Monday July 6, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "US President Donald Trump posted a social media photo of himself with Italian Prime Minister Giorgia Meloni on Monday July 6, 2026"
+      - claim: Trump post caption
+        kind: named_product
+        value: "Restraining order needed"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "captioned \"Restraining order needed\""
+      - claim: NATO Ankara summit dates
+        kind: temporal
+        value: "July 7-8"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "NATO allies were to gather in Ankara for the July 7-8 summit"
+      - claim: Italian air base 1 named in dispute
+        kind: named_institution
+        value: Aviano
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "Italy's refusal to allow US military aircraft access to Sicilian air bases (Aviano and Sigonella)"
+      - claim: Italian air base 2 named in dispute
+        kind: named_institution
+        value: Sigonella
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "Italy's refusal to allow US military aircraft access to Sicilian air bases (Aviano and Sigonella)"
+      - claim: Italian PM identity
+        kind: named_person
+        value: Giorgia Meloni
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "Italian Prime Minister Giorgia Meloni"
+      - claim: US President identity
+        kind: named_person
+        value: Donald Trump
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "US President Donald Trump posted a social media photo"
+      - claim: Meloni's Brothers of Italy June 2026 polling level
+        kind: numerical_with_unit
+        value: "28.6%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "polling from June 2026 showed Meloni's Brothers of Italy party leading Italian voting intentions at 28.6%"
+      - claim: Meloni personal favorability 2023
+        kind: numerical_with_unit
+        value: "57%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "her personal favorability had declined from 57% in 2023 to approximately 35-44%"
+      - claim: Meloni personal favorability current range
+        kind: numerical_with_unit
+        value: "approximately 35-44%"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "to approximately 35-44%"
+      - claim: NATO Secretary General identity
+        kind: named_person
+        value: Mark Rutte
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "NATO Secretary General Mark Rutte's three priorities for Ankara"
+      - claim: NATO Ankara priority — allied defence investment target
+        kind: numerical_with_unit
+        value: "5% of GDP by 2035"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "increasing allied defence investment toward 5% of GDP by 2035"
+      - claim: NATO Ankara priority — Ukraine annual military equipment support
+        kind: numerical_with_unit
+        value: "€70 billion in military equipment annually in 2026-2027"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "supporting Ukraine with €70 billion in military equipment annually in 2026-2027"
+      - claim: European Allies and Canada defence investment increase 2025
+        kind: numerical_with_unit
+        value: "$139 billion in nominal terms in 2025"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "European Allies and Canada increased core defence investment by $139 billion in nominal terms in 2025"
+      - claim: Brothers of Italy party name
+        kind: named_institution
+        value: Brothers of Italy
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "Meloni's Brothers of Italy party leading Italian voting intentions"
+      - claim: Italian newspaper cited
+        kind: named_institution
+        value: Corriere della Sera
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        verbatim_excerpt: "according to Italian newspaper Corriere della Sera"
+    quotes:
+      - speaker_name: Giorgia Meloni
+        speaker_title: Italian Prime Minister
+        verbatim_en: "As for my popularity, being your friend has certainly not helped it, nor does it depend on my relationship with you."
+        source_url: https://www.euronews.com/my-europe/2026/07/06/trump-attacks-meloni-before-nato-summit-in-ankara-needs-a-restraining-order
+        context: social media response to Trump post July 6 2026
+
+  - story_id: eu-commission-enlargement-reform-october-summit
+    category: politics
+    headline_en: "European Commission Prepares EU Enlargement Reform Proposals Ahead of October Leaders' Summit"
+    lead_url: https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+    body_source: full
+    corroborated_by:
+      - https://www.euronews.com/my-europe/2026/07/06/newsletter-shining-a-light-on-who-gets-into-the-eu
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+      - https://www.euronews.com/my-europe/2026/07/06/newsletter-shining-a-light-on-who-gets-into-the-eu
+    hard_facts:
+      - claim: publication date of exclusive report
+        kind: temporal
+        value: "July 6, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "EU officials told Euronews in an exclusive report published July 6, 2026"
+      - claim: byline author of exclusive report
+        kind: named_person
+        value: Luca Bertuzzi
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "Byline: Luca Bertuzzi"
+      - claim: EU accession policy chapters requiring unanimous approval
+        kind: numerical
+        value: "35"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "all 27 member states must unanimously approve each opening and closing of the 35 accession policy chapters"
+      - claim: number of EU member states required for unanimous approval
+        kind: numerical
+        value: "27"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "all 27 member states must unanimously approve each opening and closing of the 35 accession policy chapters"
+      - claim: Montenegro accession cluster position
+        kind: named_institution
+        value: Montenegro
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "Montenegro, the most advanced accession candidate, is nearing the finish line"
+      - claim: proposed EU "associate membership" model author
+        kind: named_institution
+        value: Germany
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "Germany proposed \"associate membership\" — a graduated EU integration model stopping short of full membership"
+      - claim: number of EU founding members advocating post-accession safeguards
+        kind: numerical
+        value: "Five"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "Five EU founding members separately advocated for stronger post-accession democratic safeguards"
+      - claim: date Ukraine and Moldova advanced to second accession cluster
+        kind: temporal
+        value: "July 6"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "On July 6, all EU countries unanimously agreed to advance Ukraine and Moldova to the second of six accession clusters"
+      - claim: total EU accession clusters
+        kind: numerical
+        value: "six"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "to the second of six accession clusters"
+      - claim: formal confirmation of Ukraine/Moldova cluster advance date
+        kind: temporal
+        value: "July 14"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "with formal confirmation expected on July 14"
+      - claim: European Council President identity
+        kind: named_person
+        value: "António Costa"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "European Council President António Costa is consulting all 27 capitals ahead of the October summit"
+      - claim: Ukrainian President rejection of associate membership proposal
+        kind: named_person
+        value: Volodymyr Zelenskyy
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        verbatim_excerpt: "which Ukrainian President Zelenskyy explicitly rejected"
+    quotes:
+      - speaker_name: European Commission official (anonymous)
+        speaker_title: EU official
+        verbatim_en: "We are reflecting on how safeguards within future accession treaties could be devised. The objective is simple: ensure commitments made during negotiations...are upheld also after accession."
+        source_url: https://www.euronews.com/my-europe/2026/07/06/exclusive-commission-prepares-enlargement-reform-proposals-to-regain-the-initiative
+        context: exclusive briefing to Euronews on EU enlargement reform July 6 2026
+
+  - story_id: ep-strasbourg-july-plenary-passenger-rights
+    category: politics
+    headline_en: "European Parliament Opens Strasbourg July Plenary: Air Passenger Rights Vote, Heatwave Debate, Ukraine Accession"
+    lead_url: https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+    hard_facts:
+      - claim: plenary session dates
+        kind: temporal
+        value: "July 6-9, 2026"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "The European Parliament opened its July 6-9, 2026 plenary session in Strasbourg"
+      - claim: EU Council Presidency holder
+        kind: named_institution
+        value: Ireland
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "with Ireland holding the EU Council Presidency"
+      - claim: air passenger rights — flight delay compensation threshold
+        kind: numerical_with_unit
+        value: "three hours"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "financial compensation for flight delays of three hours or more"
+      - claim: air passenger rights — time since last major overhaul
+        kind: temporal
+        value: "over two decades"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "the first major overhaul of EU passenger rights rules in over two decades"
+      - claim: air passenger rights provisional agreement date
+        kind: temporal
+        value: "June 15, 2026"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "provisional agreement reached June 15, 2026"
+      - claim: new passenger rights rules effective year
+        kind: temporal
+        value: "2027"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "the new rules are to take effect in 2027"
+      - claim: June heatwave excess deaths across EU
+        kind: numerical_with_unit
+        value: "approximately 1,300 excess deaths"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "citing approximately 1,300 excess deaths from the June heatwave"
+      - claim: Europe warming rate vs global average
+        kind: numerical_with_unit
+        value: "twice the global average"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "Europe is the fastest warming continent, heating at twice the global average"
+      - claim: date Ukraine/Moldova advanced to second accession cluster
+        kind: temporal
+        value: "July 6"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "all EU countries agreed July 6 to advance both countries to the second accession cluster"
+      - claim: formal confirmation of cluster advance
+        kind: temporal
+        value: "July 14"
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "with formal confirmation due July 14"
+      - claim: byline of plenary priorities report
+        kind: named_person
+        value: Hugues Stéphane Beaudouin
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "Byline: Hugues Stéphane Beaudouin"
+      - claim: Renew Europe Group institution
+        kind: named_institution
+        value: Renew Europe Group
+        source_urls:
+          - https://www.reneweuropegroup.eu/news/2026-07-06/plenary-priorities-6-9-july-2026
+        verbatim_excerpt: "Renew Europe requested a debate on the increasing frequency of European heatwaves"
+    quotes: []
+
+  - story_id: un-global-ai-governance-dialogue-geneva
+    category: tech
+    headline_en: "UN Inaugural Global AI Governance Dialogue Opens in Geneva; Scientists Warn AI Could Cause 'Catastrophic Harm'"
+    lead_url: https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+    body_source: full
+    corroborated_by:
+      - https://www.itu.int/en/mediacentre/Pages/MA-2026-06-02-UN-Dialogue.aspx
+      - https://www.mea.gov.in/press-releases?dtl%2F41403=
+    locked_urls:
+      - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+      - https://www.itu.int/en/mediacentre/Pages/MA-2026-06-02-UN-Dialogue.aspx
+      - https://www.mea.gov.in/press-releases?dtl%2F41403=
+    hard_facts:
+      - claim: event opening date
+        kind: temporal
+        value: "Monday July 6, 2026"
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "opened on Monday July 6, 2026, at the Palexpo convention centre in Geneva, Switzerland"
+      - claim: event duration
+        kind: temporal
+        value: "July 6-7"
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "The two-day event (July 6-7)"
+      - claim: event venue
+        kind: named_institution
+        value: "Palexpo convention centre"
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "at the Palexpo convention centre in Geneva, Switzerland"
+      - claim: number of UN member states attending
+        kind: numerical
+        value: "193"
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "attended by all 193 UN member states"
+      - claim: WSIS Forum dates
+        kind: temporal
+        value: "July 6-10"
+        source_urls:
+          - https://www.itu.int/en/mediacentre/Pages/MA-2026-06-02-UN-Dialogue.aspx
+        verbatim_excerpt: "World Summit on the Information Society Forum (July 6-10)"
+      - claim: ITU AI for Good Global Summit dates
+        kind: temporal
+        value: "July 7-10"
+        source_urls:
+          - https://www.itu.int/en/mediacentre/Pages/MA-2026-06-02-UN-Dialogue.aspx
+        verbatim_excerpt: "ITU AI for Good Global Summit (July 7-10)"
+      - claim: Event Co-Chair Estonia
+        kind: named_person
+        value: Ambassador Rein Tammsaar
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "Event Co-Chairs: Ambassador Rein Tammsaar (Estonia's Permanent Representative to the UN)"
+      - claim: Event Co-Chair El Salvador
+        kind: named_person
+        value: Ambassador Egriselda López
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "Ambassador Egriselda López (El Salvador)"
+      - claim: Scientific Panel co-chair — deep learning pioneer
+        kind: named_person
+        value: Yoshua Bengio
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "co-chaired by Yoshua Bengio (Turing Award-winning deep learning pioneer)"
+      - claim: Yoshua Bengio award
+        kind: named_product
+        value: Turing Award
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "Yoshua Bengio (Turing Award-winning deep learning pioneer)"
+      - claim: Scientific Panel co-chair — journalist
+        kind: named_person
+        value: Maria Ressa
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "Maria Ressa (Nobel Peace Prize laureate and journalist)"
+      - claim: Maria Ressa award
+        kind: named_product
+        value: Nobel Peace Prize
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "Maria Ressa (Nobel Peace Prize laureate and journalist)"
+      - claim: US share of global AI supercomputing capacity
+        kind: numerical_with_unit
+        value: "approximately 75%"
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "the US holds approximately 75% of global AI supercomputing capacity"
+      - claim: China share of global AI supercomputing capacity
+        kind: numerical_with_unit
+        value: "roughly 15%"
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "with China at roughly 15%"
+      - claim: US plus China combined share of AI supercomputing
+        kind: numerical_with_unit
+        value: "approximately 90% combined"
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "approximately 90% combined"
+      - claim: second dialogue session location and date
+        kind: temporal
+        value: "New York in May 2027"
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "A second dialogue session is scheduled for New York in May 2027"
+      - claim: UNESCO institution
+        kind: named_institution
+        value: UNESCO
+        source_urls:
+          - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        verbatim_excerpt: "The United Nations' inaugural Global Dialogue on Artificial Intelligence Governance"
+      - claim: ITU institution
+        kind: named_institution
+        value: ITU
+        source_urls:
+          - https://www.itu.int/en/mediacentre/Pages/MA-2026-06-02-UN-Dialogue.aspx
+        verbatim_excerpt: "ITU AI for Good Global Summit"
+    quotes:
+      - speaker_name: Yoshua Bengio
+        speaker_title: Scientific Panel Co-Chair, Independent International Scientific Panel on Artificial Intelligence
+        verbatim_en: "Science currently cannot guarantee that as capabilities continue to increase, AI will not cause catastrophic harm."
+        source_url: https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        context: presentation at UN Global AI Governance Dialogue Geneva July 6 2026
+      - speaker_name: Maria Ressa
+        speaker_title: Scientific Panel Co-Chair, Independent International Scientific Panel on Artificial Intelligence
+        verbatim_en: "Not one country can deal with this technology alone; it needs multilateral solution."
+        source_url: https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+        context: presentation at UN Global AI Governance Dialogue Geneva July 6 2026
+
+  - story_id: eu-microplastic-filters-washing-machines-mandate
+    category: tech
+    headline_en: "EU Mandates Microplastic Filters for Washing Machines as Second July Heatwave Spotlights Green Tech Gap"
+    lead_url: https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+    hard_facts:
+      - claim: share of fabric produced today that is synthetic
+        kind: numerical_with_unit
+        value: "approximately 60%"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "Approximately 60% of all fabric produced today is synthetic (plastic-based)"
+      - claim: microplastics released per wash cycle
+        kind: numerical_with_unit
+        value: "roughly 1 gram"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "Each wash cycle releases roughly 1 gram of microplastics"
+      - claim: microplastics entering UK water supply daily
+        kind: numerical_with_unit
+        value: "approximately 16 tonnes"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "approximately 16 tonnes of microplastics enter the water supply daily"
+      - claim: UK households estimated total
+        kind: numerical_with_unit
+        value: "approximately 24 million households"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "from an estimated 24 million households"
+      - claim: Matter filter efficiency
+        kind: numerical_with_unit
+        value: "97% efficiency"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "a retrofit device achieving 97% efficiency at capturing particles as small as 10 microns"
+      - claim: Matter filter minimum particle size captured
+        kind: numerical_with_unit
+        value: "10 microns"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "at capturing particles as small as 10 microns"
+      - claim: Matter filter installation time
+        kind: temporal
+        value: "under 10 minutes"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "it installs in under 10 minutes"
+      - claim: Matter filter emptying frequency
+        kind: temporal
+        value: "approximately once per month"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "requires emptying approximately once per month"
+      - claim: Matter CEO name
+        kind: named_person
+        value: Adam Root
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "Adam Root, CEO of Matter, explained"
+      - claim: Matter company name
+        kind: named_institution
+        value: Matter
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "UK-based greentech startup Matter"
+      - claim: EarthShot Prize finalist year
+        kind: temporal
+        value: "2025"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "Matter was a finalist for the 2025 EarthShot Prize"
+      - claim: EarthShot Prize award name
+        kind: named_product
+        value: EarthShot Prize
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "a finalist for the 2025 EarthShot Prize"
+      - claim: Matter current countries of sale
+        kind: numerical
+        value: "11"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "currently sells in 11 countries"
+      - claim: Matter countries of sale planned by year-end 2026
+        kind: numerical
+        value: "22"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        verbatim_excerpt: "with expansion planned to 22 countries by year-end 2026"
+    quotes:
+      - speaker_name: Adam Root
+        speaker_title: CEO, Matter
+        verbatim_en: "A washing machine abrades pieces of plastic like a cheese grater."
+        source_url: https://www.euronews.com/2026/07/06/microplastic-filters-for-washing-machines-could-soon-be-mandatory-in-the-eu-how-do-they-wo
+        context: explanation of microplastic generation mechanism in Euronews feature July 6 2026
+
+  - story_id: southern-europe-wildfires-190km2-portugal-spain
+    category: society
+    headline_en: "Southern Europe Wildfires Kill, Burn 190km² Across Portugal, Spain, France and Greece"
+    lead_url: https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+    body_source: full
+    corroborated_by:
+      - https://www.pbs.org/newshour/world/wildfires-rage-in-portugal-greece-and-spain-while-greek-authorities-warn-of-toxic-smoke
+      - https://www.gulftoday.ae/news/2026/07/06/wildfires-rage-in-portugal-greece-and-spain
+    locked_urls:
+      - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+      - https://www.pbs.org/newshour/world/wildfires-rage-in-portugal-greece-and-spain-while-greek-authorities-warn-of-toxic-smoke
+      - https://www.gulftoday.ae/news/2026/07/06/wildfires-rage-in-portugal-greece-and-spain
+    hard_facts:
+      - claim: total area burned across southern Europe
+        kind: numerical_with_unit
+        value: "over 190 square kilometres"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "burning over 190 square kilometres across Portugal, Spain, France, and Greece"
+      - claim: date of wildfire reports
+        kind: temporal
+        value: "Monday July 6, 2026"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "Wildfires raged across southern Europe on Monday July 6, 2026"
+      - claim: Portugal Vouzela fire duration
+        kind: temporal
+        value: "more than three days"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "a blaze burning for more than three days"
+      - claim: Portugal Vouzela fire area burned
+        kind: numerical_with_unit
+        value: "approximately 13,000 hectares"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "had consumed approximately 13,000 hectares (controlled at 80%)"
+      - claim: Portugal Vouzela fire containment level
+        kind: numerical_with_unit
+        value: "80%"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "approximately 13,000 hectares (controlled at 80%)"
+      - claim: Portugal firefighters deployed
+        kind: numerical_with_unit
+        value: "over 1,200 firefighters"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "over 1,200 firefighters, nearly 400 vehicles, and 15 aircraft deployed"
+      - claim: Portugal vehicles deployed
+        kind: numerical_with_unit
+        value: "nearly 400 vehicles"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "over 1,200 firefighters, nearly 400 vehicles, and 15 aircraft deployed"
+      - claim: Portugal aircraft deployed
+        kind: numerical_with_unit
+        value: "15 aircraft"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "over 1,200 firefighters, nearly 400 vehicles, and 15 aircraft deployed"
+      - claim: Spain reinforcement firefighters from Spain for Portugal
+        kind: numerical_with_unit
+        value: "120 firefighters"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "Spain sent 120 firefighters and 45 vehicles plus aircraft from Italy and Spain as reinforcements"
+      - claim: Spain reinforcement vehicles for Portugal
+        kind: numerical_with_unit
+        value: "45 vehicles"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "Spain sent 120 firefighters and 45 vehicles"
+      - claim: Spain Costa Brava fire area
+        kind: numerical_with_unit
+        value: "nearly 2,200 hectares"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "a wildfire had burned nearly 2,200 hectares in two days"
+      - claim: Spain Costa Brava fire duration
+        kind: temporal
+        value: "two days"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "a wildfire had burned nearly 2,200 hectares in two days"
+      - claim: Spain Costa Brava residents ordered indoors or evacuate
+        kind: numerical_with_unit
+        value: "approximately 50,000 people"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "approximately 50,000 people ordered to remain indoors or evacuate"
+      - claim: France Perpignan fire area
+        kind: numerical_with_unit
+        value: "46 square kilometres"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "46 square kilometres burned"
+      - claim: France Perpignan residents evacuated
+        kind: numerical_with_unit
+        value: "10,000 residents"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "10,000 residents were evacuated"
+      - claim: France casualties — firefighter
+        kind: numerical
+        value: "one firefighter"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "one firefighter and one resident were injured"
+      - claim: France casualties — resident
+        kind: numerical
+        value: "one resident"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "one firefighter and one resident were injured"
+      - claim: France — Catalan Regional Prefect name
+        kind: named_person
+        value: Pierre Regnault de la Mothe
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "Catalan Regional Prefect Pierre Regnault de la Mothe declared"
+      - claim: Greece disability facility evacuated persons
+        kind: numerical_with_unit
+        value: "157-person disability facility"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "a 157-person disability facility"
+      - claim: EU Commission President name
+        kind: named_person
+        value: Ursula von der Leyen
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "EU Commission President Ursula von der Leyen announced deployment of four water-bombing aircraft"
+      - claim: water-bombing aircraft deployed from Cyprus and Sweden
+        kind: numerical_with_unit
+        value: "four water-bombing aircraft"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "deployment of four water-bombing aircraft from Cyprus and Sweden to support French firefighters"
+      - claim: French Fire Service spokesperson
+        kind: named_person
+        value: "Col. Eric Belgioino"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "French Fire Service Col. Eric Belgioino stated"
+      - claim: forecast temperatures through following weekend
+        kind: numerical_with_unit
+        value: "40°C"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "forecasters predicting temperatures reaching 40°C through the following weekend"
+      - claim: PBS AP corroborator byline
+        kind: named_person
+        value: Elena Becatoros
+        source_urls:
+          - https://www.pbs.org/newshour/world/wildfires-rage-in-portugal-greece-and-spain-while-greek-authorities-warn-of-toxic-smoke
+        verbatim_excerpt: "PBS NewsHour / Associated Press (Elena Becatoros)"
+      - claim: Spain Costa Brava region
+        kind: named_institution
+        value: "Costa Brava, Girona region"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "In Spain (Costa Brava, Girona region)"
+      - claim: France fire region
+        kind: named_institution
+        value: "Pyrénées-Orientales region"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        verbatim_excerpt: "In France (Perpignan / Pyrénées-Orientales region)"
+    quotes:
+      - speaker_name: "Col. Eric Belgioino"
+        speaker_title: French Fire Service Colonel
+        verbatim_en: "Climate change is here, we are living the consequences and it is only the start of July."
+        source_url: https://www.euronews.com/2026/07/06/wildfires-rage-in-portugal-and-spain-as-authorities-in-greece-warn-of-toxic-smoke
+        context: statement on southern European wildfire crisis July 6 2026
+
+  - story_id: second-heatwave-spain-southern-europe-ep-debate
+    category: society
+    headline_en: "Second Heatwave Engulfs Spain and Southern Europe; European Parliament Opens Heatwave Debate"
+    lead_url: https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+    hard_facts:
+      - claim: byline of source article
+        kind: named_person
+        value: Karolina Krol
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "Byline: Karolina Krol"
+      - claim: Spain AEMET alert level issued
+        kind: named_product
+        value: orange alerts
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "Spain's State Meteorological Agency AEMET issued orange alerts for multiple regions on Sunday July 5-6"
+      - claim: AEMET alert dates
+        kind: temporal
+        value: "Sunday July 5-6"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "issued orange alerts for multiple regions on Sunday July 5-6"
+      - claim: Spain temperatures during second heatwave
+        kind: numerical_with_unit
+        value: "42-44°C"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "temperatures reaching up to 42-44°C in Andalusia"
+      - claim: Spain first June heatwave excess deaths — MoMo system
+        kind: numerical_with_unit
+        value: "approximately 900-1,028 excess deaths"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "The first June heatwave, according to Spain's MoMo mortality monitoring system, caused approximately 900-1,028 excess deaths"
+      - claim: Spain MoMo system name
+        kind: named_product
+        value: MoMo
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "according to Spain's MoMo mortality monitoring system"
+      - claim: Spain hottest June ranking
+        kind: temporal
+        value: "second-hottest June since measurements began in 1961"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "Spain recording its second-hottest June since measurements began in 1961"
+      - claim: EU June heatwave excess deaths from June 21
+        kind: numerical_with_unit
+        value: "over 1,300 excess deaths since June 21, 2026"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "the June heatwave was linked to over 1,300 excess deaths since June 21, 2026, per the World Health Organization"
+      - claim: EU heatwave excess deaths broader estimate by July 5
+        kind: numerical_with_unit
+        value: "an estimated 5,600 excess deaths by July 5"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "with an estimated 5,600 excess deaths by July 5 according to broader tracking"
+      - claim: World Weather Attribution conclusion on June heatwave
+        kind: named_institution
+        value: World Weather Attribution
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "The World Weather Attribution group concluded the June heatwave was \"virtually impossible\" without climate change"
+      - claim: Renew Europe heatwave debate date
+        kind: temporal
+        value: "Monday July 6"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "on Monday July 6, the European Parliament's Renew Europe group opened a debate in Strasbourg"
+      - claim: Spain AEMET institution
+        kind: named_institution
+        value: "Spain's State Meteorological Agency AEMET"
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "Spain's State Meteorological Agency AEMET issued orange alerts"
+      - claim: WHO institution
+        kind: named_institution
+        value: World Health Organization
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "per the World Health Organization"
+      - claim: European Trade Union Confederation demand
+        kind: named_institution
+        value: European Trade Union Confederation
+        source_urls:
+          - https://www.euronews.com/my-europe/2026/07/06/europe-today-ukraine-nato-and-the-future-of-eu-enlargement
+        verbatim_excerpt: "the European Trade Union Confederation's call for a maximum working temperature law"
+    quotes: []
+
+  - story_id: thales-exail-technologies-3-9bn-deal
+    category: ipo_ma
+    headline_en: "Thales Agrees €3.9 Billion Deal to Acquire Exail Technologies, Targeting Underwater Warfare and Navigation"
+    lead_url: https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-07-06/thales-agrees-3-9-billion-deal-to-acquire-exail-technologies
+      - https://www.navaltoday.com/2026/07/06/thales-signs-agreement-to-buy-stake-in-exail/
+      - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+    locked_urls:
+      - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+      - https://www.bloomberg.com/news/articles/2026-07-06/thales-agrees-3-9-billion-deal-to-acquire-exail-technologies
+      - https://www.navaltoday.com/2026/07/06/thales-signs-agreement-to-buy-stake-in-exail/
+      - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+    hard_facts:
+      - claim: deal announcement date
+        kind: temporal
+        value: "6 July 2026"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "French defence electronics group Thales agreed on 6 July 2026"
+      - claim: Gorgé family stake in Exail Technologies
+        kind: numerical_with_unit
+        value: "35.51%"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "to acquire the Gorgé family's 35.51% controlling stake in Exail Technologies"
+      - claim: Thales acquisition price per Exail share
+        kind: numerical_with_unit
+        value: "€134 per share"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "at €134 per share"
+      - claim: premium to Exail June 26 closing price
+        kind: numerical_with_unit
+        value: "44%"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "a 44% premium to Exail's June 26 closing price"
+      - claim: Exail enterprise value
+        kind: numerical_with_unit
+        value: "€3.9 billion"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+          - https://www.bloomberg.com/news/articles/2026-07-06/thales-agrees-3-9-billion-deal-to-acquire-exail-technologies
+        verbatim_excerpt: "The transaction implies an enterprise value for Exail Technologies of €3.9 billion"
+      - claim: Safran prior price per Exail share
+        kind: numerical_with_unit
+        value: "€128.5 per share"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "Safran had entered exclusive talks to acquire Exail at €128.5 per share on June 26, 2026"
+      - claim: Safran exclusive talks entry date
+        kind: temporal
+        value: "June 26, 2026"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "Safran had entered exclusive talks to acquire Exail at €128.5 per share on June 26, 2026"
+      - claim: Safran termination date
+        kind: temporal
+        value: "July 3"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "but terminated negotiations on July 3 after failing to reach agreement on final terms"
+      - claim: Exail former name
+        kind: named_institution
+        value: ECA Group
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "Exail Technologies (formerly ECA Group)"
+      - claim: Exail expected annual synergies by 2032
+        kind: numerical_with_unit
+        value: "more than €90 million per year"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "Exail is expected to generate more than €90 million per year in annual revenue and cost synergies for Thales"
+      - claim: synergy target year
+        kind: temporal
+        value: "2032"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "By 2032, Exail is expected to generate more than €90 million per year"
+      - claim: expected closing of Gorgé stake acquisition
+        kind: temporal
+        value: "Q3 2027"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "The closing of the acquisition of the Gorgé family's stake is expected by Q3 2027"
+      - claim: expected full closing of Exail acquisition
+        kind: temporal
+        value: "early 2028"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "with full closing expected by early 2028"
+      - claim: French financial regulator for mandatory tender offer
+        kind: named_institution
+        value: "Autorité des marchés financiers (AMF)"
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "mandatory tender offer for 100% of Exail shares and ODIRNANE bonds with the Autorité des marchés financiers (AMF)"
+      - claim: Thales acquirer institution
+        kind: named_institution
+        value: Thales
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "French defence electronics group Thales agreed"
+      - claim: Exail target institution
+        kind: named_institution
+        value: Exail Technologies
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "to acquire the Gorgé family's 35.51% controlling stake in Exail Technologies"
+      - claim: Safran prior bidder institution
+        kind: named_institution
+        value: Safran
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "Safran had entered exclusive talks to acquire Exail"
+      - claim: tender offer bond type
+        kind: named_product
+        value: ODIRNANE
+        source_urls:
+          - https://live.euronext.com/en/products/equities/company-news/2026-07-06-thales-acquire-gorge-familys-stake-exail-view-launching
+        verbatim_excerpt: "mandatory tender offer for 100% of Exail shares and ODIRNANE bonds"
+    quotes: []
+
+  - story_id: easyjet-castlelake-5-5bn-take-private-bid
+    category: ipo_ma
+    headline_en: "easyJet Agrees in Principle to £5.5bn Take-Private Bid from Castlelake; Board 'Minded to Recommend'"
+    lead_url: https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/newsletters/2026-07-06/easyjet-agrees-takeover-by-castlelake-for-over-5-billion
+      - https://www.airwaysmag.com/new-post/easyjet-yes-ps5-2b-castlelake-takeover-offer
+      - https://newscord.org/article/easyjet-agrees-in-principle-to-castlelakes-690-per-share-takeover-bid--Story_20260705_EasyJetreachesagreem56b3b79e
+    locked_urls:
+      - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+      - https://www.bloomberg.com/news/newsletters/2026-07-06/easyjet-agrees-takeover-by-castlelake-for-over-5-billion
+      - https://www.airwaysmag.com/new-post/easyjet-yes-ps5-2b-castlelake-takeover-offer
+      - https://newscord.org/article/easyjet-agrees-in-principle-to-castlelakes-690-per-share-takeover-bid--Story_20260705_EasyJetreachesagreem56b3b79e
+    hard_facts:
+      - claim: easyJet agreement in principle date
+        kind: temporal
+        value: "Sunday July 5, 2026"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "easyJet plc agreed in principle on Sunday July 5, 2026"
+      - claim: Castlelake bid price per share
+        kind: numerical_with_unit
+        value: "£6.90 per share"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+          - https://www.bloomberg.com/news/newsletters/2026-07-06/easyjet-agrees-takeover-by-castlelake-for-over-5-billion
+        verbatim_excerpt: "take-private bid from US investment firm Castlelake LP at £6.90 per share in cash"
+      - claim: number of prior Castlelake bids rejected
+        kind: numerical
+        value: "fifth offer"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "the fifth offer from Castlelake after the board rejected four prior bids as too low"
+      - claim: easyJet equity value under offer
+        kind: numerical_with_unit
+        value: "£5.23 billion"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "The offer values easyJet at an equity value of £5.23 billion"
+      - claim: easyJet fully diluted value under offer
+        kind: numerical_with_unit
+        value: "£5.52 billion ($7.34 billion)"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "rising to a fully diluted value of £5.52 billion ($7.34 billion)"
+      - claim: firm offer deadline
+        kind: temporal
+        value: "August 3, 2026"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "subject to a firm offer being made by August 3, 2026"
+      - claim: premium to Friday closing price
+        kind: numerical_with_unit
+        value: "24%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "The offer represents a 24% premium to easyJet's Friday closing price"
+      - claim: premium to May 29 price
+        kind: numerical_with_unit
+        value: "73%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "a 73% premium to its May 29 price"
+      - claim: Castlelake first interest disclosure date
+        kind: temporal
+        value: "May 29"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "May 29 price, the day Castlelake first disclosed its interest in the airline"
+      - claim: easyJet shares surge when London markets opened
+        kind: numerical_with_unit
+        value: "approximately 10%"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "easyJet shares surged approximately 10% when London markets opened on Monday July 6"
+      - claim: easyJet founder name
+        kind: named_person
+        value: Stelios Haji-Ioannou
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "easyJet's founder Stelios Haji-Ioannou (British-Cypriot entrepreneur)"
+      - claim: Stelios Haji-Ioannou stake in easyJet
+        kind: numerical_with_unit
+        value: "approximately a 15% stake"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "retains approximately a 15% stake alongside his family"
+      - claim: easyJet annual passengers
+        kind: numerical_with_unit
+        value: "approximately 87 million passengers carried per year"
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "With approximately 87 million passengers carried per year"
+      - claim: easyJet competitor named
+        kind: named_institution
+        value: Ryanair
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "easyJet is one of Europe's two largest low-cost carriers alongside Ryanair"
+      - claim: Castlelake focus industry
+        kind: named_institution
+        value: Castlelake
+        source_urls:
+          - https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-easyjet-soars-on-takeprivate-bid-4775655
+        verbatim_excerpt: "Castlelake is a US alternative investment manager focused on asset-heavy industries"
+      - claim: NewsCord corroboration source count
+        kind: numerical
+        value: "14 sources"
+        source_urls:
+          - https://newscord.org/article/easyjet-agrees-in-principle-to-castlelakes-690-per-share-takeover-bid--Story_20260705_EasyJetreachesagreem56b3b79e
+        verbatim_excerpt: "NewsCord aggregator (14 sources corroboration)"
+    quotes: []
