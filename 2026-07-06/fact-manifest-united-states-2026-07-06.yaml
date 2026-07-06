@@ -1,0 +1,1987 @@
+version: 1
+generated_at: 2026-07-06T13:27:36Z
+country: United States
+date: 2026-07-06
+total_stories: 17
+stories:
+  - story_id: us-treasury-yields-dow-record-52900
+    category: econ
+    headline_en: "US Treasury Yields Edge Lower as Markets Await June FOMC Minutes; Dow Hits Record 52,900"
+    lead_url: https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+    body_source: full
+    corroborated_by:
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-6-2026
+      - https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-6-064600457.html
+    locked_urls:
+      - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+      - https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-6-2026
+      - https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-6-064600457.html
+    hard_facts:
+      - claim: date of market session
+        kind: temporal
+        value: Monday, July 6, 2026
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "US Treasury yields edged lower on Monday, July 6, 2026"
+      - claim: FOMC meeting dates covered by minutes
+        kind: temporal
+        value: June 16–17
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "anticipation of the June 16–17 FOMC meeting minutes, due Wednesday, July 8"
+      - claim: FOMC minutes release date
+        kind: temporal
+        value: Wednesday, July 8
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "due Wednesday, July 8"
+      - claim: time of yield snapshot
+        kind: temporal
+        value: 4:26 a.m. ET
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "At 4:26 a.m. ET"
+      - claim: 10-year Treasury yield change
+        kind: numerical_with_unit
+        value: nearly 2 basis points
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the benchmark 10-year Treasury yield fell nearly 2 basis points to 4.459%"
+      - claim: 10-year Treasury yield level
+        kind: numerical_with_unit
+        value: "4.459%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the benchmark 10-year Treasury yield fell nearly 2 basis points to 4.459%"
+      - claim: 2-year Treasury note change
+        kind: numerical_with_unit
+        value: over 1 basis point
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the 2-year note declined over 1 basis point to 4.112%"
+      - claim: 2-year Treasury note yield level
+        kind: numerical_with_unit
+        value: "4.112%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the 2-year note declined over 1 basis point to 4.112%"
+      - claim: 30-year bond yield change
+        kind: numerical_with_unit
+        value: 1 basis point
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the 30-year bond shed 1 basis point to yield 4.969%"
+      - claim: 30-year bond yield level
+        kind: numerical_with_unit
+        value: "4.969%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the 30-year bond shed 1 basis point to yield 4.969%"
+      - claim: Fed Chair identity
+        kind: named_person
+        value: Kevin Warsh
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "Fed Chair Kevin Warsh declined to participate in the quarterly dot plot at his first FOMC meeting"
+      - claim: Dow Jones Industrial Average percentage gain
+        kind: numerical_with_unit
+        value: "1.14%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "The Dow Jones Industrial Average rose 1.14% (594.83 points) to a record close of 52,900.07"
+      - claim: Dow Jones Industrial Average point gain
+        kind: numerical_with_unit
+        value: 594.83 points
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "The Dow Jones Industrial Average rose 1.14% (594.83 points) to a record close of 52,900.07"
+      - claim: Dow Jones Industrial Average record close
+        kind: numerical_with_unit
+        value: "52,900.07"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "to a record close of 52,900.07"
+      - claim: Nasdaq Composite percentage decline
+        kind: numerical_with_unit
+        value: "0.8%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the Nasdaq Composite slid 0.8% (207.36 points) to 25,832.67"
+      - claim: Nasdaq Composite point decline
+        kind: numerical_with_unit
+        value: 207.36 points
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the Nasdaq Composite slid 0.8% (207.36 points) to 25,832.67"
+      - claim: Nasdaq Composite close
+        kind: numerical_with_unit
+        value: "25,832.67"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the Nasdaq Composite slid 0.8% (207.36 points) to 25,832.67"
+      - claim: Micron (MU) stock decline
+        kind: numerical_with_unit
+        value: "5.5%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "Micron (MU) fell 5.5%"
+      - claim: AMD stock decline
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "AMD dropped 4.3%"
+      - claim: Intel (INTC) stock decline
+        kind: numerical_with_unit
+        value: "5.3%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "Intel (INTC) lost 5.3%"
+      - claim: S&P 500 close
+        kind: numerical_with_unit
+        value: "7,483.24"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "The S&P 500 closed at 7,483.24"
+      - claim: federal funds rate held level
+        kind: numerical_with_unit
+        value: "3.50%–3.75%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "The Fed held the federal funds rate at 3.50%–3.75% for a fourth consecutive meeting in June"
+      - claim: FOMC meeting cadence under Warsh
+        kind: temporal
+        value: fourth consecutive meeting
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "for a fourth consecutive meeting in June — the first under Warsh"
+      - claim: median end-2026 funds-rate projection
+        kind: numerical_with_unit
+        value: "3.8%"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "with a median end-2026 funds-rate projection of 3.8%"
+      - claim: Fed inflation target
+        kind: numerical_with_unit
+        value: "2 percent"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "the Fed's long-stated inflation goal of 2 percent"
+      - claim: duration of above-target inflation
+        kind: temporal
+        value: more than five years
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        verbatim_excerpt: "that's been going on for more than five years"
+    quotes:
+      - speaker_name: Kevin Warsh
+        speaker_title: Federal Reserve Chair
+        verbatim_en: "We recognize that inflation has been running well ahead of the Fed's long-stated inflation goal of 2 percent — that's been going on for more than five years. Persistently high prices are a burden for the American people."
+        source_url: https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+        context: statement at or around first FOMC meeting under Warsh, June 2026
+
+  - story_id: ustr-section-301-forced-labor-tariff
+    category: econ
+    headline_en: "USTR Section 301 Forced-Labor Tariff Comment Deadline Passes; Hearings Begin July 7 on Proposed 10%–12.5% Duties Covering 60 Economies"
+    lead_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+    body_source: full
+    corroborated_by:
+      - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+      - https://www.gibsondunn.com/ustr-proposes-new-section-301-forced-labor-tariffs-covering-most-major-us-trading-partners/
+    locked_urls:
+      - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+      - https://www.cnbc.com/2026/07/06/us-treasury-yields-investors-look-ahead-to-fomc-meeting-minutesu.html
+      - https://www.gibsondunn.com/ustr-proposes-new-section-301-forced-labor-tariffs-covering-most-major-us-trading-partners/
+    hard_facts:
+      - claim: comment deadline date
+        kind: temporal
+        value: July 6, 2026
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "July 6, 2026 was the deadline for public written comments"
+      - claim: number of trading partners covered
+        kind: numerical
+        value: "60"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "the USTR's Section 301 forced-labor tariff investigation covering 60 trading partners"
+      - claim: number of partners found non-compliant
+        kind: numerical
+        value: "54"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "USTR found 54 of the 60 fail to enforce a prohibition on imports produced with forced labor"
+      - claim: lower proposed tariff rate
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "proposed a 10% additional tariff on goods from economies with some form of forced-labor import prohibition"
+      - claim: higher proposed tariff rate
+        kind: numerical_with_unit
+        value: "12.5%"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "12.5% for the rest"
+      - claim: Federal Register docket for comments
+        kind: named_product
+        value: USTR-2026-0265
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Federal Register dockets USTR-2026-0265 (comments)"
+      - claim: Federal Register docket for hearings
+        kind: named_product
+        value: USTR-2026-0266
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "USTR-2026-0266 (hearings)"
+      - claim: public hearings start date
+        kind: temporal
+        value: July 7
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Public hearings begin July 7 at the US International Trade Commission at 10:00 a.m. ET"
+      - claim: hearing venue
+        kind: named_institution
+        value: US International Trade Commission
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "at the US International Trade Commission at 10:00 a.m. ET"
+      - claim: hearing start time
+        kind: temporal
+        value: 10:00 a.m. ET
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "at the US International Trade Commission at 10:00 a.m. ET"
+      - claim: share of US trading partners covered
+        kind: numerical_with_unit
+        value: "99.4%"
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Covers 99.4% of US trading partners"
+      - claim: Brazil Section 301 hearing date
+        kind: temporal
+        value: July 6
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "USTR also held hearings July 6 on the Brazil Section 301 investigation"
+      - claim: Section 122 global surcharge expiry date
+        kind: temporal
+        value: July 24, 2026
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "the 10% Section 122 global surcharge expiring July 24, 2026"
+      - claim: Section 122 invalidation date
+        kind: temporal
+        value: May 2026
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "after the US Court of International Trade invalidated Section 122 in May 2026"
+      - claim: court that invalidated Section 122
+        kind: named_institution
+        value: US Court of International Trade
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "after the US Court of International Trade invalidated Section 122 in May 2026"
+      - claim: estimated revenue over 10 years
+        kind: numerical_with_unit
+        value: nearly $1 trillion
+        source_urls:
+          - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+        verbatim_excerpt: "Estimated to raise nearly $1 trillion over 10 years"
+    quotes: []
+
+  - story_id: us-june-jobs-report-57k-payroll
+    category: econ
+    headline_en: "US June Jobs Report Aftermath: Weak 57,000 Payroll Gain Keeps Fed on Hold as Labor Force Participation Sinks to 5-Year Low"
+    lead_url: https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+    body_source: full
+    corroborated_by:
+      - https://www.bls.gov/news.release/empsit.htm
+      - https://www.axios.com/2026/07/02/jobs-june-trump-federal-reserve
+    locked_urls:
+      - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+      - https://www.bls.gov/news.release/empsit.htm
+      - https://www.axios.com/2026/07/02/jobs-june-trump-federal-reserve
+    hard_facts:
+      - claim: BLS report release date
+        kind: temporal
+        value: July 2, 2026
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "The BLS reported July 2, 2026"
+      - claim: reporting institution
+        kind: named_institution
+        value: BLS
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "The BLS reported July 2, 2026"
+      - claim: June nonfarm payroll gain
+        kind: numerical_with_unit
+        value: "57,000"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+          - https://www.bls.gov/news.release/empsit.htm
+        verbatim_excerpt: "nonfarm payrolls rose 57,000 in June"
+      - claim: consensus forecast for payrolls
+        kind: numerical_with_unit
+        value: "115,000"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "below the 115,000 consensus"
+      - claim: downwardly revised May payroll figure
+        kind: numerical_with_unit
+        value: "129,000"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "down from a downwardly revised 129,000 in May"
+      - claim: June unemployment rate
+        kind: numerical_with_unit
+        value: "4.2%"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+          - https://www.bls.gov/news.release/empsit.htm
+        verbatim_excerpt: "Unemployment edged to 4.2% (from 4.3%)"
+      - claim: prior month unemployment rate
+        kind: numerical_with_unit
+        value: "4.3%"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "Unemployment edged to 4.2% (from 4.3%)"
+      - claim: labour force participation change
+        kind: numerical_with_unit
+        value: "0.3pp"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "labour force participation fell 0.3pp to 61.5%"
+      - claim: labour force participation level
+        kind: numerical_with_unit
+        value: "61.5%"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "labour force participation fell 0.3pp to 61.5%"
+      - claim: participation rate historical low comparison
+        kind: temporal
+        value: lowest since March 2021
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "the lowest since March 2021"
+      - claim: Fed rate hold horizon
+        kind: temporal
+        value: through at least September 2026
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "Fed Chair Warsh holds the funds rate at 3.50%–3.75% through at least September 2026"
+      - claim: Fed Chair identity (jobs story)
+        kind: named_person
+        value: Warsh
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "the market base case was Fed Chair Warsh holds the funds rate"
+      - claim: federal funds rate expected hold level (jobs story)
+        kind: numerical_with_unit
+        value: "3.50%–3.75%"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "Fed Chair Warsh holds the funds rate at 3.50%–3.75% through at least September 2026"
+      - claim: annual wage growth
+        kind: numerical_with_unit
+        value: "3.9% y/y"
+        source_urls:
+          - https://www.cnbc.com/amp/2026/07/02/jobs-report-june-2026-.html
+        verbatim_excerpt: "Annual wage growth held at 3.9% y/y"
+    quotes: []
+
+  - story_id: trump-departs-nato-ankara-summit-5pct
+    category: politics
+    headline_en: "Trump Departs for NATO Ankara Summit to Enforce 5% GDP Defense Spending Pledges"
+    lead_url: https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending
+      - https://www.cnbc.com/2026/07/06/nato-summit-turkey-us-trump-defense-spending.html
+      - https://www.washingtonpost.com/politics/2026/07/06/trump-nato-summit-iran-turkey-erdogan/fe74d1f4-78f0-11f1-b194-f872dd4ec5aa_story.html
+      - https://www.usnews.com/news/world/articles/2026-07-06/trump-won-big-spending-promises-from-nato-last-year-this-week-in-turkey-hell-try-to-enforce-them
+    locked_urls:
+      - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+      - https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending
+      - https://www.cnbc.com/2026/07/06/nato-summit-turkey-us-trump-defense-spending.html
+      - https://www.washingtonpost.com/politics/2026/07/06/trump-nato-summit-iran-turkey-erdogan/fe74d1f4-78f0-11f1-b194-f872dd4ec5aa_story.html
+      - https://www.usnews.com/news/world/articles/2026-07-06/trump-won-big-spending-promises-from-nato-last-year-this-week-in-turkey-hell-try-to-enforce-them
+    hard_facts:
+      - claim: Trump departure date and destination
+        kind: temporal
+        value: Monday evening, July 6, 2026
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "President Trump departed the White House Monday evening, July 6, 2026, bound for Ankara"
+      - claim: NATO summit location
+        kind: named_institution
+        value: Beştepe Presidential Compound
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "at the Beştepe Presidential Compound"
+      - claim: NATO summit dates
+        kind: temporal
+        value: July 7–8
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "the two-day NATO summit (July 7–8)"
+      - claim: prior NATO summit location
+        kind: temporal
+        value: The Hague 2025
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "First in-person NATO engagement since The Hague 2025"
+      - claim: NATO defense spending target — total
+        kind: numerical_with_unit
+        value: "5% of GDP"
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "members committed to 5% of GDP on defence by 2035"
+      - claim: NATO defense spending target — core
+        kind: numerical_with_unit
+        value: "3.5% core"
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "(3.5% core + 1.5% related)"
+      - claim: NATO defense spending target — related
+        kind: numerical_with_unit
+        value: "1.5% related"
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "(3.5% core + 1.5% related)"
+      - claim: NATO 5% target deadline year
+        kind: temporal
+        value: "2035"
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "committed to 5% of GDP on defence by 2035"
+      - claim: US Ambassador to NATO identity
+        kind: named_person
+        value: Matt Whitaker
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "Ambassador Matt Whitaker"
+      - claim: Germany reaching 5% target year
+        kind: temporal
+        value: "2029"
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "Germany is on track for the 5%, reaching it in 2029"
+      - claim: NATO Secretary General identity
+        kind: named_person
+        value: Mark Rutte
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "NATO SG Mark Rutte's three priorities"
+      - claim: European and Canadian defence spending increase over decade
+        kind: numerical_with_unit
+        value: $1.2 trillion
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "European allies and Canada collectively increased defence spending by $1.2 trillion over the past decade"
+      - claim: bilateral meeting with Erdoğan and Zelenskyy scheduled day
+        kind: temporal
+        value: Wednesday
+        source_urls:
+          - https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        verbatim_excerpt: "Bilaterals with Erdoğan and Zelenskyy (Wednesday)"
+    quotes:
+      - speaker_name: Matt Whitaker
+        speaker_title: US Ambassador to NATO
+        verbatim_en: "President Trump fully expects that all allies will step up immediately and get on the path to 5% and do it with urgency,"
+        source_url: https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        context: statement on NATO summit expectations, July 6, 2026
+      - speaker_name: Matt Whitaker
+        speaker_title: US Ambassador to NATO
+        verbatim_en: "Poland, the Nordic countries, the Baltic countries lead the way, and Germany is on track for the 5%, reaching it in 2029."
+        source_url: https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596
+        context: statement on ally progress toward 5% target, July 6, 2026
+
+  - story_id: ticktin-draft-eo-midterm-election-seizure
+    category: politics
+    headline_en: "Trump Ally Peter Ticktin Pushes Draft Executive Order to Declare National Emergency and Seize Midterm Election Controls"
+    lead_url: https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+    body_source: full
+    corroborated_by:
+      - https://www.pbs.org/newshour/politics/trump-says-hes-not-mulling-a-draft-executive-order-to-seize-control-over-elections-heres-what-we-know
+      - https://www.democracydocket.com/news-alerts/white-house-circulating-blatantly-illegal-draft-emergency-order-to-take-control-of-elections/
+    locked_urls:
+      - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+      - https://www.pbs.org/newshour/politics/trump-says-hes-not-mulling-a-draft-executive-order-to-seize-control-over-elections-heres-what-we-know
+      - https://www.democracydocket.com/news-alerts/white-house-circulating-blatantly-illegal-draft-emergency-order-to-take-control-of-elections/
+    hard_facts:
+      - claim: CNN report date
+        kind: temporal
+        value: July 6, 2026
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "CNN reported July 6, 2026"
+      - claim: draft EO author identity
+        kind: named_person
+        value: Peter Ticktin
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "Peter Ticktin — a Florida attorney and childhood friend of Trump"
+      - claim: draft EO page count
+        kind: numerical_with_unit
+        value: 17-page
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "is circulating a 17-page draft executive order"
+      - claim: total registered voters required to re-register
+        kind: numerical_with_unit
+        value: 211 million
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "require all 211 million registered voters to re-register in person"
+      - claim: collaborator identity — Jerome Corsi
+        kind: named_person
+        value: Jerome Corsi
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "Ticktin is working with former Infowars staffer Jerome Corsi"
+      - claim: collaborator identity — Wayne Willot
+        kind: named_person
+        value: Wayne Willot
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "QAnon influencer Wayne Willot (\"Juan O. Savin\")"
+      - claim: Congressman who criticized the draft EO
+        kind: named_person
+        value: Raja Krishnamoorthi
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "Rep. Raja Krishnamoorthi (D-IL)"
+      - claim: organization calling EO unconstitutional
+        kind: named_institution
+        value: Brennan Center
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "Brennan Center called it \"blatantly unconstitutional\""
+      - claim: midterm date
+        kind: temporal
+        value: November 3, 2026
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "Midterms November 3, 2026"
+      - claim: House seats at stake
+        kind: numerical_with_unit
+        value: all 435 House seats
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "all 435 House seats, 35 Senate seats"
+      - claim: Senate seats at stake
+        kind: numerical_with_unit
+        value: 35 Senate seats
+        source_urls:
+          - https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        verbatim_excerpt: "all 435 House seats, 35 Senate seats"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: President of the United States
+        verbatim_en: "I'm not mulling a national emergency on elections."
+        source_url: https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        context: White House denial of draft EO, July 6, 2026
+      - speaker_name: Raja Krishnamoorthi
+        speaker_title: Representative (D-IL)
+        verbatim_en: "a brazen attempt to destroy democracy"
+        source_url: https://edition.cnn.com/2026/07/06/politics/peter-ticktin-trump-election-fraud
+        context: congressional reaction to draft EO, July 6, 2026
+
+  - story_id: trump-tightens-marriage-green-card-scrutiny
+    category: politics
+    headline_en: "Trump Administration Tightens Marriage-Based Green Card Scrutiny, Separating US-Citizen Spouses from Partners"
+    lead_url: https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+    body_source: full
+    corroborated_by:
+      - https://www.houstonpublicmedia.org/npr/2026/07/06/nx-s1-5850322/marriage-used-to-be-a-glide-path-to-citizenship-now-there-are-more-speed-bumps/
+      - https://www.boundless.com/blog/uscis-quietly-tightens-marriage-green-card-procedures
+    locked_urls:
+      - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+      - https://www.houstonpublicmedia.org/npr/2026/07/06/nx-s1-5850322/marriage-used-to-be-a-glide-path-to-citizenship-now-there-are-more-speed-bumps/
+      - https://www.boundless.com/blog/uscis-quietly-tightens-marriage-green-card-procedures
+    hard_facts:
+      - claim: NPR report date
+        kind: temporal
+        value: July 6, 2026
+        source_urls:
+          - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+        verbatim_excerpt: "NPR reported July 6, 2026"
+      - claim: USCIS internal guidance date
+        kind: temporal
+        value: early 2026
+        source_urls:
+          - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+        verbatim_excerpt: "USCIS issued internal guidance in early 2026"
+      - claim: issuing agency for guidance
+        kind: named_institution
+        value: USCIS
+        source_urls:
+          - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+        verbatim_excerpt: "USCIS issued internal guidance in early 2026"
+      - claim: countries subject to immigrant visa pause
+        kind: numerical_with_unit
+        value: "75 countries"
+        source_urls:
+          - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+        verbatim_excerpt: "The administration paused immigrant visas for people from 75 countries"
+      - claim: Supreme Court ruling date
+        kind: temporal
+        value: June 25, 2026
+        source_urls:
+          - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+        verbatim_excerpt: "The Supreme Court's June 25, 2026 ruling (6-3)"
+      - claim: Supreme Court ruling vote margin
+        kind: numerical
+        value: "6-3"
+        source_urls:
+          - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+        verbatim_excerpt: "The Supreme Court's June 25, 2026 ruling (6-3)"
+      - claim: TPS holders affected by Supreme Court ruling
+        kind: numerical_with_unit
+        value: "350,000"
+        source_urls:
+          - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+        verbatim_excerpt: "removed protections for 350,000 Haitian and Syrian TPS holders"
+      - claim: TPS holder nationalities affected
+        kind: named_institution
+        value: Haitian and Syrian
+        source_urls:
+          - https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change
+        verbatim_excerpt: "removed protections for 350,000 Haitian and Syrian TPS holders"
+    quotes: []
+
+  - story_id: trump-putin-zelenskyy-calls-ukraine-nato
+    category: politics
+    headline_en: "Trump-Putin and Trump-Zelenskyy Calls Ahead of NATO Summit; Ukrainian Drones Hit St. Petersburg Oil Terminal as Russia Pounds Kyiv"
+    lead_url: https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says
+      - https://www.cbsnews.com/news/trump-putin-zelenskyy-war-ukraine-russia-call/
+    locked_urls:
+      - https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+      - https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says
+      - https://www.cbsnews.com/news/trump-putin-zelenskyy-war-ukraine-russia-call/
+    hard_facts:
+      - claim: date of events
+        kind: temporal
+        value: July 6, 2026
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+        verbatim_excerpt: "On the eve of the NATO Ankara summit, July 6, 2026"
+      - claim: Ukrainian drone strike target
+        kind: named_institution
+        value: St. Petersburg oil terminal
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+        verbatim_excerpt: "Ukrainian drones struck an oil terminal in St. Petersburg"
+      - claim: Russian city targeted by missile-and-drone assault
+        kind: named_institution
+        value: Kyiv
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+        verbatim_excerpt: "Russia launched its second large-scale missile-and-drone assault on Kyiv within a week"
+      - claim: assault cadence against Kyiv
+        kind: temporal
+        value: second large-scale assault within a week
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+        verbatim_excerpt: "Russia launched its second large-scale missile-and-drone assault on Kyiv within a week"
+      - claim: Russian territorial claim
+        kind: named_institution
+        value: Kostyantynivka
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+        verbatim_excerpt: "Putin claiming Russian forces seized Kostyantynivka (denied by Ukraine's General Staff)"
+      - claim: Trump-Putin call duration
+        kind: numerical_with_unit
+        value: 90-minute
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+        verbatim_excerpt: "Trump held a 90-minute call with Putin over the weekend"
+      - claim: bilateral summit meeting scheduled day
+        kind: temporal
+        value: Wednesday
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+        verbatim_excerpt: "agreeing to continue talks at the summit (bilateral Wednesday)"
+    quotes:
+      - speaker_name: Volodymyr Zelenskyy
+        speaker_title: President of Ukraine
+        verbatim_en: "There is a real prospect to put an end to this war, and America's resolve is decisive,"
+        source_url: https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html
+        context: statement ahead of NATO Ankara summit, July 6, 2026
+
+  - story_id: un-ai-summit-geneva-ai-control-not-guaranteed
+    category: tech
+    headline_en: "World's First Intergovernmental AI Summit Opens in Geneva; Scientists Warn AI Control \"Not Guaranteed\" as US Holds Dominant Computing Lead"
+    lead_url: https://news.un.org/en/story/2026/07/1167862
+    body_source: full
+    corroborated_by:
+      - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+      - https://www.itu.int/en/mediacentre/Pages/MA-2026-06-02-UN-Dialogue.aspx
+      - https://faq.com.tw/en/policy/2026-07-06-un-global-dialogue-ai-governance-geneva-en/
+    locked_urls:
+      - https://news.un.org/en/story/2026/07/1167862
+      - https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+      - https://www.itu.int/en/mediacentre/Pages/MA-2026-06-02-UN-Dialogue.aspx
+      - https://faq.com.tw/en/policy/2026-07-06-un-global-dialogue-ai-governance-geneva-en/
+    hard_facts:
+      - claim: summit dates
+        kind: temporal
+        value: July 6–7, 2026
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "The first session of the UN Global Dialogue on AI Governance convened July 6–7, 2026"
+      - claim: summit venue
+        kind: named_institution
+        value: Geneva's Palexpo
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "at Geneva's Palexpo"
+      - claim: number of UN member states participating
+        kind: numerical_with_unit
+        value: "193 UN member states"
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "bringing 193 UN member states, private sector, civil society, academia"
+      - claim: summit co-chair — El Salvador
+        kind: named_person
+        value: Egriselda López
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "Co-chaired by Ambassador Egriselda López (El Salvador)"
+      - claim: summit co-chair — Estonia
+        kind: named_person
+        value: Rein Tammsaar
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "Ambassador Rein Tammsaar (Estonia)"
+      - claim: scientific panel expert count
+        kind: numerical_with_unit
+        value: "40 experts"
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "An independent scientific panel of 40 experts"
+      - claim: scientific panel co-chair — Bengio
+        kind: named_person
+        value: Yoshua Bengio
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "co-chaired by Yoshua Bengio"
+      - claim: scientific panel co-chair — Ressa
+        kind: named_person
+        value: Maria Ressa
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "Nobel laureate Maria Ressa"
+      - claim: US share of AI supercomputer computing power
+        kind: numerical_with_unit
+        value: "~75%"
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "The US controls ~75% of the computing power behind the world's 500 top AI supercomputers"
+      - claim: number of top AI supercomputers referenced
+        kind: numerical
+        value: "500"
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "the world's 500 top AI supercomputers"
+      - claim: White House body that rejected global AI governance
+        kind: named_institution
+        value: White House OSTP
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "the White House OSTP previously rejected \"centralized control and global governance\" of AI"
+      - claim: WSIS Forum 2026 dates
+        kind: temporal
+        value: July 6–10
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "WSIS Forum 2026 (July 6–10)"
+      - claim: ITU AI for Good Global Summit dates
+        kind: temporal
+        value: July 7–10
+        source_urls:
+          - https://news.un.org/en/story/2026/07/1167862
+        verbatim_excerpt: "ITU AI for Good Global Summit (July 7–10)"
+    quotes:
+      - speaker_name: Yoshua Bengio
+        speaker_title: Co-chair, UN AI Governance scientific panel
+        verbatim_en: "Science currently cannot guarantee that as capabilities continue to increase, AI will not cause catastrophic harm."
+        source_url: https://news.un.org/en/story/2026/07/1167862
+        context: UN Global Dialogue on AI Governance, Geneva, July 6–7, 2026
+      - speaker_name: Rein Tammsaar
+        speaker_title: Ambassador of Estonia; summit co-chair
+        verbatim_en: "Frontier developers are basically concentrated in two countries — the US and China."
+        source_url: https://news.un.org/en/story/2026/07/1167862
+        context: UN Global Dialogue on AI Governance, Geneva, July 6–7, 2026
+      - speaker_name: Maria Ressa
+        speaker_title: Nobel laureate; Co-chair, UN AI Governance scientific panel
+        verbatim_en: "If you can't tell fact from fiction, you cannot have a democracy."
+        source_url: https://news.un.org/en/story/2026/07/1167862
+        context: UN Global Dialogue on AI Governance, Geneva, July 6–7, 2026
+
+  - story_id: anthropic-terawulf-20yr-19b-kentucky-lease
+    category: tech
+    headline_en: "Anthropic Signs 20-Year, ~$19 Billion AI Data Center Lease with TeraWulf in Kentucky"
+    lead_url: https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+    body_source: full
+    corroborated_by:
+      - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+      - https://www.stocktitan.net/sec-filings/WULF/8-k-terawulf-inc-reports-material-event-19c1a25b1358.html
+    locked_urls:
+      - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+      - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+      - https://www.stocktitan.net/sec-filings/WULF/8-k-terawulf-inc-reports-material-event-19c1a25b1358.html
+    hard_facts:
+      - claim: announcement date and time
+        kind: temporal
+        value: July 6, 2026 (8:00 a.m. EDT)
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "TeraWulf Inc. (Nasdaq: WULF) announced July 6, 2026 (8:00 a.m. EDT)"
+      - claim: TeraWulf stock ticker
+        kind: named_product
+        value: "Nasdaq: WULF"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "TeraWulf Inc. (Nasdaq: WULF)"
+      - claim: lessee identity
+        kind: named_institution
+        value: Anthropic PBC
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "it executed a 20-year lease with Anthropic PBC"
+      - claim: AI model family associated with Anthropic
+        kind: named_product
+        value: Claude family of large language models
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "maker of the Claude family of large language models"
+      - claim: data campus name
+        kind: named_institution
+        value: Justified Data campus
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "at TeraWulf's Justified Data campus"
+      - claim: campus location — city
+        kind: named_institution
+        value: Hawesville, Hancock County, Kentucky
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "in Hawesville, Hancock County, Kentucky"
+      - claim: lease term
+        kind: temporal
+        value: 20-year
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "it executed a 20-year lease"
+      - claim: critical IT load covered
+        kind: numerical_with_unit
+        value: approximately 401 megawatts (MW)
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "The lease covers approximately 401 megawatts (MW) of critical IT load"
+      - claim: contracted revenue over initial term
+        kind: numerical_with_unit
+        value: approximately $19 billion
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "expected to generate approximately $19 billion in contracted revenue over the initial 20-year term"
+      - claim: renewal option count
+        kind: numerical
+        value: "two"
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "with Anthropic holding two successive five-year renewal options"
+      - claim: renewal option term each
+        kind: temporal
+        value: five-year
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "two successive five-year renewal options (an additional ten years)"
+      - claim: total additional years from renewal options
+        kind: temporal
+        value: an additional ten years
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "(an additional ten years)"
+      - claim: capacity delivery phase completion
+        kind: temporal
+        value: early 2028
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "Capacity delivery is expected in phases beginning late 2027 and concluding early 2028"
+      - claim: capacity delivery phase start
+        kind: temporal
+        value: late 2027
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "Capacity delivery is expected in phases beginning late 2027"
+      - claim: initial capacity in service date
+        kind: temporal
+        value: H2 2027
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "initial capacity in service in H2 2027"
+      - claim: TeraWulf CEO identity
+        kind: named_person
+        value: Paul Prager
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "TeraWulf CEO Paul Prager"
+      - claim: WULF share price increase on announcement
+        kind: numerical_with_unit
+        value: approximately 17–20%
+        source_urls:
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "WULF shares rose approximately 17–20% in early trading"
+    quotes:
+      - speaker_name: Paul Prager
+        speaker_title: CEO, TeraWulf Inc.
+        verbatim_en: "The Anthropic lease validates our strategy and establishes a long-duration revenue stream with one of the world's leading AI companies."
+        source_url: https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        context: press release, July 6, 2026, announcing 20-year Anthropic lease
+  - story_id: us-heat-wave-death-toll-25-40-million-alerts
+    category: society
+    headline_en: US Heat Wave Death Toll Rises to 25+ as 40 Million Remain Under Alerts Post-July 4 Holiday
+    lead_url: https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+    body_source: full
+    corroborated_by:
+      - https://abcnews.com/US/widespread-severe-weather-store-after-record-breaking-july/story?id=134494525
+      - https://www.spokesman.com/stories/2026/jul/05/heat-wave-death-toll-tops-20-as-extreme-temps-cont/
+    locked_urls:
+      - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+      - https://abcnews.com/US/widespread-severe-weather-store-after-record-breaking-july/story?id=134494525
+      - https://www.spokesman.com/stories/2026/jul/05/heat-wave-death-toll-tops-20-as-extreme-temps-cont/
+    hard_facts:
+      - claim: heat-related death toll US
+        kind: numerical_with_unit
+        value: "at least 25 people"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "Extreme heat across the eastern two-thirds of the US killed at least 25 people over the week ending July 6, 2026"
+      - claim: people under NWS heat alerts
+        kind: numerical_with_unit
+        value: "~40 million"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "~40 million under NWS heat alerts"
+      - claim: week period covered
+        kind: temporal
+        value: "week ending July 6, 2026"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "over the week ending July 6, 2026"
+      - claim: New Jersey suspected heat deaths
+        kind: numerical_with_unit
+        value: "22 suspected heat-related deaths"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "New Jersey had the largest single-state toll: 22 suspected heat-related deaths over the July 4 weekend"
+      - claim: Cook County IL deaths
+        kind: numerical
+        value: "1"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "Additional deaths in Cook County, IL (1)"
+      - claim: Hinds County MS deaths
+        kind: numerical
+        value: "1"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "and Hinds County, MS (1)"
+      - claim: heat dome peak date
+        kind: temporal
+        value: "July 4"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "The heat dome peaked July 4"
+      - claim: Atlantic City NJ peak temperature
+        kind: numerical_with_unit
+        value: "106°F (41°C)"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "Atlantic City, NJ reached 106°F (41°C), the hottest East Coast temperature that day"
+      - claim: Washington DC temperature
+        kind: numerical_with_unit
+        value: "103°F"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "Washington DC 103°F"
+      - claim: Raleigh NC temperature
+        kind: numerical_with_unit
+        value: "103°F"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "Raleigh NC 103°F"
+      - claim: utility customers lost power
+        kind: numerical_with_unit
+        value: "~300,000"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "~300,000 utility customers lost power in Friday storms"
+      - claim: NJ Health Commissioner
+        kind: named_person
+        value: "Dr. Raynard Washington"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "NJ Health Commissioner Dr. Raynard Washington"
+      - claim: NJ Governor
+        kind: named_person
+        value: "Mikie Sherrill"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "Governor Mikie Sherrill"
+      - claim: DOE order context
+        kind: named_institution
+        value: "DOE"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "DOE ordered all electrical generators to run at full capacity for the second time this summer"
+      - claim: rail operator affected
+        kind: named_institution
+        value: "Amtrak"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "Amtrak reduced Northeast Corridor speeds"
+      - claim: rail corridor affected
+        kind: named_product
+        value: "Northeast Corridor"
+        source_urls:
+          - https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        verbatim_excerpt: "Amtrak reduced Northeast Corridor speeds"
+    quotes:
+      - speaker_name: Raynard Washington
+        speaker_title: NJ Health Commissioner
+        verbatim_en: "Unfortunately, many of these individuals were found in homes without air conditioning."
+        source_url: https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        context: statement on New Jersey heat-related deaths, July 6 2026
+      - speaker_name: Mikie Sherrill
+        speaker_title: Governor of New Jersey
+        verbatim_en: "Extreme heat is the number one weather-related killer in America, and this is the hottest stretch we've seen in over 14 years."
+        source_url: https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026
+        context: gubernatorial statement on heat wave, July 6 2026
+
+  - story_id: obbba-one-year-aca-snap-medicaid-cuts
+    category: society
+    headline_en: "OBBBA One-Year Anniversary: 1.2 Million Fewer ACA Enrollees, 4 Million+ SNAP Exits, Medicaid Budgets to Shrink $679 Billion"
+    lead_url: https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+    body_source: full
+    corroborated_by:
+      - https://www.dhs.gov/news/2026/07/04/dhs-and-secretary-mullin-mark-one-year-anniversary-historic-big-beautiful-bill
+      - https://www.hrw.org/news/2026/06/23/us-millions-lost-health-insurance-when-subsidies-expired
+      - https://www.rand.org/pubs/research_reports/RRA4098-1-v2.html
+    locked_urls:
+      - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+      - https://www.dhs.gov/news/2026/07/04/dhs-and-secretary-mullin-mark-one-year-anniversary-historic-big-beautiful-bill
+      - https://www.hrw.org/news/2026/06/23/us-millions-lost-health-insurance-when-subsidies-expired
+      - https://www.rand.org/pubs/research_reports/RRA4098-1-v2.html
+    hard_facts:
+      - claim: OBBBA signing date
+        kind: temporal
+        value: "July 4, 2025"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "One year after Trump signed OBBBA into law July 4, 2025"
+      - claim: ACA marketplace plan selection decline
+        kind: numerical_with_unit
+        value: "1.2 million (−5%)"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "ACA marketplace plan selections fell 1.2 million (−5%) in the 2026 enrollment period vs 2025"
+      - claim: ACA decline description
+        kind: temporal
+        value: "2026 enrollment period vs 2025"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "in the 2026 enrollment period vs 2025 — the largest single-year decline since 2014"
+      - claim: ACA decline historical context
+        kind: temporal
+        value: "since 2014"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "the largest single-year decline since 2014"
+      - claim: average monthly net premium 2025
+        kind: numerical_with_unit
+        value: "$113"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "Average monthly net premium costs rose 58%, from $113 (2025) to $178 (2026)"
+      - claim: average monthly net premium 2026
+        kind: numerical_with_unit
+        value: "$178"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "Average monthly net premium costs rose 58%, from $113 (2025) to $178 (2026)"
+      - claim: average monthly net premium increase
+        kind: numerical_with_unit
+        value: "58%"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "Average monthly net premium costs rose 58%"
+      - claim: average deductible increase
+        kind: numerical_with_unit
+        value: "37%"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "average deductibles rose 37% to a record $3,786"
+      - claim: average deductible 2026
+        kind: numerical_with_unit
+        value: "$3,786"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "average deductibles rose 37% to a record $3,786"
+      - claim: SNAP participation decline in people
+        kind: numerical_with_unit
+        value: "over 4 million people"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "SNAP participation fell 10% — over 4 million people — between July 2025 and March 2026"
+      - claim: SNAP participation decline percentage
+        kind: numerical_with_unit
+        value: "10%"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "SNAP participation fell 10%"
+      - claim: SNAP measurement period
+        kind: temporal
+        value: "July 2025 and March 2026"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "between July 2025 and March 2026"
+      - claim: children removed from SNAP
+        kind: numerical_with_unit
+        value: "700,000+"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "children on SNAP fell by 700,000+ in 12 states with data"
+      - claim: states with children SNAP data
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "children on SNAP fell by 700,000+ in 12 states with data"
+      - claim: RAND projected Medicaid state budget cut
+        kind: numerical_with_unit
+        value: "nearly $679 billion"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+          - https://www.rand.org/pubs/research_reports/RRA4098-1-v2.html
+        verbatim_excerpt: "RAND projects Medicaid provisions cut states' Medicaid budgets by nearly $679 billion cumulatively"
+      - claim: RAND projected Medicaid coverage losses
+        kind: numerical_with_unit
+        value: "7.6 million"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+          - https://www.rand.org/pubs/research_reports/RRA4098-1-v2.html
+        verbatim_excerpt: "could cause 7.6 million Medicaid coverage losses by 2034"
+      - claim: RAND Medicaid projection horizon
+        kind: temporal
+        value: "by 2034"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+          - https://www.rand.org/pubs/research_reports/RRA4098-1-v2.html
+        verbatim_excerpt: "could cause 7.6 million Medicaid coverage losses by 2034"
+      - claim: CBO projected additional uninsured
+        kind: numerical_with_unit
+        value: "10 million"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "CBO projects OBBBA health provisions leave 10 million more uninsured by 2034"
+      - claim: source institution CAP
+        kind: named_institution
+        value: "Center for American Progress"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "the Center for American Progress released an anniversary-week assessment"
+      - claim: corroborating institution DHS
+        kind: named_institution
+        value: "DHS"
+        source_urls:
+          - https://www.dhs.gov/news/2026/07/04/dhs-and-secretary-mullin-mark-one-year-anniversary-historic-big-beautiful-bill
+        verbatim_excerpt: "DHS marked the anniversary a \"historic achievement.\""
+      - claim: corroborating institution RAND
+        kind: named_institution
+        value: "RAND"
+        source_urls:
+          - https://www.rand.org/pubs/research_reports/RRA4098-1-v2.html
+        verbatim_excerpt: "RAND projects Medicaid provisions cut states' Medicaid budgets"
+      - claim: corroborating institution CBO
+        kind: named_institution
+        value: "CBO"
+        source_urls:
+          - https://www.americanprogress.org/article/on-the-first-anniversary-of-the-obbba-millions-of-americans-have-been-left-behind/
+        verbatim_excerpt: "CBO projects OBBBA health provisions leave 10 million more uninsured by 2034"
+    quotes: []
+
+  - story_id: peco-strike-third-day-ibew-614-philadelphia
+    category: society
+    headline_en: PECO Historic Strike Enters Third Day as Storm Outages Compound Power Crisis in Philadelphia Region
+    lead_url: https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+    body_source: full
+    corroborated_by:
+      - https://www.inquirer.com/news/philadelphia/peco-strike-negotiations-call-center-contract-offer-outages-20260705.html
+      - https://whyy.org/articles/peco-workers-strike-july-fourth-philadelphia/
+    locked_urls:
+      - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+      - https://www.inquirer.com/news/philadelphia/peco-strike-negotiations-call-center-contract-offer-outages-20260705.html
+      - https://whyy.org/articles/peco-workers-strike-july-fourth-philadelphia/
+    hard_facts:
+      - claim: strike day count at reporting
+        kind: temporal
+        value: "third day"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "By the morning of July 6, 2026 — the third day of the first-ever labor stoppage in PECO's 145-year history"
+      - claim: reporting date
+        kind: temporal
+        value: "July 6, 2026"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "By the morning of July 6, 2026"
+      - claim: PECO history length
+        kind: numerical_with_unit
+        value: "145-year"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "the first-ever labor stoppage in PECO's 145-year history"
+      - claim: striking union members
+        kind: numerical_with_unit
+        value: "approximately 1,600 members"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "approximately 1,600 members of IBEW Local 614 remained on strike"
+      - claim: union name
+        kind: named_institution
+        value: "IBEW Local 614"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "approximately 1,600 members of IBEW Local 614 remained on strike against PECO"
+      - claim: utility name
+        kind: named_institution
+        value: "PECO"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "strike against PECO, the Philadelphia-area electric and gas utility owned by Exelon"
+      - claim: PECO parent company
+        kind: named_institution
+        value: "Exelon"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "the Philadelphia-area electric and gas utility owned by Exelon"
+      - claim: strike start time
+        kind: temporal
+        value: "12:01 a.m. Saturday, July 4"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "The strike began at 12:01 a.m. Saturday, July 4"
+      - claim: pre-strike negotiation duration
+        kind: temporal
+        value: "more than 12 hours of talks"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "after negotiations broke down despite more than 12 hours of talks"
+      - claim: customers served by PECO
+        kind: numerical_with_unit
+        value: "~1.6 million customers"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "serving ~1.6 million customers across five southeastern Pennsylvania counties"
+      - claim: counties served
+        kind: numerical_with_unit
+        value: "five southeastern Pennsylvania counties"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "across five southeastern Pennsylvania counties"
+      - claim: storm outages Saturday night
+        kind: numerical_with_unit
+        value: "~60,000 customer outages"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "Saturday night storms caused ~60,000 customer outages"
+      - claim: remaining outages Sunday evening
+        kind: numerical_with_unit
+        value: "~5,000"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "by Sunday evening ~5,000 remained without power"
+      - claim: call-center workers annual raise offered
+        kind: numerical_with_unit
+        value: "3% annual raises"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "a wage gap between call-center workers (predominantly women) offered 3% annual raises"
+      - claim: field workers annual raise offered
+        kind: numerical_with_unit
+        value: "4%"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "and field workers offered 4%"
+      - claim: cumulative wage increase offered by PECO
+        kind: numerical_with_unit
+        value: "20% wage increase over five years"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "PECO said it offered a cumulative 20% wage increase over five years plus enhanced retirement and medical benefits"
+      - claim: union wage gap claim versus comparable utilities
+        kind: numerical_with_unit
+        value: "~30% less"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "the union said workers earn ~30% less than counterparts at comparable utilities"
+      - claim: replacement crew states
+        kind: named_institution
+        value: "North Carolina, South Carolina and Florida"
+        source_urls:
+          - https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        verbatim_excerpt: "brought in crews from North Carolina, South Carolina and Florida"
+    quotes:
+      - speaker_name: IBEW Local 614 representative
+        speaker_title: Representative, IBEW Local 614
+        verbatim_en: "We will not accept a contract that undercuts the women of our union."
+        source_url: https://6abc.com/post/peco-works-restore-power-storm-strike-negotiations-continue/19455146/
+        context: statement during PECO strike, July 6 2026
+
+  - story_id: spacex-nasdaq-100-inclusion-43-27b-forced-buys
+    category: ipo_ma
+    headline_en: SpaceX Nasdaq-100 Inclusion Triggers $4.3–$27 Billion in Forced-Index Purchases Effective July 6
+    lead_url: https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+    body_source: full
+    corroborated_by:
+      - https://spotgamma.com/spacex-ipo-index-changes-spotgamma/
+      - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+      - https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html
+    locked_urls:
+      - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+      - https://spotgamma.com/spacex-ipo-index-changes-spotgamma/
+      - https://www.etf.com/sections/news/spacex-joins-nasdaq-100-july-7-here-are-etfs-feel-it-most
+      - https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html
+    hard_facts:
+      - claim: SpaceX Nasdaq-100 effective date
+        kind: temporal
+        value: "before market open Tuesday July 7, 2026"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "SpaceX (SPCX) officially joined the Nasdaq-100 effective before market open Tuesday July 7, 2026"
+      - claim: rebalancing purchase deadline
+        kind: temporal
+        value: "close of Monday July 6"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "index-tracking funds required to complete rebalancing purchases by the close of Monday July 6"
+      - claim: SpaceX IPO date
+        kind: temporal
+        value: "June 12, 2026"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "SpaceX IPO'd June 12, 2026"
+      - claim: SpaceX IPO price
+        kind: numerical_with_unit
+        value: "$135/share"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "SpaceX IPO'd June 12, 2026 at $135/share"
+      - claim: SpaceX IPO valuation
+        kind: numerical_with_unit
+        value: "~$1.75 trillion"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "valued at ~$1.75 trillion (\"largest IPO in history\")"
+      - claim: Nasdaq fast-track rule effective date
+        kind: temporal
+        value: "May 1, 2026"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "Under a Nasdaq fast-track rule effective May 1, 2026"
+      - claim: fast-track qualification days after IPO
+        kind: numerical_with_unit
+        value: "15 trading days"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "top-40-by-market-cap companies qualify for inclusion 15 trading days after IPO"
+      - claim: QQQ ETF AUM
+        kind: numerical_with_unit
+        value: "$800B AUM"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "The QQQ ETF ($800B AUM)"
+      - claim: QQQ forced buy of SpaceX
+        kind: numerical_with_unit
+        value: "~$4.3B"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "The QQQ ETF ($800B AUM) was required to buy ~$4.3B in SPCX"
+      - claim: total forced buying estimate across index funds
+        kind: numerical_with_unit
+        value: "$22–$27B"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "total forced buying across Nasdaq-100 and Russell index funds was estimated at $22–$27B"
+      - claim: SpaceX estimated initial index weight
+        kind: numerical_with_unit
+        value: "0.47%–0.7%"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "SpaceX's initial index weight is estimated 0.47%–0.7%"
+      - claim: SpaceX public float shares
+        kind: numerical_with_unit
+        value: "~281.2M shares"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "a small public float of ~281.2M shares (3%–5% of outstanding)"
+      - claim: SpaceX public float percentage
+        kind: numerical_with_unit
+        value: "3%–5% of outstanding"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "a small public float of ~281.2M shares (3%–5% of outstanding)"
+      - claim: SpaceX share price gain from IPO
+        kind: numerical_with_unit
+        value: "~13%"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "Shares had risen ~13% from the IPO price to ~$153"
+      - claim: SpaceX share price at reporting
+        kind: numerical_with_unit
+        value: "~$153"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "Shares had risen ~13% from the IPO price to ~$153"
+      - claim: historical Nasdaq-100 additions in study
+        kind: numerical
+        value: "35"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "Of 35 Nasdaq-100 additions announced ≥10 days before inclusion"
+      - claim: additions that rose on day one
+        kind: numerical
+        value: "12"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "only 12 rose on day one"
+      - claim: average day-one return for additions
+        kind: numerical_with_unit
+        value: "avg −1.13% day one"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "avg −1.13% day one, −3.41% over five days"
+      - claim: average five-day return for additions
+        kind: numerical_with_unit
+        value: "−3.41% over five days"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "avg −1.13% day one, −3.41% over five days"
+      - claim: SpaceX ticker
+        kind: named_product
+        value: "SPCX"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "SpaceX (SPCX)"
+      - claim: ETF name
+        kind: named_product
+        value: "QQQ"
+        source_urls:
+          - https://www.fool.com/investing/2026/07/06/could-spacex-surge-when-it-joins-the-nasdaq-100-ma/
+        verbatim_excerpt: "The QQQ ETF ($800B AUM)"
+    quotes: []
+
+  - story_id: terawulf-divests-530m-abernathy-fluidstack
+    category: ipo_ma
+    headline_en: TeraWulf Divests $530 Million Abernathy Data Center Stake to Fluidstack-Led Investor Group
+    lead_url: https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+    body_source: full
+    corroborated_by:
+      - https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_8k.htm
+      - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+    locked_urls:
+      - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+      - https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_8k.htm
+      - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+    hard_facts:
+      - claim: announcement date
+        kind: temporal
+        value: "July 6, 2026"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "TeraWulf Inc. (Nasdaq: WULF) announced July 6, 2026"
+      - claim: TeraWulf stake sold
+        kind: numerical_with_unit
+        value: "50.1% interest"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "entered a definitive agreement to sell its 50.1% interest in the Abernathy Joint Venture"
+      - claim: buyer
+        kind: named_institution
+        value: "Fluidstack"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "to an investor group led by Fluidstack, a UK-based AI cloud infrastructure provider"
+      - claim: Fluidstack description
+        kind: named_institution
+        value: "UK-based AI cloud infrastructure provider"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "Fluidstack, a UK-based AI cloud infrastructure provider"
+      - claim: Abernathy campus IT load
+        kind: numerical_with_unit
+        value: "168 MW critical-IT-load"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "The Abernathy campus is a 168 MW critical-IT-load AI data center"
+      - claim: Abernathy campus location
+        kind: named_institution
+        value: "Abernathy, Texas"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "AI data center in Abernathy, Texas"
+      - claim: total consideration
+        kind: numerical_with_unit
+        value: "approximately $530 million"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+          - https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_8k.htm
+        verbatim_excerpt: "Aggregate consideration to TeraWulf is approximately $530 million, in three installments"
+      - claim: first installment amount
+        kind: numerical_with_unit
+        value: "$250 million"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "$250 million within 14 days of execution"
+      - claim: first installment timing
+        kind: temporal
+        value: "within 14 days of execution"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "$250 million within 14 days of execution"
+      - claim: second installment amount
+        kind: numerical_with_unit
+        value: "$150 million"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "$150 million on or before December 31, 2026"
+      - claim: second installment deadline
+        kind: temporal
+        value: "on or before December 31, 2026"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "$150 million on or before December 31, 2026"
+      - claim: third installment amount
+        kind: numerical_with_unit
+        value: "approximately $130 million"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "approximately $130 million (subject to adjustments) on or before April 30, 2027"
+      - claim: third installment deadline
+        kind: temporal
+        value: "on or before April 30, 2027"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "approximately $130 million (subject to adjustments) on or before April 30, 2027"
+      - claim: TeraWulf invested capital monetized
+        kind: numerical_with_unit
+        value: "roughly $450 million"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "The sale monetizes TeraWulf's roughly $450 million invested capital at a premium"
+      - claim: WULF share price reaction
+        kind: numerical_with_unit
+        value: "~17–20%"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+          - https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html
+        verbatim_excerpt: "WULF shares rose ~17–20% in early trading"
+      - claim: deal materiality floor
+        kind: numerical_with_unit
+        value: "$500 million"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "At $530 million the deal clears the $500 million M&A materiality floor"
+      - claim: TeraWulf CEO
+        kind: named_person
+        value: "Paul Prager"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "CEO Paul Prager"
+      - claim: TeraWulf ticker
+        kind: named_product
+        value: "WULF"
+        source_urls:
+          - https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+        verbatim_excerpt: "TeraWulf Inc. (Nasdaq: WULF)"
+    quotes: []
+
+  - story_id: trump-fifa-infantino-balogun-red-card-reversal
+    category: other
+    headline_en: "Trump Calls FIFA's Gianni Infantino, Securing Balogun Red-Card Suspension Reversal for US–Belgium World Cup Match; Belgium \"Astonished\""
+    lead_url: https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+    body_source: full
+    corroborated_by:
+      - https://www.npr.org/2026/07/06/nx-s1-5879131/2026-world-cup-fifa-usmnt-belgium-round-of-16
+      - https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match
+      - https://www.usnews.com/news/politics/articles/2026-07-06/trump-intervention-sparks-world-cup-storm-as-fifa-clears-balogun-to-face-belgium
+    locked_urls:
+      - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+      - https://www.npr.org/2026/07/06/nx-s1-5879131/2026-world-cup-fifa-usmnt-belgium-round-of-16
+      - https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match
+      - https://www.usnews.com/news/politics/articles/2026-07-06/trump-intervention-sparks-world-cup-storm-as-fifa-clears-balogun-to-face-belgium
+    hard_facts:
+      - claim: FIFA announcement date
+        kind: temporal
+        value: "July 6, 2026"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "FIFA's Disciplinary Committee announced July 6, 2026"
+      - claim: Balogun suspension ruling
+        kind: temporal
+        value: "one-year probation"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-intimidino
+        verbatim_excerpt: "suspending US striker Folarin Balogun's automatic one-match red-card ban for a one-year probation"
+      - claim: FIFA disciplinary code article applied
+        kind: named_product
+        value: "Article 27 of the FIFA Disciplinary Code"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "under Article 27 of the FIFA Disciplinary Code"
+      - claim: Balogun player identity
+        kind: named_person
+        value: "Folarin Balogun"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "US striker Folarin Balogun's automatic one-match red-card ban"
+      - claim: upcoming match and date
+        kind: temporal
+        value: "July 7 in Seattle"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "allowing Balogun to play the US–Belgium Round of 16 match (July 7 in Seattle)"
+      - claim: original red card date
+        kind: temporal
+        value: "July 1"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "Balogun got a straight red July 1 for stepping on Bosnia-Herzegovina defender Tarik Muharemović's ankle"
+      - claim: defender's identity
+        kind: named_person
+        value: "Tarik Muharemović"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-intimidino
+        verbatim_excerpt: "stepping on Bosnia-Herzegovina defender Tarik Muharemović's ankle"
+      - claim: US Round of 32 match result
+        kind: numerical_with_unit
+        value: "2–0"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "during the US's 2–0 Round of 32 win"
+      - claim: FIFA President
+        kind: named_person
+        value: "Gianni Infantino"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "Trump personally telephoned FIFA President Gianni Infantino the day the red card was issued"
+      - claim: Secretary of State who called for rescission
+        kind: named_person
+        value: "Marco Rubio"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "Secretary of State Marco Rubio also publicly called for rescission"
+      - claim: Belgian football association reaction
+        kind: named_institution
+        value: "Royal Belgian Football Association"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+          - https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match
+        verbatim_excerpt: "The Royal Belgian Football Association said it was \"astonished\" and vowed to pursue \"all potential options.\""
+      - claim: Belgian coach identity
+        kind: named_person
+        value: "Rudi Garcia"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "Belgian coach Rudi Garcia"
+      - claim: 2026 World Cup co-hosts
+        kind: named_institution
+        value: "US, Canada, and Mexico"
+        source_urls:
+          - https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        verbatim_excerpt: "The 2026 World Cup is co-hosted by the US, Canada, and Mexico"
+    quotes:
+      - speaker_name: Donald Trump
+        speaker_title: US President
+        verbatim_en: "Thank you to FIFA for doing what was right, and reversing a great injustice!"
+        source_url: https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        context: Truth Social post, July 6 2026
+      - speaker_name: Rudi Garcia
+        speaker_title: Belgian national team coach
+        verbatim_en: "I didn't know that at the FIFA World Cup, the 5th of July is now the 1st of April."
+        source_url: https://www.euronews.com/2026/07/06/fifa-lifts-us-striker-baloguns-red-card-world-cup-suspension-after-trump-calls-infantino
+        context: press statement after FIFA ruling, July 6 2026
+
+  - story_id: super-typhoon-bavi-guam-northern-mariana-islands
+    category: other
+    headline_en: Super Typhoon Bavi Makes Landfall on US Territories of Guam and Northern Mariana Islands
+    lead_url: https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+    body_source: full
+    corroborated_by:
+      - https://www.aljazeera.com/news/2026/7/6/super-typhoon-bavi-makes-landfall-on-us-pacific-islands
+      - https://reliefweb.int/report/guam/pdc-hazard-brief-super-typhoon-bavi-6-july-2026-0925
+      - https://ghs.guam.gov/joint-information-center-%E2%80%94-release-no-1-super-typhoon-bavi-09w
+    locked_urls:
+      - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+      - https://www.aljazeera.com/news/2026/7/6/super-typhoon-bavi-makes-landfall-on-us-pacific-islands
+      - https://reliefweb.int/report/guam/pdc-hazard-brief-super-typhoon-bavi-6-july-2026-0925
+      - https://ghs.guam.gov/joint-information-center-%E2%80%94-release-no-1-super-typhoon-bavi-09w
+    hard_facts:
+      - claim: storm classification
+        kind: named_product
+        value: "Category 5-equivalent"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "Super Typhoon Bavi, a Category 5-equivalent storm"
+      - claim: maximum sustained winds
+        kind: numerical_with_unit
+        value: "180 mph (290 km/h)"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+          - https://reliefweb.int/report/guam/pdc-hazard-brief-super-typhoon-bavi-6-july-2026-0925
+        verbatim_excerpt: "maximum sustained winds of 180 mph (290 km/h)"
+      - claim: Rota landfall time
+        kind: temporal
+        value: "just after 9:00 a.m. local time on Monday, July 6, 2026"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "made a direct hit on Rota — an island of ~2,000 people in the US Commonwealth of the Northern Mariana Islands — just after 9:00 a.m. local time on Monday, July 6, 2026"
+      - claim: Rota population
+        kind: numerical_with_unit
+        value: "~2,000 people"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "an island of ~2,000 people in the US Commonwealth of the Northern Mariana Islands"
+      - claim: storm position at 2:00 p.m. local — distance from Rota
+        kind: numerical_with_unit
+        value: "~60 miles west of Rota"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "By 2:00 p.m. local the center was ~60 miles west of Rota"
+      - claim: storm position at 2:00 p.m. local — distance from Guam
+        kind: numerical_with_unit
+        value: "75 miles west of Guam"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "75 miles west of Guam"
+      - claim: storm position at 2:00 p.m. local — distance from Tinian/Saipan
+        kind: numerical_with_unit
+        value: "100 miles southwest of Tinian and Saipan"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "100 miles southwest of Tinian and Saipan"
+      - claim: storm tracking speed
+        kind: numerical_with_unit
+        value: "~9 mph"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "tracking west-northwest at ~9 mph toward the Philippines"
+      - claim: Guam sustained winds
+        kind: numerical_with_unit
+        value: "40–80 mph"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "Guam saw sustained winds of 40–80 mph with gusts of 90–100 mph"
+      - claim: Guam wind gusts
+        kind: numerical_with_unit
+        value: "90–100 mph"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "Guam saw sustained winds of 40–80 mph with gusts of 90–100 mph"
+      - claim: impassable major roads
+        kind: numerical_with_unit
+        value: "~10 major roads"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "rendering ~10 major roads impassable"
+      - claim: US military installations at top readiness
+        kind: numerical
+        value: "Three"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "Three US military installations — Andersen Air Force Base, Marine Corps Base Camp Blaz, and Naval Base Guam — were at top readiness conditions"
+      - claim: military installation Andersen AFB
+        kind: named_institution
+        value: "Andersen Air Force Base"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "Andersen Air Force Base, Marine Corps Base Camp Blaz, and Naval Base Guam"
+      - claim: military installation Marine Corps Base Camp Blaz
+        kind: named_institution
+        value: "Marine Corps Base Camp Blaz"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "Marine Corps Base Camp Blaz"
+      - claim: military installation Naval Base Guam
+        kind: named_institution
+        value: "Naval Base Guam"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "Naval Base Guam"
+      - claim: prior storm reference
+        kind: named_product
+        value: "Super Typhoon Sinlaku"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "The storm followed Super Typhoon Sinlaku, which struck the region in April 2026"
+      - claim: Sinlaku strike date
+        kind: temporal
+        value: "April 2026"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "which struck the region in April 2026"
+      - claim: Sinlaku damage to Guam
+        kind: numerical_with_unit
+        value: "over $450 million in damage"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "causing over $450 million in damage to Guam"
+      - claim: combined population of territories
+        kind: numerical_with_unit
+        value: "~210,000"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "The combined population of Guam and the Northern Mariana Islands is ~210,000"
+      - claim: NWS forecaster institution
+        kind: named_institution
+        value: "National Weather Service"
+        source_urls:
+          - https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        verbatim_excerpt: "The National Weather Service called conditions \"catastrophic\" and \"life-threatening\""
+    quotes:
+      - speaker_name: National Weather Service
+        speaker_title: National Weather Service
+        verbatim_en: "Treat these imminent extreme winds as if a tornado was approaching."
+        source_url: https://www.stripes.com/theaters/asia_pacific/2026-07-06/typhoon-bavi-guam-marianas-rota-22186917.html
+        context: NWS warning issued July 6 2026 during Super Typhoon Bavi
+
+  - story_id: china-frees-pastor-ezra-jin-trump-xi-intervention
+    category: other
+    headline_en: China Frees Underground Church Pastor Ezra Jin After Trump's Personal Intervention with Xi Jinping
+    lead_url: https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+    body_source: full
+    corroborated_by:
+      - https://www.bloomberg.com/news/articles/2026-07-06/china-frees-pastor-raised-by-trump-in-goodwill-move-after-summit
+      - https://www.nbcnews.com/world/china/chinese-pastor-released-prison-trump-raised-case-xi-jinping-rcna353014
+    locked_urls:
+      - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+      - https://www.bloomberg.com/news/articles/2026-07-06/china-frees-pastor-raised-by-trump-in-goodwill-move-after-summit
+      - https://www.nbcnews.com/world/china/chinese-pastor-released-prison-trump-raised-case-xi-jinping-rcna353014
+    hard_facts:
+      - claim: Pastor Ezra Jin's full name
+        kind: named_person
+        value: "Ezra Jin Mingri"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "Pastor Ezra Jin Mingri, 57"
+      - claim: Pastor Jin's age
+        kind: numerical
+        value: "57"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "Pastor Ezra Jin Mingri, 57"
+      - claim: Church name
+        kind: named_institution
+        value: "Zion Church"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "founder and senior pastor of Beijing's Zion Church"
+      - claim: Pastor Jin arrival in US
+        kind: temporal
+        value: "July 4, 2026"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "arrived in Los Angeles on July 4, 2026 after release directly from Chinese detention"
+      - claim: ChinaAid confirmation date
+        kind: temporal
+        value: "July 6, 2026"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "the Christian human-rights group ChinaAid confirmed on July 6, 2026"
+      - claim: ChinaAid organization
+        kind: named_institution
+        value: "ChinaAid"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "the Christian human-rights group ChinaAid confirmed on July 6, 2026"
+      - claim: Jin detention date
+        kind: temporal
+        value: "October 10, 2025"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "Jin had been detained since October 10, 2025"
+      - claim: detention charge
+        kind: named_product
+        value: "illegal use of information networks"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "on suspicion of \"illegal use of information networks\""
+      - claim: number of church leaders detained in October 2025
+        kind: numerical
+        value: "18"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "18 church leaders were detained at the time"
+      - claim: Trump state visit to Beijing
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "US President Donald Trump personally raised Jin's case during a state visit to Beijing in May 2026"
+      - claim: Xi Jinping's response during summit
+        kind: named_person
+        value: "Xi Jinping"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "where Xi Jinping said he would \"strongly consider\" releasing him"
+      - claim: Zion Church shutdown year
+        kind: temporal
+        value: "2018"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "Zion Church, shut by authorities in 2018"
+      - claim: Zion Church online reach
+        kind: numerical_with_unit
+        value: "40 Chinese cities"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "kept an online presence during the pandemic reaching followers across 40 Chinese cities"
+      - claim: remaining Zion members still detained
+        kind: numerical_with_unit
+        value: "at least eight other Zion members"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "Human Rights Watch noted at least eight other Zion members detained in October 2025 remain imprisoned"
+      - claim: Human Rights Watch
+        kind: named_institution
+        value: "Human Rights Watch"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "Human Rights Watch noted at least eight other Zion members detained in October 2025 remain imprisoned"
+      - claim: Jin's daughter
+        kind: named_person
+        value: "Grace"
+        source_urls:
+          - https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        verbatim_excerpt: "Jin's daughter Grace"
+    quotes:
+      - speaker_name: Grace Jin
+        speaker_title: Daughter of Pastor Ezra Jin Mingri
+        verbatim_en: "We thank God for this tremendous miracle."
+        source_url: https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        context: statement after father's release and arrival in Los Angeles, July 4–6 2026
+      - speaker_name: ChinaAid
+        speaker_title: Christian human-rights group
+        verbatim_en: "resulted from discussions between US President Donald J. Trump and Chinese President Xi Jinping"
+        source_url: https://hongkongfp.com/2026/07/06/china-frees-jailed-pastor-ezra-jin-after-trump-raised-his-case-with-xi/
+        context: ChinaAid statement confirming Jin's release, July 6 2026
