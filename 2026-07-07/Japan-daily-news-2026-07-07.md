@@ -4,7 +4,7 @@
 
 ### Japan's 30-Year Bond Auction Draws Solid Demand as Long-End Yields Push Toward 4%
 
-Japan's Ministry of Finance sold ¥900 billion of 30-year government bonds on July 7, 2026, and the bids came in. Issue #91, carrying a 4.0% coupon and maturing in June 2056, drew a bid-to-cover ratio of roughly 4.55 times, with the cut-off yield at the lowest accepted price landing at 3.996%. For an auction that markets had flagged for weeks as a stress test, that was a clean pass.
+Japan's Ministry of Finance sold 30-year government bonds on July 7, 2026, and the bids came in. Issue #91, carrying a 4.0% coupon and maturing in June 2056, drew a bid-to-cover ratio of roughly 4.55 times, with the cut-off yield at the lowest accepted price landing at 3.996%. For an auction that markets had flagged for weeks as a stress test, that was a clean pass.
 
 The tension was in the backdrop. The 30-year yield had already touched around 4.08% in recent sessions — it first cleared 4% on July 2 — levels the Japanese long end had not seen in decades. A run of super-long auctions is scheduled through the summer, and the open question is whether domestic institutions like life insurers will keep absorbing supply as the Bank of Japan retreats from the bond market it dominated for a decade under yield-curve control. The BOJ lifted its short-term policy rate to 0.75% in December 2025, the highest since 1995, and traders now price further hikes ahead.
 
@@ -75,6 +75,7 @@ None of these paths is fast. Analysts estimate a full year of Chinese export res
 
 [10] Japan Times. (2026, July 7). Corporate Japan's rare-earth warnings get louder as China keeps the spigot closed. The Japan Times. https://www.japantimes.co.jp/business/2026/07/07/economy/rare-earths-shortage-impact-economy/
 [11] The Spokesman-Review. (2026, July 6). Corporate Japan's rare-earth warnings get louder as China keeps the spigot closed. The Spokesman-Review. https://www.spokesman.com/stories/2026/jul/06/corporate-japans-rare-earth-warnings-get-louder-as/
+[12] Metal Tech News. (2026, March 11). Lynas, JARE upgrade Japan rare earth deal. Metal Tech News. https://www.metaltechnews.com/story/2026/03/11/tech-metals/lynas-jare-upgrade-japan-rare-earth-deal/2679.html
 
 ---
 
@@ -90,9 +91,9 @@ Tokyo lodged a protest through diplomatic channels. The friction runs alongside 
 
 **References**
 
-[12] AFP. (2026, July 7). Japan expels Chinese coast guard ships near Senkaku Islands. Free Malaysia Today. https://www.freemalaysiatoday.com/category/world/2026/07/07/china-ships-expelled-senkaku/
-[13] Arab News. (2026, July 7). Japan, China ships face off near Senkaku Islands. Arab News. https://www.arabnews.com/node/2026/07/07/japan-china-senkaku-ships
-[14] Japan Times. (2026, July 7). Coast guard ships from Japan and China face off near Senkaku Islands. The Japan Times. https://www.japantimes.co.jp/news/2026/07/07/japan/japan-china-ships-expel-near-senkaku/
+[13] AFP. (2026, July 7). Japan expels Chinese coast guard ships near Senkaku Islands. Free Malaysia Today. https://www.freemalaysiatoday.com/category/world/2026/07/07/china-ships-expelled-senkaku/
+[14] Arab News. (2026, July 7). Japan, China ships face off near Senkaku Islands. Arab News. https://www.arabnews.com/node/2026/07/07/japan-china-senkaku-ships
+[15] Japan Times. (2026, July 7). Coast guard ships from Japan and China face off near Senkaku Islands. The Japan Times. https://www.japantimes.co.jp/news/2026/07/07/japan/japan-china-ships-expel-near-senkaku/
 
 ---
 
@@ -106,8 +107,8 @@ For Tokyo, the launch is one more data point in a security environment crowding 
 
 **References**
 
-[15] NPR. (2026, July 7). China tests submarine-launched ballistic missile in South Pacific. WAMC Northeast Public Radio. https://www.wamc.org/news/2026-07-07/china-submarine-ballistic-missile-south-pacific
-[16] Pravda. (2026, July 7). China conducts SLBM test in South Pacific; Japan reacts. Pravda Japan. https://japan.news-pravda.com/en/world/2026/07/07/24286.html
+[16] NPR. (2026, July 7). China tests submarine-launched ballistic missile in South Pacific. WAMC Northeast Public Radio. https://www.wamc.org/news/2026-07-07/china-submarine-ballistic-missile-south-pacific
+[17] Pravda. (2026, July 7). China conducts SLBM test in South Pacific; Japan reacts. Pravda Japan. https://japan.news-pravda.com/en/world/2026/07/07/24286.html
 
 ---
 
@@ -121,8 +122,8 @@ Japan's own commitment is more modest: 2% of GDP by fiscal 2027. But sending bot
 
 **References**
 
-[17] Al Jazeera. (2026, July 7). Japan sends ministers to NATO Ankara summit as Takaichi stays home. Al Jazeera. https://www.aljazeera.com/news/2026/07/07/japan-nato-ankara-summit-motegi-koizumi
-[18] Chicago Council on Global Affairs. (2026, July 6). Beyond Defense Spending: What's at Stake for NATO in Ankara. Chicago Council on Global Affairs. https://globalaffairs.org/commentary/analysis/beyond-defense-spending-whats-stake-nato-ankara
+[18] Al Jazeera. (2026, July 7). Japan sends ministers to NATO Ankara summit as Takaichi stays home. Al Jazeera. https://www.aljazeera.com/news/2026/07/07/japan-nato-ankara-summit-motegi-koizumi
+[19] Chicago Council on Global Affairs. (2026, July 6). Beyond Defense Spending: What's at Stake for NATO in Ankara. Chicago Council on Global Affairs. https://globalaffairs.org/commentary/analysis/beyond-defense-spending-whats-stake-nato-ankara
 
 ---
 
@@ -138,8 +139,8 @@ The timing tracks a broader Japanese push. As drones reshape modern conflict and
 
 **References**
 
-[19] Nikkei Asia. (2026, July 7). 130-year-old Japan firm flies under the radar to develop antidrone tech. Nikkei Asia. https://asia.nikkei.com/business/technology/tokyo-keiki-antidrone-july-2026
-[20] Asian Military Review. (2025, September). Metro Weather and Tokyo Keiki Reveal Alliance to Mass Produce Doppler LiDAR for Defense Applications. Asian Military Review. https://www.asianmilitaryreview.com/2025/09/metro-weather-and-tokyo-keiki-reveal-alliance-to-mass-produce-doppler-lidar-for-defense-applications-nsbt/
+[20] Nikkei Asia. (2026, July 7). 130-year-old Japan firm flies under the radar to develop antidrone tech. Nikkei Asia. https://asia.nikkei.com/business/technology/tokyo-keiki-antidrone-july-2026
+[21] Asian Military Review. (2025, September). Metro Weather and Tokyo Keiki Reveal Alliance to Mass Produce Doppler LiDAR for Defense Applications. Asian Military Review. https://www.asianmilitaryreview.com/2025/09/metro-weather-and-tokyo-keiki-reveal-alliance-to-mass-produce-doppler-lidar-for-defense-applications-nsbt/
 
 ---
 
@@ -153,10 +154,10 @@ The damage was concentrated, not broad. The Topix fell just 0.21% to 4,093.39, a
 
 **References**
 
-[21] Reuters. (2026, July 7). Japan's Nikkei falls as Samsung-led chip selloff weighs on regional tech stocks. The Star. https://www.thestar.com.my/business/business-news/2026/07/07/japan039s-nikkei-falls-as-samsung-led-chip-selloff-weighs-on-regional-tech-stocks
-[22] TradingKey. (2026, July 7). Kioxia, Samsung, SK Hynix slide on chip selloff. TradingKey. https://www.tradingkey.com/analysis/stocks/more/262015057-kioxia-nvda-samsung-skhynix-dram-mu-spcx-sndk-tradingkey
-[23] Business Recorder. (2026, July 7). Japan's Nikkei falls as Samsung-led chip selloff weighs on regional tech stocks. Business Recorder. https://www.brecorder.com/news/40428880/japans-nikkei-falls-as-samsung-led-chip-selloff-weighs-on-regional-tech-stocks
-[24] The Standard. (2026, July 7). Japan's Nikkei falls as Samsung-led chip selloff weighs on regional tech stocks. The Standard. https://www.thestandard.com.hk/finance/article/336540/Japans-Nikkei-falls-as-Samsung-led-chip-selloff-weighs-on-regional-tech-stocks
+[22] Reuters. (2026, July 7). Japan's Nikkei falls as Samsung-led chip selloff weighs on regional tech stocks. The Star. https://www.thestar.com.my/business/business-news/2026/07/07/japan039s-nikkei-falls-as-samsung-led-chip-selloff-weighs-on-regional-tech-stocks
+[23] TradingKey. (2026, July 7). Kioxia, Samsung, SK Hynix slide on chip selloff. TradingKey. https://www.tradingkey.com/analysis/stocks/more/262015057-kioxia-nvda-samsung-skhynix-dram-mu-spcx-sndk-tradingkey
+[24] Business Recorder. (2026, July 7). Japan's Nikkei falls as Samsung-led chip selloff weighs on regional tech stocks. Business Recorder. https://www.brecorder.com/news/40428880/japans-nikkei-falls-as-samsung-led-chip-selloff-weighs-on-regional-tech-stocks
+[25] The Standard. (2026, July 7). Japan's Nikkei falls as Samsung-led chip selloff weighs on regional tech stocks. The Standard. https://www.thestandard.com.hk/finance/article/336540/Japans-Nikkei-falls-as-Samsung-led-chip-selloff-weighs-on-regional-tech-stocks
 
 ---
 
@@ -174,8 +175,8 @@ For households, relief is real but partial. Analysts expect retail prices to set
 
 **References**
 
-[25] Japan Times. (2026, July 7). Japan's rice prices likely to fall in coming months. The Japan Times. https://www.japantimes.co.jp/news/2026/07/07/japan/rice-price-fall-possibility/
-[26] Nippon.com. (2026, April 6). Japan's Rice Prices Likely to Fall in Coming Months. Nippon.com. https://www.nippon.com/en/news/yjj2026040600330/
+[26] Japan Times. (2026, July 7). Japan's rice prices likely to fall in coming months. The Japan Times. https://www.japantimes.co.jp/news/2026/07/07/japan/rice-price-fall-possibility/
+[27] Nippon.com. (2026, April 6). Japan's Rice Prices Likely to Fall in Coming Months. Nippon.com. https://www.nippon.com/en/news/yjj2026040600330/
 
 ---
 
@@ -189,7 +190,7 @@ The 2030s target leaves ample room for delay, but the fiscal 2028 interim servic
 
 **References**
 
-[27] Nippon.com. (2026, July 7). Keisei Electric plans new limited express linking Haneda and Narita airports. Nippon.com. https://www.nippon.com/en/news/yjj2026070700xxx/
+[28] Nippon.com. (2026, July 7). Keisei Electric plans new limited express linking Haneda and Narita airports. Nippon.com. https://www.nippon.com/en/news/yjj2026070700xxx/
 
 ---
 
@@ -203,9 +204,9 @@ Whether the storm brushes Okinawa or passes to its south hinges on a track still
 
 **References**
 
-[28] Bloomberg. (2026, July 7). Super Typhoon Bavi Set to Bring More Heavy Rain to China This Week. Bloomberg. https://www.bloomberg.com/news/articles/2026-07-07/super-typhoon-bavi-set-to-bring-more-heavy-rain-to-china-this-week
-[29] Nippon.com. (2026, July 6). Powerful Typhoon Bavi Seen Approaching Southern Japan. Nippon.com. https://www.nippon.com/en/news/yjj2026070600281/
-[30] Yale Climate Connections. (2026, July). Super Typhoon Bavi becomes the 3rd Cat 5 of 2026. Yale Climate Connections. https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/
+[29] Bloomberg. (2026, July 7). Super Typhoon Bavi Set to Bring More Heavy Rain to China This Week. Bloomberg. https://www.bloomberg.com/news/articles/2026-07-07/super-typhoon-bavi-set-to-bring-more-heavy-rain-to-china-this-week
+[30] Nippon.com. (2026, July 6). Powerful Typhoon Bavi Seen Approaching Southern Japan. Nippon.com. https://www.nippon.com/en/news/yjj2026070600281/
+[31] Yale Climate Connections. (2026, July). Super Typhoon Bavi becomes the 3rd Cat 5 of 2026. Yale Climate Connections. https://yaleclimateconnections.org/2026/07/super-typhoon-bavi-becomes-the-3rd-cat-5-of-2026/
 
 ---
 
@@ -221,9 +222,9 @@ A fiscal 2028 listing would mark Bain's exit path from the deal — turning a ta
 
 **References**
 
-[31] Japan Times. (2026, July 7). Seven & i's former supermarket unit may acquire more under Bain. The Japan Times. https://www.japantimes.co.jp/business/2026/07/07/companies/york-holdings-potential-acquisition-bain/
-[32] Bloomberg. (2026, July 6). Seven & i's Former Supermarket Unit May Acquire More Under Bain. Bloomberg. https://www.bloomberg.com/news/articles/2026-07-06/seven-i-s-former-supermarket-unit-may-acquire-more-under-bain
-[33] MarketScreener. (2026, July 6). York Holdings plans IPO after Bain Capital acquisition. MarketScreener. https://www.marketscreener.com/news/york-holdings-plans-ipo-after-bain-capital-acquisition-ce7d59dbdc8cf125
+[32] Japan Times. (2026, July 7). Seven & i's former supermarket unit may acquire more under Bain. The Japan Times. https://www.japantimes.co.jp/business/2026/07/07/companies/york-holdings-potential-acquisition-bain/
+[33] Bloomberg. (2026, July 6). Seven & i's Former Supermarket Unit May Acquire More Under Bain. Bloomberg. https://www.bloomberg.com/news/articles/2026-07-06/seven-i-s-former-supermarket-unit-may-acquire-more-under-bain
+[34] MarketScreener. (2026, July 6). York Holdings plans IPO after Bain Capital acquisition. MarketScreener. https://www.marketscreener.com/news/york-holdings-plans-ipo-after-bain-capital-acquisition-ce7d59dbdc8cf125
 
 ---
 
@@ -241,7 +242,7 @@ The deal fits a widening pattern of Japanese space diplomacy across friendly par
 
 **References**
 
-[34] AFP. (2026, July 7). Japan and Singapore sign first bilateral space cooperation agreement. The Star. https://www.thestar.com.my/news/world/2026/07/07/japan-singapore-space-pact
+[35] AFP. (2026, July 7). Japan and Singapore sign first bilateral space cooperation agreement. The Star. https://www.thestar.com.my/news/world/2026/07/07/japan-singapore-space-pact
 
 ---
 
@@ -255,9 +256,9 @@ Torifune is a "snowman-like" contact-binary — two lobes fused together — rou
 
 **References**
 
-[35] AFP. (2026, July 7). JAXA shares Hayabusa2 photo of asteroid Torifune. Qazinform. https://qazinform.com/news/jaxa-shares-hayabusa2-photo-of-asteroid-torifune-014304
-[36] Asharq Al-Awsat. (2026, July 6). Japan space probe skims asteroid in planetary defense test. Asharq Al-Awsat. https://english.aawsat.com/varieties/5292612-japan-space-probe-skims-asteroid-test-planetary-defense
-[37] Daily Kos. (2026, July 6). JAXA's Hayabusa2 captures close-up of asteroid Torifune. Daily Kos. https://www.dailykos.com/stories/2026/7/6/800065936
+[36] AFP. (2026, July 7). JAXA shares Hayabusa2 photo of asteroid Torifune. Qazinform. https://qazinform.com/news/jaxa-shares-hayabusa2-photo-of-asteroid-torifune-014304
+[37] Asharq Al-Awsat. (2026, July 6). Japan space probe skims asteroid in planetary defense test. Asharq Al-Awsat. https://english.aawsat.com/varieties/5292612-japan-space-probe-skims-asteroid-test-planetary-defense
+[38] Daily Kos. (2026, July 6). JAXA's Hayabusa2 captures close-up of asteroid Torifune. Daily Kos. https://www.dailykos.com/stories/2026/7/6/800065936
 
 ---
 
