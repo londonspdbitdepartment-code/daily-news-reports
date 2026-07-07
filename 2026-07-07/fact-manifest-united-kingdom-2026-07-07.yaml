@@ -1,0 +1,830 @@
+version: 1
+generated_at: "2026-07-07T10:00:00Z"
+country: United Kingdom
+date: "2026-07-07"
+total_stories: 11
+stories:
+  - story_id: boe-financial-stability-report-ai-risk
+    category: econ
+    headline_en: Bank of England Financial Stability Report — AI "growing risk"; PRA to ease bank capital rules
+    lead_url: https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+    body_source: full
+    corroborated_by:
+      - https://www.aol.co.uk/articles/bank-england-plans-ease-capital-104651000.html
+      - https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026
+    locked_urls:
+      - https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+      - https://www.aol.co.uk/articles/bank-england-plans-ease-capital-104651000.html
+      - https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026
+    hard_facts:
+      - claim: FSR publication date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+          - https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026
+        verbatim_excerpt: "The Bank of England's Financial Stability Report released on 7 July 2026"
+      - claim: Bank of England institution
+        kind: named_institution
+        value: Bank of England
+        source_urls:
+          - https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+          - https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026
+        verbatim_excerpt: "The Bank of England's Financial Stability Report released on 7 July 2026"
+      - claim: Report name
+        kind: named_product
+        value: Financial Stability Report
+        source_urls:
+          - https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+          - https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026
+        verbatim_excerpt: "The Bank of England's Financial Stability Report released on 7 July 2026"
+      - claim: AI risk characterisation
+        kind: named_product
+        value: "growing risk"
+        source_urls:
+          - https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+        verbatim_excerpt: "artificial intelligence poses a \"growing risk\" to financial stability"
+      - claim: Prudential Regulation Authority institution
+        kind: named_institution
+        value: Prudential Regulation Authority
+        source_urls:
+          - https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+          - https://www.aol.co.uk/articles/bank-england-plans-ease-capital-104651000.html
+        verbatim_excerpt: "the Prudential Regulation Authority plans to ease capital requirements for UK lenders"
+      - claim: Deputy Governor identity
+        kind: named_person
+        value: Sarah Breeden
+        source_urls:
+          - https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+        verbatim_excerpt: "Deputy Governor Sarah Breeden signalled the need for bespoke AI regulation"
+      - claim: UK bank stocks movement date
+        kind: temporal
+        value: "7 July"
+        source_urls:
+          - https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+        verbatim_excerpt: "UK bank stocks ticked up in morning trading on 7 July"
+    quotes:
+      - speaker_name: Sarah Breeden
+        speaker_title: Deputy Governor, Bank of England
+        verbatim_en: "growing risk"
+        source_url: https://finance.yahoo.com/technology/ai/articles/bank-england-sees-growing-risks-093819932.html
+        context: Bank of England Financial Stability Report, 7 July 2026
+
+  - story_id: obr-fiscal-risks-debt-explosively
+    category: econ
+    headline_en: OBR Fiscal Risks and Sustainability Report — debt grows "explosively" without action
+    lead_url: https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+    body_source: full
+    corroborated_by:
+      - https://www.stratford-herald.com/national/uk-debt-will-grow-explosively-if-not-addressed-by-governments-warns-obr-168964/
+    locked_urls:
+      - https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+      - https://www.stratford-herald.com/national/uk-debt-will-grow-explosively-if-not-addressed-by-governments-warns-obr-168964/
+    hard_facts:
+      - claim: OBR FRS publication date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+        verbatim_excerpt: "The Office for Budget Responsibility published its Fiscal Risks and Sustainability (FRS) report on 7 July 2026"
+      - claim: Office for Budget Responsibility institution
+        kind: named_institution
+        value: Office for Budget Responsibility
+        source_urls:
+          - https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+          - https://www.stratford-herald.com/national/uk-debt-will-grow-explosively-if-not-addressed-by-governments-warns-obr-168964/
+        verbatim_excerpt: "The Office for Budget Responsibility published its Fiscal Risks and Sustainability (FRS) report"
+      - claim: Report name abbreviation
+        kind: named_product
+        value: FRS
+        source_urls:
+          - https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+        verbatim_excerpt: "Fiscal Risks and Sustainability (FRS) report"
+      - claim: Previous FRS report year
+        kind: temporal
+        value: "2023"
+        source_urls:
+          - https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+        verbatim_excerpt: "first update since 2023"
+      - claim: NATO defence spending target
+        kind: numerical_with_unit
+        value: "3% GDP"
+        source_urls:
+          - https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+        verbatim_excerpt: "defence spending under the NATO 3% GDP target"
+      - claim: Chancellor identity
+        kind: named_person
+        value: Rachel Reeves
+        source_urls:
+          - https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+        verbatim_excerpt: "Adds pressure on Chancellor Rachel Reeves ahead of an October 2026 Budget"
+      - claim: October Budget date
+        kind: temporal
+        value: "October 2026"
+        source_urls:
+          - https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+        verbatim_excerpt: "ahead of an October 2026 Budget"
+    quotes:
+      - speaker_name: Office for Budget Responsibility
+        speaker_title: UK fiscal watchdog
+        verbatim_en: "explosively"
+        source_url: https://www.gov.uk/government/publications/fiscal-risks-and-sustainability-july-2026
+        context: Fiscal Risks and Sustainability Report, 7 July 2026
+
+  - story_id: halifax-hpi-june-2026-prices-rise
+    category: econ
+    headline_en: Halifax House Price Index June 2026 — prices rise 0.2%, first gain in four months
+    lead_url: https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+    body_source: full
+    corroborated_by:
+      - https://www.mortgagefinancegazette.com/lending-news/house-prices-rise-0-2-in-june-lloyds-hpi-07-07-2026/
+    locked_urls:
+      - https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+      - https://www.mortgagefinancegazette.com/lending-news/house-prices-rise-0-2-in-june-lloyds-hpi-07-07-2026/
+    hard_facts:
+      - claim: Halifax HPI publication date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+          - https://www.mortgagefinancegazette.com/lending-news/house-prices-rise-0-2-in-june-lloyds-hpi-07-07-2026/
+        verbatim_excerpt: "The Halifax House Price Index for June 2026, published 7 July 2026"
+      - claim: Halifax House Price Index name
+        kind: named_product
+        value: Halifax House Price Index
+        source_urls:
+          - https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+          - https://www.mortgagefinancegazette.com/lending-news/house-prices-rise-0-2-in-june-lloyds-hpi-07-07-2026/
+        verbatim_excerpt: "The Halifax House Price Index for June 2026"
+      - claim: Monthly house price change June 2026
+        kind: numerical_with_unit
+        value: "0.2%"
+        source_urls:
+          - https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+          - https://www.mortgagefinancegazette.com/lending-news/house-prices-rise-0-2-in-june-lloyds-hpi-07-07-2026/
+        verbatim_excerpt: "UK average house prices rose 0.2% month-on-month in June"
+      - claim: Months of prior decline
+        kind: numerical
+        value: "three months"
+        source_urls:
+          - https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+        verbatim_excerpt: "the first monthly gain after three months of decline"
+      - claim: Annual house price growth
+        kind: numerical_with_unit
+        value: "~2.1%"
+        source_urls:
+          - https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+        verbatim_excerpt: "Annual growth ~2.1%"
+      - claim: Energy price cap change from July 1
+        kind: numerical_with_unit
+        value: "13%"
+        source_urls:
+          - https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+        verbatim_excerpt: "Energy price cap rose 13% from July 1"
+      - claim: Energy price cap change date
+        kind: temporal
+        value: "July 1"
+        source_urls:
+          - https://www.rttnews.com/3665042/uk-halifax-house-prices-rise-for-first-time-in-four-months.aspx
+        verbatim_excerpt: "Energy price cap rose 13% from July 1"
+    quotes: []
+
+  - story_id: starmer-nato-ankara-summit-2026
+    category: politics
+    headline_en: Starmer attends final NATO Ankara summit before Labour leadership handover
+    lead_url: https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+    hard_facts:
+      - claim: PM identity
+        kind: named_person
+        value: Keir Starmer
+        source_urls:
+          - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+        verbatim_excerpt: "PM Keir Starmer travelled to Ankara on 7 July 2026"
+      - claim: Summit location
+        kind: named_institution
+        value: Ankara
+        source_urls:
+          - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+        verbatim_excerpt: "PM Keir Starmer travelled to Ankara on 7 July 2026"
+      - claim: Summit travel date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+        verbatim_excerpt: "PM Keir Starmer travelled to Ankara on 7 July 2026"
+      - claim: Labour leadership successor
+        kind: named_person
+        value: Andy Burnham
+        source_urls:
+          - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+        verbatim_excerpt: "Labour leadership handover to Andy Burnham (nominations open 9 July)"
+      - claim: Labour leadership nominations opening date
+        kind: temporal
+        value: "9 July"
+        source_urls:
+          - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+        verbatim_excerpt: "nominations open 9 July"
+      - claim: NATO collective defence spending target
+        kind: numerical_with_unit
+        value: "3% GDP"
+        source_urls:
+          - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+        verbatim_excerpt: "the NATO 3% GDP spending target"
+      - claim: PA News filing timestamp
+        kind: temporal
+        value: "2026-07-07 10:03 UTC"
+        source_urls:
+          - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+        verbatim_excerpt: "PA News filed 2026-07-07 10:03 UTC"
+      - claim: NATO organisation
+        kind: named_institution
+        value: NATO
+        source_urls:
+          - https://uk.news.yahoo.com/starmer-heads-nato-summit-amid-213007333.html
+        verbatim_excerpt: "for his expected final NATO summit"
+    quotes: []
+
+  - story_id: railways-bill-lords-second-reading-gbr
+    category: politics
+    headline_en: Railways Bill — House of Lords Second Reading; Great British Railways established
+    lead_url: https://www.parliament.uk/business/news/2026/july-2026/railways-bill-house-of-lords-second-reading2/
+    body_source: full
+    corroborated_by:
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+    locked_urls:
+      - https://www.parliament.uk/business/news/2026/july-2026/railways-bill-house-of-lords-second-reading2/
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+    hard_facts:
+      - claim: Railways Bill Second Reading date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/july-2026/railways-bill-house-of-lords-second-reading2/
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+        verbatim_excerpt: "The Railways Bill received its Second Reading in the House of Lords on 7 July 2026"
+      - claim: Named institution — House of Lords
+        kind: named_institution
+        value: House of Lords
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/july-2026/railways-bill-house-of-lords-second-reading2/
+        verbatim_excerpt: "Second Reading in the House of Lords on 7 July 2026"
+      - claim: New publicly owned body
+        kind: named_institution
+        value: Great British Railways
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/july-2026/railways-bill-house-of-lords-second-reading2/
+        verbatim_excerpt: "It establishes Great British Railways (GBR) as a publicly owned body"
+      - claim: Great British Railways abbreviation
+        kind: named_product
+        value: GBR
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/july-2026/railways-bill-house-of-lords-second-reading2/
+        verbatim_excerpt: "Great British Railways (GBR) as a publicly owned body"
+      - claim: Incoming PM identity
+        kind: named_person
+        value: Andy Burnham
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/july-2026/railways-bill-house-of-lords-second-reading2/
+        verbatim_excerpt: "Incoming PM Andy Burnham is a former Transport Secretary"
+    quotes: []
+
+  - story_id: national-security-state-threats-bill-lords
+    category: politics
+    headline_en: National Security (State Threats) Bill — Commons considers Lords amendments
+    lead_url: https://www.parliament.uk/business/news/2026/july-2026/
+    body_source: full
+    corroborated_by:
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+    locked_urls:
+      - https://www.parliament.uk/business/news/2026/july-2026/
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+    hard_facts:
+      - claim: Commons consideration date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/july-2026/
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+        verbatim_excerpt: "On 7 July 2026 the House of Commons considered Lords amendments to the National Security (State Threats) Bill"
+      - claim: Named institution — House of Commons
+        kind: named_institution
+        value: House of Commons
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/july-2026/
+        verbatim_excerpt: "the House of Commons considered Lords amendments"
+      - claim: Bill name
+        kind: named_product
+        value: National Security (State Threats) Bill
+        source_urls:
+          - https://www.parliament.uk/business/news/2026/july-2026/
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+        verbatim_excerpt: "Lords amendments to the National Security (State Threats) Bill"
+    quotes: []
+
+  - story_id: uk-cyber-resilience-pledge-60-businesses
+    category: tech
+    headline_en: UK Cyber Resilience Pledge — 60+ businesses sign
+    lead_url: https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+    hard_facts:
+      - claim: Pledge launch date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+        verbatim_excerpt: "The UK government launched the Cyber Resilience Pledge on 7 July 2026"
+      - claim: Number of businesses signing at launch
+        kind: numerical_with_unit
+        value: "more than 60 businesses"
+        source_urls:
+          - https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+        verbatim_excerpt: "with more than 60 businesses signing at launch"
+      - claim: Administering department
+        kind: named_institution
+        value: DSIT
+        source_urls:
+          - https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+        verbatim_excerpt: "Administered through DSIT"
+      - claim: Science and Technology Secretary identity
+        kind: named_person
+        value: Liz Kendall
+        source_urls:
+          - https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+        verbatim_excerpt: "Science and Technology Secretary Liz Kendall announced it ahead of the Cyber Security and Resilience Act"
+      - claim: Related legislation
+        kind: named_product
+        value: Cyber Security and Resilience Act
+        source_urls:
+          - https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+        verbatim_excerpt: "ahead of the Cyber Security and Resilience Act"
+      - claim: Named product — Cyber Resilience Pledge
+        kind: named_product
+        value: Cyber Resilience Pledge
+        source_urls:
+          - https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+        verbatim_excerpt: "The UK government launched the Cyber Resilience Pledge on 7 July 2026"
+    quotes: []
+
+  - story_id: ensilica-aim-retail-share-offer-15m
+    category: tech
+    headline_en: EnSilica (AIM: ENSI) retail share offer as part of ~£15m fundraise
+    lead_url: https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+    body_source: full
+    corroborated_by:
+      - https://www.proactiveinvestors.co.uk/companies/news/1095028/ensilica-raises-14m-to-support-expansion-1095028.html
+    locked_urls:
+      - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+      - https://www.proactiveinvestors.co.uk/companies/news/1095028/ensilica-raises-14m-to-support-expansion-1095028.html
+    hard_facts:
+      - claim: EnSilica company name
+        kind: named_institution
+        value: EnSilica plc
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+          - https://www.proactiveinvestors.co.uk/companies/news/1095028/ensilica-raises-14m-to-support-expansion-1095028.html
+        verbatim_excerpt: "EnSilica plc (AIM: ENSI), the Oxford-HQ fabless ASIC chipmaker"
+      - claim: AIM ticker
+        kind: named_product
+        value: "AIM: ENSI"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "EnSilica plc (AIM: ENSI)"
+      - claim: Retail offer open date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "opened a retail share offer on the morning of 7 July 2026"
+      - claim: Retail offer maximum raise
+        kind: numerical_with_unit
+        value: "up to £1 million"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "to raise up to £1 million"
+      - claim: Total equity fundraise size
+        kind: numerical_with_unit
+        value: "up to ~£15 million gross"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+          - https://www.proactiveinvestors.co.uk/companies/news/1095028/ensilica-raises-14m-to-support-expansion-1095028.html
+        verbatim_excerpt: "part of a broader equity fundraise of up to ~£15 million gross"
+      - claim: Retail bookbuild open time
+        kind: temporal
+        value: "7:05 a.m. 7 July"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "Retail bookbuild opened at 7:05 a.m. 7 July at 91 pence/share"
+      - claim: Retail offer price per share
+        kind: numerical_with_unit
+        value: "91 pence/share"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "Retail bookbuild opened at 7:05 a.m. 7 July at 91 pence/share"
+      - claim: Maximum shares in retail offer
+        kind: numerical
+        value: "1,098,901 shares"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "up to 1,098,901 shares"
+      - claim: Institutional placing closing date
+        kind: temporal
+        value: "6 July"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "The institutional placing/subscription closed oversubscribed on 6 July raising ~£14 million"
+      - claim: Institutional placing raised
+        kind: numerical_with_unit
+        value: "~£14 million"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+          - https://www.proactiveinvestors.co.uk/companies/news/1095028/ensilica-raises-14m-to-support-expansion-1095028.html
+        verbatim_excerpt: "raising ~£14 million"
+      - claim: Institutional placing shares count
+        kind: numerical
+        value: "15,381,315 placing shares"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "15,381,315 placing shares"
+      - claim: CFO identity
+        kind: named_person
+        value: Kristoff Rademan
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "CFO Kristoff Rademan subscribed for 3,300 shares"
+      - claim: CFO shares subscribed
+        kind: numerical
+        value: "3,300 shares"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "CFO Kristoff Rademan subscribed for 3,300 shares"
+      - claim: First tranche size
+        kind: numerical_with_unit
+        value: "~£10.73m"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "first (~£10.73m) trading on AIM ~10 July"
+      - claim: First tranche AIM trading date
+        kind: temporal
+        value: "~10 July"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "first (~£10.73m) trading on AIM ~10 July"
+      - claim: Second tranche size
+        kind: numerical_with_unit
+        value: "~£3.27m"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "second (~£3.27m) conditional on a general meeting ~27 July"
+      - claim: Second tranche general meeting date
+        kind: temporal
+        value: "~27 July"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "conditional on a general meeting ~27 July"
+      - claim: Substantial shareholder institution
+        kind: named_institution
+        value: Esterhuyzen Limited
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "Substantial shareholder Esterhuyzen Limited subscribed for 6 million shares"
+      - claim: Esterhuyzen shares subscribed
+        kind: numerical_with_unit
+        value: "6 million shares"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "Esterhuyzen Limited subscribed for 6 million shares"
+      - claim: Esterhuyzen new stake percentage
+        kind: numerical_with_unit
+        value: "~16.58%"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "raising its stake to ~16.58%"
+      - claim: CEO identity
+        kind: named_person
+        value: Ian Lankshear
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "CEO Ian Lankshear said the company had \"never had a stronger pipeline of opportunities\""
+      - claim: User terminal contract value potential
+        kind: numerical_with_unit
+        value: ">US$50m"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "a user terminal contract potentially >US$50m"
+      - claim: Payload contract value
+        kind: numerical_with_unit
+        value: "US$3.8m"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "a US$3.8m payload contract"
+      - claim: Prior March 2026 raise
+        kind: numerical_with_unit
+        value: "£10m"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "a £10m raise in March 2026"
+      - claim: Prior raise date
+        kind: temporal
+        value: "March 2026"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "a £10m raise in March 2026"
+      - claim: Lifetime supply revenues
+        kind: numerical_with_unit
+        value: "US$375m"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "Lifetime supply revenues US$375m"
+      - claim: Pipeline value
+        kind: numerical_with_unit
+        value: "US$600m"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "pipeline US$600m"
+      - claim: UK Space Agency award amount
+        kind: numerical_with_unit
+        value: "£10.38m"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "UK Space Agency previously awarded EnSilica £10.38m for satellite broadband terminal chips"
+      - claim: UK Space Agency institution
+        kind: named_institution
+        value: UK Space Agency
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "UK Space Agency previously awarded EnSilica £10.38m"
+      - claim: FY end date
+        kind: temporal
+        value: "May 2026"
+        source_urls:
+          - https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        verbatim_excerpt: "Follows a record FY ended May 2026"
+    quotes:
+      - speaker_name: Ian Lankshear
+        speaker_title: CEO, EnSilica plc
+        verbatim_en: "never had a stronger pipeline of opportunities"
+        source_url: https://www.investegate.co.uk/announcement/rns/ensilica--ensi/retail-offer-to-raise-up-to-1-million-/9655044
+        context: EnSilica retail share offer announcement, 7 July 2026
+
+  - story_id: justice-committee-immigration-asylum-bill
+    category: society
+    headline_en: Justice Committee — Immigration and Asylum Bill oral evidence on appeals
+    lead_url: https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+    body_source: full
+    corroborated_by:
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+    locked_urls:
+      - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+    hard_facts:
+      - claim: Oral evidence session date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+        verbatim_excerpt: "The Commons Justice Committee held oral evidence on 7 July 2026"
+      - claim: Oral evidence session time
+        kind: temporal
+        value: "14:30"
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "7 July 2026 (14:30, Grimond Room, Portcullis House)"
+      - claim: Session venue
+        kind: named_institution
+        value: Grimond Room, Portcullis House
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "(14:30, Grimond Room, Portcullis House)"
+      - claim: Named committee
+        kind: named_institution
+        value: Commons Justice Committee
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "The Commons Justice Committee held oral evidence"
+      - claim: Bill name
+        kind: named_product
+        value: Immigration and Asylum Bill
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+        verbatim_excerpt: "on the Immigration and Asylum Bill's appeals provisions"
+      - claim: New appeals body
+        kind: named_institution
+        value: Independent Immigration Appeals Authority
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "replacing it with a new Independent Immigration Appeals Authority (IIAA)"
+      - claim: IIAA abbreviation
+        kind: named_product
+        value: IIAA
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Independent Immigration Appeals Authority (IIAA)"
+      - claim: Witness — Nadine Finch
+        kind: named_person
+        value: Nadine Finch
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Witnesses: Nadine Finch (former Upper Tribunal judge)"
+      - claim: Witness — Professor Joe Tomlinson
+        kind: named_person
+        value: Joe Tomlinson
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Professor Joe Tomlinson (Professor of Administrative Law, King's College London)"
+      - claim: Witness — Alison Stanley
+        kind: named_person
+        value: Alison Stanley
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Alison Stanley (Senior Consultant, Bindmans LLP, for The Law Society)"
+      - claim: King's College London institution
+        kind: named_institution
+        value: King's College London
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Professor of Administrative Law, King's College London"
+      - claim: Bindmans LLP institution
+        kind: named_institution
+        value: Bindmans LLP
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Senior Consultant, Bindmans LLP, for The Law Society"
+      - claim: The Law Society institution
+        kind: named_institution
+        value: The Law Society
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Bindmans LLP, for The Law Society"
+      - claim: Bill introduction date
+        kind: temporal
+        value: "30 June 2026"
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Bill introduced 30 June 2026"
+      - claim: Detected illegal entries year to March 2026
+        kind: numerical_with_unit
+        value: "44,000 detected illegal entries"
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Year to March 2026: 44,000 detected illegal entries, 39,000 by small boat"
+      - claim: Small boat illegal entries
+        kind: numerical
+        value: "39,000"
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "39,000 by small boat"
+      - claim: Illegal entries reference period
+        kind: temporal
+        value: "Year to March 2026"
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Year to March 2026: 44,000 detected illegal entries"
+      - claim: Commons Second Reading date
+        kind: temporal
+        value: "13 July 2026"
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Commons Second Reading scheduled 13 July 2026"
+      - claim: Bar Council institution
+        kind: named_institution
+        value: Bar Council
+        source_urls:
+          - https://committees.parliament.uk/event/27812/formal-meeting-oral-evidence-session/
+        verbatim_excerpt: "Law Society and Bar Council raised independence concerns"
+    quotes: []
+
+  - story_id: health-bill-pbc-day-7-scrutiny
+    category: society
+    headline_en: Health Bill Public Bill Committee — Day 7 clause-by-clause scrutiny
+    lead_url: https://bills.parliament.uk/bills/4124
+    body_source: full
+    corroborated_by:
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+    locked_urls:
+      - https://bills.parliament.uk/bills/4124
+      - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+    hard_facts:
+      - claim: Committee meeting date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://bills.parliament.uk/bills/4124
+          - https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026
+        verbatim_excerpt: "The Health Bill Public Bill Committee met on 7 July 2026 for its seventh day"
+      - claim: Morning session time
+        kind: temporal
+        value: "09:25"
+        source_urls:
+          - https://bills.parliament.uk/bills/4124
+        verbatim_excerpt: "seventh day of clause-by-clause scrutiny (09:25 and 14:00)"
+      - claim: Afternoon session time
+        kind: temporal
+        value: "14:00"
+        source_urls:
+          - https://bills.parliament.uk/bills/4124
+        verbatim_excerpt: "clause-by-clause scrutiny (09:25 and 14:00)"
+      - claim: Committee day number
+        kind: numerical
+        value: "seventh day"
+        source_urls:
+          - https://bills.parliament.uk/bills/4124
+        verbatim_excerpt: "for its seventh day of clause-by-clause scrutiny"
+      - claim: Bill name
+        kind: named_product
+        value: Health Bill 2026-27
+        source_urls:
+          - https://bills.parliament.uk/bills/4124
+        verbatim_excerpt: "The Health Bill 2026-27 establishes a reformed integrated care framework"
+      - claim: NHS England institution
+        kind: named_institution
+        value: NHS England
+        source_urls:
+          - https://bills.parliament.uk/bills/4124
+        verbatim_excerpt: "restructures NHS England's relationship with trusts"
+      - claim: Benchmark reform reference act
+        kind: named_product
+        value: "2012 Health and Social Care Act"
+        source_urls:
+          - https://bills.parliament.uk/bills/4124
+        verbatim_excerpt: "Most significant NHS reform since the 2012 Health and Social Care Act"
+    quotes: []
+
+  - story_id: dcc-kkr-ecp-5-7bn-takeover-opposition
+    category: ipo_ma
+    headline_en: DCC takeover — KKR/ECP £5.7bn bid faces shareholder opposition; 8 July deadline
+    lead_url: https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+    hard_facts:
+      - claim: Irish Times report date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "The Irish Times reported on 7 July 2026"
+      - claim: DCC company
+        kind: named_institution
+        value: DCC plc
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "DCC plc, the Dublin-HQ but FTSE 250-listed energy and technology distribution conglomerate"
+      - claim: DCC listing index
+        kind: named_product
+        value: FTSE 250
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "FTSE 250-listed energy and technology distribution conglomerate"
+      - claim: Takeover bid value
+        kind: numerical_with_unit
+        value: "£5.7bn"
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "its contested £5.7bn takeover by KKR and ECP"
+      - claim: Acquirer — KKR
+        kind: named_institution
+        value: KKR
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "£5.7bn takeover by KKR and ECP (Energy Capital Partners)"
+      - claim: Acquirer — Energy Capital Partners
+        kind: named_institution
+        value: Energy Capital Partners
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "KKR and ECP (Energy Capital Partners)"
+      - claim: ECP abbreviation
+        kind: named_product
+        value: ECP
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "KKR and ECP (Energy Capital Partners)"
+      - claim: Shareholder vote deadline
+        kind: temporal
+        value: "8 July 2026"
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "the key shareholder vote deadline set for 8 July 2026"
+      - claim: London Stock Exchange institution
+        kind: named_institution
+        value: LSE
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "Completion would delist DCC from the LSE"
+      - claim: Irish Times publication
+        kind: named_institution
+        value: Irish Times
+        source_urls:
+          - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
+        verbatim_excerpt: "The Irish Times reported on 7 July 2026"
+    quotes: []
