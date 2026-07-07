@@ -280,5 +280,6 @@ Belgian MEPs drove the initiative, which was signed by lawmakers from the Europe
 
 [36] Euronews. (2026, July 7). European Parliament to ask for probe into FIFA boss Infantino over Balogun red card. Euronews. https://www.euronews.com/my-europe/2026/07/07/european-parliament-to-ask-for-probe-into-fifa-boss-infantino-over-balogun-red-card
 [37] Fortune. (2026, July 7). Trump, FIFA, Folarin Balogun, World Cup red card ban, Belgium, UEFA political neutrality, advertisers. Fortune. https://fortune.com/2026/07/07/trump-fifa-folarin-balogun-world-cup-red-card-ban-belgium-uefa-political-neutrality-advertisers/
+[38] The Hill. (2026, July 6). Trump didn't know what a red card was before Balogun incident. The Hill. https://thehill.com/policy/sports-gaming/5955134-balogun-red-card-appeal-trump-fifa-world-cup/
 
 ---
