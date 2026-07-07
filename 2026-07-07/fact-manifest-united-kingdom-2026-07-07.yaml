@@ -2,7 +2,7 @@ version: 1
 generated_at: "2026-07-07T10:00:00Z"
 country: United Kingdom
 date: "2026-07-07"
-total_stories: 11
+total_stories: 12
 stories:
   - story_id: boe-financial-stability-report-ai-risk
     category: econ
@@ -827,4 +827,74 @@ stories:
         source_urls:
           - https://www.irishtimes.com/business/2026/07/07/with-shareholders-lining-up-to-oppose-its-takeover-this-is-an-important-week-for-dcc/
         verbatim_excerpt: "The Irish Times reported on 7 July 2026"
+    quotes: []
+  - story_id: july-7-london-bombings-21st-anniversary-memorial
+    category: other
+    headline_en: 7/7 London bombings 21st anniversary memorial service
+    lead_url: https://www.london.gov.uk/events/77-memorial-service-2026
+    body_source: full
+    corroborated_by: []
+    locked_urls:
+      - https://www.london.gov.uk/events/77-memorial-service-2026
+    hard_facts:
+      - claim: Memorial anniversary
+        kind: numerical_with_unit
+        value: "21st anniversary"
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "The 21st anniversary memorial service for the 7 July 2005 London bombings"
+      - claim: Memorial service date
+        kind: temporal
+        value: "7 July 2026"
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "was held on 7 July 2026 at Hyde Park"
+      - claim: Original attack date
+        kind: temporal
+        value: "7 July 2005"
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "the 7 July 2005 London bombings"
+      - claim: People killed
+        kind: numerical_with_unit
+        value: "52 people"
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "The 2005 attacks killed 52 people"
+      - claim: People injured
+        kind: numerical_with_unit
+        value: "over 700"
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "and injured over 700"
+      - claim: Attack description
+        kind: named_product
+        value: coordinated suicide bombings on the Underground and a bus
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "coordinated suicide bombings on the Underground and a bus"
+      - claim: Memorial venue
+        kind: named_institution
+        value: Hyde Park
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "was held on 7 July 2026 at Hyde Park"
+      - claim: Organiser
+        kind: named_institution
+        value: Greater London Authority
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "organised by the GLA with survivors' groups and the 7/7 Memorial Trust"
+      - claim: Memorial trust
+        kind: named_institution
+        value: 7/7 Memorial Trust
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "the 7/7 Memorial Trust"
+      - claim: Minute of silence time
+        kind: temporal
+        value: "11:58"
+        source_urls:
+          - https://www.london.gov.uk/events/77-memorial-service-2026
+        verbatim_excerpt: "includes a minute's silence at 11:58"
     quotes: []
